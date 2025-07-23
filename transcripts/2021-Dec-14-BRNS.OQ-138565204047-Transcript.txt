@@ -1,0 +1,277 @@
+
+
+Refinitiv StreetEvents Event Transcript
+E D I T E D   V E R S I O N
+
+Avidea Technologies, Vaccitech plc - M&amp;A Call
+DECEMBER 14, 2021 / 1:30PM GMT
+
+================================================================================
+Corporate Participants
+================================================================================
+
+ * Thomas George Evans
+   Vaccitech plc - Chief Scientific Officer
+ * Geoffrey Lynn
+    - 
+ * Georgy Egorov
+   Vaccitech plc - CFO
+ * William J. Enright
+   Vaccitech plc - CEO & Board Director
+ * Unidentified Company Representative
+    - 
+
+================================================================================
+Conference Call Participiants
+================================================================================
+
+ * Tsan-Yu Hsieh
+   William Blair & Company L.L.C., Research Division - Senior Research Analyst
+ * Carter Lewis Gould
+   Barclays Bank PLC, Research Division - Senior Analyst
+ * Avatar I. Jones
+   Morgan Stanley, Research Division - Research Associate
+ * Yi Chen
+   H.C. Wainwright & Co, LLC, Research Division - MD of Equity Research & Senior Healthcare Analyst
+
+================================================================================
+Presentation
+--------------------------------------------------------------------------------
+Operator    [1]
+--------------------------------------------------------------------------------
+Good day, and welcome to today's Vaccitech corporate update. (Operator Instructions)  I would now like to hand the conference over to your first speaker today, Bill Enright. Thank you. Please go ahead, sir.
+
+--------------------------------------------------------------------------------
+William J. Enright,  Vaccitech plc - CEO & Board Director    [2]
+--------------------------------------------------------------------------------
+Thank you very much, and thanks, everybody, for joining us this morning. This is really a very transformational event for Vaccitech and glad you could join us to learn more about it. I will be going through the slides that you have, I believe, in front of you. First slide is a word from our lawyers as a publicly listed company. 
+Need to remind you that there may be some forward-looking statements. You can find out some additional information either on our website or at sec.gov. 
+So on to Slide 3. Really, as I mentioned, this is a transformational event for at Vaccitech. The acquisition of Avidea is -- really provides us with a number of key things. We really feel that this is a synergistic acquisition. There's lots of complementarity between the 2 companies and our technology platforms and that will allow us to do things either in joint. So using some technologies from Avidea plus some technologies from Vaccitech or with additional programs that are only based on the SNAPvax or other technologies that Avidea brings to the table. 
+It really also allows us to bring a top-notch group of scientists that have some unique expertise and expertise that doesn't currently reside within Vaccitech. And on the chemistry side and on the T cell side, immunology side as well. They have a number of very late-stage preclinical programs. 
+They're very well prepared from a GMP perspective with lots of preclinical data across a number of different areas. And so it gives us a breadth of additional programs that we can add to our suite and continue to rapidly grow the company. And it really gives us additional R&D engine to continue to develop the pipeline as well. 
+So ideally here, what we're trying to do is really strengthen Vaccitech as a leader in T cell approaches. So not just with the CD8 positive T cells that where most of our current products focus on the therapeutic side but expands that, it really feeds the pipeline and it establishes a U.S. presence as well. 
+So Avidea being Baltimore based in Maryland, gives us that U.S. footprint, and that will allow us to attract additional talent in addition to the U.K. and European as well. And I think as a manageable impact on our runway from a cash perspective, as you'll see.
+Turning to Slide 4. This -- the acquisition really aligns well with our current priorities. From a company perspective, what we're really trying to do is build on the translational expertise that we have in both manufacturing and clinical development looking at continuing to build the pipeline, not only with our current viral-based vectors. We've always said that we are technology agnostic. We're using this ChAdOx-MVA prime-boost approach because it's the approach that's working the best. 
+But this also gives us an opportunity to branch out into a new platform and it kind of leverages our expertise on the heterologous prime-boost side with a different type of platform. Really helps position us to be the global leader in immunotherapies and vaccines, particularly that leverage the T cell immunology with the goal of really helping improve billions of lives. 
+So the key value drivers that this acquisition brings. I've touched on some of these already, really maintaining the leadership position that we have, deepens our current expertise, mitigate some of the risks to our current technologies outside with a different platform and provides opportunity both dilutively and nondilutively for additional funding as well as helps us on our path to rapidly add new programs into the pipeline. So with that, I'm going to turn it over to Geoff Lynn, one of the co-founders of Avidea, who will be joining us in a senior science role moving forward. Geoff?
+
+--------------------------------------------------------------------------------
+Geoffrey Lynn,   -     [3]
+--------------------------------------------------------------------------------
+Thank you, Bill. Hello, everyone. This is Geoffrey Lynn, former CEO of Avidea Technologies now purchased by Vaccitech (inaudible) synthetic immunotherapies R&D. 
+I'm going to talk through slides introduce Avidea and our platform technologies, starting on Slide 5. I'll try to keep this high level, but then also highlight how the -- our technology platform is differentiated and can help build value.
+As you know -- as you may know, while most licensed vaccine technologies for infectious diseases, primarily rely on antibodies for efficacy  (technical difficulty) T cells for cancer, and regulatory T cells for autoimmunity. It was this need that motivated us to spin out Avidea technologies based on our work from the vaccine research center at NIH in 2016 with the goal of developing vaccines that can be programmed to precisely control T cell and antibody induction. 
+Since our inception, we've raised nearly $8 million in financing with more than $20 million in-kind support through partnerships, allowing us to grow to a team of 14 key immunology and nanotechnology experts developing a pipeline of immunotherapies based on 2 distinct platform technologies, referred to as SNAPvax and Syntholytic, which are our vaccine and intravenous drug delivery platforms, respectively.
+Key differentiators of our platform technologies that are really highlighted on the right side of Slide 5 are that they are synthetic and programmable, meaning that we can exert precise control over formulations of nanoparticles delivering multiple antigens and/or immunomodulators allowing for tighter control of our immune responses needed for diverse applications ranging from cancer to autoimmunity. 
+For both platforms, we have developed cGMP manufacturing capabilities and demonstrated safety and efficacy in mice and primates, establishing a key preclinical proof-of-concept data. While we are developing candidates based on both platforms, our most advanced candidates are based on our SNAPvax technology which I'll describe in greater detail on Slide 6. 
+The SNAPvax technology was purpose-built to address the need for generating T cell and/or antibody immunity against any antigen. For example, a current challenge is that expression systems such as RNA and viruses may not be able to target post-translationally modified antigens such as glycopeptides well represented on tumor cell surfaces and RNA may be limited for inducing T cell immunity, either for cancer and autoimmunity applications.
+Synthetic peptide vaccines provide the advantages that they can be used to target any antigen that can be produced synthetically, including various post-translationally modified peptide antigens and combined with specific immunomodulators for inducing T cell immunity. For peptide vaccines to be effective for inducing T cell immunity, peptide antigens must be co-delivered with immunomodulators in nanoparticles.
+Those are the key ingredients that are needed to target immune cells of prime T cell immunity. However, existing nanoparticle technologies often suffer from manufacturing challenges and fail to ensure reliable formulations with multiple antigens and immunomodulators. To address this challenge, Avidea developed the SNAPvax technology, which leverages proprietary self-assembly technology to co-deliver antigens and immunomodulators and nanoparticles, a precise programmable composition, thereby overcoming a major historic manufacturing challenge.
+The resulting nanoparticle compositions are of an optimal size and composition for targeting immune cells of prime T cell immunity. Moreover, owing to the modular design of SNAPvax, we can either co-deliver an immunostimulant such as a toll-like receptor agonist for inducing cytotoxic T cell responses for cancer treatment or co-deliver an immunosuppressive agents, such as an mTOR inhibitor for inducing regulatory T cells for tolerance applications, including treatment of autoimmune diseases. 
+In this regard, we've established compelling proof of concept of SNAPvax for both oncology and tolerance applications summarized on Slide 7. As reported in recent cover articles in Nature Biotechnology and Nature Immunology, we've demonstrated that SNAPvax as a cancer vaccine or preclinical studies can be used to broadly target tumor antigens, including tumor-associated self-antigens and viral antigens and tumor-specific neoantigens. 
+And then the platform induces about 5- to 10-fold greater breadth of T cell responses compared to published data. Other differentiators established in preclinical studies are that SNAPvax can be dosed by the intravenous route to not only prime and expand T cell responses, alone or in combination with Vaccitech's existing platforms, but also reverse tumor suppressive microenvironments owing to the small size of the SNAPvax particles that may be able to cross leaky tumor vasculature and release the immunostimulants in the tumor microenvironment. As a synthetic peptide vaccine, SNAPvax can also be repeatedly administered to maintain responses. 
+Unlike viral vectors and expression systems that are inherently proinflammatory may be effective for cancer and infectious diseases, those platforms may not be ideal for tolerance applications. However, SNAPvax is a peptide vaccine that is largely immunologically inert.
+This provides the advantage the immune response can be programmed based on the co-delivered immunomodulator allowing for either a pro inflammatory response to drive cytotoxic T cells for cancer or a suppressive immune response to drive induction of regulatory T cells. As shown in the figures, we've now demonstrated in animal models of experimental autoimmune encephalomyelitis, which is an animal model representing multiple sclerosis that SNAPvax as a tolerance vaccine can completely prevent disease through induction of regulatory T cells. 
+Based on this compelling proof of concept, we may advance a candidate for treating multiple sclerosis, but I believe that the unique advantages of the SNAPvax may make it well suited for a range of indications and tolerance spanning allergies, autoimmunity and transplant that we are currently evaluating. 
+Moving to -- okay. Moving to Slide 8. I've discussed key applications to SNAPvax to the cancer vaccine tolerance vaccine abbreviated CV and TV, but also want to stress that we have generated compelling proof of concept in collaboration with the VRC at the NIH, the SNAPvax antibody vaccine SNAPvax AV maybe -- may also be an effective platform for focusing antibody responses against specific targets for infectious diseases or even for targeting antibodies against invariant proteins involved in neurodegeneration. Also, given the immense interest in RNA platforms, our team is developing a platform for RNA delivery that aims to address the need for improved induction of T cell immunity and safety by the intravenous route. 
+Finally, as an orthogonal approach treating cancer and chronic infectious diseases, our team has developed a platform referred to as Syntholytic, which is designed for tissue-specific accumulation and drug release. For example, within oncology, a candidate Syntholytic may be used for delivering small molecule toll-like receptors and agonists to tumors by the IV route, as immunes for reversing tumor suppression and priming T cell responses against antigens present within the tumor, which can be used alone or in combination with other immunotherapies, including vaccine. 
+In terms of combinations, as shown on Slide 9, we've already generated compelling proof of concept in animal models that SNAPvax can be used in combination with Vaccitech's ChAdOx's platform to induce higher magnitude T cell responses and improved survival of treated animals as compared with either SNAPvax or ChAdOx used alone. We also have data suggesting that Syntholytic may be used in combination with Vaccitech's existing viral vaccine platforms to augment T cell function by, for example, inducing late immune activation within tumors or sites of chronic infection to promote T cell recruitment and reverse the suppressive microenvironment in those tissues.
+Moving to Slide 10. Combining our complementary technologies and teams creates exciting new possibilities. Within infectious diseases in cancer, Avidea's SNAPvax platform expands the pool of potential targets including post-translational modification, glycopeptide and enable synergistic combinations, thereby increasing probability of success in highly competitive areas. Within the tolerance space, the ability of the Avidea's SNAPvax platform producing regulatory T cells opens a whole new therapeutic area where we're highly differentiated. Together, these complementary platforms, coupled with a robust established R&D engine will enable our combined teams to launch 2 to 3 novel and differentiated candidates per year, which each represent large market opportunities. I'll now turn it over to Bill to describe the pipeline.
+
+--------------------------------------------------------------------------------
+William J. Enright,  Vaccitech plc - CEO & Board Director    [4]
+--------------------------------------------------------------------------------
+Thanks, Geoff, and thanks for walking through that. It's really exciting technology platforms, as you can see. And that leads us into Slide 11, which is our near-term pipeline. And so you can see we're continuing to advance the current programs that we have been focused on, our HBV therapeutic. Obviously, we had some pretty exciting data that we announced last week. With that program in the Phase I/II study that's ongoing and demonstrating that we saw a promising reduction in surface antigen at the 3-month time point in a number of patients in the -- in cohort 3, where we had ChAdOx plus MVA with the nivolumab at the same time as the boost. 
+And then we also had interesting data with just ChAdOx and MVA alone. So the focus there will be finishing up that Phase II clinical study and focusing on those 2 cohorts where we're seeing activity. HPV therapeutic again, moving forward, interim efficacy data still planned for the third quarter of 2022. The enrollment there seems to be picking up now and across the sites. 
+We've added Estonia and 4 sites in Estonia. So to help with enrollment. And so that will continue to progress, I believe, and keep this program on track as well. The prostate cancer program, we will have back in the clinic midyear next year. Again, the this is building on the promising Phase IIa data that we had using the 5T4 cell antigen. 
+And this new construct, VTP-850 will include 3 additional antigens to broaden the potential response. And then finally, on the oncology side, VTP-600. We anticipate -- we still anticipate having the first patient dosed by the end of this year. So likely will be in the next few days, and we'll announce that shortly thereafter.
+On the Avidea side, the new programs that will add to the Vaccitech pipeline, we do anticipate bringing an oncology program yet to be identified. We've got a number of things that we're looking at here and prioritizing that are possibilities. But these are, as we said, late-stage preclinical programs. So we expect to be able to push these into the clinic within the next 12 to 18 months. 
+And similarly, as Geoff alluded to, there is an opportunity here on the autoimmune side as well. Geoff mentioned MS and a number of other things. And so again, we are prioritizing those programs based on the available preclinical data, and we'll announce one of those programs moving into the clinic as well, again, in the 12- to 18-month time frame. So we need to prioritize and then move those through manufacturing, but we will push to add at least 2 programs into the clinic on an annual basis for the next few years.
+Again, the focus here is on the therapeutic side. We still have the prophylactic programs moving forward, the AZD1222. AstraZeneca did announce in their third quarter earnings call that they've actually initiated commercial pricing and have commercial contracts now. So that will allow us to likely get royalties from that program starting in 2022. And then we've got the ongoing programs in MERS and Zoster that are partnered with -- in part with CEPI and Janssen to move that program into Phase II on the MERS program and with CanSinoBIO in China on the Zoster program. 
+So exciting time for the company. We do intend to keep a fairly rapid pace of growth moving forward, and we'll continue to add these new programs along the way. Let me turn this over to Tom Evans to talk about this next Slide 12.
+
+--------------------------------------------------------------------------------
+Thomas George Evans,  Vaccitech plc - Chief Scientific Officer    [5]
+--------------------------------------------------------------------------------
+Yes. Thanks very much, Bill. So as you can see, this basically opens up a variety of different approaches for us, including the use of our next generation of viral vectors, which have now been validated in our AZD program. The SNAPvax programs that Geoff has talked about, which we will expand both our indications looking at CD8 positive T-cell induction, but importantly, allow us to get over into the regulatory T cell side, which was not approachable with our viral vector system. And then importantly (technical difficulty) on looking at a variety of RNA platforms. 
+And Geoff's team has some good expertise on the formulation of nucleic acids, both DNA and RNA, which we can now move forward in a much more concerted fashion. So this really opens up our R&D capabilities, allows us to go from being more of a translational program to having a greater R&D driver engine, as Geoff mentioned in the first slide. So we're excited by these new capabilities, and we will build out our research teams, both in the U.S. and in Oxford to help drive our overall pipeline. 
+So I'll turn it over to Georgy to talk about the transaction overview on Slide 13.
+
+--------------------------------------------------------------------------------
+Georgy Egorov,  Vaccitech plc - CFO    [6]
+--------------------------------------------------------------------------------
+Thank you, Tom. As we announced yesterday, the consideration for the transaction was $40 million, excluding debt for cash. So the consideration was split around $12.5 million of cash and $27.5 million of equity of Vaccitech. We have also agreed to pay certain milestones upon reaching certain clinical points or commercialization points to the shareholders. And obviously, at this point, we're reaching a pretty exciting stage of the company as well. 
+So there's no financing conditions attached to this transaction, to the funding of the transaction and we're funding it from the available cash. Post this transaction, we've got around $270 million of cash, which provides us more than enough of cash into 2024 on the most conservative scenario of no revenue with addition of the revenue, which we expect either from the AZD1222 transaction or any other commercialization opportunities we have with more advanced programs, obviously, this cash runway will expand proportionally. 
+Echoing what my colleague said, we will add new programs to the existing pipeline with at least 2 expect to go into the clinic within the next 12 to 18 months. And therefore, we're speeding up our growth and development, and we'll be investing around $45 million to $50 million into R&D in 2022, which is always a step-up from our current base.
+And lastly, the transaction closed on the tenth of December, and it was enormously approved by both boards of the companies. Let me pause over here, and we're happy to take any questions.
+
+
+================================================================================
+Questions and Answers
+--------------------------------------------------------------------------------
+Operator    [1]
+--------------------------------------------------------------------------------
+(Operator Instructions) And the first question comes from the line of Andy Hsieh from Blair -- I mean William Blair.
+
+--------------------------------------------------------------------------------
+Tsan-Yu Hsieh,  William Blair & Company L.L.C., Research Division - Senior Research Analyst    [2]
+--------------------------------------------------------------------------------
+Great. Well, congratulations to the Vaccitech team. It's really, like you said, transformative a deal that would really kind of set the growth pace in the next couple of years. So really happy to see that. So I have a couple of kind of follow-up questions. following kind of yesterday's conversation. 
+So one is Geoff, I think you mentioned about the glycopeptides. Just curious about the manufacturing route for that. Would that be like a chemoenzymatic route? And also, we've seen more and more discussions about vaccine through the mucosal route. I'm just curious about the application of the SNAPvax platform, whether that can be applied there or it's mostly restricted to the IV route?
+
+--------------------------------------------------------------------------------
+Geoffrey Lynn,   -     [3]
+--------------------------------------------------------------------------------
+Yes. Great question. This is Geoff speaking. And Tom, if you want to add anything, please do. So first question is about manufacturing glycopeptide vaccines and other post-translationally modified antigens. These can all be produced by synthetic chemical means. We've currently demonstrated proof of concept, including published data now showing that we can manufacture glycopeptide-based vaccines for HIV. That was work that was done in collaboration with Duke and Vaccine Research Center. 
+Since that time, we've branched out and demonstrated that we can manufacture and scale up vaccines targeting other post-translational modification. So this opens up, we believe, a broad range of potential antigen targets that may be critical for a number of diseases, including cancer, where, for example, you have a lot of tumor-specific glycans represent on the tumor cell surface representing excellent potential targets. With respect to the second question was ...
+
+--------------------------------------------------------------------------------
+Unidentified Company Representative,   -     [4]
+--------------------------------------------------------------------------------
+Mucosal route administration.
+
+--------------------------------------------------------------------------------
+Geoffrey Lynn,   -     [5]
+--------------------------------------------------------------------------------
+Right, Mucosal route administration. This isn't something we prioritized as we've been primarily focused in cancer applications. We focus there on really enabling intravenous administration, which is a major challenge given that you're going by the IV route with a pro-inflammatory formulation. But given that our team is -- I'd say I have a lot of experience in the vaccine space applied towards translating for different routes. This is an area that is going to be a focus for an investigation on the R&D side and believe it's something that we'll be capable of achieving should it warrant further development.
+
+--------------------------------------------------------------------------------
+Thomas George Evans,  Vaccitech plc - Chief Scientific Officer    [6]
+--------------------------------------------------------------------------------
+Yes. I'll just add to that. This is Tom Evans. The concept of using what's called prime target where you prime in by an IM route or ID route and then you basically pull those T cells in by focusing to the mucosal service of choice, whether it's the cervix or the vagina or the lung is a hot area of research right now in the vaccine space. And certainly, we will be focusing on generating data in that area to see whether we should be moving in that direction. It's an area of interest, but not an area that we have developed any data to date and although there is quite a bit of data using both the adenoviral and the poxviral platforms by mucosal routes.
+
+--------------------------------------------------------------------------------
+Tsan-Yu Hsieh,  William Blair & Company L.L.C., Research Division - Senior Research Analyst    [7]
+--------------------------------------------------------------------------------
+Got it. And then last question, if I may. Bill, I think you mentioned about your kind of high-level strategies in terms of partnering out compounds. Just perhaps following this transaction, did that alter that strategy a little bit? So maybe share with you your views on potentially partnering your pipeline assets?
+
+--------------------------------------------------------------------------------
+William J. Enright,  Vaccitech plc - CEO & Board Director    [8]
+--------------------------------------------------------------------------------
+Yes. I mean, Andy, we're going to continue to evaluate that on a program-by-program basis as we've talked about in the past. We do think that it's possible for us to commercialize HBV and HPV. Those therapeutics moving forward whether or not we would try and compete with big pharma in the oncology space is doubtful at this point given the size of the company and where we are. So I think it will be -- we'll continue to evaluate that on an individual program basis.
+
+--------------------------------------------------------------------------------
+Operator    [9]
+--------------------------------------------------------------------------------
+And the next question comes from the line of Carter Gould from Barclays.
+
+--------------------------------------------------------------------------------
+Carter Lewis Gould,  Barclays Bank PLC, Research Division - Senior Analyst    [10]
+--------------------------------------------------------------------------------
+Congratulations on the deal and all the momentum. I guess first one for Bill. I appreciate all the commentary and the transformational characterizations. But I guess one of the questions we have is just sort of why now? You guys certainly have your plate pretty full right now and could you speak to the sort of the timing piece. And then maybe for [Geoff], I guess one of the questions or overhangs around these TLR agonists, just kind of working through some of the dosing and timing questions that will inevitably come up. 
+And I recognize to some extent that will be empirical, but I didn't know if you guys even had -- even at a high level, any thoughts around the complementarity in terms of timing between this new platform? And then as you think about just the various cancer therapies you've developed and sort of how you thought about the timing and dosing there.
+
+--------------------------------------------------------------------------------
+William J. Enright,  Vaccitech plc - CEO & Board Director    [11]
+--------------------------------------------------------------------------------
+Great. Thanks, Carter. I appreciate that. So why now is because it was available. The technology is exciting. I think it's at the right stage for us to get involved. Geoff and his team have done a fantastic job developing the pipeline, really understanding the platform, getting these ready to go into the clinic. But what Vaccitech has showed, I think, repeatedly is we have the focus in the group that can move these things through the clinic effectively . And that's in part why I think this is a really good match. The technology aligns very well with what we have going on and provides us risk mitigation, if the viral-based platform doesn't perform, although as you see from the AZD product and from the HBV data that we have so far and even the prostate data, that all looks very promising. 
+So the goal of the company is to continue to grow and push things forward. And we felt that this was an excellent opportunity for us.
+
+--------------------------------------------------------------------------------
+Thomas George Evans,  Vaccitech plc - Chief Scientific Officer    [12]
+--------------------------------------------------------------------------------
+Yes, this is Tom. From a timing point of view, we have new products in manufacturing. As Bill said, dosing in the (inaudible) we're starting -- our partners in China are starting GMP manufacturing. And so this will allow us to slot in new programs towards sort of the middle to the end of next year with using Avidea's technology. They have -- their manufacturing is quite straightforward. It's called sort of a plug and play. Obviously, we need to get through the first GMP dosing. And in terms of the dosing regimens right now, we're planning to -- Geoff's team is planning to go in shortly to do dosing regimens in nonhuman primates, which will allow us to understand better how we'll design the first Phase I trial using the SNAPvax technology.
+
+--------------------------------------------------------------------------------
+Operator    [13]
+--------------------------------------------------------------------------------
+And we will now take the next question, and this comes from the line of Matthew Harrison from Morgan Stanley.
+
+--------------------------------------------------------------------------------
+Avatar I. Jones,  Morgan Stanley, Research Division - Research Associate    [14]
+--------------------------------------------------------------------------------
+This is Avatar Jones on for Matthew. A couple of questions from us, and apologies if they've been addressed. Firstly, how do you think about using virus-like particles intolerance? And how could that be additive to any of your lead programs? And secondly, can you increase the diversity of antigens in your programs to improve efficacy?
+
+--------------------------------------------------------------------------------
+Thomas George Evans,  Vaccitech plc - Chief Scientific Officer    [15]
+--------------------------------------------------------------------------------
+Let me take the first one, and I'm going to -- and then Geoff can answer a little bit, too. So the ChAdOx plus MVA program really does not drive regulatory T cells towards tolerance. And those are -- the regulatory T cells for tolerance are mostly in the CD4 category as opposed to the CD8 and they are driven by different signals such as the -- a variety of different tours and IL-10, TGF-beta, there are a variety of different things that will drive T cells towards intolerance profile. The -- by using small molecules that are in the viral like in the nanoparticle then basically, what you're doing is you're delivering the antigen and the immunomodulatory small molecule at the same time to drive the T cells over. 
+And as you could see in that preclinical data, there was a 1,000-fold change in the TH1 to T-regulatory ratio by using this technology in the preclinical data that Avidea has generated and quite promising data in the encephalitis model in the mouse. So that's it. In terms of multiple antigens, the -- one of the interesting things about the SNAPvax technology, which Geoff did not talk about which you may be able to listen on, so you can put as many as 4 or 5 different antigens into one particle that is they will self-assemble by using a variety of different antigens and those can be sort of anywhere from 50 to 100 amino acids long.
+That means that you can, for example, present, say, 4 different flu antigens or 4 different coronavirus antigens on the same nanoparticle to allow you to get a diversity of response. There's very compelling data from the VRC using a similar mechanism with ferritin that this concept of using multiple antigens to drive those cross-protected responses in a variety of responses is quite doable using the SNAPvax technology. Probably in a way that's slightly better than the way we do it using fusion or multiple antigens in a vector system, which also gives you the chance of recombination events across the different antigens if they're similar enough. Geoff, you want to augment that answer at all?
+
+--------------------------------------------------------------------------------
+Geoffrey Lynn,   -     [16]
+--------------------------------------------------------------------------------
+Yes. Tom, that's a great explanation. The only other thing I would add is that this -- this is not a virus-like particle technology, but it provides a lot of advantages over recombinant technologies like virus-like particles or VLPs. And the key characteristic is that with recombinant technologies, you're limited to what you encode by the DNA that's expressed as RNA and then translated to protein. With these synthetic systems, we can deliver any combination of immunomodulator and peptide antigen, including various modifications of the peptide antigens that we know are present in disease tissue and that can otherwise be expressed using current expression technologies. 
+So that degree of control allows us a much greater degree of control over what we can target with this kind of system. And really, the innovation that I would say is quite unique in what maybe is somewhat similar to virus-like particles is that we figured out how we can self-assemble multiple different components together in a programmable manner so that it has the exact composition that we've designed the nanoparticle to assemble to. So that program self-assembly is what allows us to co-deliver multiple components and control the type of immune responses generated.
+
+--------------------------------------------------------------------------------
+Operator    [17]
+--------------------------------------------------------------------------------
+And the next question comes from the line of Yi Chen from H.C. Wainwright.
+
+--------------------------------------------------------------------------------
+Yi Chen,  H.C. Wainwright & Co, LLC, Research Division - MD of Equity Research & Senior Healthcare Analyst    [18]
+--------------------------------------------------------------------------------
+Can you comment on the size of the future milestone payments? And what event will trigger the first milestone payment?
+
+--------------------------------------------------------------------------------
+Georgy Egorov,  Vaccitech plc - CFO    [19]
+--------------------------------------------------------------------------------
+Sure, why don't I take this? So ultimately, the milestone payment are capped at $40 million, so they're up to $40 million. And then ultimately, they are split into 2. One is the commercialization point for the product, which use the SNAPvax technology or ultimately reaching clinical milestones, which we have not made public, but it's closer to Phase II.
+
+--------------------------------------------------------------------------------
+Operator    [20]
+--------------------------------------------------------------------------------
+And no further questions over the phone lines. You may continue speakers.
+
+--------------------------------------------------------------------------------
+William J. Enright,  Vaccitech plc - CEO & Board Director    [21]
+--------------------------------------------------------------------------------
+Well, thank you very much for everybody for your participation this morning and learning more about this transformational event for Vaccitech, and we look forward to continuing the discussions with you in the future. Thank you, operator.
+
+--------------------------------------------------------------------------------
+Operator    [22]
+--------------------------------------------------------------------------------
+Yes, sir. Thank you. That concludes our conference for today. Thank you all for participating. You may now disconnect.
+
+
+
+
+
+
+
+--------------------------------------------------------------------------------
+Definitions
+--------------------------------------------------------------------------------
+PRELIMINARY TRANSCRIPT: "Preliminary Transcript" indicates that the 
+Transcript has been published in near real-time by an experienced 
+professional transcriber.  While the Preliminary Transcript is highly 
+accurate, it has not been edited to ensure the entire transcription 
+represents a verbatim report of the call.
+
+EDITED TRANSCRIPT: "Edited Transcript" indicates that a team of professional 
+editors have listened to the event a second time to confirm that the 
+content of the call has been transcribed accurately and in full.
+
+--------------------------------------------------------------------------------
+Disclaimer
+--------------------------------------------------------------------------------
+Refinitiv reserves the right to make changes to documents, content, or other 
+information on this web site without obligation to notify any person of 
+such changes.
+
+In the conference calls upon which Event Transcripts are based, companies 
+may make projections or other forward-looking statements regarding a variety 
+of items. Such forward-looking statements are based upon current 
+expectations and involve risks and uncertainties. Actual results may differ 
+materially from those stated in any forward-looking statement based on a 
+number of important factors and risks, which are more specifically 
+identified in the companies' most recent SEC filings. Although the companies 
+may indicate and believe that the assumptions underlying the forward-looking 
+statements are reasonable, any of the assumptions could prove inaccurate or 
+incorrect and, therefore, there can be no assurance that the results 
+contemplated in the forward-looking statements will be realized.
+
+THE INFORMATION CONTAINED IN EVENT TRANSCRIPTS IS A TEXTUAL REPRESENTATION
+OF THE APPLICABLE COMPANY'S CONFERENCE CALL AND WHILE EFFORTS ARE MADE TO
+PROVIDE AN ACCURATE TRANSCRIPTION, THERE MAY BE MATERIAL ERRORS, OMISSIONS,
+OR INACCURACIES IN THE REPORTING OF THE SUBSTANCE OF THE CONFERENCE CALLS.
+IN NO WAY DOES REFINITIV OR THE APPLICABLE COMPANY ASSUME ANY RESPONSIBILITY FOR ANY INVESTMENT OR OTHER
+DECISIONS MADE BASED UPON THE INFORMATION PROVIDED ON THIS WEB SITE OR IN
+ANY EVENT TRANSCRIPT. USERS ARE ADVISED TO REVIEW THE APPLICABLE COMPANY'S
+CONFERENCE CALL ITSELF AND THE APPLICABLE COMPANY'S SEC FILINGS BEFORE
+MAKING ANY INVESTMENT OR OTHER DECISIONS.
+--------------------------------------------------------------------------------
+Copyright 2023 Refinitiv. All Rights Reserved.
+--------------------------------------------------------------------------------

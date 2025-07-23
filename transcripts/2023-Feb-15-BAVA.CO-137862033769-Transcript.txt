@@ -1,0 +1,409 @@
+
+
+Refinitiv StreetEvents Event Transcript
+E D I T E D   V E R S I O N
+
+Bavarian Nordic A/S to acquire BioSolutions Inc.
+FEBRUARY 15, 2023 / 1:00PM GMT
+
+================================================================================
+Corporate Participants
+================================================================================
+
+ * Rolf Sass Sørensen
+   Bavarian Nordic A/S - VP of IR & Communications
+ * Paul John Chaplin
+   Bavarian Nordic A/S - CEO & President
+ * Henrik Juuel
+   Bavarian Nordic A/S - CFO & Executive VP
+
+================================================================================
+Conference Call Participiants
+================================================================================
+
+ * Jesper Ilsoe
+   Carnegie Investment Bank AB, Research Division - Research Analyst
+ * Peter James Welford
+   Jefferies LLC, Research Division - Senior Equity Analyst & European Pharmaceuticals Analyst
+ * Boris Peaker
+   Cowen and Company, LLC, Research Division - MD & Senior Research Analyst
+ * Michael Novod
+   Nordea Markets, Research Division - Director of Healthcare, Healthcare Analyst & Sector Coordinator
+ * Gil Joseph Blum
+   Needham & Company, LLC, Research Division - Senior Analyst
+ * Peter Verdult
+   Citigroup Inc., Research Division - MD
+
+================================================================================
+Presentation
+--------------------------------------------------------------------------------
+Operator    [1]
+--------------------------------------------------------------------------------
+Good day, and thank you for standing by. Welcome to the Bavarian Nordic conference call. (Operator Instructions) Please be advised that today's conference is being recorded. 
+I would now like to hand the conference over to your speaker today, Rolf Sass. Please go ahead.
+
+--------------------------------------------------------------------------------
+Rolf Sass Sørensen,  Bavarian Nordic A/S - VP of IR & Communications    [2]
+--------------------------------------------------------------------------------
+Thank you, operator, and welcome to everyone. 
+Today's call is about the strategic acquisition about some travel vaccines. And on today's call, we have, as usual, members of the executive management team, President and CEO, Paul Chaplin, and effective member, CFO, Henrik Juuel. And my name is Rolf Sørensen, Vice President, Investor Relations. 
+Before we start the presentation, I just will run through the disclaimer. This presentation includes forward-looking statements that involve risks, uncertainties and other factors, many of which are outside our control that could cause actual results to differ materially from the results discussed. Forward-looking statements include statements regarding our short-term objectives, opportunities, financial expectations for the full year as well as statements concerning our plans, objectives, goals, future events, performance and other information that is not historical information. All such forward-looking statements are expressly qualified by these cautionary statements. We undertake no obligation to publicly update or revise forward-looking statements to reflect subsequent events or circumstances after the date made, except as required by law. 
+And with this, I will hand the presentation over to Paul, and you can afterwards find the presentation on a replay on our homepage. Go ahead, Paul.
+
+--------------------------------------------------------------------------------
+Paul John Chaplin,  Bavarian Nordic A/S - CEO & President    [3]
+--------------------------------------------------------------------------------
+Thanks, Rolf, and welcome, everyone, to our call. 
+Before I go into -- I and Henrik go into more details about the acquisition that we announced today, I want to spend a couple of slides really explaining our vision and our strategy around building up the company in the next few years. 
+So if we go to the next slide, Slide 3, just talk a little bit about Bavarian Nordic at a glance. We're a company focused on developing and commercializing life-saving vaccines. We have successfully built up a global commercial operations in key strategic markets. We've established end-to-end manufacturing in our facilities in Denmark but also through a network of contract manufacturers. We have a proven capability in R&D, taking products from the bench all the way through launch. We have five commercial products that we've developed in-house, so rabies, TBE, smallpox and monkeypox, or I should say, acquired. And through licensing agreements, we distribute three other life-saving vaccines. And excitingly, we have two late-stage programs for both RSV and COVID-19, both in Phase III that will read out this year that could have a significant impact in meeting high unmet medical needs for both indications. 
+If we go to the next slide, Slide 4. Our vision for '25 is that we aspire to be one of the largest pure play vaccine companies. And to achieve this, we have a number of strategic objectives. Through R&D, we will continue the innovation to bring new life-saving vaccines from the bench through to launch. We will continue to look for synergistic license agreements to add to our commercial portfolio. And likewise, we will continue to look at strategic and selective M&As as we will -- as we have announced today, that will add to the commercial portfolio and be synergistic with our infrastructure and our commercial setup. And through our commercial excellence where we really try to provide a first-in-class service to health care professionals, we will be bringing life-saving vaccines through to the end customer, which is the patients. 
+If we go to Slide 5, what do we mean by becoming one of the largest pure play vaccine companies? Well, we believe that that means for us, to have revenues of at least or more than USD 1 billion and that will lead to an EBITDA margin of 25% or higher. This, we believe, will give us the ability to really continue to bring products like RSV from the bench all the way through to add to our commercial excellence and drive commercial growth. 
+There are three strategic objectives to really meet this vision and the financial goals to have revenues of $1 billion and an EBITDA margin of 25% or higher. The first is to secure the profitable growth of the current business. And I want just to spend a couple of minutes talking about that because this is the basis of our business moving forward. 
+For many, many years, Bavarian Nordic was built on a very, very strong partnership with the U.S. government on smallpox. In 2019, when this vaccine JYNNEOS was approved by the FDA, we had a monkeypox indication, which came to the forefront last year due to the unexpected and unprecedented outbreak of monkeypox. That indication was expanded to our approvals in Canada and Europe, and last year, we sold and distributed just over 4 million doses and gave access to more than 70 countries in our response to help the public crisis with the monkeypox. That has allowed us, and Henrik will talk more to that when he talks about the guidance for this year, to secure significant orders for '23. 
+However, it should not be forgotten that we have orders way beyond '23 worth approximately USD 0.5 billion. And that's with just two customers with the U.S. government and with Canada. And for the U.S. government to materialize the order that they've had for a number of years for $300 million, they would have to buy more bulk vaccine to replace the bulk that they use to place the orders for monkeypox last year, and that would bring the order book for smallpox, monkeypox up to around about $800 million in the coming years. And that's without the U.S. Government increasing the requirement for JYNNEOS, and that is without any other government placing an order beyond '23 despite the fact that we are in constructive discussions with a number of governments and organizations to do exactly that. 
+So we actually see a very, very strong future for smallpox and monkeypox way beyond '23 as we transition to freeze-dried and increase the number of countries that are stockpiling the vaccine, not only against monkeypox, but also smallpox. 
+In 2020, we did our first acquisition of our two products, rabies and TBE. And at that time, we believe these neglected products would be better suited in our hands that once we build up our commercial infrastructure, we'd be able to drive profitable growth. Unfortunately, these two products hit the headwinds of COVID, which no one anticipated. But I'm very pleased to say that last year, we had a record year for rabies sales in the U.S., and that is a record year since it was approved. That is testimony to our strategy that we can take over products that are neglected and with a keen focus on both production supply and service, we can really drive profitable growth. And with TBE, while we still haven't reached the pre-COVID levels, we're very confident that we will in the coming months and really show that in our hands, these two assets will go from strength to strength. 
+If we go to the next slide. The next part of the strategy is selective M&A. We stay selective and strategic because we're really after assets that are complementary to our commercial portfolio and our -- infrastructure. And what we've announced today is the purchase of two travel vaccines that fit perfectly into our portfolio, which together with a development program Chikungunya when approved, will also fit perfectly into the strategic direction together with our other travel vaccines and will start to make Bavarian Nordic the leading travel vaccine company in the world. 
+And lastly on the strategy, if you go to the next slide, is to advance our pipeline assets that will also give us optionality to bring products through and increase our commercial firepower. And here, as you know, we have two products in Phase III for COVID and RSV that we'll be reading out later this year. And these truly have a tremendous potential not only to meet and address an unmet medical need, but significantly add to the topline and towards our strategy of becoming one of the largest pure play vaccine companies by '25. 
+So if we go to Slide 8, let's talk about the transaction and what we announced today. So we have bought two assets, or will buy two assets, commercial existing assets, from Emergent BioSolutions for vaccines against cholera and typhoid, plus a Phase III asset against Chikungunya. And as I said, this will really help increase our topline and our growth ambitions. 
+Together with the assets, we're also buying a lot of know-how, both in terms of a manufacturing site in Switzerland, which is highly experienced in manufacturing the two commercial assets. So there's no tech transfer risk with this acquisition that we'll be taking over a fully fledged operational manufacturing sites, and together, we'll also be taking over additional R&D employees in a site in the U.S., which will allow us to continue the focused development of Chikungunya all the way up to launch in 2025. 
+If we look at the deal structure, we're paying a potential total value of $380 million, $270 million upfront, and an additional $110 million milestone payments, conditional on the successful development and readout of the Chikungunya program, plus also some sales milestones. So an extremely attractive deal for the assets that we will eventually acquire. 
+If we go to Slide 9, just to sum that up, the typhoid vaccine is trademark Vivotif, and I'll talk a little bit more about the products in the coming slides. And Vaxchora is the cholera vaccine, which together with rabies and TBE will really form a leading travel vaccine portfolio. 
+The pipeline opportunity is a really attractive Chikungunya vaccine candidate that is in Phase III. I'll talk more about that in the coming slides, but really has some very positive clinical data, and we're very excited about that asset moving forward. 
+We're purchasing, as part of this agreement, a manufacturing site in Bern that is experienced in manufacturing Vivotif and Vaxchora and gives us a lot of optionality moving forward in terms of bringing other products that we currently outsource potentially back in-house. We're taking over some commercial resources, which will allow us to expand our capabilities, both in the U.S. but also expand our footprint in Europe where we're currently not active. 
+The revenues, which we will be growing over the coming years will allow us to continue to move forward to our vision of becoming one of the largest pure play vaccine companies. And importantly, we're bringing on a lot of know-how with an additional 280 employees covering everything from quality, research, manufacturing and commercial that will really aid the integration of these products and capabilities. 
+So if you turn to Slide 10, let's talk a little bit about the products and indications. So typhoid interestingly, is the second most recommended travel vaccine in the globe. So that is a very, very powerful vaccine to have in your portfolio being the second most prescribed vaccine. It's estimated by others that the typhoid travel vaccine market will grow to USD 250 million by '28 with a very attractive annual growth rate. So there's a real opportunity here to really grow this market and the opportunity. 
+Vivotif itself has been around for more than 35 years and is approved in more than 25 countries. It's a multi-oral dose vaccine delivered via capsule, given 3 -- or I should say, 4 to 5 doses within a week. Offers very good protection up to 5 years. And many, many doses have been administered, more than 150 million doses have been administered since its approval. 
+Since Emergent brought these vaccines in 2018, they have basically suspended growth -- the sales due to COVID. So the sales in 2019 were at $34 million. However, we really believe that we can grow the sales of these vaccines with a keen focus on supply to somewhere near or more $80 million within the coming years. 
+Vaxchora is a vaccine against cholera. It's -- cholera is one of the top 4 travel vaccines that are prescribed. And again, the cholera market is estimated by others to reach $75 million by '28 with also quite an attractive annual growth. Vaxchora has been approved since 2016 initially in the U.S., where it's the only approved cholera vaccine, but is now approved in 27 countries. It's also an oral vaccine with a single dose, suitable for ages of 2 to 64 and provides protection from day 7, which is a significant advantage over the competition. 
+In 2019, sales of $4 million were recorded. But again, we believe we can grow this business to USD 20 million annual within the coming years. So the combined annual revenue between these two products of $100 million in the coming years. 
+If we go to the next slide, Slide 11. Chikungunya  is a disease that's spread by mosquitoes. And it's been identified in more than 110 countries around the globe, in Africa, Asia, Europe and the Americas. There are sporadic outbreaks of the disease. And it can cause -- its main symptom is severe pain in multiple joints, which can actually develop into a chronic condition in about 40% of all people who get these symptoms, which can last for years. There is currently no prophylactic vaccine or treatment for Chikungunya and it's clearly a huge unmet medical need, not only in the endemic regions, but also for travelers traveling to these regions. 
+On Slide 12, if we just look at the projected candidate. So the Chikungunya, it's a viral-like particle technology, which is adjuvanted in Aluminum. It's a single-shot injection. And based on the Phase II data that has been published, the majority of people, more than 90% of the people given a single shot, sero converted to protective levels within a week, which, again, is a very rapid onset of protection, which we believe is a differentiating factor compared to the competition. 
+It's currently in Phase III, will read out later this year with an estimated launch date of '25. The market is estimated to be valued at around about USD 500 million, and that's based on 100 million people traveling to these endemic regions. So it's an extremely attractive market, a differentiated candidate. The competition is based on -- is a live attenuated vaccine that existing filed for approval from Valneva. We believe, as I said, is a differentiating factor with a faster onset of protection, which is extremely important as a travel vaccine as most people only consider vaccination for travel last minute. So having a fast onset of protection, we believe, is a real advantage.
+If we go to Slide 13, what will this mean both for our commercial portfolio and the pipeline? Well, you'll see we'll end up with seven vaccines or seven indications for our commercial portfolio with monkey, smallpox, rabies, TBE, Ebola and now also cholera and typhoid. As I said, typhoid is the second most prescribed travel vaccine around the globe, and it's a great addition, together with cholera. 
+If you look at the pipeline, we now have -- or we will have three late-stage programs for RSV, COVID but also Chikungunya that will read out later this year. And some earlier programs, one funded by DoD and one in oncology. So really adding both to the pipeline but also the commercial portfolio. 
+Slide 14. As I said, it's just not about assets. We're also bringing over a lot of capabilities in this deal. There is an R&D site in San Diego with a lot of expertise within research, process development, quality, together with the employees and know-how. There's a manufacturing facility in Bern, proven manufacturer for both Vivotif, Vaxchora, which really offers us a lot of optionality moving forward in terms of expanding our manufacturing footprint for future products and also products that we are currently outsourcing. 
+In terms of sales, everything is extremely synergistic. We're bringing more products to the basket in the U.S. together with increased capabilities. With some of the capabilities we're bringing over, it will allow us to expand in the territories that we're currently not active today, such as in certain parts of Europe, so completely synergistic to set up and will really allow us to drive profitable growth and distribute our life-saving vaccines. 
+On Slide 15, we are quite experienced in these integration programs with what we did back in 2020 with the rabies and TBE. In this case, it's slightly different. And we actually think it's a fairly low-risk takeover because we've taken over existing businesses that are -- can plug into our systems. 
+In terms of the development of the Chikungunya vaccine candidate, we're bringing the expertise over from Emergent, and we will leave that completely uninterrupted and drive that development out of San Diego with the existing employees. The manufacturing setup is almost plug and play as they currently already produce Vivotif and Vaxchora, and we can look at expanding the manufacturing footprint over time. 
+In terms of sales and marketing, obviously, we need to integrate from day 1 into our commercial setup. And in terms of distribution, we'll have support from Emergent for a period until we transfer distribution into our own network. 
+So really, we already have a very solid transition plan in place, and we feel that we can really execute as we did with the rabies and TBE on bringing these products and integrating them and bringing Chikungunya to a successful launch. 
+And with that, I will hand over to Henrik Juuel.
+
+--------------------------------------------------------------------------------
+Henrik Juuel,  Bavarian Nordic A/S - CFO & Executive VP    [4]
+--------------------------------------------------------------------------------
+Thank you very much, Paul, and good afternoon, good morning to all of the listeners. 
+So on the next slide, Slide 16, I just want to quickly sum up on the valuation that we see with this acquisition here. Paul already talked about the market opportunities for these three products that we're talking about. Typhoid's a very interesting market. The second most prescribed travel vaccine, which is predicted to have a market value of around $250 million by '28, USD 75 million for the cholera market. And finally, the Chikungunya vaccine market has been estimated to be worth approximately USD 500 million in annual revenue by '32. So if we add these up, we are talking about total market that we can address with this acquisition here of around USD 800 million. So quite significant addressable markets that we will get access to with this acquisition here. 
+And as Paul also said, Vivotif and Vaxchora, the two commercial products, did suffer from COVID-19. But in our own business, in particular in our rabies business, we have seen the significant impact of traveling resuming more and more back to normal levels. So we do expect these products also to take off again. Vaxchora will need to be relaunched this year, but we see great opportunities and particularly as this is the only approved cholera vaccine in the U.S. 
+So combined for Vivotif and Vaxchora, we do see a potential of these two products alone being -- having a peak sales potential of around USD 100 million, let's say, 4, maybe 5 years down the road depending on how the travel market develops and, of course, how fast we can relaunch Vaxchora in particular here. So an interesting addition, very synergistic to our existing portfolio. 
+And then, of course, we have the Chikungunya market -- or sorry, products, targeting a very interesting market with a significant unmet medical need as there's no vaccine available against Chikungunya strain. 
+So on the next slide, I wanted to talk a little about our guidance for this year. We also announced that today just prior to announcing the transaction here. And if we start on the left, that is the pure Bavarian Nordic as is guidance for '23, where we are guiding revenue of approximately DKK 6 billion and an EBITDA of approximately DKK 2.2 billion. 
+Just to provide a little detail on these numbers here. The revenue we have included on mpox and smallpox revenue, approximately DKK 4.4 billion and that corresponds with only confirmed orders. So we have not included any nonconfirmed or expected orders to come. 
+On rabies and TBE business, we expect continued growth. We had a fantastic year last year with our rabies business that grew to a level higher than ever in the U.S. And we also saw significant growth in Germany and in Europe in general. TBE is still slightly behind the level prior to COVID, but we do expect to see a rebound during this year. So significant growth expected from the commercial business as well this year. 
+We have also included -- expected revenue from our partnership with Nuance Pharma on RSV that will be triggered by the Nuance Pharma entering into Phase I and later also Phase III expected this year. 
+In terms of our spend, we are assuming approximately DKK 1.9 billion in R&D, including DKK 300 million that will be capitalized as part of our ABNCoV2 -- COVID-19 program. This is somewhat higher than we had previously anticipated and mainly explained by some of the costs anticipated last year has been pushed into 2023 due to the timing of the ongoing trials. 
+On net working capital, we are also expecting an increase in '23 of approximately DKK 1.5 billion. This is explained by the increased revenue, but also by a planned inventory buildup associated with the transfer of manufacturing from GSK, where we, in an interim period, more or less will be running with two independent supply chains. While buying products from GSK, we will also start building up inventories to do our own manufacturing of these products. 
+But all in all, I think record numbers guided for Bavarian Nordic alone. Last year was financially a record year. But you will see that this guidance here, 2023 will be even better and another record-breaking year. 
+If we then turn to the right side of the slide, this is the expected impact from the acquisition. This is, of course, very sensitive to the timing of the closing. First of all, it is pending closing. We have only signed the transaction so far. And the timing will, of course, eventually determine exactly how much of the business we get access to in '23. But here and now, we are expecting revenue impact of approximately DKK 200 million from Vivotif and Vaxchora together. We are expecting negative EBITDA of approximately DKK 400 million. And that EBITDA includes a positive contribution from the commercial products amounting to approximately DKK 75 million. It includes investments in the Chikungunya program of approximately DKK 300 million. And then we have included as well anticipated one-off integration costs of DKK 100 million. And the latter is a conservative estimate. We know we will need to spend money implementing our own ERP systems, quality systems, integrating the organization into our organization, et cetera. It's -- so there will be money spent on the integration side, but we do believe that this is a conservative good estimate. 
+We have not added up these numbers simply because we haven't closed the transaction yet. But as soon as we close, we will, of course, combine the two and provide an updated guidance for the combined company. 
+On the next slide, this is a slide that we are extremely proud of. Paul talked about our strategy, and he also talked about the growth levers that we have put in place with our strategy. And I think this slide here, I think, really demonstrates where we have come already. It demonstrates significant revenue growth since 2018 and it also demonstrates profitability since the acquisition of the products from GSK back in 2020. So 2023 with these guidance numbers here. DKK 6 billion and a very high profitability rate of 2.2 -- with DKK 2.2 billion in EBITDA. 
+So what are the next steps to complete this transaction here? I think, first of all, the consideration we're going to pay for this transaction is up to USD 380 million, USD 270 million in upfront and USD 110 million in milestones linked to successful development of Chikungunya and successful commercial performance of Vivotif and Vaxchora. That will be funded as a combination of existing funds that we have. We do have a good and strong cash position at the moment. And then combined with a directed share issue, we anticipated to execute here during the first half. And we have also from our banks, Danske Bank and Nordea, secured an equity bridge should we need funding until we have conducted the accelerated book build. 
+And then, of course, we are looking very much forward to closing the transaction. The only thing that is really pending are the typical customary closing conditions, like antitrust approvals, et cetera. And we can't say exactly how long it will take, but our best estimate is that it will probably take 2 to 3 months before we are ready to fully close the transaction. 
+On the next slide, just the transaction in summary. I will not go through all the details. But again, here, we're talking about two already established commercial vaccines in interesting markets with a very good fit with our portfolio and our strategy and late stage, the pipeline candidates targeting a very attractive market with a significant unmet medical need. We are also getting a complete manufacturing site in Switzerland. And we are getting -- expanding also our R&D capabilities and competencies by taking over the San Diego sites and also gather 280 experienced people, which also is an extremely important thing in a market situation where recruitment is not the easiest in all business here. We're actually getting a lot of good talent onboard. 
+And on the strategy side, I think this acquisition here fits so well with our strategy, and it helps us basically accelerate it, moving us closer to our vision of becoming one of the largest pure play vaccine companies. With this acquisition alone, we can already claim that we are now a leading travel vaccines provider in the world. 
+And one of the other things, I think I would just like to highlight here. It has been a long with strategic risk from us to expand our presence and our business in the U.S. With our commercial organization today, we only have our rabies product in the U.S. Now we have two additional products, which is really a significant contribution and fits extremely well with our strategy. 
+I talked about the price already that we are paying for this. And I talked about the financing. So I don't want to repeat this. But I'll just end up by saying that this is a great transaction for Bavarian Nordic with a fantastic fit with our current strategy and vision. And as we see it, it's a transaction with a very significant value upside as well. 
+So with that, I will turn the word back to the operator and ask for questions.
+
+
+================================================================================
+Questions and Answers
+--------------------------------------------------------------------------------
+Operator    [1]
+--------------------------------------------------------------------------------
+(Operator Instructions) Our first question comes from the line of Gil Blum from Needham & Company.
+
+--------------------------------------------------------------------------------
+Gil Joseph Blum,  Needham & Company, LLC, Research Division - Senior Analyst    [2]
+--------------------------------------------------------------------------------
+So first off, is there any plan on moving production between the different facilities that you currently have?
+
+--------------------------------------------------------------------------------
+Henrik Juuel,  Bavarian Nordic A/S - CFO & Executive VP    [3]
+--------------------------------------------------------------------------------
+Paul, will you get that?
+
+--------------------------------------------------------------------------------
+Paul John Chaplin,  Bavarian Nordic A/S - CEO & President    [4]
+--------------------------------------------------------------------------------
+Yes. Just on (inaudible). Yes, thanks for the question. No, there's no plans. So the Bern facility is set up and geared for Vivotif, Vaxchora beginning to end of production. And we have Kvistgaard set up for our rabies, TBE and smallpox. So no, we won't be moving any of the products that we currently have established in-house.
+
+--------------------------------------------------------------------------------
+Gil Joseph Blum,  Needham & Company, LLC, Research Division - Senior Analyst    [5]
+--------------------------------------------------------------------------------
+Okay. Excellent. And maybe a more general question. What do you think you can do better than what EBS has done so far on the marketing side of their commercial vaccines?
+
+--------------------------------------------------------------------------------
+Paul John Chaplin,  Bavarian Nordic A/S - CEO & President    [6]
+--------------------------------------------------------------------------------
+Yes. So I think Emergent were unfortunately hit with the impact of COVID. So they were really not able to execute on any of their plans, I guess, because they suspended the production and the sale of the products, and that's why we're talking about a relaunch. So I think -- I guess, it's not what we can do better than Emergent. It's clearly that we can execute on the plans for a relaunch and address the growth that we believe is there.
+The one way I would also answer that is look what we've done with the rabies and TBE assets. Yes, we were hit by headwinds, but we built up a global commercial organization, and we are delivering, as I said, the record year of sales for RabAvert rabies in the U.S. just shows that we have the right strategic fit.
+
+--------------------------------------------------------------------------------
+Gil Joseph Blum,  Needham & Company, LLC, Research Division - Senior Analyst    [7]
+--------------------------------------------------------------------------------
+Right. And maybe a last one, I think it's an important clarification -- I may have missed this. So the financing for this deal, you have cash and an equity bridge, but also the press release suggests that there will be some share-based financing. Could you elaborate on that a little?
+
+--------------------------------------------------------------------------------
+Henrik Juuel,  Bavarian Nordic A/S - CFO & Executive VP    [8]
+--------------------------------------------------------------------------------
+Yes. What the plan is to finance this by a -- using the 10% mandate -- equity issue mandate that we have from the Annual General Meeting. A 10% mandate cannot finalize -- or finance this full transaction. So that's why we talked about a mix of current existing cash and then directed share issue to be conducted here during the first half of the year. The bridge financing is simply just to allow us to time the directed share issue the best way to the market.
+
+--------------------------------------------------------------------------------
+Gil Joseph Blum,  Needham & Company, LLC, Research Division - Senior Analyst    [9]
+--------------------------------------------------------------------------------
+Excellent. That was very helpful. Congratulations on the acquisition.
+
+--------------------------------------------------------------------------------
+Operator    [10]
+--------------------------------------------------------------------------------
+We will take our next question. Our next question comes from the line of Peter Verdult from Citi.
+
+--------------------------------------------------------------------------------
+Peter Verdult,  Citigroup Inc., Research Division - MD    [11]
+--------------------------------------------------------------------------------
+Two questions, and I've also been asked to put a question from management from an investor. Peter Verdult, Citi. Paul, just over and above the onset of action that you described in your preprepared remarks, are there any other points of differentiation with respect to Chikungunya vaccine versus Valneva? And if I could push you, I'm trying to triangulate your comments. Are you saying that you've seen this sort of $250 million commercial opportunity at peak? Or am I being too conservative there? Just some more -- if I could push you a bit more on the pipeline candidate that you've acquired. 
+Secondly and a little bit cheaply, I thought I would be far down in the queue. And I was wondering if -- I know the call is primarily about EBS, but just given the recent competitor datasets and given the timeline delays, I would be interested to hear your latest thoughts on your expectations for Bavarian's COVID and RSV efforts and what constitutes a win? 
+And then just the question from an investor is of the DKK 300 million program spend for the Chikungunya program, what is incremental versus what EBS was already spending? Are you able to expand on the program? Or are you doing anything differently? Or are you simply just taking over the program as is?
+
+--------------------------------------------------------------------------------
+Paul John Chaplin,  Bavarian Nordic A/S - CEO & President    [12]
+--------------------------------------------------------------------------------
+Yes. Thanks, Peter, for the question. So your first question related to the differentiating factors of this candidate versus the competition. The onset, we can talk about because that's already been established in the Phase II data, that's been published. It's a clear differentiator. 
+Obviously, the Phase III data for this candidate, the VLP, we don't have the safety data yet, so we can't really talk about it. But the competition is a live attenuated virus, which typically has a slightly different safety profile to a viral-like particle. So there could also be, and I caution it because we don't have the data yet, an improved safety profile with the VLP over a live attenuated vaccine. So that could develop as to be another differentiating factor. 
+You asked about the value of the market. Some people have estimated it to be $500 million and what it ends up being, what our share is, I think we'll wait to comment on that. We'll let you speculate. But it's a significant -- it will be a significant contribution to the topline should we be successful in launching this product. 
+I think the other question related to RSV and ABNCoV2 and what would be a win? Well, with RSV, the bar has been set. The efficacy data is there. We've had three readouts with relatively similar efficacy data on the face of it, that's the bar. Anything less than that is definitely not a win. So that's where the bar is set. 
+The time is out on longevity. Janssen has reported 2-year data from their Phase IIb, which looks pretty good. No one else has longevity data. That could really be the key, I think, for RSV. Some companies are talking about an annual booster. I think most companies, us included, are actually thinking this as a multiyear protective vaccine, but we all need to generate the data for that. 
+On ABNCoV2, the primary endpoint is there. We need to demonstrate non-inferiority to the Pfizer vaccine that will fulfill the endpoints. Again, I think what is a win, we would need to show not only the non-inferiority RSV endpoint, I believe the broad protection against many of the variants or the current variants of concern will be very, very important, I think, into convincing authorities that this is a vaccine that although it's not bivalent, would have value in being approved. 
+I can't remember. Was there a third question, Peter?
+
+--------------------------------------------------------------------------------
+Peter Verdult,  Citigroup Inc., Research Division - MD    [13]
+--------------------------------------------------------------------------------
+There was. Just to remind you, again, so the question from an investor was about the Chikungunya program, the DKK 300 million spend that Henrik called out in his prepared remarks. The question is, basically, is that incremental to what EBS was already spending? Or are you just essentially taking over the program? Are you adding to the program? Or is it just taking care of what was being planned to be spent by EBS?
+
+--------------------------------------------------------------------------------
+Henrik Juuel,  Bavarian Nordic A/S - CFO & Executive VP    [14]
+--------------------------------------------------------------------------------
+Yes, Peter -- sorry.
+
+--------------------------------------------------------------------------------
+Paul John Chaplin,  Bavarian Nordic A/S - CEO & President    [15]
+--------------------------------------------------------------------------------
+Yes, go ahead. No, go ahead. That's fine.
+
+--------------------------------------------------------------------------------
+Henrik Juuel,  Bavarian Nordic A/S - CFO & Executive VP    [16]
+--------------------------------------------------------------------------------
+I think -- but the way the deal works is that we -- at closing, we are basically taking over the business. We're taking over the people behind the Chikungunya program, and we will be carrying the remaining costs. So the DKK 300 million that we anticipate for this year is basically the full cost associated with the Chikungunya program in '23. It's a very late-stage program. So this year, I think it's really about finalizing the Phase III and get the readout. Then there will be investments next year as well, and then we anticipate a launch in '25.
+
+--------------------------------------------------------------------------------
+Operator    [17]
+--------------------------------------------------------------------------------
+We will take our next question. And the question comes from the line of Boris Peaker from Cowen.
+
+--------------------------------------------------------------------------------
+Boris Peaker,  Cowen and Company, LLC, Research Division - MD & Senior Research Analyst    [18]
+--------------------------------------------------------------------------------
+Maybe initially, first I want to say congratulations on the deal, sounds very interesting. But for the two travel vaccines, what kind of an investment would you have to make in commercial infrastructure to reach your sales target of $80 million and $20 million each? 
+And for the Chikungunya program, from the efficacy perspective, what do you need to show in the Phase III program to both get it approved as well as to make it commercially attractive?
+
+--------------------------------------------------------------------------------
+Paul John Chaplin,  Bavarian Nordic A/S - CEO & President    [19]
+--------------------------------------------------------------------------------
+Yes. Let me take the Chikungunya one first. So the regulatory path for approval has already been set. So the discussions with European agency and with the FDA have been concluded. And it's based on an immunological endpoint, a certain antibody -- neutralizing antibody target that is believed to be protected. So the endpoints are set, the discussions with the regulators are set, and that's what we need to meet. 
+According to the discussions with the regulators, there would be a need for a confirmatory efficacy study. But as you know, that will depend -- that will require an outbreak. So there will be a follow-up efficacy study for the subsequent approval. 
+In terms of the investment in commercial, I think beyond what we currently have and what we're taking over, we don't foresee significant commercial investments to meet the set targets.
+
+--------------------------------------------------------------------------------
+Boris Peaker,  Cowen and Company, LLC, Research Division - MD & Senior Research Analyst    [20]
+--------------------------------------------------------------------------------
+So just a quick clarification. What exactly -- for the Chikungunya, what is the actual numerical endpoint that would need to hit on these titers?
+
+--------------------------------------------------------------------------------
+Paul John Chaplin,  Bavarian Nordic A/S - CEO & President    [21]
+--------------------------------------------------------------------------------
+Yes, that -- I don't think Emergent has resolved that and that's -- we've looked at that data, and we're extremely comfortable. When we talk about sero conversion by day 15 to 10, that's based on the particular title.
+
+--------------------------------------------------------------------------------
+Operator    [22]
+--------------------------------------------------------------------------------
+We will take our next question. Our next question comes from the line of Peter Welford from Jefferies.
+
+--------------------------------------------------------------------------------
+Peter James Welford,  Jefferies LLC, Research Division - Senior Equity Analyst & European Pharmaceuticals Analyst    [23]
+--------------------------------------------------------------------------------
+Just firstly, just with regards to the relationship you have on the commercial side already with Valneva in a couple of markets for the rabies and TBE. Just curious, obviously, now you've got another two products, which are also approved in -- or you will have, sorry, another two products, which are also approved in Europe. Just how should we think of this? I mean is there -- does this mean now that your European infrastructure is larger, so potentially, that relationship is not longer valid or equally. Is this, in fact, are you likely to now leverage that relationship then for these two products? I guess, can you just talk a little bit about how we should think about sort of the overlap between these given obviously, at the moment, you're not doing all this marketing in-house.
+Secondly then, just with regards to the financing -- the potentially accelerated book build. And I guess this perhaps relates to the RSV and CoV2 as well, but is it reasonable to assume that this is likely to occur before either of those two sets of data are available i.e., is the plan to do the equity financing before we get the Phase III results for any of these? 
+And then just finally, just with regards to the RSV Phase III. It looks as though sort of reading the release or maybe I'm trying to read too much into it, as though you have the data or you're near to having the right number of events, and it's just the case of the analysis. Is that reading too much into it? Or are you still waiting for events to accrue at the moment to be able to do that -- the analysis of the primary endpoint for RSV? 
+And then sorry, just finally, and I may have missed this on the call, but it looks as though you've got DKK 75 million of EBITDA positive from the sales of the vaccines, DKK 300 million of R&D. One-off integration costs, but minus DKK 400 million in total. Is the remainder of the sort of cost of the FTEs and the sort of the manufacturing of those sort of costs? Or am I trying to do too much math and getting wrong in terms of what the delta between those figures is?
+
+--------------------------------------------------------------------------------
+Paul John Chaplin,  Bavarian Nordic A/S - CEO & President    [24]
+--------------------------------------------------------------------------------
+Thanks, Peter. Let me take the question regarding Valneva relationship and the RSV Phase III., And then Henrik, you can take the ABB timing and the questions -- financial questions. 
+So first thing I'd like to say is the relationship we have with Valneva, which is reciprocated, they sell our products in certain territories, and we sell their product, is very strong, and it's been really, really successful. Clearly, we need to sit down with Valneva as we now have some competing products. 
+We're currently distributing DUKORAL, which is a cholera vaccine, and we will be acquiring another cholera vaccine. So there needs to be some adaptations to our partnership moving forward. And obviously, with Chikungunya, we will, in certain aspects, be competitors. So we need to sit down with Valneva. But as I said, I think I can almost speak for both companies that it's been a very, very successful relationship and one that we would hopefully find a way of securing that we could continue in some form. It would have to be modified due to the competing products. 
+On the RSV Phase III, we certainly do not have the data. So at the moment, we've recruited 20,000 subjects by year-end as we planned. What we're doing now is we're waiting for so-called events based on the lower respiratory tract disease that need to be confirmed to be RSV-related by PCR, and that is occurring. So we know there's a certain number of events that we need to reach, which we have not divulged. And when we reach that number of events, we will be able to ask the committee to look at the data and tell us where we met the primary endpoint. 
+We believe we will have enough events to make that readout later this year. As we've indicated in the release that we still don't -- we definitely do not have sufficient events as we are talking, right? 
+And Henrik, do you want to answer the other two points?
+
+--------------------------------------------------------------------------------
+Henrik Juuel,  Bavarian Nordic A/S - CFO & Executive VP    [25]
+--------------------------------------------------------------------------------
+Sure. There was a question first on the ABB, when that could happen. I think we have not disclosed any specific timing on this. We only said that it will happen during the first half. So it could happen before we read out the data on ABNCoV2 and RSV as this is -- for those programs expected midyear, but we can't be more specific at this point in time other than it will happen here during -- expected to happen during the first half. 
+On the financial impact from the target, very well spotted, Peter. If you take these numbers, they don't add up to DKK 400 million on EBITDA. We do write among others. So this is not complete. And I think to make it complete, we would need to add some general G&A costs. And there's also some, you can say, general R&D costs. And these, together, make up the difference up to the DKK 400 million EBITDA impact. I hope that answers your questions.
+
+--------------------------------------------------------------------------------
+Peter James Welford,  Jefferies LLC, Research Division - Senior Equity Analyst & European Pharmaceuticals Analyst    [26]
+--------------------------------------------------------------------------------
+Yes. That's great. Sorry, just back to Paul. So when you said -- sorry you said you're waiting for events to be confirmed by PCR. Just to be clear, as far as you're aware, the target number of events hasn't occurred rather than the number of events may have occurred, but you're still waiting to know if the number of those events are all confirmed by PCR to then be able to close the actual database log but you don't know whether the number of events or the number of PCR confirmed events as yet occurred?
+
+--------------------------------------------------------------------------------
+Paul John Chaplin,  Bavarian Nordic A/S - CEO & President    [27]
+--------------------------------------------------------------------------------
+Yes. I think I follow what you're asking. Well, as you know, the number of events are based on symptoms, right, and swabs are taken. And only some of those swabs turn out to be related to RSV because it could be flu, it could be COVID, it could be whatever. So we have a large number of events that we're going through a backlog of screening, but we do not have sufficient number of RSV confirmed LRTD cases currently.
+
+--------------------------------------------------------------------------------
+Operator    [28]
+--------------------------------------------------------------------------------
+We will take our next question. And the question comes from the line of Jesper Ilsoe from Carnegie.
+
+--------------------------------------------------------------------------------
+Jesper Ilsoe,  Carnegie Investment Bank AB, Research Division - Research Analyst    [29]
+--------------------------------------------------------------------------------
+Congrats on the transaction from my side. I have a few questions. Firstly, on the margin. So as you just explained how you see this attractive margin retention over time. So what does that imply in actual EBIT or EBITDA margins on the two marketed vaccines? And perhaps also explain how you expect the profitability to look from these marketed vaccines in the coming years (inaudible). 
+Then on the sales of these two marketed vaccines, you say it's DKK 200 million or around DKK 200 million in '23. Is it fair to assume that that only covers around 6 months of sales? So all else equal, it would imply a DKK 400 million annualized revenue on which you potentially could extract sales synergies? Or is there a time lag or anything else to take into this calculation? 
+And then just lastly, I believe you are competing, I guess, it's Sanofi on the two marketed vaccines. Implicitly, we expect 30% market share in the coming years. Do you think that's large to small? How conservative is that perhaps you had some business details in there?
+
+--------------------------------------------------------------------------------
+Henrik Juuel,  Bavarian Nordic A/S - CFO & Executive VP    [30]
+--------------------------------------------------------------------------------
+Yes. So perhaps I can start here. Thank you, Jesper, for the questions. I think on the margins and the profitability, I think it's basically -- it's a little too early to say. We have been to do true -- of course, detailed to diligence, we have not closed the deal yet. We know that they are, you can say, already profitable today, these products. But of course, the final profitability of these will really depend on the ramp-up of revenue again. On Vaxchora, I think we're talking about a relaunch. But then when we say attractive margins, we basically means margins similar to the current existing business that we have, but they will soon get to that level. 
+The sales number we have included here, we have assumed 9 months. 9 months is a little unrealistic given the timing of signing right now, then at least we should have a very fast dosing which is not happening, but it was for the illustration, it's approximately 9 months that is included here. 
+And then I believe you had one more question and that was on the market share competing against Sanofi. I think it's also a little too early for us to talk about market share. We need to get our hands on this business here, so we can make up really our own mind in terms of how to guide the market short and so.
+
+--------------------------------------------------------------------------------
+Jesper Ilsoe,  Carnegie Investment Bank AB, Research Division - Research Analyst    [31]
+--------------------------------------------------------------------------------
+Okay. If I can just push you on the margin again. So can you perhaps explain what's the price difference in the vaccines you acquired compared to the GSK or the (inaudible)  vaccines you already have. So just to get some feel for whether or not it's a higher or lower margin compared to that business.
+
+--------------------------------------------------------------------------------
+Henrik Juuel,  Bavarian Nordic A/S - CFO & Executive VP    [32]
+--------------------------------------------------------------------------------
+I think prices, we can't talk about yet some of these products here. I think the -- if you look at the margins that we're looking at for these products, they are actually better than the GSK acquisition. But remember, the GSK, we were dependent on their manufacturing, and we will get to the good margins once we have taken over full manufacturing. 
+Here, in this case here, we are acquiring the manufacturing as well. And therefore, we actually start off with higher margins that we have right now on our TBE and rabies business, everything else being equal. There can, of course, be price differences in the markets.
+
+--------------------------------------------------------------------------------
+Operator    [33]
+--------------------------------------------------------------------------------
+We will take our next question. And the question comes from the line of Michael Novod from Nordea.
+
+--------------------------------------------------------------------------------
+Michael Novod,  Nordea Markets, Research Division - Director of Healthcare, Healthcare Analyst & Sector Coordinator    [34]
+--------------------------------------------------------------------------------
+It's Michael Novod from Nordea. Just three quick questions. First of all, on the Vivotif and Vaxchora. Can you try to sort of explain the cadence you expect in terms of sales ramp towards these USD 100-or-something million over 3 to 4 years. Is this a rather fast ramp? Or is it more sort of positive like? 
+The second thing on the monkeypox or mpox sales guidance for 2023. Is it fair to call it a flow guidance given how you sort of frame it in the call? 
+And then lastly, just following up the previous question around RSV. Is it fair to assume that you're tracking RSV events and confirmed events to an extent that you can now say that you don't need -- you don't see a risk for a second season -- the risk of a second season or expanding the trials over a second season. Just so we know that you're actually tracking on a level of RSV confirmed events that you were completed sort of 99% compared to this first half.
+
+--------------------------------------------------------------------------------
+Paul John Chaplin,  Bavarian Nordic A/S - CEO & President    [35]
+--------------------------------------------------------------------------------
+Yes. Let me -- you talk about the growth rate. I think it's a bit too early to say how quick that growth will come. We're confident we can grow those two products. As we've indicated, it's a relaunch for Vaxchora, so we really need to see how that goes. And we are in that recovery phase from post-COVID. So again, it's a little bit like this time last year, you're asking me how the rabies business is going to go, and we were a little cautious, and it went better than we thought. Let's wait and see how it goes. But based on what we see with the travel vaccine businesses in general, we think that these will recover at the similar sort of rate as we've seen with rabies and some other travel vaccines.
+On the guidance, I get your point. But I mean, we are very consistent in terms of the smallpox and monkeypox guidance in that we are only really including contracts that we have secured. And that's because it's -- as you know yourself, it's quite an unusual business. There are, as I said, ongoing discussions with existing or new governments and organizations. There could be additional orders, but the timing of those orders and when those revenues will be seen is too uncertain for us to include them in the guidance for now. 
+On RSV, I can't really say much more than what I've already said. Get subjects enrolled in the study, get symptoms that fulfill the criteria for a lower respiratory tract disease, swabs were taken, and they are later than confirmed to be RSV or there's a panel. And those that are confirmed as RSV go into the bucket that the committee will look at and confirm themselves, whether they're truly RSV lower respiratory tract disease indications. 
+We're confident based on the data that we're having right now that we should be able to read out as we've indicated in the release this morning. Readout will be later this year. But we'll have to wait and see until we have all the events screened and tested.
+
+--------------------------------------------------------------------------------
+Operator    [36]
+--------------------------------------------------------------------------------
+We will take our next question. And the question comes from the line of Peter Verdult from Citi.
+
+--------------------------------------------------------------------------------
+Peter Verdult,  Citigroup Inc., Research Division - MD    [37]
+--------------------------------------------------------------------------------
+Just a follow-up, Paul, on ABNCoV2. Just look, I realize there's no -- it's pure upside given that the financing of this is done from the government. But just I want to understand clearly, if you do show non-inferiority versus Pfizer, what sort of commercial opportunity are you thinking about for this asset obviously? I just wanted to understand maybe your ambitions and what you think is feasible to think with respect to commercial potential.
+
+--------------------------------------------------------------------------------
+Paul John Chaplin,  Bavarian Nordic A/S - CEO & President    [38]
+--------------------------------------------------------------------------------
+Yes. Thanks, Peter. So as I said, in the first answer, yes, the primary endpoint is important, and that was set several months ago and agreed with the regulators. As I'm sure you're aware, the VRBPAC in the U.S. has recommended the FDA to consider only bivalent vaccines moving forward. And I know similar considerations are being discussed in Europe. 
+Now that is based on the current data generated by RNA vaccines, where there's a belief that the monovalent vaccines based on Wuhan are not giving sufficient cross protection to some of the current circulating variants. So I think it will be important for our candidate, not only to meet the primary endpoint with a prerequisite, of course, but also to show a secondary endpoint as we planned that we get good neutralizing and broad protection against the current variants of concern. Because we're going against the grain a little bit here in that the RNA vaccines have been shown to be insufficient based on their monovalent approach, and they need to be bivalent. So we need data to show that our approach is actually superior to what the RNA vaccines have shown. 
+Now if that is the case, I still believe the commercial opportunity could be quite strong because by definition, the authorities are saying RNA-based vaccines have to change their vaccine each and every year because the monovalent approach is insufficient. Our approach, if we demonstrate it sufficient will be sufficient for the current circulating strains as well. But as I said, I think before I get drawn on what it is a commercial opportunity, I really want to wait for us to read out on our Phase III data because the data in this case is truly key on what commercial opportunity is going to turn out to be.
+
+--------------------------------------------------------------------------------
+Operator    [39]
+--------------------------------------------------------------------------------
+There are no further questions. So I would like to hand back for closing remarks.
+
+--------------------------------------------------------------------------------
+Paul John Chaplin,  Bavarian Nordic A/S - CEO & President    [40]
+--------------------------------------------------------------------------------
+Okay. Well, thank you, everyone, for taking the time to join the call. I appreciate all the questions, and it's another landmark day for Bavarian Nordic with some great news. But thank you for calling and have a great day. Thank you.
+
+--------------------------------------------------------------------------------
+Operator    [41]
+--------------------------------------------------------------------------------
+This concludes today's conference call. Thank you for participating. You may now disconnect.
+
+
+
+
+
+
+
+--------------------------------------------------------------------------------
+Definitions
+--------------------------------------------------------------------------------
+PRELIMINARY TRANSCRIPT: "Preliminary Transcript" indicates that the 
+Transcript has been published in near real-time by an experienced 
+professional transcriber.  While the Preliminary Transcript is highly 
+accurate, it has not been edited to ensure the entire transcription 
+represents a verbatim report of the call.
+
+EDITED TRANSCRIPT: "Edited Transcript" indicates that a team of professional 
+editors have listened to the event a second time to confirm that the 
+content of the call has been transcribed accurately and in full.
+
+--------------------------------------------------------------------------------
+Disclaimer
+--------------------------------------------------------------------------------
+Refinitiv reserves the right to make changes to documents, content, or other 
+information on this web site without obligation to notify any person of 
+such changes.
+
+In the conference calls upon which Event Transcripts are based, companies 
+may make projections or other forward-looking statements regarding a variety 
+of items. Such forward-looking statements are based upon current 
+expectations and involve risks and uncertainties. Actual results may differ 
+materially from those stated in any forward-looking statement based on a 
+number of important factors and risks, which are more specifically 
+identified in the companies' most recent SEC filings. Although the companies 
+may indicate and believe that the assumptions underlying the forward-looking 
+statements are reasonable, any of the assumptions could prove inaccurate or 
+incorrect and, therefore, there can be no assurance that the results 
+contemplated in the forward-looking statements will be realized.
+
+THE INFORMATION CONTAINED IN EVENT TRANSCRIPTS IS A TEXTUAL REPRESENTATION
+OF THE APPLICABLE COMPANY'S CONFERENCE CALL AND WHILE EFFORTS ARE MADE TO
+PROVIDE AN ACCURATE TRANSCRIPTION, THERE MAY BE MATERIAL ERRORS, OMISSIONS,
+OR INACCURACIES IN THE REPORTING OF THE SUBSTANCE OF THE CONFERENCE CALLS.
+IN NO WAY DOES REFINITIV OR THE APPLICABLE COMPANY ASSUME ANY RESPONSIBILITY FOR ANY INVESTMENT OR OTHER
+DECISIONS MADE BASED UPON THE INFORMATION PROVIDED ON THIS WEB SITE OR IN
+ANY EVENT TRANSCRIPT. USERS ARE ADVISED TO REVIEW THE APPLICABLE COMPANY'S
+CONFERENCE CALL ITSELF AND THE APPLICABLE COMPANY'S SEC FILINGS BEFORE
+MAKING ANY INVESTMENT OR OTHER DECISIONS.
+--------------------------------------------------------------------------------
+Copyright 2023 Refinitiv. All Rights Reserved.
+--------------------------------------------------------------------------------

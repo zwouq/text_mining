@@ -1,0 +1,489 @@
+
+
+Refinitiv StreetEvents Event Transcript
+E D I T E D   V E R S I O N
+
+Blueprint Medicines Corp to Expand Precision Therapy Leadership in Lung Cancer with Acquisition of Lengo Therapeutics Inc Call
+NOVEMBER 29, 2021 / 1:30PM GMT
+
+================================================================================
+Corporate Participants
+================================================================================
+
+ * Kristin Hodous
+   Blueprint Medicines Corporation - Senior Manager of IR
+ * Fouad Namouni
+   Blueprint Medicines Corporation - President of Research & Development
+ * Jeffrey W. Albers
+   Blueprint Medicines Corporation - Chairman of the Board, CEO & President
+ * Michael Landsittel
+   Blueprint Medicines Corporation - CFO & Treasurer
+ * Unidentified Company Representative
+    - 
+ * Kathryn Haviland
+   Blueprint Medicines Corporation - COO
+
+================================================================================
+Conference Call Participiants
+================================================================================
+
+ * Joel Lawrence Beatty
+   Robert W. Baird & Co. Incorporated, Research Division - Senior Research Analyst
+ * Arlinda Anna Lee
+   Canaccord Genuity Corp., Research Division - Analyst
+ * Marc Alan Frahm
+   Cowen and Company, LLC, Research Division - Director 
+ * Peter Richard Lawson
+   Barclays Bank PLC, Research Division - Research Analyst
+ * Dane Vincent Leone
+   Raymond James & Associates, Inc., Research Division - Research Analyst
+ * Michael Werner Schmidt
+   Guggenheim Securities, LLC, Research Division - Senior Analyst & Senior MD
+ * Bradley Patrick Canino
+   Stifel, Nicolaus & Company, Incorporated, Research Division - Research Analyst
+ * Andrea R. Tan
+   Goldman Sachs Group, Inc., Research Division - Research Analyst
+ * Andrew Scott Berens
+   SVB Leerink LLC, Research Division - MD of Targeted Oncology & Senior Research Analyst
+ * Reni John Benjamin
+   JMP Securities LLC, Research Division - MD & Equity Research Analyst
+
+================================================================================
+Presentation
+--------------------------------------------------------------------------------
+Operator    [1]
+--------------------------------------------------------------------------------
+
+          Good morning. My name is Juan, and I will be your conference operator today. At this time, I would like to welcome everyone to the Blueprint Medicines Conference Call. (Operator Instructions)  
+I would like now to introduce to your host, Kristin Hodous from Blueprint. Kristin, please, you may begin your conference.
+
+--------------------------------------------------------------------------------
+Kristin Hodous,  Blueprint Medicines Corporation - Senior Manager of IR    [2]
+--------------------------------------------------------------------------------
+
+          Thank you, operator. Good morning, everyone, and welcome to Blueprint Medicines conference call to discuss our planned acquisition of Lengo Therapeutics. This morning, we issued a press release announcing the transaction, which we plan to discuss today. You can access the press release as well as the slides that we'll be reviewing by going to the Investors section of our website, at www.blueprintmedicines.com.  
+Joining us today on our call are Jeff Albers, our Chief Executive Officer; Keith Haviland, our Chief Operating Officer; and Fouad Namouni, our President of Research and Development; Mike Landsittel, our Chief Financial Officer; and Becker Hewes, our Chief Medical Officer, are also joining the call and will be available for Q&A.  
+Before we get started, I would like to remind everyone that statements we make on this conference call will include forward-looking statements. Actual events or results could differ materially from those expressed or implied by any forward-looking statements as a result of various risks, uncertainties and other factors, including those set forth in the Risk Factors section of our SEC filings. In addition, any forward-looking statement made on this call represents our views only as of today and should not be relied upon as representing our views as of any subsequent date. We specifically disclaim any obligation to update or revise any forward-looking statements.  
+Now here's our CEO, Jeff Albers.
+
+--------------------------------------------------------------------------------
+Jeffrey W. Albers,  Blueprint Medicines Corporation - Chairman of the Board, CEO & President    [3]
+--------------------------------------------------------------------------------
+
+          Thanks, Kristin, and good morning, everyone. Today, we're excited to announce that we've reached an agreement to acquire Lengo Therapeutics, a privately held precision oncology company. The deal is centered around their lead therapeutic candidate, LNG-451 and EGFR exon 20 precision therapy with best-in-class potential. This will be our first acquisition, and it represents an important milestone in our journey as a company.  
+As you're aware, we've built Blueprint Medicines with a consistent vision that a broad portfolio of precision therapies would enable us to create a world-class biopharmaceutical company. In our first decade, we focused on developing a highly productive platform and advance an expansive pipeline, including two approved breakthrough therapy medicines, which we're now delivering to patients globally. Today, our strong R&D capabilities and global commercial footprint position us as a leading independent precision therapy company in the world.  
+At the beginning of the year, we talked about our ambition to expand our pipeline by including a focus on external opportunities that complement our existing portfolio efforts. This evolution has opened up a range of new possibilities to build our business and drive growth under our leadership. That brings us to Lengo Therapeutics, which complements our existing portfolio and strengthens our position in lung cancer.  
+With the addition of LNG-451 to our pipeline, we'll have three investigational met therapies each with best-in-class potential, covering nearly all activating mutations in EGFR, the second most common oncogenic driver in lung cancer. It also means we'll have six early development programs that have either recently entered the clinic or are expected to enter the clinic in 2022, which positions us incredibly well as we focus on driving transformative growth with multiple pivotal and proof-of-concept data sets on the horizon.  
+On the call this morning, we'll start with Kate, who will review the details of the transaction and its strategic fit with our portfolio strategy. And then Fouad will discuss the profile of LNG-451 and our conviction that it can be the best-in-class therapy for patients. Kate?
+
+--------------------------------------------------------------------------------
+Kathryn Haviland,  Blueprint Medicines Corporation - COO    [4]
+--------------------------------------------------------------------------------
+
+          Thanks, Jeff.  
+Before I review the terms of the transaction, I'd like to take a moment to talk about our strategy and the path we took to realize this opportunity. Over the course of the last 12 to 18 months as our business and portfolio has matured, we engaged in a thoughtful and disciplined process to evaluate external innovation with a focus on meeting 3 core requirements.  
+First, we look for first-in-class or best-in-class therapeutic programs with the potential to deliver transformative benefits to patients. This is a foundational element of our portfolio strategy, standard we set for ourselves across all of our internal research programs. Second, we look for opportunities to extend our leadership in one or more strategic areas of focus in precision oncology and hematology. This includes lung cancer, where we're bringing our approved medicine GAVRETO to patients with RET-driven disease and advancing two novel EGFR inhibitors in the clinic. Finally, we looked for programs with clear synergies with our existing pipeline, including the stage of the development and time to key inflection points to maximize speed and value for both patients and the company.  
+Our planned acquisition of Lengo Therapeutics meets all three of these requirements. As we explore this opportunity with Lengo, we were impressed with the differentiated profile of LNG-451 generated by their talented team and the progress they had achieved in optimizing an EGFR exon 20 precision therapy to address important patient needs. On their side, the Lengo team recognized the opportunity to maximize patient impact by putting their innovation in Blueprint Medicines' hands, resulting in the transaction we announced earlier today.  
+Under the terms of our agreement, we plan to acquire Lengo for $250 million in cash, plus up to $215 million in future potential payments based on the achievement of certain regulatory approval and sales-based milestones. We expect the deal to close by the end of 2021, subject to expiration of the Hart-Scott-Rodino waiting period and other customary conditions. With $1.3 billion in cash on hand, and increasingly diverse sources of revenue with our ongoing launch of AYVAKIT in advanced systemic mastocytosis and multiple collaboration milestones anticipated in Q4, we're able to fund this acquisition through our strong balance sheet while also maintaining our financial independence based on our current operating plans and potential future revenues.  
+The strength of our balance sheet has given us the freedom to think about research platform diversification and to consider bringing in assets that strategically fit our portfolio. This transaction is exactly the size and the scale that we had in mind and offers clear clinical and commercial synergies across our pipeline, enabling us to operate this program efficiently as we look to bring three innovative EGFR therapies to patients essentially in parallel.  
+We now look ahead to delivering transformative data sets across our portfolio next year, including our systemic mastocytosis in lung cancer programs as well as advancing our CDK2 and [Indiscernible] programs into the clinic. Strategic and disciplined business development will continue to play a targeted role in our portfolio strategy with a view toward diversifying our research platform and extending our scientific leadership in precision medicine.  
+With that, I'll now turn the call over to Fouad.
+
+--------------------------------------------------------------------------------
+Fouad Namouni,  Blueprint Medicines Corporation - President of Research & Development    [5]
+--------------------------------------------------------------------------------
+
+          Thanks, Kate, and good morning, everyone. On prior calls, we have discussed our R&D vision to drive scientific leadership and patient impact through the continued productivity of our research platform, targeted sourcing of external innovation and strong execution across our portfolio. The planned acquisition of Lengo Therapeutics delivers very meaningfully on this vision in four important ways: First, it empowers us to solve intractable patient need in EGFR exon 20 positive lung cancer, a targeted but significant therapeutic area representing 12% of patients with EGFR mutations.  
+In this disease, where 30% of frontline patients present with brain metastases and the brain is a common site of progression, standard of care EGFR inhibitors have offered no benefit to these patients and chemotherapy has been the only treatment option. Earlier this year, two agents were approved in this disease by the FDA. In EGFR exon 20 targeted small molecule and an antibiotic therapy, these agents as well as others in development have important limitations, including tolerability issues related to selectivity and full brain penetration.  
+Second, we believe LNG-451 is a potential best-in-class therapy. Its profile includes highly potent inhibition of all common Exon 20 insertions with about 20-fold selectivity over wild-type EGFR as well as exon overall [kinome] selectivity. In addition, LNG-451 is highly brain penetrant with demonstrated activity in a preclinical model of intracranial disease. Our conviction that LNG-451 achieves these differentiating profiling features is based on strength of the preclinical data compiled by Lengo and the extensive diligence performed by our team of scientists. We will look at opportunities to present key preclinical data for this program at a scientific meeting in the first half of 2022 after the deal closes.  
+Third, LNG-451 fits perfectly with our ongoing EGFR clinical programs. We are currently evaluating BLU-945 in the ongoing SYMPHONY trial, and we are on track to initiate the trial of BLU-701 by year-end. Lengo plans to submit an IND for LNG-451 to the FDA in December, putting us in a position to initiate this trial after the closing of the acquisition. In addition, we expect rapid clinical progress with LNG-451 to set up near-term data milestones, further adding to the constellation of inflection points across our portfolio in the 2022 and 2023 time frame.  
+Finally, this planned acquisition brings additional benefits beyond LNG-451 as their portfolio includes additional undisclosed precision oncology research programs. More broadly, Lengo has a catalog of covalent highly brain penetrant kinase inhibitors, which we plan to incorporate into our proprietary compound library to enable future discovery effort in the field of oncology.  
+Overall, we could not be more pleased with the strategic fit of this transaction, which brings an opportunity to impact the lives of patients quickly and meaningfully and advanced scientific research into new treatments that can benefit additional patient population.  
+With that, I would now like to turn the call over to the operator for questions. Operator?
+
+
+================================================================================
+Questions and Answers
+--------------------------------------------------------------------------------
+Operator    [1]
+--------------------------------------------------------------------------------
+
+          (Operator Instructions) Your first question comes from the line of Salveen Richter from Goldman Sachs.
+
+--------------------------------------------------------------------------------
+Andrea R. Tan,  Goldman Sachs Group, Inc., Research Division - Research Analyst    [2]
+--------------------------------------------------------------------------------
+
+          Congratulations on the deal. This is Andrea on for Salveen. Maybe two for me. On the first, Kate, just wondering if you could speak a little bit more about the rationale for the timing of this deal as you stood ahead of your own EGFR data coming next year?
+
+--------------------------------------------------------------------------------
+Kathryn Haviland,  Blueprint Medicines Corporation - COO    [3]
+--------------------------------------------------------------------------------
+
+          Yes, absolutely, Andrea. Thanks so much for the question. So really, as we thought about the timing of this deal, we think it's perfect moment for us to step into the LNG-451 program. So as we said, the Lengo team has done an excellent job of moving this program forward to IND. And with their plans on track to submit that IND before the end of the year, it's an opportunity for really us to bring in our expertise from our development capabilities to our global reach and really move the program quickly, like we have shown we've done with GAVRETO as well as we are in the doing for BLU-945 and BLU-701. So this was a perfect opportunity for us to really take leadership of the program.
+
+--------------------------------------------------------------------------------
+Andrea R. Tan,  Goldman Sachs Group, Inc., Research Division - Research Analyst    [4]
+--------------------------------------------------------------------------------
+
+          Great. And then, Fouad, maybe one for you. Just you've spoken in the past about the combinability of your EGFR inhibitors. Just wondering how you're thinking about where LNG-451 would fit in? And do you think a triplet therapy could be logical here?
+
+--------------------------------------------------------------------------------
+Fouad Namouni,  Blueprint Medicines Corporation - President of Research & Development    [5]
+--------------------------------------------------------------------------------
+
+          Thank you. We are really very excited about the plan to acquire LNG -- Lengo Therapeutics and LNG-451, we believe it is a highly sedative molecule over wild-type EGFR, highly potent and also importantly, very -- highly brain penetrant. As we continue to move with the data, after the closing, the walk-in clinical trials, I think we have optionality to think about our strategy and combined ability within the EGFR field and lung cancer with a variety of. The profile of all our agents, including this one, a really good candidate for combination overall.
+
+--------------------------------------------------------------------------------
+Operator    [6]
+--------------------------------------------------------------------------------
+
+          And our next question comes from Reni Benjamin from JMP Securities.
+
+--------------------------------------------------------------------------------
+Reni John Benjamin,  JMP Securities LLC, Research Division - MD & Equity Research Analyst    [7]
+--------------------------------------------------------------------------------
+
+          Great. Congratulations on the first ever acquisition. Maybe just from a competitive landscape perspective, can you -- you mentioned the couple of agents that have been approved mobocertinib and amivantamab. And there's probably like two dozen or so other drugs that are in development. Can you talk a little bit about your process as to how you're going to thread this needle given this competitive landscape? And what you saw in this molecule maybe outside of the twentyfold selectivity, maybe you did some experiments on your own, that really gives you the confidence for this molecule over how this competitive landscape is setting up?
+
+--------------------------------------------------------------------------------
+Jeffrey W. Albers,  Blueprint Medicines Corporation - Chairman of the Board, CEO & President    [8]
+--------------------------------------------------------------------------------
+
+          Reni, this is Jeff. I'll start, and then I'll have Fouad add some color. As we start any project internally, we create a target product profile where we pick attributes that we believe would create a transformative benefit for patients. And as part of that, we look at the overall market landscape and understand we don't operate in a vacuum. So that benefit has to be reflective of something that's differentiated from what's out there and available. Obviously, because of our expertise in lung cancer targeted therapies, we know this space very well. We've evaluated the range of approved therapies, clinically -- programs being clinically developed and also have an understanding of what else may be coming based on our constant monitoring of that market landscape. 
+And so as Fouad and Kate on, when we created that target product profile for an EGFR exon 20 program, we were focused on a broad range of attributes, understanding that you really have to offer up a potential compelling benefit for patients in terms of response rate, duration of response. And one of the items that we saw consistently lacking was the balance of selectivity and potency with brain penetration. And so as we -- you've got to know the Lengo team and LNG-451, we truly believe it has a potential to be a differentiated molecule from what exists out in the landscape. I don't know if you want to hit on it any more specifically, Fouad.
+
+--------------------------------------------------------------------------------
+Fouad Namouni,  Blueprint Medicines Corporation - President of Research & Development    [9]
+--------------------------------------------------------------------------------
+
+          One additional thing was when we were looking at this in evaluating this opportunity with all the available information from the other compounds publicly. This allows allowed us to not only understand the preclinical data, but with the amount of clinical data available to us today publicly, we were able to triangulate and understand how the preclinical feature could lead us to the clinical outcome. 
+One of the most important features beyond the very good selectivity that I reported is highly brain penetrant and talking to experts in this EGFR mutated [Indiscernible] cancer fees as we were setting our target profile. One key feature is highly Indiscernible . This disease is a disease that progresses very, very quickly into the brain. And today, the expert community are not really satisfied what they are seeing. So I think with this LNG-451, we have a good opportunity to have a best-in-class molecule at pre-IND.
+
+--------------------------------------------------------------------------------
+Unidentified Company Representative,   -     [10]
+--------------------------------------------------------------------------------
+
+          And maybe I'll just add that, that we focus on the molecule. The other piece is on how you execute against such a program from a clinical development perspective. And then over the longer term potentially commercially. And the timing of the molecule as Kate highlighted it with the potential IND this month and ready to enter the clinic early next year, we will -- it will allow us to capitalize on infrastructure and capability we've already put in place in this area. So it's so highly complementary with our other efforts in our EGFR programs targeting other mutations. So that ability to find the right program and then the confidence that we can execute against it really efficiently combines to make it as Kate said really a perfect fit for our portfolio.
+
+--------------------------------------------------------------------------------
+Operator    [11]
+--------------------------------------------------------------------------------
+
+          Our next question comes from Marc Frahm from Cowen.
+
+--------------------------------------------------------------------------------
+Marc Alan Frahm,  Cowen and Company, LLC, Research Division - Director     [12]
+--------------------------------------------------------------------------------
+
+          Congrats on getting the deal signed. Maybe to sir Fouad. Just how are you primarily thinking about this in terms of when we look at the clinical data playing out over time? Is -- it is the efficacy story likely to be a much higher response rate? Is that what you're really looking for? Or is this much more going to be focused on the durability over time and maybe the upfront response rate wouldn't be terribly different? And then kind of similar to that on the safety side, would you expect given that selectivity that this is going to be significantly better tolerated than those approved drugs? Or would you expect it to be more in line?
+
+--------------------------------------------------------------------------------
+Fouad Namouni,  Blueprint Medicines Corporation - President of Research & Development    [13]
+--------------------------------------------------------------------------------
+
+          Thanks, Marc. To your first question in terms of efficacy, obviously, from a highly proven molecule against exon 20, most of exon 20 insertions, we expect a good efficacy profile overall, not only in terms of overall response rate, but more importantly, in terms of activity on the CNS on the brain disease, and that's something really  important in this disease. When you add on top of that a high selectivity versus EGFR wild type, it's going to probably give it a good and safe profile, allowing a longer duration of treatment and less discontinuation, enhancing -- further enhancing the efficacy of the compound. So we really believe the attributes are described in terms of high potency, in terms of sensitivity over wild type and in terms of brain penetration will all work together to improve not only the efficacy, but also the [Indiscernible].
+
+--------------------------------------------------------------------------------
+Marc Alan Frahm,  Cowen and Company, LLC, Research Division - Director     [14]
+--------------------------------------------------------------------------------
+
+          That's helpful. And then in terms of kind of translating some of that preclinical data into the clinic. Have you learned anything from your ongoing EGFR programs that helped due diligence to the brains question of the dozens of molecules that are out there and why this is the best one?
+
+--------------------------------------------------------------------------------
+Fouad Namouni,  Blueprint Medicines Corporation - President of Research & Development    [15]
+--------------------------------------------------------------------------------
+
+          Our team of scientists and clinicians, Marc, have been working on EGFR program for more than last two or three years and they developed an internal knowledge and expertise, not only in the preclinical space, but also now in the clinical space and have the ability to understand how data translates from the preclinical work to the clinical work, whether in terms of selectivity power compounds. We developed selective compounds for EGFR mutation for BLU-945 with BLU-701. So there's a good understanding of how to assess that selectivity in terms of assays and sublines and models. From a brain penetration, I mean, we developed BLU-701, I mean they are familiar with this data that is highly very penetrant, so that our team developed the skills to understand how to select the compound. 
+All that with the support of the expert community really helping us and directing us towards what is needed for this disease in the context of what is available today for this specific disease, the LNG-451 made a lot of sense to us. And as I mentioned, we believe we have taken the right attributes that we have been looking for.
+
+--------------------------------------------------------------------------------
+Jeffrey W. Albers,  Blueprint Medicines Corporation - Chairman of the Board, CEO & President    [16]
+--------------------------------------------------------------------------------
+
+          Marc, this is Jeff. I'll add an anecdote to Fouad's summary. I can tell you that the team we have are probably not dissimilar from a lot of other companies at our stage. There's often a skepticism when we look at programs outside of the ones developed here. And we create really stringent target product profiles. And so we've looked at a lot of different molecules and approaches in this space. And I can tell you when we had the first deep diligence call with the Lengo team, there's just this quick activity of members of Fouad's team, both on the clinical side and on the scientific side where just almost like a disbelief of "wow we're just picking our target product profile." 
+This one, it really is what they're saying and the quality of the data and the quality of the work done by their team just instantly was impressive. It sort of goes to the idea that we understand there's a lot of different ways to develop a program in this area. And if you really want to have a meaningful transformative benefit for patients, you better hit a broad range of stringent criteria, which we believe LNG-451 does.
+
+--------------------------------------------------------------------------------
+Operator    [17]
+--------------------------------------------------------------------------------
+
+          Your next question comes from Andrew Berens from Leerink.
+
+--------------------------------------------------------------------------------
+Andrew Scott Berens,  SVB Leerink LLC, Research Division - MD of Targeted Oncology & Senior Research Analyst    [18]
+--------------------------------------------------------------------------------
+
+          I was wondering how well the preclinical models actually predict the brain penetration in humans. We haven't really had a chance to look for published data on LNG-451, but have the CNS penetration data presented anywhere? And if there's any ability to compare those to Tagrisso in regards to the CNS activity, that would be appreciated? 
+And then just two more. Do you see the profile of this drug extending beyond exon 20 insertions in lung cancer? And how do you think the profile will fail in regards to GI toxicity that some of the other exon 20 drugs have experienced?
+
+--------------------------------------------------------------------------------
+Fouad Namouni,  Blueprint Medicines Corporation - President of Research & Development    [19]
+--------------------------------------------------------------------------------
+
+          Andrew, the first is the CNS data preclinical to clinical from our own experience, BLU-701 and BLU-945. The data that our team evaluated makes us confident in the highly brain penetrant molecule, which I would say is probably higher than the overall -- the average compounds we see in the EGFR space. The data has not been presented yet. And as I mentioned earlier, we'll have the opportunity to present this data first half of next year after we close the deal with Lengo Therapeutics. 
+For the selectivity from exon 20 or beyond exon 20, this compound is highly selective of exon 20. The plan is for the compound is to be developed in exon 20-positive small cell lung cancer as the monotherapy opportunities will come later to understand the development strategy in terms of combinations in line of therapy. 
+Lastly, for the GI toxicity question, from the data we have seen, the preclinical data we have seen, the [Indiscernible] data we have seen, we believe the overall profile in terms of GI toxicity in terms of skin toxicity will be rather on the favorable side. So overall, with this compound that is highly potent and highly brain penetrant and selected over wild-type EGFR, as I mentioned earlier, there is really potential for this to be the best in class.
+
+--------------------------------------------------------------------------------
+Andrew Scott Berens,  SVB Leerink LLC, Research Division - MD of Targeted Oncology & Senior Research Analyst    [20]
+--------------------------------------------------------------------------------
+
+          Okay. And then just one more, if you don't mind. Is there anything else in the pipeline that you guys are excited about? Or anything that these guys do differently in their drug development process that could lead to more products?
+
+--------------------------------------------------------------------------------
+Fouad Namouni,  Blueprint Medicines Corporation - President of Research & Development    [21]
+--------------------------------------------------------------------------------
+
+          Lengo Therapeutics has a few programs in the oncology field that has not been disclosed. What we can say overall that we are happy really to bring this know-how of covalent and highly brain-penetrant molecule that will really enrich our proprietary compound library and allow us to move in a number of directions helpfully in the three months of [Indiscernible].
+
+--------------------------------------------------------------------------------
+Operator    [22]
+--------------------------------------------------------------------------------
+
+          And your next question comes from Dane Leone from Raymond James.
+
+--------------------------------------------------------------------------------
+Dane Vincent Leone,  Raymond James & Associates, Inc., Research Division - Research Analyst    [23]
+--------------------------------------------------------------------------------
+
+          Congratulations on the acquisition of LNG-451. Two questions for me. Firstly, could you provide a perspective in your interpretation of Cohort E from the [Indiscernible] study of amivantamab plus lazertinib? I think that feeling from the clinical community was that there really wasn't much of the benefit of the combination. The why on that, I guess, is still a bit debated, but Clearly, that's a strategy in combination where I think the field is going with exon 20 mutations and/or resistant dose lazertinib. 
+So could you define what your team's interpretation was? Why maybe Cohort E didn't really fit the purpose of what maybe was hoped and how your portfolio might solve that? And then secondly, could you just comment in terms of your continued appetite for external asset acquisition heading into 2022? Is this kind of the right deal at the right time? Or are you still interested in external assets?
+
+--------------------------------------------------------------------------------
+Jeffrey W. Albers,  Blueprint Medicines Corporation - Chairman of the Board, CEO & President    [24]
+--------------------------------------------------------------------------------
+
+          So Fouad, why don't you take the first part of that question, then Kate, you talked about the strategic component?
+
+--------------------------------------------------------------------------------
+Fouad Namouni,  Blueprint Medicines Corporation - President of Research & Development    [25]
+--------------------------------------------------------------------------------
+
+          Thank you, Dane. So first, really, I mean, I'm going to focus on what we understand and what we know in particular on what our planned acquisition for a LNG-451 and Lengo Therapeutics, we've been trying to see you're asking about. And there are a variety of strategies and there are actually two, I would say, different groups of patients early are on 20 mutated patients from the data we know today out there that the single-agent activity overall would be good for some patients but the brain penetration is not there; and two, the safety profile still needs a major improvement. And that obviously is leading to shorter duration of therapies and impacting the benefit for patients. 
+So where we plan to go is in exon 20 insertions for non-small cell lung cancer patients. And we will -- we believe the profile of our agent will really bring in addition to these patients. The other part, we're combining some agents with third-generation GFR trying to show superiority to lazertinib. I mean there are trials there, and the question is still open we will see what randomized trial data will show us in that specific field. In that field, we -- as we mentioned earlier, we are developing combination our EGFR agents BLU-945 and BLU-701 to really go and tap on both the exon 19 deletion driven and the LR858.  But it is the LR858 power that's driven non-small cell lunger cancer. 
+I think overall, the profile of data -- of our patients in terms of combination, whether it's BLU-945, BLU-701 or even LNG-451 have a level of selectivity and key figures that could make them very good combination partners. So combination overall is a part of our strategy, monotherapy the other part of our strategy. And more importantly for us in the short term is really to execute rapidly to make sure we generate the Phase I/II data, we hit on regulatory milestones, but also we've now moved to [Indiscernible] lines of therapy.
+
+--------------------------------------------------------------------------------
+Kathryn Haviland,  Blueprint Medicines Corporation - COO    [26]
+--------------------------------------------------------------------------------
+
+          Yes. So -- and Dane, I'll take the question on the strategic fit. So really, the strength of our balance sheet, as we had talked about, gave us the freedom to think about how we want to -- opportunities to diversify both our research platform as well as consider bringing in assets that are complementary to our portfolio. We -- just like with our target product profiles, we hold a very high bar, particularly as we think about assets that we'd like to bring into the portfolio. 
+And as I mentioned in the prepared remarks, three criteria that: first, our best-in-class therapeutic programs in areas of focus where we have significant and deep expertise, particularly in precision therapy, in lung cancer and in hematology. And then also where we have very clear synergies with our existing pipeline. And so we have been very active over the last 18 months, looking at opportunities for both research platform diversification as well as any assets that could meet those criteria. And there's -- that is something that we will continue to look at. But really, this fit all of those exceptionally well From the perspective of the target product profile as Fouad has talked quite extensively about as well as the timing of the program. 
+The fact that the team is on track to submit an IND this month, and it can slot very nicely into our ongoing efforts in BLU-945 and BLU-701, I mean the synergies could not be more profound. And then we're out there now with GAVRETO and where we've built a lot of commercial expertise that we'll continue to build and leverage as we move all three of these programs in parallel. And so this is just the right program at the right time, and it's the size of transaction that we had thought about and considered. And we're very focused on maintaining our financial independence and making sure that we continue to have disciplined operating plans as we look for these future opportunities.
+
+--------------------------------------------------------------------------------
+Operator    [27]
+--------------------------------------------------------------------------------
+
+          Your next question comes from Arlinda Lee from Canaccord.
+
+--------------------------------------------------------------------------------
+Arlinda Anna Lee,  Canaccord Genuity Corp., Research Division - Analyst    [28]
+--------------------------------------------------------------------------------
+
+          Congratulations on the deal. I had maybe a couple of questions. One, I guess on the combinability that you guys are talking about, maybe talk about the preclinical data that presumably, you've been maybe generating to look at the combinability and what you've seen there that's exciting? And then maybe on the other programs in the library from [Indiscernible] and maybe the San Diego site. Can you maybe talk about how you're intending to integrate those or not into your existing platform?
+
+--------------------------------------------------------------------------------
+Fouad Namouni,  Blueprint Medicines Corporation - President of Research & Development    [29]
+--------------------------------------------------------------------------------
+
+          Arlinda, in terms of combinability obviously, it's too early to talk about exon 24 now, and it's really something that we will look at after closing and as we develop the plans. On the other hand, your question around our EGFR preclinical data combined the BLU-701 and BLU-945, as I mentioned in prior call, I think those very happy to see the data becoming available to us and its potential. The data will be presented at the conference early next year. And the preclinical data will be presented at the conference early next year, and we'll give you more guidance around the beginning of the timing. 
+In terms of other programs in Lengo therapeutics pipeline, as I mentioned, allocating there is an opportunity to bring some programs. It's very, early days. We have to work, but we are already working on them. But we are particularly excited about the catalog of [Indiscernible] and highly brain penetrant molecules that they developed that will be really very complementary to our library of compounds at the group, and we are excited about that.
+
+--------------------------------------------------------------------------------
+Operator    [30]
+--------------------------------------------------------------------------------
+
+          Your next question comes from Michael Schmidt from Guggenheim.
+
+--------------------------------------------------------------------------------
+Michael Werner Schmidt,  Guggenheim Securities, LLC, Research Division - Senior Analyst & Senior MD    [31]
+--------------------------------------------------------------------------------
+
+          I may have missed it, but does the drug have activity against HER2 S120 mutations as well? And then a couple of other questions were on just how the deal may impact your operating expense run rate going forward? And what will trigger the milestone payments to Lengo?
+
+--------------------------------------------------------------------------------
+Jeffrey W. Albers,  Blueprint Medicines Corporation - Chairman of the Board, CEO & President    [32]
+--------------------------------------------------------------------------------
+
+          Fouad, why don't you take the first part and then, Mike, you can take the operating expense component?
+
+--------------------------------------------------------------------------------
+Fouad Namouni,  Blueprint Medicines Corporation - President of Research & Development    [33]
+--------------------------------------------------------------------------------
+
+          Michael, the LNG-451 for this compound is specifically set and targeting exon -- EGFR exon 20 insertions.
+
+--------------------------------------------------------------------------------
+Michael Landsittel,  Blueprint Medicines Corporation - CFO & Treasurer    [34]
+--------------------------------------------------------------------------------
+
+          Yes. And then with respect to the operating expense guidance. So as Kate noted, we believe this program is going to be highly complementary with our current development efforts in the EGFR space with our ongoing trials with BLU-945 and plan trial of BLU-701. And so we'll continue to expect to see quarter-over-quarter expense growth and you could expect some incremental growth with this acquisition. But overall, we think it's going to be highly complementary as we move all of these programs forward into the clinic. 
+And then I think you had a question just with respect to what triggers the milestone payments. And so the milestones, it's up to $215 million in milestones, and those are based on certain regulatory approval events and sales-based milestones.
+
+--------------------------------------------------------------------------------
+Operator    [35]
+--------------------------------------------------------------------------------
+
+          Your next question comes from Joel Beatty from Baird.
+
+--------------------------------------------------------------------------------
+Joel Lawrence Beatty,  Robert W. Baird & Co. Incorporated, Research Division - Senior Research Analyst    [36]
+--------------------------------------------------------------------------------
+
+          Congrats on the deal. Fouad, are you able to say anything about the anticipated dosing levels that you anticipate using in the human studies?
+
+--------------------------------------------------------------------------------
+Fouad Namouni,  Blueprint Medicines Corporation - President of Research & Development    [37]
+--------------------------------------------------------------------------------
+
+          Thanks for the question, Joel. It's too early to test 30 days, the compound, the LNG-451 is IND-ready compound. We are very excited to see Lengo Therapeutics moving the IND forward and us starting the clinical trial after the closing, it's very early now to at least talk about dosing at this point.
+
+--------------------------------------------------------------------------------
+Operator    [38]
+--------------------------------------------------------------------------------
+
+          Our next question comes from Peter Lawson from Barclays.
+
+--------------------------------------------------------------------------------
+Peter Richard Lawson,  Barclays Bank PLC, Research Division - Research Analyst    [39]
+--------------------------------------------------------------------------------
+
+          Great. Just any details you could give around what exon 20 insertions that LNG-451 hit harder? And then any way you can kind of quantify or semi quantify the brain penetration versus other approved or developmental molecules would be great?
+
+--------------------------------------------------------------------------------
+Fouad Namouni,  Blueprint Medicines Corporation - President of Research & Development    [40]
+--------------------------------------------------------------------------------
+
+          Without being specific on specific insertion, what I can tell you, Peter, is LNG-451 is highly potent on all common insertions. And actually, what we're pleased to see is not only one or two major insertions, but all the insertion, we believe that's a good thing.
+
+--------------------------------------------------------------------------------
+Peter Richard Lawson,  Barclays Bank PLC, Research Division - Research Analyst    [41]
+--------------------------------------------------------------------------------
+
+          Then in brain penetration?
+
+--------------------------------------------------------------------------------
+Fouad Namouni,  Blueprint Medicines Corporation - President of Research & Development    [42]
+--------------------------------------------------------------------------------
+
+          In terms of brain penetration data, obviously, I don't have numbers to share today. On the other hand, I can tell you that given our experience, in particular with BLU-701 and our understanding of the available molecules and medicines out there, the brain penetration we see with LNG-451 is very high.
+
+--------------------------------------------------------------------------------
+Operator    [43]
+--------------------------------------------------------------------------------
+
+          (Operator Instructions) Your next question comes from Brad from Stifel.
+
+--------------------------------------------------------------------------------
+Bradley Patrick Canino,  Stifel, Nicolaus & Company, Incorporated, Research Division - Research Analyst    [44]
+--------------------------------------------------------------------------------
+
+          And maybe for Mike here, when I look at the enterprise values for the next-generation exon 20 inhibitors that at least do initially look better than mobocertinib. They range from $0 million to $350 million for Phase I and II assets. So within that context, can you add more comments around the $250 million purchase price, and I guess, $465 million all in? And just be great to hear some of your assumptions about line of therapy and competitive intensity?
+
+--------------------------------------------------------------------------------
+Kathryn Haviland,  Blueprint Medicines Corporation - COO    [45]
+--------------------------------------------------------------------------------
+
+          I can start and then might leave that color. So this is Kate. So when we look at the opportunity for LNG-451 to potentially be a best-in-class therapy. And then we know that in exon 20 insertions are 1% to 2% of over non-small cell lung cancer. And the significant medical need exist in this space, right? So as Fouad was  mentioning, even most recently, we had an ad Board around our own EGFR programs. And one of the things that the experts have been talking about is just the significant rate of brain progression even with the kind of newer therapies available for patients with exon 20-driven non-small cell lung cancer. 
+So similar to our other programs, we think the opportunity size is really compelling. And we think with a best-in-class assets that we have the opportunity to bring a new medicine forward that is going to meet a very significant medical need. And so we feel very good about the transaction in terms of the financial investment and our perspective and then, I don't know if you have anything else to add?
+
+--------------------------------------------------------------------------------
+Michael Landsittel,  Blueprint Medicines Corporation - CFO & Treasurer    [46]
+--------------------------------------------------------------------------------
+
+          Yes. No. And I think just as I mentioned before, I think it's highly complementary. So from a synergies perspective, but from our development efforts and our commercial efforts, we think it fits really well into our portfolio. And when you put all that together with the opportunity size that Kate mentioned, I think it's a great opportunity for us to continue to build our portfolio here.
+
+--------------------------------------------------------------------------------
+Kathryn Haviland,  Blueprint Medicines Corporation - COO    [47]
+--------------------------------------------------------------------------------
+
+          Yes, it's going to allow us, as we move the program, hopefully, into the commercial setting to drive a lot of top-line revenue with very little cost associated.
+
+--------------------------------------------------------------------------------
+Fouad Namouni,  Blueprint Medicines Corporation - President of Research & Development    [48]
+--------------------------------------------------------------------------------
+
+          I think about the [ALK] space as you can make incremental improvements or you can hit the broad range of attributes in the target product profile. And we look at LNG-451 and believe it has, that blend of characteristics to make it potentially best-in-class.
+
+--------------------------------------------------------------------------------
+Bradley Patrick Canino,  Stifel, Nicolaus & Company, Incorporated, Research Division - Research Analyst    [49]
+--------------------------------------------------------------------------------
+
+          Yes. And I guess on that, there is some literature on the kinase pocket that's created with the exon 20 mutation, how difficult it is to target, but not ever and I speak with agrees with that literature. So how does the Lengo team brought any proprietary information around the mutation pocket, maybe assays to judge the profile of the drug in context specifically of this mutation?
+
+--------------------------------------------------------------------------------
+Fouad Namouni,  Blueprint Medicines Corporation - President of Research & Development    [50]
+--------------------------------------------------------------------------------
+
+          All I can answer a few questions, Brad, at this point. Our scientists who work in this space and are very familiar with the space have been looking at this area specifically. We're extremely pleased during the due diligence, what they have seen in terms of work, including assays that were used, including the way the Lengo team have been looking at the second half at this point, to go into more specifics.
+
+--------------------------------------------------------------------------------
+Operator    [51]
+--------------------------------------------------------------------------------
+
+          We currently have no further questions. I will now hand over to Mr. Albers for any final remarks.
+
+--------------------------------------------------------------------------------
+Jeffrey W. Albers,  Blueprint Medicines Corporation - Chairman of the Board, CEO & President    [52]
+--------------------------------------------------------------------------------
+
+          Great. Thanks, operator, and thanks, everyone, for taking time to join us today. Obviously, I think you can capture from the code of the answers in the prepared remarks. We're are really excited about this opportunity and believe it clusters in a new wave or a new stage for Blueprint Medicines as a company as we continue to look at both internal innovation and external innovation to build the premier precision medicine company. So, look forward to catching up with all of you again soon, and have a great day. Bye-bye.
+
+--------------------------------------------------------------------------------
+Operator    [53]
+--------------------------------------------------------------------------------
+
+          This concludes today's call. Thank you so much for joining. You may now disconnect your lines, and enjoy the rest of your day.
+
+
+
+
+
+
+
+--------------------------------------------------------------------------------
+Definitions
+--------------------------------------------------------------------------------
+PRELIMINARY TRANSCRIPT: "Preliminary Transcript" indicates that the 
+Transcript has been published in near real-time by an experienced 
+professional transcriber.  While the Preliminary Transcript is highly 
+accurate, it has not been edited to ensure the entire transcription 
+represents a verbatim report of the call.
+
+EDITED TRANSCRIPT: "Edited Transcript" indicates that a team of professional 
+editors have listened to the event a second time to confirm that the 
+content of the call has been transcribed accurately and in full.
+
+--------------------------------------------------------------------------------
+Disclaimer
+--------------------------------------------------------------------------------
+Refinitiv reserves the right to make changes to documents, content, or other 
+information on this web site without obligation to notify any person of 
+such changes.
+
+In the conference calls upon which Event Transcripts are based, companies 
+may make projections or other forward-looking statements regarding a variety 
+of items. Such forward-looking statements are based upon current 
+expectations and involve risks and uncertainties. Actual results may differ 
+materially from those stated in any forward-looking statement based on a 
+number of important factors and risks, which are more specifically 
+identified in the companies' most recent SEC filings. Although the companies 
+may indicate and believe that the assumptions underlying the forward-looking 
+statements are reasonable, any of the assumptions could prove inaccurate or 
+incorrect and, therefore, there can be no assurance that the results 
+contemplated in the forward-looking statements will be realized.
+
+THE INFORMATION CONTAINED IN EVENT TRANSCRIPTS IS A TEXTUAL REPRESENTATION
+OF THE APPLICABLE COMPANY'S CONFERENCE CALL AND WHILE EFFORTS ARE MADE TO
+PROVIDE AN ACCURATE TRANSCRIPTION, THERE MAY BE MATERIAL ERRORS, OMISSIONS,
+OR INACCURACIES IN THE REPORTING OF THE SUBSTANCE OF THE CONFERENCE CALLS.
+IN NO WAY DOES REFINITIV OR THE APPLICABLE COMPANY ASSUME ANY RESPONSIBILITY FOR ANY INVESTMENT OR OTHER
+DECISIONS MADE BASED UPON THE INFORMATION PROVIDED ON THIS WEB SITE OR IN
+ANY EVENT TRANSCRIPT. USERS ARE ADVISED TO REVIEW THE APPLICABLE COMPANY'S
+CONFERENCE CALL ITSELF AND THE APPLICABLE COMPANY'S SEC FILINGS BEFORE
+MAKING ANY INVESTMENT OR OTHER DECISIONS.
+--------------------------------------------------------------------------------
+Copyright 2023 Refinitiv. All Rights Reserved.
+--------------------------------------------------------------------------------

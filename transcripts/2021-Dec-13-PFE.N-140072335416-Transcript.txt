@@ -1,0 +1,529 @@
+
+
+Refinitiv StreetEvents Event Transcript
+E D I T E D   V E R S I O N
+
+Pfizer Inc To Acquire Arena Pharmaceuticals Inc - M&amp;A Call
+DECEMBER 13, 2021 / 3:00PM GMT
+
+================================================================================
+Corporate Participants
+================================================================================
+
+ * Aamir Malik
+   Pfizer Inc. - Executive VP & Chief Business Innovation Officer
+ * Michael Corbo
+   Pfizer Inc. - Chief Development Officer, Inflammation & Immunology
+ * Christopher J. Stevo
+   Pfizer Inc. - Senior VP & Chief IR Officer
+ * Michael S. Vincent
+   Pfizer Inc. - Senior VP and Chief Scientific Officer, Inflammation & Immunology
+ * Mike Gladstone
+   Pfizer Inc. - Global President, Inflammation & Immunology
+
+================================================================================
+Conference Call Participiants
+================================================================================
+
+ * Stephen Michael Scala
+   Cowen and Company, LLC, Research Division - MD & Senior Research Analyst
+ * Na Sun
+   SVB Leerink LLC, Research Division - Research Analyst
+ * Ronny Gal
+   Sanford C. Bernstein & Co., L.L.C. - Senior Research Analyst
+ * Charlie Yang
+   Morgan Stanley & Co. LLC - Research Analyst
+ * Louise Alesandra Chen
+   Cantor Fitzgerald & Co., Research Division - Senior Research Analyst & MD
+ * Carter Lewis Gould
+   Barclays Bank PLC, Research Division - Senior Analyst
+ * Kennen B. MacKay
+   RBC Capital Markets, Research Division - MD & Co-Head of US Biotechnology Research
+ * Nicole Germino
+   Truist Securities - Research Analyst
+ * Vamil Kishore Divan
+   Mizuho Securities USA LLC, Research Division - MD
+ * Andrew Simon Baum
+   Citigroup Inc. Exchange Research - Research Analyst
+ * Christopher Thomas Schott
+   JPMorgan Chase & Co, Research Division - Senior Analyst
+ * Evan David Seigerman
+   BMO Capital Markets Equity Research - MD & Senior BioPharma Research Analyst
+
+================================================================================
+Presentation
+--------------------------------------------------------------------------------
+Operator    [1]
+--------------------------------------------------------------------------------
+Good day, everyone, and welcome to Pfizer's analyst and investor call to discuss the proposed acquisition of Arena Pharmaceuticals, Inc. Today's call is being recorded.
+At this time, I would like to turn the call over to Mr. Chris Stevo, Senior Vice President and Chief Investor Relations Officer. Please go ahead, sir.
+
+--------------------------------------------------------------------------------
+Christopher J. Stevo,  Pfizer Inc. - Senior VP & Chief IR Officer    [2]
+--------------------------------------------------------------------------------
+Thank you, Sylvia. Good morning, everyone, and thank you for joining us on short notice. We'll be making forward-looking commentary and statements during the call regarding, amongst other topics, our I&I pipeline, in-line products and product candidates and the proposed acquisition of Arena Pharmaceuticals, Inc. by Pfizer, which are subject to risks and uncertainties.
+Additional information regarding forward-looking statements is available under Risk Factors and forward-looking information and factors that may affect future results in our SEC filings on Form 10-K and 10-Q and in the press release we issued this morning. Forward-looking statements on the call speaks only as of the call's original date, and we undertake no obligation to update or revise any of the statements.
+Today, we will be hearing from Aamir Malik, EVP, Chief Business Innovation Officer; as well as our leaders in Inflammation and Immunology; Mike Gladstone, I&I Global President; Mike Corbo, our I&I Chief Development Officer; and Mike Vincent, our I&I Chief Scientific Officer.
+I'm now pleased to turn it over to Aamir.
+
+--------------------------------------------------------------------------------
+Aamir Malik,  Pfizer Inc. - Executive VP & Chief Business Innovation Officer    [3]
+--------------------------------------------------------------------------------
+Thanks, Chris, and thank you, everyone, for your time today. Before I turn the call over to our immuno-inflammatory team to drill down on the opportunity that we see with Arena, I wanted to set the stage by talking about Pfizer's overall capital allocation priorities and how Arena fits into them.
+Our first commitment is to maintain and grow our dividend over time as we believe that is foundational to how we provide returns to our shareholders' capital. Buybacks also remain a way to return capital, which we cannot deploy in a shareholder value-creating manner.
+However, we are very excited right now about Pfizer having robust opportunities, both through internal R&D investments and externally through collaborations and acquisitions to create value, first and foremost, for patients and, if we do that well, then for our shareholders.
+Pfizer has been on a journey to become a science and innovation-driven biopharmaceutical company, and this will continue to be our focus. As an organization, we have to make thoughtful, well-informed capital allocation decisions when it comes to R&D and M&A and drive innovations and advancements in our business model.
+Our capital allocation priorities are the following. We will concentrate on advancing our internal pipeline to patients. Being thoughtful and disciplined about resource allocation has been a long-standing hallmark of how Pfizer operates. We will continue to maintain that discipline in deciding where to put our R&D investments to generate the most returns. But we will also focus on agility in making those decisions so that we can adapt as the science changes and continually challenge ourselves to find creative options to increase our speed, manage risk and make the most impact on patient health.
+As the world of scientific possibilities continues to expand, both internally for us and for what we might access externally, we will also seek out compelling science from the outside to augment our internal efforts. Specifically, we are interested in compelling later-stage assets that can contribute positively to our top line growth in the back half of the decade. And we are also interested in accessing medical breakthroughs that are in earlier stages of development.
+We see focusing in these areas as creating more value than synergy-driven deals that require resource-intensive integrations, which can take a long time to complete. If we see a larger acquisition opportunity that is strategic and we deem as value creating, we certainly have the very solid balance sheet we can utilize to pursue that.
+We will not speak in absolutes, and we never say never because we know circumstances can change. But right now, our focus will be, as I described, compelling later-stage assets and earlier-stage medical breakthroughs.
+And finally, we will also continue to find ways where technology and data can play a role in accelerating the delivery of our medicines to patients and in bringing more value to patients. We're fortunate to have the balance sheet and financial flexibility to allow us to pursue all these opportunities to their fullest. Executing on these priorities will be our focus.
+Next slide, please. Now having outlined Pfizer's capital allocation priorities, we see business development as a key enabler of our strategy, and we will use BD to bolster our pipeline with targeted investments that we believe will be fundamental breakthroughs to bring in more and better substrate to Pfizer. We believe combining BD activity with our Lightspeed methodology and capabilities will allow us to accelerate timelines, focus on more breakthroughs and create more value for both patients and shareholders.
+With that, I would like to now turn over to my Inflammation and Immunology colleagues to share how today's transaction with Arena fits into that strategy. Next slide, please.
+
+--------------------------------------------------------------------------------
+Mike Gladstone,  Pfizer Inc. - Global President, Inflammation & Immunology    [4]
+--------------------------------------------------------------------------------
+Thanks, Aamir. There remains a huge -- and this is Mike Gladstone, by the way. There remains a huge unmet need for patients who suffer with immuno-inflammatory diseases. These patient populations are heterogeneous. In order to serve these patients, it requires a robust pipeline with complementary mechanisms to address their varying needs. The future is bright for these patients because we're focused on rheumatology, gastroenterology and medical dermatology.
+We continue to innovate because patients continue to need options. Here, diversity of options is key. There's no silver bullet for these immuno-inflammatory diseases, and there's always going to be a need for multiple options for patients seeking relief.
+Now let's speak to the journey of our patients -- that our patients are on for just a moment. We're talking about serious debilitating conditions. These conditions can steal their independence. It can limit their mobility and it often disfigures their bodies. Ultimately, you can keep them from enjoying life's best moments. Let's think about the UC patient here for a moment, the ulcerative colitis patient.
+Imagine the stress and anxiety you'd feel if you were at a key life event or a wedding. Imagine the worry and stress you might feel about having a flare-up of ulcerative colitis during that important time, what that would mean?
+If we look closer at the ulcerative colitis patient for a moment, not all patients respond to existing therapies in the same way. And the vast majority of these patients do not reach remission. And if they do, they have trouble maintaining it because many of the medicines they're taking often stop working over time, and they need to start that cycle all over again.
+We need to continue to innovate here to meet the needs of these patients and to give them more options. That's why the strategy we're executing on here is to diversify the mechanisms in our portfolio, and that brings us to Arena. If you could go to the next slide, please.
+Pfizer has entered into an agreement to acquire Arena, a clinical stage company developing innovative potential therapies for the treatment of several immuno-inflammatory diseases. This is a strategic acquisition. It's a great opportunity to bring promising potential new therapies to the patients that desperately need them. And at the same time, it further diversifies our portfolio.
+At the heart of this deal is etrasimod. It's a novel oral S1P with a near-term opportunity in GI. This proposed acquisition has a strong strategic fit. It aligns with our industry-leading capabilities and global commercialization and gastroenterology and etrasimod has the potential for best-in-class efficacy.
+Now this aligns with Pfizer's breakthrough development metrics. It brings diverse MoA into our already strong portfolio, which includes industry-leading JAKs and biosimilars. This acquisition, important to note, has the potential for significant revenue contribution in the critical years of 2025 to 2030.
+We're acquiring the company and all of its assets in development, but the driver is etrasimod's potential in IBD and its near-term launch in ulcerative colitis. We're really excited about what etrasimod can bring to patients with IBD and its potential for additional value by helping patients with AD and other indications.
+Diligence also affirms our perspective on ulcerative colitis and potential superiority to the standard of care. All in all, we're excited for the value that etrasimod can bring to patients and also to our business when this transaction is complete, which is subject to regulatory approvals and customary closing conditions. Please go to the next slide, please.
+Pfizer brings significant value to this potential medicine as well. We have the infrastructure established to bring potential therapies to patients sooner with an accelerated trajectory. We've got deep R&D experience in immuno-inflammation science and, specifically GI, where it's going to be needed first.
+Our extensive network of sites, investigators and key opinion leaders will all help us accelerate development. Pfizer's engine includes a first-class global supply chain, and the world has seen that in action with the rapid scaling and incredible excellence in production and distribution of our COVID vaccine recently.
+On the commercial side, we can hit the ground running with our established sales and marketing expertise in GI and our existing connections with specialists. Add to that Pfizer's global strength in R&D, supply chain and commercialization means that we can do more for this potential therapy, getting it into patient hands faster as well as potentially driving revenue in an accelerated fashion.
+Now I'd like to turn things over to our Chief Scientific Officer, Mike Vincent, to give you some specifics on the asset itself. Mike?
+
+--------------------------------------------------------------------------------
+Michael S. Vincent,  Pfizer Inc. - Senior VP and Chief Scientific Officer, Inflammation & Immunology    [5]
+--------------------------------------------------------------------------------
+Thanks, Mike. I'm pleased to share in a nutshell what etrasimod is and why etrasimod is an exciting addition to our portfolio. Like most medicines, differentiation in the clinic begins with the molecule. And we think etrasimod has the potential to be the best-in-class oral sphingosine 1-phosphate receptor modulator for a variety of immuno-inflammatory disorders.
+There are a few keyways that etrasimod differentiates within the class, starting with the mode of binding, which closely mimics the natural ligand. This leads to a balance between internalization and degradation of the S1P receptor and second messenger effects. The receptor internalization selectively reduces the migration of lymphocytes out of the blood on the lymph node and into the blood, while etrasimod is less potent than downstream signaling that has heart rate effects.
+A second major difference is etrasimod's specificity profile for key receptor subtypes, namely S1P1, S1P4 and S1P5, which is unique for the class. Lastly, etrasimod is differentiated in its pharmacokinetic profile with a rapid onset and offset with no long-acting metabolites that are common in this class. We believe all these characteristics of etrasimod contribute to a potentially more favorable risk-benefit profile. And the next slide, please.
+Turning to the clinical efficacy reported thus far in ulcerative colitis for key end points such as clinical remission and endoscopic response, you can see that for the Phase 2b study, the placebo corrected responses at 2 milligrams compare very favorably with other in-class agents with the important caveat that these are cross-trial comparisons.
+Now I'll turn it over to Mike Corbo who will show us how it fits into our portfolio.
+
+--------------------------------------------------------------------------------
+Michael Corbo,  Pfizer Inc. - Chief Development Officer, Inflammation & Immunology    [6]
+--------------------------------------------------------------------------------
+Thanks, Mike. This morning, I'm first going to focus on how etrasimod complements our portfolio's ability to deliver treatment options to patients in both the near term and midterm. Then I'll show you how this fits in the overall portfolio in the treatment of immuno-inflammatory diseases from Pfizer.
+So as you can see, there are a couple of near-term treatment options that we'll be able to bring to patients. Looking first in dermatology, Cibinqo has been approved in multiple countries around the world, and we anticipate approval in the U.S. in the near future for atopic dermatitis and this would be for the moderate to severe population.
+Also, we intend to file ritlecitinib in the treatment of moderate to severe alopecia areata in the first half of next year. So complementing those near-term events would be etrasimod, filing towards the middle of next year with ulcerative colitis. Also in the near term, we have the potential option of treating patients with atopic dermatitis with etrasimod.
+And if you look towards the midterm, etrasimod offers the potential to bring treatment options in Crohn's disease and esophageal -- eosinophilic esophagitis. And those would be important unmet needs in gastroenterology. Also, if you look further out, there is the potential to bring specialty dermatology into play with etrasimod with alopecia areata, which is currently in Phase II. So you can see the overall timing of the potential etrasimod filings really complements the overall flow of our pipeline.
+Now if you look at the next slide, from a timing perspective, you can see we have a extremely strong fit. So now if we think about the strategic fit within our efforts to treat patients with immuno-inflammatory diseases. As you heard from Mike, it's very easy, we're all named Mike, our focus is on rheumatology, gastroenterology and dermatology. We have both large and small molecules, and our dosage forms span IV infusion, subcu injections to oral therapies.
+In rheumatology, you can see we have 2 of the core therapies, both with Xeljanz and Enbrel. In addition, we have a very broad biosimilars portfolio. I'm particularly excited about this since I joined Pfizer to initiate and build that program, and it's wonderful to see that actually come to fruition and benefit patients.
+Now as we look out into our rheumatology portfolio, we have the option to bring therapies to patients in specialty rheumatology with interferon beta in dermatomyositis and other forms of myositis. You'll hear more from that from Mike Vincent in a little bit.
+In RA, our focus is to bring therapies to patients that are significantly better than anything else. In that light, our focus is on combination approaches. Currently, we're in 2 complementary mechanisms, in this case, IRAK4 with ritlecitinib, and we hope to see some Phase 2 data next year.
+In gastroenterology. Again, we have Xeljanz and biosimilars available to patients. TL1A, which Mike will tell you about shortly, has the potential to offer patients a biomarker-driven treatment option in inflammatory bowel disease and could also have antifibrotic activity.
+In addition, ritlecitinib may offer highly experienced patients a new option in treatment of their inflammatory bowel disease. So when you look at etrasimod, this is ideally in reaching patients that have significant unmet need and is complementary to the types of patients our future pipeline that they tend to treat.
+In medical dermatology, we have existing options with Eucrisa and Enbrel for patients. And as I mentioned, Cibinqo is on approval. That's a highly selective JAK1 inhibitor. It's approved in AD in some countries already, and our focus for development for that molecule is exclusively in dermatology.
+Also within the pipeline is ritlecitinib, which is a JAK3 tech inhibitor devoid of JAK1 and 2 activity, provides options for patients in specialty dermatology with alopecia areata and potentially in vitiligo. Also entering Phase 2b is a very novel topical molecule that not only inhibits PDE4 strongly, but also has strong inhibition of IL-13 and has very interesting options looking forward in a variety of dermatological diseases.
+Etrasimod can potentially augment the overall dermatology pipeline in atopic dermatitis as well as in specialty dermatology in its diseases like alopecia areata. So from a timing perspective, you can see that etrasimod is highly complementary to the flow of our portfolio. And from a strategic perspective, it provides important options for patients in gastroenterology across 3 diseases and dermatology across broad patient populations and specialty derm.
+Now I'll turn it over to Mike Vincent so you can hear a little bit more about 2 of those novel molecules in the portfolio.
+
+--------------------------------------------------------------------------------
+Michael S. Vincent,  Pfizer Inc. - Senior VP and Chief Scientific Officer, Inflammation & Immunology    [7]
+--------------------------------------------------------------------------------
+So as we've been discussing, new mechanisms for IBD treatments are sorely needed due to the small percentage of patients who reach remission with existing therapies. Our TL1A monoclonal antibody blocks a completely novel pathway that not only amplifies other inflammatory pathways but also one that drives fibrosis, which is not addressed by any current therapies.
+Our data from our Phase 2a clinical trial in ulcerative colitis patients offers some promising insights in terms of efficacy with robust objective end points such as endoscopic improvement and blood biomarker responses in these patients.
+In addition, in the same Phase 2a clinical trial, we learned that exploratory biomarkers may help us identify which patients will have the most robust responses in the clinic. We're working to validate these results by building a potentially confirmatory data package in a larger clinical trial in UC patients, and we're also exploring this exciting asset in Crohn's disease.
+A second exciting program approaching the end of Phase 2 is our anti-interferon beta monoclonal antibody with first-in-class potential for dermatomyositis and other interferon beta-driven diseases. Human pathology data in dermatomyositis, a rare disease of skin as well as muscle have informed our confidence in this target with academic work by our partners on this program at Mass General Brig.
+The data we generated in a Phase 2 clinical trial aligned with the science underpinning this program and inform efficacy. We have observed a significant reduction in clinical disease activity in the skin. We've also obtained orphan and prime designations by the respective regulatory agencies in the U.S., U.K. and EU.
+And our aim is to bring treatments to even more patients in need. We see the potential for interferon beta -- anti-interferon beta therapy in the broader scope of idiopathic inflammatory myopathies, or IIMs. These are a group of diseases, including dermatomyositis -- juvenile dermatomyositis and polymyositis among others.
+Now I'll turn it over to Mike Gladstone to conclude.
+
+--------------------------------------------------------------------------------
+Mike Gladstone,  Pfizer Inc. - Global President, Inflammation & Immunology    [8]
+--------------------------------------------------------------------------------
+Thanks, Mike. We see a bright future in I&I. This deal is a great fit. First and foremost, it brings value to patients, but it also brings value to healthcare providers to Pfizer and ultimately the shareholders of both Arena and Pfizer. Why? Number one, it serves patients. We continue to innovate in immuno-inflammatory science because patients need options to find relief that works for them and relief that works in the long term. Etrasimod provides a potentially best-in-class option for patients.
+Number two, the strong strategic fit with Pfizer's existing capabilities. We can progress development, commercialize it globally and use our great relationships with GI specialists to get it in the hands of the patients that need it the most.
+Etrasimod's initial indication in GI will potentially hit at the right time for our business. It bridges to other exciting launches we have planned in our pipeline. And etrasimod is not only an exciting potential best-in-class agent, it's a different mechanism of action and is serving a new group of patients.
+And finally, this deal brings value to shareholders of both companies. The acquisition aligns with our goals to bring earlier stage assets to Pfizer, and it leverages the strength of Pfizer to commercialize globally.
+So thank you all for your time today. I'll pass it over to Chris to get the Q&A started.
+
+--------------------------------------------------------------------------------
+Christopher J. Stevo,  Pfizer Inc. - Senior VP & Chief IR Officer    [9]
+--------------------------------------------------------------------------------
+Thanks so much, Mike. I appreciate that. (Operator Instructions) And the Q&A session will last about 40 minutes.
+With that, I'll turn it over to Sylvia to start the Q&A session. Go ahead, Sylvia.
+
+
+================================================================================
+Questions and Answers
+--------------------------------------------------------------------------------
+Operator    [1]
+--------------------------------------------------------------------------------
+(Operator Instructions) Your first question comes from the line of Evan Seigerman from BMO Capital Markets.
+
+--------------------------------------------------------------------------------
+Evan David Seigerman,  BMO Capital Markets Equity Research - MD & Senior BioPharma Research Analyst    [2]
+--------------------------------------------------------------------------------
+I would love it if you could expand on any potential FTC concerns around acquiring additional inflammatory assets, especially in IBD and AD. I know on the third quarter call, Albert indicated that Pfizer has granted an exclusive license for some of your other JAK and TYK2 assets, both in Phase 2 development to a new company. Is that enough to allay any potential FTC concerns? Or do you have to do more to divest to acquire on this asset?
+
+--------------------------------------------------------------------------------
+Mike Gladstone,  Pfizer Inc. - Global President, Inflammation & Immunology    [3]
+--------------------------------------------------------------------------------
+Thanks for the question, Evan. Regarding antitrust, we believe this transaction is good for patients, and we believe Pfizer will be able to contribute significant expertise and resources to enhance and expedite the development of these programs. As you mentioned, we understand the FTC's closely examining virtually all transactions across all industries, and normal review timelines have been longer in the past.
+However, we plan to engage collaborative with -- collaboratively with regulators to show the procompetitive rationale for this transaction and how competitive this I&I space is. The indications here are highly competitive with multiple mechanisms of actions being studied. Etrasimod is complementary to our current portfolio, and the transaction is going to result in the availability of very different MOAs for a broad array of patients across a number of autoimmune disorders.
+In addition, none of the other programs in Arena's pipeline are similar to any programs we have in Pfizer's pipeline. And when you put all that together, we're confident that the regulators will understand this following the review of their -- the complete review of the transaction.
+Now your second question with regard to TYK2 and brepo. That divestment was part of a larger strategy in our plan of freeing up internal resources in order for us to diversify and enable us to really bring different mechanisms to the portfolio that could complement our portfolio.
+So thank you for the question, Evan, I appreciate it. And I think now we can move on to the next question.
+
+--------------------------------------------------------------------------------
+Operator    [4]
+--------------------------------------------------------------------------------
+Your next question comes from Louise Chen from Cantor.
+
+--------------------------------------------------------------------------------
+Louise Alesandra Chen,  Cantor Fitzgerald & Co., Research Division - Senior Research Analyst & MD    [5]
+--------------------------------------------------------------------------------
+Congratulations on the deal. So could you please characterize your level of interest in building a broad market-leading IBD franchise across multiple novel targets? And can you articulate how your anti TL1A monoclonal is differentiated versus others who are pursuing IBD with the same target?
+
+--------------------------------------------------------------------------------
+Mike Gladstone,  Pfizer Inc. - Global President, Inflammation & Immunology    [6]
+--------------------------------------------------------------------------------
+In a moment, I'll pass the TL1A comment over to Mike Vincent. As far as creating a broad portfolio, I think -- Arena here is an important strategic part of that. It complements our existing mechanisms of action. What we can do with this is reach patients throughout their patient journey, which is really important.
+And I think the key thing here, when we think about how our portfolio plays out is that immuno-inflammatory diseases are heterogeneous, and patients often cycle from one therapy onto the next. And in fact, some efficacy ranges in existing products, we have here even lower than 10%. So this really gives us an opportunity to serve the patient through their entire life cycle -- now -- through their entire patient journey, rather. And hey Vincent. You might be muted.
+
+--------------------------------------------------------------------------------
+Michael S. Vincent,  Pfizer Inc. - Senior VP and Chief Scientific Officer, Inflammation & Immunology    [7]
+--------------------------------------------------------------------------------
+I'm sorry. Yes, can you hear me? I'll say a few words about the TL1A program. So our monoclonal antibody to TL1A was the first in the clinic, and we're the first to have Phase 2 data, which we reported out a couple of years ago, and we're on the verge of reporting out a larger Phase 2b study.
+We think our program is differentiated. We have a high-quality molecule. It's got excellent PK properties thus far. We've seen very good biomarker responses. And in addition, we have actual preliminary data from our first study that indicates a biomarker selection approach may be feasible going forward to select the most responsive patients, and we should be able to gather more data from the study that's going to read out soon to tell us whether that hypothesis is correct, and we can move forward with a biomarker-selected patient approach.
+
+--------------------------------------------------------------------------------
+Mike Gladstone,  Pfizer Inc. - Global President, Inflammation & Immunology    [8]
+--------------------------------------------------------------------------------
+Thank you, Mike -- please go ahead.
+
+--------------------------------------------------------------------------------
+Michael Corbo,  Pfizer Inc. - Chief Development Officer, Inflammation & Immunology    [9]
+--------------------------------------------------------------------------------
+If I could just expand a little to your question about kind of our commitment into GI. If you look across our efforts in IBD, now you can see that there's Xeljanz, we've got the potential for ritlecitinib, which is a distinct, very different mechanism in the imaging. S1P, TL1A, and then there's stuff that's even deeper baseline like into work long-term commitment in looking at patients with gastro and GI inflammatory disease, and we're committed to keep that going to the future.
+
+--------------------------------------------------------------------------------
+Mike Gladstone,  Pfizer Inc. - Global President, Inflammation & Immunology    [10]
+--------------------------------------------------------------------------------
+Great. Mike Vincent and also Mike Corbo as well. And Louise, thanks for the question. I think we can move on to the next question now.
+
+--------------------------------------------------------------------------------
+Operator    [11]
+--------------------------------------------------------------------------------
+Next question comes from Vamil Divan from Mizuho.
+
+--------------------------------------------------------------------------------
+Vamil Kishore Divan,  Mizuho Securities USA LLC, Research Division - MD    [12]
+--------------------------------------------------------------------------------
+Maybe one just a broader question around I&I and just there's so many competitors now in this space, so many different mechanisms. But I guess I'm wondering about how you view the pricing outlook in this market. I think it's been a concern for a number of years. We have biosimilars coming as well. So do you sort of continue to see sort of pricing power in this market or obviously, these doing new mechanisms and volume growth is great. But just would love to get your perspective on is it pricing dynamics playing out?
+
+--------------------------------------------------------------------------------
+Mike Gladstone,  Pfizer Inc. - Global President, Inflammation & Immunology    [13]
+--------------------------------------------------------------------------------
+Yes. Thank you. Thanks for the question. With regard to etrasimod, since it's their product and the deal hasn't closed yet, I really can't comment on that. But we believe that this market and this category, there is such a need for different mechanisms of action. And I know that you've got biosimilars coming from existing products and new therapies. And I think there's a place for all of them in the marketplace.
+We'll have the biosimilars coming very shortly. And we think that patients will cycle through many biosimilars and then wind up on some of the other advanced medications. So we feel good about the outlook of the category as a whole to be maintained to be strong, continue to be competitive and also deliver value for patients across the board but also deliver value to Pfizer and some of the other companies involved. So thank you for that question. I think we can probably go to the next one.
+
+--------------------------------------------------------------------------------
+Operator    [14]
+--------------------------------------------------------------------------------
+Your next question comes from Matthew Harrison from Morgan Stanley.
+
+--------------------------------------------------------------------------------
+Charlie Yang,  Morgan Stanley & Co. LLC - Research Analyst    [15]
+--------------------------------------------------------------------------------
+This is Charlie Yang on for Matthew.
+
+--------------------------------------------------------------------------------
+Mike Gladstone,  Pfizer Inc. - Global President, Inflammation & Immunology    [16]
+--------------------------------------------------------------------------------
+Pardon me, would you mind to repeat the question? There is a slight break in the audio.
+
+--------------------------------------------------------------------------------
+Charlie Yang,  Morgan Stanley & Co. LLC - Research Analyst    [17]
+--------------------------------------------------------------------------------
+Sorry. Yes. So my question here is, I noticed that abrocitinib is missing on the slide. So I'm just curious to see if there's any feedback from the FDA regarding the abrocitinib approval? And I guess longer term, where does Pfizer see the rest of the JAK comp portfolio in terms of the outlook and development?
+
+--------------------------------------------------------------------------------
+Mike Gladstone,  Pfizer Inc. - Global President, Inflammation & Immunology    [18]
+--------------------------------------------------------------------------------
+Thank you for the question. We can't comment on where the FDA is with reviewing any application in process, but we were encouraged to see that the review of 1133 was complete and class JAK labeling has been completed. So we are looking forward to the opportunity to talk more in detail about abro.
+And the way we're thinking about it is, again, as I mentioned earlier, these indications also atopic dermatitis is also a heterogeneous disease and has a need for multiple medications. And you'll find that we're excited about the continued development of our ongoing portfolio of JAK. They play a significant role. They will play a significant role, we believe, for patients as they go through their course of therapy, both with ulcerative colitis, but also in atopic dermatitis, and we'll be excited to talk a bit more about that.
+By the way, I do believe abro wasn't missing in the slide. It's called Cibinqo. So I will often fall into the bad habit of calling it abrocitinib, but the brand name is Cibinqo and that maybe perhaps why it wasn't recognized as well in the slide. So Charlie, thank you for the question. And I think I can -- we can go to the next question now.
+
+--------------------------------------------------------------------------------
+Operator    [19]
+--------------------------------------------------------------------------------
+Your next question comes from Andrew Baum from Citi.
+
+--------------------------------------------------------------------------------
+Andrew Simon Baum,  Citigroup Inc. Exchange Research - Research Analyst    [20]
+--------------------------------------------------------------------------------
+Can I pick up on the answer you gave to the first question in relation to antitrust. I completely understand the merits of the transaction. But in one of your arguments, you gave why you think the FTC will let this through as you spoke about the diversity of the assets within the portfolio. But I think you said in the opening remarks how etrasimod is the key asset.
+So here comes the question, which is how far are you willing to go in order to secure this transaction? You obviously have Xeljanz, abrocitinib as well as ritlecitinib. Are you willing to divest some, all of those assets in order to let this deal happen should the FTC request that?
+
+--------------------------------------------------------------------------------
+Mike Gladstone,  Pfizer Inc. - Global President, Inflammation & Immunology    [21]
+--------------------------------------------------------------------------------
+Thank you for the question, Andrew. We are excited about bringing this asset into the organization. We believe that the transaction, as I indicated earlier, is good for patients. We're going to work collaboratively with regulators on making sure they understand the competitive rationale.
+And I think at the heart is this transition that patients will go through. We see this -- we see etrasimod as being used potentially earlier in the treatment paradigm than the JAKs would be. So that should also help with some clarity to also one of the reasons that gives us confidence that the regulators will indeed -- once they complete their review, we believe that they'll understand that. So hopefully, that helps.
+With regard to other assets in the compound, our other assets in the organization, we fully plan to develop those and don't anticipate any issues, but we'll obviously talk and deal with those in the unlikely event that they were to occur. So thanks for the question, Andrew. I think we can go to the next one.
+
+--------------------------------------------------------------------------------
+Operator    [22]
+--------------------------------------------------------------------------------
+Your next question comes from Kennen MacKay from RBC Capital Markets.
+
+--------------------------------------------------------------------------------
+Kennen B. MacKay,  RBC Capital Markets, Research Division - MD & Co-Head of US Biotechnology Research    [23]
+--------------------------------------------------------------------------------
+Apologies. Question on the Phase 3 data. I was wondering, one, how you are impacting the risk set with the readout of the Phase 3, I think you saw it should very much be successful. The question is more how they'll differentiate versus ozanimod and the JAK inhibitor class?
+And then separately, I'd just love to understand how you're thinking about the potential for the class Phase 3 label for cardiovascular actually not something you got trust on, can we potentially avoid given some of the differentiation eventually towards probably about (inaudible)?
+And then lastly, ozanimod has arguably been maybe a little bit disappointing in terms of its early commercial sales in UC. Wondering, what your perspective is on how etrasimod can trend pass it on. Thanks so much for giving a questions and congrats on the (inaudible) position.
+
+--------------------------------------------------------------------------------
+Mike Gladstone,  Pfizer Inc. - Global President, Inflammation & Immunology    [24]
+--------------------------------------------------------------------------------
+Great. Thanks so much for the question. You were really a bit breaking. I'm going to try to do my best here. I heard 3 questions. Number one, we can talk about -- I'll pass it over to Mike Corbo to talk about what the thoughts are on the Phase 3. I think the second question was on class labeling for S1Ps also potentially ask Mike Corbo to talk about that just very briefly. And then I'll come back and handle your question regarding ozanimod. So Mike Corbo.
+
+--------------------------------------------------------------------------------
+Michael Corbo,  Pfizer Inc. - Chief Development Officer, Inflammation & Immunology    [25]
+--------------------------------------------------------------------------------
+Sure. Okay. And so Kennen, I guess, first, talking about the Phase 3. We have assumed success, obviously, in moving forward. Now we've only looked obviously in detail of the Phase 2 data, but we've looked at blinded data from Phase 3. I think the team at Arena is extremely capable of running studies like this, high quality. They know what they're doing. They have good interactions with regulators. So we feel the foundation is strong.
+Also, we've been in this for a long time. We know what to look for. We know how to do modeling of our data and other people's data, and we feel confident based upon that assessment and the overall diligence that we're planning for success here.
+If we go towards the CV risk in the class, we'll be certain class labeling, I'm sure, across everything. But one of the huge features of etrasimod is the program has been done without titration. It doesn't mean absolutely will come without it. But we're certainly hopeful that, that is one factor that we may be able to address. And overall, the final benefit risk will be assessed when we get the full data package, and we have the full safety and then we can know more once we talk with regulators. Mike, back to you.
+
+--------------------------------------------------------------------------------
+Mike Gladstone,  Pfizer Inc. - Global President, Inflammation & Immunology    [26]
+--------------------------------------------------------------------------------
+Thanks, Mike. And well, I don't ever, don't want to comment on another company's asset. I can't say that why we're excited about etrasimod is we believe it will be differentiated from the class. We think it will have best-in-class efficacy. They're going to be easy to use for healthcare providers and patients, and we believe we're going to get access so that patients can actually get the medicine and take it. So thank you very much for the questions. I think we can go to the next one.
+
+--------------------------------------------------------------------------------
+Operator    [27]
+--------------------------------------------------------------------------------
+Your next question comes from Carter Gould from Barclays.
+
+--------------------------------------------------------------------------------
+Carter Lewis Gould,  Barclays Bank PLC, Research Division - Senior Analyst    [28]
+--------------------------------------------------------------------------------
+Great. Congratulation on the deal. I just wanted to ask you around the Crohn's study and how you think about that indication. Any assumptions you've made on that front? And specifically, your comfort with some of the recent amendments, namely the -- looking at the 3-milligram dose and any potential safety concerns you might have there?
+
+--------------------------------------------------------------------------------
+Mike Gladstone,  Pfizer Inc. - Global President, Inflammation & Immunology    [29]
+--------------------------------------------------------------------------------
+I'll pass this over to Mike Corbo to give us his thoughts on Crohn's disease and particularly the 3-milligram. Mike?
+
+--------------------------------------------------------------------------------
+Michael Corbo,  Pfizer Inc. - Chief Development Officer, Inflammation & Immunology    [30]
+--------------------------------------------------------------------------------
+Sure. And I'm sorry, my phone was breaking up slightly, so I'm going to do my best, Carter. But for Crohn's disease, we feel confident that there's been proof of mechanism shown with ozanimod and Crohn's disease. Crohn's has been hard to treat. So I think Arena has done a really good job in exploring both the 2 and the 3-milligram dose. There should be a readout next year where we're going to get a better understanding of where we need to go with that. And then depending on the dose, we will manage the overall dosing and safety accordingly based upon the data that we see from there. Hopefully, that addresses your question. I apologize because my phone broke up a little bit. So hopefully, that addresses it effectively.
+
+--------------------------------------------------------------------------------
+Mike Gladstone,  Pfizer Inc. - Global President, Inflammation & Immunology    [31]
+--------------------------------------------------------------------------------
+Thanks, Mike. Your sounding good now, but okay. Thank you for the question. Great. And I think we can go to the next one.
+
+--------------------------------------------------------------------------------
+Operator    [32]
+--------------------------------------------------------------------------------
+Your next question comes from Chris Schott from JPMorgan.
+
+--------------------------------------------------------------------------------
+Christopher Thomas Schott,  JPMorgan Chase & Co, Research Division - Senior Analyst    [33]
+--------------------------------------------------------------------------------
+Just a bigger picture one. When we think about capital deployment at Pfizer, should we think about an acceleration given the step-up in cash flow that you're seeing over the next few years versus the recent past? I know the company has not been particularly capital constrained historically, deals obviously it have value fit, et cetera. But it's hard to ignore how much cash you're going to generate over these next few years. I'm just interested, like, does that impact your thinking or risk-taking appetite, et cetera, as we think around BD?
+If I just do a quick follow-up to the last question. I think in the charts you have Crohn's in 2028, I guess, is there any opportunity to accelerate those development timelines just given how large that opportunity is? Or is that about the fastest we can think about that indication coming to market?
+
+--------------------------------------------------------------------------------
+Mike Gladstone,  Pfizer Inc. - Global President, Inflammation & Immunology    [34]
+--------------------------------------------------------------------------------
+Chris, thank you for the question. I think I'll pass -- before I pass over to Aamir to answer the capital allocation question, I'll pass to Aamir first, and then I'll send it over to Mike Corbo to talk about what efforts we may have to accelerate pipeline assets. So Aamir, would you mind to take the capital allocation question from Chris?
+
+--------------------------------------------------------------------------------
+Aamir Malik,  Pfizer Inc. - Executive VP & Chief Business Innovation Officer    [35]
+--------------------------------------------------------------------------------
+Sure, Mike. Chris, thanks for your question. I think in short; we plan to be very active in deal making, and we certainly have the ability to do that. We have significant firepower that we expect both through our ongoing operating cash flows, our current cash holdings and investments and, if warranted, the ability to raise substantial amounts through debt financing.
+And as I mentioned in my opening remarks, we see an exciting set of opportunities to deploy that capital both in our internal pipeline but also externally on compelling science that is either later stage or medical breakthroughs that are earlier stage. We like the risk of earlier-stage deals where we know not all of them may work out but the scope for what we can do to add value is significant. And we also recognize that, in the back half of the decade, we have an opportunity where we can deploy capital in BD that can accelerate our top line growth, and we plan to be very active in both those spheres.
+
+--------------------------------------------------------------------------------
+Mike Gladstone,  Pfizer Inc. - Global President, Inflammation & Immunology    [36]
+--------------------------------------------------------------------------------
+Thank you, Aamir. And now to Mike to talk about how we -- what we're doing to accelerate trials. Mike?
+
+--------------------------------------------------------------------------------
+Michael Corbo,  Pfizer Inc. - Chief Development Officer, Inflammation & Immunology    [37]
+--------------------------------------------------------------------------------
+Yes, thanks for your question. The current timeline is based upon the current path that is going through Arena right now. It's theirs to move forward. Up close, though, our intent -- and we're already doing some thinking on this, is innovative ways to drive recruitment as quickly as we can. That's usually the critical path, as you know, especially in IBD studies.
+There are a couple of innovative trial design and approaches that we intend to take both with how we look at centralized hubs. But in addition, to bring in some innovation with doing a partially decentralized study, finding ways to make things much more appealing to patients, easier for them, easier for the investigators as well.
+So we do have a plan once we reach close, our intent is to put our efforts in any way we can to accelerate. We do agree. It's an incredibly important indication and patients with Crohn's disease really have [inaudible]. So our intent is to put all of our power towards it.
+
+--------------------------------------------------------------------------------
+Operator    [38]
+--------------------------------------------------------------------------------
+Our next question comes from Ronny Gal from Bernstein.
+
+--------------------------------------------------------------------------------
+Ronny Gal,  Sanford C. Bernstein & Co., L.L.C. - Senior Research Analyst    [39]
+--------------------------------------------------------------------------------
+Congratulations on the deal. I'm wondering, if you could talk a little bit about order of therapy as you see it in IBD going forward. You've kind of been on the oral class, both with internal and with this acquisition. Can you talk a little bit how you see it versus the injectable, I guess, the IL-23 that has been pretty good? And then also the JAK inhibitors versus S1P, you obviously have a ton of experience there. Do you expect the S1P to be used earlier or some of the data we've seen from JAK will justify them being used earlier by most patients?
+And then since you're already approaching the end of the year here, I was wondering if you can comment a little bit about the adalimumab by a similar effort. You have the interchangeable trial coming up. Can you talk to us about when we'll see it? And whether that product is a high concentration or the original low concentration product?
+
+--------------------------------------------------------------------------------
+Mike Gladstone,  Pfizer Inc. - Global President, Inflammation & Immunology    [40]
+--------------------------------------------------------------------------------
+Thanks, Ronny. Thanks for the question. I think I'll start off and talk about the order of entry. I'll ask Mike Vincent, if you could, just talk about IL-23s for a moment. Then we'll get on with the rest of the questions as much as I can remember them.
+So first, regarding the order of therapy, we think that after -- when physicians are ready to move to an advanced therapy, we're going to be placed before JAKs. I think that was one of the key questions here. We believe that physicians will look at the benefit risk profile, the efficacy with etrasimod, and we believe that we will be placed before JAK utilization, over time, could be at the same time as TNFs.
+Keep in mind -- and the one thing to keep in mind when you look at the different therapies in this class, some of the therapies, some of the advanced therapies will have efficacy as low as 8% to 10% for remission. So we think that this is a really good opportunity for us to fit in that space. And I think regarding the mechanism of action, I'll pour that over to Mike Vincent to talk about.
+
+--------------------------------------------------------------------------------
+Michael S. Vincent,  Pfizer Inc. - Senior VP and Chief Scientific Officer, Inflammation & Immunology    [41]
+--------------------------------------------------------------------------------
+Yes. Thanks for the question. You specifically brought up one mechanism. I think the key point we're trying to bring home today is that this is such a heterogeneous condition, as is Crohn's disease, that no single mechanism is going to be adequate to treat a particular patient.
+The nice -- I guess, one nice thing about etrasimod is it's an oral option that's easy to take. We don't -- like other members of the class, we don't anticipate box warnings. I think it will be an attractive oral option.
+But certainly, I think the key point we're trying to leave you with here is for a heterogeneous condition like this, patients need multiple treatment options. And we think S1P will be among those and will be very attractive for patients and prescribers. I should hand it to Mike to talk about the adalimumab question.
+
+--------------------------------------------------------------------------------
+Mike Gladstone,  Pfizer Inc. - Global President, Inflammation & Immunology    [42]
+--------------------------------------------------------------------------------
+And with regard to the biosimilar, we'd be looking for 2023 in the middle of 2023, and that range is a potential -- very potential date for us to get in the marketplace. And I don't think we can comment on where we are in the development process as of yet. We're exploring and looking for every opportunity we possibly can. So thank you for the question, Ronny. We appreciate it. And I think now we can move on to the next one.
+
+--------------------------------------------------------------------------------
+Operator    [43]
+--------------------------------------------------------------------------------
+Next question comes from Geoffrey Porges from SVB Leerink.
+
+--------------------------------------------------------------------------------
+Na Sun,  SVB Leerink LLC, Research Division - Research Analyst    [44]
+--------------------------------------------------------------------------------
+Hello, can you hear me?
+
+--------------------------------------------------------------------------------
+Mike Gladstone,  Pfizer Inc. - Global President, Inflammation & Immunology    [45]
+--------------------------------------------------------------------------------
+Yes, we can.
+
+--------------------------------------------------------------------------------
+Na Sun,  SVB Leerink LLC, Research Division - Research Analyst    [46]
+--------------------------------------------------------------------------------
+Hi. This is Na Sun on for Geoff Porges. Congratulations on this deal. So we know that the JAK portfolio has been under some pressure, either from the FDA warning or from competition. So should we think about etrasimod as a sort of replacement or hedge for revenue on Xeljanz and Cibinqo? And another question is of the $6.7 billion purchase price, what is the proportion of value directly attributable to etrasimod in your valuation? And what proportion do you attribute to other products and programs in the pipeline?
+
+--------------------------------------------------------------------------------
+Mike Gladstone,  Pfizer Inc. - Global President, Inflammation & Immunology    [47]
+--------------------------------------------------------------------------------
+Great. Thank you for the question. First of all, no, we don't believe this is a replacement in any way shape and form. Arena represents a strategic fit for us, and it complements our existing areas of focus. We would anticipate of a drug like etrasimod being used before JAKs. So that leaves plenty of room for abro or Cibinqo to be successful. We think that it again fits nicely with our patient population. For both UC and AD, if you think about it, this really helps us serve the needs of patients throughout their entire journey. So thank you for that. It's a good fit.
+With regard to the $6.7 billion purchase price, the majority of the valuation was on the near term, as you would normally do on the near-term assets in IBD. And we have looked at the -- that's the majority of the driver, but we do appreciate all the other potential indications, both within I&I as well as outside of I&I and the other areas that the pipeline serves. So the main driver here is our near-term launches in IBD with first launch in UC. So thank you for that question for potential launch in UC. I think we can take another question.
+
+--------------------------------------------------------------------------------
+Operator    [48]
+--------------------------------------------------------------------------------
+Your next question comes from Steve Scala from Cowen.
+
+--------------------------------------------------------------------------------
+Stephen Michael Scala,  Cowen and Company, LLC, Research Division - MD & Senior Research Analyst    [49]
+--------------------------------------------------------------------------------
+This is a bit of a bigger picture question for Aamir. But in the past 5 or so years, Pfizer has acquired a number of companies that have not, I must say, done better than expected. I'm specifically thinking of Hospira, Anacor, Array. It's too early to say on Trillium. But since you are a newcomer to Pfizer, how would you size up those acquisitions in retrospect? What would you have done differently? And how do you plan on doing things differently going forward?
+And related to that, it seems that management has been putting an emphasis on earlier stage as opposed to both earlier and later stage deals, which you seem to favor. Has there been a change in focus? Or are you of a different view than other members of management?
+
+--------------------------------------------------------------------------------
+Mike Gladstone,  Pfizer Inc. - Global President, Inflammation & Immunology    [50]
+--------------------------------------------------------------------------------
+Thank you for the question. Obviously, that one will go to Aamir to talk about how we look at investments and acquisitions and also how do we look about it, what is the focus for BD moving forward. So Aamir?
+
+--------------------------------------------------------------------------------
+Aamir Malik,  Pfizer Inc. - Executive VP & Chief Business Innovation Officer    [51]
+--------------------------------------------------------------------------------
+Great. Thank you for the question. I won't get into all the specific details of the prior acquisitions that were done. But what I can say is that we take our responsibility around capital deployment incredibly seriously. And we looked at this and other opportunities where we can deploy capital against the criteria that I described. And we are very excited about what we are doing with Arena and the potential that it holds for patients and ultimately, therefore, for shareholders as well.
+In terms of our mix of BD focus going forward, I think we've always said that our guiding principle for this will be things that are breakthroughs that can impact patients and that can contribute positively to our growth and, therefore, create value for our shareholders. And we think that we can achieve that through a combination of both earlier-stage acquisitions as well as targeted later-stage acquisitions, and we are aligned as a management team on our focus there.
+
+--------------------------------------------------------------------------------
+Mike Gladstone,  Pfizer Inc. - Global President, Inflammation & Immunology    [52]
+--------------------------------------------------------------------------------
+Thank you, Aamir. I think we can go to the next question now, please.
+
+--------------------------------------------------------------------------------
+Operator    [53]
+--------------------------------------------------------------------------------
+Your final question comes from Robyn Karnauskas from Truist Securities.
+
+--------------------------------------------------------------------------------
+Nicole Germino,  Truist Securities - Research Analyst    [54]
+--------------------------------------------------------------------------------
+This is Nicole on for Robyn. She is on a flight right now. She apologizes he couldn't be on the call. So given that etrasimod is going after atopic derm and EOE, can you talk about how does Dupixent overlap with the pathway that S1P hit?
+
+--------------------------------------------------------------------------------
+Mike Gladstone,  Pfizer Inc. - Global President, Inflammation & Immunology    [55]
+--------------------------------------------------------------------------------
+Okay. Thank you, Nicole. Thanks for the question. I'm going to turn it over to Mike Vincent to talk about the pathway question, S1P. Thank you. Mike?
+
+--------------------------------------------------------------------------------
+Michael S. Vincent,  Pfizer Inc. - Senior VP and Chief Scientific Officer, Inflammation & Immunology    [56]
+--------------------------------------------------------------------------------
+Sure. Thanks for the question. The mechanism that etrasimod works through primarily involves trafficking, whereas the other molecule you mentioned is a cytokine inhibitor. Ultimately, lymphocytes are the generals of the immune system and they drive activity like recruiting eosinophils, for example. So I would say the mechanism of etrasimod is more about controlling the lymphocytes that are directing inflammation as opposed to blocking a downstream consequence of lymphocyte activation.
+We think that the mechanism is very suitable for Th2 diseases given the local activities of lymphocytes in either the skin or in the esophagus and driving those diseases. And we hope to demonstrate how active this mechanism is in those diseases through our ongoing clinical -- or the ongoing clinical programs that are taking place at Arena right now.
+
+--------------------------------------------------------------------------------
+Mike Gladstone,  Pfizer Inc. - Global President, Inflammation & Immunology    [57]
+--------------------------------------------------------------------------------
+Great. Thank you, Mike. And thank you for the question, Nicole, as well. Yes.
+Thank you for today. First of all, thank you all for coming here. Thanks for your enthusiasm and all the questions. I can see that you share our enthusiasm for this, and we look forward to what we can do with etrasimod. We're looking forward to the potential close and what this new medication could potentially mean for patients and that it would have a best-in-class efficacy and really provide Pfizer I&I with a nice complementary mechanism to our entire portfolio so that we can provide value to patients and, ultimately, to Pfizer as well.
+So thank you all. And I think that will be the end of the call today.
+
+--------------------------------------------------------------------------------
+Operator    [58]
+--------------------------------------------------------------------------------
+Ladies and gentlemen, this does conclude today's conference. Thank you for your participation. You may now all disconnect. Speakers, please hold.
+
+
+
+
+
+
+
+--------------------------------------------------------------------------------
+Definitions
+--------------------------------------------------------------------------------
+PRELIMINARY TRANSCRIPT: "Preliminary Transcript" indicates that the 
+Transcript has been published in near real-time by an experienced 
+professional transcriber.  While the Preliminary Transcript is highly 
+accurate, it has not been edited to ensure the entire transcription 
+represents a verbatim report of the call.
+
+EDITED TRANSCRIPT: "Edited Transcript" indicates that a team of professional 
+editors have listened to the event a second time to confirm that the 
+content of the call has been transcribed accurately and in full.
+
+--------------------------------------------------------------------------------
+Disclaimer
+--------------------------------------------------------------------------------
+Refinitiv reserves the right to make changes to documents, content, or other 
+information on this web site without obligation to notify any person of 
+such changes.
+
+In the conference calls upon which Event Transcripts are based, companies 
+may make projections or other forward-looking statements regarding a variety 
+of items. Such forward-looking statements are based upon current 
+expectations and involve risks and uncertainties. Actual results may differ 
+materially from those stated in any forward-looking statement based on a 
+number of important factors and risks, which are more specifically 
+identified in the companies' most recent SEC filings. Although the companies 
+may indicate and believe that the assumptions underlying the forward-looking 
+statements are reasonable, any of the assumptions could prove inaccurate or 
+incorrect and, therefore, there can be no assurance that the results 
+contemplated in the forward-looking statements will be realized.
+
+THE INFORMATION CONTAINED IN EVENT TRANSCRIPTS IS A TEXTUAL REPRESENTATION
+OF THE APPLICABLE COMPANY'S CONFERENCE CALL AND WHILE EFFORTS ARE MADE TO
+PROVIDE AN ACCURATE TRANSCRIPTION, THERE MAY BE MATERIAL ERRORS, OMISSIONS,
+OR INACCURACIES IN THE REPORTING OF THE SUBSTANCE OF THE CONFERENCE CALLS.
+IN NO WAY DOES REFINITIV OR THE APPLICABLE COMPANY ASSUME ANY RESPONSIBILITY FOR ANY INVESTMENT OR OTHER
+DECISIONS MADE BASED UPON THE INFORMATION PROVIDED ON THIS WEB SITE OR IN
+ANY EVENT TRANSCRIPT. USERS ARE ADVISED TO REVIEW THE APPLICABLE COMPANY'S
+CONFERENCE CALL ITSELF AND THE APPLICABLE COMPANY'S SEC FILINGS BEFORE
+MAKING ANY INVESTMENT OR OTHER DECISIONS.
+--------------------------------------------------------------------------------
+Copyright 2023 Refinitiv. All Rights Reserved.
+--------------------------------------------------------------------------------

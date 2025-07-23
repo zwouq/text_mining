@@ -1,0 +1,306 @@
+
+
+Refinitiv StreetEvents Event Transcript
+E D I T E D   V E R S I O N
+
+Eloxx Pharmaceuticals, Inc., Zikani Therapeutics, Inc. - M&amp;A Call
+APRIL 01, 2021 / 12:30PM GMT
+
+================================================================================
+Corporate Participants
+================================================================================
+
+ * Vijay Modur
+    - 
+ * Sumit Aggarwal
+    - 
+
+================================================================================
+Conference Call Participiants
+================================================================================
+
+ * Michelle Lim Gilson
+   Canaccord Genuity Corp., Research Division - Analyst
+ * Mayank Mamtani
+    B. Riley Securities, Inc., Research Division - Research Analyst
+ * John Woolford
+   Westwicke Partners, LLC - MD
+
+================================================================================
+Presentation
+--------------------------------------------------------------------------------
+Operator    [1]
+--------------------------------------------------------------------------------
+Ladies and gentlemen, thank you for standing by, and welcome to the Eloxx Pharmaceuticals conference call and webcast to discuss the acquisition of Zikani Therapeutics. (Operator Instructions) Please be advised that today's conference is being recorded. 
+I would now like to hand the conference to your speaker today, John Woolford. John, you may begin.
+
+--------------------------------------------------------------------------------
+John Woolford,  Westwicke Partners, LLC - MD    [2]
+--------------------------------------------------------------------------------
+Thank you, Victor. Good morning, and thank you to everyone who has joined today's call to discuss Eloxx Pharmaceuticals' acquisition of Zikani Therapeutics. A press release announcing the acquisition was issued this morning and is currently available at both www.eloxxpharma.com and www.zikani.com. An audio archive of this conference call will be available on the Eloxx Pharmaceuticals' website in the Investor Relations section later today. Also, please note that there are slides to accompany today's event. These slides are available through the webcast and were included on a Form 8-K filed by Eloxx with the Securities and Exchange Commission this morning. 
+Joining me today are Sumit Aggarwal, newly appointed President and CEO; and Dr. Vijay Modur, Head of Research and Development. In addition, Daniel Geffken, Interim Chief Financial Officer, is available for the Q&A section of today's call. 
+Before we begin the prepared remarks, turning to Slide 2, I need to remind you that we will be making forward-looking statements during this teleconference that could include financial, clinical or commercial projections. Statements relating to future financial or business performance, conditions or strategy and other financial and business-related matters, including, without limitation, expectations regarding the combined company and clinical development and anticipated milestones are forward-looking statements within the meaning of the Private Securities Litigation Reform Act. 
+Eloxx cautions that these forward-looking statements are subject to numerous assumptions, risks and uncertainties, which change over time. As a result, the company's performance may materially differ from those expressed in or indicated by such forward-looking statements. These forward-looking statements are qualified in their entirety by the cautionary statements contained in Eloxx filings with the Securities and Exchange Commission, including in the Risk Factors section of those filings. Eloxx undertakes no obligation to revise or update any forward-looking statements to reflect events or circumstances after the date of this call. 
+I will now hand over the call to Sumit. Sumit?
+
+--------------------------------------------------------------------------------
+Sumit Aggarwal,   -     [3]
+--------------------------------------------------------------------------------
+Thanks, John, and thanks, everyone, for joining us this morning. It's a pleasure to talk to you today in my new role as President and CEO of Eloxx Pharmaceuticals. 
+Today is an exciting day. We are enormously excited by the combination of Eloxx and Zikani. This opens a door to create a world leader in ribosome-targeted therapies and technologies. I'll start the call by reviewing the strong rationale for the acquisition, then provide an overview of the acquisition and also discuss the combined company. Next, Dr. Vijay Modur, our Head of R&D, will provide an introduction to Zikani as some of you on the call may be unfamiliar. Following that, we'll quickly wrap up our prepared remarks before we take your questions. 
+So let's get started with Slide 3. The combination of Eloxx and Zikani positions us to be a world leader in RNA-targeted genetic therapies. We're bringing these 2 companies on 4 key pillars. 
+Number one, this is an opportunity to expand on the compelling data and strength of ELX-02 to build a cystic fibrosis franchise to treat Class I patients. Number two, we are strengthening and expanding the leadership and capabilities of the combined company. Number three, we're combining complementary platforms that both uniquely target the human ribosome. And finally, we are expanding our pipeline into very compelling rare disease and oncology opportunities. 
+So how are we going to expand our CF franchise? And what does this do for that? Well, ELX-02, we believe, has very shown very strong efficacy in preclinical models and is already in Phase II development for Class I patients as the first ever read-through agent for these patients. We expect data readout in the second half of 2021. We also now have the opportunity to take advantage of the cystic fibrosis program that Zikani had that complements ELX-02. 
+Next, we're strengthening the leadership. I have joined as the President and CEO on the request of the Board of Zikani -- of Eloxx Pharmaceuticals, and Dr. Vijay Modur is joining as our Head of R&D. He was formerly Zikani's CSO and CMO. 
+Now this also really brings together complementary platforms. How? We, at Zikani, have developed a TURBO-ZM synthetic chemistry platform that can design oral novel macrolide-based small molecules. These ribosome-modulating agents are potent oral modulators with favorable therapeutic index. We have developed an expertise in this area in designing them with favorable therapeutic industry. 
+And finally, the pipeline that we now have is much broader in rare diseases and oncology. We're expecting to file an IND for recessive dystrophic epidermolysis bullosa and junctional epidermolysis bullosa, or RDEB and JEB, in 2022. This will be the first oral treatment for RDEB and JEB patients with nonsense mutations. And behind that, we are advancing programs in colorectal cancer, where we are focused on reading through and restoring the tumor suppressor gene, APC, which is implicated in 80% of all colon cancers. So in summary, this truly builds on the strength of both companies in terms of leadership, capabilities and science.
+Moving on to Slide 4. We've assembled a world-class team with significant experience and extensive industry knowledge. The members of the team all have a proven ability to translate technology into treatment for patients. 
+Dr. Vijay Modur has over 20 years of translation and drug development experience, including leading the venglustat rare disease program at Sanofi Genzyme. Our Head of Discovery Sciences, Dr. Roger Clark, also has over 20 years of medicinal chemistry experience and has been the architect of Zikani's RMAs. And we're also pleased that Dr. Dan Geffken has agreed to serve as interim CFO. Dan has extensive experience in building companies and has closed over $2 billion in equity and debt financings. So we believe that with these executives, we will be able to complement an already very strong team at Eloxx and has demonstrated an ability to advance programs from preclinical into the clinic very successfully. 
+Slide 5 recaps the details of the acquisition. Eloxx will be issuing approximately 7.6 million common shares to acquire Zikani. After giving effect to the transaction, former Zikani shareholders now own approximately 16% of Eloxx. 
+As part of the transaction, Dr. Silvia Noiman and Martijn Kleijwegt are retiring from the Board. We're delighted to have Dr. Alan Walts and Dr. Raj Parekh, previous Zikani Directors, join the Board. And we want to thank Silvia and Martijn for their service on the Board as well. 
+Now moving on to Slide 6. I want to expand on the scientific rationale for the acquisition. As I said, this combines the complementary technologies to target the human ribosome. We now are fully able to address mechanistically all of the diseases and mutations in the human ribosome. 
+Let me start with -- on the left-hand side, you see we have mutations -- specifically nonsense mutation in the mRNA that result in a premature stop codon and loss of function on the proteins. We also have dysregulated ribosome, which are really common in certain types of onco- and mitoribosomal cancers. So by bringing these 2 companies together, we can attack the ribosome at both ends on the large subunit where the RMA, as shown here, which targets the nascent peptide exit tunnel and Eloxx' eukaryotic-binding glycoside, of which ELX-02 has demonstrated clinically relevant read-through of the CF protein in preclinical models. 
+So now let me turn over to Slide 6. I want to take a minute to emphasize strong potential that ELX-02 has in transforming treatment for CF patients. It has demonstrated efficacy in clinically relevant preclinical models. It has been shown to be safe in preclinical models and clinical studies. And the ongoing Phase II trial has been designed to identify a rapid clinical cycle -- signal. 
+Some detail on the Phase II trial. This is designed and set up exactly in the same way as Vertex designed its trial to test ORKAMBI in F508 delta homozygous patients. This trial would confirm to the safety of the molecule and the biological activity, as defined by sweat chloride reduction. As I said, these are exactly the same endpoints used to establish the efficacy and safety of ORKAMBI in its Phase II trial by Vertex. We expect to complete enrollment in Phase II trial by midyear and report data in the second half of 2021. 
+Now moving on to Slide 8. We now have a deep pipeline of synergistic potential first-in-class genetic therapies. We're building on Eloxx' pipeline and now have the first oral therapy for RDEB and JEB patients with nonsense mutations. This, we expect to file an IND in 2022. 
+Behind that, we have an exciting preclinical program in cystic fibrosis and an exciting program in colorectal cancer focused on reading through the APC gene, which is a critical tumor suppressor gene implicated in the majority of colorectal cancer. And finally, we look forward to providing additional detail on these programs, including our earlier-stage oncology programs. 
+So in summary, I'm really excited about the combination of Eloxx and Zikani -- and of Eloxx -- with this acquisition by Eloxx of Zikani, and look forward to transforming the lives of patients. 
+Let me now turn it over to Dr. Vijay Modur, who will give you an introduction of Zikani's technology and pipeline. Vijay, please, over to you. Thank you.
+
+--------------------------------------------------------------------------------
+Vijay Modur,   -     [4]
+--------------------------------------------------------------------------------
+Thank you, Sumit. I am incredibly pleased to be on the call today and echo comments made by Sumit earlier. 
+If we can move on to Slide 10. As of leadership, I would also like to believe that Eloxx has the potential to have a significant impact on the treatment of several diseases with severe unmet needs. The heart of our platform is the TURBO-ZM. It stands for Tuning the Ribosome with Zikani Molecules. This fully unlocks the potential of macrolides. 
+What are macrolides? And why does TURBO-ZM work? Macrolides are class of antibiotics like azithromycin and erythromycin. These antibiotics normally bind to the bacterial ribosome, and that's how they're acting. What TURBO-ZM can do is do novel chemistry that is unique and exclusive to Zikani. We can now take these natural products that are antibiotics that were very hard to do chemistry on and apply TURBO-ZM platform to introduce new activities into the macrolide molecule by inserting new chemical elements into the macrocyclic ring. 
+Now we can cause it to bind the human ribosome. We can now tune the human ribosome to read-through or inhibit protein translation. At the same time, we can maintain the drug-like characteristics of the macrolides, pharmacokinetics, safety and more -- and very importantly oral bioavailability. And all of this is done because we know a lot about the structure activity relationship of the macrolides. 
+Going on to Slide 11. Why do we believe that when macrolides chemistry has changed, they can bind the human ribosome? There's a very strong rationale for this. When we look at the ribosome structures, and if you look on the left, there's the E. coli bacterial ribosome structure. When you look at the assembly line for the protein synthesis, in the tunnel, the macrolides bind in the upper part of the tunnel. This area is very similar in humans. 
+With this area being similar in humans, changes with chemistry with the TURBO-ZM platform from the starting point of macrolide antibiotics, now can change the affinity from the bacteria to the human ribosome. This creates a whole new class of drugs that now can target the human ribosome. This is an underexplored area of human biology and therapeutics. 
+In Slide #12, you will see that we have a growing library of ribosomal-modulating agents with drug-like properties. In the figure, you have molecules classed by molecular weight and polarity. What the polarity basically mean is how much they like oil and water. And what we see is the ribosomal-modulating agents are tracked on their own. They are smaller than the traditional macrolides, which are on the top right, and they are larger than ELOX-02. And this new class of macrolides now give us the ability to go after a whole new set of diseases and go -- and creates a large opportunity. 
+Now we asked ourselves, how well does this work, in Slide #13. This is an assay that looks at read-through of -- across the stop codon -- across the nonsense mutation. And what our ribosomal-modulating agent show is superior read-through to alternatives.
+What really happens in this assay is a nonsense mutation is like a bridge out in the RMA. And when the read-through occurs, it creates a full length protein, and we can measure this through luciferase activity. And what we can see here is superiority of the ribosomal-modulating agents to G418, which is traditionally used as a positive control. And it's too toxic to use in humans. And any compound that is superior to G418 has very high level of activity. 
+Now moving on to Slide #13.
+
+--------------------------------------------------------------------------------
+Sumit Aggarwal,   -     [5]
+--------------------------------------------------------------------------------
+14.
+
+--------------------------------------------------------------------------------
+Vijay Modur,   -     [6]
+--------------------------------------------------------------------------------
+Slide #14. I'm sorry, Slide #14, this slide highlights the RDEB and JEB program. What we have with this program is a clinically validated path for RMAs in rare skin disease, targeting those patients with nonsense mutations. 
+What is RDEB and JEB? It is a condition -- it's a skin condition that occurs due to mutations in COL7 or LAMB3, where the outer layer of the skin and the inner layer of the skin don't adhere very well to each other. This leads to the skin blistering feeling, chronic non-healing wounds, very painful accompanied by scarring and develop skin cancer early in life. In JEB, it is even more severe, leads to mortality early in life. 
+In this condition, gentamicin, which can induce read-through across the nonsense mutation, was used in the clinical trial. And what it showed is it can -- it's effective at improving wound healing. 
+However, gentamicin is not used clinically. Why? There are 2 problems. First, gentamicin treats the wound. It doesn't treat the whole body. Second, gentamicin's read-through ability is based on a small fraction of the mixture of gentamicin molecules that is present in the preparation. And this happens because gentamicin is naturally derived and the mixture -- in the mixture, the wound healing that causes read-through is a very small fraction of queries. So every batch of gentamicin has a different level of activity. What RMAs can do is be an oral option to treat the whole body. 
+To test this, on Slide #15, we could show that ribosomal-modulating agents can restore functional collagen protein in primary patient cells that we got from the -- from RDEB patients. And the level of this functional collagen induction was comparable to high dose gentamicin whose activity is local, as I mentioned. 
+Here, we have data from 2 patients. This is a western block. What you're seeing is full length expression of COL7 in both these patient cells. And this level of expression is consider to be more than sufficient for clinical activity. 
+Moving on to Slide 16. I would like to call your attention to the CF program that Sumit mentioned earlier. What you see is RMA, the ribosomal-modulating agent lead compound we have in this indication, has shown the highest ever read-through in a preclinical Ussing chamber assay. 
+What does that mean? It is the assay that Vertex and other companies have used to benchmark their compounds for clinical activity. And in this benchmark, our lead compound had such an impressive activity that the CF Foundation shared the excitement we had about this data. And we were encouraged to apply for a brand, which -- the results of which we will hear later this year. 
+Moving on to the next indication in our pipeline on Slide #17. We have support for this indication by positive prior clinical success of erythromycin in patients with familial adenomatous polyposis. And this disease is caused by mutations in the APC gene. And in familial adenomatous polyposis, there are thousands of polyps that are seen in these patients, and this is a precancerous condition, almost invariably leads to colorectal cancer. 
+Incidentally, over 80% of colorectal cancer also harbor a mutation in the APC. So this represents a large footprint for us to go after. And what erythromycin has shown in a clinical trial, in 6 out of 10 patients, it showed regression of polyp number and polyp size. And what you see on the graph on the right is this reduction that is composite only in the responders. 
+The problem with erythromycin was threefold. One, the activity was highly variable. One patient responded very, very well and drove the average overview. Second, it inhibits the hERG function, and that can lead to cardiac -- sudden cardiac death, so -- which is a tremendous risk in these patients. Third, it's not very well tolerated. So there is a huge need for an orally available potent read-through agent to target -- to go after these patients. 
+And going on to Slide #18, we have a clear path in treating patients with FAP, which is supported by efficacy in our APC mutant cancer in patient tumor grafts. And what we see here is, on the right, you see the graph is a growth inhibition induced by ZNK013, that's one of our lead compounds in this area, in colorectal cell -- cancer cells that have R1450X nonsense mutation or R1429X nonsense mutation. 
+In summary, what we have is an opportunity to have more and better therapies to get -- to bring them to patients much faster when we combine the -- both the Eloxx platform and our -- the Zikani platform. 
+So I will now turn it back over to Sumit. And I really thank you for giving me the time today to present our story.
+
+--------------------------------------------------------------------------------
+Sumit Aggarwal,   -     [7]
+--------------------------------------------------------------------------------
+Thanks, Vijay. Again, we are incredibly excited by the potential of the combination of the 2 companies, Eloxx and Zikani. We have the right team in place. We have a really strong program in ELX-02 with -- that forms a foundation for success in that -- in cystic fibrosis. We have -- we're bringing together a complementary technology platform that targets uniquely the human ribosome. And we're building now upon a very broad pipeline in nonsense mutation and eventually in cancer. An IND, as I said, is expected to be filed in RDEB and JEB in 2022. 
+So with that, let me to turn it over back to the operator for Q&A. Operator?
+
+
+================================================================================
+Questions and Answers
+--------------------------------------------------------------------------------
+Operator    [1]
+--------------------------------------------------------------------------------
+(Operator Instructions) And our first question will come from line Michelle Gilson from Canaccord Genuity.
+
+--------------------------------------------------------------------------------
+Michelle Lim Gilson,  Canaccord Genuity Corp., Research Division - Analyst    [2]
+--------------------------------------------------------------------------------
+I guess, just one clarifying question to start off. The program for RDEB and JEB, is that a topical or an oral?
+
+--------------------------------------------------------------------------------
+Sumit Aggarwal,   -     [3]
+--------------------------------------------------------------------------------
+All of our programs -- Michelle, thank you for the question. All of our programs are oral. As Dr. Modur described, the fundamental benefit of our TURBO-ZM platform is that we are designing oral macrolides. Macrolides, like azithromycin and erythromycin, are, by their structure, oral compounds. So we can not only address the open wounds that these patients have, but we can systemically restore COL7.
+
+--------------------------------------------------------------------------------
+Michelle Lim Gilson,  Canaccord Genuity Corp., Research Division - Analyst    [4]
+--------------------------------------------------------------------------------
+Okay. And then can we -- maybe just turning here to Slide 12. Can you maybe walk us through, again, the drug properties that the ZM platform, I guess, opens up for the nonsense mutation read-through or ribosomal-modifying agents? What are some of the characteristics that you're able to improve on? 
+I know you mentioned that the compounds are more lipophilic than maybe first generation. And then why wouldn't you expect toxicity? You're starting with an antibiotic, which the mechanism is designed to be toxic. So maybe what are some of the limitations of the current class around toxicity? And how does your platform improve on that?
+
+--------------------------------------------------------------------------------
+Sumit Aggarwal,   -     [5]
+--------------------------------------------------------------------------------
+So I'm going to hand it over to Vijay to answer your questions -- the first part of your question in detail. I think -- but I want to just make a note that we are not starting with an existing molecule. The fundamental power of TURBO-ZM is that it is a fully synthetic platform that allows us to build from the ground up these molecules, which have these macrolide-based structures.  Let me, again, turn it over to Vijay to describe Slide 12 and how our library is different. Vijay?
+
+--------------------------------------------------------------------------------
+Vijay Modur,   -     [6]
+--------------------------------------------------------------------------------
+Yes, Michelle, as I had said in Slide 10, by building from the ground up, we can now put in different chemical structure in the macrocyclic ring. And this was not possible. And we have decades of experience and study of structure activity relationship of the macrolide ring.
+And so what -- your question on Slide 12, what we are able to do is make these molecules more compact and make them in a better drug-like space and less lipophilic. What this does is 2 things. It improves safety. Second, it has the potential to improve pharmacokinetics as well. But the third thing that we do is, because we are inserting new chemical moieties along the macrocyclic ring, we can now choose those moieties that have a higher probability of binding to the human ribosome. And that's how we create this whole new plan of chemicals.
+
+--------------------------------------------------------------------------------
+Michelle Lim Gilson,  Canaccord Genuity Corp., Research Division - Analyst    [7]
+--------------------------------------------------------------------------------
+Congratulations on the deal.
+
+--------------------------------------------------------------------------------
+Operator    [8]
+--------------------------------------------------------------------------------
+Our next question will come from line of Mayank Mamtani from B. Riley Securities.
+
+--------------------------------------------------------------------------------
+Mayank Mamtani,   B. Riley Securities, Inc., Research Division - Research Analyst    [9]
+--------------------------------------------------------------------------------
+Congrats on the transaction. I have 3 questions. Just maybe at a high level first. Can you just talk to the rationale for the timing here? Why did you think it was a good idea? And then I have a couple of follow-ups.
+
+--------------------------------------------------------------------------------
+Sumit Aggarwal,   -     [10]
+--------------------------------------------------------------------------------
+Sure. Thanks for the question, Mayank. Look, this was the right time for both companies because of the progress that we have both each made in each of our areas. And you can never perfectly time these acquisitions. The Zikani platform had matured, to the point where both company shareholders and Board thought that this was the time to come bring these organizations together for creating long-term success and value for shareholders.
+
+--------------------------------------------------------------------------------
+Mayank Mamtani,   B. Riley Securities, Inc., Research Division - Research Analyst    [11]
+--------------------------------------------------------------------------------
+Great. And then on the gentamicin RDEB data, obviously looks very interesting. As we know, that's aminoglycoside. And would be curious to sort of hear your thoughts on how that has read-through on macrolide? And then maybe also broadly, if you can touch on the landscape, from a clinical stage therapy standpoint, where most of the options that we have seen data from our gene therapy or cell therapy. So could you maybe touch on how you see your sort of preclinical and proof-of-concept data kind of evolve in context of that?
+
+--------------------------------------------------------------------------------
+Sumit Aggarwal,   -     [12]
+--------------------------------------------------------------------------------
+Thanks, Mayank. Mayank, can you repeat your second question? We weren't quite sure. Was your question related to gentamicin?
+
+--------------------------------------------------------------------------------
+Mayank Mamtani,   B. Riley Securities, Inc., Research Division - Research Analyst    [13]
+--------------------------------------------------------------------------------
+Just -- the first question, you mean?
+
+--------------------------------------------------------------------------------
+Sumit Aggarwal,   -     [14]
+--------------------------------------------------------------------------------
+Yes. Gentamicin.
+
+--------------------------------------------------------------------------------
+Mayank Mamtani,   B. Riley Securities, Inc., Research Division - Research Analyst    [15]
+--------------------------------------------------------------------------------
+Yes.
+
+--------------------------------------------------------------------------------
+Sumit Aggarwal,   -     [16]
+--------------------------------------------------------------------------------
+Yes.
+
+--------------------------------------------------------------------------------
+Mayank Mamtani,   B. Riley Securities, Inc., Research Division - Research Analyst    [17]
+--------------------------------------------------------------------------------
+Yes, the -- it's in aminoglycoside. And I was just curious how the interesting clinical data that you have has read-through in the macrolide? Just how to think about as you advance your own agents which are macrolide-targeted?
+
+--------------------------------------------------------------------------------
+Sumit Aggarwal,   -     [18]
+--------------------------------------------------------------------------------
+Okay. I think I'll hand it over to Vijay to answer that question.
+
+--------------------------------------------------------------------------------
+Vijay Modur,   -     [19]
+--------------------------------------------------------------------------------
+Mayank, what our drugs do, as Sumit had mentioned earlier, is we find the large subunit of the ribosome in the nascent peptide exit tunnel. This is where the protein comes out in the ribosome protein factory. 
+What the aminoglycoside do is they bind the small subunit of the ribosome. And do you believe mechanism of action differences? There are significant differences in how they act. But in the end, they can do the same thing, that is achieve read-through. 
+And one more thing that we can do is because macrolides are fundamentally a very different class of molecules and have a different therapeutic window, we can take advantage of the macrolide therapeutic window in this situation versus the aminoglycoside therapeutic window and the pharmacokinetics. So macrolides become a much more drug-like class of molecules, and this is the advantage of our platform.
+
+--------------------------------------------------------------------------------
+Sumit Aggarwal,   -     [20]
+--------------------------------------------------------------------------------
+Great. And the second question, Mayank, you had was on the comparison with the other RDEB therapies? So Vijay, can you talk about that?
+
+--------------------------------------------------------------------------------
+Vijay Modur,   -     [21]
+--------------------------------------------------------------------------------
+Absolutely. So with respect to the other RDEB therapies, the current RDEB therapies in development, to our knowledge, focused on healing the chronic wounds. We try -- we are trying to treat the disease. Chronic wounds are a downstream effect of the disease because the outer layer of the skin feel soft. 
+What we are trying to do is improve the stapling of the outer and inner layer of the skin by read-through to an oral therapy. So it should occur in the skin all over the body, not just all over the body, also the esophagus, because these patients cannot swallow due to esophageal ulcers and fibrosis. And they have (inaudible).  So we are trying to modify the patients' lives by impacting several different -- the whole body base.
+
+--------------------------------------------------------------------------------
+Mayank Mamtani,   B. Riley Securities, Inc., Research Division - Research Analyst    [22]
+--------------------------------------------------------------------------------
+Very helpful. And then on CF, on the complementarity of the 2 programs in Class I, just can you help us understand how you model or you thought about the different ELX-02 data scenarios? And how do you see, ultimately, your Zikani RMA agent coming from behind and sort of building on the benefit that 02 has in a clinical trial setting? Could you maybe comment on that?
+
+--------------------------------------------------------------------------------
+Sumit Aggarwal,   -     [23]
+--------------------------------------------------------------------------------
+Sure. So let me lead off, and I'll ask Vijay to join after that. So first of all, I think ELX-02 has -- if you look at the preclinical data, it has shown very strong efficacy comparable to ORKAMBI in the 2 models that are known to have high translation into the clinic. These are using chamber data and looking at organoid swelling in CF patients. So I think that's where we start, with a very strong foundation. 
+And now as we've talked about, the RMAs and the ELX-02 have complementary mechanisms of action. That opens up a real opportunity, both as stand-alone agents and as combination. Now these are some -- these are things we, as individual companies, could never accomplish, but we can now do this together. And we hope, with the support of the CF Foundation, should we get the grant, we'll be able to explore these opportunities even more. Does that help you answer the question?
+
+--------------------------------------------------------------------------------
+Mayank Mamtani,   B. Riley Securities, Inc., Research Division - Research Analyst    [24]
+--------------------------------------------------------------------------------
+Yes. Very helpful.
+
+--------------------------------------------------------------------------------
+Operator    [25]
+--------------------------------------------------------------------------------
+And I'm not showing any further questions in the queue. I'd like to turn the call back over to Sumit for any closing remarks.
+
+--------------------------------------------------------------------------------
+Sumit Aggarwal,   -     [26]
+--------------------------------------------------------------------------------
+Thank you, operator. And I just want to, again, thank everyone for joining the call. I reiterate how excited I am that the company has -- the Board of the company asked me to take over as CEO. I've inherited an amazing team at Eloxx, have done tremendous work. And we have an opportunity to bring real therapy to patients that need -- that really have no options. And I look forward to sharing the progress of the combined company with you over the next coming quarters, months and years. Thank you.
+
+--------------------------------------------------------------------------------
+Operator    [27]
+--------------------------------------------------------------------------------
+This concludes today's conference call. Thank you for participating. You may now disconnect.
+
+
+
+
+
+
+
+--------------------------------------------------------------------------------
+Definitions
+--------------------------------------------------------------------------------
+PRELIMINARY TRANSCRIPT: "Preliminary Transcript" indicates that the 
+Transcript has been published in near real-time by an experienced 
+professional transcriber.  While the Preliminary Transcript is highly 
+accurate, it has not been edited to ensure the entire transcription 
+represents a verbatim report of the call.
+
+EDITED TRANSCRIPT: "Edited Transcript" indicates that a team of professional 
+editors have listened to the event a second time to confirm that the 
+content of the call has been transcribed accurately and in full.
+
+--------------------------------------------------------------------------------
+Disclaimer
+--------------------------------------------------------------------------------
+Refinitiv reserves the right to make changes to documents, content, or other 
+information on this web site without obligation to notify any person of 
+such changes.
+
+In the conference calls upon which Event Transcripts are based, companies 
+may make projections or other forward-looking statements regarding a variety 
+of items. Such forward-looking statements are based upon current 
+expectations and involve risks and uncertainties. Actual results may differ 
+materially from those stated in any forward-looking statement based on a 
+number of important factors and risks, which are more specifically 
+identified in the companies' most recent SEC filings. Although the companies 
+may indicate and believe that the assumptions underlying the forward-looking 
+statements are reasonable, any of the assumptions could prove inaccurate or 
+incorrect and, therefore, there can be no assurance that the results 
+contemplated in the forward-looking statements will be realized.
+
+THE INFORMATION CONTAINED IN EVENT TRANSCRIPTS IS A TEXTUAL REPRESENTATION
+OF THE APPLICABLE COMPANY'S CONFERENCE CALL AND WHILE EFFORTS ARE MADE TO
+PROVIDE AN ACCURATE TRANSCRIPTION, THERE MAY BE MATERIAL ERRORS, OMISSIONS,
+OR INACCURACIES IN THE REPORTING OF THE SUBSTANCE OF THE CONFERENCE CALLS.
+IN NO WAY DOES REFINITIV OR THE APPLICABLE COMPANY ASSUME ANY RESPONSIBILITY FOR ANY INVESTMENT OR OTHER
+DECISIONS MADE BASED UPON THE INFORMATION PROVIDED ON THIS WEB SITE OR IN
+ANY EVENT TRANSCRIPT. USERS ARE ADVISED TO REVIEW THE APPLICABLE COMPANY'S
+CONFERENCE CALL ITSELF AND THE APPLICABLE COMPANY'S SEC FILINGS BEFORE
+MAKING ANY INVESTMENT OR OTHER DECISIONS.
+--------------------------------------------------------------------------------
+Copyright 2021 Refinitiv. All Rights Reserved.
+--------------------------------------------------------------------------------

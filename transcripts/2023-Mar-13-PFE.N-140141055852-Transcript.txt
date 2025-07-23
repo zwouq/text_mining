@@ -1,0 +1,693 @@
+
+
+Refinitiv StreetEvents Event Transcript
+E D I T E D   V E R S I O N
+
+Pfizer Inc Analyst and Investor Call to Discuss Proposed Acquisition of Seagen Inc Call
+MARCH 13, 2023 / 12:00PM GMT
+
+================================================================================
+Corporate Participants
+================================================================================
+
+ * Albert Bourla
+   Pfizer Inc. - Chairman of the Board & CEO
+ * Aamir Malik
+   Pfizer Inc. - Chief Business Innovation Officer, Executive VP
+ * Mikael Dolsten
+   Pfizer Inc. - Chief Scientific Officer and President of Worldwide Research, Development & Medical
+ * David M. Denton
+   Pfizer Inc. - CFO, Executive VP
+ * Christopher J. Stevo
+   Pfizer Inc. - Senior VP & Chief IR Officer
+ * Roger D. Dansey
+   Seagen Inc. - President, Research & Development and Chief Medical Officer
+ * William Pao
+   Pfizer Inc. - Chief Development Officer, Executive VP
+ * David R. Epstein
+   Seagen Inc. - CEO
+ * Douglas M. Lankler
+   Pfizer Inc. - General Counsel, Executive VP
+ * Chris Boshoff
+   Pfizer Inc. - Chief Development Officer, Oncology & Rare Disease
+
+================================================================================
+Conference Call Participiants
+================================================================================
+
+ * Robyn Kay Shelton Karnauskas
+   Truist Securities, Inc., Research Division - Research Analyst
+ * Timothy Minton Anderson
+   Wolfe Research, LLC - MD of Equity Research
+ * Umer Raffat
+   Evercore ISI Institutional Equities, Research Division - Senior MD & Senior Analyst of Equity Research
+ * Yige Guo
+   Guggenheim Securities, LLC, Research Division - Associate
+ * Terence C. Flynn
+   Morgan Stanley, Research Division - Equity Analyst
+ * Christopher Thomas Schott
+   JPMorgan Chase & Co, Research Division - Senior Analyst
+ * Colin Nigel Bristow
+   UBS Investment Bank, Research Division - Analyst
+ * Huidong Wang
+   Barclays Bank PLC, Research Division - Research Analyst
+ * Louise Alesandra Chen
+   Cantor Fitzgerald & Co., Research Division - Senior Research Analyst & MD
+ * Geoffrey Christopher Meacham
+   BofA Securities, Research Division - Research Analyst
+ * Chris Shibutani
+   Goldman Sachs Group, Inc., Research Division - Research Analyst
+ * David Reed Risinger
+   SVB Securities LLC, Research Division - Senior MD
+ * Mohit Bansal
+   Wells Fargo Securities, LLC, Research Division - Senior Equity Analyst
+ * Trung Chuong Huynh
+   Crédit Suisse AG, Research Division - Research Analyst
+ * Evan David Seigerman
+   BMO Capital Markets Equity Research - MD & Senior BioPharma Research Analyst
+
+================================================================================
+Presentation
+--------------------------------------------------------------------------------
+Operator    [1]
+--------------------------------------------------------------------------------
+Good day, everyone, and welcome to Pfizer's Analyst and Investor Call to discuss proposed acquisition of Seagen. Today's call is being recorded. At this time, I would like to turn the call over to Mr. Chris Stevo, Senior Vice President and Chief Investor Relations Officer. Please go ahead, sir.
+
+--------------------------------------------------------------------------------
+Christopher J. Stevo,  Pfizer Inc. - Senior VP & Chief IR Officer    [2]
+--------------------------------------------------------------------------------
+Thank you for joining our call today on short notice. Today's call will last approximately 60 minutes. We will start with some prepared remarks followed by a question-and-answer session. Before I begin, let me remind you that Pfizer and Seagen will be making forward-looking statements during the course of this call that are subject to substantial risks and uncertainties. We undertake no obligation to update those statements and any comments we make are valid only as of today. For additional information, please see the press release regarding the proposed transaction that we issued today and the SEC Form 10-Q and 10-K filings with the companies in the sections entitled Risk Factors and Forward-Looking Information and Factors that may affect future results in the case of Pfizer or special note regarding forward-looking statements in the case of Seagen.
+Our discussion today will also include certain financial measures that are not calculated in accordance with U.S. generally accepted accounting principles or GAAP. We believe these non-GAAP financial measures provide additional information pertinent to our business performance. These non-GAAP financial measures should not be considered replacements for GAAP financial measures.
+We're joined today by our speakers. Our Chairman and CEO, Albert Bourla, who will discuss the transaction rationale; Seagen's CEO, David Epstein, who will talk about the transaction from Seagen's perspective followed by Chris Boshoff, our Chief Development Officer Oncology and Rare Disease, who will highlight the complementary fit of the respective portfolio, pipeline and scientific platforms. Followed by Dave Denton, our CFO, who run the key financials. Suneet Varma, our worldwide U.S. President of Oncology, and Aamir Malik, our Chief Business Innovation Officer; Mikael Dolsten, President Worldwide Research Development and Medical; Roger Dansey, Seagen's President of R&D; and William Pao, our Head of Global Product Development, will also join us for the Q&A session.
+And now let me turn it over to Albert.
+
+--------------------------------------------------------------------------------
+Albert Bourla,  Pfizer Inc. - Chairman of the Board & CEO    [3]
+--------------------------------------------------------------------------------
+Thank you, Chris. Good morning, everyone, and thank you for joining us. Today is an exciting day for Pfizer, for Seagen and for patients with cancer around the world. That's because today, Pfizer and Seagen have announced that we have entered into a definitive merger agreement under which Pfizer will acquire Seagen, a pioneer in antibody drug conjugate technology is called ADC, which is rapidly emerging as a powerful tool in cancer treatment.
+Oncology, the core therapeutic area for Pfizer, and we believe the proposed combination with Seagen will enhance our position in this important space while significantly advancing the global fight against cancer, which continues to be the largest growth driver in global medicine and has a significant impact on public health.
+Over the past few years, Pfizer delivered to the world breakthrough solutions that have helped bring an end to the COVID-19 crisis. And now we are ready to hopefully do the same with cancer. With COVID-19, we chose the right model technology, mRNA and the right partner, BioNTech, and then apply the scale and power at Pfizer's capabilities to deliver solutions to patients worldwide. We believe we can do this again with cancer by using another novel technology, ADCs this time and bringing the world's best ADC company, which is Seagen into Pfizer.
+ADCs are designed to harness the targeting power of antibodies to deliver small molecule drugs to the tumor. This innovative approach to therapy offers meaningful efficacy with the goal of limiting certain side effects for patients. Seagen's expertise in ADC technology is unsurpassed as is Pfizer's ability to deliver life-changing solutions quickly at a great scale.
+With this proposed acquisition, Pfizer intends to deploy its financial, scientific, manufacturing and commercial capabilities to advance the fight against cancer, which is the second leading cause of death in the U.S. and a leading cost of death worldwide. I can't think of a better way to realize our purpose, breakthroughs that change patients' lives.
+Seagen's commercial and late-stage development focus aligns with Pfizer's current oncology portfolio and pipeline. Seagen already has 4 cancer treatments on the market but our first or best-in-class across hematologic and solid tumors. These include 3 therapies that are used EBC -- ADC technology, one for certain CD30 expressing lymphomas, including Hodgkin's disease. One for metastatic bladder cancer and one for metastatic cervical cancer. So clearly, Seagen has established a track record of delivery innovation to patients.
+Seagen also has a broad and deep pipeline that includes 11 new molecular entities, many with the potential to bring treatments to large patient populations and almost all with global commercial rights. The next wave of potential breakthrough medicines that could launch before 2030 includes candidates for breast, non-small cell lung, metastatic bladder and other cancers. Of course, these are all subject to clinical trial and regulatory success. And Seagen's next-generation ADC platform offers promise for further innovation in the field.
+Perhaps Seagen's greatest asset is its people. You don't create such an impressive pipeline and successful portfolio without extremely smart, dedicated and purpose-driven colleagues, and we look forward to welcoming them to our team and benefiting from their expertise and insights.
+For all these reasons, we believe the addition of Seagen will help position us at the forefront of innovative cancer care, and strongly complement our existing portfolio across both hematologic and solid tumors. The combination of our respective areas of strength and global footprints will allow us to maximize the potential of Seagen's capabilities and more rapidly advance even more potential breakthroughs to patients with cancers.
+In addition to accelerating the next generation of potential breakthroughs in cancer, we also expect this transaction could contribute meaningfully to our goal of generating an incremental $25 billion in risk-adjusted 2030 revenues through new business development transactions. Seagen expects to generate approximately $2.2 billion of revenues in 2023, representing 12% year-over-year growth, including revenue from 4 inline products, ADCETRIS, PADCEV, TUKYSA and TIVDAK. These medicines are on a strong growth trajectory with significant lifecycle programs anticipated to drive continued impact uptake and growth.
+Analyst consensus estimates these 4 products only generating more than $8 billion in 2030 revenue. Subject to clinical trial and regulatory success, we also anticipate Seagen's compelling pipeline to contribute over the near midterm, potentially delivering more than $2 billion in revenues in 2030, as new medicines keep [first drive] following initial (inaudible) in the 2026 to 2028 time frame.
+Bottom line, we believe Seagen could contribute more than $10 billion in risk-adjusted revenues in 2030, and even more and more important with potential significant growth beyond 2030, given the durability of the assets that we have acquired.
+We are enthusiastic about numerous potential growth accelerant made possible by bringing these 2 companies together. From a commercial perspective, the potential go-forward U.S. commercial infrastructure of the 2 companies would be 3x the size of Seagen alone in the U.S., enabling enhanced reach and medical impact in competitive oncology field. Pfizer brings deeper commercial and mentor capabilities in areas such as account management and real-world evidence generation that could further accelerate Seagen's product uptake as payers, organized customers and medical professionals to learn about the benefits of safety profiles of these medicines. Pfizer has also global reach at scale and the ability to market Seagen's candidates globally. While Seagen's in-line portfolio is partner. Seagen has global rights to the vast majority of its pipeline candidates. And this represents a major potential upside for both parties.
+From an R&D perspective, Pfizer has a proven ability to speed clinical development via our enhanced network with investigators and sites around the world. And we are excited about the possibility to apply this to see their portfolio and to deliver new treatments to patients more rapidly.
+There are also existing opportunity for treatment combinations across our portfolio to create compelling therapeutic regimens. This could include finding new growth for Seagen's in-line asset, potential combination with TUKYSA in breast cancer, for example, as well as for our respective pipelines, for example, in combination with our existing elranatamab in multiple myeloma with the potential for better patient outcomes and portfolio uplift for both products. Lastly, from a discovery research standpoint, we will seek to identify and advance new biologics with our complementary research capabilities. We will look to apply Pfizer's protein engineering design capability to advance Seagen's ADC technology and Pfizer's cancer immunology discovery capabilities to inform novel immuno-oncology antibody design, as we believe we can achieve improved target design with Seagen's linkers, payloads. I'm sorry.
+As you can see, the strategic Seagen possibilities for patients are significant. Dave will provide more details on both our growth expectations and the potential expense efficiencies during his remarks. But now, I will take it over to Seagen's CEO, David Epstein, to share his perspective of the deal. David, before doing that, I want to thank you and for the trust, not only you, but you and the management team and Seagen's Board -- Pfizer. I can't wait to see what we can accomplish together for patients. So the floor is yours.
+
+--------------------------------------------------------------------------------
+David R. Epstein,  Seagen Inc. - CEO    [4]
+--------------------------------------------------------------------------------
+Thank you, Albert. We're very excited to join you and your team today to announce the combination of what I believe is 2 exceptional industry-leading organizations. I would first like to briefly touch on the many commonalities that I've seen between Seagen's culture and Pfizer's.
+In the weeks that I've spent with colleagues from Pfizer, I've been impressed with their passion, innovativeness, collaboration and drive to help patients which mirrors our own culture in many ways. We have much to learn from each other, and I'm confident that this is the right time for Seagen to come together with Pfizer and benefit from each other's strengths.
+Pfizer's footprint in clinical development, manufacturing and commercial pharmacology medicines will allow globalization of Seagen's products on a scale previously unattainable. Pfizer's resources, infrastructure, scientific depth will accelerate the development of our assets. In addition, Pfizer's current portfolio provides multiple opportunities for combination regimens with our products and pipeline, potentially further increasing the value of these assets. So in that context, I believe that this is the right merger at the right time.
+For patients who rely on our innovations, this could have a huge impact, as we look to accelerate an expanded portfolio of life-changing cancer therapies to more patients worldwide. From a Seagen perspective, it provides meaningful opportunities for employees to continue our mission while tapping into global science-driven, patient-centric network. For Seagen's shareholders, this all-cash transaction unlocks significant value with the share price that is reflective of our R&D engine in 25 years of successful innovation.
+Now let me briefly touch on some highlights of Seagen's technology. Seagen has focused solely on developing targeted cancer therapies that make a difference in cancer patients' lives, and we have a rich history in the development of antibody drug conjugates or ADCs, a therapeutic class that we pioneered.
+Four of the 12 approved ADCs utilize our technology, including 3, which we commercialize ourselves. They're called ADCETRIS, PADCEV and TIVDAK. We have additional opportunities for expansion of indications of these medicines, including early-stage bladder cancer, head and neck cancer and others. The technology is broadly applicable across many cancer types, offering huge potential in areas of high unmet medical need. We continue to innovate in this space with novel antibodies, linkers and payloads that we have in early clinical development or in our preclinical portfolio.
+With that, I'm going to turn it over to Chris Boshoff, who have gotten to know over the last couple of weeks. Who will take you through the fit between Pfizer oncology and Seagen, and also to discuss our early stage pipeline. Chris?
+
+--------------------------------------------------------------------------------
+Chris Boshoff,  Pfizer Inc. - Chief Development Officer, Oncology & Rare Disease    [5]
+--------------------------------------------------------------------------------
+Thank you, David. Today, Pfizer has an industry-leading portfolio of 24 approved innovative cancer medicines that generated $12.1 billion in revenue in 2022. Pfizer's in-line portfolio is focused on 4 broad key areas where we have pioneered several breakthroughs: Breast cancer, genitourinary cancer, hematology and precision medicine. We are also advancing an extensive pipeline of 33 programs in clinical development.
+From a registration perspective, we have 4 launches anticipated in oncology this year, including 2 with blockbuster potential, elranatamab, in relapsed or refractory multiple myeloma, and TALZENNA and XTANDI in metastatic castration-resistant prostate cancer. Furthermore, we have an exciting late-stage pipeline for each of our key areas, including a robust clinical development program for elranatamab across earlier lines of therapy and multiple myeloma. And in breast cancer, we anticipate starting Phase III studies later this year for our next generation CDK4-specific inhibitor and for ARV-471, an oral estrogen receptor PROTAC codeveloping with Arvinas.
+What is especially compelling about this proposed acquisition is, as you can see, Seagen's in-line medicines and late-stage development programs as well as their early portfolio strongly complement Pfizer's strategic alerts.
+Seagen is also poised to expand the impact of its therapeutic approach with its broad and deep pipeline that includes 11 new molecular entities or NMEs. Many of these have potential to reach large patient populations and almost all with global commercial rights. Many are also expected to launch (inaudible) before 2030 subject to clinical trial and regulatory success. I'd like to highlight 3 programs that we are particularly excited about. Starting on the left is TIVDAK a tissue factor directed ADC approved by the FDA in September 2021 for the treatment of patients with recurrent metastatic cervical cancer. Recent Phase I data for TIVDAK in combination with pembrolizumab show highly encouraging confirmed objective response rate of 41%, and combination data with carboplatin demonstrated a compelling confirmed objective response rate of 55%. These data could trigger potential registration intent, doublet or triplet combination studies in cervical and head and neck cancer.
+Moving now to the middle graph is SGN-B6A, which is currently in dose expansion studies and for which Seagen has global rights. This is a first-in-class, highly selective vedotin ADC targeting integrin beta-6. Early data for B6A in non-small cell lung cancer show encouraging antitumor activity across dose levels, including an objective response rate of 33% in a heavily pretreated population with a median of 3.5 prior lines of therapy. Based on these initial data combination studies with pembrolizumab are initiated and registration in 10 studies are planned for non-small cell lung cancer.
+And lastly, on the right is DV. This is a novel humanized antibody targeting HER2. Early data with DV have shown promising efficacy with clinical activity observed in multiple HER2 expressing tumor types, Including both HER2-positive and HER2 low subsets. In a Phase II study in first-line and second-line HER2-positive metastatic urothelial cancer, DV plus toripalimab and anti-PD-1 demonstrated a remarkable 72% confirmed objective response rate, including 8% complete remission.
+Based on these promising data, the FDA granted Breakthrough therapy designation in HER2-positive metastatic urothelial cancer. DV is also already approved in China for HER2-positive gastric cancer and for urothelial cancer.
+Next, Seagen is planning a Phase II/III study in first-line HER2-positive, HER2 low metastatic advance urothelial combined with anti-PD-1 and additional Phase III studies in HER2 low-expressing breast cancer.
+In summary, we believe the combination of our respective areas of strength will allow us to realize Seagen's capability to help us advance even more potential breakthroughs to patients with cancer. The proposed combination with Seagen will double Pfizer's early-stage oncology clinical pipeline, presenting a significant upside opportunity. By applying Pfizer's protein engineering and medicinal chemistry capabilities. We aim to advance Seagen's ADC technology to unlock potential novel target combination and next-generation biologics. And Pfizer's global scale and footprint spanning commercial, medical, regulatory, manufacturing and government relations will complement Seagen's U.S. capabilities with the potential to ultimately deliver Seagen's promising biologics to more people with cancer globally.
+I'll now turn it to Dave for more details on the transaction.
+
+--------------------------------------------------------------------------------
+David M. Denton,  Pfizer Inc. - CFO, Executive VP    [6]
+--------------------------------------------------------------------------------
+Thank you, Chris, and good morning. By now, you're familiar with the terms of the transaction, so I'm just going to highlight a few points.
+We expect the transaction to be neutral to slightly accretive to adjusted diluted earnings per share in the third to fourth year post close. Given Seagen's strong portfolio of in-line products, we anticipate an incremental benefit to earnings within the second full year post close when you exclude the impact of financing costs. In addition, we expect to achieve nearly $1 billion in cost efficiencies in the third full year post close of the transaction. These targeted efficiencies would be across several functional lines by eliminating duplication. That said, we do not anticipate any reductions in either company's R&D programs due to the transaction.
+It's important to note that there are several and significant cost avoidance opportunities for both companies, given anticipated oncology launches over the near to midterm. These launches would otherwise have required significant incremental investments and now can be avoided given our combined infrastructure and capabilities.
+Our plan is to finance the transaction primarily with additional debt. The financing assumes $31 billion of new long-term debt and the balance of the purchase price from a combination of short-term financing and existing cash on hand.
+Given our near-term deleveraging, we expect minimal changes to our credit rating. We remain committed to a high investment-grade Tier 1 commercial paper rating. Notwithstanding the size of this transaction, we expect to maintain the financial flexibility for potential dividend increases and share repurchases in the future. Furthermore, we anticipate that the transaction will be completed in late 2023 or early '24, subject to the satisfaction of the closing conditions.
+Now you are familiar with this chart as we have previously shown it to illustrate our path to 2030 revenues. Now what I'd like to do is focus on the 2030 potential non-COVID revenues from business development. The transactions that we completed in 2022, Arena, Biohaven, GBT and ReViral are expected to contribute $10.5 billion of risk-adjusted revenues in 2030. As previously stated, we believe Seagen could contribute more than $10 billion in risk-adjusted revenue in 2030, assuming clinical trial success and regulatory approvals. In that event, the remaining balance of our 2030 target of $25 billion will be less than $5 billion. Finally and importantly, we anticipate Seagen providing continued revenue growth beyond the 2030 time line.
+And with that, I'd like to turn it back over to Albert to close.
+
+--------------------------------------------------------------------------------
+Albert Bourla,  Pfizer Inc. - Chairman of the Board & CEO    [7]
+--------------------------------------------------------------------------------
+Thank you, Dave. So let me quickly summarize. With this deal, Pfizer intends to deploy its strong financial resources to significantly advance the battle against cancer. We plan to do so by accelerating the next-generation of cancer treatments through the combination of Seagen's ADC technology with the scale and strength of Pfizer's capabilities and expertise. We believe the combination with Seagen will position Pfizer at the forefront of innovative cancer care and strongly complement our existing oncology portfolio.
+And regarding impact on revenue, Seagen expects to generate approximately $2.2 billion in revenues in 2023, representing 12% growth year-over-year and subject to the clinical trial and regulatory success of assets Seagen's current pipeline, Pfizer believe Seagen could contribute more than $10 billion in risk-adjusted revenues in 2030 with potential significant growth beyond 2030. And of course, Dave's spoke about the accretion that you expect to come not in the midterm.
+So we can open now for questions. Chris?
+
+--------------------------------------------------------------------------------
+Christopher J. Stevo,  Pfizer Inc. - Senior VP & Chief IR Officer    [8]
+--------------------------------------------------------------------------------
+Yes. Sorry, just one thing before. We're aware that there were some audio issues on the webcast. So we want to remind you, we posted all our prepared remarks. You have those already, and we'll be posting the webcast as soon as possible after the conclusion of the call. So that you should be able to get the entire call should you wish to review those. Now Chelsey, if you could queue up the callers, please.
+
+
+================================================================================
+Questions and Answers
+--------------------------------------------------------------------------------
+Operator    [1]
+--------------------------------------------------------------------------------
+(Operator Instructions) And our first question will come from Umer Raffat with Evercore ISI.
+
+--------------------------------------------------------------------------------
+Umer Raffat,  Evercore ISI Institutional Equities, Research Division - Senior MD & Senior Analyst of Equity Research    [2]
+--------------------------------------------------------------------------------
+I have a couple here, if I may. First, if you could just speak to the valuation you're paying and how you got comfortable with that number, knowing that there's feedback out there that Merck was not comfortable with the valuation approaching north of $200?
+Secondly, could you also clarify. So we know the Pfizer SG&A plus R&D in the last 3 years have gone from about $20 billion to now about $26 billion. How are you thinking about the pro forma? Is it heading towards $30 billion with the addition of SGEN expense? Or conversely, is there a meaningful amount of synergies we should be thinking about going forward?
+And then finally, on an antitrust perspective, I know historically, Seagen has programs like the BCMA, perhaps even CD40, et cetera, as well as even (inaudible) the MUC indication, which could technically, from an FTC perspective, raise questions and could perhaps delay the close time. How are you thinking about some of those issues?
+
+--------------------------------------------------------------------------------
+Albert Bourla,  Pfizer Inc. - Chairman of the Board & CEO    [3]
+--------------------------------------------------------------------------------
+Okay. Thank you very much, Umer. Dave, why don't you take the valuation question?
+
+--------------------------------------------------------------------------------
+David M. Denton,  Pfizer Inc. - CFO, Executive VP    [4]
+--------------------------------------------------------------------------------
+Yes. Umer, good question. I think first and foremost, obviously, the company and the combination is a really strong strategic fit beyond the financials.
+Secondly, as you look at the financial pro forma of the companies together, one, as we indicated through our prepared remarks, you see it's consistent in significant synergies from a go-to-market perspective on the revenue side. Furthermore, you can see the synergies from a SI&A perspective as we put the 2 companies together, achieving over $1 billion by year 3.
+If you pro forma this out over the longer term, the return at these price levels from a shareholder perspective is actually quite attractive. I think importantly, if you look at the companies together, the in-line portfolio actually creates a floor in the sense that the revenues that the company currently creates, but also projected to $8 billion. Actually creates a floor to the valuation and actually gives us potential upside as the pipeline continues to mature and develop. So I think we're quite comfortable with where we are with this transaction will generate significant value from a returns perspective over the long term.
+
+--------------------------------------------------------------------------------
+Albert Bourla,  Pfizer Inc. - Chairman of the Board & CEO    [5]
+--------------------------------------------------------------------------------
+Thank you, Dave. Also there was a question on the SI&A that it went high from $20 billion to $25 billion. Now there were some reasons for that. One is that the revenue went from almost double. The other reason and more importantly, related, it is because we are in a growth trajectory. So we are investing a lot in SI&A. As I remind everyone, we are about to launch 19 new products. In the next 18 months, potential significant of $20 billion. And we are funding those new launches in a more than adequate way.
+Now some of that was for oncology because there are significant in production from among the 19 new products. We can see a cost avoidance here immediately because instead of building our own resources, commercial to run these products, we can use the highly skilled field force of Seagen that is coming.
+So based on all the calculations that we have right now, at a higher level, we anticipate that we will be able to achieve $1 billion of savings because also keep in mind that Seagen was in a very similar situation. Seagen was also about to expand significant growth investments because they are launching also many new products. They have 14 pipeline assets, and they have 4 highly growing products in the beginning of their launch. So as a result, also, there will be cost avoidance there in SI&A we believe, eventually, good chunk of the synergies will come from SI&A. And the same, it is, of course, across other lines.
+Now as regards to antitrust, I will ask Doug to give you the answer, but..
+
+--------------------------------------------------------------------------------
+Douglas M. Lankler,  Pfizer Inc. - General Counsel, Executive VP    [6]
+--------------------------------------------------------------------------------
+Sure. We anticipate that the transaction is going to be closely reviewed by regulators as would be the case for any large transaction in our industry. But our technologies and approaches to fighting cancer are really complementary. And we think that regulators are going to be able to see the pro-patient, pro-competitive benefit of combining Seagen's ADC technology and expertise with Pfizer's broader experience with the other types of oncology in a way that's very advantageous to patients.
+
+--------------------------------------------------------------------------------
+Albert Bourla,  Pfizer Inc. - Chairman of the Board & CEO    [7]
+--------------------------------------------------------------------------------
+Next question please.
+
+--------------------------------------------------------------------------------
+Operator    [8]
+--------------------------------------------------------------------------------
+Our next question will come from Louise Chen with Cantor.
+
+--------------------------------------------------------------------------------
+Louise Alesandra Chen,  Cantor Fitzgerald & Co., Research Division - Senior Research Analyst & MD    [9]
+--------------------------------------------------------------------------------
+Congratulations on the deal. So first question I have for you is, now that you've got this combined platform, what additional areas of oncology are you interested in? Or do you want to be involved with? And how do you get there?
+
+--------------------------------------------------------------------------------
+Albert Bourla,  Pfizer Inc. - Chairman of the Board & CEO    [10]
+--------------------------------------------------------------------------------
+Thank you very much. Maybe, Chris, you want to make a comment on that?
+
+--------------------------------------------------------------------------------
+Chris Boshoff,  Pfizer Inc. - Chief Development Officer, Oncology & Rare Disease    [11]
+--------------------------------------------------------------------------------
+TAnd to start with, as we pointed out, our pillars remain breast cancer, genitourinary cancer including prostate and bladder, hematology as well as precision medicine, focusing on lung cancer and colorectal Cancer. We've got significant opportunities between both companies in those 4 areas to expand with combinations and new indications. We will continue to focus, and it was for us actually quite compelling that most of the molecules in development at Seagen also are placed within those categories.
+
+--------------------------------------------------------------------------------
+Albert Bourla,  Pfizer Inc. - Chairman of the Board & CEO    [12]
+--------------------------------------------------------------------------------
+Anybody who wants to add anything from William or Mikael? Okay. Next question, please.
+
+--------------------------------------------------------------------------------
+Operator    [13]
+--------------------------------------------------------------------------------
+Our next question will come from Chris Schott with JPMorgan.
+
+--------------------------------------------------------------------------------
+Christopher Thomas Schott,  JPMorgan Chase & Co, Research Division - Senior Analyst    [14]
+--------------------------------------------------------------------------------
+I just had 2 here. Can you just talk a little bit more broadly about the competitive landscape for ADCs? And how you're thinking about some of the other programs that some of your peers are developing as you think about kind of the longer-term landscape for these assets?
+And the second question, I was turning my hands right, I think you're talking about the ability to accelerate development of the Seagen portfolio. And I was hoping if you can elaborate on the dynamics there. So should we think about Pfizer moving these ADCs forward faster and in more indications versus what the company was going to do standalone? Or is the opportunity here more about things like faster patient recruitment, et cetera, that Pfizer is able to do? I'm just trying to see, are you taking kind of is directionally a little bit more risk here and putting more resources? Or is it just that the organizational strength in the combined entity can develop these faster than either company could stand-alone?
+
+--------------------------------------------------------------------------------
+Albert Bourla,  Pfizer Inc. - Chairman of the Board & CEO    [15]
+--------------------------------------------------------------------------------
+Very good question, Chris, and then I will give you to your same name guy, Chris Boshoff.
+
+--------------------------------------------------------------------------------
+Chris Boshoff,  Pfizer Inc. - Chief Development Officer, Oncology & Rare Disease    [16]
+--------------------------------------------------------------------------------
+So I'll start with, as you know, there's significant growth currently in antibody drug conjugates with 9 of the 12 approvals since 2017, so in the last 5 years. And in many indications, we can see now that there's opportunities, not just in combinations with immune checkpoint blockers, but also to replace some of the chemotherapeutic regimens in combination therapies.
+There's also opportunities for -- to increase further, not only the antibody, but also the linkers as well as the payloads or the cytotoxins. And this is an area, as you know, where Seagen has really been a pioneer not only with the introduction of auristatin, which we now know potentially induces immunogenic cell death in combination with the PD-1 inhibitors, but also the data they currently generating in -- with new molecules, including with a [potent 1] potentially best-in-class potent 1 payloads. So we see this as an opportunity to really expand ADCs across many tumor types, not only hematologic but also solid tumors.
+
+--------------------------------------------------------------------------------
+Albert Bourla,  Pfizer Inc. - Chairman of the Board & CEO    [17]
+--------------------------------------------------------------------------------
+Right. Maybe I jump also to Seagen's -- and maybe, Roger, you can make a comment, what is your point of view on this one in terms of what opportunities you see.
+
+--------------------------------------------------------------------------------
+Roger D. Dansey,  Seagen Inc. - President, Research & Development and Chief Medical Officer    [18]
+--------------------------------------------------------------------------------
+Thanks, Albert. Thanks for the opportunity to comment. And I agree with Chris, the whole ADC field has been validated multiple times, and we've obviously led in that area, as Chris pointed out, with our auristatin payload. And we see so many opportunities, both in our existing pipeline and beyond that to innovate further as Chris said, linkers, payloads, different approaches using the basic platform of a targeted cancer therapeutic approach. So we're really excited by the future. And we, I think, together with Pfizer, we are -- we will, I hope, deliver on the real promise of ADCs in the future, today and tomorrow.
+
+--------------------------------------------------------------------------------
+Albert Bourla,  Pfizer Inc. - Chairman of the Board & CEO    [19]
+--------------------------------------------------------------------------------
+Thank you very, very much. Next question.
+
+--------------------------------------------------------------------------------
+Operator    [20]
+--------------------------------------------------------------------------------
+Our next question will come from Evan Seigerman with BMO Capital Markets.
+
+--------------------------------------------------------------------------------
+Evan David Seigerman,  BMO Capital Markets Equity Research - MD & Senior BioPharma Research Analyst    [21]
+--------------------------------------------------------------------------------
+Congrats on the deal. I would love to kind of walk me through kind of what changed in the M&A environment for Pfizer to take on such a large transaction? And then you're really transforming your oncology franchise from a small molecule platform to ADCs. How do you think about the opportunity for ADCs in terms of franchise durability, IP and complexity and really competitiveness versus other modalities out there?
+
+--------------------------------------------------------------------------------
+Albert Bourla,  Pfizer Inc. - Chairman of the Board & CEO    [22]
+--------------------------------------------------------------------------------
+Thank you. First of all, I don't think that anything has changed in the M&A strategy. Actually, I see a very consistency and execution of a plan that we were very transparent about it. We had made clear that we are going to use a lot of the capital that we have accumulated, our first priority was to acquire projects, science, products that will enhance our growth profile between the year '25 and '27.
+This one, it's a perfect example of that. We never said that we are going to do it with very small. Actually multiple countries that we are size agnostic. And what matters, it is the growth orientation, the quality of the asset. Always, we are trying to get best-in-class assets and of course, the capabilities of the company. And Seagen is a very, very impressive collection of all 3. So that's why we are going with a Seagen.
+Now how we see that transformation clearly, it's a major, major move, first of all, from a low quartile, middle in the park competitor in oncology, that will position us to quite a high position now. We are going to significantly enhance our growth and participate in the growth over the next decade.
+As you said, we are traditionally very strong in small molecules. We do have -- we did have, by the way, expertise in ADCs. And clearly, we didn't do a good job as Seagen did. So -- but by working on ADCs, we know what works and what doesn't work. And we have enough expertise to appreciate how good the platform and how good the people of Seagen are. So that's why we are investing over there.
+Clearly, that transforms Pfizer, that is moving to an area, big time, that it is well more protective from regulators, patent perspectives and market dynamics. The large molecules are enjoying, by regulation and de facto, way larger (inaudible) period, particularly the ADC because they are very complex candidate value of 30 biologics in many cases or 2. In some other, the regulatory pathway for biosimilars is very complicated and not well defined. So the durability of this asset is way beyond the normal durability of small molecules.
+Now you see the durability of the growth engine as we see in total with the current 4 products, where they're patents go well into the '30s and the new pipeline that is emerging, the growth profile, it doesn't stop in the year 2030. Actually, it continues well below by 2030 in the next decade and that's a significant class in our ability to become a top line growth driver.
+So any way you see, it is extremely, extremely compelling proposition. And the fact that Pfizer is also a company that it is so skillful in small molecules will give us a great opportunity also to contribute with our own database, and with our own portfolio of preclinical assets into the payload, but a good ADC might need.
+So we are very, very excited with the opportunity, plus the combinations that we can do with our current product portfolio. We are very, very excited, and we think that this really changes dramatically, the oncology presence of Pfizer makes it one of a kind. Next question, please.
+
+--------------------------------------------------------------------------------
+Operator    [23]
+--------------------------------------------------------------------------------
+Next, we have a question from Chris Shibutani with Goldman Sachs.
+
+--------------------------------------------------------------------------------
+Chris Shibutani,  Goldman Sachs Group, Inc., Research Division - Research Analyst    [24]
+--------------------------------------------------------------------------------
+Congratulations on the transaction. Could you perhaps with 2 questions. One, the $8 billion revenue contribution by 2030, breakdown with a little bit more specifics what is embedded within that, your assumptions?
+And then number two, your free cash flow priorities from here and onwards, can you perhaps help us understand how you're thinking about the urgency with which you would repay down the $31 billion over the nearer term and also how the triaging of other decisions such as doing further deals to pursue this last $5 billion towards your goal versus dividend and share repurchases, balance each other out from your perspective now?
+
+--------------------------------------------------------------------------------
+Albert Bourla,  Pfizer Inc. - Chairman of the Board & CEO    [25]
+--------------------------------------------------------------------------------
+Dave, would you like to take this question?
+
+--------------------------------------------------------------------------------
+David M. Denton,  Pfizer Inc. - CFO, Executive VP    [26]
+--------------------------------------------------------------------------------
+Yes. I'll take that. First, number one, clarify, what we said was $10 billion in revenue by 2030, not $8 billion by 2030. I think we have line of sight very specifically to accomplish that, number one.
+Number two, on the priorities, from a capital allocation perspective, obviously, the company is taken on additional debt and leverage to accomplish this transaction. The good news is the company's balance sheet and cash flow is actually incredibly strong, coming off of the COVID crisis. We still maintain the financial flexibility to continue to potentially increase the dividend going forward despite the size of this transaction.
+Additionally, we have additional firepower to accomplish the incremental roughly $5 billion in revenue from a BD perspective that we're targeting by 2030. We have time to do that and certainly have the financial flexibility to do that. And clearly, as we've discussed, as we continue to mature as a company and develop this business, we'll have the opportunity to generate additional free cash flow that can be deployed into share repurchases over the long term, and we will continue to look to prioritize that in the mid- to longer term at this juncture. So thank you for your question.
+
+--------------------------------------------------------------------------------
+Albert Bourla,  Pfizer Inc. - Chairman of the Board & CEO    [27]
+--------------------------------------------------------------------------------
+Thank you. And Chris, we don't provide breakdown by product because I think also this is what you were trying to understand on the $8 billion. And this was actually the current consensus of the analyst for year 2030. I think we can do better. Next question, please.
+
+--------------------------------------------------------------------------------
+Operator    [28]
+--------------------------------------------------------------------------------
+Our next question will come from Terence Flynn with Morgan Stanley.
+
+--------------------------------------------------------------------------------
+Terence C. Flynn,  Morgan Stanley, Research Division - Equity Analyst    [29]
+--------------------------------------------------------------------------------
+Maybe 2 clarification ones for me. So on the $10 billion in revenues, Albert, you mentioned consensus is around $7 billion to $8 billion. Just wondering what you view as kind of the deltas in your deal model relative to consensus? Is it more on the in-line products? Is it on some of the pipeline opportunities? If you could just elaborate there?
+And then in terms of, I guess, the catalyst for a deal now versus last fall, I think it came out in the Wall Street Journal article that maybe you had some interest last fall. Was it the B6A proof-of-concept data? Just wondering if there was like a pipeline catalyst or something that led you to move forward now versus last fall?
+
+--------------------------------------------------------------------------------
+Albert Bourla,  Pfizer Inc. - Chairman of the Board & CEO    [30]
+--------------------------------------------------------------------------------
+Thank you very much. I will ask Aamir to take that, and maybe I can make some comments on that.
+
+--------------------------------------------------------------------------------
+Aamir Malik,  Pfizer Inc. - Chief Business Innovation Officer, Executive VP    [31]
+--------------------------------------------------------------------------------
+Sure. Terence, thanks for the question. On the $10 billion, look, at the end of the day, what we're fundamentally excited about is the in-line products and the expansion of indications of those in-line products as well as the pipeline. And a lot of the consensus, as we see it is focused on the in-line products and the expansion of indications. So the incremental upside that we see to that is the pipeline, and has been commented by Albert and by Chris. There's an incredibly rich pipeline of assets at Seagen that we easily see contributing $2 billion of risk-adjusted revenues in 2030 and beyond.
+And I would also underscore that while we talk about 2030, we're also excited about what comes faster. Our peak sales estimates peak after 2030. So we see the sales growing. And I would also just remind you that these are incredibly durable products for lots of reasons, including how they're treated in terms of reimbursement as well as the complexity in manufacturing. So we see a very, very strong long-term growth outlook to these products.
+In terms of the timing of their interest in our deal, look, we continue to monitor all opportunities at all times. And for us, this was the right time to do this transaction for a host of reasons.
+
+--------------------------------------------------------------------------------
+Albert Bourla,  Pfizer Inc. - Chairman of the Board & CEO    [32]
+--------------------------------------------------------------------------------
+Next question, please.
+
+--------------------------------------------------------------------------------
+Operator    [33]
+--------------------------------------------------------------------------------
+Our next question will come from David Risinger with SVB Securities.
+
+--------------------------------------------------------------------------------
+David Reed Risinger,  SVB Securities LLC, Research Division - Senior MD    [34]
+--------------------------------------------------------------------------------
+Congrats on the transaction. I have 2 questions, please. First, with respect to the IRA legislation, could you discuss the long-term exposure for Seagen's key commercial assets as you see it?
+And then second, with respect to integration, could you remind us about Pfizer's oncology geographic footprint and discuss how you plan to integrate Seagen from Seattle?
+
+--------------------------------------------------------------------------------
+Albert Bourla,  Pfizer Inc. - Chairman of the Board & CEO    [35]
+--------------------------------------------------------------------------------
+Yes. Look, in terms of IRA, IRA, the only thing that is doing basically is distinguishing molecules into large and small and ask for the very large, not for (inaudible) right? Those that we are making a threshold, but after a certain period of time, the government could negotiate. So that's one of the asset.
+There's another aspect in the RNA -- IRA, which is the out-of-pocket. Let me start, which means that in a couple of years, there will be an established out-of-pocket cut, but it is very, very manageable for every American because it's going to be $167 per month for the total contributions of seniors towards their medication, not for 1 or 2, for everything that they spend and not more than that.
+Both of that effective positively, I would say, the -- this portfolio, the fact that they are getting 13 years because those are -- on the beneficial side. The fact that we have out-of-pocket caps at $167. It is also very beneficial for those that they can afford those type of treatments, but now are moving into either they are -- they're not taking basically their prescriptions or they are hoping in charity that they will give it to them. Now they will be able to afford their agreements.
+There is also, as I said, in addition to that, the element of -- there needs to be a biosimilar to be able to negotiate the price. And the existence of a biosimilar for ADCs is a complicated -- very complicated issue. So it is -- let me put that way, way more durable in terms of competitive pressure from biosimilars beyond the expiration of patents or exclusivities than other assets. So all of that are clearly very, very positive.
+Now in terms of intake rates, we are very, very good here, but we are not buying the golden eggs. We are acquiring the goose that is laying the golden eggs. For us, what is extremely important, it is that we will maintain the Seagen capability to continue innovating and do -- under Pfizer's umbrellas, Pfizer's family to do way more if possible, than they were able to do it alone. So the locations of Seagen, both in Seattle and in San Francisco will be maintained. And we will try, if possible, to enhance the resources rather than take them away.
+How exactly they will be integrated to Pfizer is going to be a question of an integration team. But we are going to keep pretty soon for integration planning purposes between the 2 companies. And we will find the best way to do it, but it's very clear that we want to maintain the people and we will maintain the locations in Seattle and San Francisco. Thank you very much.
+
+--------------------------------------------------------------------------------
+Operator    [36]
+--------------------------------------------------------------------------------
+Our next question will come from Michael Schmidt with Guggenheim Securities.
+
+--------------------------------------------------------------------------------
+Yige Guo,  Guggenheim Securities, LLC, Research Division - Associate    [37]
+--------------------------------------------------------------------------------
+This is Yige Guo for Michael. Congratulations on the deal. Can you talk about how do you plan to leverage the unique advantage of Seagen's MMAE-based ADC to combine with PD-1 inhibitors? Specifically, would you continue to pursue combination with KEYTRUDA in some of the existing trials? Or would you consider combining with your own P-1?
+
+--------------------------------------------------------------------------------
+Albert Bourla,  Pfizer Inc. - Chairman of the Board & CEO    [38]
+--------------------------------------------------------------------------------
+Although it's too early about that question.
+
+--------------------------------------------------------------------------------
+Chris Boshoff,  Pfizer Inc. - Chief Development Officer, Oncology & Rare Disease    [39]
+--------------------------------------------------------------------------------
+Yes. I think the MMAE the main thing to state is are you actually correct with auristatin, as I've mentioned, there does appear to be this enhanced activity or immunogenic cell death in combination with PD-1 and we've now seen it with PADCEV. We've seen it with TIVDAK. There's data with nivolumab and ADCETRIS and also the new data with tisotumab plus a PD-1. And in all cases, it does appear to be more than 1 plus 1 is 2 to be upsided, to continue to work with auristatin in a combination with PD-1. And of course, work with the study that's ongoing with KEYTRUDA and in the future also then explore the next payloads, including the next-generation auristatin, the next-generation [potent 1] that's being developed by Seagen and how they could be enhanced and not with the combination with the PD-1.
+
+--------------------------------------------------------------------------------
+Albert Bourla,  Pfizer Inc. - Chairman of the Board & CEO    [40]
+--------------------------------------------------------------------------------
+Anyone wants to add something here?
+
+--------------------------------------------------------------------------------
+Mikael Dolsten,  Pfizer Inc. - Chief Scientific Officer and President of Worldwide Research, Development & Medical    [41]
+--------------------------------------------------------------------------------
+I'll just add that the Pfizer pipeline contains many other immuno-oncology products that now could have a much more futuristic opportunity to be key. That includes CD47 that can engage the different cell type. We have a number of small molecule unique inhibitors. We are very excited about, in the end, cancer is going to be a combination game. And by getting this scale between the 2 companies, you will see a lot of upside opportunities.
+
+--------------------------------------------------------------------------------
+William Pao,  Pfizer Inc. - Chief Development Officer, Executive VP    [42]
+--------------------------------------------------------------------------------
+I would just add to the safety also profile looks very good with the MMAE plus PD-1 combination, which may be a challenge for some of the other pickups.
+
+--------------------------------------------------------------------------------
+Albert Bourla,  Pfizer Inc. - Chairman of the Board & CEO    [43]
+--------------------------------------------------------------------------------
+Next question, please.
+
+--------------------------------------------------------------------------------
+Operator    [44]
+--------------------------------------------------------------------------------
+Our next question will come from Robyn Karnauskas with Truist Securities.
+
+--------------------------------------------------------------------------------
+Robyn Kay Shelton Karnauskas,  Truist Securities, Inc., Research Division - Research Analyst    [45]
+--------------------------------------------------------------------------------
+I have 2. I guess, first, I know you mentioned that you don't see any change or cuts to R&D, but could you comment a little bit on any synergies on the SG&A front?
+And second, just more broadly, when you're doing your due diligence, how do you view Seagen's next-generation linker platform versus some other novel platforms that are out there that look more stable than with vedotin?
+What parts -- and the third question would be, how are you thinking about decision-making? Is it going to be more of an independent entity? Or will you integrate it and this is me making comments from the top down?
+
+--------------------------------------------------------------------------------
+Albert Bourla,  Pfizer Inc. - Chairman of the Board & CEO    [46]
+--------------------------------------------------------------------------------
+Yes. One general comment on the synergies. It's true. There will be no R&D projects are going to be affected. There's no idea here that some of these projects because we are merging together will disappear, but there will be R&D synergies. As there will be manufacturing synergies, there will be commercial synergies. Very big part of those synergies are, as I said, are cost avoidance because we were about to embark into that. But those cost of avoidance are real dollars, but would otherwise would have seen in our investments in the next -- the year after. And right now, we won't.
+So it is real and meaningful. And meaningful because we'll go to approximately $1 billion within in the first 3 years with very big chunk of that accomplished in the second year and then the third will complete. So I think it is well thought and will not affect the R&D. All the same actually, will enhance both of them, their commercial capabilities. Chris?
+
+--------------------------------------------------------------------------------
+Chris Boshoff,  Pfizer Inc. - Chief Development Officer, Oncology & Rare Disease    [47]
+--------------------------------------------------------------------------------
+On the vedotin -- on the auristatin payload. Yes, well, we pointed out the 3 approved medicines ADCs with PADCEV, TIVDAK and ADCETRIS it's obviously using this specific the vedotin which is the payload that's one of the proprietary linker from Seagen.
+Seagen is clearly the pioneers in the generation -- in the conceptualization and discovery of the next-generation of linkers, both cleavable as well as stable. They've got a number of new -- in their toolbox, a number of new linkers as well as new payloads and perhaps Roger can add something to that.
+
+--------------------------------------------------------------------------------
+Albert Bourla,  Pfizer Inc. - Chairman of the Board & CEO    [48]
+--------------------------------------------------------------------------------
+Roger, please, can you please give us also your lights here.
+
+--------------------------------------------------------------------------------
+Roger D. Dansey,  Seagen Inc. - President, Research & Development and Chief Medical Officer    [49]
+--------------------------------------------------------------------------------
+Sure. Thank you. Yes, I think that the -- just to take, for example, the vedotin payload, we see a real opportunity to widen the therapeutic index and increase the applicability by doing some modifications to sort of next-generation auristatin. And we have multiple thoughts and plans in that regard.
+As Chris mentioned, we are close. We have upcoming INDs in the year 2023, which will introduce this [potent 1] payload, a counter type of payload, which we believe has the potential uncertainty preclinically to be a best in class. So that's obviously a very important component.
+And then beyond that, in terms of like really novel and innovative approaches, things like delivering, immune agonists and various other approaches to potential sort of therapeutic outcomes, including new payloads, new cytotoxic payloads that we haven't specifically disclosed, but obviously, we're working on internally.
+
+--------------------------------------------------------------------------------
+Operator    [50]
+--------------------------------------------------------------------------------
+Our next question will come from Trung Huynh with Credit Suisse.
+
+--------------------------------------------------------------------------------
+Trung Chuong Huynh,  Crédit Suisse AG, Research Division - Research Analyst    [51]
+--------------------------------------------------------------------------------
+It's Trung Huynh from Credit Suisse. Two questions for me, if that's okay. So just one on the pipeline. For the Pfizer team, are there any pipeline drugs that you thought were really underappreciated by the Street when you were looking at this deal? And similarly for the Seagen team, can you highlight the next big catalyst where we can start crystallizing some of that value?
+And then my second question, just can I push you on FTC here? You noted that there is this increasing scrutiny on big deals. But are there any divestments earmarked here that you can do to get this deal over the line?
+
+--------------------------------------------------------------------------------
+Albert Bourla,  Pfizer Inc. - Chairman of the Board & CEO    [52]
+--------------------------------------------------------------------------------
+Actually, I will ask Roger to make the comments on -- what do you think the analysts have underappreciating your pipeline and what do you think are going to [catalyst]? And David, you can make some comments there.
+
+--------------------------------------------------------------------------------
+David R. Epstein,  Seagen Inc. - CEO    [53]
+--------------------------------------------------------------------------------
+So Trung, maybe I'll take it. So I think most analysts are aware we're awaiting an accelerated approval for assets in for instance, cysteine eligible first-line bladder cancer. And then we have a confirmatory trial, which covers both supply and eligible is cysteine eligible. I think those markets are considerable in size and scope as well as the opportunity to move into muscle invasive and nonmuscle massive disease.
+So when you look at analyst models, I think analysts are just starting to pay attention to a couple of the assets where we have global or near global rights, in particular, B6A, which we will have data displayed this year showing durability of effect in non-small cell lung cancer, other solid tumors, and we'll have our first clinical data to share with you with a really novel ADC, which target B7H4. So I think at least those 3 products are probably underappreciated.
+And then as Chris pointed out earlier, we will, in time, have some data with DV. We think this drug works handled is handled very well by patients and may end up becoming a HER2-positive disease, particularly in bladder cancer, a new standard of care, and we're working to bring that forward in second-line breast cancer as well.
+So a lot of what I've done since I've become CEO of my team is to begin to get that story out about what Seagen can become, and those estimates are not fully baked in yet into post-Analyst models.
+
+--------------------------------------------------------------------------------
+Roger D. Dansey,  Seagen Inc. - President, Research & Development and Chief Medical Officer    [54]
+--------------------------------------------------------------------------------
+And maybe I can just add a couple of comments beyond that. There will be other key readouts, for example, with TUKYSA, we have a study combining with Kadcyla, which is another ADC, which we'll be reading out the second half of this year approximately. We had some really intriguing data using ADCETRIS actually as an immunomodulator where this ADC can significantly reduce T regulatory cells. And this may be relevant as a resistance mechanism for PD-1 inhibitors.
+Beyond that, we have some important information with regards to head and neck cancer and TIVDAK, which we will be sharing in the relatively short term.
+And the other point, which I think David may have mentioned is we are estimating at least for the very large global trial, which is evaluating both cysteine eligible and (inaudible) eligible patients with metastatic urothelial cancer we're estimating we'll have a readout towards end of the year.
+So we have a lot of data readouts, a lot of pivotal trial readouts and obviously, some of these regulatory interactions that David has mentioned.
+
+--------------------------------------------------------------------------------
+Albert Bourla,  Pfizer Inc. - Chairman of the Board & CEO    [55]
+--------------------------------------------------------------------------------
+Thank you very, very much. On the FTC, Doug, any additional comments?
+
+--------------------------------------------------------------------------------
+Douglas M. Lankler,  Pfizer Inc. - General Counsel, Executive VP    [56]
+--------------------------------------------------------------------------------
+No. We are focused. We understand the environment. We take it seriously. And again, we believe that the government is going to see the complementary natures of our compounds and the value of patients.
+
+--------------------------------------------------------------------------------
+Albert Bourla,  Pfizer Inc. - Chairman of the Board & CEO    [57]
+--------------------------------------------------------------------------------
+Next question, please.
+
+--------------------------------------------------------------------------------
+Operator    [58]
+--------------------------------------------------------------------------------
+Our next question will come from Colin Bristow with UBS.
+
+--------------------------------------------------------------------------------
+Colin Nigel Bristow,  UBS Investment Bank, Research Division - Analyst    [59]
+--------------------------------------------------------------------------------
+Maybe just to piggyback on a prior one. You've been pretty active in business development over the past couple of years. Now you have less than $5 billion of that original $25 billion goal. What should we expect over the next sort of 2 to 3 years in terms of the size and cadence of deals? Are you still open to larger deals? Or should we expect you to stay within the sort of combined of this less than $5 billion remaining balance?
+Second, could you just talk about the process here? Was it competitive? Give us some color around that?
+And then third, maybe if you could just switch gears to kind of the other side of the equation in COVID and could you give some color on how PAXLOVID and COMIRNATY uptake have been progressing this year versus your expectations?
+
+--------------------------------------------------------------------------------
+Albert Bourla,  Pfizer Inc. - Chairman of the Board & CEO    [60]
+--------------------------------------------------------------------------------
+Yes. PAXLOVID and COMIRNATY, I think is not the focus of this so I would prefer not to comment, but he's moving -- my general comment is along our expectations, nothing is changing compared to what we have said during our earnings call. Everything is online.
+If we are going to do more deals, clearly, we have the capability to do more deals. We have the capability after completing this deal to be able to continue our growing dividend practice and -- which we will. It is also -- we have the ability to do whatever we want. With the capital and remain flexibility. Targeted buyback, there is a need, which is not our nonpriority, other business development activities because there is still $5 billion remaining. We have the ability to execute with the current capital that we have the $5 billion.
+We are not going to be very picky as we were until now. So we want very, very good value for the money that we are going to have. And there was a question about the process. I'm not sure I remember.
+
+--------------------------------------------------------------------------------
+Aamir Malik,  Pfizer Inc. - Chief Business Innovation Officer, Executive VP    [61]
+--------------------------------------------------------------------------------
+Process procedure. Yes.
+
+--------------------------------------------------------------------------------
+Albert Bourla,  Pfizer Inc. - Chairman of the Board & CEO    [62]
+--------------------------------------------------------------------------------
+So why don't we take it, Aamir?
+
+--------------------------------------------------------------------------------
+Aamir Malik,  Pfizer Inc. - Chief Business Innovation Officer, Executive VP    [63]
+--------------------------------------------------------------------------------
+Sure. And you'll obviously see the detail of the process in the background filings later, so I won't comment on that. What I will just generally say is that we've had an excellent process of engagement with the Seagen team. Very collaborative, and it allowed us to get access to the information that we needed that ultimately has given us conviction this was the right deal for us to do.
+
+--------------------------------------------------------------------------------
+Albert Bourla,  Pfizer Inc. - Chairman of the Board & CEO    [64]
+--------------------------------------------------------------------------------
+Next question, please.
+
+--------------------------------------------------------------------------------
+Operator    [65]
+--------------------------------------------------------------------------------
+Our next question will come from Tim Anderson with Wolfe Research.
+
+--------------------------------------------------------------------------------
+Timothy Minton Anderson,  Wolfe Research, LLC - MD of Equity Research    [66]
+--------------------------------------------------------------------------------
+So press reports were that Merck looked back in July. Was Pfizer actively engaged in the process back then? And if not, why is it now? I'm wondering what changed? Was there some new development at Seagen that brought you into the mix? Or was there some new development at Pfizer that brought you into the mix?
+And then on revenues, you talked about consensus for 2030 for Seagen being $8 billion. Obviously, that's a Wall Street estimate to may be more relevant to know what the internal Seagen revenue estimate is and how to compare that $10 billion number to it? I'm guessing that their own forecast didn't just rely on consensus. The genesis of that question is really, do you assume there's going to be revenue synergies with this transaction?
+
+--------------------------------------------------------------------------------
+Albert Bourla,  Pfizer Inc. - Chairman of the Board & CEO    [67]
+--------------------------------------------------------------------------------
+Yes. Thank you very much. It's 2. I'm not going to comment if we were involved back in the day or not, right? I mean -- but clearly, we are watching Seagen for many, many years, and we have a team that is analyzing everything's happening. And clearly, when there were news that the activity, we even -- we looked even more.
+So why we were not moved when there were rumors back in the day and we move now? It is everything a question of more data, a question of the right price, a question of multiple equations, expectations from the sellers and all of that. I think for us, looking at the whole conservant of the potential acquisition targets that could move the needle we couldn't find something that's more strategic to us, more complementary to us, and that's why we did the deal and now is the time that we're doing it.
+The rest -- the question about $8 billion revenues. You are asking, this is what the analysts are saying, what do you say about the 4 products? We don't give numbers for the 4. We'd say it is $10 billion plus for the entire thing by year 2030, it is way higher actually in our calculations year 3, 4, 5 years later. So because the growth is continuing all the way to '35 that we have modeled, it is going very, very strong. But I don't want to say now how much of this -- it is the 4 products or the indications that are coming. We don't do. Let's go to the next call.
+
+--------------------------------------------------------------------------------
+Operator    [68]
+--------------------------------------------------------------------------------
+Our next question will come from Gena Wang with Barclays.
+
+--------------------------------------------------------------------------------
+Huidong Wang,  Barclays Bank PLC, Research Division - Research Analyst    [69]
+--------------------------------------------------------------------------------
+So I know a lot of the good question is being asked. I wanted to know how much you've seen the pipeline assets data from Seagen when you do your due diligence?
+
+--------------------------------------------------------------------------------
+Albert Bourla,  Pfizer Inc. - Chairman of the Board & CEO    [70]
+--------------------------------------------------------------------------------
+Chris?
+
+--------------------------------------------------------------------------------
+Chris Boshoff,  Pfizer Inc. - Chief Development Officer, Oncology & Rare Disease    [71]
+--------------------------------------------------------------------------------
+Yes. Thank you very much for that question. We actually want to thank our colleagues at Seagen because they really made available everything we ask for. And to your point, certainly, we saw data on most of the early molecules. They've got 11 NMEs, come in Phase I and Phase II, one in Phase II, the rest in Phase I. And we saw preclinical data that's not in the public domain yet, and that's likely will not be in the public domain for the next 12 months. But our scientists and researchers in ohio were able to really see depth, the preclinical data as well. So I want to thank our Seagen colleagues for making all of that available to us in the last couple of weeks.
+
+--------------------------------------------------------------------------------
+Albert Bourla,  Pfizer Inc. - Chairman of the Board & CEO    [72]
+--------------------------------------------------------------------------------
+Next question, please.
+
+--------------------------------------------------------------------------------
+Operator    [73]
+--------------------------------------------------------------------------------
+Our next question will come from Mohit Bansal with Wells Fargo.
+
+--------------------------------------------------------------------------------
+Mohit Bansal,  Wells Fargo Securities, LLC, Research Division - Senior Equity Analyst    [74]
+--------------------------------------------------------------------------------
+Congrats on the transaction. Just want to understand a little bit about the valuation here because if I look at Pfizer, older deals like Arena and GBT, they were more in the 2 to 3x peak revenue multiple range. And this one, if I look at consensus, it's more like 5x and 4x when I look at your number. So just trying to understand what prompted you to go a little bit higher on the valuation map here? Is it the pipeline? Is it the longevity of the assets?
+And then would love to get your thoughts on the $1 billion synergies. How do you plan to achieve them. Given that Seagen has a lot of partnership there, so there may not be a lot of room to cut costs there. So would love to understand that.
+
+--------------------------------------------------------------------------------
+Albert Bourla,  Pfizer Inc. - Chairman of the Board & CEO    [75]
+--------------------------------------------------------------------------------
+Aamir?
+
+--------------------------------------------------------------------------------
+Aamir Malik,  Pfizer Inc. - Chief Business Innovation Officer, Executive VP    [76]
+--------------------------------------------------------------------------------
+Yes. So thanks for the question. Look, every transaction is different. So some of these things are difficult to compare. But let me just say this. In terms of our prior transactions, yes, those were in the 2 to 3x -- [$2.30] multiple range. And this is higher. And we think that's very, very well justified for several reasons.
+Firstly, we are purchasing a company that is bringing with it, this year, over $2 billion in existing revenue. Secondly, that revenue is growing at a very strong flip to 2030 to greater than $10 billion in our view. Thirdly, there is growth after 2030 as well, given the function of the growing pipeline as well as the durability of the ADC platform. And fourthly, there is an inherent platform that we are valuing as part of this acquisition.
+And when you combine those things, along with the cost synergies as well as the revenue accelerators that Albert described at the beginning of the call. We think that is a very reasonable multiple. And if you look at it as a multiple on the peak opportunity, you're well below the 4x that you referenced. So we think that, that is a very reasonable multiple that's going to generate great value for our shareholders.
+
+--------------------------------------------------------------------------------
+Albert Bourla,  Pfizer Inc. - Chairman of the Board & CEO    [77]
+--------------------------------------------------------------------------------
+What about the cost synergies?
+
+--------------------------------------------------------------------------------
+David M. Denton,  Pfizer Inc. - CFO, Executive VP    [78]
+--------------------------------------------------------------------------------
+Yes. From a cost synergy perspective, obviously, the company does have significant partnerships. We understand that. The synergies are not derived from anything related to that.
+As Albert indicated earlier, the companies -- both companies are investing heavily to grow the business longer term. And I think as we think about putting the companies together, we'll be able to harness that investment and leverage both our infrastructure and capabilities and drive meaningful value from that perspective.
+
+--------------------------------------------------------------------------------
+Albert Bourla,  Pfizer Inc. - Chairman of the Board & CEO    [79]
+--------------------------------------------------------------------------------
+And the last question please.
+
+--------------------------------------------------------------------------------
+Operator    [80]
+--------------------------------------------------------------------------------
+Our last question will come from Geoff Meacham with Bank of America.
+
+--------------------------------------------------------------------------------
+Geoffrey Christopher Meacham,  BofA Securities, Research Division - Research Analyst    [81]
+--------------------------------------------------------------------------------
+I just have a couple of quick ones. Historically, Seagen, let's focus on profitability, but would you say your accretion math is mostly based on a greater top line? Or is there a cost savings component that you think will get you across the goal line 3 to 4 years out?
+And the second question is, when we look at the valuation of the ADC platform, it seems it's a bit of a push-pull. You really have, obviously, higher terminal value from ADCs given minimal expertise from biosimilar competitors on one hand, but then you'll also have an IRA impact likely on ADCETRIS and the other. Just want to get your perspectives on that.
+
+--------------------------------------------------------------------------------
+Albert Bourla,  Pfizer Inc. - Chairman of the Board & CEO    [82]
+--------------------------------------------------------------------------------
+On the IRA, I did give an answer, but there are some provisions from the IRA that are affecting our industry. When it comes particularly to biologics and made this cancer medicines in biologics. There is a base with the 13 years that if an asset is very big, can be negotiated basically, price mandated by the government, not for all assets, for the biggest assets. But it is on the best [stand] of the IRA with the 13 years. And actually, there will be no negotiation if it's not a biosimilar in the marketplace because that's a one Seagen condition.
+So from that aspect, I mean, IRA it is what it is. This is something that it is on the easier part. I don't underestimate the impact that IRA will have on abandonment of prescriptions and to the ability of payers of patients today for more expensive drugs to seniors, particularly right now. That will be significantly positive effect, I think in (inaudible). Now let me go to David about the accretion.
+
+--------------------------------------------------------------------------------
+David M. Denton,  Pfizer Inc. - CFO, Executive VP    [83]
+--------------------------------------------------------------------------------
+Yes. So as you look about the profitability question that you had, obviously, it comes from both revenue and synergies. But I'll just point to the fact that it's mostly heavily weighted more to the synergies at this point in time. We have a very clear line of sight to how we can achieve those through both the company's integration plans and I think they're very tangible to get to that $1 billion in a matter, at least, by 3 years. So with that?
+
+--------------------------------------------------------------------------------
+Albert Bourla,  Pfizer Inc. - Chairman of the Board & CEO    [84]
+--------------------------------------------------------------------------------
+Okay. So thank you very much. Any final comment from the Seagen team, David?
+
+--------------------------------------------------------------------------------
+David R. Epstein,  Seagen Inc. - CEO    [85]
+--------------------------------------------------------------------------------
+Albert, Pfizer team, we look forward to working with you. I think there's a tremendous upside partnering, and we can't wait to see you again.
+
+--------------------------------------------------------------------------------
+Albert Bourla,  Pfizer Inc. - Chairman of the Board & CEO    [86]
+--------------------------------------------------------------------------------
+Thank you very, very much. We are equally excited. Thank you, everyone, for your interest. I think it's a great day particularly for cancer patients today. Thank you very much all. Bye-bye.
+
+--------------------------------------------------------------------------------
+Operator    [87]
+--------------------------------------------------------------------------------
+Thank you, ladies and gentlemen. This does conclude Pfizer's Analyst and Investor Call to discuss proposed acquisition of Seagen. We appreciate your participation, and you may disconnect at any time.
+
+
+
+
+
+
+
+--------------------------------------------------------------------------------
+Definitions
+--------------------------------------------------------------------------------
+PRELIMINARY TRANSCRIPT: "Preliminary Transcript" indicates that the 
+Transcript has been published in near real-time by an experienced 
+professional transcriber.  While the Preliminary Transcript is highly 
+accurate, it has not been edited to ensure the entire transcription 
+represents a verbatim report of the call.
+
+EDITED TRANSCRIPT: "Edited Transcript" indicates that a team of professional 
+editors have listened to the event a second time to confirm that the 
+content of the call has been transcribed accurately and in full.
+
+--------------------------------------------------------------------------------
+Disclaimer
+--------------------------------------------------------------------------------
+Refinitiv reserves the right to make changes to documents, content, or other 
+information on this web site without obligation to notify any person of 
+such changes.
+
+In the conference calls upon which Event Transcripts are based, companies 
+may make projections or other forward-looking statements regarding a variety 
+of items. Such forward-looking statements are based upon current 
+expectations and involve risks and uncertainties. Actual results may differ 
+materially from those stated in any forward-looking statement based on a 
+number of important factors and risks, which are more specifically 
+identified in the companies' most recent SEC filings. Although the companies 
+may indicate and believe that the assumptions underlying the forward-looking 
+statements are reasonable, any of the assumptions could prove inaccurate or 
+incorrect and, therefore, there can be no assurance that the results 
+contemplated in the forward-looking statements will be realized.
+
+THE INFORMATION CONTAINED IN EVENT TRANSCRIPTS IS A TEXTUAL REPRESENTATION
+OF THE APPLICABLE COMPANY'S CONFERENCE CALL AND WHILE EFFORTS ARE MADE TO
+PROVIDE AN ACCURATE TRANSCRIPTION, THERE MAY BE MATERIAL ERRORS, OMISSIONS,
+OR INACCURACIES IN THE REPORTING OF THE SUBSTANCE OF THE CONFERENCE CALLS.
+IN NO WAY DOES REFINITIV OR THE APPLICABLE COMPANY ASSUME ANY RESPONSIBILITY FOR ANY INVESTMENT OR OTHER
+DECISIONS MADE BASED UPON THE INFORMATION PROVIDED ON THIS WEB SITE OR IN
+ANY EVENT TRANSCRIPT. USERS ARE ADVISED TO REVIEW THE APPLICABLE COMPANY'S
+CONFERENCE CALL ITSELF AND THE APPLICABLE COMPANY'S SEC FILINGS BEFORE
+MAKING ANY INVESTMENT OR OTHER DECISIONS.
+--------------------------------------------------------------------------------
+Copyright 2023 Refinitiv. All Rights Reserved.
+--------------------------------------------------------------------------------

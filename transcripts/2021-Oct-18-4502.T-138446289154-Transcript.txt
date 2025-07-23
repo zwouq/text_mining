@@ -1,0 +1,287 @@
+
+
+Refinitiv StreetEvents Event Transcript
+E D I T E D   V E R S I O N
+
+Calithera Biosciences Inc to Acquire Assets From Takeda Pharmaceutical Co Ltd Call
+OCTOBER 18, 2021 / 9:30PM GMT
+
+================================================================================
+Corporate Participants
+================================================================================
+
+ * Stephanie Wong
+   Calithera Biosciences, Inc. - CFO & Secretary
+ * Keith Orford
+   Calithera Biosciences, Inc. - Chief Medical Officer
+ * Susan M. Molineaux
+   Calithera Biosciences, Inc. - Founder, CEO, President & Director
+
+================================================================================
+Conference Call Participiants
+================================================================================
+
+ * Swayampakula Ramakanth
+   H.C. Wainwright & Co, LLC, Research Division - MD of Equity Research & Senior Healthcare Analyst
+ * Unidentified Analyst
+    - 
+ * Matthew Christopher Phipps
+   William Blair & Company L.L.C., Research Division - Senior Biotechnology Research Analyst
+ * Jiale Song
+   Jefferies LLC, Research Division - Equity Associate
+
+================================================================================
+Presentation
+--------------------------------------------------------------------------------
+Operator    [1]
+--------------------------------------------------------------------------------
+Ladies and gentlemen, thank you standing by, and welcome to the Calithera's business update conference call. (Operator Instructions) As a reminder, today's conference call is being recorded. I would now like to turn the conference to your host, Stephanie Wong, CFO. Ma'am, you may begin.
+
+--------------------------------------------------------------------------------
+Stephanie Wong,  Calithera Biosciences, Inc. - CFO & Secretary    [2]
+--------------------------------------------------------------------------------
+Thank you, operator, and good afternoon, everyone. Welcome to our conference call to discuss our agreement with Takeda Pharmaceuticals to acquire 2 clinical-stage assets, sapanisertib and mivavotinib. Joining me today are Susan Molineaux, Founder, President and CEO; and Keith Orford, Chief Medical Officer. Earlier today, we issued a press release that included an overview of the transaction, which can be accessed through our website at calithera.com, alongside an updated corporate deck.  
+Before we begin, I would like to remind you that today's discussion will include statements about our future expectations, plans that constitute forward-looking statements for the purposes of the safe harbor provisions of the Private Securities Litigation Reform Act of 1995. Actual results may differ materially from those indicated by these forward-looking statements as a result of various important factors, including those discussed in the Risk Factors section of our periodic filings with the SEC. In addition, any forward-looking statements represent our views only as of today and should not be relied upon as representing our views as of any subsequent date. While we may elect to update these forward-looking statements at some point in the future, we specifically disclaim any obligation in detail, even if our views change. 
+Please note that this call is being recorded. And with that, I'll turn the call over to Susan.
+
+--------------------------------------------------------------------------------
+Susan M. Molineaux,  Calithera Biosciences, Inc. - Founder, CEO, President & Director    [3]
+--------------------------------------------------------------------------------
+Thanks, Stephanie. Good afternoon, everyone, and thank you for joining us on today's conference call. The acquisition of sapanisertib and mivavotinib is a transformative event for Calithera and strengthens our precision oncology pipeline. This transaction aligns with Calithera's focus and deep expertise in targeted small molecule cancer therapy. These drugs have the potential to redefine treatment for underserved biomarker-defined patient population.  
+Sapanisertib and mivavotinib are complementary to our existing internally developed pipeline programs and fit well with our strategic focus on biomarker-driven therapeutic approaches. Sapanisertib, a dual TORC 1/2 inhibitor, that targets a key survival mechanism in KEAP1/NRF2-mutated tumor cells has the potential to be the first treatment for NRF2-mutated squamous non-small cell lung cancer.  
+As a next-generation TORC inhibitor, sapanisertib provides dual inhibition of TORC1 and TORC2 and an early clinical study has demonstrated durable single-agent responses and clinical benefit in patients with relapsed/refractory NRF2-mutated squamous non-small cell lung cancer with a well-tolerated safety profile. We have a fast-to-market strategy and a plan to evaluate sapanisertib as a single agent in a Phase II study of patients with squamous non-small cell lung cancer harboring the NRF2 mutation, which we plan to initiate in the first quarter of 2022. This program is a well-suited complement to our telaglenastat program, which is being evaluated in the Phase II KEAPSAKE study and KEAP1/NRF2-mutated non-squamous non-small cell lung cancer. 
+Mivavotinib has the potential to be a best-in-class SYK inhibitor in non-Hodgkin's lymphoma as well as a first-to-market approach for patients with diffuse large B-cell lymphoma, or DLBCL, whose tumors harbor MyD88 and/or CD79 mutations. Mivavotinib has shown deep and durable single-agent activity in unselected third line plus DLBCL and other non-Hodgkin's lymphoma patients in Phase I, Phase II clinical trial. We plan to advance mivavotinib into a Phase II study for the treatment of patients with relapsed/refractory DLBCL with and without MyD88 or CD79 mutations in the first quarter of 2022. 
+And with that, I will pass the call over to Keith for additional details on the clinical potential of our new compounds.
+
+--------------------------------------------------------------------------------
+Keith Orford,  Calithera Biosciences, Inc. - Chief Medical Officer    [4]
+--------------------------------------------------------------------------------
+Thank you, Susan, and thank you all for joining us today. As Susan said, sapanisertib and mivavotinib are exciting mid-stage programs that reinforce our commitment to precision oncology. Both compounds have demonstrated promising single-agent activity in early phase studies. But by focusing on validated genetic vulnerabilities where the biologic rationale and preclinical or early clinical data point to high potential, we believe a focused development plan in these biomarker-defined populations will generate proof of concept quickly and efficiently.  
+Sapanisertib is a clinically well-characterized next-generation dual TORC1/2 inhibitor, including its safety profile, PK/PD relationship and monotherapy efficacy data. In both in vitro and in vivo studies, NRF2-mutated squamous non-small cell lung cancer cells have shown greater sensitivity to dual TORC1/2 inhibition in mild type cancer models. Additionally, sapanisertib exhibits differential antitumor activity compared to rapalog inhibitors of TORC1 in NRF2-mutant squamous non-small cell lung cancer in vivo models. Most importantly, sapanisertib has demonstrated durable single-agent activity in patients with relapsed/refractory NRF2-mutated squamous non-small cell lung cancer in early clinical studies.  
+We have learned a great deal about the unmet medical need of patients with KEAP1 and NRF2 mutations as well as how to identify and recruit these patients during the conduct of our KEAPSAKE trial evaluating telaglenastat. This complementary approach in KEAP1 and NRF2-mutant squamous non-small cell lung cancer demonstrates our commitment to these patients and the pathway.  
+Looking at the addressable patient population for sapanisertib, there are more than 235,000 patients in the U.S. diagnosed with non-small cell lung cancer each year. Of these, 25% to 30% are squamous non-small lung cancer. To date, actionable driver mutations have been found in only 1% to 5% of squamous non-small cell lung cancer patients, leaving these patients few options after PD-1 inhibitors in chemotherapy. An estimated 15% of these patients harbor the NRF2 mutation, and NRF2-mutated squamous non-small cell lung cancer is associated with a poor prognosis than wild-type non-small cell lung cancer, making this an area of high unmet need. While our initial focus is squamous NSCLC, KEAP1 and NRF2 mutations are found in a wide range of tumor types, suggesting a potentially broader opportunity for this compound in the future.  
+Turning to mivavotinib. This is a SYK inhibitor that targets the constitutively active B-cell receptor pathway in many non-Hodgkin's lymphoma cases as well as the constitutively active inflammatory signaling pathway in MyD88-mutated NHL. Our development plan aims to position mivavotinib as the first treatment approach for NHL patients whose tumors harbor MyD88 or CD79 mutation. Mivavotinib has demonstrated a higher overall response rate than other SYK inhibitors and an impressive median duration of response of well over 1 year in patients with relapsed/refractory DLBCL in an all-comer population.
+Based on these data, we believe mivavotinib has the potential to be a best-in-class SYK inhibitor in NHL. In terms of the biomarker story, recent preclinical studies suggest that MyD88 and CD79 mutations in NHL may be particularly vulnerable to SYK inhibition, and this hypothesis will be evaluated as part of our development plan, which will initially focus on DLBCL. Additionally, we have some preliminary data that suggests an early signal in NHL patients with CD79 mutations.  
+As you may know, DLBCL is the most common subtype of NHL with more than 30,000 people in the U.S. diagnosed each year, which is approximately 30% of all NHL cases. MyD88 mutations occur in 30% and CD79 mutations occur in 10% to 15% of DLBCL patients. This is a distinct genetic subset of DLBCL known to have poor outcomes. And as I mentioned, there are currently no treatments targeted to this population. 
+Waldenstrom's macroglobulinemia is another area of interest as 90% of cases have MyD88 mutations. Waldenstrom's is a rare type of lymphoma diagnosed in approximately 1,000  to 1,500 Americans each year, and there are a few treatment options for these patients. Based on this profile, we plan to initiate a Phase II study in the first quarter of 2022 of mivavotinib in DLBCL with or without MyD88 or CD79 mutations. Based on recent preclinical data and the high unmet need, our broader long-term plan includes investigating mivavotinib in Waldenstrom's patients and other NHL patients that have MyD88 mutations as well as exploring combinations with standard-of-care agents like ibrutinib, venetoclax, or CD20s in multiple subtypes of NHL.  
+While the biologic rationale, existing clinical data and prevalence of these biomarkers across cancers suggest the potential to benefit a larger group of patients in the future, we think the approach to start with a focused clinical strategy in the hands of the experienced development team at Calithera will allow us to provide data within the next 12 to 18 months that will define the future regulatory paths to approval for both sapanisertib and mivavotinib.  
+Sapanisertib could be the first treatment approved for patients with NRF2-mutated squamous non-small cell lung cancer and mivavotinib has the potential to be a best-in-class SYK inhibitor in non-Hodgkin's lymphoma as well as a first-to-market approach for patients with diffuse large B-cell lymphoma whose tumors harbor MyD88 and/or CD79 mutations. 
+I would now like to turn the call over to Stephanie to provide some additional detail on the terms of the asset acquisition.
+
+--------------------------------------------------------------------------------
+Stephanie Wong,  Calithera Biosciences, Inc. - CFO & Secretary    [5]
+--------------------------------------------------------------------------------
+Thank you, Keith. Under the terms of the agreement with Takeda, we made an upfront cash payment of $10 million and issued to them 35 million of Calithera preferred stock -- $35 million of Calithera preferred stock. Takeda will be eligible to receive up to $470 million in clinical development, regulatory and sales milestones across both programs.  
+Takeda is also eligible to receive tiered royalties of high single digits to low teens on potential net sales of both products. As of September 30, 2021, our cash and investments balance was $84.5 million or $74.5 million after the upfront cash payment to Takeda. We believe our cash and investment balance is sufficient to meet our current operating plan for at least the next 12 months. You can find more detailed information of the transaction in the 8-K we plan to file with the SEC later today. 
+And with that, I will now return the call to Susan.
+
+--------------------------------------------------------------------------------
+Susan M. Molineaux,  Calithera Biosciences, Inc. - Founder, CEO, President & Director    [6]
+--------------------------------------------------------------------------------
+Thank you, Stephanie. To update you on Calithera's legacy clinical programs, and as previously disclosed, we plan to report interim data on our KEAPSAKE trial of telaglenastat in the fourth quarter as well as interim data from our arginase inhibitor in cystic fibrosis, CB-280. Additionally, we continue with our robust discovery engine building a preclinical pipeline of undisclosed synthetic lethality targets, with a focus on paralog genes, and these will be announced as lead molecules are identified and IND time lines are in focus.  
+With the transaction of sapanisertib and mivavotinib and introduction of these new clinical plans today, Calithera is taking an important step forward with our commitment to precision oncology. We believe that the company is well positioned to deliver on our development plan quickly and efficiently. 
+And with that, operator, we're happy to open the line for questions.
+
+
+================================================================================
+Questions and Answers
+--------------------------------------------------------------------------------
+Operator    [1]
+--------------------------------------------------------------------------------
+(Operator Instructions) Our question comes from Matt Phipps.
+
+--------------------------------------------------------------------------------
+Matthew Christopher Phipps,  William Blair & Company L.L.C., Research Division - Senior Biotechnology Research Analyst    [2]
+--------------------------------------------------------------------------------
+Congrats on bringing in the 2 assets. The ASCO poster, I think it was ASCO for the TAK-228, notes that they plan to do a Phase II trial combining that asset with telaglenastat in order to circumvent metabolic resistance that emerges in response to 228, I guess, by itself. And it looks like there was an NCI study started in well over a year ago. Looking at that combination, wondering is that in the plans for you guys with both in-house to -- have you seen any data from that NCI study?
+
+--------------------------------------------------------------------------------
+Keith Orford,  Calithera Biosciences, Inc. - Chief Medical Officer    [3]
+--------------------------------------------------------------------------------
+Matt, this is Keith. So yes, so we're certainly aware of the study, obviously, and we are in touch with the investigators as one is during an IST study. The mechanism is something we're very interested in and actually was how we became so interested in sapanisertib on its own. So we find this to be a very, very interesting study. And something we will be following with great interest, although obviously not our study and that's something we can control in terms of time lines and so forth. But it was really through this that we saw the monotherapy data, and we think those data stand quite well on their own. And so our primary development path will be focused on monotherapy sapanisertib, but we are certainly aware of and interested in the potential for combinations.
+
+--------------------------------------------------------------------------------
+Matthew Christopher Phipps,  William Blair & Company L.L.C., Research Division - Senior Biotechnology Research Analyst    [4]
+--------------------------------------------------------------------------------
+And why do you think 228 didn't seem to work as well on key immune patients versus the 2 mutant patients with squamous, obviously, not including the KRAS co-mutation?
+
+--------------------------------------------------------------------------------
+Keith Orford,  Calithera Biosciences, Inc. - Chief Medical Officer    [5]
+--------------------------------------------------------------------------------
+Right, right. Yes. So there's 2 -- there were 2 groups there. One was the nonsquamous that also had KRAS and I think those are sort of a different story. I think with KEAP1, the jury is definitely out. I think that there appears to be activity there. There was a responder and other patients who had -- definitely had stabilization of their disease. So we're definitely interested and we'll follow up on that. 
+Certainly, KEAP1 mutations are a little more complicated in terms of whether or not they're activating the pathway or not. And that's a question that we need more information to know to what extent all of those mutations were or weren't activating the pathway. So that's one possibility that needs to be clarified. But even so, there does appear to be some activity there that, again, we'll follow up on more in our own study.
+
+--------------------------------------------------------------------------------
+Matthew Christopher Phipps,  William Blair & Company L.L.C., Research Division - Senior Biotechnology Research Analyst    [6]
+--------------------------------------------------------------------------------
+And the hyperglycemia, not surprising given the pathway slides could be managed with Metformin, do you think those dose optimization began to reduce that? And were there any cases of (inaudible) for the diabetes?
+
+--------------------------------------------------------------------------------
+Keith Orford,  Calithera Biosciences, Inc. - Chief Medical Officer    [7]
+--------------------------------------------------------------------------------
+Yes. So in terms of the hyperglycemia, as you said, this is an expected on-target toxicity. I think most importantly, this has not been problematic for the investigators and has really had a minimal impact on patients' ability to remain on study and remain on drug. So fully expected that it would happen and not really impacting patients. And in fact, if you look at the safety profile, they chose a dose that was -- for the study that was half of the MTD that was defined by Takeda. So they chose a 3-milligram daily dose, and it was very well tolerated. 
+So if anything, we will likely explore maybe a somewhat higher dose either with daily or twice daily dosing with an effort to make sure we don't leave any efficacy on the table. But that 3-milligram dose as is was very well tolerated.
+
+--------------------------------------------------------------------------------
+Operator    [8]
+--------------------------------------------------------------------------------
+Our next question comes from Jonathan Chang of SVB Leerink.
+
+--------------------------------------------------------------------------------
+Unidentified Analyst,   -     [9]
+--------------------------------------------------------------------------------
+(inaudible) for Jonathan Chang. I had a question on the SYK inhibitor. The literature describes that the agent has some activity against FLT3 as well. I was just wondering if you could characterize what you guys see as the significance of that, if any.
+
+--------------------------------------------------------------------------------
+Keith Orford,  Calithera Biosciences, Inc. - Chief Medical Officer    [10]
+--------------------------------------------------------------------------------
+Yes. So that's a great point. It is a FLT3 inhibitor as well, and it is equipotent for the 2 enzymes. I think we -- as we've laid out, the focus for the development is on non-Hodgkin's lymphoma, but there could be a future path to be considered in AML as well. So that's something that we will evaluate. And in that context, I think the FLT3 activity could be differentiating and quite useful. We're not aware of a role for FLT3 inhibition in the context of DLBCL or other non-Hodgkin's lymphomas. And -- but it is something that could differentiate it in the AML space.
+
+--------------------------------------------------------------------------------
+Unidentified Analyst,   -     [11]
+--------------------------------------------------------------------------------
+Got it. And then just 1 more, if I could, on the sapanisertib development program. Looking at the slides that were posted online, I see that you lay out kind of the next step in that program after some dose refinement is a randomized study versus best available therapy in squamous along with the NRF2, is there -- I guess, just curious if you could explain kind of the rationale there and if there's any sort of opportunity for an accelerated pathway there.
+
+--------------------------------------------------------------------------------
+Keith Orford,  Calithera Biosciences, Inc. - Chief Medical Officer    [12]
+--------------------------------------------------------------------------------
+Yes. So that's a great question, and  we are open to both approaches. But in terms of the randomization, this is a population, as we mentioned, unfortunately, it's very poor outcomes. And based on those poor outcomes, whether it be for PFS or OS, a randomized study actually could be enrolled relatively quickly. It wouldn't have to be a huge study and could get us to a full approval even on an OS endpoint relatively quickly. So we would like to prioritize a randomized study. But it wouldn't rule out the possibility of generating sufficient single-arm data to get an accelerated approval as well. 
+But I think it's just really important to recognize that this is a high unmet need population. These patients do very poorly. So to see activity here, to enroll this study and to get an approval with a randomized study is actually a relatively rapid and would be a short duration study.
+
+--------------------------------------------------------------------------------
+Unidentified Analyst,   -     [13]
+--------------------------------------------------------------------------------
+Great. And then on the stages and you mentioned the dose refinement, I'm just curious what exactly that entails given that Takeda has published some of the Phase I data.
+
+--------------------------------------------------------------------------------
+Keith Orford,  Calithera Biosciences, Inc. - Chief Medical Officer    [14]
+--------------------------------------------------------------------------------
+Yes. And you alluded to it a little bit with Matt's question, but as we mentioned, the data for the 3-milligram daily dose, the safety data, it was very well tolerated in this population. So things that one could do would be to push the dose up a little bit, and that could either be continued with daily dosing or maybe with twice daily dosing. Twice daily dosing has the benefit of reducing your Cmax, and there's evidence that the Cmax may be driving at least the GI toxicity from Takeda's own analysis. 
+So based on that, we're -- that's a consideration as well. So -- but it will be a targeted assessment since we have so much data, and this will not need to be a dose escalation or anything like that. We would just enroll a few cohorts in parallel and evaluate the efficacy, which we've already seen, but we would like to confirm in our own hands. And then also just explore a couple of dosing regimens to make sure we've got the best dose going forward into full development.
+
+--------------------------------------------------------------------------------
+Operator    [15]
+--------------------------------------------------------------------------------
+Our next question comes from Roger Song of Jefferies.
+
+--------------------------------------------------------------------------------
+Jiale Song,  Jefferies LLC, Research Division - Equity Associate    [16]
+--------------------------------------------------------------------------------
+Congrats for this kind of asset acquisition. My first question is related to the sapanisertib. So since telaglenastat is targeting first line, also it's kind of a non-squamous cell and then its [small] cell lung cancer. But the sapanisertib, that's kind of for the relapsed/refractory. So just curious your plan moving into the earlier line for the population or you think you want to wait until the NCI data to make the decision.
+
+--------------------------------------------------------------------------------
+Keith Orford,  Calithera Biosciences, Inc. - Chief Medical Officer    [17]
+--------------------------------------------------------------------------------
+Yes. I mean that's certainly always the possibilities to move into earlier line -- earlier lines. I think the initial focus here that weighs in the relapsed/refractory population, we think that's where the unmet need is greatest and where we expect to be able to generate single-agent efficacy that could lead to an approval in that setting. So we're pretty laser focused on that. But we fully recognize and are interested in the potential to move it to earlier lines if the data support that.
+
+--------------------------------------------------------------------------------
+Jiale Song,  Jefferies LLC, Research Division - Equity Associate    [18]
+--------------------------------------------------------------------------------
+Got it. And in terms of the mivavotinib, so we saw some of the preliminary clinical data suggesting since you're having the best-in-class SYK inhibitor for the DLBCL, just curious biologically why do you think that's the kind of phenomenon. And should we help -- what's the confidence you will have to replicate this data in the later stage of the development?
+
+--------------------------------------------------------------------------------
+Keith Orford,  Calithera Biosciences, Inc. - Chief Medical Officer    [19]
+--------------------------------------------------------------------------------
+Yes. So that's a great question. And all of these molecules have some differences in terms of their ability to hit their target and the cleanliness with which they do that and that determines how hard you can hit the target. So there could be differences in terms of the ability of mivavotinib to hit the target most effectively. But I think interestingly, there's also -- there are also data that suggests that it's pharmacokinetic properties, particularly its tissue distribution may lead to much higher tissue penetration and on-target activity in tissues. At least preclinical data suggest that and the overall PK profile supports that. So this is something we're quite interested in, is better understanding this. But the initial data suggests that through high tissue distribution, we may be able to hit the target in tumor cells more effectively.
+
+--------------------------------------------------------------------------------
+Jiale Song,  Jefferies LLC, Research Division - Equity Associate    [20]
+--------------------------------------------------------------------------------
+Got it. Great. Maybe just a quick follow up for the potential kind of moving sapanisertib into earlier line because for the telaglenastat you're combined with the standard of care to -- for the first line, but just curious so what kind of combinant [targeted] therapy in your mind that it will be potentially for the sapanisertib?
+
+--------------------------------------------------------------------------------
+Keith Orford,  Calithera Biosciences, Inc. - Chief Medical Officer    [21]
+--------------------------------------------------------------------------------
+Yes. So I think combinations in the frontline setting with standard of care are less likely path forward, to be honest. So I think will be driven mostly based on the degree of efficacy that we see with the monotherapy. And as we talked about, we're certainly interested to see what combinations with telaglenastat look like and what paths forward there might be for that combination as well. So those are both possibilities that we're considering.
+
+--------------------------------------------------------------------------------
+Operator    [22]
+--------------------------------------------------------------------------------
+Our next question comes from RK Ramakanth of H.C. Wainwright.
+
+--------------------------------------------------------------------------------
+Swayampakula Ramakanth,  H.C. Wainwright & Co, LLC, Research Division - MD of Equity Research & Senior Healthcare Analyst    [23]
+--------------------------------------------------------------------------------
+A quick one on the CB-228. So this is a molecule that has been looked at by Takeda or maybe by Millennium before that -- before them at multiple tumors, including bladder cancer and also on the heme side as well. So I'm just trying to understand the rationale by how you want to focus more on the non-small cell lung cancer at this point.
+
+--------------------------------------------------------------------------------
+Keith Orford,  Calithera Biosciences, Inc. - Chief Medical Officer    [24]
+--------------------------------------------------------------------------------
+Yes. RK, this is Keith. So yes, it has been explored both as a monotherapy and in some combinations in a relatively sort of biomarker agnostic or non-biomarker-directed manner for the most part. And there's clearly been activity. I think even RCC, the response rate there is higher than one would expect for everolimus. So the molecule has been active, but I think what's new and really what drew our attention was the biomarker data that came out of the IST study being run by Dr. Paul Paik at Memorial Sloan Kettering. So they're in a NRF2-mutant population of squamous lung patients that were relapsed/refractory. These were quite sick patients. There was impressive activity, including significant high 20s response rate that was durable. And then the whole population, even those not having responses, were getting clinical benefit with tumor-burden reductions of significant duration. 
+So I think the efficacy from that study was impressive. And given that we're already very interested in this pathway with telaglenastat and looking at non-squamous lung, we saw this as a nice complement. And given our focus here, an area that we just know a lot about and are very interested in. So we took advantage of that opportunity to develop this in a biomarker-defined population, something that Takeda really didn't have in their hands when they were developing a molecule is this -- of these data. So that's really why we're focused in the squamous lung cancer population.
+
+--------------------------------------------------------------------------------
+Swayampakula Ramakanth,  H.C. Wainwright & Co, LLC, Research Division - MD of Equity Research & Senior Healthcare Analyst    [25]
+--------------------------------------------------------------------------------
+And do you think going forward, you would try to explore in these other indications that has been explored before? Or is -- I'm not really looked at all the data that Takeda put out. But I'm just trying to understand if there is more to this story outside of non-small cell lung cancer.
+
+--------------------------------------------------------------------------------
+Keith Orford,  Calithera Biosciences, Inc. - Chief Medical Officer    [26]
+--------------------------------------------------------------------------------
+Yes. I think that what we are planning to do with this molecule as well as mivavotinib as well as telaglenastat is really developed in a biomarker-directed manner. And so given that this pathway, the NRF2/KEAP1 pathway is activated in a number of tumor types, that's a direction that we're very interested in following up on. So we would definitely want to explore other tumor types eventually in which patients have this pathway activated. So I wouldn't think about it so much as following up on other places where it's been studied, but more kind of going down this biomarker-directed path.
+
+--------------------------------------------------------------------------------
+Operator    [27]
+--------------------------------------------------------------------------------
+Thank you. I'm showing no further questions at this time. I would like to turn the call back over to Susan Molineaux for any closing remarks.
+
+--------------------------------------------------------------------------------
+Susan M. Molineaux,  Calithera Biosciences, Inc. - Founder, CEO, President & Director    [28]
+--------------------------------------------------------------------------------
+Thank you, operator, and thanks all for joining us today. Have a good afternoon.
+
+--------------------------------------------------------------------------------
+Operator    [29]
+--------------------------------------------------------------------------------
+Thank you. Ladies and gentlemen, this does conclude today's conference. Thank you all for participating. You may now disconnect. Have a great day.
+
+
+
+
+
+
+
+--------------------------------------------------------------------------------
+Definitions
+--------------------------------------------------------------------------------
+PRELIMINARY TRANSCRIPT: "Preliminary Transcript" indicates that the 
+Transcript has been published in near real-time by an experienced 
+professional transcriber.  While the Preliminary Transcript is highly 
+accurate, it has not been edited to ensure the entire transcription 
+represents a verbatim report of the call.
+
+EDITED TRANSCRIPT: "Edited Transcript" indicates that a team of professional 
+editors have listened to the event a second time to confirm that the 
+content of the call has been transcribed accurately and in full.
+
+--------------------------------------------------------------------------------
+Disclaimer
+--------------------------------------------------------------------------------
+Refinitiv reserves the right to make changes to documents, content, or other 
+information on this web site without obligation to notify any person of 
+such changes.
+
+In the conference calls upon which Event Transcripts are based, companies 
+may make projections or other forward-looking statements regarding a variety 
+of items. Such forward-looking statements are based upon current 
+expectations and involve risks and uncertainties. Actual results may differ 
+materially from those stated in any forward-looking statement based on a 
+number of important factors and risks, which are more specifically 
+identified in the companies' most recent SEC filings. Although the companies 
+may indicate and believe that the assumptions underlying the forward-looking 
+statements are reasonable, any of the assumptions could prove inaccurate or 
+incorrect and, therefore, there can be no assurance that the results 
+contemplated in the forward-looking statements will be realized.
+
+THE INFORMATION CONTAINED IN EVENT TRANSCRIPTS IS A TEXTUAL REPRESENTATION
+OF THE APPLICABLE COMPANY'S CONFERENCE CALL AND WHILE EFFORTS ARE MADE TO
+PROVIDE AN ACCURATE TRANSCRIPTION, THERE MAY BE MATERIAL ERRORS, OMISSIONS,
+OR INACCURACIES IN THE REPORTING OF THE SUBSTANCE OF THE CONFERENCE CALLS.
+IN NO WAY DOES REFINITIV OR THE APPLICABLE COMPANY ASSUME ANY RESPONSIBILITY FOR ANY INVESTMENT OR OTHER
+DECISIONS MADE BASED UPON THE INFORMATION PROVIDED ON THIS WEB SITE OR IN
+ANY EVENT TRANSCRIPT. USERS ARE ADVISED TO REVIEW THE APPLICABLE COMPANY'S
+CONFERENCE CALL ITSELF AND THE APPLICABLE COMPANY'S SEC FILINGS BEFORE
+MAKING ANY INVESTMENT OR OTHER DECISIONS.
+--------------------------------------------------------------------------------
+Copyright 2021 Refinitiv. All Rights Reserved.
+--------------------------------------------------------------------------------

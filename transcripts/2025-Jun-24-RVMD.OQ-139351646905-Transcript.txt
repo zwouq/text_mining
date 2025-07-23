@@ -1,0 +1,428 @@
+
+
+LSEG StreetEvents Event Transcript
+E D I T E D  V E R S I O N
+
+Revolution Medicines Inc Enters Into Agreement with Royalty Pharma to Support Global Development and Commercialization
+June 24, 2025 / 12:00PM UTC
+
+================================================================================
+Corporate Participants
+================================================================================
+
+ * Ryan Asay
+   Revolution Medicines Inc - Senior Vice President of Corporate Affairs
+ * Mark Goldsmith
+   Revolution Medicines Inc - Chairman of the Board, President, Chief Executive Officer
+ * Anthony Mancini
+   Revolution Medicines Inc - Chief Global Commercialization Officer
+ * Jack Anders
+   Revolution Medicines Inc - Chief Financial Officer
+ * Steve Kelsey
+   Revolution Medicines Inc - President - Research and Development
+ * Margaret Horn
+   Revolution Medicines Inc - Chief Operating Officer
+
+================================================================================
+Conference Call Participants
+================================================================================
+
+ * Operator
+   
+ * Eric Joseph
+   J.P. Morgan Securities LLC - Analyst
+ * Michael Schmidt
+   Guggenheim Securities LLC - Analyst
+ * Marc Frahm
+   TD Cowen (Research) - Analyst
+ * Albert Agustinus
+   Leerink Partners - Analyst
+ * Kelly Shi
+   Jefferies LLC - Analyst
+ * Alec Stranahan
+   BofA Global Research (US) - Analyst
+
+================================================================================
+presentation
+--------------------------------------------------------------------------------
+Operator,     [1]
+--------------------------------------------------------------------------------
+Ladies and gentlemen, thank you for standing by and welcome to the RevMed IR event. (Operator Instructions) Please be advised that today's conference is being recorded.
+I would now like to turn the conference over to Ryan Asay, Senior Vice President of Corporate Affairs. Please go ahead.
+--------------------------------------------------------------------------------
+Ryan Asay, Revolution Medicines Inc - Senior Vice President of Corporate Affairs    [2]
+--------------------------------------------------------------------------------
+Thank you. And welcome, everyone, to this morning's webcast.
+Joining me on the call are Dr. Mark Goldsmith, Revolution Medicine's Chairman and Chief Executive Officer; Anthony Mancini, our Chief Global Commercialization Officer; and Jack Anders, our Chief Financial Officer. Dr. Steve Kelsey, our President of R&D; and Peg Horn, our Chief Operating Officer, who led development of the transaction announced today, will join us for the Q&A portion of today's call.
+Before we begin, I would like to inform you that certain statements we make during this call will be forward looking. Because such statements deal with future events and are subject to many risks and uncertainties, actual results may differ maturely from those in the forward-looking statements. For a full discussion of these risks and uncertainties, please review our quarterly report on Form 10-Q that has been filed with the Securities and Exchange Commission.
+With that, I'll turn the call over to Mark Goldsmith, Revolution Medicine's Chairman and Chief Executive Officer. Mark?
+--------------------------------------------------------------------------------
+Mark Goldsmith, Revolution Medicines Inc - Chairman of the Board, President, Chief Executive Officer    [3]
+--------------------------------------------------------------------------------
+Thanks, Ryan.
+Today marks an important milestone for Revolution Medicines that advances our mission to revolutionize treatment for patients with RAS-addicted cancers through the discovery, development, and delivery of innovative targeted medicines. Recognizing the scope of unmet medical needs, we have strong conviction about the underlying potential of our pipeline of pioneering clinical-stage RAS(ON) inhibitors to serve these needs, and we feel a clear sense of responsibility to advance our programs broadly on behalf of patients with diverse RAS tumor types, mutations, and lines of therapy. We seek to create the industry-leading targeted medicines franchise for patients with RAS-addicted cancers built on the foundation of this portfolio and intend to build independent global commercialization capabilities.
+Today, we announced a major partnership with Royalty Pharma, a premier funder of innovation in our industry that shares our conviction about our portfolio and commitment to our bold strategy. Our partnership with Royalty Pharma markedly expands the financial resources we can deploy to fuel a broad late-stage pipeline development while retaining full control of our assets in order to pursue a global integrated commercialization strategy independently.
+It serves as a predictable capital source synchronized with our unusually large portfolio opportunity while also preserving optionality for RevMed as we scale up our operations to unlock the full potential of our portfolio. With access to this quantum of capital, we expect to continue increasing our investments and may, in some instances, conduct parallel programs to maximize our competitiveness while also remaining disciplined through prioritizing our many opportunities based on potential impact for patients and our continued goal of creating shareholder value.
+We entered the second quarter of this year with a very strong financial condition with $2.1 billion in cash and investments on our balance sheet as of March 31, 2025. The innovative and strategic funding with Royalty Pharma announced today provides us with flexible access to an additional $2 billion in committed capital at a competitive cost and without equity dilution to our shareholders or compromising control of our clinical assets.
+Shortly, Jack will provide more details of the multi-component funding arrangement, but I'll make three high-level points. First, approximately two-thirds of the $2 billion is in the form of a synthetic royalty. Second, of the combined $2 billion of committed capital, $1.25 billion may be drawn at our discretion after achievement of certain milestones. And third, we expect to utilize this flexibility as we make progress in our programs, as our cash flow and capital needs evolve, and as we continue optimizing our capital formation strategy as the company and portfolio mature.
+We enter this relationship today from a position of great strength and momentum built over many years, and we believe it is a compelling solution coming at the right time with the right partner to enable fulfillment of our company vision on behalf of patients, shareholders, and employees. To provide context for entering the new partnership, let's look back to 2023, when the true potential of our pipeline began to become clearer to us.
+With growing conviction about the justification for transitioning toward late-stage activities, we made the decision to fuel this transition by adding over $1 billion to our treasury through the acquisition of another company. Further, we announced our intention to retain all rights to and control of our pipeline assets in the US and to build a standalone US-based commercial capability.
+Recognizing how ambitious a position this was for a relatively early-stage company, we also disclosed that we would begin exploring a range of options for developing and delivering products to patients outside the US, potentially including a pharma partnership. Since then, we have evaluated many models that could drive development and commercialization outside the US. We consider the pros and cons of these approaches relative to three major priorities needed to drive near-term and long-term success.
+Our first priority was to ensure sufficient late-stage development bandwidth to execute robust global programs across our deep pipeline. Our perspective on development bandwidth has evolved since 2023 as our capabilities have deepened and grown substantially among both leadership and staff levels.
+Our pipeline and compelling company profile have proven to be attractive to high-quality experienced candidates. Today, we have a high-functioning organization that has designed, validated, and launched our first two global Phase 3 clinical trials that were initiated on schedule and are operating smoothly and made progress toward initiating two additional global Phase 3 trials. We are demonstrating our ability to execute large, global registration trials, and we are confident in our ability to continue expanding these capabilities to support the rich opportunities afforded by our pipeline.
+Our second priority was to access commercialization capabilities outside the US to complement our planned US footprint. Our perspective on global commercialization has also evolved, in part because our US capability has developed in both quality and depth that exceeded our initial expectations. For example, we recently announced that Anthony Mancini, a highly experienced executive with both US and international commercial leadership experience, joined our senior management team as Chief Global Commercialization Officer, and he now oversees the overall commercialization strategy and operations for our portfolio.
+Building on insights from Anthony's experience, input from advisors and Board members, and learnings from diving deeply into commercialization strategies and operations outside the US, we've concluded that the best way for us to achieve our goals with our rich pipeline is to direct our own global development and commercial strategies and to operationalize these both inside and outside the US through our own organization. As Anthony will expand on momentarily, we believe our compelling product assets, emerging US capabilities and pre-launch momentum, and vision for establishing new global standards of care are best served by this approach. In addition, we believe that today's volatile global regulatory and pricing environment can be managed most effectively by us through an integrated global strategy led and executed by RevMed.
+I'd also like to acknowledge that this approach was informed by highly constructive dialogue with top-tier multinational pharmaceutical companies that showed strong interest in partnering with RevMed. While credible and tempting opportunities emerged that could have helped us meet our goals, we concluded that the strategic advantages and long-term economic value of a global alone approach would be quite significant and therefore justify embracing the challenges associated with implementing it.
+And our third priority was to ensure we have the financial wherewithal to make deep investments in R&D and other domains that will drive and sustain our ability to deliver positive impact for all of our constituencies. We recognize the significant magnitude of capital required to create the industry-leading targeted medicines franchise for patients with RAS-addicted cancers throughout the world.
+While a pharma partnership focused outside the US would have materially reduced our capital needs, we also learned that our unique asset portfolio, strong momentum, and high-quality organization were highly attractive to other sources of capital that might not introduce new potential governance burdens and fragmentation of strategic priorities that often accompany even the best-intentioned intercompany partnerships. Today's transaction with Royalty Pharma, a distinguished funder with a multi-decade track record of successful investing, is a recognition of RevMed's compelling profile. It confirms the scale of capital available to fuel our efforts and to give us a strong posture from which to make the best possible strategic and operational decisions for fulfilling our global vision.
+I'd now like to invite our Chief Global Commercialization Officer, Anthony Mancini, to share a high-level overview of the commercialization opportunity and strategy enabled by the relationship and approach I've just described. Anthony?
+--------------------------------------------------------------------------------
+Anthony Mancini, Revolution Medicines Inc - Chief Global Commercialization Officer    [4]
+--------------------------------------------------------------------------------
+Thanks, Mark.
+RevMed's commitment to becoming the industry-leading company serving patients with RAS-addicted cancers builds on the unique and exciting opportunity we have to make a transformational impact for these patients. Retaining strategic and execution control of our portfolio in both the US and internationally affords us greater speed of decision making, enables globally integrated planning, and allows us to fully leverage our portfolio to develop global standards of care for patients with the aim of maximizing value creation for shareholders. Ensuring patients can benefit from our medicines in the US and internationally, pending regulatory approvals, should be well-served by this approach.
+Our highly differentiated clinical stage RAS(ON) inhibitor portfolio -- including daraxonrasib, a groundbreaking RAS(ON) multi-selective inhibitor; elironrasib, a differentiated G12C-selective covalent inhibitor; and zoldonrasib, a highly innovative G12D-selective covalent inhibitor -- has broad potential to create substantial value through impact for patients with common RAS mutant tumors, including pancreatic cancer, non-small cell lung cancer, and colorectal cancer, and across lines of therapy, including both metastatic and non-metastatic settings.
+Pancreatic cancer, which we expect to be our initial indication based on the ongoing RASolute 302 study in second-line metastatic disease, is the third leading cause of cancer deaths, with significant room for improvement in treatment outcomes. More than 90% of patients with pancreatic, ductal, and dental carcinoma have tumors harboring a RAS mutation, and we believe that daraxonrasib has the potential to become a new standard of care. Our conviction and commitment to making a meaningful impact on the lives of patients drives us to move forward independently with our integrated global commercialization efforts.
+The US market is of high strategic importance to RevMed. It's a critical driver of long-term shareholder value and remains a priority for the company. In the US, we have strong momentum in building our organization to enable launch readiness across a broad range of key functions. We're resourcing our efforts to ensure that we have the best strategies, tactics, operational capabilities, and people to bring daraxonrasib and other RAS(ON) inhibitors to patients.
+The unmet need and commercial opportunity outside the US are also very meaningful. We expect to take a phased approach to commercialization outside the US with a focus on a selection of priority markets in Europe, as well as Japan. Where appropriate, we'll consider using focused business relationships to help us serve particular geographies as we expand our footprint.
+Today, we're well positioned to continue to grow and strengthen our capabilities, and we're confident in our ability to bring our medicines to patients inside and outside the US. We plan to approach commercialization outside the US in a financially disciplined staged fashion to ensure capital efficiency.
+I'm excited to be a part of the RevMed organization at this important and transformational time leading commercialization. Our compelling pipeline, deep talent, and capabilities across functions put us in a strong position to execute our ambitious mission to revolutionize treatment for patients with RAS-addicted cancers in the US and internationally.
+With that, I'll turn it over to Jack.
+--------------------------------------------------------------------------------
+Jack Anders, Revolution Medicines Inc - Chief Financial Officer    [5]
+--------------------------------------------------------------------------------
+Thanks, Anthony.
+I'm pleased to share the details of our partnership with Royalty Pharma. This funding arrangement provides for up to $2 billion in committed funding, comprised of up to $1.25 billion in synthetic royalty on future sales of daraxonrasib and up to $750 million in corporate debt. We have structured the funding arrangement to be flexible with $1.25 billion of the committed $2 billion reserved as optional for RevMed and to be drawn at our election subject to achievement of specific milestones.
+Let me begin by providing more information about the synthetic royalty on future daraxonrasib sales, which of course are subject to regulatory approvals. Royalty Pharma will provide RevMed with up to $1.25 billion in exchange for tiered royalties on worldwide annual net sales of daraxonrasib for a term of 15 years. The tiered royalty percentages decrease as sales increase and are capped at 0% above $8 billion in annual net sales.
+The total royalty commitment will be provided through five tranches. The first two $250 million tranches, totaling $500 million, are pre-FDA approval, and royalty obligations would begin only after daraxonrasib approval. We've received the first $250 million tranche at closing, and the second $250 million tranche is due to RevMed upon a positive data readout from our Phase 3 RASolute 302 study of patients with previously treated pancreatic cancer. In exchange for these first two tranches, the royalty rates on annual net sales are 4.55% on the first $2 billion, 2.5% on net sales between $2 billion and $4 billion, 1% on net sales between $4 billion and $8 billion, and are 0% above $8 billion.
+Given the tiered royalty rate schedule, let me illustrate the combined royalty impact for these two pre-scheduled tranches totaling $500 million in a couple representative revenue scenarios. For example, if annual net sales of daraxonrasib totaled $4 billion, the blended effective royalty rate would be 3.53%. If annual net sales totaled $8 billion, the blended effective royalty rate would be 2.26%. Because there are no royalties on net sales above $8 billion, the blended effective royalty rate progressively decreases below 2.26% as net sales increase above $8 billion.
+The subsequent three equal tranches totaling $750 million are post-approval tranches that can be drawn at our election after certain milestones are achieved. In a scenario where we draw the entire $1.25 billion, the aggregate royalty rates on annual net sales are 7.8% on the first $2 billion, 4.55% on net sales between $2 billion and $4 billion, 2.4% on net sales between $4 billion and $8 billion, and are 0% above $8 billion.
+Let me illustrate the blended effective royalty rate should we draw the entire $1.25 billion, including the first two pre-scheduled tranches in all three optional tranches. For example, if annual net sales of daraxonrasib totaled $4 billion, the blended effective royalty rate would be 6.18%. If annual net sales totaled $8 billion, the blended effective royalty rate would be 4.29%. Because there are no royalties on net sales above $8 billion, the blended effective royalty rate progressively decreases below 4.29% as net sales increase above $8 billion.
+By RevMed's design, there is potential for overlapping indication labels across certain assets within our pipeline. In the context of this financing arrangement, if zoldonrasib, our RAS(ON) G12D-selective inhibitor, were approved in the same indication as daraxonrasib, zoldonrasib sales would be included in the calculation of total net sales that are subject to royalty payments.
+If zoldonrasib is approved solely for indications outside of indications for which daraxonrasib is approved, zoldonrasib sales would not be subject to any royalties under this agreement. We view this synthetic royalty as an innovative and flexible source of funding in which we have access to $1.25 billion in capital subject to limited single-digit royalties and no equity dilution.
+Turning to the second component of the funding arrangement, the $750 million senior-secured term loan consists of three $250 million post-approval tranches. Following first FDA approval of daraxonrasib for the treatment of metastatic PDAC, RevMed would receive the first debt tranche of $250 million. Debt tranches two and three would become available to us based on achievement of annual net sales milestones for daraxonrasib and are optional at our discretion.
+The term loan is an interest-only facility with principal due six years after the first tranche is funded. The interest rate is calculated based on the three-month standard overnight financing rate, or SOFR, plus 5.75% with a SOFR floor of 3.5%. This comes to approximately 10% using the current SOFR rate. We believe these are attractive corporate debt terms for a pre-commercial company, particularly in light of current market conditions. Further details on this transaction can be found in the 8-K we filed with the SEC earlier today.
+I'll now turn to financial guidance. As a result of entering into this funding arrangement, we are removing our cash runway and date guidance. With our existing cash and investments plus available capital from this financing, we are no longer managing to a specific cash out date.
+With respect to 2025 GAAP net loss guidance, we are in the process of evaluating the appropriate accounting treatment of this funding arrangement and also evaluating the impact of our decision to pursue independent global development and commercialization. Accordingly, we are withdrawing our previous guidance on expected 2025 GAAP net loss and expect to provide updated financial guidance in our upcoming second-quarter 2025 earnings.
+I will now turn the call back over to Mark.
+--------------------------------------------------------------------------------
+Mark Goldsmith, Revolution Medicines Inc - Chairman of the Board, President, Chief Executive Officer    [6]
+--------------------------------------------------------------------------------
+Thank you, Jack.
+Today's announcement represents a major step forward in both validating our bold vision on behalf of patients with RAS-addicted cancers and ensuring that we have access to the scale of capital that supports our broad, parallel global development and commercialization strategy for our compelling portfolio. We have high conviction regarding this pipeline based on the innovative drug mechanisms of action, clinical data to date, and broad enthusiasm we've observed from many investigators and patients.
+Indeed, yesterday, we announced that daraxonrasib has received breakthrough therapy designation by the FDA for previously treated metastatic pancreatic cancer with KRAS G12 mutations, highlighting the promise of the most advanced investigational drug in our pipeline. We have a talented and growing organization that can execute our bold plan and the financial wherewithal to conduct it with confidence.
+Today's transaction provides capital availability at scale under compelling financial terms while preserving significant optionality for RevMed to allow us to be agile and strategic as we conduct our business. While enabled by clinical progress with our late-stage clinical assets, we also enter this new chapter with an ongoing commitment to continue leading the field scientifically and innovating in drug discovery as part of our sustained commitment to improving options for patients. Thank you to Royalty Pharma for becoming partners in our vision and journey to create and sustain the industry-leading global targeted medicines franchise for patients with RAS-addicted cancers.
+This concludes our prepared remarks for today, and I'll now turn the call over to the operator for the Q&A session.
+
+================================================================================
+q-and-a
+--------------------------------------------------------------------------------
+Operator,     [1]
+--------------------------------------------------------------------------------
+(Operator Instructions) Eric Joseph, JPMorgan.
+--------------------------------------------------------------------------------
+Eric Joseph, J.P. Morgan Securities LLC - Analyst    [2]
+--------------------------------------------------------------------------------
+Thanks. Good morning. Thanks for taking the question.
+A common question we've been getting is just what a potential partnership might look like and the structure and the timing that would make sense. And from today's commentary, it's clear that the focus is RevMed internally building out its global commercial capabilities. Can you talk a little bit more sort of why this approach, this decision, is the most attractive rather than partnering with an existing ex-US commercial footprint? To what extent is RevMed still open to potential pharma partnerships? And does this deal -- this financing facility with Royalty Pharma kind of limit your options on that front? Thanks.
+--------------------------------------------------------------------------------
+Mark Goldsmith, Revolution Medicines Inc - Chairman of the Board, President, Chief Executive Officer    [3]
+--------------------------------------------------------------------------------
+Thanks, Eric. This is Mark.
+As we just discussed a few moments ago, we have high conviction that this extraordinary transaction is the right deal with the right partner at the right time. We have, as you know, a high level of momentum with our broad development pipeline. We have favorable organizational maturation that's ongoing. And access to this capital meaningfully enables our bold global alone strategy that you just described.
+And this will allow us to do really two important things: first, to prioritize establishing new global standards of care for patients with RAS-addicted cancers, which is much easier for us to accomplish with unified control across the globe; and secondly, we retain all the economics in the US and internationally at a very reasonable cost of capital. This is an unusually large quantum of capital. The deal has a high degree of flexibility built into it. And these together ensure that we can move forward now very confidently with this plan.
+With regard to the question of whether we would consider partnerships going forward, maybe Anthony can comment on this. I think at a high level, the answer is that a broad commercial development partner is off the table now. There would be no reason for us to pursue that. But maybe Anthony wants to comment on how we'll approach the international market.
+--------------------------------------------------------------------------------
+Anthony Mancini, Revolution Medicines Inc - Chief Global Commercialization Officer    [4]
+--------------------------------------------------------------------------------
+Yeah, thanks. Thanks, Mark. And thanks, Eric, for the question.
+I think, first, let me comment a little bit on why this makes the most sense. I think in addition to some of the points Mark mentioned, I think retaining strategic and execution control globally also affords us greater speed of decision making and control on both the strategy and execution, really enables us maximum flexibility as it relates to pursuing wholly owned combination strategies. It removes potential misalignment of strategic priorities and governance burdens that often accompany even the best-intentioned partnerships.
+It also, as was mentioned, positions us optimally to navigate the evolving regulatory and pricing environment and really allows us to fully leverage our portfolio to achieve our mission to revolutionize treatment for patients with RAS-addicted cancers and create value for shareholders. And we're confident in our ability to continue to hire the right talent with the right commercialization experience in the US and internationally. And as it relates to other potential regional partnerships, as I mentioned earlier, where appropriate, it may be something we consider using in terms of focused business relationships that, like specific regionally focused distributors, to help us serve particular geographies as we expand our footprint.
+Again, thanks for the question.
+--------------------------------------------------------------------------------
+Eric Joseph, J.P. Morgan Securities LLC - Analyst    [5]
+--------------------------------------------------------------------------------
+Thanks for taking it. I appreciate the color here. I'll hop back in the queue.
+--------------------------------------------------------------------------------
+Operator,     [6]
+--------------------------------------------------------------------------------
+Michael Schmidt, Guggenheim.
+--------------------------------------------------------------------------------
+Michael Schmidt, Guggenheim Securities LLC - Analyst    [7]
+--------------------------------------------------------------------------------
+Hey, guys. Good morning. Thanks for taking my questions.
+So you obviously have sort of meaningfully increased financing flexibility now, including some near-term funding as well as part of this financing. Does that change your clinical plan in the near and midterm in any way? Or is your course set as disclosed previously at this point?
+--------------------------------------------------------------------------------
+Mark Goldsmith, Revolution Medicines Inc - Chairman of the Board, President, Chief Executive Officer    [8]
+--------------------------------------------------------------------------------
+Thanks, Michael. Maybe Steve Kelsey can comment on that.
+--------------------------------------------------------------------------------
+Steve Kelsey, Revolution Medicines Inc - President - Research and Development    [9]
+--------------------------------------------------------------------------------
+It doesn't change our plan at all. The whole purpose of the financing arrangement was to enable the plan that we set out some considerable time ago, which, as Anthony has already described, involves prosecution of our fairly extensive portfolio of RAS(ON) inhibitors, including quite a few combinations.
+And so because of that, and the desire to do that globally, and to sometimes necessarily do more than one experiment for certain patient populations, we need all the capital that we can get our hands on. And I think that this financing arrangement goes a very long way towards providing that. So our development plans are still ambitious and on course, as previously described.
+--------------------------------------------------------------------------------
+Operator,     [10]
+--------------------------------------------------------------------------------
+Marc Frahm, TD Cowen.
+--------------------------------------------------------------------------------
+Marc Frahm, TD Cowen (Research) - Analyst    [11]
+--------------------------------------------------------------------------------
+Hey. Thanks for taking my questions, and congrats on the transaction today.
+I think you did a pretty good job describing the relative merits of this deal versus a global pharma partnership. But obviously, if you're going to go on, there's also more of a traditional equity offering like you did last year. Can you maybe talk through the analysis there as to why this was a better structure than maybe pursuing that? What type of sales levels do you think this is clearly the better deal versus maybe equity would have been better at a different sales level?
+And then just thinking through runway, I understand there's a lot of variables between here and this cash balance potentially running out in terms of all the different combinations you're running and what later-stage trials those may or may not justify. But given the current plan as described, would this cash likely get you to sustainability, assuming nothing else is justified?
+--------------------------------------------------------------------------------
+Mark Goldsmith, Revolution Medicines Inc - Chairman of the Board, President, Chief Executive Officer    [12]
+--------------------------------------------------------------------------------
+Thanks, Marc. Appreciate the question. Let me sort of take a crack at the first kind of higher-level question, and then Jack can comment further.
+An equity deal today, a $2 billion equity deal, would have been probably difficult to achieve in this market at this time and I think obviously, from a dilution standpoint, would have been extraordinary. And of course, the counter to that could be, well, you could raise capital over time. Clearly, we've done that now over the last five years. This gives us committed $2 billion of capital, which allows us to make the multi-year commitments that we need to be making now, some of which we've already made, some of which we've indicated we're about to make, and others of which we'll follow shortly behind those.
+So as Steve said, this is a layered plan, and one doesn't enter multiple Phase 3 trials without certainty that you can fully execute those while you're also building out the rest of the commercial infrastructure to support global launches. So I think getting that locked down while at the same time layering that deal in the way that we have in collaboration with Royalty Pharma, that creates a flexibility ties, ties drawdowns on that capital to various other events in the future.
+And of course, with the economics that we've described, I think it's pretty hard to argue that this is anything but a highly competitive and very attractive cost of capital to us along the way, with flexibility to decide even whether we want to draw more than half of the capital at various points in time in the future. So I think this is very attractive for us to pursue now and puts us in a very, very strong position, building on the great going in strength that we had even prior to the transaction.
+The second part of your question, I don't know if Jack wants to add anything.
+--------------------------------------------------------------------------------
+Jack Anders, Revolution Medicines Inc - Chief Financial Officer    [13]
+--------------------------------------------------------------------------------
+Yeah. And maybe just as you think about it from a value retention perspective, just to piggyback off of what Mark mentioned, this deal from a royalties perspective, we are sharing a single-digit royalty on the asset, whereas with an equity financing, you could be talking about dilution in the teams to north of 20% on the entire company. So from a value retention perspective, we think this is a fantastic deal.
+As it relates to cash runway, so we have about $4 billion in total existing cash and committed funding from this facility, puts us in a strong financial position to execute on our robust global operating plan. And we know without having to manage to a specific cash out date, because of the breadth and the significant optionality of our portfolio, there's a whole wide range of possibilities and scenarios and decisions that we can make as we work through trying to create the leading global targeted therapeutics franchise for patients with RAS-addicted cancer.
+In many credible scenarios, we wouldn't need to access additional capital beyond what we've secured through our existing balance sheet and this transaction. Now you can imagine there are other scenarios, given the breadth of the portfolio, where we may need to call on additional or alternative sources of external capital. But with approximately $4 billion in existing cash and committed capital, we feel confident we've taken the steps necessary that would be sufficient to address potential perceptions of financial overhang stemming from these broad, broad plans.
+--------------------------------------------------------------------------------
+Marc Frahm, TD Cowen (Research) - Analyst    [14]
+--------------------------------------------------------------------------------
+Okay. Thanks. Very helpful. And congrats again.
+--------------------------------------------------------------------------------
+Operator,     [15]
+--------------------------------------------------------------------------------
+Jonathan Chang, Leerink Partners.
+--------------------------------------------------------------------------------
+Albert Agustinus, Leerink Partners - Analyst    [16]
+--------------------------------------------------------------------------------
+Hi. This is Albert Agustinus dialing in for Jonathan Chang. Thanks for taking our questions.
+We were just wondering whether this impacts your development plans for zoldonrasib in particular. And I guess separately, if you can also provide more color on the daraxonrasib development as well. Thank you.
+--------------------------------------------------------------------------------
+Mark Goldsmith, Revolution Medicines Inc - Chairman of the Board, President, Chief Executive Officer    [17]
+--------------------------------------------------------------------------------
+Thanks for your question, Albert. I'm going to turn back to Steve to follow up on his earlier comments.
+--------------------------------------------------------------------------------
+Steve Kelsey, Revolution Medicines Inc - President - Research and Development    [18]
+--------------------------------------------------------------------------------
+Well, the daraxonrasib development plan -- I'll address the second part of your question first. The daraxonrasib development plan, in as much as we have laid it out, will not change at all. We have very ambitious plans for daraxonrasib, both as a single agent in combination with standard of care and in combination with other agents in our portfolio.
+As for zoldonrasib, we've been very impressed with the data that we have released into the public domain, both through investor calls and at scientific meetings. And we also are very ambitious about ensuring that that molecule remains both first and best in class.
+But as Mark said, in order to ensure that those agents get to patients globally, we need to commit capital to expensive and long Phase 3 trials. And now that we have access to that capital, we can prosecute that without concern. So the development plans -- I'll just reiterate, the development plans have not changed at all for our portfolio. We're just in a much stronger position to be able to commit to prosecuting the plan.
+--------------------------------------------------------------------------------
+Mark Goldsmith, Revolution Medicines Inc - Chairman of the Board, President, Chief Executive Officer    [19]
+--------------------------------------------------------------------------------
+And if I could add to that, sort of implied by that comment, is we have a high degree of confidence in all three of the clinical stage RAS(ON) inhibitors for which a great deal of data have been presented. And so we'll continue developing all three of those fully and robustly.
+And at times, there will be, as Steve indicated, some overlap in the patient populations that we're targeting. This is aggressive, really, I guess you could argue competitive stance for us is to build this leading franchise on a global basis. And that means pushing the best solutions and options for patients on a global basis. So we will pursue a parallel overlapping, and in some instances, even combination strategies, all of which I think we've forecasted over the last year or so. And as Steve said, that's the plan, and we'll pursue it.
+--------------------------------------------------------------------------------
+Albert Agustinus, Leerink Partners - Analyst    [20]
+--------------------------------------------------------------------------------
+Thank you so much.
+--------------------------------------------------------------------------------
+Operator,     [21]
+--------------------------------------------------------------------------------
+Kelly Shi, Jefferies.
+--------------------------------------------------------------------------------
+Kelly Shi, Jefferies LLC - Analyst    [22]
+--------------------------------------------------------------------------------
+Thank you for taking my questions, and congrats on the deal.
+And what does the potential inclusion of a G12D inhibitor, zoldonrasib, into this route of structure imply for the development plans for G12D as either monotherapy or combination, especially for those overlapping indications such as pancreatic cancer? Can I assume now we're probably going to have more like a synergy in terms of a development plan for G12D? Thanks.
+--------------------------------------------------------------------------------
+Mark Goldsmith, Revolution Medicines Inc - Chairman of the Board, President, Chief Executive Officer    [23]
+--------------------------------------------------------------------------------
+Thanks, Kelly. Maybe I'll make one comment, and then Peg maybe can fill us in a little bit on the sort of subtlety of what role zoldonrasib plays in the royalty deal itself.
+Maybe just building on the comments Steve made earlier, again, they're -- obviously with daraxonrasib that serves potentially all of the RAS mutations across all of the tumor types, there's clearly overlap with the mutant-selective inhibitors in terms of patient populations. We've recognized that since we first introduced these in 2021 or 2020. And we think that's a good thing, because RAS-driven cancers are wily cancers. They'll do everything they can to work around any mutant-selective inhibitor, but mutant-selective inhibitors can be very potent in suppressing the cancer-driving signals. So resistance is something we need to worry about a great deal in order to provide long-term benefit.
+And so playing with very systematically and thoughtfully driven by the preclinical work, playing with the multi-inhibitor plus the mutant-selective inhibitors in various combination strategies, we believe, and have shown not only preclinical evidence for, but now clinical evidence in both colorectal cancer and lung cancer, can overcome and/or forestall the most prominent resistance mechanisms. So we think it's very important to pursue those.
+And as Steve indicated, some of those will be as monotherapy, some of those will be as combination strategies between the two. And similar concepts apply to elironrasib, the G12C inhibitor, and potentially other mutant-selective inhibitors like our G12B-selective inhibitor and other things coming behind that.
+So that's the overall approach. I think we've been very crystal clear about that. And just to reiterate, that's been our plan, it is our plan, and now we have $4 billion of capital to access to execute that plan based on the science and patient unmet needs rather than based on other kind of narrow considerations.
+Maybe Peg Horn, our Chief Operating Officer, who led the development of this partnership with Royalty Pharma, can comment on how the deal works with regards to zoldonrasib.
+--------------------------------------------------------------------------------
+Margaret Horn, Revolution Medicines Inc - Chief Operating Officer    [24]
+--------------------------------------------------------------------------------
+Yes, thanks for the question.
+Obviously, this deal is primarily about daraxonrasib, which is our most advanced asset and the one that we would expect, subject to regulatory approval, to get to the market first. It's logical that, as Mark and Steve have both talked about today, the fact that zoldon in the G12D population overlaps significantly with a portion of the population that the multi-inhibitor hits, that there would be a mechanism to say, should we get zoldonrasib approved in the same indication where we've already had an approval for daraxonrasib.
+It's logical, I think, and it was a highly negotiated term that the sales of zoldonrasib would be subject to the royalties that Jack has carefully laid out for you earlier today. That just seems like the package to enable us to actually pursue combinations or, as Steve laid out, multiple shots on goal in overlapping patient population. That's the way the deal has worked out.
+Should zoldon not ever get approved in an overlapping indication, the sales of zoldon are not subject to the royalties. It's a very clear line.
+--------------------------------------------------------------------------------
+Mark Goldsmith, Revolution Medicines Inc - Chairman of the Board, President, Chief Executive Officer    [25]
+--------------------------------------------------------------------------------
+And to clarify -- thanks, Peg -- that the zoldon sales simply become part of that same schedule. They're not a separate schedule. It's not really an independent royalty earning. It just becomes part of the total revenue calculation. And so the schedule of the $2 billion, $4 billion, et cetera, cut points apply to the aggregate sales under the conditions in which zoldonrasib is approved in an overlapping indication with daraxonrasib.
+--------------------------------------------------------------------------------
+Kelly Shi, Jefferies LLC - Analyst    [26]
+--------------------------------------------------------------------------------
+Thanks very much for the insight.
+--------------------------------------------------------------------------------
+Mark Goldsmith, Revolution Medicines Inc - Chairman of the Board, President, Chief Executive Officer    [27]
+--------------------------------------------------------------------------------
+With the same cap on revenues above which there's 0% royalties.
+--------------------------------------------------------------------------------
+Kelly Shi, Jefferies LLC - Analyst    [28]
+--------------------------------------------------------------------------------
+Great. Thank you.
+--------------------------------------------------------------------------------
+Operator,     [29]
+--------------------------------------------------------------------------------
+Alec Stranahan, Bank of America.
+--------------------------------------------------------------------------------
+Alec Stranahan, BofA Global Research (US) - Analyst    [30]
+--------------------------------------------------------------------------------
+Hey, guys. Thanks for taking our questions. Maybe just one quick one first, and then I've got another one on the deal terms.
+Following up on that previous question, just to confirm, the royalties are specifically for daraxonrasib and zoldonrasib if indications overlap. So not elironrasib or future pipeline candidates, even if they're developed for, say, PDAC or for lung? Is that the right way to be thinking about it? And then just in terms of how you would weigh tapping the credit facility versus the royalty tranches post-approval since there appears to be some overlap on timing for when those optional tranches could open up. Thank you.
+--------------------------------------------------------------------------------
+Mark Goldsmith, Revolution Medicines Inc - Chairman of the Board, President, Chief Executive Officer    [31]
+--------------------------------------------------------------------------------
+Thanks, Alec, for the question. On the first question, which is, what about assets beyond zoldonrasib.
+--------------------------------------------------------------------------------
+Margaret Horn, Revolution Medicines Inc - Chief Operating Officer    [32]
+--------------------------------------------------------------------------------
+Yeah. Thanks for the question. This is Peg. So just to reiterate, zoldon would only become royalty bearing should it be approved in an overlapping indication with daraxon. So just want to underscore that concept.
+And then to the point of are there other compounds, first, elironrasib is not in this transaction. We did not seek financing for eliron or other mutant-selective inhibitors in our portfolio. What is typical in this type of situation is that the royalty-bearing product or products in the event of zoldon becoming a royalty-bearing product, that being next generation, second-generation compounds closely related to the originals, would be included should those assets actually be put into clinical development, approved, and ultimately commercialized. So there is a second-generation concept for daraxonrasib and zoldonrasib when and if they were ever commercialized.
+--------------------------------------------------------------------------------
+Mark Goldsmith, Revolution Medicines Inc - Chairman of the Board, President, Chief Executive Officer    [33]
+--------------------------------------------------------------------------------
+Yeah. We haven't talked very much about those. Obviously, as a sophisticated company, we have backup compounds. We have follow-on compounds. We have a pretty extensive research effort. So we do have such compounds. Whether they'll enter the clinic is really a question for us to make decisions about over time. It won't be driven by these royalty considerations at all. It would really have to do with if we're addressing some important characteristic that we'd like to improve the competitiveness of the molecule.
+And just to be clear, though, the 15-year term of the royalty obligation is triggered by the first sale of daraxonrasib. And that 15-year clock continues forward regardless of when and if other compounds become royalty-bearing during that time. And so the 15-year period will end at a date certain regardless, so we don't reset the clock and have ongoing future obligations.
+--------------------------------------------------------------------------------
+Alec Stranahan, BofA Global Research (US) - Analyst    [34]
+--------------------------------------------------------------------------------
+Okay. And then just on the weighting of the credit facility and the royalty tranches.
+--------------------------------------------------------------------------------
+Jack Anders, Revolution Medicines Inc - Chief Financial Officer    [35]
+--------------------------------------------------------------------------------
+Yes. I think it's important that we structured this facility to be very flexible, with about two-thirds of that being at our option. We have the option at that given time to determine whether it makes sense to take the royalty or debt, some or not, but we've given ourselves that flexibility to make those decisions based on where we are at that time. So we're not in one direction or another, but we've given ourselves the flexibility to make those decisions in what's best for the company at that time.
+--------------------------------------------------------------------------------
+Mark Goldsmith, Revolution Medicines Inc - Chairman of the Board, President, Chief Executive Officer    [36]
+--------------------------------------------------------------------------------
+And that would be whether to take one or the other or both or neither. We have the flexibilities on our side. The capital is committed by Royalty Pharma. You can imagine this was a heavily discussed set of terms that's designed to assure appropriate return for Royalty Pharma that maximizes our independent decision making without any governance obligations with regard to Royalty Pharma. They have no say in those strategic decisions. It's up to us.
+And as we grow the company, as our cash flow situation becomes clearer, as the pipeline progresses, as our international footprint grows, et cetera, we'll be able to make all these decisions better informed at that point in time. But we've locked in costs of capital that are very attractive, so we'll be in a great position regardless of what we choose to do at that time.
+--------------------------------------------------------------------------------
+Alec Stranahan, BofA Global Research (US) - Analyst    [37]
+--------------------------------------------------------------------------------
+Okay. Got it. Thanks for the color.
+--------------------------------------------------------------------------------
+Operator,     [38]
+--------------------------------------------------------------------------------
+Ami Fadia, Needham & Company.
+--------------------------------------------------------------------------------
+Unidentified Participant,     [39]
+--------------------------------------------------------------------------------
+Hi. This is [Poona] on for Ami. Thank you for taking my question. Could you talk about what changes you anticipate making to your clinical development or other plans around the organization this year that needs you to withdraw your guidance at this time? Thank you.
+--------------------------------------------------------------------------------
+Mark Goldsmith, Revolution Medicines Inc - Chairman of the Board, President, Chief Executive Officer    [40]
+--------------------------------------------------------------------------------
+Well, let me just reiterate again, as Steve Kelsey pointed out, there's really no change in our clinical program. We're executing two Phase 3 trials today. We have two others that we've indicated we expect to initiate later this year, and we've talked fairly extensively about additional indications that we are interested in but have not laid out explicitly specific problem signs or timeline, but you can imagine those would be coming relatively soon. This is an aggressive program to establish ourselves as the leaders across all of those indications, so nothing really changes there.
+It does allow us to continue growing the development organization to support this. We definitely need bandwidth, and we are growing at a rapid pace now and will continue doing so, I think, for quite some time to come. And as we mentioned earlier, we've become a very attractive organization for many experienced individuals seeking to join an exciting mission. So that will continue to grow and to mature, but the programs themselves, we'll lay out details for those as we have them and as we have the data that we can share to support those decisions along the way.
+Jack, I think, did you want to make --
+--------------------------------------------------------------------------------
+Jack Anders, Revolution Medicines Inc - Chief Financial Officer    [41]
+--------------------------------------------------------------------------------
+Yeah. So with all the GAAP net loss guidance, so we are still working through the accounting of the agreement. The agreement is quite complex, has a lot of different layers, so we're going to lay that out and update our guidance with our Q2 earnings, so we're just pulling down our guidance for now as we evaluate the accounting. And in addition, we mentioned that we are evaluating the investment and the decision to go global from a commercialization perspective, and we'll provide updated guidance in two months.
+--------------------------------------------------------------------------------
+Unidentified Participant,     [42]
+--------------------------------------------------------------------------------
+Got it. Thank you so much.
+--------------------------------------------------------------------------------
+Operator,     [43]
+--------------------------------------------------------------------------------
+Ellie Merle, UBS.
+--------------------------------------------------------------------------------
+Unidentified Participant,     [44]
+--------------------------------------------------------------------------------
+This is [Sean] for Ellie. (technical difficulty)
+--------------------------------------------------------------------------------
+Mark Goldsmith, Revolution Medicines Inc - Chairman of the Board, President, Chief Executive Officer    [45]
+--------------------------------------------------------------------------------
+We're not able to pick up the call. I don't know, operator, if you can help us, if there's anything we can do to improve the sound quality.
+--------------------------------------------------------------------------------
+Operator,     [46]
+--------------------------------------------------------------------------------
+Unfortunately, no. The call is coming in, and as the person is speaking, they're breaking up. If they like, they could go back and try to requeue, and we can try to bring them up on stage again.
+--------------------------------------------------------------------------------
+Unidentified Participant,     [47]
+--------------------------------------------------------------------------------
+Hi. Are you able to hear me now? Sorry.
+--------------------------------------------------------------------------------
+Operator,     [48]
+--------------------------------------------------------------------------------
+Yes.
+--------------------------------------------------------------------------------
+Mark Goldsmith, Revolution Medicines Inc - Chairman of the Board, President, Chief Executive Officer    [49]
+--------------------------------------------------------------------------------
+Yes.
+--------------------------------------------------------------------------------
+Unidentified Participant,     [50]
+--------------------------------------------------------------------------------
+Okay. Sorry about that. Yeah. Just quickly, are you able to put this capital to work, kind of accelerating some of your current or planned pivotals? And then, when looking at kind of some of these other indications you've talked about going into, what kinds of things are you looking for with respect to choosing additional indications? Is it market size? Is it unmet need? Or what are the kind of swing factors there? Thank you.
+--------------------------------------------------------------------------------
+Mark Goldsmith, Revolution Medicines Inc - Chairman of the Board, President, Chief Executive Officer    [51]
+--------------------------------------------------------------------------------
+Yes, your question is much clearer now that we can hear it. Now, I've forgotten the first part of the question -- can you repeat that?
+--------------------------------------------------------------------------------
+Margaret Horn, Revolution Medicines Inc - Chief Operating Officer    [52]
+--------------------------------------------------------------------------------
+Used proceeds, yeah.
+--------------------------------------------------------------------------------
+Mark Goldsmith, Revolution Medicines Inc - Chairman of the Board, President, Chief Executive Officer    [53]
+--------------------------------------------------------------------------------
+Can we accelerate? Yeah. Well, I think that's a subtle -- it's a good -- appreciate the way you asked that. We've had this vision and this development vision for quite some time. It obviously evolves every day as data comes in from ongoing studies, and so we're constantly optimizing the plan. But we hadn't necessarily pulled the trigger on committing to late-stage development activities beyond the ones that we've articulated as ones that we're committed to.
+But we've been planning around those, thinking about those. Now we have the ability to actually pull the trigger. That's what we mean by moving forward with confidence. And so in a sense, that becomes acceleration, if you want to think of it that way, because we can actually do them and move them from theoretical to practical.
+There's a certain pace with which we can practically do that. We can't, overnight, launch 15 Phase 3 trials, but over the coming year, 18 months, two years, that sort of thing, you'll see rolling out those commitments more explicitly, which we can now pursue with confidence which, although we did come in with very strong financial position, we've obviously doubled that financial capacity. So that really moves us into a really wholly different level of resource availability to do so. That's exactly the point of this financing.
+Now, that sort of sets up the second part of your question, which is, so what are we looking for in making those decisions? So that's a pretty complex question. It involves lots of factors. We have a very sophisticated scope of effort that goes into making those, doing those analyses and recommendations internally, but it fundamentally comes down to unmet needs in RAS-addicted cancers, approachability by our assets, credible, compelling ways to do those studies, assets to the patients and so on, global standards of care, now very much global standards of care come into play in how we think about designing these trials.
+And sure, there's a commercial consideration to that, a number of different commercial considerations. It is a complex portfolio. It's an exciting portfolio. It's very compelling to spend time making those decisions, which we do on a continuous basis.
+So I don't think we can give you more of a formula beyond that. There isn't a formula beyond that. Those are all the things we put together. But now, we've reduced consideration of the capital availability as much of a factor in that consideration. We'll just now prioritize the things based on that range of factors that I alluded to.
+--------------------------------------------------------------------------------
+Unidentified Participant,     [54]
+--------------------------------------------------------------------------------
+Thanks. I'm glad you hear me after all.
+--------------------------------------------------------------------------------
+Operator,     [55]
+--------------------------------------------------------------------------------
+Peter Lawson, Barclays.
+--------------------------------------------------------------------------------
+Unidentified Participant,     [56]
+--------------------------------------------------------------------------------
+Hey. Good afternoon. It's Alex on for Peter. Thanks for taking our questions.
+I'm not sure if you can -- how much you can comment on that at this point today, but I'm trying to get a sense of zoldonrasib, what the initial kind of registration strategy could look like. And I don't know how much detail you can give on that, but maybe the timing of when you could update us around what the registrational plans could look like for this asset. Thank you.
+--------------------------------------------------------------------------------
+Mark Goldsmith, Revolution Medicines Inc - Chairman of the Board, President, Chief Executive Officer    [57]
+--------------------------------------------------------------------------------
+Thanks for your question. As was mentioned earlier, zoldonrasib has shown a very exciting profile now in both pancreatic cancer, G12D-bearing pancreatic cancers, as well as in non-small cell lung cancer. It's an exciting profile. It has been an exciting profile with regard to both anti-tumor activity and an extraordinary tolerability safety profile based on the preliminary data to date.
+So there's a lot of excitement around zoldonrasib for KRAS G12D-driven tumors. We have not laid out a late-stage development plan for that. It's clearly top of mind for us, along with a whole bunch of other things that are top of mind. So all I can say is stay tuned. We can't really give you a roadmap today of that, but everything is urgent for us. Patient needs in all of these settings are urgent.
+And of course, there's a competitive environment. We're in a very strong position now to double down on our competitive stats with a high level of conviction. You'll hear more from us as we're able to share it and to share the data supporting those plans.
+--------------------------------------------------------------------------------
+Operator,     [58]
+--------------------------------------------------------------------------------
+I would now like to turn the call back over to Mark for closing remarks.
+--------------------------------------------------------------------------------
+Mark Goldsmith, Revolution Medicines Inc - Chairman of the Board, President, Chief Executive Officer    [59]
+--------------------------------------------------------------------------------
+Thank you, operator. And thank you, everyone, for participating today and for your continued support of Revolution Medicines.
+--------------------------------------------------------------------------------
+Operator,     [60]
+--------------------------------------------------------------------------------
+This concludes today's conference call. Thank you for participating. You may now disconnect.
+
+
+
+
+
+
+--------------------------------------------------------------------------------
+Definitions
+--------------------------------------------------------------------------------
+Preliminary Transcript: "Preliminary Transcript" indicates that the 
+Transcript has been published in near real-time by an experienced 
+professional transcriber.  While the Preliminary Transcript is highly 
+accurate, it has not been edited to ensure the entire transcription 
+represents a verbatim report of the call.
+
+EDITED TRANSCRIPT: "Edited Transcript" indicates that a team of professional 
+editors have listened to the event a second time to confirm that the 
+content of the call has been transcribed accurately and in full.
+
+--------------------------------------------------------------------------------
+Disclaimer
+--------------------------------------------------------------------------------
+THE LONDON STOCK EXCHANGE GROUP AND ITS AFFILIATES (COLLECTIVELY, "LSEG") RESERVES THE RIGHT TO MAKE CHANGES TO DOCUMENTS, CONTENT, OR OTHER INFORMATION ON THIS WEB SITE WITHOUT OBLIGATION TO NOTIFY ANY PERSON OF SUCH CHANGES. NO CONTENT MAY BE MODIFIED, REVERSE ENGINEERED, REPRODUCED, OR DISTRIBUTED IN ANY FORM BY ANY MEANS, OR STORED IN A DATABASE OR RETRIEVAL SYSTEM, WITHOUT THE PRIOR WRITTEN PERMISSION OF LSEG. THE CONTENT SHALL NOT BE USED FOR ANY UNLAWFUL OR UNAUTHORIZED PURPOSES. LSEG DOES NOT GUARANTEE THE ACCURACY, COMPLETENESS, TIMELINESS, OR AVAILABILITY OF THE CONTENT. LSEG IS NOT RESPONSIBLE FOR ANY ERRORS OR OMISSIONS, REGARDLESS OF THE CAUSE, FOR THE RESULTS OBTAINED FROM THE USE OF THE CONTENT. IN NO EVENT SHALL LSEG BE LIABLE TO ANY PARTY FOR ANY DIRECT, INDIRECT, INCIDENTAL, EXEMPLARY, COMPENSATORY, PUNITIVE, SPECIAL, OR CONSEQUENTIAL DAMAGES, COSTS, EXPENSES, LEGAL FEES, OR LOSSES (INCLUDING, WITHOUT LIMITATION, LOST INCOME OR LOST PROFITS AND OPPORTUNITY COSTS OR LOSSES CAUSED BY NEGLIGENCE) IN CONNECTION WITH ANY USE OF THE CONTENT EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGES.
+--------------------------------------------------------------------------------
+Copyright 2025 LSEG. All Rights Reserved.
+--------------------------------------------------------------------------------

@@ -1,0 +1,150 @@
+
+
+Refinitiv StreetEvents Event Transcript
+E D I T E D   V E R S I O N
+
+Pasithea Therapeutics Corp To Acquire AlloMek Therapeutics
+OCTOBER 12, 2022 / 1:00PM GMT
+
+================================================================================
+Corporate Participants
+================================================================================
+
+ * Lawrence Steinman
+   Pasithea Therapeutics Corp. - Executive Chairman & Co-Founder
+ * Graeme Currie
+    - 
+ * Howard Worman
+    - 
+ * Tiago Reis Marques
+   Pasithea Therapeutics Corp. - CEO & Director
+ * Uday Khire
+   AlloMek Therapeutics, LLC - CEO
+
+================================================================================
+Presentation
+--------------------------------------------------------------------------------
+Tiago Reis Marques,  Pasithea Therapeutics Corp. - CEO & Director    [1]
+--------------------------------------------------------------------------------
+Good morning. My name is Tiago Reis Marques, and I'm the CEO of Pasithea Therapeutics. It is with great pleasure that I'm here today announcing our latest acquisition, AlloMek Therapeutics, a preclinical biotech company.
+First, we have our standard forward-looking statement. Please read them at your convenience. And also mentioning that joining me today on this webinar are Uday Khire, CEO of AlloMek; and Professor Howard Worman, Chairman of the Scientific Advisory Board of AlloMek; as well as Graeme Currie, Pasithea's Chief Development Officer; and Pasithea's Chairman, Professor Larry Steinman. 
+But first, let me guide you through the highlights of this acquisition. MEK 1/2 inhibitors are FDA-approved drugs for various indications with tremendous market opportunities. As an example, selumetinib was approved in 2020 for NF1 and achieved over $100 million in annual sales last year. AlloMek has developed what we consider a potential best-in-class MEK inhibitor, CIP-137401, with unique drug-like properties, reflects of its better safety, tolerability and potency profile.
+So we're acquiring a potential best-in-class drug with a clear regulatory pathway and development plan. With preclinical testing and animal toxicology studies completed, Pasithea will be able to move towards an IND application and be in clinical trials in 2023, expediting the time for Pasithea to be a clinical stage biotech company.
+We are also leveraging our existing infrastructure, bringing expertise in medicinal chemistry and leveraging the knowledge of our existing team. We are planning to initially focus the clinical development of CIP-137401 on NF1 followed by Noonan syndrome, both rare disease with significant unmet clinical needs, potentially providing for a rare pediatric disease priority review voucher from the FDA. This low-risk, high-reward transaction allow Pasithea to expand our CNS-focused drug development pipeline, while bringing another biotech long-term shareholder to join our shareholder registry.
+In closing this transaction of AlloMek Therapeutics, Pasithea acquired all of the outstanding equity interest of AlloMek on a cash-free, debt-free basis in exchange for $1 million upfront cash payment and the issuance of 2.7 million shares of restricted common stock, subject to a 1-year lock-up followed by a 1-year leak-out, plus 5-year warrants to acquire 1 million shares of common stock at an exercise price of $1.88 per share. The company is also obligated to make certain clinical and regulatory event-driven milestones payments as well as escalating low to mid-single-digit royalties on net sales.
+Now the team at AlloMek has extensive experience in medicinal chemistry. And both co-founders, Uday Khire and Barry Hart, have an impressive track record in drug discovery. And joining today our call is the CEO of AlloMek, Uday Khire, an expert in kinase inhibition, who while at Bayer, co-discovered Nexavar, an FDA-approved kinase inhibitor with over $5 billion in cumulative sales.
+We are also joined by Professor Worman, a Professor of Medicine and Pathology and Cell Biology at Columbia University and a world expert on molecular genetics of rare diseases, who characterized LMNA gene in cardiomyopathies and muscular dystrophies and has a deep understanding of RASopathies.
+Uday, thank you for taking the time to walk investors through the biological rationale of targeting the Ras-MEK-ERK signaling pathway, the current MEK inhibitor landscape and the product profile of CIP-137401.
+
+--------------------------------------------------------------------------------
+Uday Khire,  AlloMek Therapeutics, LLC - CEO    [2]
+--------------------------------------------------------------------------------
+Thanks, Tiago, for the kind introduction. We are excited to get CIP-137401 into patients. We strongly believe in our lead molecule, which has shown a unique combination of potency, tolerability and PK profile in preclinical settings, which may translate into improved efficacy and better dosing status. CIP-137401 is an advanced preclinical MEK kinase inhibitor. The Ras-Raf-MEK-ERK signaling pathway is an important pathway in drug discovery and has been implicated in a variety of diseases, including many cancer types and rare diseases.
+MEK kinase inhibitors block phosphorylation of ERK, which leads to cell death and inhibition of tumor growth. There are -- next slide. There are a number of MEK kinase inhibitors, which are most approved for oncology indications in BRAF mutated tumor types. Most of these drugs are approved as a combination therapy. This past June, trametinib received a landmark approval for tumor-agnostic BRAF V600E mutations, opening a very large market potential.
+In addition to oncology, MEK inhibitors have great promise in many disease types, including RASopathies such as neurofibromatosis type 1 or NF1. Selumetinib marketed as Koselugo by AstraZeneca was first approved for NF1 in April 2020 as a single agent for use in a pediatric population who have plexiform neurofibromas. These are soft tumors that cannot be completely removed surgically. The approval was exciting news for the NF1 community.
+Current MEK inhibitors, however, come with many liabilities. Their efficacy is limited by toxicities and most of the drugs are given at a maximum tolerated dose level. This impacts the ability to be combined with other agents as well as limits efficacy. Poor pharmacokinetics and formation of active metabolite leads to further underperformance of some of the approved agents.
+In the case of NF1, Koselugo needs to be given twice a day without food, which leads to poor compliance and is difficult to manage. Koselugo efficacy has demonstrated a plateauing response which leads to tumor shrinkage of barely about 20% and the tumor re-grows again after you stop taking the drug.
+After consulting with top experts and KOLs in the field, we produced a target profile for a much improved next-generation MEK inhibitor. Consensus is clear. We need a better drug for this important target. That is what we aim to achieve with our development. We need improved response as well as tolerability. We seek improved PK, which can lead to less treatment dosing and potentially the ability to dose with no food effect that is eliminate the need to fast which will lead to better compliance. We need a drug that combines well with other drugs for combination treatments. And most importantly, for NF1 patients, we need a durable response with better efficacy and superior tumor shrinkage.
+When we studied the structures of the first-generation MEK kinase inhibitors and further analyzed the structural modifications that were made to overcome existing liabilities, further opportunities to improve upon became obvious to us. For example, mirdametinib improves solubility and potency. Then came along refametinib, which had some improvements in metabolic stability and, to some extent, potency as well.
+Through our study of the existing compounds, we recognized great opportunity for a rationally designed macrocycle to really make a difference. CIP-137401 improves not only metabolic stability, which was reflected in optimal pharmacokinetics, but also oral bioavailability as well as potency.
+Macrocycles are sought after chemotype and special class of molecules in drug discovery. If designed correctly, they can improve essential drug-like properties like membrane permeability, metabolic stability, oral bioavailability and overall pharmacokinetic profile. We rationally designed our macrocyclic analogues to get rid of the metabolic liabilities in the existing structures and improve all of the mentioned drug-like properties.
+As you can see, while maintaining in vitro potency, CIP-137401 improves on oral bioavailability and, importantly, plasma half-life, which allows sustained phospho-ERK inhibition without spikes and quick drops in the blood levels. To give a few examples of our improved exposure and safety profiles, we compared CIP-137401 with 2 of the approved MEK kinase inhibitors based on the preclinical IND-enabling 28-day tox studies.
+We used rats and dogs as two species for toxicological evaluation. In the rats study, at highest nontoxic dose, maximum concentration of CIP-137401 exposure was 800 fold of trametinib and 47 fold of that of cobimetinib. If you divide these levels by concentration needed to inhibit 50% of cellular phospho-ERK, the ratio with CIP-137401 is superior to both of the approved drugs.
+As you continue to work your way down the data table, you will see that comparable results are seen in dog as well. In an assay, which can predict cardiotoxicity called hERG channel inhibition assay, CIP-137401 was much weaker than both trametinib and cobimetinib, meaning CIP-137401 may offer a significantly lower risk of cardiotoxicity, and cardiotoxicity is a known side effect of MEK inhibition.
+Slide 12 demonstrates the potential efficacy and potency of CIP-137401 versus Koselugo. The top panel is a Western blot which measures phospho-ERK inhibition and indicates our drug is working on the target and is more potent. CIP-137401 at low concentration of 10 nanomolar completely blocks phosphorylation of ERK, whereas Koselugo needs 100-fold drug exposure to get a similar effect.
+The lower panel is often used as tumor xenograft model called Colo-205. As you can see, CIP-137401 completely knocks down tumor growth at 5 mg per kg level given once a day.
+On the right side of the panel, taken from published studies, you will see that Koselugo needs 25 mg per kg dose twice a day in order to achieve similar tumor inhibition. In this model, CIP-137401 is superior by a wide margin.
+On slides 13, 14 and 15, you will see the effect of CIP-137401 in the NF1 plexiform neurofibroma models. In a 3D cell culture model, which is good at predicting clinical outcome, Koselugo and CIP-137401 were evaluated side by side.
+On the left panel, as you can see, Koselugo response plateaus at 30% to 35% tumor inhibition. On the right panel, a clear dose response is observed with CIP-137401 and no such plateauing effect is observed. We are optimistic a similar outcome will be seen in NF1 patients.
+On Slide 14, in collaboration with Dr. Clapp's laboratory at Indiana University, we evaluated both Koselugo versus CIP-137401 head-to-head in a genetically engineered mouse model of plexiform neurofibromas. CIP-137401 was dosed at half the concentration versus Koselugo for 12 weeks. Both drugs were generally well tolerated and reduction in tumor size as well as volume were comparable or slightly better in favor of CIP-137401 at a significantly lower dose. The graphical data is shown on the next slide.
+So here is the data. The first figure on the left side shows effect on tumor volume. The second figure on the right shows effect on tumor numbers. At half the dose, CIP-137401 was comparable or better than Koselugo in this well-validated mouse model.
+In the previous slides, we have shown clear differentiation of CIP-137401. We enjoy PK tolerability and potency advantages for CIP-137401 over the other MEK inhibitors, which may lead to better efficacy. The unique profile of CIP-137401, a macrocyclic inhibitor of MEK kinase, occupies a sweet spot. We are excited and looking forward to Pasithea's developing CIP-137401 in NF1 and potentially other RASopathies. 
+I now hand over the call to Dr. Howard Worman, Chair of AlloMek's Scientific Advisory Board. Thank you.
+
+--------------------------------------------------------------------------------
+Howard Worman,   -     [3]
+--------------------------------------------------------------------------------
+Thank you, Uday. NF1 is one of a group of rare diseases known as RASopathies. RASopathies are caused by activating mutations in genes encoding proteins in the Ras-MEK-ERK pathway, leading to excessive signaling with resultant detrimental effects. The incidence of NF1 is approximately 1 in 3,000 births with about half of the cases inherited and the other half resulting from spontaneous mutations.
+Another RASopathy, Noonan Syndrome, has several subtypes and an incidence of approximately 1 in 1,000 to 1 in 2,500. There are other extremely rare RASopathies such as cardiofaciocutaneous syndrome and Costello syndrome.
+In addition to causing tumors such as neurofibromas and NF1, patients with RASopathy suffer from other problems, including those involving the central nervous system. These include brain structural abnormalities as well as other abnormalities such as cognitive dysfunction, attention deficit hyperactivity disorder, seizures, mental retardation and impairments of motor and visual functioning. Most of these are likely secondary to increased Ras-MEK-ERK pathway signaling that may potentially improve by treatment with MEK inhibitors.
+This slide shows that excess Ras-MEK-ERK signaling is often associated with heart problems. In my laboratory, we study a disease in which this pathway is activated indirectly in the heart, secondary mutations in a gene encoding nuclear lamin A and lamin C. Mice with these mutations develop cardiomyopathy, a primary defect of the heart muscle. We treated mice with a lamin A/C gene mutation with CIP-137401 from ages 14 weeks to 20 weeks during which heart disease progresses.
+As shown in the lower left, treatment resulted in inhibition of pathway activity in the heart. The echocardiograms at the top right show improvement in heart contractile function. The bottom right shows a profound dose-dependent decrease in fibrosis or scarring of the heart measured by a pathologist blind to treatment group. Hence, CIP-137401 has beneficial effects in vivo for a disorder with increased Ras-MEK-ERK signaling.
+CIP-137401 was safe in our mice. We assessed these various serum markers with liver, pancreas and kidney injury after 6 weeks of treatment and found no significant differences between mice treated with placebo or 2 different doses of the drug. Our pathologist also examined several organs after euthanasia and no evidence of drug toxicity was seen. In a separate survival study, some mice were treated for over 200 days' worth of drug with no gross evidence of toxicity.
+I'd like to add, as shown on this slide, that there are a few case reports of off-label use of a MEK inhibitor, trametinib, in infants with Noonan syndrome and severe hypertrophic cardiomyopathy. In this form of cardiomyopathy, the wall of the heart thickens, leading to defective pumping and eventual heart failure. In these 2 infants with hypertrophic cardiomyopathy, MEK inhibitor treatment led to reductions in the left ventricular mass and assessment of wall thickening highlighted here in yellow. It also led to profound decreases in blood BNP concentration, a widely used marker of heart failure, also shown in yellow under next line. You can see that for the patient 2, the decrease in BNP concentration was over 700-fold after treatment.
+Now I'll turn it over to Graeme to discuss the company's development plan.
+
+--------------------------------------------------------------------------------
+Graeme Currie,   -     [4]
+--------------------------------------------------------------------------------
+Thank you, Howard. Pasithea has an experienced research and development team with focused expertise in taking research ideas through discovery and development to successful commercial products. All members of the team have over 20 years of experience in pharma and biotech from some of the leading companies, including Genentech, Gilead and Regeneron.
+I've been closely involved in the development of 7 approved drugs. In the last 10 to 15 years, I have become familiar with MEK inhibitors as they have successfully been developed in oncology. Our initial focus with CIP-137401 will be in neurofibroma type 1, where there's still a significant unmet need with current therapies. One of the key challenges today in younger patients is the need for multiple doses a day to be taken on an empty stomach. With CIP-137401's potential for once-a-day dosing, which may avoid the need for dosing around food, we see the possibility of our MEK inhibitor being the MEK inhibitor of choice for NF1 patients.
+We have established a clinical development plan that will take us through IND-enabling studies and into a first-in-human clinical trial in healthy volunteers by the end of 2023. A Phase I study in healthy volunteers is the most efficient way to determine the maximum tolerated dose of CIP-137401.
+After establishing an optimal dose in humans, studying effect of food on dosing will enable us to achieve a truly differentiated product, where administration convenience will be a key attribute, particularly for pediatrics and young adults. Efficacy will be established in a clinical proof-of-concept study. We will start the study in adults, but the study will also include adolescents and children after PK is confirmed in this population.
+Moving to the next slide. As we focus in on key milestones over the next 12 to 18 months, we will look to meet with the FDA in early 2023 to confirm the acceptability of our preclinical package. We expect our submission to meet requirements and will submit an IND in the second half of 2023, with a goal of initiating the study before the end of the year.
+I will now hand over to Professor Steinman, who will address how a MEK inhibitor may synergize with some of the existing programs at Pasithea.
+
+--------------------------------------------------------------------------------
+Lawrence Steinman,  Pasithea Therapeutics Corp. - Executive Chairman & Co-Founder    [5]
+--------------------------------------------------------------------------------
+Thank you, Graeme. I'm Larry Steinman, Chairman of the Board of Pasithea. Earlier this year, we published in the top peer reviewed journal in the world, Nature, that a molecule called GlialCAM is targeted in multiple sclerosis and that a monoclonal antibody to GlialCAM is prominent in the spinal fluid of patients with multiple sclerosis.
+The antibody to GlialCAM cross-reacts with Epstein-Barr virus. The antibody to EBV, Epstein-Barr virus, and GlialCAM is considered the likely trigger for multiple sclerosis. Now here's where our collaboration with AlloMek comes into play.
+GlialCAM must be phosphorylated for the antibody to strongly cross-react immunologically with Epstein-Barr virus. Blockade of this phosphorylation with a MEK inhibitor is likely to block this step. The acquisition of AlloMek strongly synergizes with our efforts in MS to tolerize to GlialCAM and thus halt MS relapses and progression.
+In addition, as a pediatric neurologist, I'm delighted that we have a program at Pasithea in neurofibromatosis type 1, a disease with unmet needs that is really important to address.
+
+--------------------------------------------------------------------------------
+Tiago Reis Marques,  Pasithea Therapeutics Corp. - CEO & Director    [6]
+--------------------------------------------------------------------------------
+Thanks, Larry. So to conclude, we hope that all the data showed during this presentation made the case for CIP-137401 potentially being the best-in-class MEK inhibitor, overcoming existing limitations of current MEK inhibitor drugs with better efficacy and tolerability and synergies with current Pasithea drug programs.
+With preclinical testing and animal toxicology studies completed, we are excited to continue to develop this drug and move towards clinical trials in 2023 in rare disorders such as NF1 with a potential for a priority review voucher from the FDA.
+Thank you so much for attending this presentation.
+
+
+
+
+
+
+
+--------------------------------------------------------------------------------
+Definitions
+--------------------------------------------------------------------------------
+PRELIMINARY TRANSCRIPT: "Preliminary Transcript" indicates that the 
+Transcript has been published in near real-time by an experienced 
+professional transcriber.  While the Preliminary Transcript is highly 
+accurate, it has not been edited to ensure the entire transcription 
+represents a verbatim report of the call.
+
+EDITED TRANSCRIPT: "Edited Transcript" indicates that a team of professional 
+editors have listened to the event a second time to confirm that the 
+content of the call has been transcribed accurately and in full.
+
+--------------------------------------------------------------------------------
+Disclaimer
+--------------------------------------------------------------------------------
+Refinitiv reserves the right to make changes to documents, content, or other 
+information on this web site without obligation to notify any person of 
+such changes.
+
+In the conference calls upon which Event Transcripts are based, companies 
+may make projections or other forward-looking statements regarding a variety 
+of items. Such forward-looking statements are based upon current 
+expectations and involve risks and uncertainties. Actual results may differ 
+materially from those stated in any forward-looking statement based on a 
+number of important factors and risks, which are more specifically 
+identified in the companies' most recent SEC filings. Although the companies 
+may indicate and believe that the assumptions underlying the forward-looking 
+statements are reasonable, any of the assumptions could prove inaccurate or 
+incorrect and, therefore, there can be no assurance that the results 
+contemplated in the forward-looking statements will be realized.
+
+THE INFORMATION CONTAINED IN EVENT TRANSCRIPTS IS A TEXTUAL REPRESENTATION
+OF THE APPLICABLE COMPANY'S CONFERENCE CALL AND WHILE EFFORTS ARE MADE TO
+PROVIDE AN ACCURATE TRANSCRIPTION, THERE MAY BE MATERIAL ERRORS, OMISSIONS,
+OR INACCURACIES IN THE REPORTING OF THE SUBSTANCE OF THE CONFERENCE CALLS.
+IN NO WAY DOES REFINITIV OR THE APPLICABLE COMPANY ASSUME ANY RESPONSIBILITY FOR ANY INVESTMENT OR OTHER
+DECISIONS MADE BASED UPON THE INFORMATION PROVIDED ON THIS WEB SITE OR IN
+ANY EVENT TRANSCRIPT. USERS ARE ADVISED TO REVIEW THE APPLICABLE COMPANY'S
+CONFERENCE CALL ITSELF AND THE APPLICABLE COMPANY'S SEC FILINGS BEFORE
+MAKING ANY INVESTMENT OR OTHER DECISIONS.
+--------------------------------------------------------------------------------
+Copyright 2023 Refinitiv. All Rights Reserved.
+--------------------------------------------------------------------------------

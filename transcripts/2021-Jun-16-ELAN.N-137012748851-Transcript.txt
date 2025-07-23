@@ -1,0 +1,552 @@
+
+
+Refinitiv StreetEvents Event Transcript
+E D I T E D   V E R S I O N
+
+Elanco Animal Health Inc Acquisition of Kindred Biosciences Inc - M&amp;A Call
+JUNE 16, 2021 / 12:00PM GMT
+
+================================================================================
+Corporate Participants
+================================================================================
+
+ * Todd S. Young
+   Elanco Animal Health Incorporated - Executive VP of Corporate Governance and Strategy & CFO
+ * Aaron L. Schacht
+   Elanco Animal Health Incorporated - EVP of Innovation, Regulatory & Business Development
+ * Jeffrey N. Simmons
+   Elanco Animal Health Incorporated - President, CEO & Director
+ * Tiffany Ann Kanaga
+   Elanco Animal Health Incorporated - Head of IR
+
+================================================================================
+Conference Call Participiants
+================================================================================
+
+ * Balaji V. Prasad
+   Barclays Bank PLC, Research Division - Director
+ * Navin Cyriac Jacob
+   UBS Investment Bank, Research Division - Equity Research Analyst of Specialty Pharmaceuticals and Large Cap Pharmaceutic
+ * Jonathan David Block
+   Stifel, Nicolaus & Company, Incorporated, Research Division - MD & Senior Equity Research Analyst
+ * Michael Leonidovich Ryskin
+   BofA Securities, Research Division - Associate
+ * Elliot Henry Wilbur
+   Raymond James & Associates, Inc., Research Division - Senior Research Analyst
+ * Navann Ty
+   Citigroup Inc., Research Division - Director
+ * Umer Raffat
+   Evercore ISI Institutional Equities, Research Division - Senior MD & Senior Analyst of Equity Research
+ * John Charles Kreger
+   William Blair & Company L.L.C., Research Division - Partner & Co-Group Head of Healthcare Technology and Services
+ * Erin Elizabeth Wilson Wright
+   Credit Suisse AG, Research Division - Director & Senior Equity Research Analyst
+ * David Michael Westenberg
+   Guggenheim Securities, LLC, Research Division - Analyst
+ * Christopher Thomas Schott
+   JPMorgan Chase & Co, Research Division - Senior Analyst
+ * Nathan Allen Rich
+   Goldman Sachs Group, Inc., Research Division - Research Analyst
+
+================================================================================
+Presentation
+--------------------------------------------------------------------------------
+Operator    [1]
+--------------------------------------------------------------------------------
+
+          Good day. Thank you for standing by. Welcome to the Elanco to acquire KindredBio Conference Call. (Operator Instructions)
+I would now like to hand the conference over to your speaker today, Tiffany Kanaga. Please go ahead.
+
+--------------------------------------------------------------------------------
+Tiffany Ann Kanaga,  Elanco Animal Health Incorporated - Head of IR    [2]
+--------------------------------------------------------------------------------
+
+          Good morning. Thank you for joining us as we announce Elanco Animal Health's acquisition of KindredBio. I'm Tiffany Kanaga, Head of Investor Relations. Joining me on today's call are Jeff Simmons, our President and Chief Executive Officer; Todd Young, our Chief Financial Officer; Aaron Schacht, our Executive Vice President of Innovation, Regulatory and Business Development; and Katy Grissom from Investor Relations.
+During this conference call, we anticipate making projections and other forward-looking statements based on our current expectations. These forward-looking statements include, without limitation, statements regarding the proposed acquisition of KindredBio, the expected timetable for completing the transaction, future financial and operating results, benefits and synergies of the transaction, future opportunities for the combined businesses and any other statements regarding events or developments that we believe or anticipate will or may occur in the future.
+Actual results could differ materially due to a number of factors, including those listed on Slide 3 and those outlined in our and KindredBio's latest Forms 10-K and 10-Q filed with the Securities and Exchange Commission. The information we provide about the pending acquisition is for the benefit of the investment community. It is not intended to be promotional and is not sufficient for prescribing decisions.
+You can find our press release regarding the acquisition and the slides referenced on this call in the Investors section of elanco.com. The slides and the press release also contain further information about the non-GAAP financial measures that we will discuss today during this call. After our prepared remarks, we'll be happy to take your questions. I will now turn the call over to Jeff.
+
+--------------------------------------------------------------------------------
+Jeffrey N. Simmons,  Elanco Animal Health Incorporated - President, CEO & Director    [3]
+--------------------------------------------------------------------------------
+
+          Thanks, Tiffany. Good morning, everyone. Thank you for all joining us on short notice. I'm pleased to announce that Elanco is taking the next step in our journey to build a global, independent, fit-for-purpose animal health leader with the bolt-on acquisition of KindredBio. This strategic, highly complementary combination positions us for accelerated leadership into the next era of Pet Health growth.
+On Slide 5, let me summarize how this transaction advances our IPP strategy and generate sustainable value for shareholders. We are significantly expanding Elanco's presence in the fast-growing dermatology market through a disruptive portfolio spanning across both companies. This market, at over $1 billion with potential to become significantly larger, represents one of the most exciting spaces in Pet Health.
+Yet with limited solutions available today, we see a strategic imperative to build a differentiated competitive offering. Canine atopic dermatitis or itching is the #1 reason why owners take their dog to the veterinarian. KindredBio's innovative pipeline, added to our own organic efforts, meaningfully accelerates our ability to launch, gain share and grow through fully accretive revenue dollars.
+We anticipate launching up to 4 potential dermatology blockbusters through 2025 across the combined portfolio, 3 of which are expected to come from KindredBio. The deal also brings additional shots on goal for other chronic disorders and unmet needs, including canine parvovirus. We have already established a partnership with KindredBio to commercialize this treatment, bringing to bear Elanco's size, scale, launch excellence and global reach.
+Finally, the deal will expand our omnichannel leadership, complementing our e-commerce and retail positions by increasing our vet clinic presence in a leading therapeutic category. Ultimately, the combination furthers our vision to keep the veterinarian at the center of pet care needs, serving as a conduit for pet owners to the clinics.
+On Slide 6, we are updating our December Investor Day outlook to reflect KindredBio's contribution to innovation over the next few years, while stand-alone Elanco forecasts are on track. We are raising our 2025 expectation for revenue from innovation by $100 million to a range of $600 million to $700 million. Importantly, this incremental $100 million is by no means a ceiling for KindredBio's contribution over time with significantly higher peak pipeline sales expected to occur well beyond this period, given expected launch timing.
+We believe each of KindredBio's 3 key dermatology products in development has blockbuster potential, underscoring the strategic importance and value of the transaction. Slide 7 highlights how today's actions will enhance our long-term growth algorithm through margin-accretive innovation. You recall that at the December Investor Day, we explained our expectations for our Elanco can deliver 3% to 4% average annual revenue growth.
+We expect top line growth to be led by 25 or more launches through 2025, reflecting our robust organic pipeline with 45 shots on goal in key market segments and in areas that round out and strengthen our portfolio. This includes a foundation of 8 new products in 2021, this year, many entering markets that are material in size, from parasiticides and pet therapy to raised without antibiotics in poultry and one with blockbuster potential in cattle.
+As we advance our presence in the sizable dermatology market, we expect to unlock upside potential to our algorithm over the coming years, specifically by becoming a leading player in one of the fastest-growing segments of animal health. We see the potential to add a full percentage point of consistent annual revenue growth starting in 2024.
+Additionally, we expect this combined derm pipeline to expand our margin potential over time beyond our gross margin and EBITDA margin targets. As we updated, with last week's footprint optimization, we now expect to reach 60% gross margin in 2023. We also expect to achieve 31% adjusted EBITDA margin in 2024, up 1,000 basis points from 2018.
+Finally, given the bolt-on nature and limited size of the acquisition, we expect to reach our goal of under 3x net leverage at the end of the first quarter of 2024, just 3 months later than previously targeted. While the incremental near-term interest and operating expenses are expected to drive slight adjusted EPS dilution in 2021 and 2022, we believe this transaction creates significant long-term shareholder value through a clear path toward meaningful greater cash conversion and free cash flow.
+On Slide 8, KindredBio is one of the first pet biotech companies in the world. They and we at Elanco believe our pets deserve the same great medicines that humans enjoy. KindredBio identifies drugs, biologics and targets that have been validated, often in humans, and develops animal versions to treat and cure pets. We've developed a great admiration for KindredBio over many years. And that was advanced further through our parvovirus therapy collaboration.
+Today's announcement builds on our existing relationship and underscores our proven approach to be an innovation partner of choice. Bringing innovation across the finish line is one of Elanco's core strengths, with Aaron and his team's late-stage development and regulatory expertise and successfully commercializing pipelines acquired from Novartis, Lohmann and Aratana.
+Today, we have the unique opportunity with the pending acquisition of KindredBio to create what we believe will be a leading platform for therapeutic monoclonal antibody innovation and more.
+On Slide 9, Pet Health is a durable, resilient growth industry with strong fundamentals that creates significant long-term opportunity. With Bayer Animal Health acquisition last August, we've already shifted our mix from approximately 30-70 Pet Health farm animal to approximately 50-50.
+In fact, the first quarter of 2021, as you know, marked the first quarter in our history with the higher-margin Pet Health business representing a majority of our revenue. We see structural industry tailwinds from increased pet adoption, a greater expectation for pet care, improved compliance and increased spending, particularly online.
+Globally, there is a long-term opportunity for growth as about half of the world's 500 million pets are unmedicalized. We believe several factors will contribute to an increase in pet owner spending on therapeutics more specifically, and differentiate pet therapeutics as an attractive space worthy of our investment and focus.
+The veterinarian is at the center of therapeutics, which we have always believed is critical in animal health and foundational to our Elanco IPP strategy. Despite the growing market for pet therapeutics, there are relatively few treatment options approved, especially compared to human therapeutic treatments.
+As a result, veterinarians often must resort to prescribing products approved for use in humans, but not approved, formulated or even formally studied in pets. A highly complementary addition of KindredBio was focused on therapeutics as one of the most exciting spaces in Pet Health, where we see compelling strategic rationale to build a differentiated competitive offering.
+Today's actions further accelerate our mix shift into Pet Health and advance our IPP strategy. We believe the combination positions Elanco to bring innovative solutions to veterinarians and pet owners in areas of unmet or underserved medical needs, augmenting growth and creating sustainable long-term value for our shareholders.
+Let's now have Aaron share some of the details about the compounds and the science.
+
+--------------------------------------------------------------------------------
+Aaron L. Schacht,  Elanco Animal Health Incorporated - EVP of Innovation, Regulatory & Business Development    [4]
+--------------------------------------------------------------------------------
+
+          Thank you, Jeff. This very exciting transaction is the culmination of years of engagement between CEO Richard Chin, the team at KindredBio with Elanco and builds on the parvovirus treatment collaboration we signed last year. We've been impressed by the KindredBio team and have come to appreciate the opportunities they've developed through our vigorous diligence process, including a thorough evaluation in conjunction with our Board's new Innovation, Science and Technology Committee.
+KindredBio's pipeline and biologics capabilities are additive and complementary to the capabilities we've built within Elanco, and I'm excited by our combined potential. We see a great foundation for leadership in monoclonal antibody therapies for pets, and I look very forward to welcoming the KindredBio team to Elanco.
+Slide 10 highlights KindredBio's 5 key canine product candidates advancing in development. In addition, KindredBio has a number of research projects and programs aimed at other interesting opportunities for novel products in Pet Health. Today, I'll focus on these key development candidates targeting atopic dermatitis, canine parvovirus and inflammatory bowel disease.
+On Slide 11, let me introduce and describe the atopic dermatitis market, representing skin allergies. Itching affects about 10% of dogs and is the #1 reason pet owners visit a veterinarian. Beyond itch, dogs often experience more challenging symptoms like skin irritation, inflammation and pain.
+We expect approximately 18 million dogs to be treated in the U.S. alone in 2025. With recent advances and competitor launches, the market has quickly expanded into a $1 billion category with the potential to become a multibillion-dollar category over time. There remains an unsatisfied demand for innovation with 70% of veterinarians and a higher percentage of dermatologists still expressing a need for alternative to current therapies.
+Similar to what we often see in human medicine, some patients may respond better to one product versus another. Sometimes they must rotate between products, and sometimes a combination of products could be needed. So we anticipate there will be room for multiple blockbusters in this market.
+On Slide 12, we depict our combined dermatology pipeline. In atopic dermatitis, we could have as many as 4 launches through 2025, each with blockbuster potential. KindredBio also has an early-stage dermatology pipeline stretching beyond the programs discussed today.
+Starting with the Elanco portfolio. We are progressing an oral JAK inhibitor called ilunocitinib with a similar profile to the market incumbent. Pivotal studies are underway in both the U.S. and the EU. And as I shared at Investor Day, we are targeting 2022 for initial technical section submissions, likely in the latter part of that year.
+Turning to KindredBio's pipeline. The first product candidate is tirnovetmab. This is a novel-engineered and caninized antibody that binds to and neutralizes the activity of IL-31, the molecule that causes itching. KindredBio has generated pilot effectiveness data that confirms this molecule works well.
+We believe there is a good probability of success for the approval and launch of tirnovetmab given the high confidence in the target, a proven path through development and regulatory for an IL-31 antibody and KindredBio's robust R&D experience in this space.
+KindredBio has initiated a pivotal efficacy study for tirnovetmab as a treatment for atopic dermatitis, targeting regulatory submissions in 2022 with potential for approval by the USDA Center for Veterinary Biologics in 2023.
+Next is a long-acting IL-31 antibody known as KIND-039, which has demonstrated pharmacokinetic data indicating up to threefold longer half-life compared to tirnovetmab. This approach should allow for less frequent administration for affected dogs and reduced cost of goods compared to antibodies with shorter half-life.
+Additionally, this new antibody is based on tirnovetmab's sequence as the starting point for engineering the half-life extension, and the IL-31 binding region has not been changed. Given the similarity in the molecules, the PK study data, the confidence in tirnovetmab and development progress so far, KindredBio has progressed KIND-039 rapidly towards pivotal studies.
+Having both tirnovetmab and KIND-039 provides great potential to address the need for both acute and chronic disease. There are some acute indications like flea bites or seasonal allergies that are better suited for 1 or 2 months of veterinarian visits in biologic therapy, while other pets could significantly benefit from a more long-lasting option.
+Moving to the fourth product candidate. KindredBio has engineered an antibody that binds to the IL-4 receptor, blocking key factors that trigger immune and inflammatory processes with the potential to address a broader range of disease activity beyond the itch symptoms. In turn, this molecule can be a game-changing option for veterinarians. Pilot study results look promising with preparations underway for pivotal studies. [Rounding] out the conversation on KindredBio's pipeline, let me take a moment for parvovirus on Slide 13.
+Parvovirus is a highly lethal disease, which is over 90% fatal if left untreated. It is a highly contagious virus that persists in the environment for extended periods and spreads through contact transmission. There are parvovirus vaccines that work well. However, not all pets receive these vaccines.
+Unfortunately, there's no approved treatment today. Extensive support of therapy is typically the only recourse. Earlier this month, KindredBio reported strong results from a pivotal treatment efficacy study for KIND-030. The primary endpoint was survival and the results showed 100% survival in the treated group versus 43% survival in the placebo group.
+With this positive study, KIND-030 has now demonstrated efficacy in both indications being pursued, prophylactic therapy to prevent clinical signs of canine parvovirus infection and treatment of established parvovirus infection. We see potential for approval by the end of this year as efforts in development and manufacturing as well as regulatory continue to advance.
+Finally, on Slide 14, KindredBio has an early project focused on a monoclonal antibody for a potential treatment of canine inflammatory bowel disease. This target, TNF alpha, is well known in human medicine, and with KIND-509, KindredBio has begun to explore a therapeutic potential.
+In December, they announced a positive field efficacy study in the treatment of canine IBD, showing potential for this novel antibody. Existing treatments for IBD or other digestive track disorders can have significant drawbacks, including limited diets and significant antibiotic needs, which can lead to owner frustration, lapses in compliance and poor quality of life for the affected animal.
+In summary, combining Elanco and KindredBio pipelines and capabilities is an important step which should allow us to lead in the innovation of novel biologic therapeutics to treat underserved disease challenges in pets. I'll turn the call over to Todd now to provide some financial commentary.
+
+--------------------------------------------------------------------------------
+Todd S. Young,  Elanco Animal Health Incorporated - Executive VP of Corporate Governance and Strategy & CFO    [5]
+--------------------------------------------------------------------------------
+
+          Thanks, Aaron. On Slide 15, we've summarized the transaction, including the strategic rationale and the key financial highlights. Overall, we are very excited about this combination as it supports our focus on Pet Health growth with an additive portfolio that complements our own. We plan to finance this acquisition with prepayable debt. After discussing all of our financing alternatives with the finance and oversight committee of our Board of Directors, the decision was made to add debt to our balance sheet. Given that the extension of our net leverage target of 3x, we'd be delayed by only 3 months from the end of 2023 to the end of the first quarter of 2024 to obtain these assets that we believe enhance our trajectory of value creation.
+We expect the transaction to close in the third quarter. Transaction and operating costs will be slightly dilutive to Elanco's reported and adjusted earnings per share in 2021 with the impact concentrated in the fourth quarter and also slightly dilutive to the full year 2022.
+Finally, as stated in our press release issued this morning, we are reaffirming second quarter 2021 revenue guidance of $1,225 million to $1,255 million and full year 2021 revenue guidance of $4,670 million to $4,710 million.
+In summary, we are confident KindredBio is a great strategic addition to Elanco, helping us drive faster growth while being accretive to margins as well as generating increased cash and creating incremental long-term shareholder value.
+I'd like to now turn it back to Jeff for some closing remarks with Slide 16 before we move to your questions.
+
+--------------------------------------------------------------------------------
+Jeffrey N. Simmons,  Elanco Animal Health Incorporated - President, CEO & Director    [6]
+--------------------------------------------------------------------------------
+
+          Thanks, Todd. I think it's important to note as we close that being in animal health myself for more than 30 years, I have recognized with our teams at Elanco a few key drivers that clearly create material value in this market. Today's transaction addresses each one of these.
+First, it will bring Elanco greater Pet Health exposure, also more blockbuster potential and differentiated assets in a big growing segment that is additive to our current business. The Kindred transaction does each one of these. I have clear conviction that this acquisition represents the acceleration of our next era of Pet Health growth.
+KindredBio is an exciting opportunity to enhance our long-term growth algorithm by more quickly building a presence in this essential part of the industry of atopic dermatitis while also providing attractive shots on goal in other therapeutic fields. KindredBio contributes 3 potential blockbusters alongside our own in dermatology, no small feat considering the limited blockbusters overall in animal health.
+We expect the acquisition to generate meaningful margin and earnings accretion over time, positioning Elanco for sustained success. With that, I'll turn it over to Tiffany to moderate the Q&A.
+
+--------------------------------------------------------------------------------
+Tiffany Ann Kanaga,  Elanco Animal Health Incorporated - Head of IR    [7]
+--------------------------------------------------------------------------------
+
+          Thanks, Jeff. (Operator Instructions) Jerome, please provide the instructions for the Q&A session, and then we'll take the first caller.
+
+
+================================================================================
+Questions and Answers
+--------------------------------------------------------------------------------
+Operator    [1]
+--------------------------------------------------------------------------------
+
+          (Operator Instructions) Your first question comes from Erin Wright with Credit Suisse.
+
+--------------------------------------------------------------------------------
+Erin Elizabeth Wilson Wright,  Credit Suisse AG, Research Division - Director & Senior Equity Research Analyst    [2]
+--------------------------------------------------------------------------------
+
+          Great. As we think about your Pet Health pipeline that you've laid out at the Investor Day, does this deal change anything meaningfully in terms of which candidates you will pursue near term? And in the stated peak sales opportunity you laid out there, just given that you also had potentially some of the atopic derm products in your current pipeline, including your JAK inhibitor, I guess, for instance, is that $100 million a net number, net of pipeline rationalization potentially elsewhere?
+And then my second question is you did reiterate guidance for revenue, but you didn't reiterate guidance for EBITDA or EPS. Has anything changed relative to your previous expectations other than the near-term dilution from this deal?
+
+--------------------------------------------------------------------------------
+Todd S. Young,  Elanco Animal Health Incorporated - Executive VP of Corporate Governance and Strategy & CFO    [3]
+--------------------------------------------------------------------------------
+
+          Erin, let me jump in on the last question. There's no change to those guidance numbers either. We just didn't state them and all the different reconciliations that come with reported and non-GAAP adjustments, but no change.
+
+--------------------------------------------------------------------------------
+Aaron L. Schacht,  Elanco Animal Health Incorporated - EVP of Innovation, Regulatory & Business Development    [4]
+--------------------------------------------------------------------------------
+
+          Erin, this is Aaron Schacht. Thanks for the question. We don't see anything changing with the pipeline that we talked about in December. This is truly additive, complementary and really just builds more confidence in delivering products in this category over time. So our JAK inhibitor remains on track, and these assets really complement it in a time period where we think it's important to have a broader offering in dermatology.
+
+--------------------------------------------------------------------------------
+Operator    [5]
+--------------------------------------------------------------------------------
+
+          Question comes from Nathan Rich with Goldman Sachs.
+
+--------------------------------------------------------------------------------
+Nathan Allen Rich,  Goldman Sachs Group, Inc., Research Division - Research Analyst    [6]
+--------------------------------------------------------------------------------
+
+          Great. Jeff and Aaron, could you maybe go into a little bit more detail on how you're thinking about the growth of the dermatology market over the next 5 years? I think you noted potential for 18 million dogs to be treated by 2025. Where does that stand today? And what's the future opportunity for the market?
+And then as we look at the combined portfolio that you'll have in derm relative to the incumbent in the space, can you talk about how those assets that you have and you're building will be differentiated? And any expectations around market share that you'd expect to achieve as these drugs launch?
+
+--------------------------------------------------------------------------------
+Jeffrey N. Simmons,  Elanco Animal Health Incorporated - President, CEO & Director    [7]
+--------------------------------------------------------------------------------
+
+          Yes. Let me start, Nathan, and then I'll have Aaron add anything more specific. So we spent a lot of time studying this market, as you know, as we have candidates in our pipeline, bringing our JAK-1 product into it. It's a few of these factors as you look at market size, as we've seen parasiticides, pain, but especially derm -- it's been one of the biggest value drivers of our industry -- is, one, prevalence and more dog owners understanding. And again, this is the #1 reason they're coming in. So prevalence, unmet needs, limited options, globalization. These are all factors that come into play and veterinarians being able to better serve pet owners and reach them directly in better ways, which we saw was accelerated during COVID as well.
+So all of that, we see a very fast-growing market bringing alternative options, because there are so few, as something that's going to continue to see this market grow. So there's been a lot of predictions that it's a $1 billion market. We do see it growing and continuing to grow into a multibillion-dollar market over time.
+
+--------------------------------------------------------------------------------
+Aaron L. Schacht,  Elanco Animal Health Incorporated - EVP of Innovation, Regulatory & Business Development    [8]
+--------------------------------------------------------------------------------
+
+          I think just building on that and maybe addressing your question around differentiation. First of all, we believe that multiple entrants in the category will be appreciated as good options for veterinarians to treat actually a wider range of maybe symptoms and how the disease manifests. I think as we look at this pipeline, we see the first 2 entrants, the IL-31, tirnovetmab and ilunocitinib really competing head-to-head with the market incumbents. And of course, at our development programs, we are going to be actively looking for means by which we can differentiate.
+With the next 2 compounds, the IL-31 long-acting and the IL-4, we have clear hypotheses around differentiated profiles, long-acting, less frequent dosing, more convenient dosing, more seasonal coverage, for example, for a long season of allergy. And then with the IL-4, we expect to be able to address a broader range of disease activity beyond just the obvious symptoms. So we're excited about both the near-term compounds as well as the ones that will follow to give us -- really round out a very robust set of offerings here.
+
+--------------------------------------------------------------------------------
+Operator    [9]
+--------------------------------------------------------------------------------
+
+          Your next question comes from Jon Block with Stifel.
+
+--------------------------------------------------------------------------------
+Jonathan David Block,  Stifel, Nicolaus & Company, Incorporated, Research Division - MD & Senior Equity Research Analyst    [10]
+--------------------------------------------------------------------------------
+
+          First, the timing for tirnovetmab, I believe you called out 2023 potential approval. Would that be the case for the long-acting IL-31 antibody as well? And is that half-life technology something that you'll be able to apply to other Elanco monoclonals further down the road? And then just on the follow-up, Todd, Kindred was running OpEx around $50 million roughly on an annual basis. So for 2022, when you say slightly dilutive, is $0.05 to $0.10, maybe closer to $0.10, the right range to be?
+
+--------------------------------------------------------------------------------
+Jeffrey N. Simmons,  Elanco Animal Health Incorporated - President, CEO & Director    [11]
+--------------------------------------------------------------------------------
+
+          Yes. Thanks, Jon. I think what's been reported previously by Kindred is that the long-acting IL-31 would trail the shorter-acting version by about a year. I think as we further investigate that development program, as that's just shaping up, we'll be able to be more clear about exactly what that difference is.
+Relative to the long-acting technology, the engineering work that Kindred has done to demonstrate long-acting action in that molecule, yes, we do believe that has application with other monoclonal antibody constructs. And that's one of the attractions for this, is being able to apply that to other approaches.
+We have internal concepts that might be similar to that. So we look forward to really using the best approach to creating the best profile for medicines like this in the future.
+
+--------------------------------------------------------------------------------
+Todd S. Young,  Elanco Animal Health Incorporated - Executive VP of Corporate Governance and Strategy & CFO    [12]
+--------------------------------------------------------------------------------
+
+          Jon, with respect to the EPS dilution, we'll give more details as we get closer to 2022 when we give guidance on 2022. I would say we expect that we'll synergize some of the costs at Kindred. So it would be less than that $50 million run rate they have been on. We'll have some incremental interest expense. But generally speaking, we're not expecting it to get to $0.10. I would say you're sort of in the -- somewhere in the $0.03 to $0.07 range of dilution in 2022. But I would say that's very preliminary as we work through all the different details of the Kindred business as well as our own business for 2022.
+
+--------------------------------------------------------------------------------
+Operator    [13]
+--------------------------------------------------------------------------------
+
+          Your next question comes from Mike Ryskin with Bank of America.
+
+--------------------------------------------------------------------------------
+Michael Leonidovich Ryskin,  BofA Securities, Research Division - Associate    [14]
+--------------------------------------------------------------------------------
+
+          Congrats on the deal. I want to go back to sort of the dermal landscape and how you think about the various players on that market. As we sort of think through precedents in the animal health market, I think the first one that comes to mind, maybe the parasiticide market with sort of the next-gen products there and how they took share from the older generation and sort of the evolution of NexGard, Bravecto, Simparica, Credelio -- each player taking some incremental share, but also expanding on market.
+Is that an appropriate precedent? I'm just trying to think about you've got a large established market, a dominant player with a few products and then your products coming in. Just to think about share gain versus expansion of the market, if you could talk to any precedents or any thoughts around that.
+
+--------------------------------------------------------------------------------
+Jeffrey N. Simmons,  Elanco Animal Health Incorporated - President, CEO & Director    [15]
+--------------------------------------------------------------------------------
+
+          Yes, Mike, I think you've highlighted it very well. So large market, getting larger unmet needs. So just looking at number of dogs that are coming into this market that as dog owners start to understand there is a solution and we have better means to reach them, I think is important.
+Aaron can build on this, but as you look at any opportunity, it's looking at efficacy, safety profile, convenience to the pet owner and value. And those are the big platforms that we see at any time in animal health, as you mentioned. As we look at each one of those, coming in with the first 2 products that we see coming and then the latter 2, there's opportunity in each one of these areas as we're in this latter stage of development.
+And then we have proof, I think, by even if you look at whether it's Galliprant coming into a pain market or Credelio coming into the flea/tick market. And even in Advantage, what we've already done in the retail market, differentiating in the marketplace on the front lines with the veterinarian or even in the retail line with Advantage being able to show this differentiation. So look at those 4 platforms. If you look at the market dynamics, we see, again, a robust market that's mostly all accretive to Elanco as we go into it with 4 platforms of opportunity and differentiation.
+
+--------------------------------------------------------------------------------
+Michael Leonidovich Ryskin,  BofA Securities, Research Division - Associate    [16]
+--------------------------------------------------------------------------------
+
+          And then on the other components of the pipeline though, the parvovirus and the anti-TNF, noticed you didn't call those out as potential blockbusters. But could you talk through sort of the opportunity there? How you think about the markets? And is that just more of a factor that they're still earlier development or the markets -- we have less information about the market and the opportunity? I'm also sort of curious how you frame future opportunity for some of these nascent products.
+
+--------------------------------------------------------------------------------
+Aaron L. Schacht,  Elanco Animal Health Incorporated - EVP of Innovation, Regulatory & Business Development    [17]
+--------------------------------------------------------------------------------
+
+          Yes. Thanks, Michael. Well, it's important to point out that the parvovirus monoclonal is the most advanced of the products that Kindred has in its pipeline. I think we see this as an important area to address a very significant need. It's very early and hard to tell exactly how that will play out in natural practice.
+And so in many ways, I think Kindred has been conservative and will follow that conservatism. We know this is an important tool for veterinarians, a last resort, so to speak. And we want to support their use of it, but it's really hard to anticipate how the practice change will confer to market dynamics, specifically in that one.
+Relative to the anti-TNF, that is very early. And I think there's not a perfect, let's say, translation from how that target in human disease translates to the target application in dog disease. So I think we're just being good scientists to not overspeculate about exactly how that will play out, running the right pilot experiments, generating the right data and then building a case for how we think about market entry based on that.
+
+--------------------------------------------------------------------------------
+Operator    [18]
+--------------------------------------------------------------------------------
+
+          Your next question comes from Chris Schott with JPMorgan.
+
+--------------------------------------------------------------------------------
+Christopher Thomas Schott,  JPMorgan Chase & Co, Research Division - Senior Analyst    [19]
+--------------------------------------------------------------------------------
+
+          Just 2 for me. I guess, first on the IL-4. Can you just talk about how much development risk you see with this asset? That's a newer mechanism in the animal space. Is this fairly derisked in your view? Or is this the kind of a higher risk, higher return type of opportunity?
+And then my second question was just on -- if you look at these first round of dermatology launches, do you see more opportunity with the JAK inhibitor? Or I guess are you going after a bigger market but one where the competitor is maybe more entrenched versus the IL-31, where it's maybe a smaller market today, but a less penetrated market so there may be more opportunity just to expand the opportunities? So can you just elaborate maybe on those first 2?
+
+--------------------------------------------------------------------------------
+Aaron L. Schacht,  Elanco Animal Health Incorporated - EVP of Innovation, Regulatory & Business Development    [20]
+--------------------------------------------------------------------------------
+
+          Thanks, Chris. So on the IL-4, that's a much earlier program in development and it's also a target that hasn't yet been validated in animal medicine. So for those 2 reasons, it's not going to be seen as advanced as the others. And therefore, we've got a lot of work to do to demonstrate beyond the pilot efficacy data exactly how that plays out and exactly how the molecule gets developed. So see that as a relatively earlier stage, but an important opportunity.
+Of course, we know that target in human medicine has proved to be quite prolific and important. And we'll look for opportunities beyond just even atopic dermatitis where that might apply for other autoimmune or allergic disorders, but early days relative to some of those opportunities.
+I think, Jeff, maybe you want to speak about the question on entry into the market and what you expect the dynamics to do.
+
+--------------------------------------------------------------------------------
+Jeffrey N. Simmons,  Elanco Animal Health Incorporated - President, CEO & Director    [21]
+--------------------------------------------------------------------------------
+
+          Yes. So I think on both sides of this, as you look at this, first of all, all the dynamics I've just shared relative to the market size, to the globalization, to the growth of this, I think as we can learn from the last, there's no question there's some dynamics between the JAK market and the monoclonal antibody market. And I think that will continue to come over time as veterinarians are looking at wellness programs, quarterly treatments or multi-month treatments, longer duration. And so we do believe that bodes well for the monoclonal antibodies, but we'll study that. And again, we want to have the most robust dermatology portfolio if possible going into this next era. I think that's important.
+I also want to say that it's going to be met with competitive pressures. That will come not knowing what all the other pipelines are. So there will be a balance here, but we believe we will be well positioned in a much greater way given this transaction. But it will be a competitive market as we see going into the next era.
+
+--------------------------------------------------------------------------------
+Operator    [22]
+--------------------------------------------------------------------------------
+
+          Your next question comes from Umer Raffat with Evercore ISI.
+
+--------------------------------------------------------------------------------
+Umer Raffat,  Evercore ISI Institutional Equities, Research Division - Senior MD & Senior Analyst of Equity Research    [23]
+--------------------------------------------------------------------------------
+
+          I have a few quick ones, if I may. One, what's the competitive landscape on IL-31 beyond Zoetis? And I'm asking because I would have thought that IL-31 opportunity is more than just $100 million, judging by Zoetis' numbers, but I'd be curious.
+Second, you had mentioned previously that you have an antibody or two for atopic derm. I'm curious what those targets are. And are they still moving forward? Because I'm just trying to lay that into context with your interest in IL-31 and IL-4 receptor.
+And Aaron, can you perhaps speak to the specific mutations on the Fc domain, which are driving this canine-specific half-life extension, and whether that limits this antibody construct into possible use in cat settings?
+
+--------------------------------------------------------------------------------
+Jeffrey N. Simmons,  Elanco Animal Health Incorporated - President, CEO & Director    [24]
+--------------------------------------------------------------------------------
+
+          Yes. Thanks, Umer. Those are 3 really good questions. Relative to competitive landscape in IL-31, as you know, our industry does not publish information on pipelines, typically, unless you're a smaller company where it's material. Obviously, you know Kindred has one because they were -- in essence, it was material for them to disclose.
+What we see is a range of patent activity over time attributed to industry players. What we also see is smaller players focused on technology, antibody engineering-type platforms, venture-funded players emerging with IL-31 as an important target in what they represent to the industry as partnering opportunities.
+Beyond that, it's hard to speculate about who might have what other than how I just described that. You asked the question about targets in our pipeline. There are a number of interesting tractable biological targets for monoclonal antibody therapy. I would simply say that with the Kindred acquisition, Elanco has a broad range of opportunities across these targets. And we think having multiple shots on goal is a really good strategy. Can you repeat your third question?
+
+--------------------------------------------------------------------------------
+Umer Raffat,  Evercore ISI Institutional Equities, Research Division - Senior MD & Senior Analyst of Equity Research    [25]
+--------------------------------------------------------------------------------
+
+          I was just trying to understand the half-life extension technology, what mutations? And could you not use this in cats anymore if you've done these canine-specific mutations?
+
+--------------------------------------------------------------------------------
+Jeffrey N. Simmons,  Elanco Animal Health Incorporated - President, CEO & Director    [26]
+--------------------------------------------------------------------------------
+
+          Yes. So I think what I would say about the half-life mutations, there's patents filing and pending. So we're going to be sort of discreet about that, disclosing details, specific details you're asking for, except to say that we think that the approach is repeatable and applicable across antibody constructs that would be relevant in dogs or cats.
+
+--------------------------------------------------------------------------------
+Todd S. Young,  Elanco Animal Health Incorporated - Executive VP of Corporate Governance and Strategy & CFO    [27]
+--------------------------------------------------------------------------------
+
+          And then Umer, just to address your $100 million question. As a reminder, the $500 million to $600 million in revenue that we called out from innovation at Investor Day in December, plus this $100 million are probabilized. So we've factored in peak sales, sales during these years based on getting these over the finish line. So we've got, I think, 45 targets with an expectation that we'd have 25 products getting to the finish line and driving revenue during this period. So again, we don't -- we're not limiting the size of this opportunity to the $100 million there, but rather it's a probabilized number based off a number of different factors.
+
+--------------------------------------------------------------------------------
+Jeffrey N. Simmons,  Elanco Animal Health Incorporated - President, CEO & Director    [28]
+--------------------------------------------------------------------------------
+
+          Staying within the time frame of 2025, again, we see a higher ceiling as we go longer out longer term. So just trying to stay very disciplined within the same time frame we talked about at the investor conference.
+
+--------------------------------------------------------------------------------
+Operator    [29]
+--------------------------------------------------------------------------------
+
+          Your next question comes from Balaji Prasad with Barclays.
+
+--------------------------------------------------------------------------------
+Balaji V. Prasad,  Barclays Bank PLC, Research Division - Director    [30]
+--------------------------------------------------------------------------------
+
+          Jeff, Richard and team, congratulations. A couple of questions for you, Jeff, and one for Richard. So it's been more than a year since Kindred embarked in a strategic revamp and focused and advanced a few pipelines and sit back a few. So I just want to focus on also that part of the pipeline, KIND-014 and 015. And do you see yourselves revisiting some of these pipeline programs, which were set back?
+And secondly, Jeff, can you walk us through your thoughts on the new product contribution? You have raised around $100 million by 2025, both on the higher and at the lower end of the range. Considering that there are 4 potential blockbusters, how conservative is this?
+Lastly, for Richard, thoughts on you taking on many capacity with this to oversee the business that you have created now for the past 7, 8 years.
+
+--------------------------------------------------------------------------------
+Aaron L. Schacht,  Elanco Animal Health Incorporated - EVP of Innovation, Regulatory & Business Development    [31]
+--------------------------------------------------------------------------------
+
+          Thanks, Balaji. Hey, this is Aaron Schacht. Richard did not join us on the call, but I'll do my best to at least address the first question to him. The third one to him, I don't think we'll address. But the first question you asked to him is what about previous projects in Kindred's pipeline that maybe have experienced a setback or a deprioritization event, what does that mean for their potential future?
+Look, I think we've got enough experience in R&D that we've seen projects sort of hit the data set that maybe need some additional work to understand it, maybe some redevelopment work early on.
+I would say that anything that Kindred has progressed that still remains promising from a concept has the opportunity to get attention further in the future when the right resources and the right capacities exist to focus on them. But Kindred has done, I think, a fine job of narrowing their focus to the most promising opportunities, and that's entirely consistent with how we think about managing a pipeline at Elanco.
+
+--------------------------------------------------------------------------------
+Todd S. Young,  Elanco Animal Health Incorporated - Executive VP of Corporate Governance and Strategy & CFO    [32]
+--------------------------------------------------------------------------------
+
+          And then Balaji, with respect to conservatism or lack of conservatism in the number that we tried to give our best view of our R&D pipeline and the probabilized success and what those products would do relative to launch time lines. And this is why we've increased it by this $100 million, given all these great new products that we're putting into our pipeline for development. Jeff mentioned on the last question, we do think there's a lot of upside here when we get these over to the finish line. But during this time period, we're putting in this $100 million of probabilized revenue.
+
+--------------------------------------------------------------------------------
+Operator    [33]
+--------------------------------------------------------------------------------
+
+          Your next question comes from David Westenberg.
+
+--------------------------------------------------------------------------------
+David Michael Westenberg,  Guggenheim Securities, LLC, Research Division - Analyst    [34]
+--------------------------------------------------------------------------------
+
+          Congrats on the acquisition. So for my first question, can you talk about timing? I mean -- and why make the acquisition versus just maybe strategic partnerships? I mean, Kindred has been for at least the last year really looking to partner almost all of its assets as it got rid of its sales force. So is there anything maybe in the pipeline or anything that you came up that you said, "You know what, this is really exciting. We got to just buy the whole company rather than partner."
+And in a related question, was this a competitive process? Is there a go-shop period breakup fee? Can you stop anyone else from going over the top here?
+
+--------------------------------------------------------------------------------
+Jeffrey N. Simmons,  Elanco Animal Health Incorporated - President, CEO & Director    [35]
+--------------------------------------------------------------------------------
+
+          Thanks, David. Yes, we were approached by KindredBio on this in a process, and we can't articulate any maybe of the details at this point in time relative to the deal construct. But again, a long history.
+I would highlight what Aaron highlighted with Richard and his team. We admire what they do. They were the first-ever pet monoclonal antibody biologics company that focused on pet therapy, and they've done a great job in building a robust pipeline. We looked at it holistically. We looked at all the products and looked at the total value combined with, of course, our parvovirus relationship we already had.
+
+--------------------------------------------------------------------------------
+Operator    [36]
+--------------------------------------------------------------------------------
+
+          Your next question comes from Navann Ty with Citi.
+
+--------------------------------------------------------------------------------
+Navann Ty,  Citigroup Inc., Research Division - Director    [37]
+--------------------------------------------------------------------------------
+
+          If you could just comment on the -- on your acquisition and business development strategy going forward. And just a quick question about the funding, whether it will be entirely debt-funded? And what kind of debt instrument?
+
+--------------------------------------------------------------------------------
+Jeffrey N. Simmons,  Elanco Animal Health Incorporated - President, CEO & Director    [38]
+--------------------------------------------------------------------------------
+
+          I'll start and maybe toss to Todd. Our focus is to execute on our core plans that we highlighted in December to deliver against our algorithm and our IPP strategy. Very clear focus there, and that's where our focus always has been, with of course debt paydown and delevering as something that's very important, and I'll let Todd speak to that.
+And we've always said that we will continue to augment Aaron's pipeline as innovation is a key driver to our growth in that algorithm and be -- and look always at external opportunities when it comes to the innovation side. But again, the priority is execute on our internal plans and delevering, and they will continue to be.
+
+--------------------------------------------------------------------------------
+Todd S. Young,  Elanco Animal Health Incorporated - Executive VP of Corporate Governance and Strategy & CFO    [39]
+--------------------------------------------------------------------------------
+
+          And Navann, with respect to the funding, we're planning to do likely term loan B like we did with the Bayer financing or term loan A from our banking partners. We're looking at low cost of funding on this as well as the ability to prepay the debt as we continue to generate robust cash flow over the next couple of years.
+
+--------------------------------------------------------------------------------
+Operator    [40]
+--------------------------------------------------------------------------------
+
+          Your next question comes from John Kreger with William Blair.
+
+--------------------------------------------------------------------------------
+John Charles Kreger,  William Blair & Company L.L.C., Research Division - Partner & Co-Group Head of Healthcare Technology and Services    [41]
+--------------------------------------------------------------------------------
+
+          Can you talk about the manufacturing assets that you might be getting with Kindred? And would the plan be to leave that alone or make any changes?
+
+--------------------------------------------------------------------------------
+Jeffrey N. Simmons,  Elanco Animal Health Incorporated - President, CEO & Director    [42]
+--------------------------------------------------------------------------------
+
+          Sure, John. We're digging in on the manufacturing side. We're certainly pleased with their ability to do the monoclonal antibodies at their plant in Kansas as well as the interest in the Burlingame facility. Like we always do on deals, we evaluate the full manufacturing footprint and figure out what's the best way for us to move that going forward. And that's where we are at this point is continuing to evaluate that.
+
+--------------------------------------------------------------------------------
+John Charles Kreger,  William Blair & Company L.L.C., Research Division - Partner & Co-Group Head of Healthcare Technology and Services    [43]
+--------------------------------------------------------------------------------
+
+          Great. And then, Aaron, maybe just give us a little bit more on the IP profile of the products that you've highlighted. How long will these have patent protection?
+
+--------------------------------------------------------------------------------
+Aaron L. Schacht,  Elanco Animal Health Incorporated - EVP of Innovation, Regulatory & Business Development    [44]
+--------------------------------------------------------------------------------
+
+          Yes. As you can imagine, that was an important diligence item for us. I think these are well-handled IP situations around all of these molecules. And they have patent protection in most cases beyond the next decade.
+
+--------------------------------------------------------------------------------
+Operator    [45]
+--------------------------------------------------------------------------------
+
+          Your next question comes from Navin Jacob with UBS.
+
+--------------------------------------------------------------------------------
+Navin Cyriac Jacob,  UBS Investment Bank, Research Division - Equity Research Analyst of Specialty Pharmaceuticals and Large Cap Pharmaceutic    [46]
+--------------------------------------------------------------------------------
+
+          Congrats on the deal. A couple, if I may, just on the IBD market for dogs. I'm not as familiar with that. So just appreciate some color there. Specifically, how are -- how is that diagnosed in dogs?
+And then secondly, are there any TNFs currently approved in dogs? What's the current treatment algorithm there? And then just a question on pricing. Do you anticipate you'll be able to take a price premium if the long-acting and IL-4 come to the market, a premium relative to the existing products on the market?
+And then finally on pricing as well, do you see -- how much room do you see for price increases over the next 5 to 7 years in the pet market? Is it low single digits on an annual basis, high single digits? Any kind of color would be much appreciated.
+
+--------------------------------------------------------------------------------
+Aaron L. Schacht,  Elanco Animal Health Incorporated - EVP of Innovation, Regulatory & Business Development    [47]
+--------------------------------------------------------------------------------
+
+          Great. Navin, thanks. I'll talk a little bit about TNF alpha and IBD. First of all, relative to the disease condition, there's not a really good, I would say, go-to treatment in that space. There's a range of intervention to the veterinarian's pursuit to try to disrupt what they see as a symptom pattern typically. And so as such, it's not a well-defined disease because there's not well-defined treatments in that sense.
+And there are also different forms of GI upset that may or may not be classified as IBD and may or may not relate to the underlying pathobiology. So a lot to learn there. It's not nearly as mature as it is on the human side.
+So there are no anti-TNF antibody products approved for treatment in dogs. And so this would be a pioneering product, but it's also an interesting mechanism that may have other applications as well. And one of the opportunities or challenges, depending on which way you look at it, for a molecule like this is really that development program that best exemplifies what the merits of the molecule will be, and that's something that is ahead of us.
+So I think that covers that. And then Jeff will talk about pricing.
+
+--------------------------------------------------------------------------------
+Jeffrey N. Simmons,  Elanco Animal Health Incorporated - President, CEO & Director    [48]
+--------------------------------------------------------------------------------
+
+          And then I'll begin on pricing. We will take, as always, a value-based approach and the market will continue to grow and evolve between now and the time we launch these products. No question, what drives value is the level of differentiation and the level of convenience and minimizing any side effects. I mean, that's how it typically goes.
+And I think today's transaction is a good day for veterinarians and pet owners, more options, more prevalence, more awareness that we'll create in the marketplace, creating more convenience and better solutions for pet owners globally. And so I think veterinarians will be able to add another level of value with what we can bring to the marketplace.
+As you look at the long-term question on pricing, especially in pets, we haven't differentiated between pets and farm animal, but you typically are getting more price increases with definitely new products, blockbusters and pets, and that's what this deal is about. But we're seeing still that 2% price so far as we go out into some of our projections going forward.
+
+--------------------------------------------------------------------------------
+Operator    [49]
+--------------------------------------------------------------------------------
+
+          And your last question comes from Elliot Wilbur with Raymond James.
+
+--------------------------------------------------------------------------------
+Elliot Henry Wilbur,  Raymond James & Associates, Inc., Research Division - Senior Research Analyst    [50]
+--------------------------------------------------------------------------------
+
+          Just want to ask a question around revenue expectations for the acquired assets. You provided a lot of detail with respect to how they would impact your 2025 numbers, but that's relatively early in the launch trajectory of the portfolio. So I'm wondering if you could provide any commentary in terms of how the acquired [mAbs] impact your prior expectations for peak sales from these products versus your internal assets?
+And then as a follow-up to that for -- I guess, around the allocation of purchase price and some of the initial work being done there. Just curious how important the IL-31 tirnovetmab is in terms of the overall allocation of a purchase price based on some of the preliminary work there?
+
+--------------------------------------------------------------------------------
+Todd S. Young,  Elanco Animal Health Incorporated - Executive VP of Corporate Governance and Strategy & CFO    [51]
+--------------------------------------------------------------------------------
+
+          Sure, Elliot. Thanks for the question. As we think about revenue, we're calling out that we believe all 3 of these key atopic dermatitis products can be blockbusters. And so that's in excess of $100 million, which means a significant move across growth in animal health portfolio for us. As we have Atopica, which is a great product in atopic dermatitis, but it's not the one that gets as used as heavily as the JAK in the monoclonal competition. So we're excited on these. And again, I think all 3 have blockbuster potential over time.
+With respect to the purchase price, certainly, the IL-31 short-acting is the nearest one to market. And when we're doing probabilized expectations, that's what drives a lot of the NPV and IRR of the deal. That being said, there's lots of ways for this to be a very good deal financially for us as we work through the portfolio. So again, overall, excited to get these in our portfolio and then get them to the market for pet owners.
+
+--------------------------------------------------------------------------------
+Jeffrey N. Simmons,  Elanco Animal Health Incorporated - President, CEO & Director    [52]
+--------------------------------------------------------------------------------
+
+          And I would close today by saying thank you for joining us on short notice. I want to emphasize that this is consistent with our Investor Day conference, consistent with our expanding and strengthening our IPP strategy, building a global fit-for-purpose independent animal health company. Today is a good day for pet owners and veterinarians around the world and the #1 reason they go to a vet clinic, atopic dermatitis. And for Elanco, it's more pets, more blockbuster potential, more innovation with differentiated assets.
+And again, I want to reach out also and thank the Kindred team for collaborating with them as they go forward, Richard and his leadership and our admiration for all of them. Thank you, everybody.
+
+--------------------------------------------------------------------------------
+Operator    [53]
+--------------------------------------------------------------------------------
+
+          Thank you. And that concludes today's conference. Thank you all for joining. You may now disconnect.
+
+
+
+
+
+
+
+--------------------------------------------------------------------------------
+Definitions
+--------------------------------------------------------------------------------
+PRELIMINARY TRANSCRIPT: "Preliminary Transcript" indicates that the 
+Transcript has been published in near real-time by an experienced 
+professional transcriber.  While the Preliminary Transcript is highly 
+accurate, it has not been edited to ensure the entire transcription 
+represents a verbatim report of the call.
+
+EDITED TRANSCRIPT: "Edited Transcript" indicates that a team of professional 
+editors have listened to the event a second time to confirm that the 
+content of the call has been transcribed accurately and in full.
+
+--------------------------------------------------------------------------------
+Disclaimer
+--------------------------------------------------------------------------------
+Refinitiv reserves the right to make changes to documents, content, or other 
+information on this web site without obligation to notify any person of 
+such changes.
+
+In the conference calls upon which Event Transcripts are based, companies 
+may make projections or other forward-looking statements regarding a variety 
+of items. Such forward-looking statements are based upon current 
+expectations and involve risks and uncertainties. Actual results may differ 
+materially from those stated in any forward-looking statement based on a 
+number of important factors and risks, which are more specifically 
+identified in the companies' most recent SEC filings. Although the companies 
+may indicate and believe that the assumptions underlying the forward-looking 
+statements are reasonable, any of the assumptions could prove inaccurate or 
+incorrect and, therefore, there can be no assurance that the results 
+contemplated in the forward-looking statements will be realized.
+
+THE INFORMATION CONTAINED IN EVENT TRANSCRIPTS IS A TEXTUAL REPRESENTATION
+OF THE APPLICABLE COMPANY'S CONFERENCE CALL AND WHILE EFFORTS ARE MADE TO
+PROVIDE AN ACCURATE TRANSCRIPTION, THERE MAY BE MATERIAL ERRORS, OMISSIONS,
+OR INACCURACIES IN THE REPORTING OF THE SUBSTANCE OF THE CONFERENCE CALLS.
+IN NO WAY DOES REFINITIV OR THE APPLICABLE COMPANY ASSUME ANY RESPONSIBILITY FOR ANY INVESTMENT OR OTHER
+DECISIONS MADE BASED UPON THE INFORMATION PROVIDED ON THIS WEB SITE OR IN
+ANY EVENT TRANSCRIPT. USERS ARE ADVISED TO REVIEW THE APPLICABLE COMPANY'S
+CONFERENCE CALL ITSELF AND THE APPLICABLE COMPANY'S SEC FILINGS BEFORE
+MAKING ANY INVESTMENT OR OTHER DECISIONS.
+--------------------------------------------------------------------------------
+Copyright 2021 Refinitiv. All Rights Reserved.
+--------------------------------------------------------------------------------

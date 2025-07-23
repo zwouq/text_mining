@@ -1,0 +1,146 @@
+
+
+Refinitiv StreetEvents Event Transcript
+E D I T E D   V E R S I O N
+
+Neoleukin Therapeutics Inc Definitive Merger Agreement Conference Call
+JULY 18, 2023 / 12:30PM GMT
+
+================================================================================
+Corporate Participants
+================================================================================
+
+ * Donna M. Cochener-Metcalfe
+   Neoleukin Therapeutics, Inc. - General Counsel, Interim CEO & Corporate Secretary
+ * Rachel L. McMinn
+   Neurogene Inc. - Founder, CEO & Director
+ * Sean Michael Smith
+   Neoleukin Therapeutics, Inc. - Interim CFO
+
+================================================================================
+Presentation
+--------------------------------------------------------------------------------
+Operator    [1]
+--------------------------------------------------------------------------------
+Good day, and thank you for standing by. Welcome to the Neoleukin update call. (Operator Instructions) I would now like to hand the conference over to your speaker today, Sean Smith, Interim Chief Financial Officer for Neoleukin. You may begin.
+
+--------------------------------------------------------------------------------
+Sean Michael Smith,  Neoleukin Therapeutics, Inc. - Interim CFO    [2]
+--------------------------------------------------------------------------------
+Thank you. Good morning, everyone. Joining me on today's call are Donna Cochener, Interim Chief Executive Officer and General Counsel of Neoleukin and Dr. Rachel McMinn, Founder and Chief Executive Officer of Neurogene.
+Earlier today, Neurogene and Neoleukin issued a joint press release announcing the signing of a definitive merger agreement. A copy of this press release is available on the companies' respective websites at neurogene.com and neoleukin.com.
+Before I turn the call over to Donna, I would like to remind everyone that this discussion and the accompanying presentation will contain forward-looking statements based upon the current expectations of Neoleukin and Neurogene, which include, but are not limited to, statements regarding the expected timing, completion, effects and potential benefits of the transaction and our future expectations and plans and prospects for the combined company. Such statements represent management's judgment and intention as of today and involve assumptions, risks and uncertainties. Neoleukin and Neurogene undertake no obligation to update or revise any forward-looking statements, except as required by law.
+Slide 2 provides an overview of these forward-looking statements and the risks and uncertainties that could cause actual outcomes and results to differ materially from those contemplated in these forward-looking statements. Please refer to this slide for more details on these forward-looking statements and other important information.
+Further, Neoleukin intends to file a registration statement and accompanying proxy statement and prospectus with the SEC relating to the proposed merger. Please be advised to read, when available, the proxy statement and prospectus and other relevant documents filed with the SEC as these will contain important information about Neoleukin, Neurogene and the transaction. Once available, these documents can be obtained free of charge from the SEC at sec.gov or on Neoleukin's website.
+I'll now turn the call over to Donna Cochener, Interim Chief Executive Officer and General Counsel of Neoleukin.
+
+--------------------------------------------------------------------------------
+Donna M. Cochener-Metcalfe,  Neoleukin Therapeutics, Inc. - General Counsel, Interim CEO & Corporate Secretary    [3]
+--------------------------------------------------------------------------------
+Thank you, Sean, and thank you to everyone joining us on today's call. This morning, we announced the proposed merger of Neoleukin Therapeutics and Neurogene, a private company developing differentiated genetic medicines for the treatment of rare neurological diseases. Contingent on completion of customary closing conditions, including the approval of the proposed transaction by Neurogene and Neoleukin's respective stockholders, the combined company will focus on advancing Neurogene's differentiated genetic medicines pipeline, which includes the potential best-in-class product for Rett syndrome.
+Neurogene is at an exciting juncture in its growth, which we will discuss in greater detail shortly. Today's announcement is a culmination of what was a thoughtful, comprehensive review of strategic alternatives for our business. With multiple potential catalysts on the horizon and a cash runway of the combined company expected into the second half of 2026 which includes multiple anticipated data readouts from their Rett syndrome program, we are confident in Neurogene's management team to drive significant long-term value for stockholders.
+Let's now review the key details of the proposed all-stock transaction. Upon close, the combined company is expected to have a cash balance of approximately $200 million, inclusive of the $95 million in proceeds expected from Neurogene's over-subscribed concurrent private financing announced in conjunction with the proposed merger with participation from new and existing health care dedicated specialists and mutual fund institutional investors. Resources are expected to fund operations into the second half of 2026.
+Upon close, the combined company is expected to be renamed Neurogene Inc., trading on the NASDAQ Capital Market under the ticker NGNE. Expected ownership upon closing will be approximately 84% for premerger Neurogene's stockholders, including those purchasing Neurogene shares and the concurrent private financing. Premerger Neoleukin stockholders are expected to own approximately 16% subject to adjustment based on Neoleukin's net cash at closing, as further described in the merger agreement.
+As part of the transaction, premerger Neoleukin stockholders, holders of prefunded warrants for Neoleukin stock and holders of certain options to purchase Neoleukin stock will be issued one contingent value right or CVR per share of Neoleukin stock held by such stockholder or underlying such warrants or options held by such warrant holder or option holder immediately prior to closing. These CVRs will represent the right to receive savings, if any, realized by the reduction of our existing lease obligations, the right to receive proceeds, if any, arising from the potential sale of our legacy assets and the right to receive certain net proceeds, if any, from an anticipated sales tax refund from the state of Washington.
+The existing Neurogene management team will lead the combined company. The combined company's new Board of Directors will include a total of 7 members, including 5 board members selected by Neurogene and 2 members selected by Neoleukin. We would like to extend our thanks to the Neoleukin and Neurogene Board members for their dedication and support, having unanimously approved the transaction. Subject to stockholder approval and customary closing conditions, we expect the transaction to close in the fourth quarter of 2023.
+With that, I'll now turn the call over to Dr. Rachel McMinn, Founder and Chief Executive Officer of Neurogene, to tell us more about the company.
+
+--------------------------------------------------------------------------------
+Rachel L. McMinn,  Neurogene Inc. - Founder, CEO & Director    [4]
+--------------------------------------------------------------------------------
+Thank you, Donna, and thank you to everyone joining us this morning. We believe this transaction and our concurrent private financing represent transformative steps forward in our mission, ultimately strengthening our ability to advance our differentiated pipeline of potentially life-changing genetic medicines for devastating neurological diseases.
+What differentiates Neurogene from other clinical-stage gene therapy companies is our novel, proprietary transgene regulation technology platform called EXACT. EXACT represents a meaningful technological advance for the gene therapy field, allowing us to develop therapeutic product candidates for complex neurological diseases which are not addressable with conventional gene therapy.
+Importantly, our EXACT pipeline is focused on attractive market opportunities, with our lead program in Rett syndrome and other similarly attractive indications to follow. Beyond the novel science, we also have internal manufacturing, which affords us multiple strategic advantages. Finally, we believe our anticipated cash runway into the back half of 2026 enables us to execute beyond our anticipated clinical inflection points.
+NGN-401 for Rett syndrome is a key value driver with preliminary data expected in the fourth quarter of 2024 and additional data in the second half of 2025. We are also advancing a discovery-stage candidate using our novel technology that will expand our pipeline into additional areas of high unmet need that are also commercially attractive. We expect to initiate a clinical study of our lead candidate in 2025 and look forward to providing additional updates on our plans in the future. Finally, we expect to have preliminary data for our second clinical stage candidate for a rare form of Batten disease in the second half of 2024.
+Gene therapy as a modality has proven to be a very powerful tool to treat devastating disorders. However, there are many complex genetic diseases that are not currently treatable with conventional gene therapy because of the highly variable gene expression associated with AAV administration and, in many cases, because the transgene itself is toxic when overexpressed.
+Our novel and proprietary EXACT platform is designed to deliver highly controlled consistent levels of transgene expression as well as optimized transgene expression to desired levels through modular elements. This technology is compatible with any transgene construct that can be packaged into an AAV vector or with a nonviral delivery mechanism. Through optimizing transgene expression, we anticipate that we will be able to largely avoid transgene-related toxicity and thereby meaningfully widen the therapeutic window for diseases where conventional gene therapy cannot be used.
+Additionally, inefficient gene delivery has been and remains a key limitation of gene therapy, particularly in neurological disorders. In order to learn from past failures in the sector and advance the field, we have conducted extensive testing comparing various routes of administration and selected intracerebroventricular or ICV delivery to maximize distribution of AAV into key areas of the brain.
+In addition to our differentiated pipeline, what also sets Neurogene apart is our fully operational GMP manufacturing facility in Houston, which enables us to continue to own product quality and development time lines, being nimble with our pipeline and importantly provide us with continuity in our process from preclinical to clinical to commercial manufacturing in the future.
+Importantly, with a seamless transition from preclinical to clinical, starting with our Rett syndrome program, we are well positioned to avoid future product comparability challenges others have faced. Moreover, we have developed 2 independent robust and scalable processes using either mammalian or insect cells which provides us with increased flexibility on a program-by-program basis.
+Internal manufacturing also has 2 significant financial advantages. One, it provides us with maximum flexibility to manufacture product at a low cost. And two, it allows us to tightly direct our CMC investments to support pipeline advancement driven by our business needs. Finally, I'm excited to share that NGN-401 has been successfully manufactured at our Houston facility, and clinical-grade product is available for dosing in our open Phase I/II trial for female children with Rett syndrome.
+I look forward to introducing the Neurogene team in the coming months, but I would like to take a moment to highlight 2 team members. Christine Mikail serves as our President and CFO. And beyond a traditional CFO role, she plays a large role in running Neurogene with me and is responsible for corporate strategy, portfolio management, finance and operations. She brings over 2 decades of experience in the biotechnology and pharmaceutical industry with wide-ranging responsibilities and has also led transformational business development and financing transactions for large, midsize and small companies.
+Dr. Stuart Cobb has a dual appointment as our Chief Scientific Officer and at the University of Edinburgh, where he is a professor in translational neuroscience at the Patrick Wild Center & Center for Discovery Brain Sciences. Dr. Cobb brings more than 20 years of experience in translational neuroscience, and his lab is considered one of the top laboratories in the world focused on Rett syndrome. He is responsible for leading our scientific research as well as the development of our scientific strategy in support of both our existing and growing gene therapy portfolio.
+I also want to mention that we are thankful for the strong backing from leading health care investors, many of whom have been supporting Neurogene's development since our early rounds of financing.
+I would now like to spend some time discussing our 2 lead clinical programs starting with NGN-401, our investigational AAV gene therapy for the treatment of Rett syndrome. Rett syndrome is an X-linked neurodevelopmental disorder caused by a pathogenic mutation in the MECP2 gene that leads to deficiency of the MECP2 protein. MECP2 is a critical protein responsible for normal function in the brain and other parts of the nervous system.
+Rett syndrome has an estimated worldwide incidents of 1 in 10,000 to 1 in 15,000 live female births, making it one of the most common genetic causes of developmental and intellectual impairment in female. In the U.S., the prevalence is estimated to be 6,000 to 9,000 patients. Although there are treatments available for Rett syndrome, a significant unmet need still exists for new treatment options.
+Rett syndrome in females is marked by several cardinal clinical features, including an inability to communicate verbally or with their hands, significantly impaired fine and gross motor function, significant autonomic dysfunction and a range of other disease manifestations. As we will discuss in our clinical trial design, we are focused on the 4- to 10-year-old age range as this is a relative period of stability compared with both younger and older girls. Females with Rett syndrome can survive into their 40s to 50s but die prematurely typically due to respiratory infection or sudden death.
+Gene therapy seems like the obvious modality of choice to develop a potential treatment for Rett syndrome. It is worth noting that Rett syndrome as modeled in mice has been shown to be inducible and reversible, demonstrating that the MECP2 gene is critical throughout life span and offering the prospect of disease reversibility in humans. However, treatment for Rett syndrome with gene replacement is not that straightforward because we know that too little MECP2 causes Rett syndrome but too much MECP2 causes a similarly devastating disease called MECP2 duplication syndrome. So there is a narrow therapeutic window for gene therapy in Rett Syndrome.
+The goal in developing a gene replacement therapy for Rett syndrome is to supply enough MECP2 to the deficient cells without causing toxicity to the healthy cells. This translates to requiring very tight control over the level of MECP2 expression on a cell-by-cell basis. Therefore, the goal for NGN-401 is to deliver therapeutic levels of MECP2 to deficient cells while maintaining a nontoxic level of MECP2 in unaffected cells. Our EXACT technology offers us the prospect of doing just that.
+We think about EXACT as a genetic thermostat designed to control transgene levels to a targeted range. Importantly, as our preclinical data shows, the embedded regulatory elements provide the secret sauce for enabling development of a treatment for Rett syndrome and other complex disorders. Most of you will be familiar with the transgene and promoter regulatory elements shown. What is novel in EXACT is the nonmammalian microRNA shown in orange and its complementary recognition site shown in green. Together, this product design is purposely built to avoid off-target gene regulation.
+Let me now walk through how the regulation works. Every time the transgene is transcribed, the microRNA is cotranscribed. Because of the perfect match to the recognition sites, the microRNA bound transcripts are destroyed. Any transcripts escaping microRNA binding can then go on to be translated into transgene-derived protein. Importantly, the more transgene that is expressed in a given cell, the more microRNA is also produced which leads to greater destruction of transcripts. What results is a genetic thermostat, which turns down the transgene expression thereby avoiding the significant toxicity associated with conventional gene therapy.
+Let me now explain how NGN-401 is expected to work specifically in Rett syndrome. As you can see on the slide from the left-hand panel, AAV produces variable levels of transduction across cells. Despite this variability, EXACT effectively normalizes the levels of MECP2 protein. The right-hand panel illustrates the goal of EXACT, to deliver levels of functional MECP2 that when expressed on top of endogenous levels can be well tolerated while at the same time delivering a therapeutically relevant level of MECP2 to deficient cells to allow for efficacy. This is a problem that we believe our EXACT technology solves and offers the possibility of making gene replacement a viable modality to treat complex disorders like Rett syndrome.
+I would now like to walk through some of our compelling preclinical findings. The NGN-401 construct is shown schematically here, packaged in an AAV9 capsid and containing the EXACT technology I walked through on a prior slide. We employed a onetime ICV delivery of NGN-401 in multiple preclinical models. Starting with the male knockout model, it is the gold standard for demonstrating efficacy because it has a robust phenotype that overlaps with Rett syndrome.
+Complete lack of MECP2 leads to a rapid death in these mice with median survival of 9 weeks in untreated animals with some meeting the humane endpoint or found dead as early as 4 to 5 weeks. The efficacy profile for NGN-401 in this mouse model was robust, demonstrating a dose-dependent improvement in survival with concomitant improvements in Rett syndrome-like phenotypes compared to untreated control animals.
+Next, to test tolerability, we evaluated the same doses of NGN-401 that demonstrated efficacy in a female mouse model. These mice are genotypically comparable to Rett syndrome female patients and therefore a good model to demonstrate tolerability in which 50% of cells have normal levels of MECP2 expression.
+As you can see from the slide, NGN-401 shown in green was well tolerated with no negative effects on survival. However, when we conducted a similar experiment using unregulated conventional gene therapy, as depicted in purple, these mice experience immediate toxicity and were dead or reached the humane endpoint within 2 to 3 weeks. These steps were not surprising and associated with significant overexpression of MECP2, illustrating how the exact technology is able to control MECP2 expression to a tolerable level.
+Earlier this year, the U.S. FDA cleared the IND application for our planned Phase I/II trial and notably is allowing us to dose pediatric Rett syndrome female patients for our first in-human study. Traditionally, the FDA requires sponsors to demonstrate safety in adults prior to advancing into children. In order to overcome the high regulatory bar, we successfully demonstrated to the FDA that we had a strong scientific rationale, a positive benefit-risk framework and preclinical evidence that support a prospect of direct benefit in children with Rett syndrome.
+Key pillars of that preclinical evidence are: one, NGN-401 delivers controlled MECP2 levels as is evidenced by the strong efficacy and safety profile; two, there is a strong translational foundation as our data show robust MECP2 expression in key areas of the brain underlying Rett pathology; three, we are maximizing the therapeutic potential of our product by delivering the highly conserved full-length MECP2 gene; and four, we have a comprehensive safety package with no evidence of transgene toxicity or any off-target effects. There is more detailed preclinical data included in the appendix for those of you interested in learning more.
+The Phase I/II trial is an open-label, single-arm, multicenter clinical trial that is designed to assess the safety, tolerability and efficacy of a single dose of NGN-401 delivered using a onetime ICV procedure in female pediatric patients with Rett syndrome. The first cohort is expected to enroll a total of 5 girls with a confirmed genetic diagnosis of classic Rett syndrome ages 4 to 10 years with dosing commencing in the back half of 2023. The starting clinical dose is bracketed by the 2 efficacious mouse doses shown earlier in the mouse model and, as a result, would expect it to be efficacious.
+In addition, we are making plans to just escalate and expand the study given the safety margin of greater than 4x from our GLP toxicology study. Key assessments will be taken at 3, 6 and 12 months with efficacy assessments of interest, including autonomic function, hand function, communication and gross motor function. We expect to report preliminary data from this study from patients dosed in our first cohort in the fourth quarter of 2024, with additional data from a greater number of patients in the back half of 2025.
+It is worth noting that the FDA generally requires in a gene therapy study, a stagger in between patient dosing, along with the adjudication of safety by an independent Data Safety Monitoring Board or DSMB before we can proceed to the next patient dosing. This stagger applies to all of the patients in the first cohort. Therefore, we would expect that the 2025 data set will also have more extensive follow-up on these first few patients as well as an expanded data set from additional patients.
+I will now turn to NGN-101, which we are currently developing for CLN5 Batten disease. Batten disease is a family of rare neurodegenerative diseases caused by pathogenic changes in one of the series of genes that results in the accumulation of toxic deposits across multiple organ systems. CLN5 Batten disease is a rare pediatric onset and rapidly progressive condition caused by a pathogenic mutation in the CLN5 gene leading to a loss of function.
+It is characterized by loss of vision, seizures and progressive decline in intellectual and motor capabilities beginning in childhood, leading to substantial impairments and early mortality. Unfortunately, CLN5 disease has no disease-specific treatment options.
+NGN-101 is being developed as a onetime treatment via a dual brain and ocular route of delivery to target both neurodegeneration in the brain as well as vision loss. NGN-101 uses AAV9 to deliver the gene encoding CLN5. Preclinical data are compelling demonstrating that CLN5 gene therapy slows or halts key features of disease progression in a naturally occurring CLN5-deficient sheep model.
+Our Phase I/II trial of NGN-101, which represents the first trial to assess the treatment of both neurodegenerative and ocular disease manifestations of Batten disease is ongoing. We expect to report preliminary data from the study in the second half of 2024.
+We are planning regulatory actions with the FDA to clearly define a potential registration path for our CLN5 program. We are planning to have a CMC-focused meeting towards year-end, where we will seek specific guidance on potency assay requirements for this program. In addition, we are planning a clinical strategy focused meeting with the FDA in the first half of 2024 to better appreciate the level of clinical evidence required to support a potential future approval.
+As you can see, with several potential value-creating inflection points expected within the next 18 to 24 months, this is an extremely exciting time for Neurogene. For NGN-401, we expect to commence dosing of our Phase I/II trial in female pediatric patients with Rett syndrome in the second half of the year. We then expect to report preliminary data from this first cohort of patients in the fourth quarter of 2024 and expect to share updated data with an expanded number of patients for the second half of 2025.
+For CLN-101, we anticipate -- excuse me, for NGN-101, we anticipate preliminary data from our ongoing Phase I/II study of patients with CLN5 Batten disease in the second half of 2024. Beyond our clinical candidates, we are also actively in the process of advancing one of our discovery programs with clinical testing expected to commence in 2025.
+With cash on hand at the close of this transaction expected to fund operations into the second half of 2026, we believe we are well positioned to successfully execute on advancing our programs through all of these anticipated milestones.
+With our capabilities and novel technology, we believe we have the potential to unlock multibillion-dollar markets to address complex neurological diseases not addressable with conventional gene therapy. We will continue our fiscally disciplined and scientifically rigorous approach to advance our pipeline.
+In closing, I would like to take the time to thank all those involved in the transaction for their teamwork and collaboration. We look forward to providing you with updates in the future on our continued progress. Thank you all for joining us today, and this concludes today's call.
+
+--------------------------------------------------------------------------------
+Operator    [5]
+--------------------------------------------------------------------------------
+This concludes today's conference call. Thank you for participating. You may now disconnect.
+
+
+
+
+
+
+
+--------------------------------------------------------------------------------
+Definitions
+--------------------------------------------------------------------------------
+PRELIMINARY TRANSCRIPT: "Preliminary Transcript" indicates that the 
+Transcript has been published in near real-time by an experienced 
+professional transcriber.  While the Preliminary Transcript is highly 
+accurate, it has not been edited to ensure the entire transcription 
+represents a verbatim report of the call.
+
+EDITED TRANSCRIPT: "Edited Transcript" indicates that a team of professional 
+editors have listened to the event a second time to confirm that the 
+content of the call has been transcribed accurately and in full.
+
+--------------------------------------------------------------------------------
+Disclaimer
+--------------------------------------------------------------------------------
+Refinitiv reserves the right to make changes to documents, content, or other 
+information on this web site without obligation to notify any person of 
+such changes.
+
+In the conference calls upon which Event Transcripts are based, companies 
+may make projections or other forward-looking statements regarding a variety 
+of items. Such forward-looking statements are based upon current 
+expectations and involve risks and uncertainties. Actual results may differ 
+materially from those stated in any forward-looking statement based on a 
+number of important factors and risks, which are more specifically 
+identified in the companies' most recent SEC filings. Although the companies 
+may indicate and believe that the assumptions underlying the forward-looking 
+statements are reasonable, any of the assumptions could prove inaccurate or 
+incorrect and, therefore, there can be no assurance that the results 
+contemplated in the forward-looking statements will be realized.
+
+THE INFORMATION CONTAINED IN EVENT TRANSCRIPTS IS A TEXTUAL REPRESENTATION
+OF THE APPLICABLE COMPANY'S CONFERENCE CALL AND WHILE EFFORTS ARE MADE TO
+PROVIDE AN ACCURATE TRANSCRIPTION, THERE MAY BE MATERIAL ERRORS, OMISSIONS,
+OR INACCURACIES IN THE REPORTING OF THE SUBSTANCE OF THE CONFERENCE CALLS.
+IN NO WAY DOES REFINITIV OR THE APPLICABLE COMPANY ASSUME ANY RESPONSIBILITY FOR ANY INVESTMENT OR OTHER
+DECISIONS MADE BASED UPON THE INFORMATION PROVIDED ON THIS WEB SITE OR IN
+ANY EVENT TRANSCRIPT. USERS ARE ADVISED TO REVIEW THE APPLICABLE COMPANY'S
+CONFERENCE CALL ITSELF AND THE APPLICABLE COMPANY'S SEC FILINGS BEFORE
+MAKING ANY INVESTMENT OR OTHER DECISIONS.
+--------------------------------------------------------------------------------
+Copyright 2023 Refinitiv. All Rights Reserved.
+--------------------------------------------------------------------------------

@@ -1,0 +1,382 @@
+
+
+Refinitiv StreetEvents Event Transcript
+E D I T E D   V E R S I O N
+
+Amicus Therapeutics Inc and ARYA Sciences Acquisition IV Corp to Announce Formation of a Next-Generation Genetic Medicine Company Call
+SEPTEMBER 29, 2021 / 12:00PM GMT
+
+================================================================================
+Corporate Participants
+================================================================================
+
+ * Daphne E. Quimi
+   Amicus Therapeutics, Inc. - CFO
+ * Bradley L. Campbell
+   Amicus Therapeutics, Inc. - President, COO & Director
+ * John F. Crowley
+   Amicus Therapeutics, Inc. - Chairman & CEO
+ * Andrew Faughnan
+   Amicus Therapeutics, Inc. - Senior Director of IR
+
+================================================================================
+Conference Call Participiants
+================================================================================
+
+ * Tazeen Ahmad
+   BofA Securities, Research Division - MD in Equity Research & Research Analyst
+ * Ritu Subhalaksmi Baral
+   Cowen and Company, LLC, Research Division - MD & Senior Biotechnology Analyst
+ * Zhiqiang Shu
+   Joh. Berenberg, Gossler & Co. KG, Research Division - Analyst
+ * Eliana Rachel Merle
+   UBS Investment Bank, Research Division - Analyst
+ * Joseph Patrick Schwartz
+   SVB Leerink LLC, Research Division - MD of Rare Diseases & Senior Research Analyst
+ * Elizabeth Daniels Webster
+   Goldman Sachs Group, Inc., Research Division - Associate
+ * Dae Gon Ha
+   Stifel, Nicolaus & Company, Incorporated, Research Division - Research Analyst
+ * Gil Joseph Blum
+   Needham & Company, LLC, Research Division - Analyst
+ * Yun Zhong
+   BTIG, LLC, Research Division - Analyst
+ * Anupam Rama
+   JPMorgan Chase & Co, Research Division - VP and Analyst
+
+================================================================================
+Presentation
+--------------------------------------------------------------------------------
+Operator    [1]
+--------------------------------------------------------------------------------
+Good morning, ladies and gentlemen, and welcome to Amicus Therapeutics conference call and webcast. (Operator Instructions) As a reminder, this conference call is being recorded.
+I would now like to turn the conference over to your host today, Mr. Andrew Faughnan, Executive Director of Investor Relations. You may begin.
+
+--------------------------------------------------------------------------------
+Andrew Faughnan,  Amicus Therapeutics, Inc. - Senior Director of IR    [2]
+--------------------------------------------------------------------------------
+Thank you, Catherine. Good morning. Thank you for joining today's conference call. Speaking today, we have John Crowley, Chairman and Chief Executive Officer; and Bradley Campbell, President and Chief Operating Officer. Joining for Q&A will be Daphne Quimi, Chief Financial Officer; Dr. Jeff Castelli, Chief Development Officer; Sébastien Martel, Senior Vice President of Strategy and Business Development; and Dr. Jill Weimer, Chief Science Officer.  
+As referenced on Slide 2, we may make forward-looking statements within the meaning of the Private Securities Litigation Reform Act of 1995 relating to our businesses as well as our plans and prospects. Our forward-looking statements should not be regarded as representation by us that any of our plans will be achieved. Any or all of the forward-looking statements made on this call may turn out to be wrong and can be affected by inaccurate assumptions we might make or by known or unknown risks and uncertainties. You are cautioned not to place undue reliance on any forward-looking statements, which speak only to the date hereof.
+All forward-looking statements are qualified in their entirety by this cautionary statement, and we undertake no obligation to revise or update this presentation and conference call to reflect events or circumstances after the date hereof. For a full discussion of such forward-looking statements and the risks and uncertainties that may impact them, we refer you to the Forward-Looking Statements and Risk Factors section of our annual report on Form 10-K for the year ended December 31, 2020, and the quarterly report on Form 10-Q for the quarter ended June 30, 2021. We also refer you to the disclaimers listed on Slide 3 of today's presentation.
+At this time, it's my pleasure to turn the call over to John Crowley, Chairman and Chief Executive Officer. John?
+
+--------------------------------------------------------------------------------
+John F. Crowley,  Amicus Therapeutics, Inc. - Chairman & CEO    [3]
+--------------------------------------------------------------------------------
+Great. Thank you, Andrew, and welcome, everyone, to our call this morning. As you saw in the 2 press releases earlier today, we have several important and very exciting updates to provide you with. Starting first with the AT-GAA U.S. FDA filings for Pompe disease. We are proud to announce the acceptance for review of both the BLA and the NDA for the 2 components of AT-GAA. We are now 1 step closer to having another potential treatment option for people living with Pompe disease in the United States.
+And importantly, as you saw in a separate press release this morning, we are also very pleased to announce that we are spinning out our gene therapy business and organization into a new company. In our presentation today, we will walk through this intended spin out of the Amicus gene therapy business and the launch of Caritas Therapeutics, our exciting next-generation genetic medicine company. 
+Moving to Slide 4. Let me summarize upfront the important events and key takeaways from today's announcement. First, as I just mentioned, the AT-GAA filings have been accepted for review, and that review is already underway by the U.S. FDA, with PDUFA action dates of May 29, 2022, for the NDA related to the enzyme stabilizer and July 29, 2022, for the BLA of the biologic.
+Second, we intend again to spin out the Amicus gene therapy programs, technologies, intellectual property, key personnel and relationships into a new company, Caritas Therapeutics. Caritas, which is a Latin word for compassion, will be acquired by ARYA IV, a special purpose acquisition company, and we'll launch we expect with $400 million in capital raised through the SPAC, also a private investment, and in addition, an investment from Amicus.
+I will lead Caritas as its Chairman and CEO, while remaining Chairman Emeritus and Chief Strategic Advisor for Amicus. In this Amicus role, I will work closely with Bradley and the Board of Directors at Amicus to ensure that we get AT-GAA approved and launched in all the major regions around the world. This will give you the bandwidth to, in parallel, launch Caritas and, in some ways, I hope to shape the world of next-generation genetic medicine discoveries, especially from a regulatory and global patient access standpoint for gene therapies broadly. Bradley Campbell will be named the Chief Executive Officer of Amicus. I'll speak on this more later, but let me just say at the outset that there is not another person in this world who is more capable for this role, and I know Amicus will be in great hands under Brad's steady, strong and passionate leadership. 
+Following this transaction, Amicus is expected to be profitable in 2023 and as announced this morning, an already completed private investment of $200 million will leave Amicus extremely well funded for its future. So again, just to summarize on this page, why are we doing this transaction, first is to unlock value for Amicus shareholders; second, is to properly fund and focus these exciting new programs and technologies in genetic medicine and gene therapies; and third, this will financially strengthen Amicus.
+When we founded -- moving to Slide 5. When we founded Amicus, our vision was to become one of the world's great biotechnology companies led by our mission to deliver the highest-quality therapies for persons living with rare genetic diseases. Over the course of the last 1.5 decades, we have made tremendous strides in doing just that. Today, we have now one commercial medicine, the only approved oral precision medicine for Fabry disease, which is on track to deliver more than $300 million in global revenue this year and $500 million in annual sales in the next few years, on its way, we believe, to a $1 billion-plus annual potential.
+We also now have a second medicine, our novel therapy for Pompe disease, AT-GAA, which, as we've discussed, has now been accepted and is under review by U.S. FDA., removing, we believe, a major question for investors and firmly continuing this medicine on its path to approval in the United States and beyond. We continue to have very strong conviction that AT-GAA has the potential to become the new standard of care in Pompe disease. And behind these 2 highly innovative products, we have built one of the world's leading rare disease gene therapy pipelines in the industry, all of which has created and been cultivated by a terrific patient-centric team of global, passionate entrepreneurs and a culture that we're so very proud of at Amicus.
+Slide 6. Amicus today is in the strongest position it has ever been in its history. Again, Galafold continues to exceed estimates, and we are on track again to deliver the $300 million to $315 million in revenue this year. And again, we see significant potential for Galafold to be a $1 billion product at peak sales. Again, also the global submissions for AT-GAA are on track, and we plan for the global launch next year in the European Union, our MAA submission is expected to be completed in the fourth quarter of this year. We are also very confident, again, in the potential benefits of AT-GAA and what it can bring to people living with Pompe disease around the world, and we look forward to working with regulators to get this medicine to as many patients as quickly as possible. Again, Amicus makes these bold strategic moves from a position of strength, and again, we continue to have very high confidence in Galafold and AT-GAA.
+Slide 7, just to highlight here again our gene therapy portfolio. And again, this highlights the breadth of what we've been building for the last 3 years at Amicus. Again, we've not only assembled one of the largest portfolios of rare disease gene therapy programs, we've also built significant capabilities. We have now, at Amicus and what will transfer to Caritas, 6 active programs, including 2 clinical programs and the rights to up to 50 rare diseases including 11 more prevalent rare diseases. That science is being advanced by a dedicated team of more than 60 bench scientists here in Philadelphia, focused exclusively on developing next-generation gene therapy platform technologies, programs and products for rare diseases. Through this gene therapy pipeline, we see significant value and an abundance of opportunity to create state-of-the-art, cutting-edge, next-generation therapies and technologies. 
+That value, while significant, has largely gone unrecognized to date as these programs have been built and incubated within Amicus. We believe that separating our business into 2 highly focused stand-alone companies is the best way to unlock that value for shareholders. In a single stroke, we will have created what we believe will be one of the world's preeminent next-generation genetic medicine and gene therapy companies, while strengthening Amicus for its future. We see this transaction serving patients and shareholders very well. We are immensely excited for what the future of science and biotechnology holds as we advance our mission to support people and their families living with rare diseases around the world.
+One last slide before I turn it over to Bradley for some comments, here on Slide 8, just some more color on the structure of this transaction for the spin out. Specifically, Caritas is a carve-out of the gene therapy business from Amicus, which will again be acquired by ARYA IV, a SPAC. Amicus will retain an equity interest in the combined entity and is expected to be the largest shareholder of Caritas. Caritas will retain the research collaboration with Dr. Jim Wilson and the University of Pennsylvania as well as form a new strategic collaboration with Amicus on the development and commercialization of both the Fabry and Pompe next-generation gene therapy programs. And Caritas is expected to be very well capitalized with approximately $400 million to execute on the R&D plan. This is comprised of $150 million from ARYA IV's trust as well as an expected $200 million from a now completed private investment and public equity or pipe led by top-tier health care investors and a $50 million cash investment from Amicus.
+So with that overview on all this exciting news, let me go ahead and pass it over to Bradley to discuss more of the strategic rationale and Bradley's thoughts more broadly on Amicus. Brad, please.
+
+--------------------------------------------------------------------------------
+Bradley L. Campbell,  Amicus Therapeutics, Inc. - President, COO & Director    [4]
+--------------------------------------------------------------------------------
+Good morning, everyone. Let me just start by thanking you, John, for your steadfast leadership and mentorship over the years. I'm incredibly honored to have been part of the journey and now for this opportunity to help lead Amicus in this exciting new chapter. And I'm equally excited by today's corporate announcements and the opportunity we see for both companies to bring even greater value to all of our stakeholders. This is indeed a bold step forward for our mission and our vision.
+On Slide 9, let me just capture again the strategic rationale for the transaction, which includes: enhancing the ability of both companies to meet the unmet needs of the many individuals and families affected around the world by rare diseases; accelerating the development and broadening the scope of one of the largest rare disease gene therapy portfolios in the industry; significantly strengthening the financial profile of each company; funding the gene therapy next-generation scientific platform technologies as well as manufacturing capabilities of the new company; reinforcing management focus on key strategic and financial goals; and finally, unlocking value while creating a more targeted investment thesis for our shareholders.
+On Slide 10, we see this transaction transforming Amicus into a premier late-stage global development and commercialization company while retaining our incredible patient-centric culture. Our focus for the next few years will be to grow our leadership position across the company's 2 lead indications in Fabry and Pompe disease, specifically by continuing to invest in the global commercialization of Galafold through geographic and label expansion as well as increased support for new and ongoing diagnostic initiatives. These are areas that we see significant opportunities to accelerate the growth of Galafold that we otherwise would not be able to leverage to their full potential without these transactions.
+In addition, getting AT-GAA to as many patients living with Pompe disease as quickly as possible is of the highest priority for the company today. With our strengthened balance sheet, we can now increase the investment on securing global approvals more quickly outside the U.S., EU and U.K. and prepare for and execute on the anticipated global launches of AT-GAA. Finally, as we also anticipate the completion of our clinical development of AT-GAA, we'll soon be able to turn our attention to our Fabry and Pompe gene therapy programs, which will now develop in partnership with Caritas and which will continue to progress rapidly towards the clinic and eventually leverage the world-class commercial infrastructure we've built at Amicus.
+In addition to increasing our ability to get our lead products to patients, we see this transaction significantly strengthening the Amicus financial profile in 3 key areas, which I'll highlight on Slide 11. First, on the revenue side, as mentioned, we'll increase our focus on maximizing the commercial success of Galafold and AT-GAA, which we see each as having $500 million to $1 billion in global peak revenue potential. Second, our financial outlook is significantly strengthened through both the transfer of R&D expenses to Caritas as well as the private investment into Amicus of $200 million by leading investors who clearly see the value-creation potential for Amicus going forward. With these 2 transactions, we now see the first profitable year for Amicus in 2023, with sustained profitability anticipated going forward under the current operating plan. I would note, though, that given the timing of the expected close of the transaction, our financial guidance for this year is unchanged.
+Third, we continue to see value and opportunity in our gene therapy programs, so it's critical to recognize that by maintaining a 36% ownership in Caritas approximately will preserve the upside of this new entity. In addition, we'll have joint development and commercial rights to both Fabry and Pompe gene therapies as well as rights of first negotiation to multiple muscular dystrophy programs being developed by Caritas. So Amicus and its shareholders will continue to participate in the value-creation potential of these next-generation genetic medicines for years to come. Together, we see this building upon the Amicus position as a leader in the rare disease space, in particular in Fabry and Pompe disease, and we're extremely excited to move this forward.
+With that, let me hand the call back to John.
+
+--------------------------------------------------------------------------------
+John F. Crowley,  Amicus Therapeutics, Inc. - Chairman & CEO    [5]
+--------------------------------------------------------------------------------
+Great. Thanks, Bradley. On the next 2 slides, let me just speak more around the key takeaways of Caritas and again in the weeks and months ahead, we'll be elaborating on this further. So again, to remind everybody, the mission of Caritas, again, the Latin word for compassion, is to transform the lives of children and adults living with rare genetic diseases through advanced protein engineering and innovative vector technologies. We believe that Caritas will immediately rise to be the world's preeminent, independent next-generation gene therapy company for rare diseases. So we have a very big and very bold vision for Caritas. And again, as we've described Amicus as a team of passionate entrepreneurs, that culture will continue in Caritas.
+We see Caritas as a team also of passionate problem-solvers. We've come far in the field of gene therapy over the last several years, but I really think we're now on the cusp of the next iteration of gene therapy technologies and finally being able in the field to fulfill the promise of gene therapy. There are significant challenges, and we've seen recently challenges that the intention of Caritas is to develop our own proprietary, as we've already done and will begin to continue to disclose, new platform technologies again in protein engineering combined with vector engineering, especially the vector engineering technologies at the University of Pennsylvania, to address some of the most intractable problems in DNA transfer and gene transfer. These are problems of safety, durability, manufacturability, targeting, immunogenicity. Within the walls of Caritas, we have and are developing the tools and technologies to address all of these challenges again to finally realize the promise of gene therapy.  
+It starts first with the science and our years of work in metabolic disorders at Amicus and understanding again the challenges that we need to overcome to have effective and safe chaperones and enzyme therapies. We are now applying and have been for the last several years applying that knowledge to gene therapy, and we are leveraging our proprietary platform technologies and protein engineering capabilities that are enabling innovative and clinically differentiated gene therapies. This portfolio at Amicus to become the portfolio of Caritas includes both clinical and preclinical programs, including those for CLN3 and CLN6 Batten disease about ready to start their pivotal studies. We see shortly 3 new INDs over the next 24 months in other rare genetic diseases, including Fabry and Pompe. And we see the potential for 2 IND candidates again in the next 24 months.
+Again, each of these going forward will incorporate bespoke, novel platform technologies developed at both Caritas and at the University of Pennsylvania. Indeed, Caritas will leverage the ongoing strong relationship with Dr. Jim Wilson and the University of Pennsylvania. Amicus has and Caritas will inherit the largest, broadest and deepest relationship with Dr. Wilson and the University of Pennsylvania. This includes the global rights to approximately 50 rare diseases global exclusive rights. These include the majority of lysosomal storage disease, next-generation therapy, gene therapy programs as well as nearly a dozen larger rare diseases. We've disclosed previously at Amicus that these include the global exclusive rights in Angelman and [Rett]. But we're also disclosing that we now have the rights in multiple muscular dystrophies, including the limb-girdles and Duchenne muscular dystrophy. So as part of this transaction, we will continue to jointly work together with Amicus, with Dr. Wilson and the University of Pennsylvania and particularly with our relationship with Amicus through an attractive risk- and cost-sharing partnership on the Fabry and Pompe gene therapy programs.
+For manufacturing, we have a fully designed, ready-to-build, state-of-the-art 35,000 square foot clinical manufacturing facility with commercial expansion capabilities. We believe for Caritas that it's going to be the world's leading next-generation gene therapy company. It also needs to be among the world leaders in developing capacity and capabilities in gene therapy manufacturing. This together with our continued strong relationship with Thermo Fisher on the CDMO front. All of this, again, is being led by an experienced leadership team with a fully staffed discovery research and development organization, again a team of passionate entrepreneurs and passionate problem-solvers. 
+The proceeds of approximately $400 million from the transaction are intended to be sufficient to fund Caritas through multiple value-creating milestones. These include, again, generating 1 to 2 new INDs per year; initiating registration pivotal studies in CLN3 and CLN6 Batten disease; generating initial clinical proof-of-concept data in Fabry disease; building, staffing, validating and launching a world-class, state-of-the-art GMP, gene therapy manufacturing, facility; and generating key preclinical proof of concept across multiple platform technology programs in the gene therapy field.
+On Slide 14, I'll just speak here to the co-development and commercialization agreement, which just speaks to the continued strong relationship with these 2 sister companies, Caritas and Amicus. Slide 14 here highlights the new co-development and commercialization agreement between Caritas and Amicus that focuses initially on the Fabry and Pompe gene therapy programs. These programs utilize a differentiated gene therapy approach for greater potency and optimized cross-correction through protein engineering for stability and targeting. The partnership between the companies will ensure the continued relationship with the leading internal experts in Fabry and Pompe. The partnership also derisks the funding of those programs and provides a 50-50 global profit split. There is the potential as well for other disease collaborations given Amicus has the right of first negotiation for several muscular dystrophy gene therapy programs being developed jointly by Caritas and the University of Pennsylvania. 
+Moving to Slide 15. Let me speak again to leadership. Again, at the time of closing of this transaction, I will lead Caritas as Chairman and Chief Executive Officer while maintaining a role as an employee as Chairman Emeritus and Senior Strategic Advisor to Amicus as Amicus continues to pursue global submissions and approvals for AT-GAA for Pompe disease. This is a multiyear commitment that I've given to Amicus, its employees, teammates and our Board of Directors. Bradley Campbell, my long-time business partner in building Amicus, our current President and Chief Operating Officer and a member of the Board of Directors of Amicus, who, as we all know, has played a crucial role in the growth of the company over the last 15-plus years. Bradley will be named Chief Executive Officer to succeed me at Amicus at the time of closing. There is no one more capable in this world to assume the leadership of Amicus today, and I look forward to the future of these 2 companies driving science and delivering remarkable benefits worldwide for patients, and we will do this together.
+Last slide on Slide 16, again, just a transaction summary. In closing, here we just provide a snapshot of the deal. We see this transaction sharpening the strategic focus, significantly strengthening the financial profile as well as enhancing the operational execution of both of these companies to the benefit of all of our stakeholders. I'd like to thank all of our partners who have made this bold and transformative deal possible, and I'd like to share our gratitude with team Amicus, our employees, our team of passionate global entrepreneurs, who remain steadfast on their mission to deliver innovative life-changing medicines to people living with rare diseases around the world.
+So with that, operator, we're happy to take questions.
+
+
+================================================================================
+Questions and Answers
+--------------------------------------------------------------------------------
+Operator    [1]
+--------------------------------------------------------------------------------
+(Operator Instructions) Our first question comes from Ritu Baral with Cowen.
+
+--------------------------------------------------------------------------------
+Ritu Subhalaksmi Baral,  Cowen and Company, LLC, Research Division - MD & Senior Biotechnology Analyst    [2]
+--------------------------------------------------------------------------------
+Congratulations on the innovative structure of this deal and unlocking the value of Battens, which I admit was not even in my valuation and it's going to be a key part of the new company going forward. I wanted to ask about the focus of the Amicus pipeline and the Caritas pipeline going forward. I guess, are you interested in building back the full pipeline out? And I guess, the first leg going to be that right of first negotiation on the DMD programs making it again a more neuromuscular-focused company. And do you have a similar strategy maybe in a different focus for Caritas?
+
+--------------------------------------------------------------------------------
+John F. Crowley,  Amicus Therapeutics, Inc. - Chairman & CEO    [3]
+--------------------------------------------------------------------------------
+Yes, Ritu, thank you very much. Again, let me just start and I'll turn it to Brad to add perspectives as well. Again, we're doing this first and foremost to unlock value for Amicus shareholders; secondly to properly fund all of these programs; and third, this significantly strengthens Amicus financial profile, again, accelerating our path to profitability with profitability expected in '23 and enhancing the magnitude of that profitability in 2023 and beyond.
+For Caritas, we really see this as both a product and platform technology company. So many different pieces of value for Caritas, the pipeline, the programs, importantly, a whole range of new platform technologies that we'll be unveiling in the months and quarters ahead, the relationship with Jim Wilson, UPenn, the Amicus partnership and relationship, the Thermo Fisher partnership, the manufacturing. So the view for Caritas is, well, part of the pipeline is grounded in those Battens programs, the Caritas pipeline really has 3 different components. It's the Batten franchise, which includes CLN3, CLN6, CLN1 and other CLN programs we have not yet disclosed. It includes, secondly, the lysosomal disease franchise. This is anchored in the now advanced preclinical programs that will enter the clinic we expect in late '22 or early '23 for both Fabry and Pompe gene therapies, but also the MPS III programs and other next-generation lysosomal gene therapies in development. And third, within Caritas, we're increasingly excited, Ritu, about the CNS and the neuromuscular technologies. Again, programs in CDKL5 deficiency disorder, where we've seen just remarkable results with the combination of the Amicus soon-to-be Caritas platform technologies and protein engineering and our access to the next-generation gene therapy technologies developed jointly with Jim Wilson and the UPenn team. We're also seeing the Angelman program advancing within Amicus soon-to-be Caritas as well as those neuromuscular programs in limb-girdle, Duchenne and other areas. So a very robust pipeline platform technologies. 
+And then for Amicus, again, very important. This really strengthens the focus and sharpens the focus as a leading global commercial rare disease company, but it will also have late-stage development capabilities. So while Amicus will not have bench science going forward, it will be able to leverage Caritas bench science and also selectively look at other programs technologies. So the Amicus pipeline is actually quite rich. When you look at it, it will have the 2 commercial products, Galafold and AT-GAA. It will have the 50-50 rights to the Fabry and Pompe gene therapies. Amicus will also again have the rights of first negotiation on a series of neuromuscular programs, including limb-girdle and Duchenne that would be developed within Caritas. But the transaction then also gives Amicus the financial and organizational bandwidth under Brad's leadership ahead to evaluate other programs and technologies in development and potentially other products. We don't see business development for Amicus. It's got -- we've got our hands full ahead in getting AT-GAA approved and launched around the world, advancing these gene therapy programs with Caritas. 
+But Brad, I'll turn it to you for your vision on kind of 2023 and beyond and continuing to strengthen the Amicus pipeline and profile.
+
+--------------------------------------------------------------------------------
+Bradley L. Campbell,  Amicus Therapeutics, Inc. - President, COO & Director    [4]
+--------------------------------------------------------------------------------
+Yes. Thanks, John. I think you captured a lot of it. I think a couple of just key points to reiterate there. Right now, this allows us to be laser-focused on maximizing the opportunity for Galafold but, of course, also the potential launch of AT-GAA, which we're all speed ahead on with the announcement today with the acceptance of the filing. But it doesn't mean in any way that we're leading gene therapy. Of course, we maintain our equity ownership in Caritas, so we'll continue to appreciate value that way. But as John said, in the medium term, our pipeline is the Fabry and Pompe gene therapy programs, which are poised to get back into the clinic -- or excuse me, get into the clinic at the end of next year for Fabry and hopefully soon after for Pompe. And then from there, as we continue to build our financial strength, we will have -- and we do have a world-class commercial organization and development organization. And once we have that financial capability, we can then look to continue to leverage that organization as well.
+
+--------------------------------------------------------------------------------
+Ritu Subhalaksmi Baral,  Cowen and Company, LLC, Research Division - MD & Senior Biotechnology Analyst    [5]
+--------------------------------------------------------------------------------
+Got it. It's good to see Megan looking so well.
+
+--------------------------------------------------------------------------------
+John F. Crowley,  Amicus Therapeutics, Inc. - Chairman & CEO    [6]
+--------------------------------------------------------------------------------
+Oh, yes, that was Megan, a picture for her senior years. She had her own photoshoot she did on campus at Notre Dame. So she's doing great. Actually fully employed now as a social worker, which is just remarkable.
+
+--------------------------------------------------------------------------------
+Operator    [7]
+--------------------------------------------------------------------------------
+Our next question comes from Tazeen Ahmad with Bank of America.
+
+--------------------------------------------------------------------------------
+Tazeen Ahmad,  BofA Securities, Research Division - MD in Equity Research & Research Analyst    [8]
+--------------------------------------------------------------------------------
+Lots of news today. And so I will definitely try to just limit it to 1 question, although I have many more. Can I just ask about the acceptance of the filing for AT-GAA? It looks like it's going to be reviewed as a BLA and then separately as an NDA with the BLA getting a standard review. So I guess, was that your expectation that it would be reviewed in 2 separate parts going into the application process? And is there anything to read into what seems to be a standard review versus expedited just given the undermet need in Pompe that we've talked about over the course of the last 2 years, at least?
+
+--------------------------------------------------------------------------------
+John F. Crowley,  Amicus Therapeutics, Inc. - Chairman & CEO    [9]
+--------------------------------------------------------------------------------
+Yes. No, Tazeen. Thank you. I can tell you the FDA has been an incredible partner with us since the pre-BLA meeting in April. The BLA that we submitted at the beginning of the third quarter incredibly helpful, supportive, I can assure you they understand the dramatic unmet need in Pompe disease. That was clear. I'd reference you to their recent press release with respect to the approval of another product for patients with Pompe disease, where that was highlighted. So they completely get that. 
+With respect -- this is, again, a 2-component novel regimen. As we know, it's part of what's leading to these significant results in patients with the enzyme stabilizer and the novel highly phosphorylated biologic. So we've always known and we submitted to the FDA the 2 different components of that from a regulatory standpoint. So we had both an NDA and a BLA. They will be reviewed together, and the files, for instance, significantly cross-reference each other. You can't approve one without the other. So we expect them to be approved together. We have the 2 PDUFA dates. Again, it's terrific, the FDA, the review is already underway. We've begun receiving information request. The FDA has already scheduled site visits, inspections. So we take this as a very, very strong step forward in the path to approval. So we have a very high degree of confidence in the approvability now. We think with a strong label, we are going to continue to push for a label for both switch and naive patients. We don't have any reason to believe that it would be otherwise. So we're excited about this ahead, and we're going to push to the earliest date possible among those PDUFA dates for approval for patients.
+And again, this is not just the United States. You've seen now this has been discussed and reviewed to different degrees by 3 major regulatory bodies around the world. U.S. FDA, the European Union authorities as well as the MHRA authorities in the United Kingdom. Again, we just discussed where we are with the U.S. FDA. So it's full steam ahead there toward approval. In the European Union, we'll file that MAA in the fourth quarter this year. And in the United Kingdom, again, to remind everybody in the second quarter of last year, we received early approval under the EAMS framework for AT-GAA for adults with Pompe disease switch patients. So that's the first approval that we've gotten around the world. We're now going through -- it takes several months to go through the local regulatory bodies in the United Kingdom to authorize the switch for any patients and physicians who requested. I will tell you, we've seen significant interest and outreach from physicians in the United Kingdom interested in switching patients from the approved ERT standard of care to AT-GAA, and we'll have a lot more to talk about that I would expect in the November earnings call.
+
+--------------------------------------------------------------------------------
+Tazeen Ahmad,  BofA Securities, Research Division - MD in Equity Research & Research Analyst    [10]
+--------------------------------------------------------------------------------
+Okay. And just to clarify, is it possible for the approval to happen at the same -- at the earlier of the 2 dates as opposed to the July date?
+
+--------------------------------------------------------------------------------
+John F. Crowley,  Amicus Therapeutics, Inc. - Chairman & CEO    [11]
+--------------------------------------------------------------------------------
+Certainly, that's up to the U.S. FDA, but we are going to work to the earliest date possible for approval.
+
+--------------------------------------------------------------------------------
+Operator    [12]
+--------------------------------------------------------------------------------
+Our next question comes from Ellie Merle with UBS.
+
+--------------------------------------------------------------------------------
+Eliana Rachel Merle,  UBS Investment Bank, Research Division - Analyst    [13]
+--------------------------------------------------------------------------------
+Just on the manufacturing front, could you give us a little bit more color on your plans for the gene therapy manufacturing as you build that out at Caritas? And would you plan to do Pompe and Fabry gene therapy manufacturing in-house and just your thinking around that? And then also in manufacturing, just what are your latest conversations on CLN3 and CLN6 manufacturing with the FDA and the latest in terms of the potential timing of pivotal study starts here?
+
+--------------------------------------------------------------------------------
+John F. Crowley,  Amicus Therapeutics, Inc. - Chairman & CEO    [14]
+--------------------------------------------------------------------------------
+Sure, Ellie, I'll take both of those questions. So again, we think a key part of the strategy for Caritas is to increasingly become world leaders and experts in technologies, capabilities and capacity for gene therapy manufacturing. So we're pretty advanced in this regard. We've already acquired the rights to an existing brand new 35,000 square foot facility. We've completed all the design work, the basis of design. We've actually now had permits issued. We'll begin construction very shortly. This will be a very flexible state-of-the-art facility geared toward clinical manufacturing. It will be fully integrated upstream, downstream capabilities, again, flexible for a range of production technologies. It will include a fill-finish suite. And again, we'll be able to infuse that with some key personnel transitioning over from Amicus to Caritas, who are experts in biologic manufacturing and quality control.
+We have also acquired land to build a larger commercial-scale facility and the preliminary designs for that are already underway. So we're really excited. Again, in gene therapy, increasingly we know, the process is the product. And with respect to CLN3, CLN6, as you know, much of our work is focused on the transition of those cell lines and manufacturing from Nationwide Children's Hospital to Thermo Fisher. We have had great success with the Brammer and now Thermo Fisher teams. We've completed that tech transfer, GMP manufacturing batches are underway. A lot of the work is also on the analytical side. We realized well more than a year ago that the FDA was going to raise the bar, and I think it's proper they did across the field so that we can properly characterize the quality and quantity of material being delivered to these children or in any rare disease for adults and children.
+So we're pretty advanced in that regard in developing a range of assays. And as Caritas begins to -- as we begin to unveil more and more of what's behind the curtain, we'll talk about the advancements there for CLN3, CLN6, both on the manufacturing analytical side as well as the clinical side. So I think more to come there, but we would expect in 2022 to begin pivotal studies for these programs into 2023.
+
+--------------------------------------------------------------------------------
+Operator    [15]
+--------------------------------------------------------------------------------
+Our next question comes from Anupam Rama with JPMorgan.
+
+--------------------------------------------------------------------------------
+Anupam Rama,  JPMorgan Chase & Co, Research Division - VP and Analyst    [16]
+--------------------------------------------------------------------------------
+Just a quick question on the AT-GAA filing and PDUFA. Has there been any indication from the agency that an advisory panel will be held as part of the review process?
+
+--------------------------------------------------------------------------------
+John F. Crowley,  Amicus Therapeutics, Inc. - Chairman & CEO    [17]
+--------------------------------------------------------------------------------
+Great. Thanks, Anupam. No, we received no word or indication from the FDA that they think an advisory panel would be necessary.
+
+--------------------------------------------------------------------------------
+Operator    [18]
+--------------------------------------------------------------------------------
+Our next question comes from Salveen Richter with Goldman Sachs.
+
+--------------------------------------------------------------------------------
+Elizabeth Daniels Webster,  Goldman Sachs Group, Inc., Research Division - Associate    [19]
+--------------------------------------------------------------------------------
+This is Elizabeth, on for Salveen. Could you discuss the timing of the decision to separate the 2 businesses? And why was now the right time for you guys?
+
+--------------------------------------------------------------------------------
+John F. Crowley,  Amicus Therapeutics, Inc. - Chairman & CEO    [20]
+--------------------------------------------------------------------------------
+Yes. Thank you, Elizabeth. This is something we've considered for some time, again, for the reasons to unlock value for Amicus shareholders, to properly fund these gene therapy programs and to financially strengthen Amicus. We've considered this for, again, quite some time. Now we believe is the right time. We believe we do this for Amicus from a position of strength with continued global growth of Galafold. And now with the success we've seen with the regulatory interactions for AT-GAA, including the most recent update with the U.S. FDA now accepting the BLA and the NDAs for filing. So we're preparing for launch for AT-GAA around the world, approvals and launch in 2022. So we think this is the right inflection point for Amicus again to do this from a position of strength.
+
+--------------------------------------------------------------------------------
+Bradley L. Campbell,  Amicus Therapeutics, Inc. - President, COO & Director    [21]
+--------------------------------------------------------------------------------
+Yes. And I think just to add on to that, John, I think we've talked for a while now on how we can unlock value for these gene therapy programs and that the technologies have continued to move at a rate that was better than expected. And so this really gives us a chance to properly fund those programs and, as John said, accelerate our focus and accelerate our efforts to maximize the opportunity for Galafold and for AT-GAA. So it's an exciting time, and we thought it was the right time to make this move.
+
+--------------------------------------------------------------------------------
+Operator    [22]
+--------------------------------------------------------------------------------
+Our next question comes from Joseph Schwartz with SVB Leerink.
+
+--------------------------------------------------------------------------------
+Joseph Patrick Schwartz,  SVB Leerink LLC, Research Division - MD of Rare Diseases & Senior Research Analyst    [23]
+--------------------------------------------------------------------------------
+Let me also add my congrats. I was hoping you could expand a bit more on what to make of the FDA standard review designation for AT-GAA. I know the FDA has indicated that they appreciate there's still an unmet medical need after the approval of neoGAA. Is this just a reflection of the FDA needing more time to coordinate their reviews of the separate NDA and BLA components? Or could there be any read-through to their likelihood of approving it?
+
+--------------------------------------------------------------------------------
+John F. Crowley,  Amicus Therapeutics, Inc. - Chairman & CEO    [24]
+--------------------------------------------------------------------------------
+Joe, I still think there's a very high likelihood of approval. I'll just -- the only color I'll add is that the FDA has been incredibly helpful and supportive throughout this process. So -- and again, they really recognize this significant unmet need. I think for us, again, it's interesting that there are the 2 different PDUFA dates. Again, we're going to work hard to reach the earliest state possible for approval. And ultimately, that will be in the regulators' hands. We would expect the small molecule and the biologic to be approved together. So we'll work to get this to patients as soon as possible, and we're preparing for launch as soon as possible in the first half, hopefully, of 2022. So again, I think here, it's -- there is a complexity and that there is both an NDA and a BLA, which is different from any other product that's been developed in Pompe. 
+I think also too realizing for any biologic in the field of Pompe, these are incredibly complex biologics, highly glycosylated proteins. We saw the length of review for the competitor product from Sanofi, where the PDUFA date was extended until their ultimate approval, which I think is great, patients have yet another option in Pompe disease. So I think that's part of it, too, as well that it's a complex review, and we'll work with the FDA to meet the earliest date possible for approval. But I really think, Joe, this answers a very important question for investors is, will the FDA accept this for filing, and they certainly have and the review, again, is already underway. So something we're very excited about.
+
+--------------------------------------------------------------------------------
+Operator    [25]
+--------------------------------------------------------------------------------
+Our next question comes from Dae Gon Ha with Stifel.
+
+--------------------------------------------------------------------------------
+Dae Gon Ha,  Stifel, Nicolaus & Company, Incorporated, Research Division - Research Analyst    [26]
+--------------------------------------------------------------------------------
+Let me also add my congrats to both John and Brad, looking forward to continuing to stay abreast on your story here. Just 1 clarification and 1 follow-up, I guess. On the PDUFA front, can you just remind us, are there anything with regards to information request or any ongoing studies that could maybe lead to a supplement down the line that may perhaps open up a PDUFA extension? And then my actual question is, when you talk about the profitability guidance in 2023 following the Caritas consummation, I guess what assumptions are baked in with regards to Galafold sales and AT-GAA? I think you mentioned $500 million in prior calls for Galafold. Is that still the case? And also what's for AT-GAA?
+
+--------------------------------------------------------------------------------
+John F. Crowley,  Amicus Therapeutics, Inc. - Chairman & CEO    [27]
+--------------------------------------------------------------------------------
+Yes, of course, Dae Gon. I'll take the first part of that on the PDUFA. I will tell you, these were exhaustive and complete both the NDA and BLAs that were submitted to the FDA. We don't expect to have to submit any supplements whatsoever. And the information requests we're getting in are all what we see as routine in the normal course of the agency's reviews. Again, we're pleased that they've already begun scheduling site inspections, and I can tell you the FDA is putting the right attention, focus and resources to this in a highly collaborative way gives us a reason to be excited about the approval ahead, we believe, and we think what could be a very, very strong launch in the United States and beyond. But Brad, do you want to talk about the products and the path to profitability?
+
+--------------------------------------------------------------------------------
+Bradley L. Campbell,  Amicus Therapeutics, Inc. - President, COO & Director    [28]
+--------------------------------------------------------------------------------
+Yes. So just as you said, we believe these transactions accelerate now our path to profitability, getting to profitability in 2023. A couple of things to point out there. First, it does assume continued growth in Galafold. We're on track for our guidance this year of $300 million to $315 million in global sales. We're confident we're on track there, and we'll continue to see that grow towards our next milestone of $0.5 billion in sales and beyond. Of course, now with the acceptance of the BLA, we have further confidence in the acceptability and the launch -- anticipated launch of Pompe. And so we assume that we'll start to see revenues from the global commercialization of AT-GAA contribute to that top line. 
+I would also say that we are able now to move significant R&D expenses to Caritas through the funding of that new entity. But importantly, with the investment in Amicus, we can also invest in maximizing the growth of Galafold as well as the launch of AT-GAA. So it's a number of pieces, but really it's continuing to strengthen the top and the bottom line. And again, that gets us to that profitability in 2023 and beyond.
+
+--------------------------------------------------------------------------------
+Operator    [29]
+--------------------------------------------------------------------------------
+Next question comes from Gil Blum with Needham & Company.
+
+--------------------------------------------------------------------------------
+Gil Joseph Blum,  Needham & Company, LLC, Research Division - Analyst    [30]
+--------------------------------------------------------------------------------
+I would also like to add my congratulations. You briefly touched upon this, but could you maybe give us a bit of an idea of the R&D cost savings that will happen over time for Amicus with this transfer?
+
+--------------------------------------------------------------------------------
+John F. Crowley,  Amicus Therapeutics, Inc. - Chairman & CEO    [31]
+--------------------------------------------------------------------------------
+Yes. Bret, I'll turn it to Daphne to add more color, but it's actually pretty straightforward. Over the next 3 years, 2022, '23 and '24, this will result in more than $400 million in operational expense savings. Daphne, do you want to add a little more color on the breakdown perhaps between R&D and G&A with the spin-out?
+
+--------------------------------------------------------------------------------
+Daphne E. Quimi,  Amicus Therapeutics, Inc. - CFO    [32]
+--------------------------------------------------------------------------------
+Yes, sure. Thanks, John. Of that $400 million, we're seeing approximately 85% of that would be R&D spend. And then there's about -- the balance 15% would be related to G&A spend, which would be coming off the Amicus financials and moving to Caritas.
+
+--------------------------------------------------------------------------------
+Operator    [33]
+--------------------------------------------------------------------------------
+Our next question comes from Yun Zhong with BTIG.
+
+--------------------------------------------------------------------------------
+Yun Zhong,  BTIG, LLC, Research Division - Analyst    [34]
+--------------------------------------------------------------------------------
+Congratulations on the announcement. And just a follow-up question on Amicus' pipeline. Are you able to give a little guidance on when do you think the next program will potentially enter the clinic? And what do you believe will be the most likely program should be the first one to enter the clinic?
+
+--------------------------------------------------------------------------------
+John F. Crowley,  Amicus Therapeutics, Inc. - Chairman & CEO    [35]
+--------------------------------------------------------------------------------
+Yes. Bradley, go ahead, please.
+
+--------------------------------------------------------------------------------
+Bradley L. Campbell,  Amicus Therapeutics, Inc. - President, COO & Director    [36]
+--------------------------------------------------------------------------------
+Sure. Thanks, Yun, for the question. Yes. And so the most advanced of the 2 programs within the joint collaboration are the -- is the Fabry gene therapy program. And while we haven't given formal guidance yet, right now, that's on track to get into the clinic or file the R&D by the end of next year. So actually, as we are starting to wind down the development -- the global development of AT-GAA, we'll be able to quickly build up the development of Fabry gene therapy. And then hopefully, Pompe gene therapy will be sometime relatively shortly after that.
+
+--------------------------------------------------------------------------------
+John F. Crowley,  Amicus Therapeutics, Inc. - Chairman & CEO    [37]
+--------------------------------------------------------------------------------
+I'll just add, Yun. This is -- yes, thank you. The Fabry gene therapy is something we're very excited about as with the Pompe gene therapy. Fabry is a great example, too, of where we looked at a novel problem, a series of problems in basically safe and efficient gene transfer. And here, what we actually did was utilize novel Amicus-developed protein engineering technologies to stabilize the protein being expressed by the gene therapy vector. We also use novel next-generation gene therapy vector technology from Dr. Wilson's lab. We saw remarkable preclinical results. That program is in advanced IND-enabling studies. We're also, in parallel, working through all the manufacturing work and activities. We think, given the dose that we think we'll be able to use, a much lower dose than others have proposed that would be highly targeted, safe and stable, that we can also utilize manufacturing technologies in that Fabry gene therapy that aren't available to others. So it gives us a lot of advantage. I think it's also a great example in Fabry disease, where we may not have been the first with a gene therapy into the clinic, but I'm really hopeful that this approach will be the first out of the clinic.
+
+--------------------------------------------------------------------------------
+Operator    [38]
+--------------------------------------------------------------------------------
+Our next question comes from Zhiqiang Shu with Berenberg.
+
+--------------------------------------------------------------------------------
+Zhiqiang Shu,  Joh. Berenberg, Gossler & Co. KG, Research Division - Analyst    [39]
+--------------------------------------------------------------------------------
+Congrats on the announcements. I want to ask, John, as you're looking forward to your new company, can you comment on the expertise on late-stage development on gene therapy? And also, can you -- I'm curious your thoughts around the pricing around gene therapy as those treatments are going to the commercial stage -- potentially going to commercial stage. What's your thoughts on the pricing around those?
+
+--------------------------------------------------------------------------------
+John F. Crowley,  Amicus Therapeutics, Inc. - Chairman & CEO    [40]
+--------------------------------------------------------------------------------
+Yes. Thank you, Zhiqiang. So look, the late-stage capabilities here, there are several who will transition from Amicus to Caritas. Again, we're envisioning launching Caritas with about 115 employees. The vast majority of those will be existing employees transitioning from Amicus over to Caritas. And again, these include people with development capabilities in rare diseases. So I think that's a unique position for Caritas' strength, the experienced leadership team, including drug development, late-stage development. 
+With respect to pricing, I think as you start to see the next wave of these approved therapies in the years ahead, I think for several years, these will still be expensive therapies, assuming that they're delivering significant value, more on the end of the spectrum of being curative than being palliative. So I think that's very important. I think you'll see pricing authorities around the world asking to pay over time, and I'm perfectly happy with that and paying for value. I think one of the advantages built into Caritas as well is with all the platform technologies again geared toward the safe and efficient gene transfer and providing as potent and as low a dose of vector as possible that this is also going to give us significant advantages in cost of goods sold. And ultimately, these prices will come down over the decade. And I think we'll still be in a position to build a quite strong and sustainable business from this as well. So it will be interesting to see how this unfolds. And it's one of the reasons why we want to launch Caritas is to launch what we think will rise to become immediately the preeminent next-generation gene therapy company of the world, which will give us an important voice in setting the regulatory pricing and access frameworks around the world.
+
+--------------------------------------------------------------------------------
+Operator    [41]
+--------------------------------------------------------------------------------
+And I'm showing, at this time, no questions in the queue. I'd like to turn the call back to Mr. John Crowley, Chairman and CEO, for closing remarks.
+
+--------------------------------------------------------------------------------
+John F. Crowley,  Amicus Therapeutics, Inc. - Chairman & CEO    [42]
+--------------------------------------------------------------------------------
+Great. Thank you, operator. Thank you, everybody, for listening. Again, this was, I know, a very bold series of announcements with respect to the spin out of Caritas, something that I think is fantastic for Amicus shareholders and for patients as well and, obviously, very important news on the advancement with our AT-GAA program with the acceptance of the filings in the United States and the review already underway. So much work ahead of us. Thank you all for listening. Have a good day.
+
+--------------------------------------------------------------------------------
+Operator    [43]
+--------------------------------------------------------------------------------
+This concludes today's conference call. Thank you, and have a great day.
+
+
+
+
+
+
+
+--------------------------------------------------------------------------------
+Definitions
+--------------------------------------------------------------------------------
+PRELIMINARY TRANSCRIPT: "Preliminary Transcript" indicates that the 
+Transcript has been published in near real-time by an experienced 
+professional transcriber.  While the Preliminary Transcript is highly 
+accurate, it has not been edited to ensure the entire transcription 
+represents a verbatim report of the call.
+
+EDITED TRANSCRIPT: "Edited Transcript" indicates that a team of professional 
+editors have listened to the event a second time to confirm that the 
+content of the call has been transcribed accurately and in full.
+
+--------------------------------------------------------------------------------
+Disclaimer
+--------------------------------------------------------------------------------
+Refinitiv reserves the right to make changes to documents, content, or other 
+information on this web site without obligation to notify any person of 
+such changes.
+
+In the conference calls upon which Event Transcripts are based, companies 
+may make projections or other forward-looking statements regarding a variety 
+of items. Such forward-looking statements are based upon current 
+expectations and involve risks and uncertainties. Actual results may differ 
+materially from those stated in any forward-looking statement based on a 
+number of important factors and risks, which are more specifically 
+identified in the companies' most recent SEC filings. Although the companies 
+may indicate and believe that the assumptions underlying the forward-looking 
+statements are reasonable, any of the assumptions could prove inaccurate or 
+incorrect and, therefore, there can be no assurance that the results 
+contemplated in the forward-looking statements will be realized.
+
+THE INFORMATION CONTAINED IN EVENT TRANSCRIPTS IS A TEXTUAL REPRESENTATION
+OF THE APPLICABLE COMPANY'S CONFERENCE CALL AND WHILE EFFORTS ARE MADE TO
+PROVIDE AN ACCURATE TRANSCRIPTION, THERE MAY BE MATERIAL ERRORS, OMISSIONS,
+OR INACCURACIES IN THE REPORTING OF THE SUBSTANCE OF THE CONFERENCE CALLS.
+IN NO WAY DOES REFINITIV OR THE APPLICABLE COMPANY ASSUME ANY RESPONSIBILITY FOR ANY INVESTMENT OR OTHER
+DECISIONS MADE BASED UPON THE INFORMATION PROVIDED ON THIS WEB SITE OR IN
+ANY EVENT TRANSCRIPT. USERS ARE ADVISED TO REVIEW THE APPLICABLE COMPANY'S
+CONFERENCE CALL ITSELF AND THE APPLICABLE COMPANY'S SEC FILINGS BEFORE
+MAKING ANY INVESTMENT OR OTHER DECISIONS.
+--------------------------------------------------------------------------------
+Copyright 2022 Refinitiv. All Rights Reserved.
+--------------------------------------------------------------------------------

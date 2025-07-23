@@ -1,0 +1,354 @@
+
+
+Refinitiv StreetEvents Event Transcript
+E D I T E D  V E R S I O N
+
+H Lundbeck A/S to Acquire Longboard Pharmaceuticals Inc Conference Call
+October 14, 2024 / 11:30AM UTC
+
+================================================================================
+Corporate Participants
+================================================================================
+
+ * Charl Van Zyl
+   H Lundbeck A/S - President, Chief Executive Officer
+ * Maria Alfaiate
+   H Lundbeck A/S - Executive Vice President - Commercial & Corporate Strategy
+ * Johan Luthman
+   H Lundbeck A/S - Executive Vice President, Research & Development
+ * Joerg Hornstein
+   H Lundbeck A/S - Chief Financial Officer, Executive Vice President - Corporate Functions
+
+================================================================================
+Conference Call Participants
+================================================================================
+
+ * Operator
+   
+ * Charles Pitman-King
+   Barclays Capital Inc. - Analyst
+ * Xian Deng
+   UBS Securities LLC - Analyst
+ * Martin Parkhoi
+   SEB Asset Management (Denmark) - Analyst
+ * Manos Mastorakis
+   Deutsche Bank Securities Inc. - Analyst
+ * Carsten Lonborg Madsen
+   Danske Bank A/S - Analyst
+
+================================================================================
+presentation
+--------------------------------------------------------------------------------
+Operator,     [1]
+--------------------------------------------------------------------------------
+Ladies and gentlemen, welcome to the Lundbeck conference call. I'm Moritz, the chorus call operator. I would like to remind you that all participants will be in a listen-only mode and the conference is being recorded. (Operator Instructions) The conference must not be recorded for publication or broadcast.
+At this time, it's my pleasure to hand over to Charl Van Zyl, President and CEO. Please go ahead, sir.
+--------------------------------------------------------------------------------
+Charl Van Zyl, H Lundbeck A/S - President, Chief Executive Officer    [2]
+--------------------------------------------------------------------------------
+So good afternoon. Thank you again for joining, of course, our call today on very short notice. And we want to use this time together to engage with you on our definitive agreement that we have announced to acquire Longboard Pharmaceuticals. And of course, this is a significant step for us forward in our journey to become a focused innovator. But before we go to the more detailed points on the deal, let me go to the next slide, please.
+So on this slide again, I want to make you aware of the forward-looking statements. So these include statements regarding the transaction between Lundbeck and Longboard, and of course, are subject to various risks and uncertainties and subject to change. If we can go to the next slide, please.
+And before we then talk about the deal itself and the agreement we have reached, let me highlight a few of the following points. The tender offer is not yet commenced and of course, this will -- as highlighted in the press release. And this call is therefore only for informational purposes, and of course, neither an offer to purchase or solicitation to sell any of the shares of common stock of Longboard. I just wanted to make you aware of these points as we go into the next discussion about the deal.
+So let's go to the next slide. And of course, I want to say again here that I'm really pleased that we could announce this deal today for Lundbeck to acquire Longboard Pharmaceuticals. And there are three and four important points that I want to highlight for you again around why we believe in this deal. First of all, it's building on our future as a focused innovator in the space of neuroscience. And what this deal brings us is a real perspective on long-term growth for Lundbeck in the future and in the next decade.
+It really builds on our strategic ambition to build strength in the neuro-rare space going forward. And of course, this complements other areas we have like [amlienatub] in alpha-synuclein in MSA that is also part of that program in the neuro-rare space.
+And of course, what is important in this asset that we are acquired today, bexicaserin, is that we are acquiring an asset with breakthrough therapy designation and the potential to address a number of severe and rare epilepsies in the space of developmental epileptic encephalopathies.
+And the final point I want to make again is that this, based on what we know today, this asset and the programs that we will develop it in will have the ability to deliver peak sales in the range of $1.5 billion to $2 billion, and of course, complementing our existing mid-stage and late-stage pipeline and building a strong position for long-term growth for Lundbeck.
+If we go to the next slide, what I would like to again emphasize, as you have heard from us many times and from myself, these are the pillars of our focused innovative strategy. The one is of course to grow what we have, grow in the midterm our strategic assets. And of course, we see very strong results there as we have communicated in the first half of this year. And that of course continues to be a key focus of growing through the midterm with our existing strategic assets.
+We of course focus very much also on our capital allocation towards innovation for the long term. And this is where our deal today with the acquisition of Longboard fits very well. It fits into our focused innovation strategy to build sustainable growth for the long term. And what we bring into the pipeline now is an asset that is going into Phase 3, and Phase 3 trials are being initiated with the ability to launch in the fourth quarter of 2028.
+And of course, the final pillar that we will discuss in more detail also during our upcoming Capital Markets Event is of course our ability to also reallocate capital and fund that future in a very sustainable, profitable way.
+So if I then go to the next slide, just a few words on Lundbeck and Longboard. And I first want to take a moment to, of course, thank the Longboard employees. This is a tireless effort that this team has worked in advancing the science in this space and bringing this level of innovation into an area of very high unmet need. And so I'm sure that the team is very proud of their achievements. And we are of course, very grateful that we can now build on that legacy and bring this to patients in the future.
+So what you have here is bexicaserin, which is a very selective 5-HT2C agonist with a broad potential. And we see that potential in areas like Dravet, Lennox-Gastaut, and of course other rare developmental epileptic encephalopathies. And so this is an area where we see really a number of patient populations that can be addressed by this very selective mechanism.
+We have seen of course compelling Phase 2 results that lead into Phase 3 with also a breakthrough designation. That is compelling in terms of its efficacy and safety profile that we believe could be a best-in-class treatment in this space. And of course, the fact that the Phase 3 results were compelling, of course also means scientifically that it's derisked and we have a high confidence that it will come to the market, and of course will contribute to that $1.5 billion to $2 billion peak sales potential that we see across these multiple indications.
+To now talk a bit more about the strategy and the strategic fit, I would like to hand over to Maria Alfaiate, who is our Head of Corporate and Commercial Strategy, who will share a bit more of her perspectives on the deal and the strategic fit for Lundbeck. Maria, over to you. Thank you.
+--------------------------------------------------------------------------------
+Maria Alfaiate, H Lundbeck A/S - Executive Vice President - Commercial & Corporate Strategy    [3]
+--------------------------------------------------------------------------------
+Thank you very much, Charl. And as we have been, or as Charl has been mentioning, this acquisition showcases the perfect strategic alignment with our focused innovative strategy that we've been sharing with you for a while. It also showcases our ambition to continue to bring leading innovation to patients within neurospecialty and neuro-rare diseases.
+Charl has already alluded to the fact that this is a derisked asset with several potential indications with compelling evidence, convincing evidence of what could be potentially a best in class for Dravet and Lennox-Gastaut, but also first in class for other DEEs.
+The significant IP protection also gives us considerable runway where we can drive the success of this asset. Of course, it has a strong fit with Lundbeck's strategy. It enhances our dedication to neuro-rare and also to the established presence that we have in rare epilepsies in the US. We expect launching in Q4 2028, as already has been alluded to.
+And I would move on to the next slide, please. You've also seen from the press release that Longboard Pharmaceuticals has an interesting profile. They have been experts in this area. And with the initiation of the Phase 3 DEEp SEA study, evaluating bexicaserin in Dravet Syndrome that is scheduled for this year, we will be playing into this rare epilepsies field.
+So on the asset you've read before bexicaserin, we believe that this could be a best in class within the modality. We are going for a broad range of indications, many of those that are currently very underserved. This asset is, in reality, a pipeline in a product.
+And I will let Johan tell us a bit more about the profile of the asset itself.
+--------------------------------------------------------------------------------
+Johan Luthman, H Lundbeck A/S - Executive Vice President, Research & Development    [4]
+--------------------------------------------------------------------------------
+Yeah, thank you very much, Maria. Let's turn to the next slide. So before I go into some more preclinical and clinical details about bexicaserin, I'd like to sort of orient you a little bit in the indication space we're operating here. This is an anti-seizure medication intended to work in a certain group of epilepsy patients.
+Epilepsy, as you know, is a very, very broad category of diseases with still enormous unmet medical need. It's estimated at around 30%, between 25% and 40% of epilepsy patients are not really reaching any good therapeutic effect with the drugs that exist today. So they are what we call resistant to seizure medication.
+And if we look then in how we classify different epilepsies, we still work with the classification on how the onset of the seizures start. So here we have the two different groups of focal and generalized seizures. And this is actually a fairly new classification in terms of epilepsy. We previously talked often about partial onset seizures when we talked about the focal seizures. But it really now recognizes the focal onset in say the temporal logos and other more defined unilaterally region for the focal seizures.
+The generalized are, as indicated by its name, something that broadly emanates from the whole brain, both sides of the brain. There are also mixed patterns of onset of seizures. And then unfortunately, there are a number of unknown reasons for it.
+If you then drill down on the DEE group, the developmental and epileptic encephalopathies, they can occur, [the geology] of them are basically based on three different broad categories: acquired, syndromal, or genetic. Genetic ones are basically best illustrated by Dravet Syndrome, where we have dominant mutations in the sodium channels. When it comes to the acquired ones, they could be due to brain trauma, tumors, and other effects of the brain like infections. While the syndromal one, I come across a number of different syndromes that are metabolic or due to other causes.
+So if you look at the DEE space, it contains a lot of different causes of epilepsies, seizure conditions. And it's only actually four of those that are today treated with any medication. So it's a big sea of DEEs that are not reached today with approved therapies.
+And Dravet Syndrome, I just mentioned that's a dominant mutation in sodium channels primarily, in this case. Here, we have a number of drugs in several years back. Lennox-Gastaut is actually a more narrowed down indication space than it used to be. And it's more defined now through its EEG recordings. But it's also quite well served by its drugs, but still many, many patients that are not responding to treatment well. Tuberous sclerosis complex is an indication where we recently have all the cocktail drugs to the market, but it's still tremendously underserved. Then we also have seen new drugs in the CDKL5 or CDDD disorder very recently. But as you can see on this list, which is just an example of the many different DEEs, there are many that are not served by approved drugs.
+Next slide, please. So then if we look at the numbers of patients here, you have the approved therapies in darker blue here on the left side in the four indications I just mentioned. But as you can see, there are many other DEEs that are not served today by approved treatments. And that's approximately 100,000 patients today that are not served by any approved therapies. Bexicaserin has the potential to address across all these. And that's why we're particularly interested in this drug.
+Next slide, please. So then if we look a little bit what made us very interested and excited about this drug, first of all, it has a very unique cell activity for 5-HT2C receptors. This is believed to be the validated receptor for its efficacy. And the interesting thing about the cell activity here is that it's conveyed by a pretty well understood structure activity relationship. It's in the [high toxic] structure with the [amid] group on the [eight position] that really conveys that cell activity.
+The cell activity has also been seen by the major metabolite of the drug, which is very important to also look at. So this means that this drug avoids some of the liabilities you see with 5-HT2B or 5-2C agonistic properties. So through that selectivity, it doesn't have any major inbuilt liabilities to have any of those cardiovascular and bulbar pathology liabilities or psychiatric type psychosis liabilities that may occur also due to agonistic approaches.
+So the preclinical evidence is pretty standard, there are a number of animal models, and I looked at it, and it showed good efficacy across a number of models. And that of course, triggered clinical development program in the Phase 1 program that looks at the safety for the interactions and drug interactions, which are very important because patients are often on multi-drug therapies, poly-drug therapies. So it's very important to see that it doesn't interfere with standard of care.
+And based on this, the PACIFIC Study was done, which was a Phase 1b/2a proof of concept study with multiple DEE populations. And the top-line data were communicated early this year. And that triggered, of course, our interest, and it was well recognized by the scientific community as well. And this also triggered the company Longboard to continue with initiating a Phase 3 program. And there is also an open-label part of the PACIFIC Study that have been quite recently reported.
+So I'd like to drill down a little bit more on the results of the PACIFIC trials, so if you go to the next slide, please. So on the left side here, you see from the PACIFIC Study the overall effect of bexicaserin in reducing the countable motor seizures. So here we're looking at one type of readout, which is the most clinically relevant when you look at motor-induced seizures, basically, epilepsy that leads to motor effects. And here, you see a quite pronounced effect against placebo. And I like to call out the placebo here are patients on standard of care. So on the overall population, we see almost a 60% reduction in the count of the motor seizures versus 17% in the placebo-treated standard care patients.
+If one then looks a little further at the different subpopulations, and this was a mixed group study, so obviously, there will be some patients that were included in the various subgroups. But I think this is very interesting to look at because if you look at the bigger group, Lennox-Gastaut, it was still a very robust over 50% reduction of the countable motor seizures.
+And in other DEEs, there were quite a sizeable group of patients also included. There was a 65%, almost 66% decrease in the countable motor seizures. And then interestingly, in the smaller sector of DEE patients that were involved, this was a very pronounced reduction of the counted motor seizures.
+So this of course, is very encouraging data, and is the basis of course for the initiated Phase 3 program. It also interested the FDA, because the company has obtained a breakthrough therapy destination on July 1 for DEEs for patients at two years or older age.
+And so with this, I would like to hand over to Joerg for the next slide.
+--------------------------------------------------------------------------------
+Joerg Hornstein, H Lundbeck A/S - Chief Financial Officer, Executive Vice President - Corporate Functions    [5]
+--------------------------------------------------------------------------------
+Thank you, Johan. This is truly a transformative and value-creating acquisition, accelerating our strategy to become a focused innovator.
+From a transaction details perspective, we're talking about a purchase price of USD60 per share in the form of an all-cash transaction. The USD60 per share constitute a 54% premium to the closing price of Longboard Pharmaceuticals as of last Friday, October 11.
+The total consideration for this transaction amounts to USD2.5 billion net of cash, which is approximately DKK17 billion, thereby making it the biggest deal in Lundbeck's history. We fund this transaction basically through existing cash resources and existing committed credit facilities.
+We see this transaction carrying deep value for Lundbeck and believe bexicaserin is a derisked asset with compelling Phase 2 data from its PACIFIC Study. The Phase 3 DEEp program has been initiated last month, and bexicaserin has an opportunity for a series of indications supporting continued growth due to its unique pharmacological profile that can deliver an unprecedented efficacy and safety profile across the DEE patient population. We estimate peak sales potential between USD1.5 billion to USD2 billion. The Longboard acquisition will significantly bolster our late-stage pipeline and drive growth through the next decade.
+We expect closing for this transaction in December '24. And we expect to recognize integration costs in the amount of approximately USD80 million, which amounts to roughly DKK550 million, which predominantly will impact '24 and will be adjusted for in our adjusted EBITDA financial reporting. As a result, we do not see an impact to our full year 2024 adjusted EBITDA guidance.
+This transaction is of course also attractive from an EBITDA accretion perspective that we estimate to be two to three years after launch in Q4 2028. Bexicaserin, together with other programs in our current portfolio such as [anpipaycap, amlenatuk, and anti-ACATH] complements Lundbeck's long term growth potential while addressing the [LOE of wiksaldi] at the same time.
+From a capital allocation perspective, we do not see any significant impact to our priorities. We remain committed to our dividend policy, targeting a payout at the existing 30% range of net profit, as well as the maintenance of an investment-grade rating at all times.
+Even that this is a very sizable deal for Lundbeck, we still have capacity for additional BD from a depth perspective, in line with our focused innovator strategy. On all of these topics, we will elaborate further at our Capital Market Event on October 23 next week.
+With that, I will hand over to Charl for some closing remarks.
+--------------------------------------------------------------------------------
+Charl Van Zyl, H Lundbeck A/S - President, Chief Executive Officer    [6]
+--------------------------------------------------------------------------------
+Yeah, thank you, Joerg. And if we can go to the final slide before I invite you for questions, let me just leave you with the key points. Again, it of course reinforces our strong position in neuroscience as a focused innovator. With this acquisition, it really perfectly fits into that strategy and contributes significantly to our long-term growth perspective.
+We see an adequate risk profile, in fact, scientifically quite derisked as a late-stage asset with multiple indication opportunities. It really builds depth and strength in our neuro-rare portfolio as one of our key pillars we want to continue to build as a future option for Lundbeck. And of course, as Joerg had mentioned also here, a strong solid balance sheet here also, post transaction.
+So with that, I would like us now to go to questions and open up to the back to the operator. Thank you.
+
+================================================================================
+q-and-a
+--------------------------------------------------------------------------------
+Operator,     [1]
+--------------------------------------------------------------------------------
+(Operator Instructions) Charles Pitman-King, Barclays.
+--------------------------------------------------------------------------------
+Charles Pitman-King, Barclays Capital Inc. - Analyst    [2]
+--------------------------------------------------------------------------------
+Just to get started, can you just give us maybe a little bit more information around how we should be thinking about current standard of care for these rare epilepsies, and how the competitive environment has developed over time, and why particularly bexicaserin is well placed to kind of beat these out? I mean, where in the treatment paradigm should we be expecting it to place?
+And then just secondly, a question in terms of the kind of premium suggested to be being paid for this asset. What is it about this asset that makes the kind of roughly 80% premium seem appropriate? Is this the level that we should be expecting for valuations of focused innovative biotech deals that you'd be looking to do in the future?
+--------------------------------------------------------------------------------
+Johan Luthman, H Lundbeck A/S - Executive Vice President, Research & Development    [3]
+--------------------------------------------------------------------------------
+Yeah, so I can start with your first question and then I -- thanks, it's a really good question. And obviously, we think it has a pretty unique space in the [armatorium] or standard of care because its profile, the binding profile, et cetera, of this molecule.
+But if I walk you through a little bit more of what we have in terms of competition, there is no drug approved for this broader label of DEE. And what one would be aiming for here is an indication for DEEs, basically, for children about two years or something, of age. That would be a very encompassing indication label, which if you look at the specific different diseases, of course, Dravet has had a number of drugs on the market for many years. Epidiolex is there since 2018, and topiramate also came to '20. So there are some good medications out there.
+But the little data we have so far on the molecule in Dravet Syndrome indicate that it has -- if you eyeball, the results are very impressive reduction of the motor seizures. So that's where we hope to see more data. And the company Longboard has already initiated a Phase 3 trial in Dravet syndrome.
+When it comes to the other big indication in this space, sub indication this space, in Lennox-Gastaut Syndrome, there are probably about eight approved drugs. And you have also drugs like fenfluramine there and cannabidiol, so those drugs are active in that space. Fenfluramine got approval quite recently, in 2022. So here, we have an efficacy that also works against those drugs at the same level, if not better.
+What we like to see here is of course, more data. And also, with the differentiation here that I hope will play out very much in the eyes of the prescribers and the patients and caregivers is the broader safety profile that this drug should entail by its selective 5-HT2C agonistic effect and avoiding the 2B.
+For tuberous sclerosis, which is a little odd indication in this big family, there are a couple of approved drugs. 2020, Epidiolex again, and then a new drug that became an mTOR inhibitor in 2018, which came through a treatment of other tumor effects. And then the CBD indication, as I mentioned, a new drug.
+I think overall, this biggest potential of this is that here, you don't have to really look at the various subsegments, and you offer therapy that can work across any kind of DEE, some of them very, very rare. And that is what we intend to do in the coming trial, as far as phase 3.
+So then I hand over to Charl maybe to handle the next part of the question.
+--------------------------------------------------------------------------------
+Joerg Hornstein, H Lundbeck A/S - Chief Financial Officer, Executive Vice President - Corporate Functions    [4]
+--------------------------------------------------------------------------------
+I can take that first. I think Charl could come back to your question, I think we're talking about an attractive acquisition price which is below, you can say, factor 1.5 of expected peak sales. If you compare that precedent M&A transactions somewhere in the range of $1 billion to $5 billion, post poc data and pre-Phase 3 data, then it's very much in line with, from a premium perspective, whether you look at unaffected 52-week high or 30-day [vbap]. And it is actually even more attractive if you compare it to some of the precedent rare epilepsy transactions.
+But besides multiples, I think it's much more important at the same time to look at the, as Johan said, the derisked nature of the asset and the quality of the commercial case that we have been able to put together, which sits on the back of achieving a broad label, and is of course worked out of a very diligent due diligence we have done together with [lankavi] pretty much, you can say, since January of this year. So it is a strong drill down into expectations we have on expected price, market share, a launch, and LoE in '41.
+--------------------------------------------------------------------------------
+Charles Pitman-King, Barclays Capital Inc. - Analyst    [5]
+--------------------------------------------------------------------------------
+Thank you so much.
+--------------------------------------------------------------------------------
+Operator,     [6]
+--------------------------------------------------------------------------------
+Xian Deng, UBS.
+--------------------------------------------------------------------------------
+Xian Deng, UBS Securities LLC - Analyst    [7]
+--------------------------------------------------------------------------------
+I guess the first one for Johan, please. On slide 12, so that p-value of that Phase 2 trial, it actually crosses the threshold of 5%, yet the magnitude seems to actually be very big for the active arm. So just wondering, why is that the case? Is that just multiple diseases? Or is it just high variance with individual patients? And how does it translate to your expectation for the Phase 3, your degree of confidence of Phase 3 success? That's the first question, please.
+And the second one, just sort of wondering, your level of confidence of achieving that peak sales of $1.5 billion to $2 billion. Because if I look at Fintepla, the confidence is -- with several sort of similar overlapping indications, the Fintepla confidence is actually around -- is actually below EUR1 billion. So just wondering, given your expectation is a lot higher, given the very similar mechanism, but just wondering, do you think your confidence is actually from you think you're going to have more indications? Or do you think you actually have a better drug, so you will have more market share?
+--------------------------------------------------------------------------------
+Johan Luthman, H Lundbeck A/S - Executive Vice President, Research & Development    [8]
+--------------------------------------------------------------------------------
+Yeah, thanks very much for that good question. Yeah, so if you look at the PACIFIC Study, obviously, it was a proof of concept study, more smaller, and it didn't include so many Dravet patients, just a handful, less than a handful. So the bigger population, as I mentioned, Lennox-Gastaut Syndrome and other DEEs. Reasonable sites have allow the DEEs group, but they obviously come with many different sub indications here.
+I think the confidence we have really going into Phase 3 is that it was consistently shown across the populations to work. Remember, this is still a fairly small proof of concept study, so p-values are not really the critical aspect here. It's really the extent of the effect and the variability you see almost at an individual level. So even in the few patients that were included from the Dravet subgroup, there was a very consistent effect. Now, one needs to look particularly in the Dravet group as a bigger population, and that's really what has been initiated now.
+I have to say, I have a very strong confidence that this will work out very nicely across populations. And why is that? Well, first of all, hidden in this drug is a validated mechanism with 5-HT2C agonistic effect, while this is a super agonistic effect. So if anything more potent, it's a very potent drug on that receptor with a remarkable cell activity. So there is no inbuilt cell break in dosing here.
+Physicians and us in clinical trials shouldn't be really concerned about liabilities in building the molecule. So that's one aspect that I think is really very interesting with this molecule, because some other drugs have a little more troubling side effects. Or even there's programs that try to avoid problems with other side effects that could occur, like also what has been described with, for example, I'm sure with the 5-HT2B liability. It took many years for that drug to build up its dosing and go into the indication space. Here, we don't have that concern. One could go straight out and really test the drug at reasonable doses. I hope that answered your question.
+--------------------------------------------------------------------------------
+Xian Deng, UBS Securities LLC - Analyst    [9]
+--------------------------------------------------------------------------------
+Yes. Thank you very much. Very helpful.
+--------------------------------------------------------------------------------
+Operator,     [10]
+--------------------------------------------------------------------------------
+Martin Parkhoi, SEB.
+--------------------------------------------------------------------------------
+Martin Parkhoi, SEB Asset Management (Denmark) - Analyst    [11]
+--------------------------------------------------------------------------------
+Firstly, just on your potential for initial launch in the fourth quarter of '28, would that be on the broad use? Or do you need to get a single indication in the beginning and then you can add indications, like we are seeing and hopefully will continue to see on resulting?
+And then just secondly, do you have any interest on other parts of the pipeline of Long? Or is it just a single asset acquisition? And in this context, was a license in the deal or a single asset sale, was that on the table as well? Or was it a full acquisition which was necessary?
+And then finally, to Joerg, how would the -- with the additional R&D cost that you've taken, how would it impact your midterm margin targets?
+--------------------------------------------------------------------------------
+Johan Luthman, H Lundbeck A/S - Executive Vice President, Research & Development    [12]
+--------------------------------------------------------------------------------
+Yeah, maybe I can start, and then maybe others can fill in a little bit. Yeah, so first of all, I think it's very important to note that the breakthrough designation that the FDA has provided here is really for the unspecified in some other DEEs. So that is of course the label one would aim for. So that would encompass, of course, Lennox-Gastaut, Dravet, and tuberous sclerosis, and whatever one may have in the trial.
+We really are going to aim for that sort of what you say broader label, initially. So there is no slicing here. The idea is really to encompass the whole DEE population. Obviously, there are various variants of this, and the way around the trials could lead up to various sub indication also being labeled or at least mentioned, because those populations are started in the clinical section of the label.
+Other pipeline assets, yes, there is one, S1P modulator that is in Phase 1. That is an asset that I would say is not any driver at all for this deal. This is a compound that is on a mechanism that is quite frankly also validated, again leaning on other drugs. But it's a very late comer. And this is something we didn't include in our evaluation of this deal, really.
+And I hope that answered part of your questions, but I think there could be also other parts that others can answer.
+--------------------------------------------------------------------------------
+Charl Van Zyl, H Lundbeck A/S - President, Chief Executive Officer    [13]
+--------------------------------------------------------------------------------
+I can add, Martin, to your question around what type of deal structure was available. Of course, many of these are considered, if it's in-licensing or outright acquisition. Of course, it depends also on the seller, and in this case, it was an outright acquisition that was really the deal structure on the table.
+Joerg, you want to comment?
+--------------------------------------------------------------------------------
+Joerg Hornstein, H Lundbeck A/S - Chief Financial Officer, Executive Vice President - Corporate Functions    [14]
+--------------------------------------------------------------------------------
+I'm happy to comment on the midterm targets. I think we feel comfortable to be able to handle this within the, you can say, existing bottom-line range or margin targets we have given. Of course, R&D costs are going to increase, but that's also not something new. We've seen that also this year, and that's also in line with our long-term guidance. So that should be clear.
+--------------------------------------------------------------------------------
+Martin Parkhoi, SEB Asset Management (Denmark) - Analyst    [15]
+--------------------------------------------------------------------------------
+Can I just have a follow on to Joerg, maybe. The peak sales estimate of USD1.5 billion to USD2 billion, is that -- how is that regionally stood, just broadly?
+--------------------------------------------------------------------------------
+Joerg Hornstein, H Lundbeck A/S - Chief Financial Officer, Executive Vice President - Corporate Functions    [16]
+--------------------------------------------------------------------------------
+I think it's very fair to say that the US has more than a supermajority in this case.
+--------------------------------------------------------------------------------
+Martin Parkhoi, SEB Asset Management (Denmark) - Analyst    [17]
+--------------------------------------------------------------------------------
+Thank you, and congratulations.
+--------------------------------------------------------------------------------
+Operator,     [18]
+--------------------------------------------------------------------------------
+Manos Mastorakis, Deutsche Bank.
+--------------------------------------------------------------------------------
+Manos Mastorakis, Deutsche Bank Securities Inc. - Analyst    [19]
+--------------------------------------------------------------------------------
+So just looking at Longboard's history and prior ownership, is there anything you can share about royal (technical difficulty), any royalties owed to other partners in the past?
+And second question would be on general confidence you have in the approval still going ahead in antitrust approvals, if you can comment on this point.
+--------------------------------------------------------------------------------
+Charl Van Zyl, H Lundbeck A/S - President, Chief Executive Officer    [20]
+--------------------------------------------------------------------------------
+Manos, it was quite difficult to get your question. It was not a very clear line. I think your question was around prior ownership and royalty commitments. We don't see any of those of concern for us in terms of our deal structure.
+I couldn't get the second part of your question very well. Could you maybe repeat, if possible?
+--------------------------------------------------------------------------------
+Manos Mastorakis, Deutsche Bank Securities Inc. - Analyst    [21]
+--------------------------------------------------------------------------------
+Yeah, (technical difficulty) going ahead. Any antitrust approvals, and then just (technical difficulty).
+--------------------------------------------------------------------------------
+Charl Van Zyl, H Lundbeck A/S - President, Chief Executive Officer    [22]
+--------------------------------------------------------------------------------
+Yeah, thank you. So I think your question on antitrust, if I understood correctly. And currently, our working assumption is by the fourth quarter of this year, we should expect clearance.
+--------------------------------------------------------------------------------
+Manos Mastorakis, Deutsche Bank Securities Inc. - Analyst    [23]
+--------------------------------------------------------------------------------
+Thank you. Thank you.
+--------------------------------------------------------------------------------
+Operator,     [24]
+--------------------------------------------------------------------------------
+Marc Goodman, Leerink partners.
+--------------------------------------------------------------------------------
+Unidentified Analyst,     [25]
+--------------------------------------------------------------------------------
+Hi, this is (inaudible) on the line for Mark. We were just wondering, could you talk about the potential for the full DEE label outside of the US? Maybe what you know the EMA's view of this is, since you're going after the full label directly in the US?
+And then the second question is, you alluded to the pipeline and the product, are there any indications beyond epilepsy where this mechanism could make sense? And given the superior selectivity and potentially better safety of this type of asset, we were just wondering if there's any indications in your mind beyond the DEE that are already highlighted.
+--------------------------------------------------------------------------------
+Johan Luthman, H Lundbeck A/S - Executive Vice President, Research & Development    [26]
+--------------------------------------------------------------------------------
+Yeah, I guess those are two questions for me. So let me try with the last question first. I think this is a pretty unique mechanism for seizure conditions. We have not considered any other indications. Of course, there are conditions that come with seizures, famous is, for example, Alzheimer's disease. So you have seizures at some stages. So one could perceive maybe other indications, but there will still be some type of anti-seizure medication. So we're not going out outside the anti-seizure medication space with this mechanism, to my knowledge. I mean, things can happen in the science field, and you remember this is a very old serotonin mechanism, really, if you think about it. But we don't expect anything else.
+When it comes to the DEE indication, which is really interesting and I think quite exciting opportunity now presented by the breakthrough designation, we are aware about Longboard having had some conversations outside the US, but they obviously have a fairly small enterprise located in the US and focusing on the US regulatory interactions first. But there have been some initial conversations also with, for example, Europe. And we understand that so far, it's been reasonable, encouraging conversations. But we really need to get under the hood with this and really try to pursue our own avenue with the regulatory interactions with Europe and the Asian major markets to really understand the potential.
+I think this is a really great -- I'd like the comment that I think this is very great opening by the FDA because it really follows where the different organizations in the epilepsy space are working. The International League for Epilepsy has really pointed to DEE as a broader category. And I think the FDA seems very responsive to that kind of new label.
+--------------------------------------------------------------------------------
+Unidentified Analyst,     [27]
+--------------------------------------------------------------------------------
+Thank you.
+--------------------------------------------------------------------------------
+Operator,     [28]
+--------------------------------------------------------------------------------
+(Operator Instructions) Carsten Lonborg Madsen, Danske Bank.
+--------------------------------------------------------------------------------
+Carsten Lonborg Madsen, Danske Bank A/S - Analyst    [29]
+--------------------------------------------------------------------------------
+Yeah, thank you very much. I just had one question. Maybe you could outline a little bit about the Phase 3 trial design and whether this single Phase 3 trial is enough to get you to this USD1.5 billion to USD2 billion in peak sales that you are hoping for, or whether you need to add more trials over the years, also maybe in order to for us to understand a little bit more whether this DEE indication can be captured in just one single trial?
+--------------------------------------------------------------------------------
+Johan Luthman, H Lundbeck A/S - Executive Vice President, Research & Development    [30]
+--------------------------------------------------------------------------------
+Yeah, I can start. The peak sales part, maybe someone else can comment on, but let me comment on the Phase 3 designs here a little bit. The program phase -- initiated Phase 3 program here actually is constructed with two different trials. So there is one trial that is looking at Dravet in it by itself. And then another trial that's just about to start up, that looks at the Lennox-Gastaut and other DEEs, so more a bundled basket-type of trial.
+So there will be two trials within the DEE universe that will be run. This is probably more for practical reasons, et cetera, and how you enroll, and what kind of balance you like to have between different types of courses of DEE. But the overall intent here is that this will be bundled together according to International League Against Epilepsy definition of a DEE that emerged in 2017. So it will fulfill sort of what we see within the DEE space.
+Obviously, there are literally hundreds, if not thousand causes of DEE, but the trial is really trying to capture the major parts of the causes for DEE from the different buckets that I talked about: acquired, syndromal, or genetic. So the intent is really to have a design that encompass all in DEE risk to get into all those indications. If that would not be the case, there is still a very strong mechanism of action, so one could even slice the cake in different ways moving forward.
+In terms of peak sales, et cetera, I think someone else should comment on this.
+--------------------------------------------------------------------------------
+Charl Van Zyl, H Lundbeck A/S - President, Chief Executive Officer    [31]
+--------------------------------------------------------------------------------
+Maria, please go ahead.
+--------------------------------------------------------------------------------
+Maria Alfaiate, H Lundbeck A/S - Executive Vice President - Commercial & Corporate Strategy    [32]
+--------------------------------------------------------------------------------
+I mean, it links a little bit to the previous question as well. The global market for DEEs was valued at roughly USD7 billion in 2023. And we expect it to jump to roughly $11.4 billion by 2033, so this is an annual growth of 5%. So this is indeed an area where we could have a significant impact.
+And I don't know if you want to supplement, Charl?
+--------------------------------------------------------------------------------
+Charl Van Zyl, H Lundbeck A/S - President, Chief Executive Officer    [33]
+--------------------------------------------------------------------------------
+No, I think just to add for clarification for Carsten, our current peak sales potential that we have addressed, of course, today, is dependent on us achieving that broad label, just to be very clear on that.
+--------------------------------------------------------------------------------
+Carsten Lonborg Madsen, Danske Bank A/S - Analyst    [34]
+--------------------------------------------------------------------------------
+Yeah. All right. Makes sense. Thank you.
+--------------------------------------------------------------------------------
+Operator,     [35]
+--------------------------------------------------------------------------------
+Charles Pitman-King, Barclays.
+--------------------------------------------------------------------------------
+Charles Pitman-King, Barclays Capital Inc. - Analyst    [36]
+--------------------------------------------------------------------------------
+Just to double check in terms of this aim to get the broad label, obviously, there are other assets approved in some of these DEEs. What's been preventing them from achieving this broad label? And is this something that you and Longboard have been pioneering? And just what is the view on the regulator around this trial setup?
+--------------------------------------------------------------------------------
+Johan Luthman, H Lundbeck A/S - Executive Vice President, Research & Development    [37]
+--------------------------------------------------------------------------------
+Yeah, that's a good question, I have to say. And I don't see it in the heads of other people that have been looking at this stage, but I have, in my past career, worked on rufinamide, one of the early Lennox-Gastaut drugs.
+I think the main reason for this is, quite frankly, that this has been an evolving field, and they get much, much better definitions of the different subtypes, but also DEE as an entity by itself. It's quite recent, as I said, that we really defined the developmental and epileptic encephalopathies, 2017. So I think most programs didn't really have that kind of classification to work with when they started up.
+Would they be able to move into this space? I think it's when you have other indications, then it's still harder, because then you have to really start those specific populations to add them into it. Here, we have a program that adds for that new definition in a broader sense from the beginning, so that creates a better opportunity to really get that broader label.
+Yeah, we don't talk so much about this in the industry, but there's of course a lot of off-label use and various indications here. I think what the world should hopefully look forward to here is characterized, on label, and verified working drug on the DEE population according to the more modern criteria. I hope that answers the question because I think it's a really important question.
+--------------------------------------------------------------------------------
+Charles Pitman-King, Barclays Capital Inc. - Analyst    [38]
+--------------------------------------------------------------------------------
+Thank you so much. It does.
+--------------------------------------------------------------------------------
+Operator,     [39]
+--------------------------------------------------------------------------------
+[Sean Hamer], Jefferies.
+--------------------------------------------------------------------------------
+Unidentified Analyst,     [40]
+--------------------------------------------------------------------------------
+So firstly, how will bexicaserin fit into the current commercial infrastructure, given the prior epilepsy franchise is off patent? And then also, is there any scope for earlier commercial launch, so prior to 4Q '28?
+--------------------------------------------------------------------------------
+Maria Alfaiate, H Lundbeck A/S - Executive Vice President - Commercial & Corporate Strategy    [41]
+--------------------------------------------------------------------------------
+So as we have mentioned before, this asset is fully aligned with our ambition to become a significant player in the neuro-rare space. And of course, you know of our own internal asset, [amlinituk]. So we are considering different types of synergies with commercial footprint with regards to the way we approach these neuro-rare indications. I cannot give you too much detail at this stage.
+With regards to an earlier launch, of course, we need to see, we need to monitor how the trial is going. Having breakthrough designation for these DEEs is a sign of interest from the FDA, but breakthrough designation does not mean necessarily that we will conclude the trial earlier than expected. It's just a situation that we need to look into, as with any other event-driven trial.
+I don't know if you want to supplement, Johan?
+--------------------------------------------------------------------------------
+Johan Luthman, H Lundbeck A/S - Executive Vice President, Research & Development    [42]
+--------------------------------------------------------------------------------
+Yeah, I mean, yeah, I would love to have an early commercial launch, but you need to generate the data, and you need to get the patients into the trial -- trials, I should say, because they are separated into two trials here.
+I think it's really very hard to estimate at this early stage. These populations are really, really challenging populations. You'll remember, they are young, young children. Many of them, they are born with encephalopathies that develop into seizures or born with both -- running in parallel, so basically comorbidities. They have cognitive and developmental problems, so for caregivers, it's hard also sometimes to participate in trials. But we hope that the encouraging initial data here will trigger patients to come into the trials. But in terms of reaching the DEE population or actually any of those populations, I think one needs to run the trial for a couple of years.
+--------------------------------------------------------------------------------
+Operator,     [43]
+--------------------------------------------------------------------------------
+Ladies and gentlemen, this was the last question. I would now like to turn the conference back over to Charl Van Zyl for any closing remarks.
+--------------------------------------------------------------------------------
+Charl Van Zyl, H Lundbeck A/S - President, Chief Executive Officer    [44]
+--------------------------------------------------------------------------------
+Yeah, so again, thank you so much for joining the call today. Of course, a very important moment for Lundbeck in our focused innovative strategy, and of course, very pleased to be able to announce this important transformative acquisition for us going forward. And we, of course, look forward to engaging with you more in our Capital Markets Event that will be next week, the October 23, so looking forward to further questions that you may have at that point. Thanks again for joining today.
+
+
+
+
+
+
+--------------------------------------------------------------------------------
+Definitions
+--------------------------------------------------------------------------------
+Preliminary Transcript: "Preliminary Transcript" indicates that the 
+Transcript has been published in near real-time by an experienced 
+professional transcriber.  While the Preliminary Transcript is highly 
+accurate, it has not been edited to ensure the entire transcription 
+represents a verbatim report of the call.
+
+EDITED TRANSCRIPT: "Edited Transcript" indicates that a team of professional 
+editors have listened to the event a second time to confirm that the 
+content of the call has been transcribed accurately and in full.
+
+--------------------------------------------------------------------------------
+Disclaimer
+--------------------------------------------------------------------------------
+The London Stock Exchange Group and its affiliates (collectively, "LSEG") reserves the right to make changes to documents, content, or other information on this web site without obligation to notify any person of such changes. No content may be modified, reverse engineered, reproduced or distributed in any form by any means, or stored in a database or retrieval system, without the prior written permission of LSEG. The content shall not be used for any unlawful or unauthorized purposes. LSEG does not guarantee the accuracy, completeness, timeliness or availability of the content. LSEG is not responsible for any errors or omissions, regardless of the cause, for the results obtained from the use of the content. In no event shall LSEG be liable to any party for any direct, indirect, incidental, exemplary, compensatory, punitive, special or consequential damages, costs, expenses, legal fees, or losses (including, without limitation, lost income or lost profits and opportunity costs or losses caused by negligence) in connection with any use of the content even if advised of the possibility of such damages.
+
+In the conference calls upon which Summaries are based, companies may make projections or other forward-looking statements regarding a variety of items. Such forward-looking statements are based upon current expectations and involve risks and uncertainties. Actual results may differ materially from those stated in any forward-looking statement based on a number of important factors and risks, which are more specifically identified in the companies' most recent SEC filings. Although the companies may indicate and believe that the assumptions underlying the forward-looking statements are reasonable, any of the assumptions could prove inaccurate or incorrect and, therefore, there can be no assurance that the results contemplated in the forward-looking statements will be realized.
+
+LSEG assumes no obligation to update the content following publication in any form or format. The content should not be relied on and is not a substitute for the skill, judgment and experience of the user, its management, employees, advisors and/or clients when making investment and other business decisions. LSEG does not act as a fiduciary or an investment advisor except where registered as such.
+
+THE INFORMATION CONTAINED IN TRANSCRIPT SUMMARIES REFLECTS LSEG'S SUBJECTIVE CONDENSED PARAPHRASE OF THE APPLICABLE COMPANY'S CONFERENCE CALL AND THERE MAY BE MATERIAL ERRORS, OMISSIONS, OR INACCURACIES IN THE REPORTING OF THE SUBSTANCE OF THE CONFERENCE CALLS. IN NO WAY DOES LSEG OR THE APPLICABLE COMPANY ASSUME ANY RESPONSIBILITY FOR ANY INVESTMENT OR OTHER DECISIONS MADE BASED UPON THE INFORMATION PROVIDED ON THIS WEB SITE OR IN ANY SUMMARY. USERS ARE ADVISED TO REVIEW THE APPLICABLE COMPANY'S CONFERENCE CALL ITSELF AND THE APPLICABLE COMPANY'S SEC FILINGS BEFORE MAKING ANY INVESTMENT OR OTHER DECISIONS.
+--------------------------------------------------------------------------------
+Copyright 2024 LSEG. All Rights Reserved.
+--------------------------------------------------------------------------------

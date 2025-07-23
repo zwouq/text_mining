@@ -1,0 +1,244 @@
+
+
+Refinitiv StreetEvents Event Transcript
+E D I T E D   V E R S I O N
+
+Supernus Pharmaceuticals Inc Acquisition of Adamas Pharmaceuticals Inc - M&amp;A Call
+OCTOBER 11, 2021 / 12:30PM GMT
+
+================================================================================
+Corporate Participants
+================================================================================
+
+ * Jack A. Khattar
+   Supernus Pharmaceuticals, Inc. - Founder, President, CEO, Secretary & Director
+
+================================================================================
+Conference Call Participiants
+================================================================================
+
+ * Kenneth Charles Cacciatore
+   Cowen and Company, LLC, Research Division - MD & Senior Research Analyst
+ * Peter Vozzo
+   Westwicke Partners, LLC - MD
+ * Annabel Eva Samimy
+   Stifel, Nicolaus & Company, Incorporated, Research Division - MD
+ * David A. Amsellem
+   Piper Sandler & Co., Research Division - MD & Senior Research Analyst
+
+================================================================================
+Presentation
+--------------------------------------------------------------------------------
+Operator    [1]
+--------------------------------------------------------------------------------
+
+          Good morning, and welcome to Supernus Pharmaceutical Business Update Conference Call. (Operator Instructions) As a reminder, this conference is being recorded. I would like to turn the conference over to Peter Vozzo of Westwicke Investor Relations, representative of Supernus Pharmaceuticals. You may begin.
+
+--------------------------------------------------------------------------------
+Peter Vozzo,  Westwicke Partners, LLC - MD    [2]
+--------------------------------------------------------------------------------
+
+          Thank you, Michelle. Good morning, everyone, and thank you for joining us today as we discuss the acquisition of Adamas Pharmaceuticals, which was announced this morning. On the call with me today are Supernus' Chief Executive Officer, Jack Khattar; Chief Financial Officer, Tim Dec; and Senior Vice President of Corporate Development, Bryan Roecklein. Today's call is being made available via the Investor Relations section of the company's website at ir.supernus.com. Following remarks by management, we will open the call to questions.  
+During the course of this call, management may make certain forward-looking statements regarding future events and the company's future performance. These forward-looking statements reflect Supernus' current perspective on existing trends and information. Any such forward-looking statements are not guarantees of future performance and involve risks and uncertainties, including those noted in the Risk Factors section of the company's latest SEC filings. Actual results may differ materially from those projected in these forward-looking statements. For the benefit of those who may be listening to the replay, this call is being held and recorded on October 11, 2021, at approximately 8:30 a.m. Eastern Time.  
+Since then, the company may have made additional announcements related to the topics discussed. Please reference the company's most recent press releases and current filings with the SEC. Supernus declines any obligation to update these forward-looking statements, except as required by applicable securities laws. I will now turn the call over to Jack.
+
+--------------------------------------------------------------------------------
+Jack A. Khattar,  Supernus Pharmaceuticals, Inc. - Founder, President, CEO, Secretary & Director    [3]
+--------------------------------------------------------------------------------
+
+          Thank you, Peter, and good morning, everyone, and thanks for joining us to discuss the agreement we announced this morning to acquire Adamas Pharmaceuticals. I will start first with an overview of the transaction showing that the total consideration is up to $9.10 per share, including an upfront payment of $8.10 per share, which approximately equals about $400 million upfront on a fully diluted basis.  
+In addition to the upfront payment, there will be potentially commercial milestone payments of up to $1 per share, $0.50 per share payable if in any 4 consecutive quarters between the closing of the transaction and the end of the year 2024. Net sales of GOCOVRI achieve $150 million another $0.50 per share payable if in any 4 consecutive quarters, again between closing of the transaction and the end of 2025, net sales of GOCOVRI achieve $225 million.  
+All the consideration will be in cash funded through our existing cash on the balance sheet. The transaction is expected to close in the late Q4 of 2021 or early Q1 2022.  
+The next slide shows you that we are basically through this transaction adding a commercial stage neurology assets with significant revenue primarily coming from GOCOVRI. The 2020 net sales of GOCOVRI were $71.2 million. And in the first half of 2021, net sales were $37.7 million, representing approximately 16.3% growth over the same period in the year 2020.  
+GOCOVRI is indicated basically for the treatment of dyskinesia in patients with Parkinson's disease who are receiving levodopa-based therapy with or without concomitant dopaminergic medications as well as an adjunctive treatment to levodopa/carbidopa in patients who are experiencing off episodes. It has durable IP and exclusivity.  
+In addition to GOCOVRI, there will be also another asset, Osmolex ER, which was acquired by Adamas in January of 2021. Osmolex ER is also indicated for the treatment of Parkinson's disease and drug-induced extrapyramidal reactions in adult patients. In addition to these commercial assets, we will also be getting an incremental royalty stream on net sales of NAMZARIC, a product that was developed by Adamas and is marketed by AbbVie and that is expected to be through the year 2024.  
+On the next slide, I would like to go through the strategic shift and rationale for this transaction that we're very excited about. This acquisition fits exactly within our corporate development strategy of adding commercial and late-stage neurology and/or psychiatry assets: first, it strengthens our leading CNS and movement disorder portfolio by adding 2 marketed products; second, it adds a new growth catalyst, a key growth driver in GOCOVRI; third, it diversifies and increases our revenue base by approximately somewhere in the mid-teens as a percent of increase in revenue and also diversifies and increases our cash flow. And thereby reducing the reliance on Trokendi XR, which I will explain in a minute. And then it also represents significant synergies from the strong overlap with the existing infrastructure, which we estimate at this point to be $60 million to $80 million in potential synergies in year 1.  
+And then finally, and more importantly, it really represents a very strong return on the invested capital and the capital we're deploying in this transaction. This transaction is significantly accretive to the earnings per share starting in year 1.  
+So regarding the reliance on Trokendi XR, our corporate development strategy has worked extremely well in the past couple of years. If you look on this chart, if you look at the left side, you will see a pie chart representing Supernus on a pro forma basis, first half 2021 revenues of $209 million with 72% of that revenue coming from Trokendi XR and 28% coming from the other Supernus products.  
+On the right side, we're representing Supernus post the 2 transactions that we are doing this year and that we did last year, which is the post-Adamas and the acquisition of the CNS portfolio from U.S. world map. And you will see that our reliance on Trokendi XR significantly has reduced to 48% of Supernus total revenue in the first half of 2021 with other transactions and other products representing a much bigger piece of the pie, and therefore, showing that our corporate development strategy has really executed very well against the objectives that we set out for ourselves to reduce our reliance on Trokendi XR well before the 2023 generic entry.  
+Moving on now to explaining how GOCOVRI fits within the Parkinson's disease market and the importance of that unique product in treating patients with Parkinson's. As you probably know, the Parkinson's disease market is fairly large, and it is expected to grow to $6.2 billion by the year 2026. It is the second most common chronic neurodegenerative disorder and affecting 1% to 2% of individuals 65 years and older. And the number of patients in the U.S. Parkinson's patients in 2020 is estimated to be about 1 million patients. The market has been growing on an annual basis at a rate of approximately 2.5%.  
+One of the big issues in the Parkinson's disease market is patients as they progress through the disease, their therapy wears off, and it results in off episodes, off what we call off periods. And at the same time many of the medications also cause what we call dyskinesia. And it's been a major challenge for physicians and patients to really treat both ends of the spectrums and to really address both of these issues at the same time.  
+While GOCOVRI is uniquely positioned in this marketplace as you will see on the next slide, by addressing a significant unmet need in this market. First, looking at the 1 million patients that I just mentioned that are diagnosed in the U.S. with Parkinson's disease, 800,000 of them are diagnosed and treated, about 700,000 are levodopa-treated patients.  
+But what's really important is out of the 700,000, we believe an estimate about 400,000 to 500,000 represent the addressable U.S. patient population for GOCOVRI. These are patients who experience off episodes and/or dyskinesia, and over time become more in need of medication that can treat both ends of the spectrum of these motor symptoms.  
+Actually another way of looking at it, over 50% of people with Parkinson's disease experience off episodes, dyskinesia, or both within 5 years and up to 100% after 10 years. So there is a huge market need for a product like GOCOVRI, which is indicated to treat the off episodes as well as dyskinesia.  
+The next slide shows you how this transaction allows us to offer another important option for patients to treat this ugly disease as it progresses through the stages of the Parkinson's disease. So with this acquisition, Supernus will have several offerings including XADAGO, APOKYN, SPN-830, which is our apomorphine infusion that we continue to be on track of filing the NDA before year-end and, of course, GOCOVRI as well with this transaction.  
+The next slide shows you the unique profile of GOCOVRI from a clinical perspective. This is data from the Phase III studies that were conducted on GOCOVRI, it's full data of the 2 studies, Study 1 and Study 2 in the Phase III program. What's really important to note reinforcing the message I was earlier talking about is that on the primary endpoint, the product showed a 27% decrease in dyskinesia.  
+It also showed on the secondary endpoints, 36% decrease in the off time and as importantly, 29% increase in good on time. This is truly a remarkable clinical profile that uniquely differentiate GOCOVRI versus a lot of the products in the marketplace, and again, giving physicians and offering patients an alternative allowing them to treat both the off time episodes and dyskinesia without having to sacrifice on the levodopa dose.  
+What typically physicians try to do is adjusting the levodopa dose to reduce dyskinesia. In this case, with GOCOVRI, they don't have to do that. They can maintain the levodopa dose if they choose to do so, treating the off time as well as treating the dyskinesia with GOCOVRI.  
+In summary, this transaction allows us to have a comprehensive commercial platform in CNS. What you'll see on this slide is what would be now with this transaction, if it closes, a portfolio of 8 marketed products across several disease and therapeutic areas. Of course, starting on the left side with Qelbree in ADHD and psychiatry and then  Trokendi XR, Oxtellar XR in epilepsy and migraine for Trokendi XR. And as you will note, under the Parkinson's portfolio strengthening further our portfolio with the addition of mainly and primarily GOCOVRI.  
+And then finally, with MYOBLOC in cervical dystonia and Sialorrhea.  This clearly has become a much more and would become a much more diversified revenue base and cash flow stream and adds another key additional growth asset as represented by GOCOVRI.  
+So in summary, we believe our corporate development strategy has executed -- been executed extremely well over the last couple of years by addressing the short-term issue, which we have been trying to address, which is the transition through 2023 when Trokendi XR faces generic entry, but also in addition to that we are well positioned for the long-term growth at Supernus by having an innovative pipeline in the CNS.  
+We are very excited about next year with Qelbree potential launch in adult for the adult ADHD. Also very excited about the potential of launching also next year SPN-830 in the Parkinson's disease area, again further strengthening our presence in Parkinson's with the apomorphine infusion pump. And also look forward to starting the Phase II study by year-end on SPN-820 in depression and continue to progress SPN-817 in severe epilepsy.  
+With this, I will now turn over the presentation for Q&A. Thank you.
+
+
+================================================================================
+Questions and Answers
+--------------------------------------------------------------------------------
+Operator    [1]
+--------------------------------------------------------------------------------
+
+          (Operator Instructions) And our first question comes from the line of Ken Cacciatore with Cowen and Company.
+
+--------------------------------------------------------------------------------
+Kenneth Charles Cacciatore,  Cowen and Company, LLC, Research Division - MD & Senior Research Analyst    [2]
+--------------------------------------------------------------------------------
+
+          Congratulations, Jack. This makes a ton of strategic sense. One of the issues with GOCOVRI has been some tolerability and persistency on the drug. We get a sense that to really obviously drive this higher given that issue. And I'd love to hear your thoughts on it is you really need to increase the funnel in. And so wondering, is this drug amenable to direct-to-consumer? How are you going to kind of change either the promotional spending behind it, kind of start the growth or really jump-start the growth? 
+And then also, there seems to be a nicely built internal system here, GOCOVRI Connect by the old management team, where they worked well with managed care, individualized on a patient level, on a clinician level. Can you talk about how you might be able to leverage that?
+
+--------------------------------------------------------------------------------
+Jack A. Khattar,  Supernus Pharmaceuticals, Inc. - Founder, President, CEO, Secretary & Director    [3]
+--------------------------------------------------------------------------------
+
+          Yes, sure. First, starting with the tolerability and persistency, I mean, of course, every drug out there has its side effects, its tolerability and safety profile and so forth. And what we see in GOCOVRI is a really very important treatment option for physicians out there to use it the right way and to really be able to address the significant problem I mentioned earlier, which is balancing and being able to treat both episodes and dyskinesia. And over time, a lot of the patients do get to tolerate the medication if used appropriately and per the prescribing information, they will really develop that tolerability and they can really get the benefits of the products. 
+As far as the promotional aspect of the product and so forth, I mean, clearly, we are in the space. We have the infrastructure and so forth, but we are looking forward to building on this great progress that the Adamas team has made in the last year or so. They really made a significant progress in redirecting the product, addressing the launch issues of the product that historically were affecting the impact of the product and so forth.
+So we look forward to build on that growth momentum. Obviously, through many of our promotional programs, not just the circle of care and so forth, but through the whole aspect of the promotional mix, to make sure really as many patients have access to this product. This is truly a very unique product unlike any other product in this space, and we believe it has a great potential.
+
+--------------------------------------------------------------------------------
+Operator    [4]
+--------------------------------------------------------------------------------
+
+          (Operator Instructions) Our next question comes from the line of Annabel Samimy with Stifel.
+
+--------------------------------------------------------------------------------
+Annabel Eva Samimy,  Stifel, Nicolaus & Company, Incorporated, Research Division - MD    [5]
+--------------------------------------------------------------------------------
+
+          Congratulations on this. So I just wanted to go back to the comments you made that Adamas had made some great progress with some of the launch issues. I know that initially, there was possibly an access problem. There were generics on the market. Can you just go into a little bit more detail what some of those launch issues were and what they've changed and maybe what you can bring to the table as far as extending or expanding the opportunity given your footprint? So that's the first question. 
+And then I guess the second one is, how is GOCOVRI's second indication, which they just received? How can that help with the uptake?
+
+--------------------------------------------------------------------------------
+Jack A. Khattar,  Supernus Pharmaceuticals, Inc. - Founder, President, CEO, Secretary & Director    [6]
+--------------------------------------------------------------------------------
+
+          Yes, sure. On the first question, I mean, access market has other generic products on the market. I mean this is something a lot of new launches, new product launches have been actually facing in our industry in general. And clearly, over time, you work your issues through specifically with coverage and access and so forth. 
+So we certainly will look forward to working with the payers to making sure that this very unique product, again, unlike any other product, there is no such other product that is indicated to treat both off episodes and dyskinesia. So from a clinical perspective, you are offering patients something that doesn't exist out there, except through GOCOVRI. 
+And that is something I'm sure we will be able to work with the payers. And again, the Adamas team has truly made significant progress in these discussions with the payers. So we will pick up from there and make sure we continue that progress and try to get as much coverage as possible. 
+Now while that is going, clearly, we have and the Adamas team has put a very strong support system to help the patients get access to the product, reimbursement, all that. So that will obviously will continue as well through the Supernus team and the support systems we have in place in this marketplace. 
+As far as the second indication with GOCOVRI, it is still early, obviously, since the second indication has been just launched recently. But we already have seen some signals that clearly the message is very much resonating with the physicians as far as adopting this product as a key treatment in the space. And we believe that this represents a potential for us to reaccelerate hopefully, the growth behind the product and get it a huge marketplace. 
+I mean, as I mentioned earlier in the slides, potentially, you are looking at 400,000 to 500,000 patients as an addressable market even penetrating that patient population in a small way can significantly -- obviously, represent significant growth opportunities for the product. So clearly, we will be focusing on that. We will be focusing on making sure that the message gets out there and a lot of patients get access to this product.
+
+--------------------------------------------------------------------------------
+Annabel Eva Samimy,  Stifel, Nicolaus & Company, Incorporated, Research Division - MD    [7]
+--------------------------------------------------------------------------------
+
+          Okay. If I could just go a little deeper into that. So I guess, initially when it was launched, it was aside from just the access issues there are a lot of physicians who are skeptical that GOCOVRI was offering something different than amantadine generic that's always been available. 
+And I just want to know if that mindset has shifted at all. Have they gotten the message? I understand that some of the access issues were already addressed, and they have about 93% coverage now. So is there -- do you feel like you need to work with physicians in terms of explaining the difference with amantadine, I guess, 5 years into a launch still?
+
+--------------------------------------------------------------------------------
+Jack A. Khattar,  Supernus Pharmaceuticals, Inc. - Founder, President, CEO, Secretary & Director    [8]
+--------------------------------------------------------------------------------
+
+          Absolutely. I mean, Annabel, as you know, we're very much familiar with these types of situations with our own products on Trokendi, Oxtellar XR. And even until today, 9 years later, we still have to continue to push the message through with physicians and tell them, for example, how Trokendi XR is so different than immediate-release topiramate. 
+And likewise, how Oxtellar XR is so different than immediate-release oxcarbazepine. This is not that different from that perspective. However, more important that GOCOVRI has different indications. It's not even the same indications as generic amantadine. So for them to really equate the 2 and say they're exactly the same, that is not true. 
+GOCOVRI has a very different unique profile, obviously, first from a pharmacokinetic perspective. But also a very different clinical profile as evident by the Phase III clinical data that I just mentioned briefly that amantadine IR doesn't have that kind of data clearly. 
+So they're very different products, very different treatments and that is something that absolutely we will have to continue to educate physicians, have to continue to make sure that you really understand and appreciate these clinical benefits and the data that exists out there behind the product. 
+It's an ongoing process. It never stops. That is something that you'll have to always continue to hammer to make sure physicians really understand and appreciate it as well as the payers, as I said earlier, to make sure that the access is improved.
+
+--------------------------------------------------------------------------------
+Operator    [9]
+--------------------------------------------------------------------------------
+
+          (Operator Instructions) Our next question comes from the line of David Amsellem with Piper Sandler.
+
+--------------------------------------------------------------------------------
+David A. Amsellem,  Piper Sandler & Co., Research Division - MD & Senior Research Analyst    [10]
+--------------------------------------------------------------------------------
+
+          So I wanted to ask a higher-level question, Jack, about your overall strategic aims and M&A strategy. It's no secret that there's some commercial inefficiencies with what I would call overlapping sales forces in the broader neuro space and also neuropsychiatry space. So I guess with that in mind, do you see Supernus as a company that can roll up several assets here in the neurology space. That's number one. 
+And then number two, you had mentioned previously that you talked about adding an asset in psychiatry that could -- where you can leverage the sales infrastructure that you have in place. Is that something that would still be on the table? And how much of a priority is that going forward?
+
+--------------------------------------------------------------------------------
+Jack A. Khattar,  Supernus Pharmaceuticals, Inc. - Founder, President, CEO, Secretary & Director    [11]
+--------------------------------------------------------------------------------
+
+          Yes, sure. I mean clearly, our strategy, we've been very focused from a corporate development perspective on expanding within both neurology and as you mentioned, in psychiatry as well. We are now well anchored in both areas and we will continue to build in both areas, the neurology space and psychiatry. As everybody knows in this space, a lot of it is about timing availability, willingness to sell and willingness to buy and so forth. So you could have a wish list all the time, but the timing of which is never really 100% within your control. 
+So clearly, we will continue executing against that same corporate strategy that we've always outlined out there. And we are agnostic, as I said, to neurology or psychiatry. Now while doing this, we are also trying to build our pipeline, and we have very exciting 2 assets that, hopefully, over the next 9 to 12 months, we will bring even further clarity about the progress of that pipeline in both areas with SPN-820, which is clearly a psychiatry-driven franchise with the adult indication of Qelbree, of course, which is even adding another whole segment in the ADHD market. 
+So our growth will be coming from both areas with the priority always being on acquiring potentially late-stage assets and/or commercial products. And the next level of priority will be to augment our pipeline with what will be obvious by next year once we launch Qelbree in adult and we launch hopefully also the infusion pump in Parkinson's, you'll notice that our pipeline will start in a way lacking mid- to late-stage pipeline products. 
+So we're very focused also on potentially bringing in ideas and projects in that stage or during these stages to augment our pipeline overall. So we're very conscious to make sure from a growth perspective we will continue to have a well-balanced portfolio in the marketplace, but also a well-balanced portfolio on the pipeline side across both therapeutic areas.
+
+--------------------------------------------------------------------------------
+David A. Amsellem,  Piper Sandler & Co., Research Division - MD & Senior Research Analyst    [12]
+--------------------------------------------------------------------------------
+
+          Okay. That's helpful. And if I may just sneak in a follow-up. Given your shopping list and what you're looking to do, what is the extent to which you'd lever up significantly to accomplish what you're setting out to accomplish from a business development perspective.
+
+--------------------------------------------------------------------------------
+Jack A. Khattar,  Supernus Pharmaceuticals, Inc. - Founder, President, CEO, Secretary & Director    [13]
+--------------------------------------------------------------------------------
+
+          I mean, leverage is all right a relative term. We are always willing to leverage depending on the case and the assets we're bringing in. If that asset obviously contributes from a cash flow perspective, it will give us more flexibility, of course, to leverage given our balance sheet and so forth. 
+So it really depends on a case-by-case scenario as to what are you really acquiring, now to go and leverage heavily and acquire a pipeline asset that is in Phase I or earlier stage and where the science may or not or may not work, and it's a very high-risk situation, that would be something which we'll have to think about extremely well before we jump into something like this. 
+So we're willing to leverage. We're willing to use our balance sheet. We're willing to do all that as long as the asset is -- or the case in front of us is where it brings immediate accretion, as is the case here, for example. The accretion is very strong accretion. We will have -- we will be boosting our cash flow stream and hopefully replenishing our cash on the balance sheet fairly quickly. 
+So in these kind of scenarios, we will be willing to leverage. But even with that, as probably most people know us, we try to be very fundamental in how we build the business. We don't try to take any undue risks even on the financial side because we want to make sure we continue to have a solid balance sheet as we grow the company moving forward.
+
+--------------------------------------------------------------------------------
+Operator    [14]
+--------------------------------------------------------------------------------
+
+          And I'm showing no further questions. And I'd like to turn the conference back over to Jack Khattar for any further remarks.
+
+--------------------------------------------------------------------------------
+Jack A. Khattar,  Supernus Pharmaceuticals, Inc. - Founder, President, CEO, Secretary & Director    [15]
+--------------------------------------------------------------------------------
+
+          Thanks, Michelle. Thanks very much for joining us today. We are very excited about today's announcement as it represents a major step for Supernus in: first, serving more patients with Parkinson's disease and offering them another treatment option with GOCOVRI, especially with its unique clinical benefits that we outlined through the presentation; second, in diversifying our revenue and cash flow base and reducing our reliance on Trokendi XR; third, by adding another key future growth catalysts as GOCOVRI represents as far as our future growth, adding that growth catalyst to Qelbree and SPN-830, which is the apomorphine pump; and then finally, being significantly accretive to our earnings per share starting in year 1. 
+I would like to thank our employees and the team at Adamas for all their hard work, allowing us together to reach this very important milestone. Thanks again for joining us, and have a great day.
+
+--------------------------------------------------------------------------------
+Operator    [16]
+--------------------------------------------------------------------------------
+
+          This concludes today's conference call. Thank you for participating. You may now disconnect.
+
+
+
+
+
+
+
+--------------------------------------------------------------------------------
+Definitions
+--------------------------------------------------------------------------------
+PRELIMINARY TRANSCRIPT: "Preliminary Transcript" indicates that the 
+Transcript has been published in near real-time by an experienced 
+professional transcriber.  While the Preliminary Transcript is highly 
+accurate, it has not been edited to ensure the entire transcription 
+represents a verbatim report of the call.
+
+EDITED TRANSCRIPT: "Edited Transcript" indicates that a team of professional 
+editors have listened to the event a second time to confirm that the 
+content of the call has been transcribed accurately and in full.
+
+--------------------------------------------------------------------------------
+Disclaimer
+--------------------------------------------------------------------------------
+Refinitiv reserves the right to make changes to documents, content, or other 
+information on this web site without obligation to notify any person of 
+such changes.
+
+In the conference calls upon which Event Transcripts are based, companies 
+may make projections or other forward-looking statements regarding a variety 
+of items. Such forward-looking statements are based upon current 
+expectations and involve risks and uncertainties. Actual results may differ 
+materially from those stated in any forward-looking statement based on a 
+number of important factors and risks, which are more specifically 
+identified in the companies' most recent SEC filings. Although the companies 
+may indicate and believe that the assumptions underlying the forward-looking 
+statements are reasonable, any of the assumptions could prove inaccurate or 
+incorrect and, therefore, there can be no assurance that the results 
+contemplated in the forward-looking statements will be realized.
+
+THE INFORMATION CONTAINED IN EVENT TRANSCRIPTS IS A TEXTUAL REPRESENTATION
+OF THE APPLICABLE COMPANY'S CONFERENCE CALL AND WHILE EFFORTS ARE MADE TO
+PROVIDE AN ACCURATE TRANSCRIPTION, THERE MAY BE MATERIAL ERRORS, OMISSIONS,
+OR INACCURACIES IN THE REPORTING OF THE SUBSTANCE OF THE CONFERENCE CALLS.
+IN NO WAY DOES REFINITIV OR THE APPLICABLE COMPANY ASSUME ANY RESPONSIBILITY FOR ANY INVESTMENT OR OTHER
+DECISIONS MADE BASED UPON THE INFORMATION PROVIDED ON THIS WEB SITE OR IN
+ANY EVENT TRANSCRIPT. USERS ARE ADVISED TO REVIEW THE APPLICABLE COMPANY'S
+CONFERENCE CALL ITSELF AND THE APPLICABLE COMPANY'S SEC FILINGS BEFORE
+MAKING ANY INVESTMENT OR OTHER DECISIONS.
+--------------------------------------------------------------------------------
+Copyright 2023 Refinitiv. All Rights Reserved.
+--------------------------------------------------------------------------------

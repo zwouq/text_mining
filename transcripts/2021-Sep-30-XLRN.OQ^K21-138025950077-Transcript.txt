@@ -1,0 +1,533 @@
+
+
+Refinitiv StreetEvents Event Transcript
+E D I T E D   V E R S I O N
+
+Acceleron Pharma Inc Acquired by Merck &amp; Co Inc Call
+SEPTEMBER 30, 2021 / 12:00PM GMT
+
+================================================================================
+Corporate Participants
+================================================================================
+
+ * Robert M. Davis
+   Merck & Co., Inc. - President, CEO & Director
+ * Roy D. Baynes
+   Merck & Co., Inc. - Chief Medical Officer
+ * Franklin K. Clyburn
+   Merck & Co., Inc. - Executive VP & President Human Health
+ * Peter Dannenbaum
+   Merck & Co., Inc. - VP of IR
+ * Dean Y. Li
+   Merck & Co., Inc. - EVP
+ * Caroline Litchfield
+   Merck & Co., Inc. - Executive VP & CFO
+
+================================================================================
+Conference Call Participiants
+================================================================================
+
+ * Stephen Michael Scala
+   Cowen and Company, LLC, Research Division - MD & Senior Research Analyst
+ * Seamus Christopher Fernandez
+   Guggenheim Securities, LLC, Research Division - Senior Analyst of Global Pharmaceuticals
+ * Luisa Caroline Hector
+   Joh. Berenberg, Gossler & Co. KG, Research Division - Co-Head of Global Pharmaceutical Team
+ * Louise Alesandra Chen
+   Cantor Fitzgerald & Co., Research Division - Senior Research Analyst & MD
+ * Carter Lewis Gould
+   Barclays Bank PLC, Research Division - Senior Analyst
+ * Geoffrey Christopher Meacham
+   BofA Securities, Research Division - Research Analyst
+ * Timothy Minton Anderson
+   Wolfe Research, LLC - MD of Equity Research
+ * Mara Goldstein
+   Mizuho Securities USA LLC, Research Division - MD of Equity Research Department
+ * Umer Raffat
+   Evercore ISI Institutional Equities, Research Division - Senior MD & Senior Analyst of Equity Research
+ * Daina Michelle Graybosch
+   SVB Leerink LLC, Research Division - MD of Immuno-Oncology & Senior Research Analyst
+ * Andrew Simon Baum
+   Citigroup Inc., Research Division - Global Head of Healthcare Research and MD
+ * Christopher Thomas Schott
+   JPMorgan Chase & Co, Research Division - Senior Analyst
+
+================================================================================
+Presentation
+--------------------------------------------------------------------------------
+Operator    [1]
+--------------------------------------------------------------------------------
+
+          My name is [Roel Beamonte], and I will be your conference operator today. At this time, I would like to welcome everyone to Merck's announced acquisition of Acceleron conference call. (Operator Instructions) Thank you. I would now like to turn the call over to Mr. Peter Dannenbaum, VP Investor Relations. Sir, please go ahead.
+
+--------------------------------------------------------------------------------
+Peter Dannenbaum,  Merck & Co., Inc. - VP of IR    [2]
+--------------------------------------------------------------------------------
+
+          Thank you, Roel, and good morning, everyone. Welcome to Merck's investor call highlighting today's announced acquisition of Acceleron. Our agenda this morning includes Rob Davis, Merck's Chief Executive Officer, who will lead off our presentation. Rob will be followed by Dr. Dean Lee, President of Merck Research Labs; Dr. Roy Baynes, Head of Global Clinical Development; Frank Clyburn, President of Human Health; Caroline Litchfield, Chief Financial Officer. Q&A will follow the presentation and Joerg Koglin cardiovascular therapeutic area head will be present.
+Before we get started, we would like to remind you that some of the statements we make during today's call may be considered forward-looking statements within the meaning of the safe harbor provision of the U.S. Private Securities Litigation Reform Act of 1995. Such statements are made based on the current beliefs of Merck's management and are subject to significant risks and uncertainties. If our underlying assumptions prove inaccurate or uncertainties materialize, actual results may differ materially from those set forth in the forward-looking statements. Our SEC filings, including Item 1A and the 2020 10-K, identify certain risk factors and cautionary statements that could cause the company's actual results to differ materially from those projected in any of our forward-looking statements made this morning. Merck undertakes no obligation to publicly update any forward-looking statements. The slide deck being used for today's call has been posted to our website. With that, I will turn the call over to Rob.
+
+--------------------------------------------------------------------------------
+Robert M. Davis,  Merck & Co., Inc. - President, CEO & Director    [3]
+--------------------------------------------------------------------------------
+
+          Thanks, Peter, and good morning, everyone. I'm very pleased to speak to you today about Merck's acquisition of Acceleron. This is a very exciting transaction for us and 1 that provides Merck with cutting-edge science and aligns perfectly with the business development strategy we've spoken about previously. Acceleron brings us a compelling late-stage asset with strong potential to address the unmet need of a patient population that suffers from a grievous disease that has a high risk of mortality. 
+Acceleron's lead product candidate, sotatercept, which is currently in Phase III studies for treatment of patients with pulmonary arterial hypertension, sotatercept has the potential to become a foundational agent that can be added to the current standard of care in the treatment of this disease. Dean and our scientists have tracked this company and its progress for many years, and he and Roy will speak more about the potentially transformational science that has been crucial to the development of sotatercept to date as well as our plans to advance this candidate towards approval and ultimately commercialization.
+Based on our confidence in the strong science underpinning sotatercept's clinical profile, we believe the Phase III trials will confirm the positive clinical effects achieved in Phase II. If so, and assuming regulatory approvals, we believe sotatercept has a multibillion-dollar peak sales opportunity, with an opportunity to help drive revenue growth later into this decade and well into the next. This is a transaction that we expect will allow Merck to bring great value to patients in the form of an important new therapy that can be added to the current standard of care, while also driving value for shareholders.
+Merck has a long legacy and expertise in discovering and developing treatments for cardiovascular disease. Most recently, we've partnered with Bayer on the conceptualization -- on the commercialization of Adempas for certain patients with PAH or chronic thromboembolic pulmonary hypertension and the successful development and recent launch of Verquvo in certain types of heart failure. We also have an exciting emerging pipeline of candidates in development, including our inhaled sGC stimulator for PAH and a Factor XI inhibitor targeted at patients with end-stage renal disease at risk of thrombosis. We believe sotatercept will be complementary to these efforts.
+More broadly for Merck, we will continue to bring in the best external science to build upon and complements our strong internal research pipeline, and we are well positioned financially to complete this transaction while maintaining our ability to pursue additional opportunities.
+We're excited to add Acceleron to our growing list of important recent business development transactions and collaborations, including Pandion, Gilead, VelosBio, SeaGen, Ridgeback and Peloton. Business development remains an important priority for Merck. We remain highly focused on delivering innovative medicines and vaccines to patients while at the same time driving long-term growth and value creation for our shareholders. With that, let me turn the call over to Dean.
+
+--------------------------------------------------------------------------------
+Dean Y. Li,  Merck & Co., Inc. - EVP    [4]
+--------------------------------------------------------------------------------
+
+          Thank you, Rob. Good morning, everyone. It is great to be here with you this morning to speak regarding today's announcement. As you heard from Rob, Acceleron is a strong fit and aligns with Merck's research priorities and programs, and it starts with our unwavering focus on translating breakthrough science into medicines and vaccines that save and improve lives. 
+Given my background in cardiology and long-standing research interest in vascular biology, I am unfortunately all too familiar with the pathology of pulmonary arterial hypertension. The predictable pattern of disease progression and the downward spiraling impacts on patients. The narrowing of pulmonary vessels and progressively restricted flow of blood creates pressure in the lungs placing unsustainable burden on the heart that inevitably devolves into right heart failure. Symptomatically, over time, the patient becomes gradually more breathless and fatigued, progressively weaker and incapacitated with increasing edema, chest pains and palpitations. Without a hardened lung transplant, many will die.
+The survival curve here by New York Heart Association functional classes illustrates that today PAH very much remains a progressive and fatal disease. Existing treatment options are principally vasodilators, relaxing and opening the disease narrow blood vessel to spur blood flow through the lungs and provide relief for patients. There are 4 classes of vasodilators, which have yet to demonstrate any meaningful benefit in reducing the rate of hospitalization or mortality. They include PDE5 inhibitors, endothelin receptor antagonist, soluble guanylate cyclase stimulators, prostacyclin agonist. 
+There remains a significant opportunity for effective novel therapeutic agents that target the molecular basis of the vascular remodeling mechanisms that underlie the pathology of PAH, sotatercept is an investigational reverse remodeling agent proposed to rebalance TGF-beta superfamily signaling. In preclinical models of PAH, sotatercept reverses pulmonary arterial wall and right ventricular remodeling that are hallmarks of the disease. The path to the evaluation of sotatercept for the treatment of PAH may be traced back to pioneering genetic work and elegant experiment and transgenic mouse models that provided robust evidence for deficiency in bone morphogenetic protein signaling in PAH and related diseases.
+Just to remind you, BMP is a member of the TGF-beta superfamily. The deep expertise of Acceleron scientists was crucial to recognizing this potential. Sotatercept targets a novel pathway that has the potential to be foundational in this space. It is designed to promote a rebalancing, a pro-proliferative active in signaling and antiproliferative BMP signaling. Potentially reversing the remodeling caused by the disease and restoring vascular homeostasis. Basically, there is early preclinical evidence to suggest sotatercept may have the potential to stop not only progression but to actually reverse the disease phenotype. As a result of the remarkable evidence to date, sotatercept is the first PAH candidate to receive either breakthrough therapy designation by the FDA or priority medicine designation by the EMA. It was also granted orphan drug designation.
+I wish to emphasize that we believe sotatercept could be a first-in-class foundational agent for pulmonary arterial hypertension and has the potential to be disease-modifying based on preclinical data. As such, our strategy would be to establish a robust PAH beachhead from which to investigate and expand the opportunity in broader pulmonary hypertension indications. 
+First and foremost, our focus is on PH and flawless execution of the broad clinical development program. The ongoing and planned Phase III clinical trials, Stellar, Zenith and Hyperion collectively address the World Health Organization's functional classes within pulmonary arterial hypertension and are designed to provide a clear measure of the properties of sotatercept. In addition, the Phase II CADENCE trial, evaluating patients with combined post and precapillary pulmonary hypertension in heart failure with preserved ejection fraction is poised to start recruiting any day. It is now my pleasure to turn the call over to Roy to dive deeper into the results from the human biology experiments conducted to date and the path forward.
+
+--------------------------------------------------------------------------------
+Roy D. Baynes,  Merck & Co., Inc. - Chief Medical Officer    [5]
+--------------------------------------------------------------------------------
+
+          Thank you, Dean. I will start by providing an overview of how sotatercept is believed to work and will do so in the context of the imbalance of proliferative signals, which are believed to be the basis for a thickening of the pulmonary vessels and therefore, blood flow constriction, which fuels pulmonary arterial hypertension.
+As Dean indicated, on the proliferative side, the active and IIa receptor complex activated by activins is pro-proliferative, whereas the BMP-activated pathway is antiproliferative. And what we're trying to do here is to use the TGF-beta ligand trap, which is essentially a construct that combines a human IgG to give it favorable kinetics, with a soluble activin receptor IIa, so it becomes a trap for activins and in essence, turns off the pro-proliferative side, which allows BMP to act as an antiproliferative.  
+Now turning to the Phase II results observed thus far. The PULSAR study has provided evidence that gives us a lot of confidence in this molecule. In the left panel, you can see there is a dose-dependent reduction in pulmonary vascular resistance and for any potential PAH mechanism, this is generally considered a prerequisite finding. This magnitude of reduction has translated into improvements in functional endpoints such as the 6-minute walking distance. If you focus on the bar graphs in the right panel, there are really 3 components to note. The top panel is looking at patients who received sotatercept at 2 different doses. The light blue bar reflects time after 24 weeks, the dark blue after 48 weeks.
+The good news is you observe a sustained improvement in the 6-minute walking distance. This is the endpoint that will be utilized in seeking approval. You see a systematic and continued reduction in NT-proBNP again, consistent with the reduction in pulmonary vascular resistance and right heart pressures. And you see a sustained improvement in the WHO functional class. When we look at all of these parameters together, pulmonary vascular resistance, 6-minute walking distance, NT-proBNP and WHO functional class, they are well aligned, indicating that in this study, this mechanism has provided robust evidence of therapeutic effect. We are hopeful that these results will be replicated in the larger registrational studies.
+On the bottom panel, you can see those patients who received placebo and then were crossed over to receive active drug after week 24. The light and blue in the bottom panel reflects the measurements at the end of the 24-week dosing of placebo. The good news here is that when patients are crossed over, you see there's again a systematic improvement in 6-minute walking distance, a systematic reduction in NT-proBNP and a systematic improvement in the WHO functional class, again for tending the potential for a consistent and robust finding for this mechanism. These findings were also observed in a smaller exploratory study called Spectra. These type of data give us a lot of confidence going forward.  
+This is an overview of the select studies for the comprehensive sotatercept development program that has been thoughtfully designed by the Acceleron team. The STELLAR trial seeks to evaluate the 6-minute walk distance as the primary endpoint and then has other endpoints, including pulmonary vascular resistance, NT-proBNP WHO functional class as well as time to clinical worsening. From a reimbursement and payer perspective, that is an important end point. 
+Next, the HYPERION trial is designed with time to clinical worsening as the primary endpoint. And the other parameters we have discussed are key secondaries. Importantly, this study is being used as a potential label expansion opportunity should STELLAR lead to approval. In addition, these 2 trials can be combined, so we would seek to be able to do a combined patient level and study level analysis across these trials when completed.
+ZENITH trial has the potential to be the truly differentiating trial. For clarity, what it is trying to do is to establish that sotatercept will have an impact on survival, an impact on hospitalization, an impact on transplantation and an impact on the need for extra corporeal oxygenation. If sotatercept is able to successfully realize any of these end points, it would be the only drug in the pulmonary arterial hypertension treatment class that has ever achieved this. So this has the potential to be a hugely differentiating study. 
+And then importantly, the final column looks at a life cycle approach, where there's reason to believe that not only will this candidate be active in primary pulmonary arterial hypertension but also has a possibility that patients who have left heart disease and who develop secondary pulmonary hypertension as a consequence of left heart disease could benefit. This would be a very significant life cycle opportunity.
+It's important to recognize that Acceleron has been working in the application of ligand traps to the TGF beta protein superfamily for a very long time. Reblozyl, also known as luspatercept, has already been approved in the U.S. and several other countries. Reblozyl actually exploits a similar type of approach where the trap is a modified active and receptor type IIb, again, going after the ligands that bind to this receptor complex. And importantly, it has been observed that this agent is associated with an increase in hemoglobin. 
+It is also worthwhile noting that Reblozyl is being developed and commercialized at Bristol-Myers Squibb as part of a global collaboration. Three label expansion trials are ongoing for treatment of anemia in the myelodysplastic syndromes, myelofibrosis and non-transfusion-dependent beta-thalassemia. 
+In terms of other TGF-beta research, the TGF-beta superfamily is implicated in a range of diseases because it plays a foundational role in cellular proliferation, angiogenesis and immuno homeostasis. Acceleron has some 18 years of protein engineering research targeted 30-plus ligands and 12 receptors of the TGF-beta superfamily. This considerable body of work is poised to add long-term value beyond what is currently in the pipeline while capitalizing on current assets.
+Acceleron's broad TGF-beta expertise offers future expansion potential into oncological, fibrotic, autoimmune, CNS and renal disorders, for example. In closing, I would just like to add that I personally have been interested in Acceleron for many years. It is a source of great excitement that we are now moving forward to combine the strength of 2 science-driven companies to address significant patient needs. With that, I will turn the call over to Frank, who will highlight the commercial opportunity.
+
+--------------------------------------------------------------------------------
+Franklin K. Clyburn,  Merck & Co., Inc. - Executive VP & President Human Health    [6]
+--------------------------------------------------------------------------------
+
+          Thanks, Roy, and good morning. Now turning to the commercial prospects of the transaction. As Dean described, there remains significant unmet need in PAH, which is a serious, rare and rapidly progressing disease. In fact, 7-year mortality is roughly 50% despite new treatments and usage of combination therapy. Beyond that, PAH can be a hugely devastating disease with adverse impacts across all aspects of life. 
+Today, the goals of therapy include delaying disease progression, managing symptoms and reducing hospitalization. Given this, payers and physicians alike recognize the need for new treatment options that have the potential to improve long-term outcomes for PAH patients, including potentially lowering the risk of death.
+As we think about the unmet need remaining in the market, we believe sotatercept has unique characteristics that yield the potential to become a foundational therapy that can be added to the current standard of care in PAH. First, sotatercept is a novel mechanism with the potential to improve long-term outcomes for patients. And if it's approved, would be the first non-vasodilator therapy for PAH patients. It is the first PAH drug to be granted breakthrough therapy designation by the FDA or prime designation by the EMA and also received orphan drug designation. 
+It is important to recognize how quickly this disease progresses. And with the vasodilators in the market today, patients often move to double or triple therapy within the first 6 months following diagnosis. Sotatercept is supported by a clinical development program across a broad range of PAH patients as Roy highlighted, with a focus on improving short- and long-term clinical outcomes and quality of life. We believe Merck is well positioned to deliver on the full potential of sotatercept to patients driven by our rich legacy and expertise in cardiovascular disease research and commercial execution. 
+We also view this asset as complementary to our broad cardiovascular portfolio and pipeline. Now to flesh out the PAH market in sotatercept opportunity, PAH represents a large and growing market expected to be roughly in $7.5 billion by 2026 according to Evaluate Pharma with further opportunity for expansion with the introduction of new options that have the potential to improve clinical outcomes. 
+PAH is a rare, serious and rapidly progressing disease, which drives continued urgency to treat patients quickly, including with novel add-on therapies. We believe sotatercept has the potential to be a transformational therapy in PAH with a targeted launch in the 2024, 2025 time frame and multibillion dollar peak sales potential.
+In the United States, commercial exclusivity for PAH is expected to extend through 2036, 2037 providing meaningful revenue growth through the KEYTRUDA LOE period and well into the next decade. We also believe there is potential to broaden the reach of sotatercept to positively impact more patients and we plan to pursue additional indications in PH to provide incremental revenue potential and benefit to patients over time.
+Acceleron is a complementary fit to Merck's current cardiovascular portfolio. When we look at our broad program across pulmonary hypertension, heart failure, and anticoagulants, you will see sotatercept dovetails well into our existing products and pipeline. In collaboration with Bayer, we marketed Adempas, an oral sGC stimulator for the treatment of certain types of patients with primary PAH or CTEPH. We are also studying MK-5475 an inhaled sGC stimulator in Phase II/III in PAH. We are confident in the potential of sotatercept to complement and diversify our existing pulmonary hypertension franchise. Our recent approval of Verquvo for certain types of heart failure, along with our Phase II anticoagulant, MK-2060, which targets Factor XI round out Merck's robust cardiovascular portfolio and pipeline.
+To reiterate, we are excited to build upon the great work done by the Acceleron team to harness the potential of sotatercept initially as a foundational asset in PAH with an eye to future broader PAH indications. With that, I'd like to turn the call over to Caroline to highlight the financial aspects of the transaction.
+
+--------------------------------------------------------------------------------
+Caroline Litchfield,  Merck & Co., Inc. - Executive VP & CFO    [7]
+--------------------------------------------------------------------------------
+
+          Thank you, Frank. Merck is in a position of financial and operational strength, which has allowed us to pursue the proposed acquisition of Acceleron. We are confident that this transaction has the potential to create meaningful value for patients and shareholders and will serve as an important growth driver for Merck during the period of the KEYTRUDA LOE and beyond. Turning to the financial details of the transaction. Merck will acquire all outstanding shares of Acceleron for $180 per share. This results in a total transaction value of approximately $11.5 billion or $10.9 billion net of cash on hand, and we expect that the transaction will close in the fourth quarter of this year. 
+The deal will be minimally dilutive to non-GAAP earnings in 2022. We'll turn accretive in 2023 and become increasingly more accretive in the years to follow. We assume no impact to our full year 2021 guidance provided during the second quarter earnings call as a result of this transaction. The acquisition is expected to be financed through a mix of cash and debt, and we expect no impact to Merck's credit rating. Our balanced approach to capital allocation also remains intact. We will continue to prioritize investment in our rich portfolio and pipeline and remain committed to funding and growing our dividend over time. We preserve the ability to pursue additional, meaningful, value-enhancing and innovation-driven business development transactions. BD will remain a high priority, and we will continue to return excess cash to our shareholders through share repurchases.
+I would like to briefly highlight the ongoing collaboration agreement between Acceleron and Bristol-Myers Squibb, which results in royalty arrangements across key products included in the acquisition. First, on Reblozyl, for which Bristol-Myers Squibb maintains development and commercialization rights. After closing, Merck will receive royalty payments in the low to mid-20% range of global net sales, with Bristol-Myers Squibb responsible for all costs associated with the program. For reference, Reblozyl achieved 2020 revenues for approximately $275 million, and we believe has multibillion-dollar peak revenue potential. 
+For sotatercept, Merck will retain exclusive development and commercialization rights in PAH and will pay Bristol-Myer Squibb a flat royalty in the low 20% range. To conclude, we are excited about the proposed acquisition of Acceleron and the opportunity to diversify our pipeline with innovative assets that have the potential to transform the lives of patients. We are confident that these assets will generate strong cash flows and create significant value for patients and our shareholders. As a company, we remain focused on driving long-term sustainable growth. with the aspiration of growing through the KEYTRUDA loss of exclusivity late this decade. This transaction marks an important next step towards positioning our company for success long into the future and demonstrates our ability to move with speed, urgency and agility as a new, more focused Merck. Thank you for your attention. I will now turn the call back to Peter.
+
+--------------------------------------------------------------------------------
+Peter Dannenbaum,  Merck & Co., Inc. - VP of IR    [8]
+--------------------------------------------------------------------------------
+
+          Roel, we're now ready to start the Q&A session. If I could ask the analysts to please limit themselves to 1 or 2 questions in order to get to as many questions as possible. Thank you very much.
+
+
+================================================================================
+Questions and Answers
+--------------------------------------------------------------------------------
+Operator    [1]
+--------------------------------------------------------------------------------
+
+          (Operator Instructions) Your first question is from the line of Carter Gould from Barclays.
+
+--------------------------------------------------------------------------------
+Carter Lewis Gould,  Barclays Bank PLC, Research Division - Senior Analyst    [2]
+--------------------------------------------------------------------------------
+
+          Congratulations on the deal, and I'll pass along my congrats to be and the team over at Acceleron as well -- For Roy and Dean can you talk a little bit about how are you guys comfortable with the sotatercept safety database that TGF-beta has a role in cancer pathways and (inaudible) across -- tough biology that's been difficult to elucidate sort of what gave you comfort here with the safety database? PULSAR has been out for over a year? Any commentary there would be helpful.
+
+--------------------------------------------------------------------------------
+Dean Y. Li,  Merck & Co., Inc. - EVP    [3]
+--------------------------------------------------------------------------------
+
+          So this is Dean. Let me just take a first shot of giving an overview, and then I'll turn it over to Roy about the specifics. You're right, this Activin BMP, TGF-Beta superfamily, it's a protein mechanism. And the protein mechanism has also led to many applications in many different therapeutic areas. But as you're right, when you have a protein mechanism, you can have different effects. One of the things that I would sort of point out and I'll let Roy elaborate. If you look at sotatercept and you look at luspatercept, the profiles are ones that have some degree of similarity. And then when we look at sotatercept and we've looked at the safety profile, we've been impressed that in a patient population such as those with PAH, we believe that this will -- the safety profile will be just fine for that patient population. Roy?
+
+--------------------------------------------------------------------------------
+Roy D. Baynes,  Merck & Co., Inc. - Chief Medical Officer    [4]
+--------------------------------------------------------------------------------
+
+          Yes. Thanks, Dean. As you can imagine, we look through the safety database extraordinarily carefully. We literally have flyspeck every patient. And as Dean mentioned, there is a protein mechanism in play that obviously gives us reason to look very, very cautiously at the data set. There are well-recognized effects, which are indeed on target. -- but they have been well managed and in some ways, may even be potentially beneficial. So we have gotten really quite comfortable with the safety profile and hence, the decision to move forward.
+
+--------------------------------------------------------------------------------
+Operator    [5]
+--------------------------------------------------------------------------------
+
+          Your next question is from the line of Andrew Baum from Citi.
+
+--------------------------------------------------------------------------------
+Andrew Simon Baum,  Citigroup Inc., Research Division - Global Head of Healthcare Research and MD    [6]
+--------------------------------------------------------------------------------
+
+          I realize it's relatively early days, but perhaps you can talk to the mechanism of reimbursement in the U.S. I'm assuming that this will be covered under Medicare Part B or part D. Just thinking about whether you therefore are going to have to build out the infrastructure, where you think like drugs such as Inclisiran will build out the buy and build infrastructure for physicians' offices or hospitals? And then second, you mentioned the broader portfolio, Roy? Could you talk to the Factor XIa you did have an oral, given the fact you didn't mention that I assume it's no longer live and it's just a monoclonal.
+
+--------------------------------------------------------------------------------
+Franklin K. Clyburn,  Merck & Co., Inc. - Executive VP & President Human Health    [7]
+--------------------------------------------------------------------------------
+
+          Andrew, it's Frank. Let me take the first part of your question. And you mentioned it's early days. We do believe, obviously, sotatercept will be administered in a subq formulation, I think it's yet to be determined whether it would be Part B or potentially Part D. But if it is Part B, I do want to just emphasize a couple of things. One, we've looked at the target audience, Andrew, it's approximately 5,000 physicians. There's 80 centers of excellence that see about 40% to 50% of the patients, and we're extremely confident that we can very efficiently build out the commercial model to be able to secure access very rapidly if the product was approved I'd also highlight, Andrew, just as you're well aware, we're very confident and very adept at Part B and buy and build models, obviously, based on our experience in oncology and other therapeutic areas. So overall, as you mentioned, early days, we'll have to see how it evolves, but we're very confident sotatercept is approved that we will be able to get very rapid access for patients.
+
+--------------------------------------------------------------------------------
+Dean Y. Li,  Merck & Co., Inc. - EVP    [8]
+--------------------------------------------------------------------------------
+
+          Yes. This is Dean. I'll answer the question about Factor XI. First, I will just emphasize, similar to the history of the science behind sotatercept. There's great genetic evidence for that pathway. Similarly, for Factor XI, the same thing is true. So we really look for those hints. We are focused on Factor XI. We are focused on the monoclonal antibody. And we are focused on what we think is the largest unmet need in relationship to especially patients who have end-stage renal disease who may have cardiovascular risks. They often do and the need to have an antithrombotic agent that also has a very, very low bleeding complication profile. So that is where we focused our clinical programs on that molecule and in that indication.
+
+--------------------------------------------------------------------------------
+Operator    [9]
+--------------------------------------------------------------------------------
+
+          Your next question is from the line of Steve Scala from Cowen.
+
+--------------------------------------------------------------------------------
+Stephen Michael Scala,  Cowen and Company, LLC, Research Division - MD & Senior Research Analyst    [10]
+--------------------------------------------------------------------------------
+
+          Two questions, please. I believe sotatercept has been in the clinic since 2008. What was the deciding factor that sparked Merck's interest now? And why didn't Merck pursue the target on its own over the past 12 or 13 years? And secondly, most of Merck's future growth drivers have been purchased, licensed or TIP needed to be obtained from competitors, with still limited visibility into Merck's pipeline. When will we learn more about the pipeline? And presumably, it's products that have blockbuster potential.
+
+--------------------------------------------------------------------------------
+Dean Y. Li,  Merck & Co., Inc. - EVP    [11]
+--------------------------------------------------------------------------------
+
+          Let me answer your questions in relationship to the focus on this pathway. This pathway has had a long history, and it's not just at Acceleron, it's actually derived from Genetic Institute back in the day and the purification of bone morphogenetic protein, and many of accrue led to Acceleron. The interest in relationship to pulmonary vascular disease, especially came probably in the 2000s when the genetics sort of demonstrated leads and relationship to that. And I think that is also what spurred Acceleron to advance it. At least for me, the human clinical data and the demonstration of STELLAR in the trials that have led up to STELLAR have been really the important sort of proof of concept in relationship to modulating a very delicate balance in a pathway that both has -- it's a little bit of a seesaw. 
+So that is what drove our interest. And that's what drove my eye largely also because my own history prior to coming to Merck was very much embedded in studying these pathways. In relationship to other molecules, I believe that we'll be -- we're increasingly showing transparency. I believe that we will be having a cardiovascular day where we have an investor event, and we'll talk about other molecules in our portfolio that are both internally derived as well as externally partnered. But Rob, did you want to add anything?
+
+--------------------------------------------------------------------------------
+Robert M. Davis,  Merck & Co., Inc. - President, CEO & Director    [12]
+--------------------------------------------------------------------------------
+
+          No, I think you summarized, I think the key here is, look, we recognize over time, we need to give that transparency to help you understand why we are so confident and excited about what we have. Obviously, we've been very clear where we feel very good about what we're starting to build in our own discovery engine. We continue to believe we need to augment it, and it's we've consistently said we're looking for the best science both internally and externally. I'm confident you will see that will both be coming from our own discovery pipeline. We're going to add to that. But then importantly, I think what we've also demonstrated is we have excellent capability to bring drugs through development. Our clinical execution is next to none. So between what we have in discovery and our strong arm to deliver developmentally, I feel very good about where we are. And we'll share that as we go forward, as Dean mentioned, starting first with cardiovascular.
+
+--------------------------------------------------------------------------------
+Operator    [13]
+--------------------------------------------------------------------------------
+
+          Your next question is from the line of Umer Raffat from Evercore ISI.
+
+--------------------------------------------------------------------------------
+Umer Raffat,  Evercore ISI Institutional Equities, Research Division - Senior MD & Senior Analyst of Equity Research    [14]
+--------------------------------------------------------------------------------
+
+          Frank, is it fair to assume that the survival and clinical worsening end point in Phase III is now a must have for your base case commercial goal and perhaps the same on the Group II PAH trial can we be reasonably comfortable that's not your base case for commercial? And Rob, I feel like a lot of investors have wondered so I'm going to ask this, the clinical data here is obviously very strong, and a lot of valuation scenarios imply there could have been meaningful upside for the acquirer, even at an $11 billion valuation, which is why there's a lot of interest in this deal from a lot of investors and analysts. But the question is, and this is what a lot of investors are wondering, can you walk us through how in your thought process you got comfortable knowing that Acceleron's existing big pharma partner was not comfortable paying what you're about to pay?
+
+--------------------------------------------------------------------------------
+Robert M. Davis,  Merck & Co., Inc. - President, CEO & Director    [15]
+--------------------------------------------------------------------------------
+
+          Sure. Go ahead, Frank, do you want to take the first and I'll answer the second.
+
+--------------------------------------------------------------------------------
+Franklin K. Clyburn,  Merck & Co., Inc. - Executive VP & President Human Health    [16]
+--------------------------------------------------------------------------------
+
+          Sure. Umer, to answer your first question, you are correct. No, it's not a part of our base case assumptions and how we got to the financials.
+
+--------------------------------------------------------------------------------
+Robert M. Davis,  Merck & Co., Inc. - President, CEO & Director    [17]
+--------------------------------------------------------------------------------
+
+          Yes. And on the second question, Umer, it starts with what our own scientists see and excitement from the data. Every company has its own fact pattern of where it sees opportunities and complements. What we have here is a real opportunity to strengthen our pipeline with a foundational potentially first-in-class asset in sotatercept. You heard how we think it complements our growing cardiovascular pipeline and it brings us revenue in that period where we very much want to see revenue as we move into the end of the decade and into next. So it's a combination of, as we look at it strategically starting first with the science, our team, our scientific team in cardiovascular internally got very excited when they saw the Phase II data. It started to prove out a lot of what they suspected they would see here. And then when we looked at that as a complement to what we have in the broader cardiovascular space, we started to see growing synergies both commercially and from a scientific perspective.
+And then obviously, that led us to get into discussions with the company. I feel like the value we gave is a full and fair value. It represents the distinctiveness of this asset. And most importantly, I'm confident that both one, our conviction that we can get this through the remaining phase of development and get it to commercialization. And then two, that we have a multibillion-dollar opportunity in the commercialization phase, which I'm confident both will deliver for the patients that need this drug, but equally will deliver value for our shareholders and for the shareholders of Acceleron. So I saw it as a win-win and my confidence is based on the confidence of my scientific team.
+
+--------------------------------------------------------------------------------
+Operator    [18]
+--------------------------------------------------------------------------------
+
+          Your next question is from the line of Daina Graybosch from SVB Leerink.
+
+--------------------------------------------------------------------------------
+Daina Michelle Graybosch,  SVB Leerink LLC, Research Division - MD of Immuno-Oncology & Senior Research Analyst    [19]
+--------------------------------------------------------------------------------
+
+          I wonder if you guys could talk about any regulatory risk you see with this acquisition and any ways that you might mitigate that regulatory risk.
+
+--------------------------------------------------------------------------------
+Robert M. Davis,  Merck & Co., Inc. - President, CEO & Director    [20]
+--------------------------------------------------------------------------------
+
+          Maybe I'll just clarify the question. Are you talking about regulatory risk from the FDA perspective? Are you talking about regulatory risk in different ways?
+
+--------------------------------------------------------------------------------
+Daina Michelle Graybosch,  SVB Leerink LLC, Research Division - MD of Immuno-Oncology & Senior Research Analyst    [21]
+--------------------------------------------------------------------------------
+
+          In different ways.
+
+--------------------------------------------------------------------------------
+Robert M. Davis,  Merck & Co., Inc. - President, CEO & Director    [22]
+--------------------------------------------------------------------------------
+
+          Okay. I guess you're maybe getting at the FTC issues here. So first and foremost, clearly, we understand that the FTC is starting to look more closely into the pharmaceutical space. But Importantly, we don't anticipate an antitrust issue with this transaction with any of the assets, including sotatercept. If you look at it, there's some important facts that I think help support why we have that confidence. One, sotatercept is an add-on therapy. And to that extent, it is really building upon current standard of care in PAH. As we've talked about, look, this is a disease that there are a lot of options, mainly vasodilators. But what you also see is most people still progress. And so you need new therapies. This is still an area where there's a significant unmet need. 
+And importantly, what sotatercept brings is a new mechanism of action. It's not a vasodilator, it's a non-vasodilator. And it has the potential to be disease modifying. Not to mention the fact that it is a subq form of administration. All of those factors are unique to sotatercept. There are no other drugs in development that fit that same profile either within Merck or outside. And so that's why we feel like this is something that's unique, and it builds upon the armamentarium in the space, which includes a lot of options, some of which are generic and some are also other drugs in development. So what we're excited about it, we see it as complementary. We don't see it as overlapping in a way that would create a concern.
+
+--------------------------------------------------------------------------------
+Operator    [23]
+--------------------------------------------------------------------------------
+
+          Your next question is from the line of Seamus Fernandez from Guggenheim.
+
+--------------------------------------------------------------------------------
+Seamus Christopher Fernandez,  Guggenheim Securities, LLC, Research Division - Senior Analyst of Global Pharmaceuticals    [24]
+--------------------------------------------------------------------------------
+
+          So just a quick one. Can you guys update us on potential breakup fees associated with the -- with this transaction if someone else were to kind of come in over the top and how competitive the process. And then second, just as a follow-up to some of the other products in the portfolio in cardiovascular disease. Can you just specify the -- whether or not the Factor XI is intravenous or a subcutaneous approach? And lastly, a little surprised to see that you didn't highlight your oral your oral PCSK9, which is going highlighted the upcoming AHA meeting, I just wanted to get your thoughts there as well.
+
+--------------------------------------------------------------------------------
+Caroline Litchfield,  Merck & Co., Inc. - Executive VP & CFO    [25]
+--------------------------------------------------------------------------------
+
+          Thank you, Seamus, for the question. This is Caroline. I'll take the breakup fee. The merger agreement does provide for a breakup fee in certain circumstances, consistent with similar transactions. And a copy of that merger agreement has been filed with the U.S. Securities and Exchange Commission and will be publicly available.
+
+--------------------------------------------------------------------------------
+Dean Y. Li,  Merck & Co., Inc. - EVP    [26]
+--------------------------------------------------------------------------------
+
+          Yes. So this is Dean. I'll let Roy answer the Factor XI, and I will then take on the oral PCSK9.
+
+--------------------------------------------------------------------------------
+Roy D. Baynes,  Merck & Co., Inc. - Chief Medical Officer    [27]
+--------------------------------------------------------------------------------
+
+          So the Factor XI lead indication is in the patients with end-stage renal disease. This is a population largely on hemodialysis. And so as you might imagine, intravenous route is clearly the preferred route in this patient population. Having said that, in the life cycle, it is quite possible that this might move into a subcutaneous form. But for renal patients, IV is the preferred route.
+
+--------------------------------------------------------------------------------
+Dean Y. Li,  Merck & Co., Inc. - EVP    [28]
+--------------------------------------------------------------------------------
+
+          Yes. And I should just mention that's an internal program, and I'm happy that you pointed out the American Heart Association abstract where we will be discussing an oral PCSK9. We think this is an important molecule -- This is trying to make an oral PCSK9 has been a holy grail for lots of -- for the scientific community for some time. And we are very confident that we have cracked the nut be able to do that. And it shows the internal ability to design and develop innovative medicines where the field has not been able to accomplish that for PCSK9.
+
+--------------------------------------------------------------------------------
+Operator    [29]
+--------------------------------------------------------------------------------
+
+          Your next question is from the line of Luisa Hector from Bamberg.
+
+--------------------------------------------------------------------------------
+Luisa Caroline Hector,  Joh. Berenberg, Gossler & Co. KG, Research Division - Co-Head of Global Pharmaceutical Team    [30]
+--------------------------------------------------------------------------------
+
+          Thank you very much. I noticed your exclusivity period is out to 2036 -- Does that include some patent term extension to the composition of (inaudible)? And then I wanted to just check -- sorry, it may have come up, but I didn't quite hear. This scale, does it wash space with the -- essentially like the symptomatic control? Or do you need the mortality benefit from the HYPERION or ZENITH studies to really see this return above cost of capital?
+
+--------------------------------------------------------------------------------
+Robert M. Davis,  Merck & Co., Inc. - President, CEO & Director    [31]
+--------------------------------------------------------------------------------
+
+          I'll maybe take the first question, and then I'll turn it over to Roy and Dean for the second. So to be clear, the composition of matter patent with the patent term extension runs through 2031. The data exclusivity package then takes it out in the U.S. 12 years from the date of launch, which we would estimate to be somewhere in that 2036 to 2037 time frame. So it's a combination of both of those is what's getting us to that 2036, 2037 expectation.
+
+--------------------------------------------------------------------------------
+Dean Y. Li,  Merck & Co., Inc. - EVP    [32]
+--------------------------------------------------------------------------------
+
+          So this is Dean. I'll just jump in, and then I'll hand it to Frank which is the STELLAR and the HYPERION. It's 6-minute walk and time to clinical worsening. I will have Frank sort of focus on the calculations from a commercial. The ZENITH is really impact on survival impact on hospitalization, that I think will really be distinguishing. And the following sort of life cycle management in relationship to looking at heart failure are all substantial upside. But in relationship to STELLAR and HYPERION, I'll turn over the commercial sort of calculation to Frank.
+
+--------------------------------------------------------------------------------
+Franklin K. Clyburn,  Merck & Co., Inc. - Executive VP & President Human Health    [33]
+--------------------------------------------------------------------------------
+
+          Sure. And thanks, Dean. And just to reiterate a couple of things, and it's a little early for us to get into all of the pricing and share assumptions. But if you think about the PAH market, and I shared this earlier. This is a market that's expected to be about a $7.5 billion market by 2026. In addition to that, there is significant unmet need. And what I have found is when you have unmet need and you have the opportunity to bring a new mechanism, a new therapy into a growing area of unmet need, that gives us extreme confidence if approved on the commercial opportunity. The other thing that we have to recognize that this is an add-on therapy and patients progress rapidly. So you often see patients start off with the oral vasodilators. But they're going to progress and they're going to need other options. So overall, we're very confident if we're approved on the multibillion dollar opportunity that we've been highlighting. And we look forward to providing additional commercial insights as we get closer.
+
+--------------------------------------------------------------------------------
+Operator    [34]
+--------------------------------------------------------------------------------
+
+          Your next question is from the line of Tim Anderson from Wolfe Research.
+
+--------------------------------------------------------------------------------
+Timothy Minton Anderson,  Wolfe Research, LLC - MD of Equity Research    [35]
+--------------------------------------------------------------------------------
+
+          A key question for me is where Merck goes from here in terms of desire to do additional deals, specifically that would be as big or bigger than Acceleron? And related to that, can you talk about what Merck's borrowing power is at the moment? How much cash could you borrow without triggering a rating downgrade? And would Merck consider going past that limit taking a rating downgrade if the right opportunity came along?
+
+--------------------------------------------------------------------------------
+Robert M. Davis,  Merck & Co., Inc. - President, CEO & Director    [36]
+--------------------------------------------------------------------------------
+
+          Yes, Tim, thanks for the question. So at the highest level, we continue to have both the capability and the balance sheet to do deals of all sizes. And we continue to have in our mind that we need to augment our pipeline, even though, as we said, we feel good about what we have internally, and we see it growing. We're going to continue to do deals and add to that. And we're looking at deals of all sizes with assets both in early and late stage, and it's going to be where we see the science matched with the opportunity and the confidence that we can bring value. And with the science as a lead and being portfolio informed, we're going to continue to bolster our pipeline and hopefully, broaden it, and we have the firepower to do that. But I'll turn it over to Caroline to give you the specifics. To the last part of your question, though, for the right strategic opportunity, if we see value, if we see sustainable growth creation, I am willing to consider a downgrade. Caroline?
+
+--------------------------------------------------------------------------------
+Caroline Litchfield,  Merck & Co., Inc. - Executive VP & CFO    [37]
+--------------------------------------------------------------------------------
+
+          Thank you. So as Robert noted, we have a strong balance sheet and the ability to finance this transaction, which we will do so with the mixture of cash and debt. We expect to issue debt of now more than $9 billion and that will not impact our current investment credit rating. Given the capacity that we have, the strong EBITDA growth that we have in our business, we have ample firepower to do the kinds of deals that will be additive and meaningful and innovation driven for our company. And as Rob noted, we are comfortable taking a one-notch downgrade to support such transactions.
+
+--------------------------------------------------------------------------------
+Operator    [38]
+--------------------------------------------------------------------------------
+
+          Your next question is from the line of Chris Schott from JPMorgan.
+
+--------------------------------------------------------------------------------
+Christopher Thomas Schott,  JPMorgan Chase & Co, Research Division - Senior Analyst    [39]
+--------------------------------------------------------------------------------
+
+          Just following up on Tim's question. I know in the past, Rob, you talked about CV and CNS potentially as areas of focus outside of oncology. I guess with the CV deal we announced today, should we think about your efforts on the BD side being focused maybe outside of CV for the next, plus a year or 2 as you get this asset in-house integrated? Or is that not a rate limiter and there's still a focus to even further beef up the CV efforts? And then maybe just a quick one from there. I know sotatercept is the focus here. But how did the Reblozyl royalty factor into your valuation for Acceleron. Just how you think about peak sales for that asset given fairly meaningful growth history there.
+
+--------------------------------------------------------------------------------
+Robert M. Davis,  Merck & Co., Inc. - President, CEO & Director    [40]
+--------------------------------------------------------------------------------
+
+          Yes. So on the question of therapeutic areas, I would start going back to -- our view has not changed from where we've been, which is as I just mentioned a moment ago, it starts with the science. So we continue to be therapeutically agnostic. We're not -- our strategy doesn't start by identifying a therapeutic area and then trying to find an asset to fit into it. Our strategy starts with where do we see exciting science. And then where do we think we can bring differential value that ultimately allows us to be both strategic and value creating. That takes us to where we go. That's the first lens always we look through. And as I mentioned, if we get through that, we are wanting to be portfolio informed. So I'm conscious of a desire to both broaden and bolster my pipeline. But first and foremost, it has to be a great product.
+To that extent, if we see something that excites us in cardiovascular, we'll move there. We don't view this as we're one and done in cardiovascular. We'll look for the opportunity. Likewise, if we see interesting science in other therapeutic areas, we'll go there. And we're not, as you know, closing the door at all on continuing to look and build on a significant strength we have in oncology. So we're looking across the whole landscape. And I'm confident if we get great assets, whatever therapeutic area they're in, they're going to drive value, and that's the focus, sustainable long-term growth well into the next decade. That's what we're looking for.
+
+--------------------------------------------------------------------------------
+Caroline Litchfield,  Merck & Co., Inc. - Executive VP & CFO    [41]
+--------------------------------------------------------------------------------
+
+          And with regards to the royalty stream, we are confident in Reblozyl's commercial potential and ability to expand into new indications. We believe it will become a cornerstone therapy across a range of heme indications and has the potential for multibillion-dollar peak revenue. The royalty cash flows are financially attractive and provide the opportunity for this acquisition to be accretive in the near term.
+
+--------------------------------------------------------------------------------
+Operator    [42]
+--------------------------------------------------------------------------------
+
+          Your next question is from the line of Mara Goldstein from Mizuho.
+
+--------------------------------------------------------------------------------
+Mara Goldstein,  Mizuho Securities USA LLC, Research Division - MD of Equity Research Department    [43]
+--------------------------------------------------------------------------------
+
+          I wanted just to ask about the royalty do Bristol-Myers Squibb on commercialization and whether there has been any thought around essentially buying out that royalty as part of this merger agreement. And then secondarily, I'm just -- can you just confirm that development outside of the U.S. will not require any additional clinical work on your part.
+
+--------------------------------------------------------------------------------
+Robert M. Davis,  Merck & Co., Inc. - President, CEO & Director    [44]
+--------------------------------------------------------------------------------
+
+          Yes. I'll let Dean and Roy take the second question. On the first question, it's too early to talk about how we would think about different avenues in the collaboration. What I'll tell you is we're excited about the collaboration with BMS I think they've done a nice job in commercializing and developing Reblozyl with and in partnership and collaboration with Acceleron. So we look forward to engaging with them on that front, how we think about the relationship long term, it's too early to comment.
+
+--------------------------------------------------------------------------------
+Dean Y. Li,  Merck & Co., Inc. - EVP    [45]
+--------------------------------------------------------------------------------
+
+          Then just on the question of seeking approvals ex U.S. and the global program. We are a global company. Our general approach is to do global trials. It's clear in the U.S., the 6-minute walk is indeed the registrable end point. But I think, as you can see, the program is well configured to address time-to-treatment worsening and then hard outcomes in patients who are at high risk. So we do believe, we have inherited from Acceleron a very well and thoughtfully designed program to meet global needs. Obviously, we're early in this journey, and we will obviously assess the footprint and will potentially augment that over time. But I think at this moment in time, we believe this program is very well configured.
+
+--------------------------------------------------------------------------------
+Operator    [46]
+--------------------------------------------------------------------------------
+
+          Your next question is from the line of Geoff Meacham from Bank of America.
+
+--------------------------------------------------------------------------------
+Geoffrey Christopher Meacham,  BofA Securities, Research Division - Research Analyst    [47]
+--------------------------------------------------------------------------------
+
+          Just have a quick one for Dean or for Roy, how much value or consideration did you give sotatercept outside of PAH and left heart disease. When you look at just for PAH drug, they've been studied in scleroderma, ILD, COPD, et cetera, and with not much success. So I wasn't sure what the mechanism tells you in these or other indications.
+
+--------------------------------------------------------------------------------
+Dean Y. Li,  Merck & Co., Inc. - EVP    [48]
+--------------------------------------------------------------------------------
+
+          So let me take a stab at that. So the first thing is if you just look in terms of the vascular remodeling and vascular dilatation, a bunch of molecules out there that's for vascular dilatation. When you look at the pathway of the TGF-beta superfamily and you see the clinical effects, but also if you look at the preclinical models, it was actually a pretty beautiful paper that was published, I think it was in Science Translational Medicine, where they able to do a deep dive into whether there would be substantial impact on remodeling. And in a preclinical study, that's where you can answer those questions. There was -- and when you look at it, there was also very positive changes in relationship to the heart, not just in terms of the vasculature. 
+So when we look at that study and we look at -- we are focused on STELLAR, HYPERION and ZENITH. But we think that there may be possibilities outside of that. Acceleron has already been thoughtful about how they're proceeding and that's their CADENCE trial. And we'll have to see with clinical data, what is seen. You're right that the super TGF-beta family has been targeted against IPF and pulmonary fibrosis. That's largely been in the TGF-beta1, beta3 sort of arena. But the balance in terms of active in bone morphogenetic proteins, and that -- I don't think that, that has been extensively studied in relationship to remodeling in the cardiovascular system. And this clinical data suggests that we should take a look at it.
+
+--------------------------------------------------------------------------------
+Franklin K. Clyburn,  Merck & Co., Inc. - Executive VP & President Human Health    [49]
+--------------------------------------------------------------------------------
+
+          Yes. And Dean, if I could add, this is Frank. Just to reiterate, and we mentioned this a little bit earlier, but -- our base case for the transaction is really driven by the value we see in PAH. Everything that Dean mentioned would be upside opportunities for the future development. So just to reinforce that the base case is PAH and then we're very excited about potential life cycle opportunities, as Dean highlighted.
+
+--------------------------------------------------------------------------------
+Peter Dannenbaum,  Merck & Co., Inc. - VP of IR    [50]
+--------------------------------------------------------------------------------
+
+          Great. Thank you, Jeff. Perhaps we have time for 1 more question.
+
+--------------------------------------------------------------------------------
+Operator    [51]
+--------------------------------------------------------------------------------
+
+          Your last question is from the line of Louise Chen from Cantor.
+
+--------------------------------------------------------------------------------
+Louise Alesandra Chen,  Cantor Fitzgerald & Co., Research Division - Senior Research Analyst & MD    [52]
+--------------------------------------------------------------------------------
+
+          Congratulations on the deal. So my first question for you is what kind of assumptions do you make to get to that $1 billion of peak sales versus sotatercept? And maybe the timing of when you could reach those peak sales. And then my second question is just on cardiovascular disease. What additional areas do you find interested in cardiovascular disease that you're not yet involved in?
+
+--------------------------------------------------------------------------------
+Franklin K. Clyburn,  Merck & Co., Inc. - Executive VP & President Human Health    [53]
+--------------------------------------------------------------------------------
+
+          Louise, this is Frank. It's like I said, a little early to give all of the specific assumptions. But to reiterate, the reason why we're confident in the multibillion dollar opportunity is, one, what we're seeing already in the marketplace. And if you look at some of the most recent products that have launched, you can see how they are trending. Clearly, 2 very significant opportunities, number one. Number two, just to reiterate that the unmet need, combined with the new mechanism of action, Louise, and the important aspect also is that we have received some feedback. So we've done some research, and we've got a lot of excitement in the HCP community. I think they're very interested in this product. And we also are very confident on payers' willingness to reimburse. So when you put all of those things together in a growing market and the unmet need that's how we get to the confidence that we have in the multibillion dollar opportunity.
+
+--------------------------------------------------------------------------------
+Dean Y. Li,  Merck & Co., Inc. - EVP    [54]
+--------------------------------------------------------------------------------
+
+          Let me take a stab at your question in relationship to what else we're interested in cardiovascular. You're all aware of vericiguat and its -- impact on the left heart and how sGC is advancing, and that's our internal program, looking at how we can unload the right heart in pulmonary hypertension. We have sotatercept. We have Factor XI that's coming through that was discussed. I would point out, there was a question on our oral PCSK9. The platform and our ability to make that suggests the possibility that, that platform may be important for other diseases. And then just more broadly, there's a lot of advances in cardiovascular disease. And I would just count, we are a great cancer company. We've had long history in cardiovascular disease. Cardiovascular disease is still a very important unmet need, no different than cancer. So we see lots of opportunity.
+
+--------------------------------------------------------------------------------
+Peter Dannenbaum,  Merck & Co., Inc. - VP of IR    [55]
+--------------------------------------------------------------------------------
+
+          Thank you all for your questions today. Rob, any closing remarks?
+
+--------------------------------------------------------------------------------
+Robert M. Davis,  Merck & Co., Inc. - President, CEO & Director    [56]
+--------------------------------------------------------------------------------
+
+          Yes. Thanks, Peter. Well, I just want to reiterate our appreciation for the time today and for your questions. and leave you with a few thoughts. As hopefully you've seen, this is an important step for us. I think it demonstrates that we are willing to do what is necessary to continue to broaden and deepen and diversify our robust internal pipeline with rate science wherever we can find it, in this case, coming from Acceleron. We are convinced that sotatercept has the potential to be a foundational therapy. And I think you heard that in the way Frank talked about the commercial opportunity, and the way Dean and Roy talked about the strength of the science. And that's why we are very confident it is a multibillion-dollar peak sales potential drug and one where we will continue to build upon it as a platform to continue to expand our growing cardiovascular portfolio. So we feel very good about this. We'll keep you updated on our progress as we move forward. And look forward to talking to you about more things to come. So with that, we'll close the call. Thank you, everyone.
+
+
+
+
+
+
+
+--------------------------------------------------------------------------------
+Definitions
+--------------------------------------------------------------------------------
+PRELIMINARY TRANSCRIPT: "Preliminary Transcript" indicates that the 
+Transcript has been published in near real-time by an experienced 
+professional transcriber.  While the Preliminary Transcript is highly 
+accurate, it has not been edited to ensure the entire transcription 
+represents a verbatim report of the call.
+
+EDITED TRANSCRIPT: "Edited Transcript" indicates that a team of professional 
+editors have listened to the event a second time to confirm that the 
+content of the call has been transcribed accurately and in full.
+
+--------------------------------------------------------------------------------
+Disclaimer
+--------------------------------------------------------------------------------
+Refinitiv reserves the right to make changes to documents, content, or other 
+information on this web site without obligation to notify any person of 
+such changes.
+
+In the conference calls upon which Event Transcripts are based, companies 
+may make projections or other forward-looking statements regarding a variety 
+of items. Such forward-looking statements are based upon current 
+expectations and involve risks and uncertainties. Actual results may differ 
+materially from those stated in any forward-looking statement based on a 
+number of important factors and risks, which are more specifically 
+identified in the companies' most recent SEC filings. Although the companies 
+may indicate and believe that the assumptions underlying the forward-looking 
+statements are reasonable, any of the assumptions could prove inaccurate or 
+incorrect and, therefore, there can be no assurance that the results 
+contemplated in the forward-looking statements will be realized.
+
+THE INFORMATION CONTAINED IN EVENT TRANSCRIPTS IS A TEXTUAL REPRESENTATION
+OF THE APPLICABLE COMPANY'S CONFERENCE CALL AND WHILE EFFORTS ARE MADE TO
+PROVIDE AN ACCURATE TRANSCRIPTION, THERE MAY BE MATERIAL ERRORS, OMISSIONS,
+OR INACCURACIES IN THE REPORTING OF THE SUBSTANCE OF THE CONFERENCE CALLS.
+IN NO WAY DOES REFINITIV OR THE APPLICABLE COMPANY ASSUME ANY RESPONSIBILITY FOR ANY INVESTMENT OR OTHER
+DECISIONS MADE BASED UPON THE INFORMATION PROVIDED ON THIS WEB SITE OR IN
+ANY EVENT TRANSCRIPT. USERS ARE ADVISED TO REVIEW THE APPLICABLE COMPANY'S
+CONFERENCE CALL ITSELF AND THE APPLICABLE COMPANY'S SEC FILINGS BEFORE
+MAKING ANY INVESTMENT OR OTHER DECISIONS.
+--------------------------------------------------------------------------------
+Copyright 2023 Refinitiv. All Rights Reserved.
+--------------------------------------------------------------------------------

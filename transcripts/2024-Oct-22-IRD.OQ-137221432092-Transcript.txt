@@ -1,0 +1,272 @@
+
+
+Refinitiv StreetEvents Event Transcript
+E D I T E D  V E R S I O N
+
+Ocuphire Pharma Inc to Discuss the Acquisition of Opus Genetics
+October 22, 2024 / 8:30PM UTC
+
+================================================================================
+Corporate Participants
+================================================================================
+
+ * George Magrath
+   Ocuphire Pharma Inc - Chief Executive Officer, Director
+ * Ben Yerxa
+   Ocuphire Pharma Inc - President, Director
+ * Ash Jayagopal
+   Ocuphire Pharma Inc - Chief Scientific and Development Officer
+ * Nirav Jhaveri
+   Ocuphire Pharma Inc - Chief Financial Officer, Principal Financial Officer
+
+================================================================================
+Conference Call Participants
+================================================================================
+
+ * Operator
+   
+ * John Newman
+   Canaccord Genuity - Analyst
+ * James Molloy
+   Alliance Global Partners - Analyst
+ * Matthew Caufield
+   H.C. Wainwright & Co., LLC - Analyst
+
+================================================================================
+presentation
+--------------------------------------------------------------------------------
+Operator,     [1]
+--------------------------------------------------------------------------------
+Good afternoon, and welcome to this conference call to announce Ocuphire's acquisition of Opus Genetics. There are slides along with today's call. To access these, there is a link in the press release that was issued at 4:05. (Operator Instructions) As a reminder, this conference is being recorded.
+It is now my pleasure to introduce Dr. George Magrath, CEO. Thank you. You may begin.
+--------------------------------------------------------------------------------
+George Magrath, Ocuphire Pharma Inc - Chief Executive Officer, Director    [2]
+--------------------------------------------------------------------------------
+Thank you, operator, and thank you, everyone, for joining us this afternoon. We are very excited to host this call to discuss Ocuphire's acquisition of Opus Genetics.
+Before we begin, I want to draw your attention to the legal disclosures regarding forward-looking statements here on slide 2. Please note that any comments made on today's call speak only as of today, October 22, 2024, and may not be accurate at the time of any replay or transcription rereading.
+The agenda for the call is presented on slide 3. I will discuss an overview of the transaction. I will then hand it over to Dr. Ben Yerxa, President, who will provide an introduction to Opus Genetics. Dr. Ash Jayagopal will then review the pipeline of the combined companies in more detail. I will come back for closing remarks, and we will conclude with a Q&A session with the broader management team.
+The acquisition we are announcing today will transform Ocuphire into a biotech company focused on developing gene therapies for inherited retinal diseases and will expand our pipeline substantially. Opus Genetics has a strong scientific foundation and compelling portfolio of clinical assets that positions us to become a leader in gene therapy for inherited retinal diseases.
+The existing Ocuphire management team and the founders of Opus share a deep dedication to preserving and restoring vision. This transaction positions us to execute on that commitment by building an innovative, efficient and sustainable clinical-stage biotech company. We see a tremendous opportunity to deliver innovative solutions to patients suffering from devastating vision loss and creating value for our stakeholders.
+The assets of the combined company are expected to yield four clinical data readouts in 2025, including Phase 3 studies in two indications for our Phentolamine Ophthalmic Solution and two studies for the Opus Genetics clinical assets. The combined company will have a seasoned management team with a track record of developing and gaining regulatory approvals for ophthalmic drugs. We have our Phentolamine Ophthalmic Solution franchise, which has been partnered and has the potential for franchise royalty and milestones.
+Our pro forma estimated cash and cash equivalents is $37 million as of September 30. This transaction and the announced decisions are now expected to extend our cash runway into 2026 through all four clinical readouts in 2025.
+With the acquisition of Opus, we are adding seven gene therapy programs to our pipeline. Our most advanced candidate, OPGx-LCA5, has recently generated compelling efficacy data in a Phase 1/2 study in adults with early-onset retinal degeneration. Much of the data we'll show today is being presented for the first time and was a major consideration that drove our decision to consummate this transaction.
+OPGx-LCA5 therapy treats a severe form of inherited retinal degeneration that results in profound vision loss starting in infancy and progressing through adolescence. The genesis of these new assets is world-class science that was developed by gene therapy pioneers at the University of Pennsylvania, Harvard Medical School and the University of Florida.
+As I mentioned, we now have a cash runway into 2026. In the coming year, we expect to have four clinical trial readouts. Starting in the first quarter of 2025, we expect top line data from the LINX-2 Phase 3 trial for Phentolamine Ophthalmic Solution in patients with dim light disturbances. Then we should see VEGA-3 Phase 3 top line data for presbyopia in the first half of 2025. In the third quarter of 2025, we plan to share efficacy and safety data from pediatric patients treated with OPGx-LCA5, which we plan to start enrolling in Q1 of 2025.
+Finally, we are expecting preliminary Phase 1/2 data from OPGx-BEST1, the second most advanced candidate in the Opus pipeline, in the fourth quarter of 2025. Overall, we expect a busy and productive year in terms of clinical updates in 2025.
+Details of the transaction are summarized here. This is an all-stock transaction with Ocuphire and Opus shareholders owning 58% and 42%, respectively, of the combined company on a fully diluted basis. This transaction closed today. Opus executive, Dr. Ben Yerxa, will be joining the management team as President of the combined company. The new Board will be composed of individuals from both companies.
+The value proposition for the combined company is summarized on this slide. We now have a portfolio of seven assets with AAV-based gene therapy programs targeting inherited retinal diseases. We have funding support from several sources, including the Foundation Fighting Blindness, the NIH and the FDA.
+We have now seen compelling clinical proof-of-concept data for our most advanced candidate, OPGx-LCA5. The first pediatric patients in the ongoing Phase 1/2 study are expected to begin enrolling in Q1 2025.
+AAV-based gene therapies have been well studied and offer an effective method for treating retinal diseases based on the ability to effectively deliver the vector to retinal tissue using subretinal injection. This approach was validated by the FDA's approval of LUXTURNA in 2017, which represents a milestone for using AAV-based gene therapies for IRDs and help create the road map for clinical development for other gene therapies targeting IRDs. We have a clear development pathway for these programs with expedited regulatory processes as well as the potential pediatric and orphan drug designations. We believe we can execute these clinical programs in a cost-effective and timely manner. Most of these diseases are diagnosed early in life.
+They will have very active patient advocacy groups that we have access to as well as robust patient registries, which will help us recruit patients into clinical trials.
+Importantly, there's significant opportunity for commercial value. Pricing of approved gene therapy products for rare diseases typically reflects the value provided to patients. In addition, launching these products should require a relatively small commercial infrastructure.
+The leadership team of the combined company is here on the next slide. I will continue in my role as CEO of the combined company.
+Dr. Ben Yerxa was a co-founder of Opus and has more than 25 years of experience in biotech and ophthalmic drug development. Ben is joining the company as President and will join the Board of Directors.
+Dr. Jean Bennett is also a scientific co-founder of Opus. She is a pioneering physician scientist in the field of gene therapy, having developed the first-ever FDA-approved gene therapy, LUXTURNA, which was approved for RPE65-mediated disease causing blindness in children. She will be joining the company as a Director and as a scientific adviser.
+Dr. Adrienne Graves will also join the Board of Directors. Dr. Graves was prior CEO of Santen's US subsidiary and was the former Chairman of IVERIC Bio, which was recently acquired by Astellas. She previously served on the Opus Genetics Board of Directors.
+My colleagues, Joe Schachle, Dr. Ash Jayagopal, and Nirav Jhaveri, will continue in their roles of Chief Operating Officer, Chief Scientific and Development Officer, and Chief Financial Officer, respectively.
+The pipeline of the combined company is presented here with the new gene therapy programs on the top and the existing Ocuphire portfolio on the bottom. We see the Phentolamine franchise, which has been partnered, as providing meaningful potential cash flow in the future. The product, as you know, has already been FDA approved as RYZUMVI for the reversal of pharmacologically induced mydriasis and the commercial launch is ongoing.
+There are two near-term data readouts for indications that would expand its use into two meaningful ophthalmic indications. The LYNX-2 Phase 3 trial in patients with dim light disturbances is expected to report top line data in the first quarter of 2025, and the VEGA-3 Phase 3 trial in presbyopia is on track for top line data in the first half of 2025.
+APX3330 is our novel oral REF1 inhibitor that has completed a Phase 2 study in diabetic retinopathy, a condition that affects 10 million US patients. As we announced today in the press release, we remain in ongoing discussions with the FDA on the Special Protocol Assessment. Given the capital requirements and the developmental time lines of APX3330, we determined that it's best to seek a strategic partner to advance further late-stage development. We plan to redirect our resources towards more capital-efficient gene therapy programs.
+I will now turn the call over to Dr. Ben Yerxa to introduce the Opus pipeline assets.
+--------------------------------------------------------------------------------
+Ben Yerxa, Ocuphire Pharma Inc - President, Director    [3]
+--------------------------------------------------------------------------------
+Thank you, George. I want to first say how excited I am to join the team. As George stated, I've been with Opus since we founded the company in 2021. Our mission from day one has been to develop much needed treatments for patients with inherited retinal diseases by using groundbreaking gene therapies. This acquisition will provide us with the resources and team to advance the pipeline.
+We have seven great gene therapy assets. These have been selected on the strength of the most promising preclinical data and likelihood of success in the clinic. The most advanced program, as George mentioned, is OPGx-LCA5, which has been developed to treat LCA5 and early onset retinal degeneration. Each of the seven programs targets a distinct gene mutation, each of which causes a monogenic retinal disease that is amenable to treatment with a single gene replacement using our standardized AAV vectors and delivering via the well-established subretinal injection.
+As Ash will discuss, we are thrilled that our first patients with LCA5 provides compelling evidence that the vision we set out to achieve has now been validated in the clinic. I will now turn the call over to Dr. Ash Jayagopal to go over these programs in more detail.
+--------------------------------------------------------------------------------
+Ash Jayagopal, Ocuphire Pharma Inc - Chief Scientific and Development Officer    [4]
+--------------------------------------------------------------------------------
+Thank you, Ben. Our most advanced program addresses an inherited retinal degeneration associated with mutations in the LCA5 gene. The LCA5 gene encodes for an essential photoreceptor structural protein, lebercilin, and its absence in these patients leads to legal blindness within the first few years of life. Biallelic mutations in the LCA5 gene are associated with legal blindness within the first few years of life, and patients with LCA5 exhibit structural and functional retinal abnormalities which severely diminish visual acuity and light sensitivity.
+However, based on studies of LCA5 patients led by Dr. Jean Bennett at the University of Pennsylvania, we have observed what we call a structure function dissociation. We find that, in many patients, even through the third decade of life, the photoreceptors are dysfunctional, but still viable, and may be amenable to restoration of function. These findings suggest that there is a broad window of opportunity for therapeutic intervention using LCA5 gene therapy to restore functional copies of the LCA5 gene even in advanced disease. And indeed, that is what we have recently observed in these first patients.
+The LCA5 gene encodes for an essential photoreceptor structural protein, lebercilin, the absence of which leads to severe vision loss. A team at the University of Pennsylvania led by Dr. Jean Bennett has designed an effective AAV vector for delivering functional copies of the LCA5 gene in patients. The vector shares key technologies such as the promoter featured in LUXTURNA, the gene therapy for a form of leber congenital amaurosis, or LCA2, that was approved by the FDA in 2017.
+OPGx-LCA5 is currently being evaluated in a Phase 1/2 open-label trial, and we are pleased to share with you some encouraging early data for the first time. Among several different measures of efficacy we assessed, there are three key assessments of retinal function, the first two of which we will show on the next two slides. Number one is virtual reality orientation and mobility testing, or VROMT. Number two is full field stimulus testing, or FST, and number three is microperimetry.
+Addressing VROMT first and as shown by new six-month data, improvement in a virtual reality-guided orientation and mobility test was observed in all three patients. We believe this VR assessment is a potential registrational endpoint since it is a promising predictor of real-world visual function. The test is an adaptation of the Multi-Luminance Mobility Test, or MLMT, that was the primary endpoint for LUXTURNA's pivotal trial and was the basis of FDA approval in another form of LCA.
+Full-field stimulus testing, or FST, which measures the retina's sensitivity to light, was also supportive of improvements in visual function in all three patients. OPGx-LCA5 gene therapy was well tolerated and additional efficacy and safety data from these three patients is expected throughout 2025, in addition to the new pediatric patients we expect to start enrolling in Q1 of 2025.
+The next slide shows data from the VROMT. The way it works is that the patient puts on a virtual reality headset and has handsets in each hand. The system presents a virtual course with arrows directing the patient to follow a path. Along the path are objects that they are instructed to tap with the handset. The assessment evaluates the number of objects along the path that the patient correctly identifies.
+There are a total of nine objects, so nine out of nine would be a perfect score. Normal individuals are expected to get at least eight out of the nine objects correct. The test is then repeated at increasing levels of light for a total of four tests. The placement of the objects and the path changes for each time so that there is no learning bias.
+The graphic on the left is an illustrative reconstruction of the virtual course for Patient number one at baseline and at one month. It depicts what they see through their virtual headset from a bird's eye view.
+The graphs on the right are the actual data from each of the three patients. The X-axis represents increasing levels of light from left to right. The Y-axis is the number of correctly identified objects during the assessment. There are four lines, each of which represents the test being conducted at baseline, one month, three months, and six months.
+The line at the upper left of each graph is the control group of healthy participants with normal vision that were evaluated in the same test. For each of the three patients, the left graph of each set is the untreated eye and the graph on the right is the treated eye. So you can see the baseline in the study eye for each of the three patients is about zero. The third patient could identify some objects at the two higher levels of light, but this dropped to zero for the lowest two levels of light. Keep in mind that these patients are not expected to change very much at all, and they never experience an improvement in vision over time.
+The data in the untreated eye demonstrates some minor variability, which is the typical level of noise expected in this VR assessment of plus or minus two objects. But generally, the nontreated eye does not change over the six-month period. Remember that people with normal vision are even expected to sometimes miss one or two objects at the highest level of light. And you could see that, at the lower levels of light, even the normals drop down to four out of nine. To put this in perspective, at the lowest level of light tested, imagine what you would experience being outside at night with only the light of a quarter moon.
+In the study eye, there's clear evidence of an increasing number of properly identified objects over time. patient number one goes from zero objects at baseline at any light level, that's the orange line, to a peak of four objects at six months at the highest level of light, as shown by the green triangles. Patient number two shows the most profound effect, going from zero at baseline for all levels of light up to seven to nine objects at the higher levels of light as early as one month after treatment. Patient number three also shows a clinically significant improvement as soon as one month, which is sustained out to six months.
+To restore functional vision and object recognition in these individuals that have been legally blind for decades is an astounding accomplishment. This translates into things like reducing reliance on sight-assisting aids, like experiencing improved mobility in an unfamiliar location, and giving them some aspect of their independence back. Again, these individuals would never be expected to show any improvement at all over time without treatment.
+Additionally, remember that this was at the lowest dose level and in adult patients and at six months. As we approach the 12-month data, we are hoping to show durability of this improvement in function. And especially as we move into dosing pediatric patients in the coming months, we are excited about the prospect for even greater improvements in visual function for these young kids.
+The next slide shows another efficacy assessment for full-field stimulus testing. FST was designed to test sensitivity to light. The way this works is a light is flashed at different levels of intensity and the patient is asked to respond with the binary outcome of yes or no as to whether or not they saw the light flash. Two colors of light are used. Blue light is used to test rod photoreceptors and is represented by the blue columns on the graph. Red light is used to test cone photoreceptors and is represented by the red columns on the graph.
+FST was used in the early LUXTURNA trials as the first evidence of biologic activity. Spark Therapeutics subsequently developed the MLMT and found that it was correlated to FST. Similarly, we have found a correlation between FST and what we just showed you on the VROMT.
+In the graphs, we show the four time points of baseline, one month, three months, and six months on the X-axis. The Y-axis is the dimmest level of light intensity that they are able to see. And it's important to realize this is a logarithmic scale.
+For the control eye in each of the three patients, you can see that the lowest level of light the patient is able to detect does not really change over time for either red or blue light testing. For the study eye, you see dramatic improvement in the first and the third patients starting as soon as one month after treatment for both red and blue light testing. In the second patient, the improvement is not as profound, likely because this individual had higher baseline rod sensitivity predisposing them for a better response to the VROMT compared to the FST.
+The third efficacy measure I mentioned is microperimetry. This is a similar test to FST, but light is used to stimulate specific areas of the retina in microperimetry in order to measure point-wise sensitivity. Microperimetry requires some level of visual acuity for the test to be conducted. And for this reason, only the third subject was able to complete this test. Due to the advanced stage of disease in the other two patients, they could not be evaluated using microperimetry.
+The third patient showed an impressive 18-fold improvement in mean sensitivity of the region of the retina immediately proximal to the area of gene therapy administration.
+Microperimetry can be used as a registrational endpoint in other IRDs such as X-linked retinitis pigmentosa. Earlier-stage patients like those we will enroll in the pediatric population in the coming months are more likely to be evaluable with this endpoint.
+The next steps in this program are shown on this slide. As I just mentioned, the next set of patients enrolled will be pediatric subjects. Enrollment is expected to commence in Q1 of 2025 with preliminary data expected by Q3 of 2025. The program has received $3.35 million in funding from the FDA Office of Orphan Drug Products to complete the Phase 1/2 trial and has also been awarded both rare pediatric disease and orphan drug designations, which confer eligibility for a priority review voucher upon BLA approval.
+Moving on to the next gene therapy candidate, OPGx-BEST1, or BEST1, this is a Phase 1/2 ready asset in development for bestrophin-1-associated retinal degeneration. BEST1 mutations exist in approximately 9,000 individuals in the United States, making it a top five indication in terms of IRD prevalence. Symptoms can include dimness of vision, distorted vision or blind spots. BEST1 mutations can ultimately lead to loss of central vision. OPGx-BEST1 has been designed to restore retinal ion homeostasis in vestrophinopathies and improve retinal structure and function.
+In IND-enabling studies conducted in canine models of BEST1 disease, OPGx-BEST1 has generated compelling proof-of-concept efficacy data and exhibited favorable safety. Treatment with OPGx-BEST1 resulted in robust restoration of the RPE photoreceptor interface compared to control, and this is depicted in the top panel of retinal images with control on the left and OPGx-BEST1-treated retinas on the right. In addition, reversal of gross lesions and microdetachments in OPGx-BEST1 treated models compared to control has been demonstrated, as measured by immunofluorescence markers of cytoskeletal structure shown in the bottom panel of images.
+To date, OPGx-BEST1 has been well tolerated in toxicology studies, informing clinical trial design. There has already been positive feedback from EU regulators for a Phase 1/2 trial, and we anticipate filing a CTA in Germany in 2025 for commencement of clinical trials. The Center of Excellence in Munich sees a large number of these patients.
+Gene therapies have immense potential to create significant commercial value. Shown on this slide are examples of currently available gene therapies, including some AAV vector-based therapies.
+Gene therapy has the potential as a onetime treatment with a lifetime of benefit for patients. Specific to our portfolio, our gene therapies are designed to provide sight restoration or preservation for patients who would otherwise lose their vision.
+Our patient populations are well defined through existing patient registries, networks of advocacy groups and the medical community. These relationships will allow us to accelerate clinical trial recruitment and streamline patient access to our therapies upon approval.
+Let me now turn the call back to Dr. Magrath to speak to the other candidates in our pipeline beyond gene therapy.
+--------------------------------------------------------------------------------
+George Magrath, Ocuphire Pharma Inc - Chief Executive Officer, Director    [5]
+--------------------------------------------------------------------------------
+Thank you, Ash. Phentolamine Ophthalmic Solution has been partnered with a leading pharmaceutical organization and is being developed for three front-of-the-eye indications with sizable patient populations in the US. As mentioned earlier, it has been approved as RYZUMVI for its first indication, reversal of pharmacologically induced mydriasis, and it was launched in April of this year by our partner, who is responsible for commercialization. The two additional indications are to treat presbyopia and decreased visual acuity under low light conditions, both of which are currently in Phase 3 development. The VEGA-3 and LYNX-2 trials are expected to report top line data in 2025. Our partner will be commercializing each of these indications, and we would receive potential milestones and royalties.
+Our other candidate, APX3330, is in development for diabetic retinopathy. DR is the leading cause of blindness in working-age adults and impacts approximately 10 million patients in the US. APX3330 has shown promising results in a Phase 2 study, demonstrating its ability to slow disease progression compared to placebo in patients with early-stage disease. A Special Protocol Assessment is currently under review by the FDA to align on a novel registrational trial design in non-proliferative DR. We have also defined process chemistry and established a manufacturing readiness plan.
+Finally, we are completing absorption distribution, metabolism and excretion, as well as bioavailability human studies. As I mentioned earlier, we are now going to pursue a potential partnership to further advance this program to allow us to focus on our gene therapy programs while extending our cash runway.
+To summarize, we are undertaking this acquisition with the goal of creating a leading IRD franchise with a highly experienced management team and cutting-edge pipeline of retinal disease candidates. Following the acquisition, our cash runway is expected to be sufficient to support operations into 2026 through multiple near-term milestones, including four clinical trial readouts anticipated in 2025.
+We are excited for this new phase of growth and the opportunity to bring life-changing treatments to those who currently have limited options. I want to thank the teams at both companies for their hard work in making this deal a reality and the patients and investigators for participation in our development programs. We look forward to sharing our progress as we move forward.
+Thank you for your continued support, and we will now open the floor for questions.
+
+================================================================================
+q-and-a
+--------------------------------------------------------------------------------
+Operator,     [1]
+--------------------------------------------------------------------------------
+(Operator Instructions) John Newman, Canaccord.
+--------------------------------------------------------------------------------
+John Newman, Canaccord Genuity - Analyst    [2]
+--------------------------------------------------------------------------------
+Hey guys. Thank you for taking my questions. Congrats on the deal. I just had a couple of questions here, if I may. The first one is, how many patients do you estimate you'd need for a Phase 3 study for LCA5? And when might that study potentially begin?
+--------------------------------------------------------------------------------
+George Magrath, Ocuphire Pharma Inc - Chief Executive Officer, Director    [3]
+--------------------------------------------------------------------------------
+Yes. John, this is George. Great question and thank you for that. So if you use LUXTURNA's development program as a proxy, they did the Phase 3 with around 30 patients or so. And we think that that could possibly be a little bit lower than that number here if the efficacy that we've seen in the first three patients holds up.
+We are going to be treating the first pediatric patients, which you would expect to have more of a response than the end-stage adults that have been blind most of their life. And so we -- if the efficacy holds or is better with those pediatric patients at this dose, it might be quite compelling to move into a pivotal trial. But we'll report that pediatric data in the third quarter of next year.
+--------------------------------------------------------------------------------
+John Newman, Canaccord Genuity - Analyst    [4]
+--------------------------------------------------------------------------------
+Okay. And what might you be looking at for a primary endpoint in Phase 3?
+--------------------------------------------------------------------------------
+George Magrath, Ocuphire Pharma Inc - Chief Executive Officer, Director    [5]
+--------------------------------------------------------------------------------
+The primary endpoint, we think, is going to be the Virtual Reality Orientation Mobility Test that Ash went through. I think it's a -- an adaptation, or an advancement really, of the multi luminous mobility test that should allow us to have a sensitive and specific assessment of the real-world function of these patients.
+--------------------------------------------------------------------------------
+John Newman, Canaccord Genuity - Analyst    [6]
+--------------------------------------------------------------------------------
+Okay, great. Thank you.
+--------------------------------------------------------------------------------
+George Magrath, Ocuphire Pharma Inc - Chief Executive Officer, Director    [7]
+--------------------------------------------------------------------------------
+Yeah. Thanks, John.
+--------------------------------------------------------------------------------
+Operator,     [8]
+--------------------------------------------------------------------------------
+James Molloy, Alliance Global Partners.
+--------------------------------------------------------------------------------
+James Molloy, Alliance Global Partners - Analyst    [9]
+--------------------------------------------------------------------------------
+Hey guys. Thank you for taking my questions. Congratulations on the acquisition as well. Walk me through, if you could please, the APX3330. Could you just walk through what the potential environment for acquisitions or out-licensing looks like? And I know it's hard to time this sort of things, but is there an expectation for the amount of time it may or may not take to find a partner to fund further development or to outright buy APX3330 from you guys? Thank you.
+--------------------------------------------------------------------------------
+George Magrath, Ocuphire Pharma Inc - Chief Executive Officer, Director    [10]
+--------------------------------------------------------------------------------
+Yeah, no. Thanks, Jim. Great question. So we certainly don't have any timelines right now that we can share with you and don't have many details, right? We'll be running a thorough process. We do believe APX3330, being a clinical stage asset, may have some value, but we will absolutely be doing everything we can to turn over every rock to continue progression of APX3330 with the help of a partner.
+--------------------------------------------------------------------------------
+James Molloy, Alliance Global Partners - Analyst    [11]
+--------------------------------------------------------------------------------
+And maybe a quick follow-up, what is the current -- you guys reported, second quarter, about $47 million or so. Have you guys reported what the current cash position is besides the run rate of 2026?
+--------------------------------------------------------------------------------
+George Magrath, Ocuphire Pharma Inc - Chief Executive Officer, Director    [12]
+--------------------------------------------------------------------------------
+Yeah. I'll turn that over to our CFO, Nirav Jhaveri.
+--------------------------------------------------------------------------------
+Nirav Jhaveri, Ocuphire Pharma Inc - Chief Financial Officer, Principal Financial Officer    [13]
+--------------------------------------------------------------------------------
+Thank you, George. So what we reported is a preliminary and unaudited cash balance of $37 million. What's important is that it does -- the cash runway goes into 2026, where we think we can deliver a number of compelling clinical catalysts.
+And as you think of the cash balance, it includes a minimal contribution from Opus in the transaction. There is some restricted cash we could have as well. And there is access to additional nondilutive funding that is not included in the cash balance.
+--------------------------------------------------------------------------------
+James Molloy, Alliance Global Partners - Analyst    [14]
+--------------------------------------------------------------------------------
+Great. Thanks for taking the question.
+--------------------------------------------------------------------------------
+George Magrath, Ocuphire Pharma Inc - Chief Executive Officer, Director    [15]
+--------------------------------------------------------------------------------
+Thanks, James.
+--------------------------------------------------------------------------------
+Operator,     [16]
+--------------------------------------------------------------------------------
+Matthew Caulfield, H.C. Wainwright.
+--------------------------------------------------------------------------------
+Matthew Caufield, H.C. Wainwright & Co., LLC - Analyst    [17]
+--------------------------------------------------------------------------------
+Hi. Good afternoon, guys. Very excited to see the new direction for the platform. So two questions from me, one on 3330 and then one just on the broader gene therapy programs.
+So for 3330, does the potential or prospective partnering of that program speak at all to more difficult interactions with the agency than were originally anticipated, specifically for the SPA conversations?
+--------------------------------------------------------------------------------
+George Magrath, Ocuphire Pharma Inc - Chief Executive Officer, Director    [18]
+--------------------------------------------------------------------------------
+No, good question, Matt. So no, it doesn't. So the SPA negotiations with the agency are actually -- they're going quite well. It is a novel study with novel endpoints and novel statistical methods that are being used. So that is ongoing.
+What it really comes down to for APX3330 is developmental timelines and really the risk profile of 3330. And so what we like about the gene therapy programs is that these programs allow us to execute clinical trials, potentially get very far down the road with the two lead programs and hopefully the others as well with the cash we have on hand and in the near term. So we're excited about having four clinical readouts next year.
+--------------------------------------------------------------------------------
+Matthew Caufield, H.C. Wainwright & Co., LLC - Analyst    [19]
+--------------------------------------------------------------------------------
+Okay. That's very helpful. I appreciate it. And then just one more question on the gene therapy direction. I don't know if I missed it, but could the team possibly speak more to the market size for LTA5 or BEST1, both domestically and then any market size estimates for ex-US?
+--------------------------------------------------------------------------------
+George Magrath, Ocuphire Pharma Inc - Chief Executive Officer, Director    [20]
+--------------------------------------------------------------------------------
+Yeah. So LCA5 is around 250 patients in the United States. BEST1 is 9,600 in the United States. We have good access to these patients. They have strong advocacy groups.
+And so we think enrolling the trial will be okay. They also qualify for priority review vouchers. At least LCA5 has been granted the rare pediatric designation by the FDA. And we think it's a pretty compelling value proposition with the -- the FDA is actually funding -- as Ash said earlier in the presentation, the FDA is actually funding the LCA trial for $3.35 million. And then we are looking at the economics that would come along with the value created in at least the first three patients that have been treated.
+So we think the commercial picture for this is quite bright. We are going to have to stay focused and stay very capital efficient to make sure we maximize the return. But we feel like it's definitely a doable market. And then BEST1 gets to be a pretty big market for IRDs, one of the biggest for the inherited retinal disorders.
+It's interesting. The FDA, at the AAO, one of the FDA ophthalmic division leaders was there, and in the Q&A session mentioned that inherited retinal diseases are the unmet need in ophthalmology right now. And we feel like partnering with the likes of Jean Bennett, the University of Pennsylvania, Harvard, University of Florida, with these programs puts us in a great position to be a leader in that field going forward.
+--------------------------------------------------------------------------------
+Matthew Caufield, H.C. Wainwright & Co., LLC - Analyst    [21]
+--------------------------------------------------------------------------------
+Yeah, absolutely, in a very exciting direction. Would you say those markets are as identifiable outside the US?
+--------------------------------------------------------------------------------
+George Magrath, Ocuphire Pharma Inc - Chief Executive Officer, Director    [22]
+--------------------------------------------------------------------------------
+Ben, I'll let -- I'll turn this one to you to talk about the market size outside the US for the LCA5 and BEST1.
+--------------------------------------------------------------------------------
+Ben Yerxa, Ocuphire Pharma Inc - President, Director    [23]
+--------------------------------------------------------------------------------
+Sure, happy to jump in on that. We've been doing some studies on population genetics to get a better handle on some of the geographic differences. And each gene is somewhat unique in terms of the prevalence in the major geographies. And as we drill down and get more stronger data, we're confident we can get that out to the public.
+--------------------------------------------------------------------------------
+Matthew Caufield, H.C. Wainwright & Co., LLC - Analyst    [24]
+--------------------------------------------------------------------------------
+Okay. Very helpful. Well, congrats, guys. Exciting to see the new direction forward.
+--------------------------------------------------------------------------------
+George Magrath, Ocuphire Pharma Inc - Chief Executive Officer, Director    [25]
+--------------------------------------------------------------------------------
+Yeah. Thank you, Matt.
+--------------------------------------------------------------------------------
+Operator,     [26]
+--------------------------------------------------------------------------------
+Thank you. It does look like there are no further questions at this time. I would like to turn the floor back to Dr. Magrath for closing remarks.
+--------------------------------------------------------------------------------
+George Magrath, Ocuphire Pharma Inc - Chief Executive Officer, Director    [27]
+--------------------------------------------------------------------------------
+Yeah. Thank you, operator. We really appreciate all the support of everybody on the call, both teams to get the deal done, and most importantly, the investigators and the participants in the studies. It's exciting to be in a position where we could potentially create value for all stakeholders involved. Thank you.
+--------------------------------------------------------------------------------
+Operator,     [28]
+--------------------------------------------------------------------------------
+Thank you. This does conclude today's teleconference. We thank you for your participation. You may disconnect your lines at this time.
+
+
+
+
+
+
+--------------------------------------------------------------------------------
+Definitions
+--------------------------------------------------------------------------------
+Preliminary Transcript: "Preliminary Transcript" indicates that the 
+Transcript has been published in near real-time by an experienced 
+professional transcriber.  While the Preliminary Transcript is highly 
+accurate, it has not been edited to ensure the entire transcription 
+represents a verbatim report of the call.
+
+EDITED TRANSCRIPT: "Edited Transcript" indicates that a team of professional 
+editors have listened to the event a second time to confirm that the 
+content of the call has been transcribed accurately and in full.
+
+--------------------------------------------------------------------------------
+Disclaimer
+--------------------------------------------------------------------------------
+The London Stock Exchange Group and its affiliates (collectively, "LSEG") reserves the right to make changes to documents, content, or other information on this web site without obligation to notify any person of such changes. No content may be modified, reverse engineered, reproduced or distributed in any form by any means, or stored in a database or retrieval system, without the prior written permission of LSEG. The content shall not be used for any unlawful or unauthorized purposes. LSEG does not guarantee the accuracy, completeness, timeliness or availability of the content. LSEG is not responsible for any errors or omissions, regardless of the cause, for the results obtained from the use of the content. In no event shall LSEG be liable to any party for any direct, indirect, incidental, exemplary, compensatory, punitive, special or consequential damages, costs, expenses, legal fees, or losses (including, without limitation, lost income or lost profits and opportunity costs or losses caused by negligence) in connection with any use of the content even if advised of the possibility of such damages.
+
+In the conference calls upon which Summaries are based, companies may make projections or other forward-looking statements regarding a variety of items. Such forward-looking statements are based upon current expectations and involve risks and uncertainties. Actual results may differ materially from those stated in any forward-looking statement based on a number of important factors and risks, which are more specifically identified in the companies' most recent SEC filings. Although the companies may indicate and believe that the assumptions underlying the forward-looking statements are reasonable, any of the assumptions could prove inaccurate or incorrect and, therefore, there can be no assurance that the results contemplated in the forward-looking statements will be realized.
+
+LSEG assumes no obligation to update the content following publication in any form or format. The content should not be relied on and is not a substitute for the skill, judgment and experience of the user, its management, employees, advisors and/or clients when making investment and other business decisions. LSEG does not act as a fiduciary or an investment advisor except where registered as such.
+
+THE INFORMATION CONTAINED IN TRANSCRIPT SUMMARIES REFLECTS LSEG'S SUBJECTIVE CONDENSED PARAPHRASE OF THE APPLICABLE COMPANY'S CONFERENCE CALL AND THERE MAY BE MATERIAL ERRORS, OMISSIONS, OR INACCURACIES IN THE REPORTING OF THE SUBSTANCE OF THE CONFERENCE CALLS. IN NO WAY DOES LSEG OR THE APPLICABLE COMPANY ASSUME ANY RESPONSIBILITY FOR ANY INVESTMENT OR OTHER DECISIONS MADE BASED UPON THE INFORMATION PROVIDED ON THIS WEB SITE OR IN ANY SUMMARY. USERS ARE ADVISED TO REVIEW THE APPLICABLE COMPANY'S CONFERENCE CALL ITSELF AND THE APPLICABLE COMPANY'S SEC FILINGS BEFORE MAKING ANY INVESTMENT OR OTHER DECISIONS.
+--------------------------------------------------------------------------------
+Copyright 2024 LSEG. All Rights Reserved.
+--------------------------------------------------------------------------------

@@ -1,0 +1,224 @@
+
+
+Refinitiv StreetEvents Event Transcript
+E D I T E D  V E R S I O N
+
+Sol Gel Technologies, Ltd. M&A Call
+January 27, 2023 / 1:30PM UTC
+
+================================================================================
+Corporate Participants
+================================================================================
+
+ * Operator
+   
+ * Alon Seri-Levy
+   Sol-Gel Technologies, Ltd. - Co-Founder and CEO
+ * Moshe Arkin
+   Sol-Gel Technologies, Ltd. - Chairman
+ * Gilad Mamlok
+   Sol-Gel Technologies, Ltd. - CFO
+
+================================================================================
+Conference Call Participants
+================================================================================
+
+ * Elliot Wilbur
+   Raymond James Financial, Inc. - Analyst
+
+================================================================================
+presentation
+--------------------------------------------------------------------------------
+Operator,     [1]
+--------------------------------------------------------------------------------
+Greetings. Welcome to the Sol-Gel Technologies asset acquisition call. (Operator Instructions) Please note this conference is being recorded. I will now turn the conference over to your host, CEO, Alon Seri-Levy, you may begin.
+Alon, is your phone on mute?
+--------------------------------------------------------------------------------
+Alon Seri-Levy, Sol-Gel Technologies, Ltd. - Co-Founder and CEO    [2]
+--------------------------------------------------------------------------------
+Thank you. Hello, everybody, and welcome to today's investor update call. Today, we announced the recent acquisition by Sol-Gel for Phase-3-ready new chemical entity orphan drug candidate, Patidegib Gel 2%, for the prevention of basal cell carcinomas or BCCs in Gorlin syndrome patients. We require these novel candidates from the Californian company, PellePharm, for $4.7 million upfront payment up to $70 million in a regulatory and commercial milestones and a single-digit sales royalties.
+Together with me, our Executive Board Chairman, Moshe Arkin; and our Chief Financial Officer, Gilad Mamlok. We are very excited to share details with you about this acquisition, which we believe will drive significant value for all our stakeholders more than anyone else for Gorlin syndrome patients.
+I would like to invite Moshe Arkin to give you his perspective on this recent acquisition. Moshe?
+--------------------------------------------------------------------------------
+Moshe Arkin, Sol-Gel Technologies, Ltd. - Chairman    [3]
+--------------------------------------------------------------------------------
+(spoken in foreign language) Just a second. Hello, and thank you, Alon.
+I'm very pleased to be part of this great enterprise and this great project of acquiring the Patidegib assets. We are -- instead of developing simple products, dermatological products in a very crowded market, we decided to push for more unique product, for more lucrative products that cater to rare disease and to a real problems that are unmet medical need as of now. And this would be also our strategy for the future to develop only sophisticated product that provide new hope for patients' unmet medical need.
+I'm very happy to provide my own capital to this project and to continue to support the company all the way until it's -- until the success of this project, and some others that I'm sure will follow. I'm sure that this new strategy that we are now applying will be in the best interest of all our stakeholders, shareholders, management, and most importantly, the patient community that are suffering from this debilitating disease. Thank you.
+--------------------------------------------------------------------------------
+Operator,     [4]
+--------------------------------------------------------------------------------
+And this is all the prepared remarks.
+--------------------------------------------------------------------------------
+Moshe Arkin, Sol-Gel Technologies, Ltd. - Chairman    [5]
+--------------------------------------------------------------------------------
+(spoken in foreign language)
+--------------------------------------------------------------------------------
+Operator,     [6]
+--------------------------------------------------------------------------------
+Alon, you're on mute.
+--------------------------------------------------------------------------------
+Alon Seri-Levy, Sol-Gel Technologies, Ltd. - Co-Founder and CEO    [7]
+--------------------------------------------------------------------------------
+I'm on.
+--------------------------------------------------------------------------------
+Operator,     [8]
+--------------------------------------------------------------------------------
+Okay.
+--------------------------------------------------------------------------------
+Alon Seri-Levy, Sol-Gel Technologies, Ltd. - Co-Founder and CEO    [9]
+--------------------------------------------------------------------------------
+And just to make a remark, before we begin, we wanted to remind all listeners that this presentation may contains certain forward-looking statements concerning the financial condition results of operations and other business of Sol-Gel Technologies, or statements other than statements of historical, or may be deemed to be forward-looking statements. Before you make any investment decisions about Sol-Gel, please read the company's full Safe Harbor statement about forward-looking statements, which can be found in our filings with the SEC online at www.sec.gov or via our company website, www.sol-gel.com.
+I will end -- let's now focus on the Gorlin syndrome patient. Let me begin by referring you -- and Gilad, you could -- please switch to the right slide, Gorlin syndrome patients.
+Let me begin by referring you all to these two photos of Gorlin syndrome patients who suffer from BCCs. I can assure that there are many patients with far more complex situation than the patients shown here, but I believe they clearly demonstrates the need for prevention of new BCCs.
+Gorlin syndrome is also called nevoid basal cell carcinomas syndrome because most patients with this syndrome will develop a few to many thousands of BCC lesions. The current standard of care is most surgery for the removal of BCCs. However, this is a painful solution, and repeated surgical procedures leads to disfiguration and later become impossible. Therefore, preventing the development of new BCCs is critical for people with Gorlin syndrome.
+Next slide, please. It is estimated that approximately 17,000 adult Gorlin syndrome patients worldwide. If we assume market penetration for a product presenting new BCCs at 44% to 55% and patient adherence of around 65%, the annual net revenue opportunity is over $300 million. We believe that these estimates are attainable and realistic given how vital presentation of new BCCs is for these patients -- the lack of other proven -- approved therapeutic treatment option, the convenience of the administration, and the expected tolerability of our new drug candidates.
+Next slide, please. This one, slide 6.
+If I could do formulation, which we had acquired was originally lack or originally licensed by PellePharm to LEO Pharma. In November 2018, LEO valued this asset at $760 million plus double-digit royalties. In 2021, BridgeBio announced that PellePharm pivotal trial did not succeed, and LEO returned the asset.
+Next slide, please. Patidegib is hedgehog inhibitor, and the mechanism of action of hedgehog inhibitors is well established. These drugs work by antagonizing a transmembrane protein called Smoothened, which under ordinary condition is antagonized by another transmembrane protein called Patched Homolog 1, which is encoded by the tumor suppressor gene, PTCH1.
+Gorlin syndrome is mainly caused by inherited of one defective copy of PTCH1. And when the PTCH1 gene is mutated, the Smoothened protein is released excessively, and BCC tumor cells divide uncontrollably.
+Currently, oral hedgehog inhibitors are approved to treat certain patients with BCC, but hedgehog inhibitors have never been approved for the prevention of new BCCs. In addition, these of oral therapies often cause adverse reactions such as muscle spasms, taste disorder, hair loss, as well as other adverse reactions which results in patient non-compliance.
+Next slide, please. Patidegib was found to penetrate well into the skin but not into the plasma. It was therefore decided to formulated as a topical gel with the objective of producing local efficacy, specifically preventing new BCC while avoiding systemic adverse events associated with oral hedgehog inhibitors.
+It has been granted orphan drug designation in both the US and the EU. Namely, if approved, it will have seven years of exclusivity in the US and 10 years of exclusivity in the EU.
+It was an FDA Breakthrough Therapy Designation, which provides for fast-track review and additional FDA guidance through the development process. We have designated the package topical formulation as investigational compound SGT-610.
+Next slide, please. PellePharm failed in Phase 3 for Patidegib 2% despite achieved -- as you can see here, a difference of 30% in prevention of new BCCs between the treated and the vehicle arms. When we delve into the design of PellePharm Phase 3 study, we learned that the study had included symptomatic patient without testing them for positive PTCH1 mutation, even though we know that Patidegib, like other hedgehog inhibitor, works only when PTCH1 is mutated.
+In addition, the inclusion criteria for this study specified that patients must have at least two BCCs at baseline, which is clearly not enough BCC burden to demonstrate efficacy, particularly as the primary end point was prevention of new BCC. We plan to conduct a new Phase 3 study, and to only include Gorlin patients with PTCH1 mutations and with a greater number of BCC lesions at the baseline. We believe that with this type of inclusion criteria, we would be able to detect statistically significant prevention efforts.
+Next slide. Our plan is supported by a post-hoc analysis in which we identified the dose participants that had PTCH1 mutations in more than 10 BCCs at baseline. In this group, we saw 48% fewer new BCC in the treatment arm and a statistically significant difference from vehicle-treated patients.
+Next slide, please. The actual correspondence we reviewed as part of our due diligence process indicated that the agency advised PellePharm to explore the impact of baseline disease characteristics for the outcomes in future study designs, which is exactly our plan.
+Next slide. Based on our post-hoc analysis, if we narrowed the patient screening criteria to those with a PTCH1 mutations and a higher BCC burden at baseline, we expect that we'll also see early onset of action.
+Next one, please. Okay. In terms of Phase 3 study, the Patidegib arm was found to have similar tolerability to the vehicle. So we are optimistic that this drug candidate, if approved, we'd have no compliance issues associated with systemic adverse events or skin intolerability.
+Next one, please. The FDA and EMA have both agreed to a single Phase 3 trial. And we plan for 100 to 150 subjects for a study powered at 90%. Our goal is to initiate this study in the second half of this year and finish this study with last patient last visit by the end of 2025.
+And now let me hand over to Gilad.
+--------------------------------------------------------------------------------
+Gilad Mamlok, Sol-Gel Technologies, Ltd. - CFO    [10]
+--------------------------------------------------------------------------------
+Hi, everyone. With regard to the payment to PellePharm, we are going to pay PellePharm, $4.7 million upfront. We'll also pay them after $6 million in total development and regulatory milestones and up to $64 million in commercial milestones and single-digit royalties on net sales.
+We are very happy that we have managed to quickly finance the production via private placement of public equity investments from our controlling shareholder, Moshe Arkin, as well as a registered direct investment from our new investor, Armistice Capital. In total, we have raised $22.8 million. And we expect that with this additional capital, we can now finance our activities through mid-2025. In parallel, we will seek to out -license international rights with TWYNED and EPSOLAY, as well as monetizing rights to SGT-310 and SGT-510, which could extend our cash run rate even further.
+--------------------------------------------------------------------------------
+Alon Seri-Levy, Sol-Gel Technologies, Ltd. - Co-Founder and CEO    [11]
+--------------------------------------------------------------------------------
+Thank you, Gilad. Next slide, please.
+--------------------------------------------------------------------------------
+Gilad Mamlok, Sol-Gel Technologies, Ltd. - CFO    [12]
+--------------------------------------------------------------------------------
+It's on slide 15.
+--------------------------------------------------------------------------------
+Alon Seri-Levy, Sol-Gel Technologies, Ltd. - Co-Founder and CEO    [13]
+--------------------------------------------------------------------------------
+We are entirely focused on advancing SGT-610 as well as SGT-210 for the treatment of pachyonychia congenita and other rare skin keratodermas. As the author present what Moshe already mentioned, underserved market opportunities in which pricing and gross to net are attractive. In parallel, we are suspending development of SGT-310 and SGT -510 in psoriasis, a market that has become crowded and competitive.
+As for SGT-210, Phase 1 study is ongoing and is expected to be completed during this quarter. And EPSOLAY and TWYNEO, they have met significant market penetration since their launch in June and April last year. And more than 10,000 units of TWYNOE, and more than 3,000 units of EPSOLAY were sold in the US last month. To remind you, we have the option to regain the commercialization rights for EPSOLAY and TWYNEO 2027 without any financial or other considerations.
+Next slide, please. Let me now wrap up our call. We spent a significant amount of time identifying the perfect next asset for Sol-Gel.
+SGT-610, if approved, is expected to be the first therapy for preventing new BCC lesions in Gorlin syndrome patients. And it will have seven years of exclusivity in the US and 10 years of exclusivity in the EU. We estimate that these assets represent an annual net revenue opportunity with the potential to exceed $300 million.
+And we expect to initiate a Phase 3 study for SGT-610 this year, which results by the end of 2025. SGT-210 in pachyonychia congenita and another rare underserved disease is about to complete Phase 1.
+EPSOLAY and TWYNEO have made significant market penetration, and we have the option to regain the commercialization rights in 2027 without any consideration. The transaction with PellePharm was supported by our controlling shareholder, Moshe Arkin and Armistice Capital, so we are well positioned to run our programs and have cash runway through mid- 2025.
+Thank you so much for joining us on today's conference call, and we look forward to keeping you updated on the progress of SGT-610 as well as our other programs. We will now take questions.
+
+================================================================================
+q-and-a
+--------------------------------------------------------------------------------
+Operator,     [1]
+--------------------------------------------------------------------------------
+At this time, we will be conducting a question-and-answer session. (Operator Instructions)
+Elliot Wilbur, Raymond James.
+--------------------------------------------------------------------------------
+Elliot Wilbur, Raymond James Financial, Inc. - Analyst    [2]
+--------------------------------------------------------------------------------
+Thanks. Good morning, and congratulations to the team. It looks like a very interesting asset.
+First question is just on the regulatory strategy going forward. Obviously, you've identified the PTCH1 mutation as potentially a significant differentiator between the prior Phase 3 and what you're planning to run. I'm curious as to whether or not there are going to be other changes to end points primary or secondary beyond the changes that you are planning on making to just the inclusion criteria, and what percentage of Gorlin patients actually have that particular mutation?
+--------------------------------------------------------------------------------
+Alon Seri-Levy, Sol-Gel Technologies, Ltd. - Co-Founder and CEO    [3]
+--------------------------------------------------------------------------------
+So hi, Elliot. It is good to hear your voice. As your first question, we prefer to minimize the changes to the protocol to only those that we believe are absolutely necessary in order for us to demonstrate efficacy. So we are not going to change the formulation, and we will introduce only minimal changes to the study design. And as for the number of PTCH1 mutation patients, these are the vast majority of the Gorlin syndrome patients. There are also patients with mutations in PTCH2 and SUFU gene, but these are our minority.
+--------------------------------------------------------------------------------
+Elliot Wilbur, Raymond James Financial, Inc. - Analyst    [4]
+--------------------------------------------------------------------------------
+Okay. And I want to ask a follow-up question on the prior study results. It's looked like the effect size at 12 months that was not statistically significant was roughly 30%. And I'm wondering what the effect size in terms of establishing clinical significance would be?
+And you also see what looks like a continued separation or widening of the curves over time. So I'm wondering if there was any additional open label analysis that increases your or enhances your comfort with efficacy end point at 12 months, or whether there's a possibility that you can actually extend the duration treatment and look at time points beyond the 12-month period?
+--------------------------------------------------------------------------------
+Alon Seri-Levy, Sol-Gel Technologies, Ltd. - Co-Founder and CEO    [5]
+--------------------------------------------------------------------------------
+So there are analyses of patients that are treated longer than 12 months. And your observation that the longer of the patients are treated at the large of the gap should be between via those patients that are treated with the vehicle and those patients that are treated with the drug itself.
+And this is also our observation that as I said earlier for other good reasons, we intend to maintain this study at -- as a 12-month study. And we believe that if we introduce those changes that we -- that I described earlier, then there is no need to extend the study beyond 12 months. At least, this is what we now have in mind.
+--------------------------------------------------------------------------------
+Elliot Wilbur, Raymond James Financial, Inc. - Analyst    [6]
+--------------------------------------------------------------------------------
+Okay. Then maybe just final -- one final question from myself. So this would be indicated for the prevention of new BCCs. What -- in terms of actual patient utilization of the product, assuming that this is a preventative agent, I mean how exactly would this be used? You know, applied it at earliest signs of emerging new BCC, or is this just something that would be used continually over the course of the patient's life?
+--------------------------------------------------------------------------------
+Alon Seri-Levy, Sol-Gel Technologies, Ltd. - Co-Founder and CEO    [7]
+--------------------------------------------------------------------------------
+The latter is the case. We get these structured deals chronically in order to prevent new BCCs in adult Gorlin patients. That has, of course, a PTCH1 mutation, which are the vast majority of the Gorlin syndrome patients.
+--------------------------------------------------------------------------------
+Elliot Wilbur, Raymond James Financial, Inc. - Analyst    [8]
+--------------------------------------------------------------------------------
+I apologize for taking up my time here, but one more question. Just any commentary on what the intellectual property runway looks like on the asset beyond the current orphan exclusivity. And if you've had a chance as of yet to think about the possibility of a formulation enhancement or additional benefits that could be derived utilizing the company's proprietary micro-encapsulation technology?
+--------------------------------------------------------------------------------
+Moshe Arkin, Sol-Gel Technologies, Ltd. - Chairman    [9]
+--------------------------------------------------------------------------------
+If I may answer this part, Elliot, this is Moshe Arkin. One thing that we did immediately is file a new patent application that refers to this exclusion and inclusion criteria that may look as may be trivial, but they are not, and definitely not obvious, as we see that the experts that were conducting and designing the first trial didn't think that they are essential. So we believe that our insight and hypothesis that these inclusion criteria are essential for the success, are very much a patent worthy. So we already applied for a patent. And we are sure that if the outlook would be successful and approved, as we believe, we will have this additional 20 years -- not additional, but 20 years starting from the day of application of the patent.
+So we certainly -- and we are sure from looking at today CMC data and others that we will be able along the lines to submit other patent. But most important is the patent for the 20 years patent. We are fairly confident we will be entitled to for the new designs that the former experts did not find them essential. So we have more ideas for intellectual properties, but this is the one we would already have disclose.
+--------------------------------------------------------------------------------
+Operator,     [10]
+--------------------------------------------------------------------------------
+And Elliot, do you have any further question?
+--------------------------------------------------------------------------------
+Elliot Wilbur, Raymond James Financial, Inc. - Analyst    [11]
+--------------------------------------------------------------------------------
+Yeah, thank you.
+--------------------------------------------------------------------------------
+Operator,     [12]
+--------------------------------------------------------------------------------
+And we have reached the end of the question-and-answer session. And this also concludes today's conference, and you may disconnect your lines at this time. Thank you for your participation.
+--------------------------------------------------------------------------------
+Moshe Arkin, Sol-Gel Technologies, Ltd. - Chairman    [13]
+--------------------------------------------------------------------------------
+Thank you.
+
+
+
+
+
+
+--------------------------------------------------------------------------------
+Definitions
+--------------------------------------------------------------------------------
+Preliminary Transcript: "Preliminary Transcript" indicates that the 
+Transcript has been published in near real-time by an experienced 
+professional transcriber.  While the Preliminary Transcript is highly 
+accurate, it has not been edited to ensure the entire transcription 
+represents a verbatim report of the call.
+
+EDITED TRANSCRIPT: "Edited Transcript" indicates that a team of professional 
+editors have listened to the event a second time to confirm that the 
+content of the call has been transcribed accurately and in full.
+
+--------------------------------------------------------------------------------
+Disclaimer
+--------------------------------------------------------------------------------
+Refinitiv reserves the right to make changes to documents, content, or other 
+information on this web site without obligation to notify any person of 
+such changes.
+
+In the conference calls upon which Event Transcripts are based, companies 
+may make projections or other forward-looking statements regarding a variety 
+of items. Such forward-looking statements are based upon current 
+expectations and involve risks and uncertainties. Actual results may differ 
+materially from those stated in any forward-looking statement based on a 
+number of important factors and risks, which are more specifically 
+identified in the companies' most recent SEC filings. Although the companies 
+may indicate and believe that the assumptions underlying the forward-looking 
+statements are reasonable, any of the assumptions could prove inaccurate or 
+incorrect and, therefore, there can be no assurance that the results 
+contemplated in the forward-looking statements will be realized.
+
+THE INFORMATION CONTAINED IN EVENT TRANSCRIPTS IS A TEXTUAL REPRESENTATION
+OF THE APPLICABLE COMPANY'S CONFERENCE CALL AND WHILE EFFORTS ARE MADE TO
+PROVIDE AN ACCURATE TRANSCRIPTION, THERE MAY BE MATERIAL ERRORS, OMISSIONS,
+OR INACCURACIES IN THE REPORTING OF THE SUBSTANCE OF THE CONFERENCE CALLS.
+IN NO WAY DOES REFINITIV OR THE APPLICABLE COMPANY ASSUME ANY RESPONSIBILITY FOR ANY INVESTMENT OR OTHER
+DECISIONS MADE BASED UPON THE INFORMATION PROVIDED ON THIS WEB SITE OR IN
+ANY EVENT TRANSCRIPT. USERS ARE ADVISED TO REVIEW THE APPLICABLE COMPANY'S
+CONFERENCE CALL ITSELF AND THE APPLICABLE COMPANY'S SEC FILINGS BEFORE
+MAKING ANY INVESTMENT OR OTHER DECISIONS.
+--------------------------------------------------------------------------------
+Copyright 2023 Refinitiv. All Rights Reserved.
+--------------------------------------------------------------------------------

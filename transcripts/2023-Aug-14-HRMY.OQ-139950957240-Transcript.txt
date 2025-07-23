@@ -1,0 +1,446 @@
+
+
+Refinitiv StreetEvents Event Transcript
+E D I T E D   V E R S I O N
+
+Harmony Biosciences Holdings Inc To Acquire Zynerba Pharmaceuticals Inc- M&amp;A Call
+AUGUST 14, 2023 / 12:30PM GMT
+
+================================================================================
+Corporate Participants
+================================================================================
+
+ * Jeffrey M. Dayno
+   Harmony Biosciences Holdings, Inc. - President, CEO & Director
+ * Kumar Budur
+   Harmony Biosciences Holdings, Inc. - Chief Medical Officer
+ * Luis Sanay
+   Harmony Biosciences Holdings, Inc. - Head of IR
+ * Sandip S. Kapadia
+   Harmony Biosciences Holdings, Inc. - Executive VP & CFO
+
+================================================================================
+Conference Call Participiants
+================================================================================
+
+ * Danielle Catherine Brill Bongero
+   Raymond James & Associates, Inc., Research Division - Director & Research Analyst
+ * Ami Fadia
+   Needham & Company, LLC, Research Division - Senior Analyst
+ * François Daniel Brisebois
+   Oppenheimer & Co. Inc., Research Division - MD & Senior Analyst
+ * Kiran Patel
+    - 
+ * Corinne Jenkins
+   Goldman Sachs Group, Inc., Research Division - VP
+ * David A. Amsellem
+   Piper Sandler & Co., Research Division - MD & Senior Research Analyst
+ * Charles Cliff Duncan
+   Cantor Fitzgerald & Co., Research Division - Research Analyst
+ * Graig C. Suvannavejh
+   Mizuho Securities USA LLC, Research Division - MD and Senior Biopharmaceuticals & Biotechnology Equity Research Analyst
+
+================================================================================
+Presentation
+--------------------------------------------------------------------------------
+Operator    [1]
+--------------------------------------------------------------------------------
+Good morning. My name is Ashley, and I'll be your conference operator today. At this time, I would like to welcome everyone to the Harmony Biosciences proposed acquisition of Zynerba Pharmaceutical Conference Call. (Operator Instructions) Please be advised, today's conference call is being recorded. (Operator Instructions). 
+I will now turn the call over to Luis Sanay, Head of Investor Relations. Please go ahead.
+
+--------------------------------------------------------------------------------
+Luis Sanay,  Harmony Biosciences Holdings, Inc. - Head of IR    [2]
+--------------------------------------------------------------------------------
+Good morning, everyone. Welcome to Harmony Biosciences conference call to discuss the proposed acquisition of Zynerba Pharmaceuticals. Our speakers on today's call are Dr. Jeffrey Dayno, President and CEO; and Sandip Kapadia, Chief Financial Officer. Following our brief prepared remarks, Jeffrey Dierks Chief Commercial Officer; and Dr. Kumar Budur, Chief Medical Officer, will also be available for the Q&A portion of the call. 
+As a reminder, we will be making forward-looking statements today, which are based on our current expectations and beliefs. These statements are subject to certain risks and uncertainties. Our actual results may differ materially, and we undertake no obligation to update these statements even if circumstances change. We encourage you to review the statements set forth on Slide 2 of our investor presentation and to consult the risk factors referenced in our SEC filings for additional details. 
+Please note that this conference call is neither an offer to purchase nor a solicitation to sell securities. The tender offer for Zynerba's common stock described in this morning's press release has not commenced. When the tender offer does commence, investors should review our tender offer statement and related documents and Zynerba's recommendation statement, each of which will be filed with the SEC as they will contain important information regarding the details of the tender offer and Zynerba's boards views regarding the acquisition. 
+I would now like to turn the call over to Dr. Jeffrey Dayno. Jeff?
+
+--------------------------------------------------------------------------------
+Jeffrey M. Dayno,  Harmony Biosciences Holdings, Inc. - President, CEO & Director    [3]
+--------------------------------------------------------------------------------
+Thank you, Luis. Good morning, everyone, and thank you for joining our call. This morning, I am very pleased and excited to announce our proposed acquisition of Zynerba Pharmaceuticals. This transaction represents an important step in our strategy to expand our pipeline and build a diversified portfolio of innovative assets beyond sleep wake to drive long-term growth for Harmony. In addition to the strength of our core business of WAKIX and narcolepsy, along with advancement of our current life cycle management programs with pitolisant led by idiopathic hypersomnia. Business development has always been a high priority for us. Our business development strategy has been focused on identifying assets that are complementary to our existing portfolio, where we can leverage our expertise and infrastructure. 
+This proposed acquisition exemplifies this strategic fit in several key ways. First, our overall growth strategy. When asked about business development, we have always said that it is a high priority, and we are going to be thoughtful and strategic in our approach. The acquisition of Zynerba Pharmaceuticals and its investigational product, Zygel fits into this strategy for the following reasons. 
+Expands our pipeline with another innovative product candidate that similar to WAKIX, represents a portfolio and a product opportunity that could address high unmet medical needs in a number of patient populations. It diversifies our portfolio beyond sleep wake and is also within our area of expertise in rare orphan neurology and neuropsychiatric disorders. It brings in 2 late-stage development programs that could launch during the WAKIX life cycle, and it will help drive long-term growth for Harmony. 
+Next, the product. The acquisition of Zynerba brings us another innovative product candidate called Zygel. Zygel is the first and only pharmaceutically manufactured, synthetic cannabidiol a non euphoric cannabinoid formulated as a patent-protected permeation enhanced gel for transdermal delivery through the skin and into the circulatory system. 
+Zygel is manufactured through a synthetic process in a GMP facility and is not extracted from the cannabis plant. Therefore, it is the void of THC, which is what causes the euphoric effect of cannabis and has the potential to be a nonscheduled product, if approved. Zygel for the treatment of Fragile X syndrome has patent protection through at least 2040. 
+Through this transaction, we are expanding our pipeline with 2 late-stage development programs in rare orphan neuro psychiatric disorders. Similar to WAKIX, Zygel represents a portfolio and a product opportunity and is currently being evaluated in a pivotal Phase III clinical trial for patients with Fragile X syndrome called the RECONNECT trial. Additionally, Zygel was studied in an open-label Phase II proof-of-concept study in patients with 22q deletion syndrome known as the INSPIRE trial. The data from this trial demonstrated clinically meaningful improvements across various symptoms of interest including anxiety, depression, mood and irritability as measured by recognized scales to assess these symptoms in patients with neurobehavioral disorders. 
+From a regulatory perspective, cannabidiol, the active ingredient in Zygel has been granted orphan drug designation by the U.S. Food and Drug Administration, or FDA, and the European Medicines Agency, or EMA, for the treatment of Fragile X syndrome and for the treatment of 22q deletion syndrome. Additionally, Zygel has received FDA Fast Track designation for the treatment of behavioral symptoms in patients with Fragile X syndrome. 
+Lastly, let me frame the market opportunity for you and highlight the important unmet medical need in these patient populations. The lead development program in Phase III is in patients with Fragile X syndrome. Fragile X is a rare genetic disorder that is a leading known cause of both inherited intellectual disability and autism spectrum disorder. It is caused by a mutation in FMR1, a gene which modulates a number of systems, including the endocannabinoid system. The disorder negatively affects synaptic function, plasticity and neuronal connections and results in a spectrum of intellectual disabilities and behavioral symptoms such as social avoidance and irritability. 
+In the U.S., there are about 80,000 people living with Fragile X syndrome. There are currently no therapies approved by the FDA to treat Fragile X syndrome and there remains a significant unmet medical need in treating patients with this debilitating disorder. The other development program is in patients with 22q deletion syndrome. This syndrome results from microdeletion on the long arm of chromosome 22 and presents with physical symptoms, including characteristic abnormalities of the palate, heart defects, immune dysfunction and esophageal and GI issues as well as debilitating neuropsychiatric and behavioral challenges. 
+Anxiety is among the most common neuropsychiatric symptom and is linked to poor adaptive behaviors. Children with 22q deletion also experienced social withdrawal, ADHD, cognitive impairment and autism spectrum disorder that affect communication and social interaction. It is estimated that there are approximately 80,000 people living with 22q deletion syndrome in the U.S., and currently, there are no FDA-approved therapies to treat this disorder. 
+As you can see, the acquisition of Zynerba Pharmaceuticals fits well into our long-term growth strategy, which is focused on developing and delivering innovative products that address areas of high unmet medical need. The innovative investigational product Zygel and 2 late-stage development programs further diversifies our pipeline and the market opportunities in patients with Fragile X and 22q deletion syndrome, each with approximately 80,000 U.S. patients are significant. 
+This transaction represents an important step in our strategy to expand our pipeline and build a diversified portfolio of innovative assets beyond sleep wake to drive long-term growth for Harmony. And we don't plan on stopping here. My vision for Harmony is to become the leading patient-focused CNS company by developing and delivering innovative treatments for patients living with rare orphan diseases who have high unmet medical needs. We believe that were empathy and innovation meet a better life can begin for those patients and their families. 
+I will now turn the call over to our CFO, Sandip Kapadia, to provide an overview of the financial terms of the proposed acquisition. Sandip?
+
+--------------------------------------------------------------------------------
+Sandip S. Kapadia,  Harmony Biosciences Holdings, Inc. - Executive VP & CFO    [4]
+--------------------------------------------------------------------------------
+Thank you, Jeff. We're very pleased to announce our proposed acquisition of Zynerba Pharmaceuticals. This acquisition represents an important step in our strategy to expand our pipeline and build a diversified portfolio. I'd like to take a few moments to take you through the details of the acquisition. We've structured the acquisition to limit the upfront cash requirements while paying milestones primarily contingent upon advancement of the lead clinical development program in Fragile X syndrome. 
+So starting with the transaction details. We've agreed to acquire all outstanding shares of Zynerba for a purchase price of approximately $1.1059 per share in cash or $60 million in the aggregate, payable at closing, plus 1 non-tradable contingent value rights or CVR, with the potential additional payments of up to $140 million or approximately $2.5444 per share. The CVR payments will be subject to the achievement of certain clinical, regulatory and sales milestones. 
+Please refer to the press release and Slide 8 in the presentation for additional details regarding the CVR milestone payments. At a high level, payments include the following: clinical milestone payments of up to $45 million or approximately $0.82 per share upon completion of the Fragile X Phase III clinical trial and dependent on the timing of the positive data readout. Regulatory milestone payments of up to $50 million or approximately $0.91 per share upon the FDA approval in Fragile X and the second indication. And net sales milestones of up to $45 million or approximately $0.81 per share after achieving certain net sales milestones. 
+Given our strong cash position of approximately $430 million as of June 30, 2023, we will fund the transaction from our existing cash on hand. Zynerba's cash and cash equivalents balance was approximately $36 million as of June 30, 2023. The final cash balance will be dependent on the timing of the close and transaction costs. The transaction is expected to close by the fourth quarter of 2023, subject to customary closing conditions, including that the holders of at least the majority of the outstanding shares of Zynerba common stock tender such shares to Harmony in connection with the tender offer. 
+And finally, we continue to be active in our business development efforts to look for additional opportunities to expand our pipeline and build a diverse portfolio. We also retain ample financial capacity to pursue additional business development and execute on our share repurchase program as we look to deploy capital to maximize shareholder value. 
+And with that, I'd like to turn the call back to the operator to facilitate any Q&A. Operator?
+
+
+================================================================================
+Questions and Answers
+--------------------------------------------------------------------------------
+Operator    [1]
+--------------------------------------------------------------------------------
+(Operator Instructions) We will take our first question from Charles Duncan with Cantor Fitzgerald.
+
+--------------------------------------------------------------------------------
+Charles Cliff Duncan,  Cantor Fitzgerald & Co., Research Division - Research Analyst    [2]
+--------------------------------------------------------------------------------
+Jeff and team, congratulations on this proposed acquisition, it's pretty interesting. And we know the Zygel product and Zynerba folks pretty well then diligent for a while. So I had a couple of quick questions, I guess and wonder with regard to the enrollment rate of the ongoing RECONNECT study and our importations to payments in '24. I guess I'm wondering how is that enrollment going? And what is your, call it, probability of having to pay either $35 million worth of completion of it next year on positive data or -- excuse me, $45 million or $35 million of following you're depending on the timing. 
+And then the second question I have is regarding FDA communication that we can opportunity review that in kind of an FDA feedback in terms of methylation being an important part of enrolling Fragile X patients in that study?
+
+--------------------------------------------------------------------------------
+Jeffrey M. Dayno,  Harmony Biosciences Holdings, Inc. - President, CEO & Director    [3]
+--------------------------------------------------------------------------------
+Yes. Charles, and thank you for your questions. And yes, we're aware that you have been following Zynerba. And so for your first question, Charles, with regard to the enrollment in the RECONNECT trial and timing. So at this point, we cannot commit with regards to the Fragile X development time line that was previously disclosed. But we will provide an update on our view of the program and time line after the closing of the transaction when we get sort of a closer look at everything. 
+But that being said, and with regards to your second question on FDA interactions, yes, we did thorough diligence, obviously, and have seen all of the FDA communications and interactions. And I think at a high level, we're very excited about the potential of the Fragile X Phase III RECONNECT trial, that development program as well as the potential of the 22q development program based on positive signals and data from the Phase II proof of concept study. And we think this expands our pipeline, diverse supplies our portfolio and very excited for the potential opportunity here as well as an opportunity to bring new treatment options for on patient populations with unmet medical needs.
+
+--------------------------------------------------------------------------------
+Charles Cliff Duncan,  Cantor Fitzgerald & Co., Research Division - Research Analyst    [4]
+--------------------------------------------------------------------------------
+Okay. If I can just follow up, any increase in the INTUNE study for pitolisant and idiopathic hypersomnia? Do you feel like that is still on track? Or could this modulate your efforts there?
+
+--------------------------------------------------------------------------------
+Jeffrey M. Dayno,  Harmony Biosciences Holdings, Inc. - President, CEO & Director    [5]
+--------------------------------------------------------------------------------
+No impact at all, Charles, that trial is absolutely on track and no impact on our current life cycle management development programs. We have full capacity experienced team to continue with our life cycle management programs in idiopathic hypersomnia, Prader-Willi, as we previously discussed. And then bringing these programs in and adding to our pipeline.
+
+--------------------------------------------------------------------------------
+Operator    [6]
+--------------------------------------------------------------------------------
+We will take our next question from François Brisebois with Oppenheimer.
+
+--------------------------------------------------------------------------------
+François Daniel Brisebois,  Oppenheimer & Co. Inc., Research Division - MD & Senior Analyst    [7]
+--------------------------------------------------------------------------------
+Just a couple here. So in terms of the data you talked about, can you just maybe tell us your -- what makes you confident about the open-label INSPIRE data. And then was there a data on the Fragile X side, not just the 22q but on the Fragile X side that was encouraging as a Phase II.
+
+--------------------------------------------------------------------------------
+Jeffrey M. Dayno,  Harmony Biosciences Holdings, Inc. - President, CEO & Director    [8]
+--------------------------------------------------------------------------------
+Yes. Thank you, Frank. Let me ask Kumar Budur to respond with regards to our view of the data of those programs.
+
+--------------------------------------------------------------------------------
+Kumar Budur,  Harmony Biosciences Holdings, Inc. - Chief Medical Officer    [9]
+--------------------------------------------------------------------------------
+Sure. François, thanks for the question. Let me next start with Fragile X syndrome. The data from the CONNECT study, which was a NORD study in Fragile X syndrome with over 200 subjects enrolled in that study. The data was promising and especially when we looked at the data in patients with a complete methylation that there was a significant separation patients who had complete methylation when compared to placebo versus Zygel. 
+And the ongoing Phase III study, the RECONNECT study is designed based off of the learnings from the CONNECT study. For example, we are focusing on complete methylation patients, but it's also important to note that about 20% of the patients also have partial methylation. So if the data in partial methylation patients support you and consistent with the data on the full methylation patients, then we have a potential for a broader label indication that's on the efficacy side. 
+From the safety perspective, Zygel was in general, safe and well tolerated. The only gate of note were application site reactions like skin irritation and that was seen in about 6.4% of the patients who were on Zygel compared to 1% of patients who are on placebo. And most of these were mild, transient and resolved on their own. So that's Fragile X syndrome. 
+And regarding 22q deletion syndrome. Because a small proof-of-concept open-label study in 20 patients, where we saw promising signals on several parameters of interest like mood, anxiety and irritability which are the most prominent and bothersome symptoms for the patient and the care giver. So we are really encouraged with the data that we saw both in 22q deletion syndrome.  And also Fragile X syndrome in the CONNECT study. And we have hope for, that our ongoing RECONNECT study will be positive, and it will be sufficient for regulatory approval.
+
+--------------------------------------------------------------------------------
+François Daniel Brisebois,  Oppenheimer & Co. Inc., Research Division - MD & Senior Analyst    [10]
+--------------------------------------------------------------------------------
+Can you just maybe touch on, Jeff, when you talk about the prevalence of Fragile X. Just maybe the understanding of what percentage of that is partial versus full methylation.
+
+--------------------------------------------------------------------------------
+Jeffrey M. Dayno,  Harmony Biosciences Holdings, Inc. - President, CEO & Director    [11]
+--------------------------------------------------------------------------------
+Yes, sure, Frank. So it's about 60% of the patients with Fragile X have full methylation. So of the estimated 80,000 patients with Fragile X in the U.S.
+
+--------------------------------------------------------------------------------
+Operator    [12]
+--------------------------------------------------------------------------------
+We'll take our next question from David Amsellem with Piper Sandler.
+
+--------------------------------------------------------------------------------
+David A. Amsellem,  Piper Sandler & Co., Research Division - MD & Senior Research Analyst    [13]
+--------------------------------------------------------------------------------
+Pardon my ignorance here, if you could call it ignorance. But can you talk about the extent to which you would look at the product more broadly or in a broader epilepsy population over time? So I know you have the lead indications, but we've seen with the other CBD product that's available, that there's a lot of off-label use. So how do you think about that over time? And how do you think about where you want to take this product over time?
+
+--------------------------------------------------------------------------------
+Jeffrey M. Dayno,  Harmony Biosciences Holdings, Inc. - President, CEO & Director    [14]
+--------------------------------------------------------------------------------
+Yes. Sure, David. Thanks for your question. So I think that we're aware, obviously, of the other products in terms of cannabinol based products and their application in the rare epilepsies. I think, obviously, our initial focus is on the programs we talked about, where we had significant opportunity in the rare neuropsychiatric disorders, as we mentioned, led but Fragile X in Phase III and potentially 22q, which would be Phase III ready. 
+In terms of other additional indications, I think it's too early for us to comment on where we would take that with regards to our overall portfolio. But potentially as a synthetic cannabidiol potentially in terms of a different overall benefit risk proposition, there could be opportunity there. But obviously, we'll comment more after the closing and as we advance the initial development efforts if there's additional opportunities going forward.
+
+--------------------------------------------------------------------------------
+David A. Amsellem,  Piper Sandler & Co., Research Division - MD & Senior Research Analyst    [15]
+--------------------------------------------------------------------------------
+Okay. That's helpful. And if I may sneak in a follow-up. As you think about the M&A more broadly, and I know this gets you out of the sleep medicine and more into squarely -- more squarely in neurology. Do you think about over time, broadening beyond rare neurologic diseases? Or is this something that -- is this a space where you're continuing to be squarely comfortable in playing? And how do you think about that just sort of longer term?
+
+--------------------------------------------------------------------------------
+Jeffrey M. Dayno,  Harmony Biosciences Holdings, Inc. - President, CEO & Director    [16]
+--------------------------------------------------------------------------------
+Yes. I think for the long term, as we've said, our focus internal expertise and infrastructure in the rare orphan sort of neurology neuropsychiatry space. and we leverage that expertise and infrastructure and efficient commercial footprint.  We are open as we look broadly at the BD landscape, we would be open to adjacencies and other broader opportunities for the right potential BD deal. We obviously, strong balance sheet, the ability to transact, ability to additional capital, maybe Sandip can comment on that. So I think we keep our eyes wide open for opportunities that would be a good strategic fit. In the near term and reflective of this proposed acquisition, orphan rare space and is kind of where our main footprint is at this point in time.
+Sandip, any further thoughts?
+
+--------------------------------------------------------------------------------
+Sandip S. Kapadia,  Harmony Biosciences Holdings, Inc. - Executive VP & CFO    [17]
+--------------------------------------------------------------------------------
+No. I think like you said, we have ample financial capacity to pursue business development, whether it's a broad indication or often rare indications.
+
+--------------------------------------------------------------------------------
+Operator    [18]
+--------------------------------------------------------------------------------
+We will take our next question from Danielle Brill with Raymond James.
+
+--------------------------------------------------------------------------------
+Danielle Catherine Brill Bongero,  Raymond James & Associates, Inc., Research Division - Director & Research Analyst    [19]
+--------------------------------------------------------------------------------
+Two quick ones from me. Curious, well, you need a second Phase III trial to support a filing for Fragile X. And is methylation screening routinely performed in medical practice given you may have restricted label.
+
+--------------------------------------------------------------------------------
+Jeffrey M. Dayno,  Harmony Biosciences Holdings, Inc. - President, CEO & Director    [20]
+--------------------------------------------------------------------------------
+Danielle, thanks for your question. Kumar, do you want to sure take that one?
+
+--------------------------------------------------------------------------------
+Kumar Budur,  Harmony Biosciences Holdings, Inc. - Chief Medical Officer    [21]
+--------------------------------------------------------------------------------
+Sure. Danielle, once again, thanks for the question. The Phase III pivotal registration study, the ongoing RECONNECT study is designed based on the import from the FDA on the study design, primary endpoint and other aspects. Typically, in the rail of an indication, what FDA requires is a single adequate and well controlled study, especially the data are statistically significant and clinically meaningful the ongoing RECONNECT study is an adequate and well-controlled study and we believe this 1 study if it is statistically significant clinically meaningful should be sufficient for registration. We don't believe there will be a need for a second pivotal study.
+
+--------------------------------------------------------------------------------
+Jeffrey M. Dayno,  Harmony Biosciences Holdings, Inc. - President, CEO & Director    [22]
+--------------------------------------------------------------------------------
+And Kumar, in terms of the question about methylation is that routinely done in clinical practice?
+
+--------------------------------------------------------------------------------
+Kumar Budur,  Harmony Biosciences Holdings, Inc. - Chief Medical Officer    [23]
+--------------------------------------------------------------------------------
+Yes, it is. It has become a routine standard clinical practice now.
+
+--------------------------------------------------------------------------------
+Operator    [24]
+--------------------------------------------------------------------------------
+We will take our next question from Ami Fadia with Needham.
+
+--------------------------------------------------------------------------------
+Ami Fadia,  Needham & Company, LLC, Research Division - Senior Analyst    [25]
+--------------------------------------------------------------------------------
+Could you elaborate a little bit more on the primary and secondary end points of the Phase II study and what is the subset analysis of patients that have full methylation, still for the primary end point as well as a secondary end point. And if the FDA based on your read of that interaction is looking for signs of efficacy beyond the primary endpoint for approval of the product. And secondly, you mentioned that 20% of the patients in the Phase III study that will be enrolled have partial methylation, what was that percentage in the Phase II study? And is that what you're going to continue as you take on kind of this program?
+
+--------------------------------------------------------------------------------
+Jeffrey M. Dayno,  Harmony Biosciences Holdings, Inc. - President, CEO & Director    [26]
+--------------------------------------------------------------------------------
+Thanks for your questions. And yes, Kumar can respond to those.
+
+--------------------------------------------------------------------------------
+Kumar Budur,  Harmony Biosciences Holdings, Inc. - Chief Medical Officer    [27]
+--------------------------------------------------------------------------------
+Ami. I know there were lots of questions there. So I'll try to see if I can answer all of them. The CONNECT study was a large study, Ami. In fact, there were over 200 patients with Fragile X syndrome that was enrolled in that study. In that particular study about 65% of the patients had complete methylation and the rest of them had partial methylation. When we looked at the data, the patients who had complete methylation showed statistically significant difference compared to placebo. 
+And the patients who had partial methylation, although the efficacy, the change from baseline was very similar. There was also a significant placebo response and therefore, it was not statistically significant. So going forward, the Phase III study was designed based on the learning from the CONNECT study, including the primary endpoint, the duration of the study, 18 weeks versus 14 weeks and also the dosing paradigm where we also introduced a higher dose of 750 milligrams for patients who weigh greater than 50 kilograms. In terms of -- let me see, what other questions you asked, Ami? There was a question about...
+
+--------------------------------------------------------------------------------
+Ami Fadia,  Needham & Company, LLC, Research Division - Senior Analyst    [28]
+--------------------------------------------------------------------------------
+About the secondary endpoints.
+
+--------------------------------------------------------------------------------
+Kumar Budur,  Harmony Biosciences Holdings, Inc. - Chief Medical Officer    [29]
+--------------------------------------------------------------------------------
+Right, right. So let me start with the primary end point. The primary end point was something that was designed with input from the FDA. The primary endpoint is Aberrant Behavior Checklist -- Community version in Fragile X syndrome, specifically measuring social avoidance. In terms of secondary endpoints, we are also looking at other endpoints like ABC, Aberrant Behavior Checklist in general, specifically irritability, as well. And also, we are looking at the Aberrant Behavior Checklist various symptom domains across both compete methylation and partial methylation patients. But from a registration perspective, what we are looking for is a statistically significant difference on the primary end point, which is ABC-C Fragile X syndrome social avoidance. .
+
+--------------------------------------------------------------------------------
+Jeffrey M. Dayno,  Harmony Biosciences Holdings, Inc. - President, CEO & Director    [30]
+--------------------------------------------------------------------------------
+Ami, does that answer your question?
+
+--------------------------------------------------------------------------------
+Ami Fadia,  Needham & Company, LLC, Research Division - Senior Analyst    [31]
+--------------------------------------------------------------------------------
+One last piece, which is what percent of the patients -- well, I guess I've gotten all the answers. Thank you, sorry about that.
+
+--------------------------------------------------------------------------------
+Jeffrey M. Dayno,  Harmony Biosciences Holdings, Inc. - President, CEO & Director    [32]
+--------------------------------------------------------------------------------
+Yes. So I think, yes. So it was about 65% with full methylation in the Phase II in the CONNECT trial. And by design, the Phase III will have...
+
+--------------------------------------------------------------------------------
+Kumar Budur,  Harmony Biosciences Holdings, Inc. - Chief Medical Officer    [33]
+--------------------------------------------------------------------------------
+80%.
+
+--------------------------------------------------------------------------------
+Jeffrey M. Dayno,  Harmony Biosciences Holdings, Inc. - President, CEO & Director    [34]
+--------------------------------------------------------------------------------
+Of full methylation?
+
+--------------------------------------------------------------------------------
+Kumar Budur,  Harmony Biosciences Holdings, Inc. - Chief Medical Officer    [35]
+--------------------------------------------------------------------------------
+Complete methylation and 20% with partial methylation.
+
+--------------------------------------------------------------------------------
+Operator    [36]
+--------------------------------------------------------------------------------
+We will take our next question from Graig Suvannavejh with Mizuho Securities.
+
+--------------------------------------------------------------------------------
+Graig C. Suvannavejh,  Mizuho Securities USA LLC, Research Division - MD and Senior Biopharmaceuticals & Biotechnology Equity Research Analyst    [37]
+--------------------------------------------------------------------------------
+Congrats on the proposed acquisition. Two questions, if I may. First, on the M&A in itself. It does change the overall risk profile of your company. And I guess I'm just trying to get a better appreciation of the considerations of this transaction relative to perhaps other deals or potential transactions that you contemplated? Was this really more about revenue opportunity or the size of the transaction, which led you to choose the proposed acquisition of Zynerba. 
+And then my second question just has to really do about the transaction value from a market cap perspective, if I have my numbers right, Zynerba's about an $80 million market cap company. And so for $60 million upfront and then another $140 million or so is a potential CVR payments. Just wondering how you came to the transaction value of the steel?
+
+--------------------------------------------------------------------------------
+Jeffrey M. Dayno,  Harmony Biosciences Holdings, Inc. - President, CEO & Director    [38]
+--------------------------------------------------------------------------------
+So yes, Graig, thanks for your question. In terms of overall, with regards to this potential acquisition, we see it as a really good strategic fit with regards to consistent with our strategy in orphan rare neurologic and neuropsychiatric disorders as well as another innovative product, expanding our  pipeline and diversifying our portfolio. So I think that would be at a high level, the thinking of the opportunity here. In terms of the terms of the proposed transaction, I think Sandip, I'll ask him to comment on that.
+
+--------------------------------------------------------------------------------
+Sandip S. Kapadia,  Harmony Biosciences Holdings, Inc. - Executive VP & CFO    [39]
+--------------------------------------------------------------------------------
+Sure, thanks for the question. Clearly, look, which structure is the transaction in a manner that we feel appropriately values the opportunity. As I mentioned in the call, upfront cash, we try to minimize the upfront cash, which is about $60 million as I also mentioned, Zynerba's cash on hand at the end of June was about $36 million. And then we based the balance really based on success of the programs going forward.
+So we feel that we've appropriately valued it based on the overall opportunity, as Jeff mentioned, not only in Fragile X, but potentially many other indications that we may be able to pursue that maybe the team previously. Was it been able to pursue? And clearly, obviously, we looked at it from an NPV perspective, and we felt there was good value just even from a Fragile X program by itself.
+
+--------------------------------------------------------------------------------
+Operator    [40]
+--------------------------------------------------------------------------------
+We will take our next question from Kiran Patel with Bank of America.
+
+--------------------------------------------------------------------------------
+Kiran Patel,   -     [41]
+--------------------------------------------------------------------------------
+Congratulations on the announcement of deal this morning. In terms of the treatment of Fragile X patients, can you describe if there's any off-label treatments that those patients may be getting. And can you share your thoughts on what that may look like in the clinic? And what do you see as the onset of action for Zygel with the transdermal delivery? And how does that compare to the potential off-label treatments that Fragile X patients may be getting?
+
+--------------------------------------------------------------------------------
+Jeffrey M. Dayno,  Harmony Biosciences Holdings, Inc. - President, CEO & Director    [42]
+--------------------------------------------------------------------------------
+Sure. Thank you for your question. Kumar, do you want to respond to that?
+
+--------------------------------------------------------------------------------
+Kumar Budur,  Harmony Biosciences Holdings, Inc. - Chief Medical Officer    [43]
+--------------------------------------------------------------------------------
+Yes. Thank you for the question. Currently, there are no FDA approved treatments for any symptom cluster in Fragile X syndrome. So right now, the clinician for using off-label treatment are depending on the predominant symptom. And some of the medications that are commonly used include SSRIs, sometimes to take the edge off of the anxiety, sometimes they also use some benzodiazepines and sometimes some low dose antipsychotics as well. As you can see, I mean, clearly, there is a significant high unmet need in this patient population because none of the off-label medications are neither suitable nor side effect profile is appropriate for this particular patient population. 
+To answer your second question, in terms of Zygel itself. Zygel is the first and the only pharmaceutically produced permeation enhanced transdermal gel. The advantage of transdermal gel, where the drug is delivered directly into the circulated system is that it bypasses the GI system. Therefore, the significant GI side effects that are associated with oral cannabidiol preparations are avoided and also it bypasses the first pass metabolism, which means that the adverse impact on the liver system are also minimized. 
+In terms of efficacy itself, what we have seen in the CONNECT clinical trial is that we do start seeing some improvement starting within week 1 and week 2 and the improvement continued up to about 12 to 14 weeks. And then what is more important is the sustained improvement that we have seen with Zygel, especially in Fragile X syndrome. In fact, one piece of information I do want to share is that in terms of safety profile, some of the patients with Fragile X syndrome have now completed over 6 years of treatment and the efficacy is sustained. The persistence rate is really impressive, especially in the neuropsychiatric condition like Fragile X syndrome.
+
+--------------------------------------------------------------------------------
+Kiran Patel,   -     [44]
+--------------------------------------------------------------------------------
+And if I can have a follow-up question. In terms of -- when I look on CT.gov, I see the September 2023 primary completion date. So in terms of NDA filing, could we see that by year-end? If not, maybe if you can add some color on timing of this product?
+
+--------------------------------------------------------------------------------
+Kumar Budur,  Harmony Biosciences Holdings, Inc. - Chief Medical Officer    [45]
+--------------------------------------------------------------------------------
+It is -- first of all, is that we are very excited about having this opportunity at Harmony to help tens of thousands of patients with Fragile X syndrome, especially when there are no FDA approved treatment for this condition. It is a bit too early to comment on the time line, and we intend to provide further update after the closure of the deal.
+
+--------------------------------------------------------------------------------
+Jeffrey M. Dayno,  Harmony Biosciences Holdings, Inc. - President, CEO & Director    [46]
+--------------------------------------------------------------------------------
+Yes. Thanks, Kumar. Yes. And as Kumar said, after the closing of the deal and when we have a closer look at the program and progress to date, we'll provide updates with regards to timing and other regulatory milestones.
+
+--------------------------------------------------------------------------------
+Operator    [47]
+--------------------------------------------------------------------------------
+We will now take our last question from Corinne Jenkins with Goldman Sachs.
+
+--------------------------------------------------------------------------------
+Corinne Jenkins,  Goldman Sachs Group, Inc., Research Division - VP    [48]
+--------------------------------------------------------------------------------
+Maybe a couple from us. I'm curious which data you were able to access ahead of going forward with this deal. Was there, for example, any interim analysis in the Phase III? And were you able to kind of look at the earlier stage PK/PD data that I don't think that is truly seen? And then I have maybe 1 other follow-up.
+
+--------------------------------------------------------------------------------
+Jeffrey M. Dayno,  Harmony Biosciences Holdings, Inc. - President, CEO & Director    [49]
+--------------------------------------------------------------------------------
+Sure, Corinne. Thanks for your question. I think Kumar can respond to that. Obviously, we've done deep diligence taking us to this point and a close assessment of the data.
+
+--------------------------------------------------------------------------------
+Kumar Budur,  Harmony Biosciences Holdings, Inc. - Chief Medical Officer    [50]
+--------------------------------------------------------------------------------
+Thank you, Corinne. As part of the due diligence, obviously, we looked at all the data starting from the nonclinical data to clinical pharmacology and the clinical data. Obviously, the most important data set of the clinical data, the connect strategy. We have more than 200 patients, as I mentioned earlier, with Fragile X syndrome were enrolled, and we had need strong signal -- really a stronger signal in patients with complete methylation compared to patients with partial methylation. 
+And in fact, we saw about 40% medium improvement in the symptom of Fragile X syndrome on the primary endpoint within Social Avoidance Scale, which is pretty significant. And the RECONNECT study is based on the learning of the CONNECT study, and we have made some data-driven changes in the RECONNECT study, thereby increasing the confidence in the probability of success of RECONNECT study. Hopefully, that answers your question, Corinne.
+
+--------------------------------------------------------------------------------
+Jeffrey M. Dayno,  Harmony Biosciences Holdings, Inc. - President, CEO & Director    [51]
+--------------------------------------------------------------------------------
+Yes. And Corinne, what I'll also add, I think what we've been seeing is also the consistency of the data across both the Fragile X and 22q deletion syndrome program, so the consistency of the data, the sustained response over time -- over long periods of time in the open-label extensions. And the other interesting data set that was published also is the exposure through this transdermal preparation, achieving similar exposures as some of the oral preparation of cannabidiol along with steady plasma levels.
+
+--------------------------------------------------------------------------------
+Sandip S. Kapadia,  Harmony Biosciences Holdings, Inc. - Executive VP & CFO    [52]
+--------------------------------------------------------------------------------
+Yes. But 1 more thing to add, Corinne, is the safety profile. In fact, we have over 750 patients export to Zygel across various Phase II and Phase III studies in various indications. And I mentioned earlier, some of the patients with Fragile X syndrome have been exposed to Zygel for over 6 years now, and we are impressed with the persistency rate and the continued sustained efficacy.
+
+--------------------------------------------------------------------------------
+Corinne Jenkins,  Goldman Sachs Group, Inc., Research Division - VP    [53]
+--------------------------------------------------------------------------------
+Understood. Then maybe could you just help us understand the nature of the patent suite like the existing patent portfolio. I think you can't get competition of matter of patents for any cannabidiol-based products. I'm curious what they've established and your confidence and kind of the strength of the patent portfolio?
+
+--------------------------------------------------------------------------------
+Jeffrey M. Dayno,  Harmony Biosciences Holdings, Inc. - President, CEO & Director    [54]
+--------------------------------------------------------------------------------
+Sure, Corinne. Yes. From what we've seen in our assessment, we're confident in the strength of the portfolio and mainly based on Zygel for the treatment of Fragile X syndrome it's patent protected through at least 2040. So it gives us sort of long runway and opportunity with regards to that program also in attribute to 22q if we choose to pursue that indication as well.
+
+--------------------------------------------------------------------------------
+Corinne Jenkins,  Goldman Sachs Group, Inc., Research Division - VP    [55]
+--------------------------------------------------------------------------------
+Okay. So it's a method of use patent.
+
+--------------------------------------------------------------------------------
+Jeffrey M. Dayno,  Harmony Biosciences Holdings, Inc. - President, CEO & Director    [56]
+--------------------------------------------------------------------------------
+Correct.
+
+--------------------------------------------------------------------------------
+Operator    [57]
+--------------------------------------------------------------------------------
+And there are no further questions at this time. I'll turn the call back over to Dr. Dayno for closing remarks.
+
+--------------------------------------------------------------------------------
+Jeffrey M. Dayno,  Harmony Biosciences Holdings, Inc. - President, CEO & Director    [58]
+--------------------------------------------------------------------------------
+Thank you, operator. I just want to thank everyone for joining our call today. We're very excited about this proposed acquisition that will -- we see as a strategic acquisition to expand our pipeline, diversify our portfolio and drive long-term growth for Harmony Biosciences. Thanks, everyone. Have a great day.
+
+--------------------------------------------------------------------------------
+Operator    [59]
+--------------------------------------------------------------------------------
+Thank you. And this does conclude today's Harmony Biosciences proposed acquisition of Zynerba Pharmaceuticals conference call. You may now disconnect your lines, and have a wonderful day.
+
+
+
+
+
+
+
+--------------------------------------------------------------------------------
+Definitions
+--------------------------------------------------------------------------------
+PRELIMINARY TRANSCRIPT: "Preliminary Transcript" indicates that the 
+Transcript has been published in near real-time by an experienced 
+professional transcriber.  While the Preliminary Transcript is highly 
+accurate, it has not been edited to ensure the entire transcription 
+represents a verbatim report of the call.
+
+EDITED TRANSCRIPT: "Edited Transcript" indicates that a team of professional 
+editors have listened to the event a second time to confirm that the 
+content of the call has been transcribed accurately and in full.
+
+--------------------------------------------------------------------------------
+Disclaimer
+--------------------------------------------------------------------------------
+Refinitiv reserves the right to make changes to documents, content, or other 
+information on this web site without obligation to notify any person of 
+such changes.
+
+In the conference calls upon which Event Transcripts are based, companies 
+may make projections or other forward-looking statements regarding a variety 
+of items. Such forward-looking statements are based upon current 
+expectations and involve risks and uncertainties. Actual results may differ 
+materially from those stated in any forward-looking statement based on a 
+number of important factors and risks, which are more specifically 
+identified in the companies' most recent SEC filings. Although the companies 
+may indicate and believe that the assumptions underlying the forward-looking 
+statements are reasonable, any of the assumptions could prove inaccurate or 
+incorrect and, therefore, there can be no assurance that the results 
+contemplated in the forward-looking statements will be realized.
+
+THE INFORMATION CONTAINED IN EVENT TRANSCRIPTS IS A TEXTUAL REPRESENTATION
+OF THE APPLICABLE COMPANY'S CONFERENCE CALL AND WHILE EFFORTS ARE MADE TO
+PROVIDE AN ACCURATE TRANSCRIPTION, THERE MAY BE MATERIAL ERRORS, OMISSIONS,
+OR INACCURACIES IN THE REPORTING OF THE SUBSTANCE OF THE CONFERENCE CALLS.
+IN NO WAY DOES REFINITIV OR THE APPLICABLE COMPANY ASSUME ANY RESPONSIBILITY FOR ANY INVESTMENT OR OTHER
+DECISIONS MADE BASED UPON THE INFORMATION PROVIDED ON THIS WEB SITE OR IN
+ANY EVENT TRANSCRIPT. USERS ARE ADVISED TO REVIEW THE APPLICABLE COMPANY'S
+CONFERENCE CALL ITSELF AND THE APPLICABLE COMPANY'S SEC FILINGS BEFORE
+MAKING ANY INVESTMENT OR OTHER DECISIONS.
+--------------------------------------------------------------------------------
+Copyright 2023 Refinitiv. All Rights Reserved.
+--------------------------------------------------------------------------------

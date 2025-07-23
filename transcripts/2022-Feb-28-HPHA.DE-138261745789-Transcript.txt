@@ -1,0 +1,335 @@
+
+
+Refinitiv StreetEvents Event Transcript
+E D I T E D   V E R S I O N
+
+Heidelberg Pharma AG and Huadong Medicine Co Ltd to Announce Strategic Partnership with Equity Participation Call
+FEBRUARY 28, 2022 / 12:00PM GMT
+
+================================================================================
+Corporate Participants
+================================================================================
+
+ * Jan Schmidt-Brand
+   Heidelberg Pharma AG - CEO & CFO
+ * George Octavian Badescu
+    - 
+ * Andreas Pahl
+   Heidelberg Pharma AG - Chief Scientific Officer & Member of the Executive Management Board
+
+================================================================================
+Conference Call Participiants
+================================================================================
+
+ * Unidentified Analyst
+    - 
+ * Christof Hettich
+    - 
+ * Dennis Berzhanin
+   Pareto Securities AS, Research Division - Analyst
+ * Thomas J. Schießle
+   EQUI.TS GmbH - Research Analyst
+
+================================================================================
+Presentation
+--------------------------------------------------------------------------------
+Jan Schmidt-Brand,  Heidelberg Pharma AG - CEO & CFO    [1]
+--------------------------------------------------------------------------------
+Hello, and [Ni hao] ladies and gentlemen. It's my great pleasure to welcome you to the Heidelberg Pharma conference call to discuss the transformative strategic partnership with Huadong that we announced over the weekend. My name is Jan Schmidt-Brand, and I'm CEO and CFO of the company. 
+Please note that this presentation is available for download on the Heidelberg Pharma website. This conference call is being recorded, and the replay will be available on our website after the live event.  
+Before I begin, let me remind you that we will be making forward-looking statements on this call as well as during the question-and-answer session. Please see our safe harbor statement on Slide 2. For a more detailed discussion of the risks and uncertainties affecting our business, please see the 2020 management report, which is available on our website.  
+Therefore, I would like -- sorry, joining me on the call today are my colleagues Dr. George Badescu, Chief Business Officer; and Professor Andreas Pahl, Chief Scientific Officer. Both have been heavily involved in preparing the strategic partnership and are in charge of driving it successfully over the next years. 
+I'd also like to welcome our Chairman of the Supervisory Board and representative of our main shareholder dievini, Professor Christof Hettich.
+First of all, we are excited to enter this major partnership with Huadong, and we know that it will transform our company and take us to the next level. Therefore, I would like to thank the entire team from both companies for their support and the very constructive negotiation process despite the different time zones.  
+For those of you not familiar with Heidelberg Pharma, we are the first company to deploy a completely new mode of action in cancer treatment by using the toxin, Amanitin, to develop anticancer therapies. Importantly, this unique mode of action has been shown to overcome resistance mechanisms and to kill dormant tumor cells addressing 2 clinical challenges in cancer treatment. 
+Antibody drug conjugates called ADCs are one of the hottest modalities in oncology and utilize antibodies armed with a payload that enables targeted cancer therapy. Our ADC approach uses Amanitin, a natural toxin found in the death cap mushroom as the toxic payload, which has a unique biological mode of action. The inhibition of RNA polymerase II. 
+We developed the proprietary and innovative technology to manufacture antibody-targeted Amanitin conjugates. We call them ATACs. We are advancing development programs in both hematological and solid tumors our novel payload is enabling us to use a biomarker to stratify the patient population with a goal of expanding clinical development.  
+As you can see from this slide, we have a substantial and growing pipeline of ATAC programs as well as 2 partnered legacy assets. The first 4 ATAC programs; HDP-101, which is currently in clinical development as well as our 3 preclinical programs, HDP-102, 103 and 104 are all part of the strategic collaboration we announced today. And I will share a little more detail on those in a few minutes.  
+We also have ongoing ATAC collaborations with Magenta and with Takeda.  Magenta recently announced that the first program, which targets CD117, from our collaboration had entered the clinic with the ongoing of enrollment in a Phase I/II clinical trial in patients with relapsed/refractory acute myeloid  leukemia and myelodysplasia excess blasts. As a reminder, their approach is targeted to conditioning of these patients.  
+I'm also pleased with the progress that has been made with our non-ATAC legacy assets, but we will not discuss these today.  
+The deal we have announced with Huadong is transformative for Heidelberg Pharma, but we truly believe it is a win-win partnership. The exclusive license agreement provides us with a strong partner for our novel ATAC programs in Asia, a major and growing pharmaceutical market. The funding we received will support advancing the development of our current product candidates and enable us to further broaden the pipeline. Huadong will support our global product development search in Asia, and we could not have found a better partner. The partnership will enable Huadong to build a robust ADC product pipeline that has best-in-class potential. 
+I won't spend a lot of time on this slide, but I wanted to share a few key points about our partner. Huadong Medicine is part of the China Grand Enterprise family. CGE is a major pharma player in China and elsewhere. They have over 50 pharmaceutical subsidiaries and their 2020 consolidated revenue was about USD 16.8 billion. By the way, CGE is also the license and commercial partner of Telix our license partner, for the imaging agent from our non-ATAC legacy assets. Our new partner, Huadong Medicine, is a subsidiary of CGE. 
+We have signed an exclusive licensing agreement with Hangzhou Zhongmei Huadong Pharmaceutical shown in the blue box at the bottom left of the slide. The investment agreement has been signed with another subsidiary, Huadong Medicine Investment Holding based in Hong Kong, shown in the other blue box. When we talk about our partner, we use Huadong Medicine.  
+I won't spend a lot of time on these slides, but we wanted to include them to give you a little more flavor for our new partner and to give you a sense of why we choose Huadong Medicine and why we are so excited about the potential for our business to grow with them. Huadong Medicine was founded almost 30 years ago and is listed on the Shenzhen Stock Exchange. The company has 11,000 employees and is active in several health care areas. Huadong Medicine reported 2020 revenues of USD 5.2 billion.  
+Here, you can see the breadth of Huadong's manufacturing capabilities. Even if we are responsible for manufacturing with our European partners, it is good to know they have partnered capabilities in this area. 
+As you can see on the next slide, Huadong has a large pharmaceutical sales network in China, which was important to us as we thought about the best partner to develop and ultimately commercialize our product candidates in this important and growing market.  
+Coming back to the ADC business. Huadong is building a strong ecosystem that complements and supports what Heidelberg Pharma is doing. They have strong ADC capabilities from development to manufacturing and to commercialization in China and the Asian region. As you may recall, they closed the development and commercialization partnership with ImmunoGen in late 2020 for the ADC, mirvetuximab soravtansine. Our programs and technology will help to feed Huadong's ADC pipeline, an important priority for them, and we will be able to access and will also support the infrastructure.  
+Now that I have provided some background to Heidelberg Pharma and on our partner, Huadong, I will spend some time discussing the terms of partnership. Let me again say how excited we are about this major collaboration. Our strategic partnership involves 2 agreements, an exclusive licensing agreement and an investment agreement. Let me start with the licensing agreement. I'll discuss the investment agreement later in the presentation.  
+Heidelberg Pharma has granted Huadong, exclusive development and commercialization rights for HDP-101 and HDP-103 for select countries in Asia. For these 2 programs together, we will receive an upfront payment of USD 20 million and are eligible to receive milestone payments of up to USD 449 million as well as tiered royalties ranging from single to low double-digit percentages for each candidate. 
+Heidelberg Pharma also has granted Huadong, an exclusive option for 2 preclinical candidates, HDP-102 and HDP-104 for the same territory. Upon exercise of the option, we would receive an undisclosed option exercise fee and also be eligible for milestone payments. In total, we would be eligible to receive up to USD 461 million. In addition, we would be eligible to receive tiered royalties ranging from single digit to low double digit for each candidate.  
+Huadong also has a right of first negotiation to license our next 2 ATAC candidates for the territory. Huadong's territory includes select countries in Asia. This includes China, Hong Kong, Macao, Taiwan, South Korea, Indonesia, Singapore, the Philippines, Thailand and a number of other APAC region countries. It excludes Japan, India, Pakistan and Sri Lanka.  
+I want to just briefly outline the 4 ATAC programs that are part of this exciting strategic collaboration with Huadong for one of the most important and fastest-growing markets globally. Firstly, there is our clinical development program, HDP-101 targeting BCMA or B-cell maturation antigen. We are currently developing this ATAC for the treatment of multiple myeloma. BCMA is overexpressed and activated in multiple myeloma and other hematological cancers. We have a Phase I/IIa trial ongoing in the U.S. and Germany.  
+Our next most advanced product candidate is HDP-103 targeting PSMA. Our target indication for HDP-103 is metastatic castrate-resistant prostate cancer. PSMA is overexpressed in nearly all cases of prostate cancer. We expect to submit an IND application during 2023 to start our first clinical trial with this program.  
+HDP-102 targets CD37, which is overexpressed in B-cell lymphomas. Our lead indication for this ATAC is planned to be non-Hodgkin's lymphoma. We also are targeting to submit an IND for this program during 2023. 
+And finally, there's not much I can say at this time about HDP-104 as we have not yet disclosed the target, but it will be another solid tumor program. I look forward to sharing more information on this program as we advance in development and securing our LP.  
+The agreement with Huadong, as I have said, is truly a win-win collaboration, and we are thrilled to have them as our partner. Huadong will participate in global clinical trials and is responsible for clinical development in their territory. They are also responsible for commercialization of products in the territory and, as shown on earlier slides, has a strong infrastructure to maximize the opportunity of our programs. 
+Heidelberg Pharma retains rights to and will be responsible for the development and commercialization of the ATAC programs that are part of this agreement in all other regions that are not part of the Huadong territory. We are also responsible for clinical trial and commercial supply.  
+Let me turn now to our second agreement with Huadong, the investment agreement. This agreement involves 3 parties: Heidelberg Pharma, Huadong Medicine Invest Holding and our main shareholder, dievini Hopp BioTech Holding. Under the terms of this agreement, Huadong will invest up to EUR 105 million in Heidelberg Pharma via a planned rights issue and the purchase of shares from dievini. This investment is in addition to the funding we received under the development and licensing agreement. 
+We are planning a rights issue of up to EUR 80 million. It will be based on a prospectus, and we will use authorized capital. We plan to offer up to 12.4 million shares at a price of EUR 6.44. It is the same price as in our last financing round in April 2021. Huadong will participate in this rights issue and acquire up to approximately 26% of Heidelberg Pharma shares outstanding. And dievini will offer subscription rights as needed to enable Huadong to reach this level of ownership. 
+Huadong plans an additional share purchase from dievini of up to 9% of shares outstanding to reach total shareholding up to 35% of Heidelberg Pharma share capital post rights issue. And dievini will remain our largest shareholder, and I'd like to thank them for their support of this transaction.  
+Following these transactions, Huadong will become our second largest shareholder. We are delighted to bring on board another large, extremely supportive and strategic investor as we grow our company. 
+Here are some basics of the planned rights offering with a reminder that this offering has not yet been approved by regulators. 
+Prior to implementing this investment agreement, there are various governmental approvals required. This includes several agencies in Germany as well as in China. We currently do not expect any roadblocks, but have planned for delay and refusal scenarios, just to be safe. If any approvals are delayed beyond July 21 of this year, Huadong may extend the so-called long stop date until October 31.
+ Huadong and dievini have each agreed to provide loans to Heidelberg Pharma in the amount of EUR 10 million each with the same terms. The loans would then be repaid in cash. Again, we do not expect this to happen, but if the approvals are not granted by the extended long stop date, no shares will be issued or acquired by Huadong. Under this unlikely scenario, dievini will consider participating in the rights issue and exercising part of its subscription rights to fulfill all or part of its financing commitment announced on February 17, just a couple of weeks ago. And none of this would affect the licensing agreement signed with Huadong.  
+So to wrap up this transformational deal that we have announced with Huadong, a very strong partner, is supporting our strategy to become an important global ADC player. 
+To recap, the deal brings us a significant immediate influx of cash with the potential for long-term revenue stream from success-based milestones and royalties. We gained another long-term, highly dedicated strategic investor with Huadong. We have the potential to accelerate our product development work while using less of our own resources through joint clinical development activities in Huadong. Accelerated development means we also have the potential to bring our products to market faster.  
+We also have the opportunity with more resources at hand to broaden our pipeline, further supporting our future growth. Importantly, this agreement secures market access to China, one of the most important and fastest-growing pharmaceutical markets in addition to access to other Asian markets.  
+We are, as I have now said several times, extremely excited about our strategic collaboration with Huadong, and the door is left open for us to potentially broaden the collaboration down the road to further exploit synergies. Thank you for your attention. We will now open the call to questions.
+
+
+================================================================================
+Questions and Answers
+--------------------------------------------------------------------------------
+Operator    [1]
+--------------------------------------------------------------------------------
+(Operator Instructions) And the first telephone question is from the line of Dennis from Pareto Securities.
+
+--------------------------------------------------------------------------------
+Dennis Berzhanin,  Pareto Securities AS, Research Division - Analyst    [2]
+--------------------------------------------------------------------------------
+Yes. This is Dennis Berzhanin from Pareto Securities. Just a couple of questions for me. First one, I was wondering if you could talk a little bit about the commercial potential of the targets that you're out-licensing and, specifically, in the Asia region as well as I think we do have the figures for HDP-101 in total in the world, which is, I believe, it's still $1 billion or so. Would that still be the appropriate number at this point in time? 
+Another question I have with regards to the milestone payments. I was just wondering the EUR 400 million milestone you expect for HDP-101 and HDP-103, how would these be split, meaning when would these be triggered along the development process? And how would this differ for the other 2 targets, HDP-102 and HDP-104? And then finally, I was just curious if you are also looking to out-license these targets to other geographic locations, so U.S., Europe with other new partners in the future.
+
+--------------------------------------------------------------------------------
+Jan Schmidt-Brand,  Heidelberg Pharma AG - CEO & CFO    [3]
+--------------------------------------------------------------------------------
+Thank you, Dennis. So I'm going to answer right away. Well, I guess we described the potential -- the financial potential for ourselves with these summaries or these accumulated potential income numbers. We have not disclosed further details on that, but we can say the following: Certainly, the 103 compound is economically more important in the Asian market than 101 in general. Hematological indications have not such a big importance in the medical community in -- especially in China. So 103 with the prostate cancer indication will certainly be the dominating indication for this region.  
+With regard to the split -- detailed split on milestones or let's say, difference between 101, 103 on the one side and 102, 104 the other side. Basically, we use a similar pattern of clinical milestones and commercial milestones, which are not further disclosed in detail at this point in time.  
+To your question, whether we anticipate out-licensing compounds to other markets? Well, this will certainly be aligned with the growth and development of our overall strategy, but as a biotech company, especially now in doing the first steps into becoming more mature, we have an out-licensing after clinical positive signs on our agenda, of course. And as we mentioned in the presentation, all rights outside the licensed area are still in our hands, and we are free to out-license these compounds and territories. Does this answer your questions?
+
+--------------------------------------------------------------------------------
+Dennis Berzhanin,  Pareto Securities AS, Research Division - Analyst    [4]
+--------------------------------------------------------------------------------
+Yes.
+
+--------------------------------------------------------------------------------
+Operator    [5]
+--------------------------------------------------------------------------------
+The next question is from [Lala Maran]. The long stop guarantees imply you think that it may be difficult to close the deal. Is that related to the increasing scrutiny in Europe of strategic science and technology deals between European companies and Chinese ones? If not this, what is the reason for the long stop guarantees?
+
+--------------------------------------------------------------------------------
+Jan Schmidt-Brand,  Heidelberg Pharma AG - CEO & CFO    [6]
+--------------------------------------------------------------------------------
+Well, it's derived from deals in the past. Of course, Europe has some fear that technology might be taken -- bought out from Europe. And this led to the protective legislation, which we have to deal with now. In general, we can say that, number one, it's about creating technology in Germany. And we very openly welcome the opportunity to get funding from China to develop this technology in Europe. But the background is as described by [Lala]. So we have to sort of wait now for the formal procedure, but we are very optimistic that our authorities will consider this difference, will see the difference and will also support us like all the other partners in this game. 
+I guess this answers most of the questions. But let me comment on the safety net that dievini and Huadong have prepared. So basically, we cannot know, it's quite undefined how long this process might take. And we have organized this interim financing, which was strongly supported by Christof from -- Christof Hettich from dievini that we are able even to overcome a longer-than-expected period while waiting for the administrative approvals. But we are optimistic that it will be quicker and we won't need it.
+
+--------------------------------------------------------------------------------
+Operator    [7]
+--------------------------------------------------------------------------------
+The next question is from the line of [Andy Ishii]. Jan, congratulations and the Heidelberg team on the excellent collaboration. I'm wondering how will it change your capital allocation towards R&D? And how should we think about the next wave of new assets?
+
+--------------------------------------------------------------------------------
+Jan Schmidt-Brand,  Heidelberg Pharma AG - CEO & CFO    [8]
+--------------------------------------------------------------------------------
+Well, our focus is on R&D. So that's our (inaudible), our reason of being that we drive forward our research and development activities. And this includes, of course, the defined and already more mature development projects. Therefore, this will not change our capital allocation, but we will -- but it will empower us to really drive these development projects with more speed and over a longer period of time. So it's very valuable to us as a company to really bring the horsepower to the street, as we say in German, the picture we use here. So in terms of allocation, it will not change, but it gives us the opportunity to really accelerate and to fund these activities we are planning.
+
+--------------------------------------------------------------------------------
+Operator    [9]
+--------------------------------------------------------------------------------
+We have another telephone question from [Eric Rueb] from Gardy.
+
+--------------------------------------------------------------------------------
+Unidentified Analyst,   -     [10]
+--------------------------------------------------------------------------------
+Congratulations, guys. My name is Eric, and I'm covering just Heidelberg Pharma from Bryan Garnier. And 2 questions. The one is if there was any competing interest in the Asian market or non-U.S. global rights for the drugs that probably affect the deal?
+
+--------------------------------------------------------------------------------
+Jan Schmidt-Brand,  Heidelberg Pharma AG - CEO & CFO    [11]
+--------------------------------------------------------------------------------
+Sorry, the acoustics was worse. I didn't get this question.
+
+--------------------------------------------------------------------------------
+Unidentified Analyst,   -     [12]
+--------------------------------------------------------------------------------
+Sorry about that. Yes. So I was wondering if there is any competing interest for the deal that you struck today with the Huadong. That's question number one. Question number two was I was curious about the reason for including 2 different entities. So particularly, it seems like the deal has -- the part of the deal is that there's investment from one party, and then there's another licensing-out deal for the pharma company, right? Is that correct? And what's your rationale for that?
+
+--------------------------------------------------------------------------------
+Jan Schmidt-Brand,  Heidelberg Pharma AG - CEO & CFO    [13]
+--------------------------------------------------------------------------------
+Well, let me answer your second question first. It's mainly a structural issue to Huadong how they have organized their company group. As mentioned, they have, in total, more than 50 subsidiaries. So there are certainly practical reasons and/or consultational reasons within this group, which led to this specific roles of companies that are partnered to our deals. I cannot comment beyond that because I don't know the reasons how organized -- why Huadong organized themselves in a certain way.  
+With the first question of competing interest, maybe I hand over our Chief Business Officer, who really did a great job negotiating this deal and who look deeply inside the markets, who also had a very long period [covered] while negotiating and moving the deal forward. So George, maybe you can comment on this question of the competing interest.
+
+--------------------------------------------------------------------------------
+George Octavian Badescu,   -     [14]
+--------------------------------------------------------------------------------
+Yes. So just briefly, one of the main reasons for looking for a Chinese partner from our point of view is to have a partner that has local experience at a local network that they're going to be able to accelerate the development of our drugs and actually maximize the commercial potential of the drugs in the territory? So this is one of the main drivers from our point of view. 
+But in terms of competing interest with regards to what we can do outside of the territory, we believe that having partnered the rights in China and other territories in the Asian markets are not going to affect the potential for anything else we want to do outside of the territory in the U.S. or in Europe. Does this answer your question?
+
+--------------------------------------------------------------------------------
+Unidentified Analyst,   -     [15]
+--------------------------------------------------------------------------------
+That's very clear.
+
+--------------------------------------------------------------------------------
+Operator    [16]
+--------------------------------------------------------------------------------
+The next question is from [Siegfried Hofmann]. Three questions. (foreign language)
+
+--------------------------------------------------------------------------------
+Jan Schmidt-Brand,  Heidelberg Pharma AG - CEO & CFO    [17]
+--------------------------------------------------------------------------------
+Yes. (foreign language). Maybe for the first question about dievini. I can hand over to Christof, our representative of dievini.
+
+--------------------------------------------------------------------------------
+Christof Hettich,   -     [18]
+--------------------------------------------------------------------------------
+Okay. Then, I can add a few answers to the questions. The first, we really appreciate that Huadong is a partner now of Heidelberg Pharma together with dievini. We are able to sell some shares to them because it was a clear wish of Huadong to have a strategic position. That is the sole reason that we are selling shares. Otherwise, we would not have sold a single share that will -- depending on the number of extra -- additional parties who participate in the capital increase bring dievini in a situation that we are going around about to 46%. And we want to stay as the strong additional partner, the biggest shareholder of Heidelberg Pharma, that is the clear commitment from dievini. We are happy with the company, with Heidelberg Pharma, after a long time of development, but we will be biggest partner, but we really appreciate to have a strong Chinese and investor partner here for Heidelberg Pharma.
+
+--------------------------------------------------------------------------------
+Jan Schmidt-Brand,  Heidelberg Pharma AG - CEO & CFO    [19]
+--------------------------------------------------------------------------------
+Thank you, Christof. So maybe with regard to the clinical studies, you asked 2 questions whether Huadong will do own clinical studies and what's the timing? Maybe I hand this over to Andreas. Andreas, if you are prepared to answer this.  
+Andreas? Well, maybe he has some technical issues, so I will comment on this. So -- well, it's foreseen in the agreement that Huadong at a later stage when we look into pivotal studies and bigger studies, we will include the Chinese territory and the Chinese population and also population from the other countries of the territory, which is mandatory under regulatory rules to be able to really file for approval -- market approval in these respective markets. So it's foreseen that Huadong will either contribute own patients or support us in doing the clinical studies in China. But this will still be decided in the future, which one of these options applies. 
+With regard to timing, just again the question, Andreas, are you back in the line?
+
+--------------------------------------------------------------------------------
+Andreas Pahl,  Heidelberg Pharma AG - Chief Scientific Officer & Member of the Executive Management Board    [20]
+--------------------------------------------------------------------------------
+Yes. I just pushed the wrong button, sorry. So I assume that the question relates to our own clinical trials. So the -- let's say, we are currently planning to submit IND for 102 and 103 during the course of '23. And immediately thereafter, we will then prepare for the start of the clinical trials for both programs subsequently to the IND clearance.
+
+--------------------------------------------------------------------------------
+Jan Schmidt-Brand,  Heidelberg Pharma AG - CEO & CFO    [21]
+--------------------------------------------------------------------------------
+Any further questions?
+
+--------------------------------------------------------------------------------
+Operator    [22]
+--------------------------------------------------------------------------------
+The next question is from [Patrick Siebert]. Are you in talks with a potential partner for collaboration outside of Asia? Will the subscription rise be tradeable?
+
+--------------------------------------------------------------------------------
+Jan Schmidt-Brand,  Heidelberg Pharma AG - CEO & CFO    [23]
+--------------------------------------------------------------------------------
+Let's start with the subscription rights. We don't anticipate trading on this as we announced, that's part of the deal that will be handed over to Huadong. As dievini is concerned, and the rest will not be tradable. We never did that. It's, well, a huge effort for a small company to do that. 
+The other question, could you please repeat it?
+
+--------------------------------------------------------------------------------
+Operator    [24]
+--------------------------------------------------------------------------------
+Will the subscription rights be tradable? And are you in talks with a potential partner for collaboration outside of Asia?
+
+--------------------------------------------------------------------------------
+Jan Schmidt-Brand,  Heidelberg Pharma AG - CEO & CFO    [25]
+--------------------------------------------------------------------------------
+Okay, with the talks of potential partners outside of Asia, I answered for the subscription right. And the next question, I would like to hand over to George Badescu again, who is our specialist for speaking with other partners.
+
+--------------------------------------------------------------------------------
+George Octavian Badescu,   -     [26]
+--------------------------------------------------------------------------------
+I can give a very simple answer, of course, we're always talking with other partners.
+
+--------------------------------------------------------------------------------
+Jan Schmidt-Brand,  Heidelberg Pharma AG - CEO & CFO    [27]
+--------------------------------------------------------------------------------
+Does this answer your question?
+
+--------------------------------------------------------------------------------
+Operator    [28]
+--------------------------------------------------------------------------------
+Yes, I guess. So the next telephone question is from the line of Thomas Schießle from EQUI.TS GmbH.
+
+--------------------------------------------------------------------------------
+Thomas J. Schießle,  EQUI.TS GmbH - Research Analyst    [29]
+--------------------------------------------------------------------------------
+And congratulations on the deal for all who are involved in, indeed a breathtaking one. My question is on the commercial supply or the production of the API. Did I get you right that you will do the commercial supply for every territories? And does that mean that you will enlarge and change your business model?
+
+--------------------------------------------------------------------------------
+Jan Schmidt-Brand,  Heidelberg Pharma AG - CEO & CFO    [30]
+--------------------------------------------------------------------------------
+Yes, excellent question. Thank you, Thomas Schiessle. Well, first of all, indeed, it's true, the agreement foresees that we will do the commercial supply, but please see that we are speaking about complete product. So HP-102, 103, consisting of the antibody linker and toxin payload. So ultimately, for our own purposes, we need to build this manufacturing. We need to build the production capacities. And therefore, it makes a lot of sense given the synergies we have in this process that we also supply our partner at this point in time. So it doesn't necessarily mean that we change our business model because we already included, as you might have seen sales of GMP material, for example, from Magenta and other partners. But it will -- this part of the business model will grow in importance, which also means that we have to invest into building this infrastructure further and to create a broader network of manufacturing.
+
+--------------------------------------------------------------------------------
+Thomas J. Schießle,  EQUI.TS GmbH - Research Analyst    [31]
+--------------------------------------------------------------------------------
+So globally seen or will the production infrastructure more or less a new European one?
+
+--------------------------------------------------------------------------------
+Jan Schmidt-Brand,  Heidelberg Pharma AG - CEO & CFO    [32]
+--------------------------------------------------------------------------------
+Well, I'd say this is too early to ultimately take a decision. But right now, it's centered in Europe. So we have all the supply coming from Europe. But of course, we don't know whether this will stay like that forever.
+
+--------------------------------------------------------------------------------
+Thomas J. Schießle,  EQUI.TS GmbH - Research Analyst    [33]
+--------------------------------------------------------------------------------
+And production and supply will be an issue for the FDA approval in China, I guess. So it will be of major importance to get the approval.
+
+--------------------------------------------------------------------------------
+Jan Schmidt-Brand,  Heidelberg Pharma AG - CEO & CFO    [34]
+--------------------------------------------------------------------------------
+Well, but this will be certainly a question to be answered in a couple of years from now until we really reached the market maturity. First, we have to undergo the clinical trials and there we are prepared to supply our partners.
+
+--------------------------------------------------------------------------------
+Thomas J. Schießle,  EQUI.TS GmbH - Research Analyst    [35]
+--------------------------------------------------------------------------------
+Congrats, indeed.
+
+--------------------------------------------------------------------------------
+Operator    [36]
+--------------------------------------------------------------------------------
+We have a follow-up question from [Andy Ishii]. Will Heidelberg be responsible for manufacturing and HDP-101 and 103? If so, will the company be able to charge a carry fee for Huadong?
+
+--------------------------------------------------------------------------------
+Jan Schmidt-Brand,  Heidelberg Pharma AG - CEO & CFO    [37]
+--------------------------------------------------------------------------------
+Well, we just discussed that we will indeed do the manufacturing, at least in the first development phases now. We have not yet, of course, taken any decision how things will look like when we reach the market. But, well, we have a framework agreement on a general industry standard basis, I would say, about supplying the partners. All the details will still have to be fixed in a supply agreement. But this will be standard terms for parties.
+
+--------------------------------------------------------------------------------
+Operator    [38]
+--------------------------------------------------------------------------------
+There are no further questions at this time, and I would like to hand back to Dr. Jan Schmidt-Brand for closing comments.
+
+--------------------------------------------------------------------------------
+Jan Schmidt-Brand,  Heidelberg Pharma AG - CEO & CFO    [39]
+--------------------------------------------------------------------------------
+Yes. Thanks a lot. So thank you for your attention. Thank you for taking part in this call and your questions. We are really very happy, as you have heard about the deal, and we are looking forward to really growing this relationship and growing our business further to a higher degree of ADC leadership in the world. Thank you.
+
+
+
+
+
+
+
+--------------------------------------------------------------------------------
+Definitions
+--------------------------------------------------------------------------------
+PRELIMINARY TRANSCRIPT: "Preliminary Transcript" indicates that the 
+Transcript has been published in near real-time by an experienced 
+professional transcriber.  While the Preliminary Transcript is highly 
+accurate, it has not been edited to ensure the entire transcription 
+represents a verbatim report of the call.
+
+EDITED TRANSCRIPT: "Edited Transcript" indicates that a team of professional 
+editors have listened to the event a second time to confirm that the 
+content of the call has been transcribed accurately and in full.
+
+--------------------------------------------------------------------------------
+Disclaimer
+--------------------------------------------------------------------------------
+Refinitiv reserves the right to make changes to documents, content, or other 
+information on this web site without obligation to notify any person of 
+such changes.
+
+In the conference calls upon which Event Transcripts are based, companies 
+may make projections or other forward-looking statements regarding a variety 
+of items. Such forward-looking statements are based upon current 
+expectations and involve risks and uncertainties. Actual results may differ 
+materially from those stated in any forward-looking statement based on a 
+number of important factors and risks, which are more specifically 
+identified in the companies' most recent SEC filings. Although the companies 
+may indicate and believe that the assumptions underlying the forward-looking 
+statements are reasonable, any of the assumptions could prove inaccurate or 
+incorrect and, therefore, there can be no assurance that the results 
+contemplated in the forward-looking statements will be realized.
+
+THE INFORMATION CONTAINED IN EVENT TRANSCRIPTS IS A TEXTUAL REPRESENTATION
+OF THE APPLICABLE COMPANY'S CONFERENCE CALL AND WHILE EFFORTS ARE MADE TO
+PROVIDE AN ACCURATE TRANSCRIPTION, THERE MAY BE MATERIAL ERRORS, OMISSIONS,
+OR INACCURACIES IN THE REPORTING OF THE SUBSTANCE OF THE CONFERENCE CALLS.
+IN NO WAY DOES REFINITIV OR THE APPLICABLE COMPANY ASSUME ANY RESPONSIBILITY FOR ANY INVESTMENT OR OTHER
+DECISIONS MADE BASED UPON THE INFORMATION PROVIDED ON THIS WEB SITE OR IN
+ANY EVENT TRANSCRIPT. USERS ARE ADVISED TO REVIEW THE APPLICABLE COMPANY'S
+CONFERENCE CALL ITSELF AND THE APPLICABLE COMPANY'S SEC FILINGS BEFORE
+MAKING ANY INVESTMENT OR OTHER DECISIONS.
+--------------------------------------------------------------------------------
+Copyright 2022 Refinitiv. All Rights Reserved.
+--------------------------------------------------------------------------------

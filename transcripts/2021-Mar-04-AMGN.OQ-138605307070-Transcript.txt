@@ -1,0 +1,531 @@
+
+
+Refinitiv StreetEvents Event Transcript
+E D I T E D   V E R S I O N
+
+Amgen Inc M&amp;A Call on Five Prime Therapeutics Inc Acquisition
+MARCH 04, 2021 / 3:30PM GMT
+
+================================================================================
+Corporate Participants
+================================================================================
+
+ * Peter H. Griffith
+   Amgen Inc. - Executive VP & CFO
+ * Murdo Gordon
+   Amgen Inc. - Executive VP of Global Commercial Operations
+ * Arvind Sood
+   Amgen Inc. - VP of IR
+ * David M. Reese
+   Amgen Inc. - EVP of Research & Development
+
+================================================================================
+Conference Call Participiants
+================================================================================
+
+ * Robyn Kay Shelton Karnauskas
+   Truist Securities, Inc., Research Division - Research Analyst
+ * Michael Jonathan Yee
+   Jefferies LLC, Research Division - Equity Analyst
+ * Carter Lewis Gould
+   Barclays Bank PLC, Research Division - Senior Analyst
+ * Kennen B. MacKay
+   RBC Capital Markets, Research Division - MD & Co-Head of US Biotechnology Research
+ * Geoffrey Craig Porges
+   SVB Leerink LLC, Research Division - Director of Therapeutics Research & Diversified Biopharma and Senior Research Analyst
+ * Aspen Mori
+    - 
+ * Terence C. Flynn
+   Goldman Sachs Group, Inc., Research Division - MD
+ * Colin Nigel Bristow
+   UBS Investment Bank, Research Division - Analyst
+ * Jay Olson
+   Oppenheimer & Co. Inc., Research Division - Executive Director & Senior Analyst
+ * Christopher Joseph Raymond
+   Piper Sandler & Co., Research Division - MD & Senior Research Analyst
+ * Dane Vincent Leone
+   Raymond James & Associates, Inc., Research Division - Research Analyst
+ * Matthew Kelsey Harrison
+   Morgan Stanley, Research Division - Executive Director
+ * Michael Werner Schmidt
+   Guggenheim Securities, LLC, Research Division - Senior Analyst & Senior MD
+ * Mohit Bansal
+   Citigroup Inc., Research Division - Director and Analyst
+ * Alethia Rene Young
+   Cantor Fitzgerald & Co., Research Division - Director of Equity Research & Head of Healthcare Research
+ * Evan David Seigerman
+   Crédit Suisse AG, Research Division - VP & Senior Equity Research Analyst
+
+================================================================================
+Presentation
+--------------------------------------------------------------------------------
+Operator    [1]
+--------------------------------------------------------------------------------
+Good day, ladies and gentlemen. My name is Carmen, and I will be your conference facilitator for today, Amgen's conference call on the Five Prime acquisition. (Operator Instructions) I would now like to introduce Arvind Sood, Vice President of Investor Relations. Mr. Sood, you may begin.
+
+--------------------------------------------------------------------------------
+Arvind Sood,  Amgen Inc. - VP of IR    [2]
+--------------------------------------------------------------------------------
+Okay, Carmen. Thank you. And good morning, everybody. Thank you for joining us on such short notice. We wanted to tell you about an exciting development, our acquisition of Five Prime therapeutics. This is a company that's focused on developing immuno-oncology and targeted cancer therapies. We are looking forward to discussing Five Prime's lead product in development, bemarituzumab, that, by the way, we'll affectionately call bema going forward. Bema is a novel antifibroblast growth factor receptor antibody which is being developed initially for gastric cancer.
+I am joined this morning by our CFO, Peter Griffith, who will discuss the strategic rationale and complementarity of this asset within oncology, which, as you know, is one of our key therapeutic domains of expertise. Our Head of R&D, Dave Reese, who's also an oncologist, will then provide a bit of primer on gastric cancer, a description of the molecule and note future developmental steps. We're very much looking forward to your questions after Dave's prepared comments. Also joining us for the Q&A part is Murdo Gordon, our Head of Global Commercial Operations.
+Just one last reminder from my side that we may make certain forward-looking statements. I would encourage you to review our SEC filings, including our 8-K that was filed this morning, that contains a description of factors that might cause our actual outcomes to differ materially.
+So with that, I would like to turn the call over to Peter. Peter?
+
+--------------------------------------------------------------------------------
+Peter H. Griffith,  Amgen Inc. - Executive VP & CFO    [3]
+--------------------------------------------------------------------------------
+Well, good morning, everyone. Thank you, Arvind, and thank you all for joining us this morning on such short notice.
+As you know, this morning, we announced an agreement to acquire Five Prime Therapeutics for $38 per share in cash or representing an equity value of approximately $1.9 billion.
+But let's start where we always started Amgen, with the Amgen difference, having to work each day discovering, developing, manufacturing and delivering first-in-class, best-in-class innovative therapeutics to patients with serious and grievous illnesses all over the world. And that's why we are so excited about this opportunity, closely aligning to our strategy and our capital allocation deployment principles to drive long-term growth for the enterprise.
+We often speak about evaluating external innovation with the lens of wanting to be one of the best buyers and where we, as Amgen, see an opportunity to drive attractive returns for our shareholders. The strong strategic fit here within oncology, one of our core therapeutic focus areas in both research and commercial, is also critical in ensuring we can rapidly execute on our world-class integration capabilities.
+Five Prime's lead asset, bema, as Arvind has introduced you to it, is a first-in-class Phase III-ready therapy with positive Phase II data in first-line gastric cancer, the third leading cause of cancer death around the world. This acquisition represented a compelling opportunity that strengthens our innovative oncology portfolio, adding a complementary molecule to our own internal gastric cancer programs within our BiTE portfolio.
+Importantly, this deal advances our strategic imperative to grow our business internationally, and in Asia Pacific in particular, where gastric cancer is highly prevalent and where we previously stated we expect to generate roughly 25% of our revenue growth over the next 10 years.
+We very much look forward to welcoming the team from Five Prime and working with them to leverage our industry-leading biologics, process development and manufacturing expertise to develop and commercialize this asset for patients around the globe as quickly as possible. And I'll note, they are located within a short walk of our new Amgen South San Francisco facility.
+We're confident that we will be able to leverage our strengths in any number of our areas in order to accelerate the excellent progress that our colleagues at Five Prime have achieved, both for shareholders and, most importantly, for patients.
+We expect this deal to close by the end of the second quarter, and is subject to customary closing conditions, including the tender of at least a majority of the outstanding shares of Five Prime's common stock and the expiration or termination of the waiting period under the Hart-Scott-Rodino Act.
+Finally, I would like to reaffirm our full year financial outlook that we shared with you last month on our fourth quarter call, with revenue guidance for 2021 of $25.8 billion to $26.6 billion and non-GAAP earnings per share guidance of $16 to $17 per share.
+I would now like to turn the call over to our Head of Research and Development, Dave Reese, who will talk about the molecule, the unmet need that we can potentially address and the recently disclosed Phase II data, which looks promising. Dave?
+
+--------------------------------------------------------------------------------
+David M. Reese,  Amgen Inc. - EVP of Research & Development    [4]
+--------------------------------------------------------------------------------
+Thanks, Peter, and hello, everyone. Thank you again all for joining us on short notice this morning. As Peter said, we're thrilled by today's announcement and believe this is a strong strategic fit. Five Prime is an innovative clinical stage biotechnology company focused on developing immuno-oncology and targeted cancer therapies for patients with solid tumors. And this is strongly aligned with our own immuno-oncology and precision medicine strategy.
+First and foremost, bemarituzumab or bema has the potential to address a very significant global unmet medical need. Gastric cancer is the third most common cause of cancer death worldwide, with over 1 million new cases diagnosed annually. And in Asia, in particular, gastric cancer is a significant public health challenge. For context, annually, there are nearly as many cases of gastric cancer in China, Japan and Korea as there are all major solid tumors in the United States.
+As we previously discussed, we have 2 clinical programs from our BiTE platform targeting proteins also highly expressed in gastric cancer, AMG 199, targeting MUC17, and AMG 910, which targets Claudin 18.2. The bema program very nicely complements these efforts and adds to our internal expertise.
+So let's talk a little bit about -- more about bemarituzumab, the lead asset. This is a fibroblast growth factor receptor 2b or FGFR2b monoclonal antibody advancing into Phase III development as a potential front line therapy for gastric and gastroesophageal junction, or GEJ, cancer patients whose tumors overexpress the receptor.
+For those who aren't familiar with this receptor signaling pathway, I'd like to give you just a little bit of background biology so that you can put things into context. FGFR2b is a splice variant of fibroblast growth factor receptor 2, which is itself a member of a broad and complex FGFR family. A variety of oncogenic alterations can occur in FGFRs, including point mutations, fusions, translocations, gene amplification or receptor overexpression.
+In the case of FGFR2b specifically, which is what we're talking about here, over-expression is most common in gastric cancer and occurs in approximately 30% of tumors based on the extensive screening data Five Prime generated in the context of the Phase II FIGHT study.
+Bemarituzumab is an afucosylated antibody, and it exerts its antitumor effects by inhibiting ligand binding to the FGFR2b receptor as well as through enhanced antibody-dependent cell-mediated cytotoxicity. Specifically, bemarituzumab inhibits the ligand binding of FGF7, 10 and 22, thus avoiding some of the metabolic complications, such as hyperphosphatemia, that can occur with perturbation of FGF23, one of the many ligands that can bind to receptors in this family.
+Our interest, of course, like many experts in gastric cancer, was peaked by the clinical data Five Prime has generated to date, which we believe are compelling. In early phase trials, proof-of-concept was demonstrated with single-agent activity in late-line gastric cancer with an overall confirmed response rate of 18%. For context, this is roughly comparable to single-agent Herceptin activity in advanced HER2-positive breast cancer or the activity of Vectibix alone in colorectal cancer.
+In November 2020, the company announced positive data in first-line gastric cancer from the Phase II FIGHT study. And in January, a few months ago, the data were presented at the ASCO GI conference. In our view, FIGHT was a high-quality, randomized, placebo-controlled study, quite robust and designed for a Phase II oncology trial.
+The design was straightforward. Patients with untreated FGFR2b overexpressing gastric cancer were randomized to standard backbone chemotherapy with or without bemarituzumab. And as I mentioned, this was placebo-controlled.
+In terms of outcome, the addition of bemarituzumab to FOLFOX backbone chemotherapy resulted in clinically meaningful improvements in all 3 key endpoints, progression-free survival, overall survival and overall response rates versus placebo. 155 patients in total were randomized in this trial.
+It's also notable that the efficacy appeared to titrate with target expression. In other words, there was what we call an expression response relationship with higher levels of FGFR2b expression associated with increased efficacy in response to bemarituzumab therapy in combination with standard chemotherapy. This, we believe, is very encouraging and reinforces the importance of FGFR2b over-expression and the potential of bemarituzumab on top of a standard chemotherapy backbone. In our view, these data provide a strong foundation for the further development of the molecule in gastric cancer and we look forward to discussions with regulators on a potential path forward as we work toward initiation of a pivotal study. We believe bemarituzumab could represent a significant opportunity in gastric cancer alone, and that is, of course, is going to be our immediate focus. But FGFR2b is overexpressed in other solid tumors and there's the potential to develop bemarituzumab in additional indications such as squamous non-small cell lung cancer. In these other indications, our first priority will likely be squamous lung cancer, and we are also evaluating other potential clinical proof-of-concept approaches for a variety of other tumors and anticipate initiating signal-seeking studies in these indications where the tumors have FGFR to be overexpression.
+It's worth noting that one limitation in the development program to date has been clinical drug supply, and we believe our world-class antibody manufacturing capabilities can bring significant value to the program. We also see the possibility for combination therapy beyond chemotherapy combinations, and we'll be exploring potential approaches with other established and novel agents.
+Finally, Five Prime also has additional early-stage pipeline assets, which we will carefully review, although our immediate focus, as I mentioned, will be on advancing bemarituzumab in first-line gastric cancer.
+On closing, I'd like to welcome all of our new colleagues at Five Prime and highlight that we are all extremely excited about the opportunity we have with bemarituzumab. And together, we intend to bring all of our development, manufacturing and commercialization experience to serve what remains a very large global unmet medical need.
+And with that, I will hand things back to Arvind, who will kick us off into the question-and-answer session.
+
+--------------------------------------------------------------------------------
+Arvind Sood,  Amgen Inc. - VP of IR    [5]
+--------------------------------------------------------------------------------
+Okay. Thank you, Dave. Carmen, let's go ahead and open it up for Q&A. If you can please review the procedure for asking questions. (Operator Instructions) Carmen, why don't you go ahead?
+
+
+================================================================================
+Questions and Answers
+--------------------------------------------------------------------------------
+Operator    [1]
+--------------------------------------------------------------------------------
+(Operator Instructions) Our first question is from Terence Flynn with Goldman Sachs.
+
+--------------------------------------------------------------------------------
+Terence C. Flynn,  Goldman Sachs Group, Inc., Research Division - MD    [2]
+--------------------------------------------------------------------------------
+Great. I was just wondering, Dave, if you could comment about the regulatory path here. Is there an accelerated approval option in your view based on this data set? Or is it most likely going to require another Phase III trial? And if so, how are you thinking about the initial design, especially given some of the evolution of the IO landscape?
+
+--------------------------------------------------------------------------------
+David M. Reese,  Amgen Inc. - EVP of Research & Development    [3]
+--------------------------------------------------------------------------------
+Yes. Thanks, Terence. Important question. There will be upcoming regulatory interactions where we would discuss the potential path forward with bemarituzumab. I don't want to speculate on any potential accelerated approval pathway. Of course, as we have those discussions with regulators, we'll provide guidance as we move along.
+Our anticipation is that the Phase III trial, and of course it will be a key component of upcoming regulatory discussions, will be an expanded version of the FIGHT trial. We believe that standard chemotherapy in much of the globe will remain a standard of care in advanced gastric cancer and is an appropriate comparator. And so that is our initial intent here.
+Of course, as you're indicating and we're well aware, that there will be the introduction of checkpoint inhibitors in this disease. We will also plan as part of the development program, for example, exploring triplet combinations, which would be standard chemotherapy with a PD-1 inhibitor and bemarituzumab. So more on that as the discussions unfold. But our initial thought is that it will be a Phase III trial that resembles the FIGHT Phase IIb study.
+
+--------------------------------------------------------------------------------
+Operator    [4]
+--------------------------------------------------------------------------------
+Our next question comes from Carter Gould with Barclays.
+
+--------------------------------------------------------------------------------
+Carter Lewis Gould,  Barclays Bank PLC, Research Division - Senior Analyst    [5]
+--------------------------------------------------------------------------------
+Great. Congrats on the deal. Maybe just a follow-up on that point, David, just in terms of how you expect this asset to, I guess, coexist with checkpoint inhibitors in the space. It seems like you're still committed to first-line positioning, but it does seem like the checkpoint inhibitors will get there first. So just kind of your expectations and what assumptions were built in on that front.
+
+--------------------------------------------------------------------------------
+David M. Reese,  Amgen Inc. - EVP of Research & Development    [6]
+--------------------------------------------------------------------------------
+Yes. I'll take that and then maybe ask Murdo to comment as well here. Obviously, we've given that a lot of thought, Carter.
+First of all, there will be partial non-overlap, we believe, of the eligible patient population. So not all gastric tumors express PD-L1, for example, and we'll have to understand over time what fraction in gastric cancer patients are in fact eligible for immunotherapeutic agents checkpoint inhibitors. Some, of course, have other contraindications to receiving those agents. And so we think that there will be a population of patients that have FGFR2b overexpression where that is the primary driver in the tumor. And they would be, of course, top of mind for use of bemarituzumab. But as always in oncology, we expect these agents to coexist. We believe even with the introduction of checkpoint inhibitors, there's a very large opportunity here given the unmet medical need.
+Let me ask Murdo if he wants to provide a little additional color because he and his team have given this quite a bit of thought as well.
+
+--------------------------------------------------------------------------------
+Murdo Gordon,  Amgen Inc. - Executive VP of Global Commercial Operations    [7]
+--------------------------------------------------------------------------------
+Yes. Thanks, Dave, and thanks for the question, Carter. The way I suggest we are thinking about the market is that the PD-L1 and PD-1 inhibitors are likely to be indicated in a broad population, but in practice, it is possible that PD-L1 high-expressing patients are patients that would be ideal candidates for PD-1 therapy. As Dave mentioned, we believe there will be a non overlapping population of FGFR2b patients, where clearly a product like bema would be a more appropriate treatment.
+And the data that we've seen so far, at least from the checkpoint inhibitors, indicate that there is a clear efficacy relationship with PD-L1 expression in a gastric population.
+And beyond that, we do think that possible combination strategies, as Dave highlighted, could be possible down the road. But overall, there's still a significant unmet medical need here. We would do a lot of that biomarker overlap work as we go forward to try and identify the unique population for bema. But clearly, it's a highly active drug that has a nice increase in its efficacy profile as FGFR2b expression increases. So that gives us confidence that there's a patient population there that can be easily identified using a well-validated immunohistochemistry assay that the team at Five Prime developed.
+
+--------------------------------------------------------------------------------
+Operator    [8]
+--------------------------------------------------------------------------------
+Our next question comes from Geoffrey Porges with SVB Leerink.
+
+--------------------------------------------------------------------------------
+Geoffrey Craig Porges,  SVB Leerink LLC, Research Division - Director of Therapeutics Research & Diversified Biopharma and Senior Research Analyst    [9]
+--------------------------------------------------------------------------------
+Yes. Thank you very much for the question. Congratulations on the very interesting transaction. So Dave, it looks as though you missed the primary endpoint -- obviously not you, but the FIGHT study missed the primary endpoint of PFS. And it looks as though it was -- the PFS signal was dragged down by the result in males and in North America compared to the other geographies. Is there anything going on there? And does that miss on the primary endpoint limit the ability to file with this trial?
+And secondly, what is your regulatory position in China? Because clearly, that's a big market. And it appears that even with the small subpopulation in China, you had positive results on both the primary and the secondary endpoint. So just interested in a little bit more nuance on how you're looking at that result.
+
+--------------------------------------------------------------------------------
+David M. Reese,  Amgen Inc. - EVP of Research & Development    [10]
+--------------------------------------------------------------------------------
+Yes. Thanks, Geoff. Important questions. And you're alluding to the fact that the p-value on the PFS primary endpoint was 0.07. There was a reduction in hazard ratios in higher-expressing subsets of patients with FGFR2b expression. And I think one of the things that really gave us confidence here was the overall internal consistency of the data. In fact, highly consistent. Some of the most consistent data you'll see in a randomized Phase II trial in oncology, lining up the progression-free survival, overall survival endpoints as well as the overall response data.
+In terms of potential geographic variation, I'd caution us into reading too much into that. When you start looking at smaller subsets in randomized Phase II trials, it's quite typical to see this. That doesn't give us great pause. And when we -- I think the totality of the data really strongly pointed in the direction of the activity of bemarituzumab. And that's coupled with the Phase I single-agent activity, which was indisputable.
+So again, the weight of that evidence is really what convinced us here, and I would not overly [defect] small subsets from the Phase II trial.
+
+--------------------------------------------------------------------------------
+Operator    [11]
+--------------------------------------------------------------------------------
+Our next question comes from Geoff Meacham with Bank of America.
+
+--------------------------------------------------------------------------------
+Aspen Mori,   -     [12]
+--------------------------------------------------------------------------------
+It's Aspen on for Geoff. We'd just love to hear more of your thoughts on some of the potential commercial barriers that bemarituzumab could see, thinking specifically about the management of some of these corneal events and potential screening requirements as well.
+
+--------------------------------------------------------------------------------
+David M. Reese,  Amgen Inc. - EVP of Research & Development    [13]
+--------------------------------------------------------------------------------
+Yes, maybe I'll start with that and then again ask Murdo to comment. There is one clearly identified side effect, which, as you noted, are corneal events, specifically keratitis, which can be an inflammation of the cornea. This was not unexpected. FGFR2b is expressed in corneal epithelium. This is undoubtedly an on-target adverse event. We should point out that in the Phase II program, there were no prophylactic or mitigation strategies put into place upfront, Aspen. And so one of the key parts of the development program going forward will be to introduce in all patients prophylaxis for ocular toxicity, things like hyperviscous eye drops which are intended to restore the normal physiology of that part of the eye.
+Important to note that these adverse events are reversible. The cornea is an epithelial tissue, just like other epithelium like the skin, and it does regenerate. And so we think we have, with our colleagues at Five Prime, an appropriate plan to mitigate this going forward. And in discussions with many of the experts in the field, they view this as something that they will manage just as the way they manage many other toxicities of oncology agents.
+With respect to a diagnostic, while FGFR2b is not routinely assessed right now and we expect the standard assay to be mostly in histochemistry, there is an assay that Five Prime has developed with one of the diagnostics company that we feel is quite robust. These are standard assays and we believe that there shouldn't be any significant barriers to introduction of the diagnostic in the clinical practice, just the way you do immunohistochemistry for HER2 over-expression or EGFR overexpression, for example. The pathologists are quite familiar with these assays in the scoring system. Murdo again and his team have done a lot of work here on the diagnostic and how we're going to identify the appropriate patients. So let me see if he has a few words he wants to add.
+
+--------------------------------------------------------------------------------
+Murdo Gordon,  Amgen Inc. - Executive VP of Global Commercial Operations    [14]
+--------------------------------------------------------------------------------
+I think Dave covered it well. A couple of things that I would just emphasize is the experience that we have at Amgen in driving diagnostic testing is fairly broad and extensive.
+The other thing that's going to happen, of course, in gastric, with the advent of the checkpoint inhibitors and PD-1s coming into the market, is there's going to be a drive towards PD-1 testing. And we'll work on the tail of that to further drive some of the pathology work that you're going to need to work up a gastric patient in the future. And it's a high-quality assay. The screening data from the FIGHT trial looks very good and 30% of the patients showing higher FGFR2b expression.
+The other thing on -- just going back to the corneal toxicity. The other thing we saw in the FIGHT trial, despite not having prophylactic measures in place on that protocol, the truncation and the duration of therapy was not that great. And so we believe that as we move into a Phase III development program with the mitigation and prophylactic measures that Dave described, we should be able to achieve good duration of therapy without limitations due to the side effect of the ocular toxicity. So that's just another thing that gave us some confidence that this was not a treatment-limiting toxicity.
+
+--------------------------------------------------------------------------------
+Operator    [15]
+--------------------------------------------------------------------------------
+Our next question is from Matthew Harrison with Morgan Stanley.
+
+--------------------------------------------------------------------------------
+Matthew Kelsey Harrison,  Morgan Stanley, Research Division - Executive Director    [16]
+--------------------------------------------------------------------------------
+Great. I was wondering if you could just talk about how you're thinking about some other tumor types beyond gastric? Obviously, there's FGFR2b expression which seems to be pretty high in certain other tumor types. Are you considering starting other trials there? Or what potentially would be your expansion strategy?
+
+--------------------------------------------------------------------------------
+David M. Reese,  Amgen Inc. - EVP of Research & Development    [17]
+--------------------------------------------------------------------------------
+Yes. Thanks, Matt. An important question. Yes, we absolutely will intend to explore the utility of the drug in tumor types beyond gastric cancer. As noted, indications such as squamous cell carcinoma of the lung, breast cancer, ovarian cancer, some other solid tumors, a subset of those cancers will overexpress FGFR2b and we would anticipate initiating various signal-seeking studies and perhaps a basket trial or umbrella trial to look at other indications. And the real question is in which of those is this the true pathogenic driver and where you will then benefit from bemarituzumab added to typically standard therapy. But absolutely part of the development program going forward, and we'll be speaking over time about that as we get things up and running.
+As I noted in my remarks, one of the limitations that has prevented that to date has been a limitation in clinical drug supply, and we think we can help to rectify that in short order and bring real value to the program.
+
+--------------------------------------------------------------------------------
+Operator    [18]
+--------------------------------------------------------------------------------
+Our next question is from Evan Siegerman with Crédit Suisse.
+
+--------------------------------------------------------------------------------
+Evan David Seigerman,  Crédit Suisse AG, Research Division - VP & Senior Equity Research Analyst    [19]
+--------------------------------------------------------------------------------
+Congrats on the deal. I wanted to get your take, Murdo, on kind of more framing the opportunity. I understand gastric cancer for the prepared remarks is much larger and more prevalent in Asia. How do you think about the opportunity in the United States? And I guess what type of assumptions on a high level went into your modeling and thinking behind -- kind of behind the decision to acquire the target?
+
+--------------------------------------------------------------------------------
+Murdo Gordon,  Amgen Inc. - Executive VP of Global Commercial Operations    [20]
+--------------------------------------------------------------------------------
+Yes. Thanks, Evan. Obviously, the FGFR2b data are still emerging in terms of having really reliable data in the literature on the true prevalence of FGFR2b overexpression. But we do believe the kind of 29%, 30% number from the trial is a good number given the screening criteria used for the FIGHT enrollment.
+Overall, gastric and gastroesophageal junction cancer globally is a big number. It's over [0.5 million], somewhere in the region of 640 million patients, that would be HER2 negative. That's about 85% of the total pool. And then about 30% of that would be FGFR2b positive. So that's in gastric and gastroesophageal.
+The number in the U.S. is obviously smaller on a per capita basis given the epidemiology of the disease in China, Japan and other markets in Asia. We think that the addressable opportunity here is in the neighborhood of about 30,000 patients in the U.S. on an annual incidence perspective.
+
+--------------------------------------------------------------------------------
+Operator    [21]
+--------------------------------------------------------------------------------
+Our next question comes from Mohit Bansal with Citigroup.
+
+--------------------------------------------------------------------------------
+Mohit Bansal,  Citigroup Inc., Research Division - Director and Analyst    [22]
+--------------------------------------------------------------------------------
+Great. Congrats on the deal. So Dave -- one question for David. So if you look at the -- so the company pipeline basically stratified patients on the basis of patients who were given a single dose of FOLFOX prior to dosing versus patients who are not given. And it does appear that the benefit is less for the patients who were given a single dose of FOLFOX prior to dosing. So could you just help us understand what was the rationale behind the stratification? And what do you think is the mechanistical reason why giving a single dose of FOLFOX prior had a little bit of less benefit?
+
+--------------------------------------------------------------------------------
+David M. Reese,  Amgen Inc. - EVP of Research & Development    [23]
+--------------------------------------------------------------------------------
+Yes. Thanks, Mohit. Again, I perhaps wouldn't overinterpret some subsets which are a little smaller. One thing that we've learned with -- in addition of various receptor tyrosine kinases over the year -- years in combination with chemotherapy is that there can be a timing effect of the antibody that actually enhances then the cytotoxic activity of chemotherapy. And certainly, going forward, we would plan on initiation of the antibody at the same time as one is initiating our chemotherapy moving forward.
+So again, I wouldn't over-interpret that. I think when you look across the swathe of the data, it really shows a nice interaction between the antibody and standard backbone chemotherapy.
+
+--------------------------------------------------------------------------------
+Operator    [24]
+--------------------------------------------------------------------------------
+Our next question comes from Chris Raymond with Piper Sandler.
+
+--------------------------------------------------------------------------------
+Christopher Joseph Raymond,  Piper Sandler & Co., Research Division - MD & Senior Research Analyst    [25]
+--------------------------------------------------------------------------------
+Congrats from us on the deal as well. I just wanted to maybe probe a little bit more on the AE profile. I know you guys, in an answer to a previous question, talked about a prophylactic strategy to address the ocular side effects. And I think I heard you guys mention that duration wasn't that different. But the dropout rate was quite a lot higher in the data that we saw in November. And just looking at the nature of the AEs, stomatitis was a pretty big driver. So I'm just kind of curious, can you give a little bit more color around the prophylactic strategy that you guys are talking about and how that addresses sort of the spectrum of AEs that were sort of driving the discontinuation rate differential?
+
+--------------------------------------------------------------------------------
+David M. Reese,  Amgen Inc. - EVP of Research & Development    [26]
+--------------------------------------------------------------------------------
+Yes. Thanks. Again, an important question. The stomatitis that was observed was much less of a driver in terms of dropout. And this is a side effect that oncologists are very familiar with. Part of it may -- is also potentially due to the 5 FU that's used as part of the backbone chemotherapy here. So -- commonly encountered with 5 FU containing regimens. And for those of you who are not familiar, stomatitis is sort of inflammation in the mouth in those tissues.
+Again, in terms of the ocular toxicity, there was no prophylaxis in the FIGHT trial based on the biology of this receptor in the corneum. We believe there's probably a disruption of the normal -- normal physiology and that things like hyperviscous eye drops can help restore that normal -- normal physiologic background and hopefully greatly mitigate the toxicity.
+In addition, patients will be monitored. And as I mentioned, the adverse event is reversible. So with short pauses in therapy, patients may then be able to resume therapy going on. These are very standard approaches in oncology.
+And then finally, as Murdo mentioned, despite all of this, the duration of therapy or the exposures, what we would call the dose intensity, will not really compromise at all and it clearly did not compromise efficacy.
+So we -- again, these are clearly real events, no question about it. But we believe that these are things that oncologists are familiar with dealing with and will incorporate into their practice patterns as they treat patients with this antibody.
+
+--------------------------------------------------------------------------------
+Operator    [27]
+--------------------------------------------------------------------------------
+Our next question comes from Michael Yee with Jefferies.
+
+--------------------------------------------------------------------------------
+Michael Jonathan Yee,  Jefferies LLC, Research Division - Equity Analyst    [28]
+--------------------------------------------------------------------------------
+I had a question maybe for Murdo and Peter. I'll give David a break. You -- I think we appreciate there's a lot of growth for this or a lot of opportunity for this product outside the U.S. and even excluding China, which is really the Zai Lab rights. Can you just maybe comment, do you expect that, that could be 2x or 3x what you're thinking for the U.S. side in terms of revenue opportunity? And can Peter explain what his guidance was for oUS, just strategic Amgen growth? And what would be driving that in addition to this product? So tie those 2 together.
+
+--------------------------------------------------------------------------------
+Murdo Gordon,  Amgen Inc. - Executive VP of Global Commercial Operations    [29]
+--------------------------------------------------------------------------------
+Thanks, Michael. I'll take a stab at the first part. I won't give you a multiple on what we're doing outside of the U.S. I do think you've got the overall framing right. There's a significant opportunity in Japan. Korea, Taiwan and other smaller markets across Asia. The western market is not insignificant. And obviously, now that we've been expanding globally, we have a very strong global footprint. We are, as I've mentioned before, making investments in Japan. We started last year with the advent of our full-blown independent affiliate after we bought out the JV share of the Astellas joint venture. And we've been applying a lot of investment in that market since. So this -- this will potentially slide in really nicely when we've got kind of a good, strong running start in Japan.
+We're also expanding in South Korea and Taiwan with broader public reimbursement of our portfolio there. So really, really nice opportunity. And the royalty revenue on China is also not insignificant. So lots of opportunity in that market.
+Again, we've got to do a lot of work just to make sure that we understand the FGFR2b expression by market. There may be some variability here in the incidence of FGFR2b. And we're going to do the work that's necessary with Dave's team to get that mapped and really assess what the potential revenue opportunity. But we're extremely excited about this. The strategic fit for this asset is solid and, as Peter mentioned, it's really good to help accelerate our growth outside the U.S. But I'll turn it back to Peter for the other part of your question.
+
+--------------------------------------------------------------------------------
+Peter H. Griffith,  Amgen Inc. - Executive VP & CFO    [30]
+--------------------------------------------------------------------------------
+Thank you, Murdo. Thanks for the question, Mike. I'm glad you asked it. As I have previously, we guide that 25% or so of our growth over the next 9 or 10 years, we expect to come from the JAPAC region. So the strategic Amgen growth that we've got going to come from, as Murdo said, the general medicine off brands, China, Japan, Southeast Asia. That's what we expect to see. So we're very delighted that this fits nicely into that profile. So thanks for the question.
+
+--------------------------------------------------------------------------------
+Operator    [31]
+--------------------------------------------------------------------------------
+Our next question comes from Jay Olson with Oppenheimer.
+
+--------------------------------------------------------------------------------
+Jay Olson,  Oppenheimer & Co. Inc., Research Division - Executive Director & Senior Analyst    [32]
+--------------------------------------------------------------------------------
+Congrats on the deal. Since Five Prime has a number of other molecules in the pipeline besides bema, can you maybe talk about the potential for some of those other assets and how they would fit into Amgen's oncology portfolio?
+
+--------------------------------------------------------------------------------
+David M. Reese,  Amgen Inc. - EVP of Research & Development    [33]
+--------------------------------------------------------------------------------
+Yes, let me briefly address that, Jay. This is Dave. So of course, we're well aware of those assets, most of which are immuno-oncology agents. And so what we're going to do going forward, they'll be evaluated on an asset-by-asset basis for fit and promise and would become part of the Amgen portfolio and handled as such. So I don't think we're ready to issue guidance on the rest of the portfolio right now, but we'll talk about that over time as we really dig into the scientific data.
+
+--------------------------------------------------------------------------------
+Operator    [34]
+--------------------------------------------------------------------------------
+Our next question is from Robyn Karnauskas with Truist Security.
+
+--------------------------------------------------------------------------------
+Robyn Kay Shelton Karnauskas,  Truist Securities, Inc., Research Division - Research Analyst    [35]
+--------------------------------------------------------------------------------
+So I guess I'll ask the one I thought would have been asked already. You've done -- you have KRAS, which is about to be approved. And then this deal, which could be a large product for you in oncology. Are you -- are you more directed toward oncology or leaning toward more oncology assets that you could leverage and pull in now that you're going to have a sales force in this space or a bigger sales force in this space? And then how much room do you have to do more deals? Should we expect more deals or a pause and some smaller-type transactions?
+
+--------------------------------------------------------------------------------
+Murdo Gordon,  Amgen Inc. - Executive VP of Global Commercial Operations    [36]
+--------------------------------------------------------------------------------
+Dave, do you want to start with the therapeutic question?
+
+--------------------------------------------------------------------------------
+David M. Reese,  Amgen Inc. - EVP of Research & Development    [37]
+--------------------------------------------------------------------------------
+Yes, sure. I'll be happy to start with the therapeutic question. Robyn, I don't -- as we've reiterated, we're in 6 therapeutic areas in terms of our marketed products and in research. We are concentrated in cardiometabolic disease, inflammation and oncology. I don't think that this changes our perspective that the appropriate assets across that loss of therapeutic areas are of interest, and so our aperture remains open across that landscape, with all of the sorts of parameters in terms of capital allocation that Peter has outlined many times.
+Murdo, you may want to talk about the commercial fit component here.
+
+--------------------------------------------------------------------------------
+Murdo Gordon,  Amgen Inc. - Executive VP of Global Commercial Operations    [38]
+--------------------------------------------------------------------------------
+Yes. I mean this is -- it's about as good as it gets when you look at a late-stage oncology asset that you want to bring into the portfolio. It fits therapeutically. We already cover a lot of these customers with our existing portfolio. It fits strategically because of the growth that we're generating outside the U.S. And it fits for Amgen given our capabilities. We've got strength in research and development under Dave's leadership, an extremely strong manufacturing organization under Esteban Santos' leadership that, as Dave mentioned, can be brought to bear here to accelerate this program. And I'd like to think we've got a world-class commercial organization deployed around the world ready to take a product like this as quickly as possible to the market.
+And I'd just remind you, we did a big inflammation deal recently to acquire a product called Otezla. So I wouldn't say our focus has shifted to oncology. I think Dave described our -- our strategic focus quite well. We've got 3 development areas where we're active in our own pipeline, 6 commercial therapeutic areas. And we're always on the lookout for high-quality assets like this to add to the Amgen internal pipeline.
+
+--------------------------------------------------------------------------------
+Peter H. Griffith,  Amgen Inc. - Executive VP & CFO    [39]
+--------------------------------------------------------------------------------
+If I might jump in too, I'd just like to add, Robin. And thank you for the question. It's Peter. I think we're going to continue to accelerate what I'd call our balanced innovation, internal and external innovation. Strong history at Amgen of being balanced between the 2. As Murdo and Dave have both articulated, this is a great opportunity for us to be able to move forward on that.
+On the internal side, as we mentioned last month, we're going to look forward to investing more money in our internal innovation in 2021. Soto and tezi are e great evidence of that working really, really well.
+And on the external side, I think Murdo hit it. I think Otezla was a deployment of $13.4 billion of our shareholders' capital. We proved we're world-class integrators in that one. So we're excited to team with Five Prime here and get this one working really, really well, as Dave and Murdo and the team are ready to do.
+And in terms of looking at more transactions, we are going to continue our disciplined capital allocation that reflects our priorities. Capital allocation will continue to be a forethought here at Amgen, not an afterthought. We'll continue to be disciplined. And we'll continue to look for opportunities that -- where we're a best buyer, one of the best, where the returns are above our hurdle rate, with 3 discovery research areas. In this case, as you point out, onc, and where we can promptly integrate.
+So we'll continue to go forward on that basis. We're Amgen, we tend to see just about everything out there, and we'll continue to interrogate through those opportunities as quickly as possible and be patient in selecting the ones that optimize returns for our shareholders and create opportunities most importantly for our patients.
+
+--------------------------------------------------------------------------------
+Operator    [40]
+--------------------------------------------------------------------------------
+From Kennen MacKay with RBC Capital Markets.
+
+--------------------------------------------------------------------------------
+Kennen B. MacKay,  RBC Capital Markets, Research Division - MD & Co-Head of US Biotechnology Research    [41]
+--------------------------------------------------------------------------------
+Congrats on the deal. Wondering if there's any synergistic overlap within your current pipeline that you were thinking about maybe with a couple of your BiTes like AMG 199 or 910, whether there was synergy potentially outside your pipeline, as mentioned with sort of checkpoint inhibitors?
+
+--------------------------------------------------------------------------------
+David M. Reese,  Amgen Inc. - EVP of Research & Development    [42]
+--------------------------------------------------------------------------------
+Yes, Kevin, thanks. Important question. Yes, I think, obviously, this provides a nice complement to the BiTes. And down the road, we would obviously be looking at whether combinations, whether together or sequentially, as those assets move forward. So more to come there.
+And the -- I think that the combination opportunities for this antibody are not restricted to backbone chemotherapies, but other agents, such as checkpoint inhibitors, even tyrosine kinase inhibitors. And those sorts of combinations will be things we're interested in exploring as well.
+
+--------------------------------------------------------------------------------
+Operator    [43]
+--------------------------------------------------------------------------------
+Our next question is from Alethia Young with Cantor Fitzgerald.
+
+--------------------------------------------------------------------------------
+Alethia Rene Young,  Cantor Fitzgerald & Co., Research Division - Director of Equity Research & Head of Healthcare Research    [44]
+--------------------------------------------------------------------------------
+I just wanted to talk about the next indication squamous. Is there a reason maybe why you chose that over? Is it perhaps similarity in the prevalence? Or is it your relativity to KRAS? Or is it something in the biology? Or perhaps it's just a mix. So I would just be curious to kind of get your perspective on that.
+
+--------------------------------------------------------------------------------
+David M. Reese,  Amgen Inc. - EVP of Research & Development    [45]
+--------------------------------------------------------------------------------
+Yes. Alethia, thanks for the question. I think it's right now that's where there seems to be the strongest-ever evidence in terms of overexpression in squamous non-small cell lung cancer. And so that's one reason to put that one near the top of the queue.
+And then as you're implying, there are a variety of other indications where subset of the tumors have FGFR2b overexpression and we'll be doing signal-seeking clinical studies in those areas as well.
+
+--------------------------------------------------------------------------------
+Operator    [46]
+--------------------------------------------------------------------------------
+Our next question is from Umer Raffat with Evercore ISI.
+
+--------------------------------------------------------------------------------
+Unidentified Audience Member    [47]
+--------------------------------------------------------------------------------
+This is Bill for Umer. Two if we may for David. Could you share some thoughts on why the PFS and OS curve seems to separate rather late after 6 months of treatment? And coincidently, the median duration of bema exposure is 24 weeks, roughly 6 months.
+And another one is, could you remind us in the FGFR2b IHC below 5%, that's roughly only 30 patients or so. Do you see any PFS or OS trend of benefit?
+
+--------------------------------------------------------------------------------
+David M. Reese,  Amgen Inc. - EVP of Research & Development    [48]
+--------------------------------------------------------------------------------
+Yes. In terms of the later separation of the curves, I mean this is not unusual when you're combining antibodies with standard backbone chemotherapy. So I don't view that as anything unusual at all.
+And then as we previously mentioned, there does appear to be an expression response association. Increasing levels of FGFR2b overexpression appear to be associated with enhanced efficacy. This is also not uncommon at all for other receptor tyrosine kinases in which antibody therapy in combination with chemotherapy is effective.
+So one of the -- again, one of the advantages we believe here is the internal consistency of the data and the fact that you've got analogs from HER2, EGFR and other receptor signaling systems.
+
+--------------------------------------------------------------------------------
+Operator    [49]
+--------------------------------------------------------------------------------
+Our next question comes from Michael Schmidt with Guggenheim.
+
+--------------------------------------------------------------------------------
+Michael Werner Schmidt,  Guggenheim Securities, LLC, Research Division - Senior Analyst & Senior MD    [50]
+--------------------------------------------------------------------------------
+I just had one more on the deal itself. Just curious if it was a competitive process and whether it was sort of an opportunistic acquisition on the back of the Phase II data or whether it may be part of an increased focus in terms of going after product candidates that are addressing genetic drivers, specifically within oncology.
+
+--------------------------------------------------------------------------------
+Peter H. Griffith,  Amgen Inc. - Executive VP & CFO    [51]
+--------------------------------------------------------------------------------
+Yes, Michael, it's Peter. Thank you for your question. I think this was an opportunity. As soon as we looked at it, we realized it fit in wonderfully strategically. And I think the really important part of it for us is we really feel like we can leverage, as I said in my opening comment, any number of our strengths in these areas to accelerate it forward. From the product development to process development, manufacturing, delivering it around the world, the strength in JAPAC that we've demonstrated, we went through $1 billion in revenue there in 2020. So we just feel like the fit is outstanding. So we're very pleased with that.
+On the second part of your question, I think I'll turn that one over to Dave and let him address that.
+
+--------------------------------------------------------------------------------
+David M. Reese,  Amgen Inc. - EVP of Research & Development    [52]
+--------------------------------------------------------------------------------
+And can you just remind me again, Mike, what the second part of that question was?
+
+--------------------------------------------------------------------------------
+Murdo Gordon,  Amgen Inc. - Executive VP of Global Commercial Operations    [53]
+--------------------------------------------------------------------------------
+Dave, it was related to whether or not this deal is refocusing on targeted oncology.
+
+--------------------------------------------------------------------------------
+David M. Reese,  Amgen Inc. - EVP of Research & Development    [54]
+--------------------------------------------------------------------------------
+Yes. Yes. Look, our general approach is to generate precision oncology. One of our beliefs is that the future of oncology broadly is the marriage of immuno-oncology and precision medicine targeting specific molecular alterations. And I think this fits nicely within that broader strategic rubric and a complement to the other assets in our portfolio.
+
+--------------------------------------------------------------------------------
+Operator    [55]
+--------------------------------------------------------------------------------
+Our next question comes from Dane Leone with Raymond James.
+
+--------------------------------------------------------------------------------
+Dane Vincent Leone,  Raymond James & Associates, Inc., Research Division - Research Analyst    [56]
+--------------------------------------------------------------------------------
+Congratulations on the deal. One -- I guess, 2 parts for me. The first part being can you maybe just comment in terms of the FIGHT study in the dropout rate, the substantial dropout rate that we saw in the bemarituzumab arm around corneal tox. On the OSS outcome or the OS outcomes in the ITT patient population, were those patients once they dropped out due to corneal tox, were they put into the chemo arm? So essentially, would they count on the OS curve for the ITT patient population even though they were then switched to what was effectively the placebo regimen? So any insight there?
+And then maybe power sliding to a different topic. A lot of questions we got in this morning was just kind of what you're thinking about target oncology in lung, specifically, given the ongoing KRAS program importance to your overall oncology franchise. Are you still looking to maybe ratchet up some of the investment, both internally and externally, around lung and targeted oncology going forward?
+
+--------------------------------------------------------------------------------
+David M. Reese,  Amgen Inc. - EVP of Research & Development    [57]
+--------------------------------------------------------------------------------
+Sure. Thanks, Dane . In terms of the FIGHT study and the dropouts due to corneal toxicity, I think we've addressed that. We're hoping we'll be able to mitigate that with prophylaxis measures. And it clearly did not impede the efficacy data that were generated.
+In terms of the overall survival outcomes of the trial, patients are still being followed for survival in this trial and there will be updated looks at that. But when you evaluate an intention to treat population, if someone drops off the antibody, you don't switch their data to the control arm, but rather they are assessed in the arm to which they were randomized, and that's how it was done here.
+And then finally, in terms of targeted oncology, I think we've just talked about that. We believe that the future here is a marriage between immuno-oncology and precision oncology, and we're always looking internally and externally for assets that we believe will provide a complement to our portfolio as we carried out the -- as we carry out the -- as we do further drug development in this therapeutic area.
+
+--------------------------------------------------------------------------------
+Arvind Sood,  Amgen Inc. - VP of IR    [58]
+--------------------------------------------------------------------------------
+Carmen, as we are getting to the end of the hour, why don't we take one last question, please?
+
+--------------------------------------------------------------------------------
+Operator    [59]
+--------------------------------------------------------------------------------
+Our next question is from Colin Bristow with UBS.
+
+--------------------------------------------------------------------------------
+Colin Nigel Bristow,  UBS Investment Bank, Research Division - Analyst    [60]
+--------------------------------------------------------------------------------
+Congrats on the acquisition. On your valuation process, can you speak at least qualitatively to how much value assigned for the assets outside of bema. It sounds like your comments it really wasn't much if at all.
+And then I'm just curious, was there any data you had access to that isn't in the public domain which gave you greater conviction in the strength of the deal?
+
+--------------------------------------------------------------------------------
+David M. Reese,  Amgen Inc. - EVP of Research & Development    [61]
+--------------------------------------------------------------------------------
+Yes. As we mentioned, the primary driver -- value driver here was gastric cancer. We view as upside indications beyond that and plan on doing the appropriate development programs to explore those indications, and more on that as the data emerge. But you've heard Murdo and me described the large unmet medical need globally in gastric cancer, and we believe that is our primary value driver here.
+Murdo, I don't know if you'd like to add anything.
+
+--------------------------------------------------------------------------------
+Murdo Gordon,  Amgen Inc. - Executive VP of Global Commercial Operations    [62]
+--------------------------------------------------------------------------------
+No, I think that's right, David. Sorry. Sorry for the echo there. I think that's right. We also see the broader opportunity in the rest of the pipeline as upside to the value of this deal. We were -- we were anchored on what we saw was a really good strategic fit with bema. And we saw that we really have an opportunity to accelerate this program, broaden it. And if we do see activity in other malignancies, we'll pursue those quickly. And if we see combinatorial approaches that work, we'll pursue those quickly. And we're in a really good position to do that broadly across our portfolio and in partnership potentially with others.
+
+--------------------------------------------------------------------------------
+Peter H. Griffith,  Amgen Inc. - Executive VP & CFO    [63]
+--------------------------------------------------------------------------------
+Yes, if I can add. Colin, it's Peter here. We're certainly prepared. And as you know, we have the firepower to be able to back up whatever Dr. Reese and research and development come in with additional opportunities beyond gastric. So we're thinking about that, and we're certainly prepared to back them up and certainly have the firepower to do that.
+
+--------------------------------------------------------------------------------
+Arvind Sood,  Amgen Inc. - VP of IR    [64]
+--------------------------------------------------------------------------------
+Great. Thanks, Peter. So with that, I would like to thank all of you for your participation. Hopefully, you have a much better understanding of the strategic value of this acquisition. And look forward to keeping the dialogue open and also look forward to your feedback. Thanks again for your participation. Have a good day.
+
+--------------------------------------------------------------------------------
+Operator    [65]
+--------------------------------------------------------------------------------
+Thank you. And with that, ladies and gentlemen, we conclude today's conference call. Thank you for participating. You may now disconnect.
+
+
+
+
+
+
+
+--------------------------------------------------------------------------------
+Definitions
+--------------------------------------------------------------------------------
+PRELIMINARY TRANSCRIPT: "Preliminary Transcript" indicates that the 
+Transcript has been published in near real-time by an experienced 
+professional transcriber.  While the Preliminary Transcript is highly 
+accurate, it has not been edited to ensure the entire transcription 
+represents a verbatim report of the call.
+
+EDITED TRANSCRIPT: "Edited Transcript" indicates that a team of professional 
+editors have listened to the event a second time to confirm that the 
+content of the call has been transcribed accurately and in full.
+
+--------------------------------------------------------------------------------
+Disclaimer
+--------------------------------------------------------------------------------
+Refinitiv reserves the right to make changes to documents, content, or other 
+information on this web site without obligation to notify any person of 
+such changes.
+
+In the conference calls upon which Event Transcripts are based, companies 
+may make projections or other forward-looking statements regarding a variety 
+of items. Such forward-looking statements are based upon current 
+expectations and involve risks and uncertainties. Actual results may differ 
+materially from those stated in any forward-looking statement based on a 
+number of important factors and risks, which are more specifically 
+identified in the companies' most recent SEC filings. Although the companies 
+may indicate and believe that the assumptions underlying the forward-looking 
+statements are reasonable, any of the assumptions could prove inaccurate or 
+incorrect and, therefore, there can be no assurance that the results 
+contemplated in the forward-looking statements will be realized.
+
+THE INFORMATION CONTAINED IN EVENT TRANSCRIPTS IS A TEXTUAL REPRESENTATION
+OF THE APPLICABLE COMPANY'S CONFERENCE CALL AND WHILE EFFORTS ARE MADE TO
+PROVIDE AN ACCURATE TRANSCRIPTION, THERE MAY BE MATERIAL ERRORS, OMISSIONS,
+OR INACCURACIES IN THE REPORTING OF THE SUBSTANCE OF THE CONFERENCE CALLS.
+IN NO WAY DOES REFINITIV OR THE APPLICABLE COMPANY ASSUME ANY RESPONSIBILITY FOR ANY INVESTMENT OR OTHER
+DECISIONS MADE BASED UPON THE INFORMATION PROVIDED ON THIS WEB SITE OR IN
+ANY EVENT TRANSCRIPT. USERS ARE ADVISED TO REVIEW THE APPLICABLE COMPANY'S
+CONFERENCE CALL ITSELF AND THE APPLICABLE COMPANY'S SEC FILINGS BEFORE
+MAKING ANY INVESTMENT OR OTHER DECISIONS.
+--------------------------------------------------------------------------------
+Copyright 2021 Refinitiv. All Rights Reserved.
+--------------------------------------------------------------------------------

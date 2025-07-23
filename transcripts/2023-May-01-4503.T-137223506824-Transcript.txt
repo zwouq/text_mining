@@ -1,0 +1,646 @@
+
+
+Refinitiv StreetEvents Event Transcript
+E D I T E D   V E R S I O N
+
+Astellas Pharma Inc to Acquire IVERIC bio Inc M&amp;A Presentation
+MAY 01, 2023 / 2:00AM GMT
+
+================================================================================
+Corporate Participants
+================================================================================
+
+ * Jotaro Suzuki
+   Astellas Pharma Inc. - VP and Primary Focus Lead of Blindness & Regeneration
+ * Hiromitsu Ikeda
+   Astellas Pharma Inc. - Corporate Head of Advocacy & Relations
+ * Naoki Okamura
+   Astellas Pharma Inc. - President, CEO,CFO & Director
+ * Unidentified Company Representative
+    - 
+
+================================================================================
+Conference Call Participiants
+================================================================================
+
+ * Madoka Sato
+   Schroders plc - Analyst
+ * Kasumi Haruta
+   Crédit Suisse AG, Research Division - Research Analyst
+ * Akinori Ueda
+   Goldman Sachs Group, Inc., Research Division - Equity Analyst
+ * Unidentified Analyst
+    - 
+ * Stephen Barker
+   Jefferies LLC, Research Division - Equity Analyst
+ * Hidemaru Yamaguchi
+   Citigroup Inc., Research Division - Research Analyst
+ * Shinya Tsuzuki
+   Mizuho Securities Co., Ltd., Research Division - Analyst
+ * Seiji Wakao
+   JPMorgan Chase & Co, Research Division - VP
+ * Kazuaki Hashiguchi
+   Daiwa Securities Co. Ltd., Research Division - Research Analyst
+ * Shinichiro Muraoka
+   Morgan Stanley, Research Division - Research Analyst
+
+================================================================================
+Presentation
+--------------------------------------------------------------------------------
+Hiromitsu Ikeda,  Astellas Pharma Inc. - Corporate Head of Advocacy & Relations    [1]
+--------------------------------------------------------------------------------
+Thank you for taking time out of your busy schedule to join us today for Astellas Pharma's briefing session on the acquisition of Iveric Bio of the United States. My name is Ikeda of the Corporate Advocacy and Relations Department. I will be your moderator today. Thank you for your cooperation in advance. 
+(Operator Instructions) Today's attendees are Naoki Okamura, President and Representative Director and CEO; Dr. Jotaro Suzuki, Primary Focus Lead, Blindness and Beyond. Simultaneous interpretation will be provided between English and Japanese, including the Q&A session. Please note that we cannot guarantee the accuracy of the simultaneous interpretation. 
+(Operator Instructions) Today's explanation will be given in accordance with the presentation material posted on our website. Let me read cautionary notice. 
+All the statements in this presentation slides other than statements of historical facts are statements that could be deemed forward-looking statements. These presentation slides contain forward-looking statements relating to, among other things, the proposed acquisition of Iveric Bio by Astellas and the objectives such proposed acquisition.
+Astellas' and Iveric Bio's beliefs and expectations regarding the potential benefits sought to be achieved by Astellas' proposed acquisition of Iveric Bio effects, the potential effects of the proposed acquisition of both Astellas and Iveric Bio, the expected benefits and success of Iveric Bio's product candidate, the potential for and anticipated timing for approval of ACP, the anticipated financing of the proposed acquisition and the anticipated timing of completion of the proposed acquisition, each of which involve substantial risks and uncertainties that could cause actual results to differ material from those expressed or implied by such statements.
+Astellas and Iveric Bio have based these forward-looking statements on their current expectations and projections about future events and trends that they believe may not -- may affect the financial condition and results of operations, business strategy, short-term and long-term business operations and objectives and financial needs of Astellas and Iveric Bio, but they cannot guarantee future events, results, actions, levels of activity, performance or achievements, business and market conditions, the timing and results of biotechnology development and potential regulatory approval. 
+Next, I will read additional information and where to find it.
+In connection with the proposed acquisition, Iveric Bio will be filing documents with the SEC, including preliminary and definitive proxy statements relating to the proposed acquisition. This press release is not a substitute for the proxy statement or any other document which Iveric Bio may file with the SEC. The definitive proxy statement will be mailed to Iveric Bio's stockholders in connection with the proposed acquisition. Before making any voting decision, Iveric Bio's investors and the security holders are urged to read the preliminary and the definitive proxy statements and other -- any other documents to be filed with the SEC in connection with the proposed transaction or incorporated by the reference in the proxy statement when they become available because they will contain important information about proposed acquisition. 
+Any voting in respect of resolutions to be proposed at Iveric Bio's stockholder meeting to approve the proposed transaction or other responses in relation to the proposed transaction should be made only on the basis of the information contained in Iveric Bio's proxy statement. Investors and security holders may obtain free copies of these documents when they become available and other related documents filed with the United States Securities and Exchange Commission, SEC, at the SEC's website and all documents filed by Iveric Bio with the SEC are available to all stockholders of Iveric Bio free of charge at its website. 
+Next, I will read the participants in the solicitation. Iveric Bio and its Directors, executive officers and other members of management and certain other people may be deemed to be participants in this solicitation of proxies in connection with the proposed acquisition. Information about Iveric Bio's Directors and executive officers is included in the proxy statement for Iveric Bio's Annual Meeting of Stockholders for 2023 filed with the SEC on April 5, 2023. Additional information regarding these persons and their interest in the merger will be included in the proxy statement relating to the proposed acquisition when it is filed with the SEC.
+These documents when available can be obtained free of charge from the sources indicated above. 
+Let me read the important additional information. And this does not continue -- this communication is for informational purposes only and is not intended to and does not constitute or form part of an offer, invitation or solicitation of an offer or invitation to purchase, otherwise acquire, subscribe for, sell or otherwise disposal of Iveric Bio common stock or any other securities or the solicitation of any vote or approval in any jurisdiction pursuant to the proposed acquisition or otherwise nor shall there be any sale, issuance or transfer of securities in any jurisdiction in contravention of applicable law. 
+Let us start the presentation. Please start, Mr. Okamura.
+
+--------------------------------------------------------------------------------
+Naoki Okamura,  Astellas Pharma Inc. - President, CEO,CFO & Director    [2]
+--------------------------------------------------------------------------------
+Hello, everyone. I'm Naoki Okamura from Astellas Pharma Inc. Thank you very much for joining us today in spite of a short notice. We explain our acquisition of Iveric Bio Inc., which we announced this morning at 8:00 a.m. JST.
+Page 2 and 3 are cautionary notice on information. And this was explained by Ikeda earlier, I'm not going to read these pages. Page 4 is the agenda for today. I will explain the transaction summary and overview of Iveric Bio and then strategic rationales for this acquisition. I will also touch on financial considerations for this transaction as well.
+On Page 5, I will explain the transaction summary. Purchase price is $40 per share in cash. The purchase price represents a premium of 64% to Iveric Bio's unaffected closing share price as of March 31, 2023, and a premium of 75% to Iveric Bio's 30 trading day volume weighted average price as of March 31, 2023. 
+The acquisition amount is about $5.9 billion in total. Also acquisition method, a wholly owned subsidiary of Astellas U.S. Holding, Inc. will acquire 100% of the outstanding shares of Iveric Bio. Iveric Bio will become an indirectly wholly owned subsidiary of Astellas.
+This acquisition is expected to close during the second quarter of FY 2023 subject to approval by Iveric Bio's stockholders and other customary closing conditions, including receipt of required antitrust regulatory approval. The impact of this acquisition on our financial results is not reflected in our full year consolidated financial forecast we announced on April 27, 2023. We are reviewing the impact, and we'll promptly announce any events that are to be public reported. 
+On Page 6, I will introduce an overview of Iveric Bio Inc. Iveric Bio is a biopharmaceutical company headquartered in New Jersey in the United States. It focuses on the discovery and development of therapeutic drugs in the field of ophthalmology with high unmet medical needs. The number of employees is about 260 in total, about 60 of them are engaging in R&D. The company has a commercial team of about 90 people. It's preparing to establish a commercial foundation in the United States for sales and marketing activities of its lead program avacincaptad pegol, herein after called ACP, after obtaining marketing approval. 
+In its current pipeline, the company filed NDA for ACP with U.S. FDA for geographic atrophy secondary to age-related macular degeneration. It's also considering a rare disease called Stargardt disease as an additional indication as well. In addition, a small molecule program as well as multiple gene therapy programs using adeno-associated virus for retinal diseases are in research stage. 
+Turning to Page 7. We think there are 2 major strategic rationales for this acquisition, which I'm going to explain. First, the acquisition of its lead program, ACP. ACP has potential to become standard of care in the geographic atrophy market with large patient population and significant unmet medical needs.
+If the acquisition of ACP and its approval and launch is successful in line with the expectations, ACP can serve as a new revenue-generating pillar to make sure of the achievement of our FY 2025 revenue targets set in CSP 2021. Also, ACP is anticipated to help compensate for the decline in sales after XTANDI LOE. 
+Secondly, we can establish foundational ophthalmology capabilities, which will lead to the future development of one of our primary focuses, blindness and regeneration. We hope that we can further promote our programs by incorporating Iveric Bio's strength in commercial, medical and R&D areas in ophthalmology. 
+On the next page, I will explain the details of each strategic rationale. On Page 8, I will explain an overview of the lead program, ACP. ACP is a PEGylated single-strand RNA aptamer with action to inhibit complement factor C5 targeting diseases such as geographic atrophy, secondary to age-related macular degeneration.
+Overactivity of the complement system is suspected to cause the degeneration of retinal cells and affect the onset and deterioration of geographic atrophy and vision loss. By inhibiting complement factor C5, ACP prevents the progression of geographic atrophy as was demonstrated in clinical studies. 
+As for ACP's mechanism action in detail, please refer to Page 19 in the appendix. 
+Based on these data, ACP is currently the only drug granted with breakthrough therapy designation for this disease by U.S. FDA. In February this year, the NDA filing was accepted by FDA with designation for priority review. PDUFA date is set for August 19 this year. We are hoping that ACP will be approved as an innovative treatment for ocular diseases with very high unmet medical needs. 
+On Page 9, I will explain the pathogenesis of geographic atrophy, secondary to age-related macular degeneration, a target disease for ACP. From hereon, we are going to use abbreviations, GA for geographic atrophy and AMD for age-related macular degeneration.
+AMD is one of the main reasons for moderate to severe vision loss in aging adults. The macula is a small area in the center of the retina responsible for central vision. As AMD progresses, the loss of retinal epithelial cells and underlying blood vessels in the macula results in marked swelling and/or atrophy of retinal tissue. AMD has 2 types: wet and dry AMD. 
+Wet AMD is caused by abnormal angiogenesis, while dry AMD is caused by the atrophy of macular tissues. For wet AMD, effective drugs such as anti-VEGF therapies have been launched. In dry AMD, which accounts for majority of AMD, with disease progression, it will develop a GA. GA leads to irreversible loss of vision in patients. About 40% of the eyes with GA are blinded. 
+In the United States, at least about 1.6 million people are estimated to have GA, but currently, there is only 1 approved treatment. This is a disease with significant unmet medical needs and the long-standing need for effective treatment.
+On Page 10, we summarize the product pipeline for the target disease of GA by clinical phase. They are also arranged by modality from top to bottom, small molecules, nucleic acids and antibodies, genes and cells. As the first therapeutic agent, Apellis, SYFOVRE, complement factor C3 inhibitor, was approved by the U.S. FDA in February 2023. 
+NDA has been submitted for ACP as a second therapeutic agent for GA. We expect that ACP will be a front runner in this disease for which there has been no treatment until now, and that it will provide value to many GA patients. In addition, as you know, ASP7317 is our lead program in cell therapy for which Phase I trial is currently ongoing. 
+We believe that the addition of ACP to ASP7317 will provide therapeutic options for patients with GA with various degrees of severity and will help us build a strong product portfolio going forward. 
+On Page 11, from here, I will discuss the 2 pivotal trials, GATHER1 and GATHER2. These studies evaluated the efficacy and safety of intravitreal ACP in patients with GA secondary to AMD.
+The primary endpoint was the change in the area of GA lesions measured by fundus autofluorescence at 12 months from baseline. Three doses of 1 milligram, 2 milligram and 4 milligram were studied in GATHER1 and the number of patients was increased with 2 milligram, which was determined to be optimal and further studied in GATHER2.
+Page 12, the results of the primary endpoints of both studies are described. GA area can be measured by analysis of fundus autofluorescency images. It is known that the expansion of the lesion is closely related to visual loss and is considered to be an important endpoint in verifying treatment efficacy. In both the GATHER1 and GATHER2 studies, changes in GA area were compared before and 12 months after the treatment. 
+In GATHER1, the mean change in GA area from baseline to month 12 was reduced by 27.4% with ACP compared to the Sham group. 
+In GATHER2, where the number of patients was further expanded. Similarly, 14.3% reduction was observed compared to the Sham group. 
+Page 13. Data on the effect on vision loss are shown here. The results for GATHER1 and GATHER2 are combined in the post hoc time-to-event analysis, counting the number of subjects with significant vision loss from baseline. As shown in the graph, in the Sham group, over 8% of patients had significant vision loss after 12 months. 
+In contrast, fewer than 4% of subjects in the ACP group experienced a vision loss for hazard ratio of 0.44 or a 56% reduction in risk of vision loss. These results suggest the promising efficacy of ACP, which could be of great value to patients with GA for which effective treatment options have been limited.
+On Page 14, we discuss the safety data. There are no clear difference in the incidence of adverse events, including serious ones between the ACP treated and the Sham groups in either of the studies. 
+Regarding choroidal neovascularization or CNV, a comprehensive CNV surveillance program ensures a consistent safety profile. In addition, the risk of infection is a concern because complement factors are involved in protection against infection. As shown at the bottom of the table, no infectious endophthalmitis was identified. Based on these results, we believe ACP has a favorable safety profile. 
+On Page 15, we present the medium-term revenue for illustrative purposes for our key products following this acquisition. We believe that ACP's successful approval and growth will better ensure that we achieve our sales targets for FY 2025 (inaudible) our CSP 2021. And we expect ACP to continue to grow further in the second half of [2020s] becoming along with fezolinetant and PADCEV the third pillar of our business that will compensate for the decline in sales due to LOE of XTANDI while reducing our dependence on specific products. 
+On Page 16, let me explain the second strategic rationale, which is to establish foundational ophthalmology capabilities, roughly dividing it into 2 parts. First, the enhanced commercial capabilities and the market access proficiencies in ophthalmology, we will build a foundation to support the future launch and commercialization of primary focus drive assets, including ASP7317. 
+In addition, the company will gain access to Iveric Bio's network of ophthalmology experts and medical institutions know-how from successful clinical development in GA and the talent and assets related to retinal gene therapy through the acquisition of these foundational capabilities, we aim to establish a position as a leader at the forefront of ophthalmology field, an area with high unmet medical needs. 
+On Page 17. In addition to cash on hand, we plan to procure a total of approximately JPY 800 billion through short-term loans and CP to fund this acquisition. Subsequently, the company expects to raise funds through the issuance of corporate bonds and long-term loans and to make the funds permanent as soon as possible. The new debt created by the acquisition can be repaid within the next 5 to 7 years through robust cash flow. There will be no change in the capital allocation policy described on the right side of the slide after this acquisition. We will continue to diligently control our financial structure to allow for future opportunistic investments. We also plan to pay dividends in accordance with CSP 2021. 
+This concludes my presentation. Thank you very much for your attention.
+
+
+================================================================================
+Questions and Answers
+--------------------------------------------------------------------------------
+Hiromitsu Ikeda,  Astellas Pharma Inc. - Corporate Head of Advocacy & Relations    [1]
+--------------------------------------------------------------------------------
+Thank you very much. Next, we are going to entertain questions from the audience. (Operator Instructions) Now the flow is open to questions. Thank you very much. First, Mr. Yamaguchi from Citigroup Securities.
+
+--------------------------------------------------------------------------------
+Hidemaru Yamaguchi,  Citigroup Inc., Research Division - Research Analyst    [2]
+--------------------------------------------------------------------------------
+Can you hear me?
+
+--------------------------------------------------------------------------------
+Unidentified Company Representative,   -     [3]
+--------------------------------------------------------------------------------
+Yes, we can hear you.
+
+--------------------------------------------------------------------------------
+Hidemaru Yamaguchi,  Citigroup Inc., Research Division - Research Analyst    [4]
+--------------------------------------------------------------------------------
+I have a few questions. First of all, Apellis product and the differentiation from Apellis product, I understand the unmet medical needs in the differentiation from the Apellis product at 24 months, there was a reduction by 17 or 20. The data between the 2 studies was different from ACP. What's the differentiating point compared to this Apellis product.
+
+--------------------------------------------------------------------------------
+Naoki Okamura,  Astellas Pharma Inc. - President, CEO,CFO & Director    [5]
+--------------------------------------------------------------------------------
+Thank you for your question. There is no head-to-head comparative study. With a different reduction rate, what is the differentiation? I think it's too early to discuss that. In terms of the mode of action, it related to the complement system, Apellis product is to inhibit C3 more upstream in the system. But according to our expectation, C5 is more downstream, closer to the disease conditions, which may contribute to safety, we cannot rule it out. But based on the clinical studies in a small sample size, it's too early to discuss that point. So as of now, which is superior or inferior it's difficult to say. Having said so, we are going to be either a second [drop] in this market, but we don't think we are inferior to the leading product.
+
+--------------------------------------------------------------------------------
+Hidemaru Yamaguchi,  Citigroup Inc., Research Division - Research Analyst    [6]
+--------------------------------------------------------------------------------
+My second question is regarding impacts on the medium-term management plan. I think that there are various factors to be considered. The third blockbuster candidate as you mentioned, I would know that it is too early to mention, but I think that there will be a potentially big opportunity for this. And so if you have any projection regarding the potential sale side or revenue. And going forward, if you can such information when it becomes available?
+
+--------------------------------------------------------------------------------
+Naoki Okamura,  Astellas Pharma Inc. - President, CEO,CFO & Director    [7]
+--------------------------------------------------------------------------------
+Understood. Thank you very much for your question. Today, we would like to refrain from giving you any specific number. But if you look at Page 15, fezolinetant and PADCEV and following the 2, we believe that is going to be the third pillar. So please understand this perception.
+
+--------------------------------------------------------------------------------
+Hidemaru Yamaguchi,  Citigroup Inc., Research Division - Research Analyst    [8]
+--------------------------------------------------------------------------------
+7317 is your existing product, the indication is similar. You have not made a lot of progress in the development. What is going to be the expected synergy including the acceleration of the development, if there's anything you can share, that would be highly appreciated?
+
+--------------------------------------------------------------------------------
+Naoki Okamura,  Astellas Pharma Inc. - President, CEO,CFO & Director    [9]
+--------------------------------------------------------------------------------
+As you pointed out, the clinical studies have not a lot of progress. So we are frustrated. [Iveric]. Regarding retinal diseases, has a high level of specialty in their R&D. They have an R&D team with lots of expertise and also they have R&D facilities. They have a network with them. So we struggled, and the progress was slow for 7317, but this can be a favorable win for us according to expectations. Regarding the indications, ACP. In the development of GA, its progression is going to be slowed according to the MOA, 7317 is to transplant RPE cells so that they can function. That's our expectation. So up to vision loss patients may be very severe, but they would be able to recover their vision to a certain extent. So the indications are going to be slightly different between the 2.
+
+--------------------------------------------------------------------------------
+Hiromitsu Ikeda,  Astellas Pharma Inc. - Corporate Head of Advocacy & Relations    [10]
+--------------------------------------------------------------------------------
+Thank you very much. Next, from Daiwa Securities, Mr. Hashiguchi, the floor is yours.
+
+--------------------------------------------------------------------------------
+Kazuaki Hashiguchi,  Daiwa Securities Co. Ltd., Research Division - Research Analyst    [11]
+--------------------------------------------------------------------------------
+Yes, this is Hashiguchi of Daiwa Securities. On Page 7, there are 2 strategic rationale for this acquisition. $5.9 billion value to be divided into these 2 strategic rationales. And how -- what could be your allocation in terms of valuation at this acquisition, you are expecting, what value will be generated in these 2 segments with the strategic rationale, roughly speaking, please?
+
+--------------------------------------------------------------------------------
+Naoki Okamura,  Astellas Pharma Inc. - President, CEO,CFO & Director    [12]
+--------------------------------------------------------------------------------
+Yes. Thank you for your question. In the end, after closing of the deal and the purchase price allocation will be made and then that will clarify which will be in the goodwill and in-process R&D. And so far at such timing, these will be turned into the intangible assets, because we are approaching the time of the launch, but we are not able to give you any excuse based upon that. 
+But at least, so far, in the process of valuation based on our gut feel, the value of ACP -- well, we'll carry the majority of the portion of the variation. I mean, number 2 here, the tailwind effects for number two, for our products and pipeline, it will be very difficult to quantify that. So I believe that the portion to be allocated to #1 in terms of the strategy or rationale #1 financially, at least. Thank you very much.
+
+--------------------------------------------------------------------------------
+Kazuaki Hashiguchi,  Daiwa Securities Co. Ltd., Research Division - Research Analyst    [13]
+--------------------------------------------------------------------------------
+ACP originator is a different company in my view. What is the right relationship? Because of early licensing game, can we assume that it's going to be very profitable? Regarding the timeline of the development in the United States, you talked about it, what about other regions such as Europe?
+
+--------------------------------------------------------------------------------
+Naoki Okamura,  Astellas Pharma Inc. - President, CEO,CFO & Director    [14]
+--------------------------------------------------------------------------------
+Thank you for your question. First, about your second question, I'd like to respond. And then regarding the rights primary focus lead, Jotaro Suzuki is going to respond. First about your second question. In principle, Iveric, outside of the United States, does not have capabilities or organization. Outside of the United States, the development there. Finally, at the end of last month or last week, they started the discussions to exchange [views] with the European regulatory authorities. If we are to join together, we have a bigger geographical footprint compared to them. So outside of the United States, the development there and also the discussions with the regulatory authorities, we can accelerate.
+Going back to the first question, Jotaro Suzuki is going to respond.
+
+--------------------------------------------------------------------------------
+Jotaro Suzuki,  Astellas Pharma Inc. - VP and Primary Focus Lead of Blindness & Regeneration    [15]
+--------------------------------------------------------------------------------
+Thank you for the question. Regarding this product, before (inaudible) is a company, which licensed out this compound to Ophthotech, former Iveric and the rights have been transferred to Iveric now. (inaudible) relationship would not have a huge impact as of now.
+
+--------------------------------------------------------------------------------
+Kazuaki Hashiguchi,  Daiwa Securities Co. Ltd., Research Division - Research Analyst    [16]
+--------------------------------------------------------------------------------
+The development status in Europe -- in that sense, I mean, the timeline, could you please elaborate on the timeline when you expect to launch this product? There will be a wide-ranging scenarios that should be considered, is this correct understanding?
+
+--------------------------------------------------------------------------------
+Unidentified Company Representative,   -     [17]
+--------------------------------------------------------------------------------
+Regarding the development in EU, I would say as soon as possible, we would like to come up with policy in order to realize it. But as of today, we have not come up with any accurate or precise time schedule. Thank you very much.
+
+--------------------------------------------------------------------------------
+Hiromitsu Ikeda,  Astellas Pharma Inc. - Corporate Head of Advocacy & Relations    [18]
+--------------------------------------------------------------------------------
+Thank you very much. Then from JPMorgan Securities, Mr. Wakao. The floor is yours.
+
+--------------------------------------------------------------------------------
+Seiji Wakao,  JPMorgan Chase & Co, Research Division - VP    [19]
+--------------------------------------------------------------------------------
+Yes. This is Wakao speaking. I am from JPMorgan. I have several questions. First question is on Page 12. GATHER1 and GATHER2 data, what is the difference generated from the data between the 2 studies? I believe that the patient profile is almost similar between the 2 studies. So what is the difference in the data?
+
+--------------------------------------------------------------------------------
+Hiromitsu Ikeda,  Astellas Pharma Inc. - Corporate Head of Advocacy & Relations    [20]
+--------------------------------------------------------------------------------
+Thank you for your question. Well, we are not quite sure actually about the difference. But in both the studies, there has been the clinically significant difference that has been demonstrated in the both studies, that is for sure.
+
+--------------------------------------------------------------------------------
+Seiji Wakao,  JPMorgan Chase & Co, Research Division - VP    [21]
+--------------------------------------------------------------------------------
+And also the impact on your financial results, I have a question on that, particularly on PL, SG&A cost and R&D expenditure by Iveric Bio would be included in your statements. According to your presentation today, R&D, sales and marketing, you think have found value there. So I thought that you can bring it into your P&L. So I have that question to ask.
+
+--------------------------------------------------------------------------------
+Naoki Okamura,  Astellas Pharma Inc. - President, CEO,CFO & Director    [22]
+--------------------------------------------------------------------------------
+PDUFA is August. So what we have to avoid the most is that Iveric has prepared a lot by now. That should not be coming to a standstill. We have to avoid the standstill. So what to do will be decided by the 2 companies through discussions. So right after the closing, the organization, right after the closing will be preserved unless something unnecessary would be found, Iveric will be preserved as is in principle.
+
+--------------------------------------------------------------------------------
+Seiji Wakao,  JPMorgan Chase & Co, Research Division - VP    [23]
+--------------------------------------------------------------------------------
+Understood. Lastly, we are approaching the PDUFA target date. So PDUFA day and closing, what will be the timing of these 2 dates?
+
+--------------------------------------------------------------------------------
+Naoki Okamura,  Astellas Pharma Inc. - President, CEO,CFO & Director    [24]
+--------------------------------------------------------------------------------
+We're getting approval. By when are we expected to get approval? That is not included as the condition for closing. So for us, the shareholders of the other party's approval needed to be obtained and also clearance from regulatory authorities. And in this type of the M&A agreement, closing condition -- commonly accepted closing conditions will be met over the time. So the approval from shareholders of the Iveric as well as the clearance of the antitrust law-related conditions. These 2 must be met. Thank you very much.
+
+--------------------------------------------------------------------------------
+Hiromitsu Ikeda,  Astellas Pharma Inc. - Corporate Head of Advocacy & Relations    [25]
+--------------------------------------------------------------------------------
+Next, Schroders Investment Management, Mr. Sato, please.
+
+--------------------------------------------------------------------------------
+Madoka Sato,  Schroders plc - Analyst    [26]
+--------------------------------------------------------------------------------
+Regarding this compound for Stargardt disease, what is the progress of the development of this compound in that indication?
+
+--------------------------------------------------------------------------------
+Naoki Okamura,  Astellas Pharma Inc. - President, CEO,CFO & Director    [27]
+--------------------------------------------------------------------------------
+Regarding Stargardt disease, it's still in Phase II. We don't have the results yet. But Iveric conducted preclinical studies for Stargardt disease, we think we can expect efficacy as well, so we are supporting that.
+
+--------------------------------------------------------------------------------
+Madoka Sato,  Schroders plc - Analyst    [28]
+--------------------------------------------------------------------------------
+What is the timing of the end of Phase II studies?
+
+--------------------------------------------------------------------------------
+Naoki Okamura,  Astellas Pharma Inc. - President, CEO,CFO & Director    [29]
+--------------------------------------------------------------------------------
+As of now, we don't have the accurate information, so we would check and come back to you later.
+And then after [13's] injection and the frequency of administration is lowered, but still, the progression of the disease can be suppressed. So that effect has not declined. GATHER2 and after 13's administration, yes, in this study, we believe which is a very important study up until the first year, monthly administration was tested and studies. 
+And from the year 2 onwards, this has been changed to bimonthly administration. So by this, the frequency of administration interval could be extended to reduce the burden on the patients. That was tested in the study. The results have not become yet -- available yet, and this will become available by the end of 2023.
+
+--------------------------------------------------------------------------------
+Madoka Sato,  Schroders plc - Analyst    [30]
+--------------------------------------------------------------------------------
+So after PDUFA date, is it correct?
+
+--------------------------------------------------------------------------------
+Naoki Okamura,  Astellas Pharma Inc. - President, CEO,CFO & Director    [31]
+--------------------------------------------------------------------------------
+Yes, very subtle timing, though.
+
+--------------------------------------------------------------------------------
+Madoka Sato,  Schroders plc - Analyst    [32]
+--------------------------------------------------------------------------------
+Yes. Understood. Regarding the existing staff of Iveric, 90 of them are commercial staff members. Information provision about this product would be done by 90 people, there is going to be no need to hire additional people?
+
+--------------------------------------------------------------------------------
+Naoki Okamura,  Astellas Pharma Inc. - President, CEO,CFO & Director    [33]
+--------------------------------------------------------------------------------
+Well, it's difficult to say. Of course, there are specialists in retinal diseases. A field force experienced in ophthalmology were hired to create a team of 90 market access and other things other than the field force, they would need a variety of staff members. 
+From the Iveric's perspective, they may think this is going to suffice, but for the future, commercial organization members would also work together and discuss with them. And we may suggest a reinforcement in some areas or our staff members can be utilized, so there may be no need to hire additionally. Such kind of discussions will take place from now on.
+
+--------------------------------------------------------------------------------
+Madoka Sato,  Schroders plc - Analyst    [34]
+--------------------------------------------------------------------------------
+Then commercial team of 90 people, that's not necessarily the sales reps -- 90 sales reps people, but market access people or reimbursement people included this commercial team. How many sales reps do they have?
+
+--------------------------------------------------------------------------------
+Naoki Okamura,  Astellas Pharma Inc. - President, CEO,CFO & Director    [35]
+--------------------------------------------------------------------------------
+We don't have the details at hand, we will check and come back to you if we can find it out.
+
+--------------------------------------------------------------------------------
+Hiromitsu Ikeda,  Astellas Pharma Inc. - Corporate Head of Advocacy & Relations    [36]
+--------------------------------------------------------------------------------
+Next, from Morgan Stanley, MUFG Securities, Muraoka-san, please.
+
+--------------------------------------------------------------------------------
+Shinichiro Muraoka,  Morgan Stanley, Research Division - Research Analyst    [37]
+--------------------------------------------------------------------------------
+This is Muraoka of Morgan Stanley. I think we have heard various discussions so far. So this is a question for clarification. Borrowings will be made. So interest rates on borrowings, is this going to be based upon the Japanese interest rate? Or should we assume interest rate in the United States to be applied? Well, please consider Japanese interest rate?
+
+--------------------------------------------------------------------------------
+Naoki Okamura,  Astellas Pharma Inc. - President, CEO,CFO & Director    [38]
+--------------------------------------------------------------------------------
+Earlier, the closing date and the PDUFA date could be close. This is a question to clarify the potential risk.
+
+--------------------------------------------------------------------------------
+Shinichiro Muraoka,  Morgan Stanley, Research Division - Research Analyst    [39]
+--------------------------------------------------------------------------------
+In case you cannot get approval actually PDUFA date or before closing, if there's going to be any suspicion or doubt, this deal can be canceled. In that case, how much money you need to pay? Such provisions exist, if you can share, please?
+
+--------------------------------------------------------------------------------
+Naoki Okamura,  Astellas Pharma Inc. - President, CEO,CFO & Director    [40]
+--------------------------------------------------------------------------------
+In an agreement like this, material adverse event MAE clause does exist. If it did, we can terminate the agreement from our side. If that closes net, if we are to terminate mutually, some portion of the agreed amount must be paid, that's a general clause in an agreement like this in general.
+
+--------------------------------------------------------------------------------
+Shinichiro Muraoka,  Morgan Stanley, Research Division - Research Analyst    [41]
+--------------------------------------------------------------------------------
+If approval cannot be achieved, does that constitute MAE?
+
+--------------------------------------------------------------------------------
+Naoki Okamura,  Astellas Pharma Inc. - President, CEO,CFO & Director    [42]
+--------------------------------------------------------------------------------
+It can be a legal debate, so I'd like to refrain from answering this question here.
+
+--------------------------------------------------------------------------------
+Shinichiro Muraoka,  Morgan Stanley, Research Division - Research Analyst    [43]
+--------------------------------------------------------------------------------
+In terms of value or number, is there something that you are able to mention any numbers?
+
+--------------------------------------------------------------------------------
+Naoki Okamura,  Astellas Pharma Inc. - President, CEO,CFO & Director    [44]
+--------------------------------------------------------------------------------
+We would like to refrain from mentioning any specific numbers as well.
+
+--------------------------------------------------------------------------------
+Shinichiro Muraoka,  Morgan Stanley, Research Division - Research Analyst    [45]
+--------------------------------------------------------------------------------
+Understood. And earlier, the payments shall be made to the partner in the past from which licensing was done and a single-digit amount of money shall be paid to Massachusetts University. So in total, how much -- what percentage of the amount shall be paid to the outside parties for this drug?
+
+--------------------------------------------------------------------------------
+Naoki Okamura,  Astellas Pharma Inc. - President, CEO,CFO & Director    [46]
+--------------------------------------------------------------------------------
+We did not have the detailed data. So if it is possible to disclose, we will do so. So it's not going to be a significant figure, that is our understanding.
+
+--------------------------------------------------------------------------------
+Hiromitsu Ikeda,  Astellas Pharma Inc. - Corporate Head of Advocacy & Relations    [47]
+--------------------------------------------------------------------------------
+Next, Mr. (inaudible) from (inaudible).
+
+--------------------------------------------------------------------------------
+Unidentified Analyst,   -     [48]
+--------------------------------------------------------------------------------
+I'd like to confirm. This can be a third pillar, based on the size of the revenue vis-a-vis fezolinetant and PADCEV?
+
+--------------------------------------------------------------------------------
+Naoki Okamura,  Astellas Pharma Inc. - President, CEO,CFO & Director    [49]
+--------------------------------------------------------------------------------
+Yes, your understanding is correct.
+
+--------------------------------------------------------------------------------
+Unidentified Analyst,   -     [50]
+--------------------------------------------------------------------------------
+And also regarding this acquisition, from when you started? What is the background?
+
+--------------------------------------------------------------------------------
+Naoki Okamura,  Astellas Pharma Inc. - President, CEO,CFO & Director    [51]
+--------------------------------------------------------------------------------
+Thank you for your question. Regarding this compound, the ophthalmology field in the posterior eye segment targeting that area, we started discussing R&D. And we have been watching this compound since for a long time. The clinical study data is becoming available. 
+Initially, we thought this can be a licensing deal outside of the United States. That's how we have been discussing with Iveric. At the beginning of March this year, from their side, the acquisition can be incorporated as a possibility. So we switched to the tie-up format to an acquisition, resulting in this agreement to acquire the company.
+
+--------------------------------------------------------------------------------
+Unidentified Analyst,   -     [52]
+--------------------------------------------------------------------------------
+So when this was included as the primary focus, so how many years ago, have you noticed that this is a company and also changed into the partnership?
+
+--------------------------------------------------------------------------------
+Naoki Okamura,  Astellas Pharma Inc. - President, CEO,CFO & Director    [53]
+--------------------------------------------------------------------------------
+So that started from -- in 2014 or 2015, we have started to monitor and watch this company. And negotiation for licensing was started from last year, I believe. And in March this year, this has been switched to the [consideration] of the acquisition of the company itself.
+
+--------------------------------------------------------------------------------
+Unidentified Analyst,   -     [54]
+--------------------------------------------------------------------------------
+Okay. That switch was made in March this year, understood. Okay. This is going to be a huge amount. So at the Board of Directors meeting, there may be voices from members of the Board who have been cautious and careful about this acquisition. Or have there been any opposition? Of course, for the management team, we were asked whether we are confident and whether we are able to achieve what is projected from this acquisition.
+
+--------------------------------------------------------------------------------
+Naoki Okamura,  Astellas Pharma Inc. - President, CEO,CFO & Director    [55]
+--------------------------------------------------------------------------------
+Yes, these have been asked. But from the management team, we have responded to those questions at the Board. And then unanimously, the Board has approved and supported this proposed acquisition.
+
+--------------------------------------------------------------------------------
+Hiromitsu Ikeda,  Astellas Pharma Inc. - Corporate Head of Advocacy & Relations    [56]
+--------------------------------------------------------------------------------
+Next, NHK, (inaudible), can you hear me?
+
+--------------------------------------------------------------------------------
+Unidentified Analyst,   -     [57]
+--------------------------------------------------------------------------------
+Yes, I can hear you. There may be some overlap with the previous questions and answers, but I would like to ask the President and CEO once again. The objective of this acquisition, and what are your expectations? Could you respond to this question once again?
+
+--------------------------------------------------------------------------------
+Naoki Okamura,  Astellas Pharma Inc. - President, CEO,CFO & Director    [58]
+--------------------------------------------------------------------------------
+Slide 7 was used to explain roughly, first of all, ACP, the program would be acquired first. Relatively speaking, we can expect the market launch in the near future. This can be expected to be a blockbuster. In our CSP 2021, we can make sure of the achievement of the FY 2025 targets. And also outside of the CSP, 40% of the revenues are from the XTANDI antiprostate cancer agent, which we will result in LOE. So we think this can help compensate for the decline in sales after LOE of XTANDI. 
+And number two, as I said before, in the ophthalmology area, diseases in the posterior segment, gene therapies and cell therapies have been researched by us. Iveric has expertise, which can be the following wind for our programs. So that's number two. Thank you very much.
+
+--------------------------------------------------------------------------------
+Hiromitsu Ikeda,  Astellas Pharma Inc. - Corporate Head of Advocacy & Relations    [59]
+--------------------------------------------------------------------------------
+Thank you very much. Next, from Goldman Sachs Securities, Ueda-san, please. The floor is yours.
+
+--------------------------------------------------------------------------------
+Akinori Ueda,  Goldman Sachs Group, Inc., Research Division - Equity Analyst    [60]
+--------------------------------------------------------------------------------
+Yes, this is Ueda speaking. I'm from Goldman Sachs. Regarding the background of the acquisition, I have a question. So far, you have been developing your own pipeline products in Phase I and others were relatively speaking, early stages of clinical development, and it will take considerable time before launching. But this time, the products in the later stage development and also the -- leading to the acquisition of this compound and this candidate of Iveric, other than ACP, I believe that the other candidates are in early stages of development. So other than launch the products, there is a big gap between the launch of products as well as the candidates in the development? And could you please explain your view on this gap?
+
+--------------------------------------------------------------------------------
+Naoki Okamura,  Astellas Pharma Inc. - President, CEO,CFO & Director    [61]
+--------------------------------------------------------------------------------
+Understood. Thank you very much. I have a difficulty in answering your first question. So far recently products in early stages or the primary forecast to be compensated or supported and augmented by the candidate products acquired from the external parties. And actually, in the case of (inaudible) after acquisition, we didn't take a lot of time before launching the products, we had such expectation. 
+For example, in 2010, when we acquired OSI, which had the already launched products inclusive of the infrastructure for supporting that product. So this is not quite a peculiar or a special case this time around based upon such past examples. But the CSP 2021 is ongoing. 
+And so from the project, the 2 POC in clinical stage cannot be obtained, and XTANDI is being mature at and also the generic will be launched soon. So therefore, in order to achieve the management target under CSP 2021, we needed to have the later-stage development candidates. We will not be able to make it. So in order to explore opportunities, considering these factors, we have been exploring various opportunities. And that have led to this acquisition of Iveric.
+
+--------------------------------------------------------------------------------
+Akinori Ueda,  Goldman Sachs Group, Inc., Research Division - Equity Analyst    [62]
+--------------------------------------------------------------------------------
+And also in the ophthalmology field, any in-licensing of ophthalmology products into the future?
+
+--------------------------------------------------------------------------------
+Naoki Okamura,  Astellas Pharma Inc. - President, CEO,CFO & Director    [63]
+--------------------------------------------------------------------------------
+As you know, ophthalmology, urology, in principle, we are not thinking about expanding the business in that way. But among ophthalmological diseases, unmet medical needs, may be high in the posterior segment eye diseases. We are not saying that there is no potential projects. Jotaro Suzuki is working on primary in focus strategy. And if they are promising compounds -- there are already promising compounds and also more promising compounds into the future.
+
+--------------------------------------------------------------------------------
+Akinori Ueda,  Goldman Sachs Group, Inc., Research Division - Equity Analyst    [64]
+--------------------------------------------------------------------------------
+Second question is related to potential impacts on the shareholder return. Capital allocation policy will not be affected by this acquisition, you explained earlier. But on the other hand, in the past, JPY 300 billion to JPY 400 billion are appropriate level of cash. And I believe that the share buyback has been conducted within that range. So by funding for this and JPY 300 billion, JPY 400 billion, cash on hand will be maintained. And a net cash, maybe situation may be changing. So could you please give us your take on these financials?
+
+--------------------------------------------------------------------------------
+Naoki Okamura,  Astellas Pharma Inc. - President, CEO,CFO & Director    [65]
+--------------------------------------------------------------------------------
+Yes, understood. In principle, I said that the debt can be repaid in 5 to 7 years. So that means that we are expecting to see very strong robust cash inflow. So the repayment plan shall be formulated, and we will run in line with the plan. And if cash flow will remain exceeding that range and then, whether or not that will be used for repaying earlier the debt or are we going to utilize that cash or extra funds for returning to shareholders, and this will be considered going forward. For now, we are borrowing money to acquire another company. So we will not be able to consider immediate share buyback tomorrow. But looking at the cash flow in and out and then, if there is any extra cash available. And then we will consider what is the optimal policy before making a decision on allocation of the cash.
+
+--------------------------------------------------------------------------------
+Hiromitsu Ikeda,  Astellas Pharma Inc. - Corporate Head of Advocacy & Relations    [66]
+--------------------------------------------------------------------------------
+Thank you very much. Next, Mr. Mizuho Securities, Mr. Tsuzuki. Mr. Tsuzuki from Mizuho Securities. Can you hear me?
+
+--------------------------------------------------------------------------------
+Shinya Tsuzuki,  Mizuho Securities Co., Ltd., Research Division - Analyst    [67]
+--------------------------------------------------------------------------------
+Yes. Regarding the study results, I have a question about niche areas. Apellis compound, according to the change from baseline at month 24, for your compound GATHER2, the slope of the growth, the background is different. So we shouldn't make a direct comparison, but can we compare in that way? That's my first question. 
+After 12 months, if you inhibit the complement system, there's going to be a bigger reduction by Apellis compound. Your target can also achieve this as a possibility? That's all my questions.
+
+--------------------------------------------------------------------------------
+Naoki Okamura,  Astellas Pharma Inc. - President, CEO,CFO & Director    [68]
+--------------------------------------------------------------------------------
+Regarding Apellis, they have results after month 24, we have results after month 12. So this is quite a hypothetical, and we cannot ask this question, what is going to happen after 12 months? Apellis compound, (inaudible), going to be a strong inhibition of the complement system. So similar results could be achieved. That's what we can imagine. But as of now, we cannot say anything definitive yet as of now. The rate of growth -- and should we compare the slope in terms of the change of the growth, yes, we are looking at the (inaudible). So your understanding is correct. Thank you very much.
+
+--------------------------------------------------------------------------------
+Hiromitsu Ikeda,  Astellas Pharma Inc. - Corporate Head of Advocacy & Relations    [69]
+--------------------------------------------------------------------------------
+Thank you very much. Next, from Credit Suisse Securities, Haruta-san. Please, have the floor.
+
+--------------------------------------------------------------------------------
+Kasumi Haruta,  Crédit Suisse AG, Research Division - Research Analyst    [70]
+--------------------------------------------------------------------------------
+Yes. This is Haruta speaking. I'm from Credit Suisse. My first question is in -- from March 31, 2023 (inaudible) of 75% has been added recently, premium should have been 25% or so. Of course, ACP, the current phase of development of ACP considered and also, this can be considered to become the large scale in sales. So could you please give us your take on the validity or appropriateness of this valuation?
+
+--------------------------------------------------------------------------------
+Naoki Okamura,  Astellas Pharma Inc. - President, CEO,CFO & Director    [71]
+--------------------------------------------------------------------------------
+Yes. Thank you very much. As we have been telling you, in March this year, we changed our cancellation to acquisition of this company, and we conducted due dividends. And at the end of March, I think, very last day of March, for the first time, we presented a nonbinding conditions.
+
+--------------------------------------------------------------------------------
+Kasumi Haruta,  Crédit Suisse AG, Research Division - Research Analyst    [72]
+--------------------------------------------------------------------------------
+So as of 31 March, a share price against which premium was added, and that premium compared to the share price of Iveric?
+
+--------------------------------------------------------------------------------
+Naoki Okamura,  Astellas Pharma Inc. - President, CEO,CFO & Director    [73]
+--------------------------------------------------------------------------------
+This was the original assumption of the premium. So as of the end of March -- the over 30-day past, the volume weighted average price was used. So that is the reason why we applied this. So that means that for existing shareholders of the Iveric, that is the level of the premium we presented to those shareholders. 
+So from our shareholders, what is the true or the final valuation with premiums should be added? For example, at the end of April, share price premium level can be considered, or the 30-day trading day average -- volume-weighted average can be considered. So they were significant, and 22% and 47% were considered and calculated as a result of such considerations. Have I answered your question?
+
+--------------------------------------------------------------------------------
+Kasumi Haruta,  Crédit Suisse AG, Research Division - Research Analyst    [74]
+--------------------------------------------------------------------------------
+Yes. Understood. Secondly, GA. On Page 10, you have shown us the pipeline, including GA. Your product on (inaudible) has a different position to inhibit the complement system. In other disease states, various modalities and targets are shown. In this disease, why a variety of development programs exist with the diversity, how they're going to be used differently for this disease condition? Could you give us an overview?
+
+--------------------------------------------------------------------------------
+Naoki Okamura,  Astellas Pharma Inc. - President, CEO,CFO & Director    [75]
+--------------------------------------------------------------------------------
+Thank you for the great question. It's a difficult question. Page 10 shows the pipeline of assets, and you can see a complement which would draw your attention. ACP and also (inaudible), complement inhibitors and also the (inaudible) and NS and FT are also complement inhibitors AAV-based products. AAV-based products are also complement based. 
+The majority is based on complement. The disease and also the cause is still unknown for this GA, and there is a hereditary link. So the complement system with the strongest inheritant link is where the drug discovery is concentrating using a variety of modalities. 
+They try to approach this area and there are failures and successes. That's the history in this area, showing the pipeline overview here. (inaudible) also exists. Vitamin A cycle in the eye is going to be slowed. This is like a (inaudible) type drug. It's a different type of drug. But using these agents, R&D is progressing. But there is a focus on the complements ACP, we are trying to acquire as well as (inaudible) from Apellis front runners among these assets. That is the positioning.
+
+--------------------------------------------------------------------------------
+Hiromitsu Ikeda,  Astellas Pharma Inc. - Corporate Head of Advocacy & Relations    [76]
+--------------------------------------------------------------------------------
+Next, from Jeffrey Securities, Mr. Barker, please.
+
+--------------------------------------------------------------------------------
+Stephen Barker,  Jefferies LLC, Research Division - Equity Analyst    [77]
+--------------------------------------------------------------------------------
+This is Barker of Jefferies Securities. Regarding your financials, I have a question. And the borrowings will be made JPY 800 billion. And is this going to be made wholly in Japanese yen?
+
+--------------------------------------------------------------------------------
+Naoki Okamura,  Astellas Pharma Inc. - President, CEO,CFO & Director    [78]
+--------------------------------------------------------------------------------
+Yes, borrowings will be made in Japanese denomination.
+
+--------------------------------------------------------------------------------
+Hiromitsu Ikeda,  Astellas Pharma Inc. - Corporate Head of Advocacy & Relations    [79]
+--------------------------------------------------------------------------------
+Next, (inaudible) please. Can you hear me? We can't hear you clearly. Could you be closer to the microphone?
+
+--------------------------------------------------------------------------------
+Unidentified Analyst,   -     [80]
+--------------------------------------------------------------------------------
+Can you hear me?
+
+--------------------------------------------------------------------------------
+Hiromitsu Ikeda,  Astellas Pharma Inc. - Corporate Head of Advocacy & Relations    [81]
+--------------------------------------------------------------------------------
+Yes, we can hear you.
+
+--------------------------------------------------------------------------------
+Unidentified Analyst,   -     [82]
+--------------------------------------------------------------------------------
+I'm (inaudible). Regarding ACP, I have a question. The market you're targeting, and you talked about the number of patients, what is going to be the size of the peak? And what's your development plan in Japan? If there's anything you can tell as of now, that would be highly appreciated.
+
+--------------------------------------------------------------------------------
+Naoki Okamura,  Astellas Pharma Inc. - President, CEO,CFO & Director    [83]
+--------------------------------------------------------------------------------
+Your first question is about the peak sales?
+
+--------------------------------------------------------------------------------
+Unidentified Analyst,   -     [84]
+--------------------------------------------------------------------------------
+Yes.
+
+--------------------------------------------------------------------------------
+Naoki Okamura,  Astellas Pharma Inc. - President, CEO,CFO & Director    [85]
+--------------------------------------------------------------------------------
+We don't have the -- we like to retain from showing the specific figures. But on Slide 15, fezolinetant, PADCEV and then this is going to -- this can be a third pillar. So you can estimate the size, roughly speaking. We couldn't catch your second question. Could you repeat it? Sorry, it was difficult to catch.
+
+--------------------------------------------------------------------------------
+Unidentified Analyst,   -     [86]
+--------------------------------------------------------------------------------
+Regarding ACP in Japan, do you have a development plan, if any?
+
+--------------------------------------------------------------------------------
+Naoki Okamura,  Astellas Pharma Inc. - President, CEO,CFO & Director    [87]
+--------------------------------------------------------------------------------
+Development plan in Japan. Thank you for the question. We're still examining the details. We don't have any information to disclose as of now. Sorry for that.
+
+--------------------------------------------------------------------------------
+Hiromitsu Ikeda,  Astellas Pharma Inc. - Corporate Head of Advocacy & Relations    [88]
+--------------------------------------------------------------------------------
+Thank you very much. Now the time is approaching to close. So we like to take that one last question from (inaudible) please.
+
+--------------------------------------------------------------------------------
+Unidentified Analyst,   -     [89]
+--------------------------------------------------------------------------------
+This is (inaudible) speaking. I'm from (inaudible) Can you hear me?
+
+--------------------------------------------------------------------------------
+Hiromitsu Ikeda,  Astellas Pharma Inc. - Corporate Head of Advocacy & Relations    [90]
+--------------------------------------------------------------------------------
+Yes.
+
+--------------------------------------------------------------------------------
+Unidentified Analyst,   -     [91]
+--------------------------------------------------------------------------------
+I have a question for you, Mr. Okamura. Now this is the acquisition of venture company, start-up company. So the R&D capabilities and the financial strength are held by you, Astellas. So what have been the challenge that should be improved so far? And why -- and what aspects of Iveric have you focused on in consideration of this acquisition?
+
+--------------------------------------------------------------------------------
+Naoki Okamura,  Astellas Pharma Inc. - President, CEO,CFO & Director    [92]
+--------------------------------------------------------------------------------
+Yes, thank you for your question. In this current world, you are not able to discern from large-sized companies to start-up companies. I think it is becoming less meaningful to discern in that many aspect. And innovation needs to be generated continuously in order to turn such into innovation into value. So that is our stance of Astellas. So we are exploring aggressively, whatever's innovative for us. So this time, such a compound in this clinical development stage is held by a company like this by paying this amount of money under the current management plan CSV 2021 for achieving the key metrics like in revenue, sales and operating profit ratio under -- in 2025 in order to achieve these challenges. We believe that this will propose one of the options that we are able to implement. So that's why we have come up to the decision to acquire this company.
+
+--------------------------------------------------------------------------------
+Unidentified Analyst,   -     [93]
+--------------------------------------------------------------------------------
+So as a follow-up question, I think at the beginning, you mentioned that it is less meaningful to discern between the large size of the company and the start-up company. So what do you mean by that?
+
+--------------------------------------------------------------------------------
+Naoki Okamura,  Astellas Pharma Inc. - President, CEO,CFO & Director    [94]
+--------------------------------------------------------------------------------
+Well, in the past, pharmaceutical companies had to value the (inaudible) in R&D as well as commercialization, there was certain critical mass. And the large companies were supposed to be stronger compared to the start-up companies in the past. But from the end of 20th century to the beginning of the 21st century, we started to think that it's not anymore the time to consider such a startup and large companies. Well, even with the start-up companies, if they have a bold beliefs as well as this excellent technology, they will be able to create something, which cannot be copied by large companies. So large companies try to develop many things on their own and try to sell everything by themselves. 
+So getting rid of such concept, if there is anything excellent and we needed to partner with the start-up companies to create together. So this is not only limited to Astellas, but also other big pharma in the West, the U.S. and European market. I believe that everyone is having such attitude nowadays.
+
+--------------------------------------------------------------------------------
+Hiromitsu Ikeda,  Astellas Pharma Inc. - Corporate Head of Advocacy & Relations    [95]
+--------------------------------------------------------------------------------
+Thank you very much. Some people are still waiting for their chance to ask questions, but time is up. So we'd like to close today's explanatory meeting. Thank you very much for joining once again. Thank you very much.
+
+
+
+
+
+
+
+--------------------------------------------------------------------------------
+Definitions
+--------------------------------------------------------------------------------
+PRELIMINARY TRANSCRIPT: "Preliminary Transcript" indicates that the 
+Transcript has been published in near real-time by an experienced 
+professional transcriber.  While the Preliminary Transcript is highly 
+accurate, it has not been edited to ensure the entire transcription 
+represents a verbatim report of the call.
+
+EDITED TRANSCRIPT: "Edited Transcript" indicates that a team of professional 
+editors have listened to the event a second time to confirm that the 
+content of the call has been transcribed accurately and in full.
+
+--------------------------------------------------------------------------------
+Disclaimer
+--------------------------------------------------------------------------------
+Refinitiv reserves the right to make changes to documents, content, or other 
+information on this web site without obligation to notify any person of 
+such changes.
+
+In the conference calls upon which Event Transcripts are based, companies 
+may make projections or other forward-looking statements regarding a variety 
+of items. Such forward-looking statements are based upon current 
+expectations and involve risks and uncertainties. Actual results may differ 
+materially from those stated in any forward-looking statement based on a 
+number of important factors and risks, which are more specifically 
+identified in the companies' most recent SEC filings. Although the companies 
+may indicate and believe that the assumptions underlying the forward-looking 
+statements are reasonable, any of the assumptions could prove inaccurate or 
+incorrect and, therefore, there can be no assurance that the results 
+contemplated in the forward-looking statements will be realized.
+
+THE INFORMATION CONTAINED IN EVENT TRANSCRIPTS IS A TEXTUAL REPRESENTATION
+OF THE APPLICABLE COMPANY'S CONFERENCE CALL AND WHILE EFFORTS ARE MADE TO
+PROVIDE AN ACCURATE TRANSCRIPTION, THERE MAY BE MATERIAL ERRORS, OMISSIONS,
+OR INACCURACIES IN THE REPORTING OF THE SUBSTANCE OF THE CONFERENCE CALLS.
+IN NO WAY DOES REFINITIV OR THE APPLICABLE COMPANY ASSUME ANY RESPONSIBILITY FOR ANY INVESTMENT OR OTHER
+DECISIONS MADE BASED UPON THE INFORMATION PROVIDED ON THIS WEB SITE OR IN
+ANY EVENT TRANSCRIPT. USERS ARE ADVISED TO REVIEW THE APPLICABLE COMPANY'S
+CONFERENCE CALL ITSELF AND THE APPLICABLE COMPANY'S SEC FILINGS BEFORE
+MAKING ANY INVESTMENT OR OTHER DECISIONS.
+--------------------------------------------------------------------------------
+Copyright 2023 Refinitiv. All Rights Reserved.
+--------------------------------------------------------------------------------

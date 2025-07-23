@@ -1,0 +1,284 @@
+
+
+Refinitiv StreetEvents Event Transcript
+E D I T E D   V E R S I O N
+
+Castle Biosciences Inc To Acquire AltheaDx Inc Call
+APRIL 04, 2022 / 8:30PM GMT
+
+================================================================================
+Corporate Participants
+================================================================================
+
+ * Camilla Zuckero
+   Castle Biosciences, Inc. - Executive Director of IR & Corporate Communications
+ * Derek J. Maetzold
+   Castle Biosciences, Inc. - Founder, CEO, President & Director
+ * Frank Stokes
+   Castle Biosciences, Inc. - CFO
+
+================================================================================
+Conference Call Participiants
+================================================================================
+
+ * Mason Owen Carrico
+   Stephens Inc., Research Division - Senior Research Associate 
+ * Puneet Souda
+   SVB Leerink LLC, Research Division - Senior MD of Life Science Tools and Diagnostics & Senior Research Analyst
+ * Kyle Alexander Mikson
+   Canaccord Genuity Corp., Research Division - Analyst
+ * Catherine Walden Ramsey Schulte
+   Robert W. Baird & Co. Incorporated, Research Division - Senior Research Analyst 
+ * Thomas Flaten
+   Lake Street Capital Markets, LLC, Research Division - Senior Research Analyst
+
+================================================================================
+Presentation
+--------------------------------------------------------------------------------
+Operator    [1]
+--------------------------------------------------------------------------------
+Good afternoon, and welcome to Castle Biosciences' AltheaDx acquisition call. As a reminder, today's call is being recorded. We will begin today's call with opening remarks and introductions, followed by a question-and-answer session. I would like to turn the call over to Camilla Zuckero, Executive Director, Investor Relations and Corporate Communications. Please go ahead.
+
+--------------------------------------------------------------------------------
+Camilla Zuckero,  Castle Biosciences, Inc. - Executive Director of IR & Corporate Communications    [2]
+--------------------------------------------------------------------------------
+Thank you, operator. Good afternoon, everyone, and welcome to Castle Biosciences' AltheaDx Acquisition Conference Call. Joining me today is Castle's Founder, President and Chief Executive Officer, Derek Maetzold; and Chief Financial Officer, Frank Stokes. Information recorded on this call speaks only as of today, April 4, 2022. Therefore, if you are listening to the replay or reading the transcript of this call, any time-sensitive information may no longer be accurate. A recording of today's call will be available on the Investor Relations page of the company's website for approximately 3 weeks.
+Before we begin, I would like to remind you that some of the statements made today will contain forward-looking statements within the meaning of the Private Securities Litigation Reform Act of 1995. These forward-looking statements include, but are not limited to, statements about the expected timing and actual closing of our anticipated acquisition of AltheaDx and the potential impact of the acquisition on our future performance and consolidated financial results; our objectives, expectations and intentions, future financial results and growth potential, including our estimated U.S. TAM for IDgenetix following our anticipated acquisition of AltheaDx; our anticipated product portfolio and pipeline opportunity, including our ability to integrate the IDgenetix' tests into our existing portfolio of commercial offerings and other statements that are not historical facts.
+Forward-looking statements are based upon current expectations and involve inherent risks and uncertainties, and there can be no assurance that the results contemplated in these statements will be realized. A number of factors and risks could cause actual results to differ materially from those contained in these forward-looking statements, some of which are identified in our press release announcing our anticipated acquisition of AltheaDx and our reports filed with the Securities and Exchange Commission. These forward-looking statements speak only as of today, and we assume no obligation to update or revise these forward-looking statements as circumstances change. I will now turn the call over to Derek.
+
+--------------------------------------------------------------------------------
+Derek J. Maetzold,  Castle Biosciences, Inc. - Founder, CEO, President & Director    [3]
+--------------------------------------------------------------------------------
+Thank you, Camilla. Good afternoon, everyone. We appreciate you joining our call for what we find to be a very exciting announcement. We are pleased to announce the signing of a definitive agreement to acquire AltheaDx, a San Diego, California-based commercial-stage molecular diagnostics company specialized in the field of pharmacogenomic testing services that are focused on mental health. Their lead product is IDgenetix, a pharmacogenomic test for depression, anxiety and other mental health conditions. 
+Turning to Slide 3 of the presentation that is located on our website. At Castle, we focus on identifying areas of high unmet clinical need. We certainly leverage advanced technologies, the majority of our tests that we develop in-house are based upon gene expression profile approaches, so measuring the expression of RNA, and we then leverage our expertise in genomics, data analytics and advanced artificial intelligence techniques to get to clinically actionable products that inform the physician and the patient on what could be a different pathway they may want to consider when you have the results of our test add on top of what they already have in front of them, be it clinical and/or pathologic features. We support our test with a strong, robust clinical development program, and we believe that we also accelerate adoption from a commercial excellence and execution perspective.
+Turning to Slide 4. Now with this pending acquisition of AltheaDx, we will be entering into the mental health pharmacogenomics market with IDgenetix for depression, anxiety and other mental health conditions. AltheaDx has already addressed the first 3 buckets here. And now together, we will focus on accelerating adoption with our proven commercial playbook.
+Slide 5. We believe this pending acquisition will further strengthen our growth, expanding our portfolio of innovative tests in the pharmacogenomics for the treatment of depression, anxiety and other mental health conditions allowing us to further our mission of improving health through innovative tests that guide patient care. You can see that we expect IDgenetix upon close of the pending transaction to add approximately $5 billion to our estimated U.S. in-market TAM. And this opportunity aligns well with our M&A strategy, which we'll go into a little more detail in a moment.
+Next slide. Let's talk about our test from a patient journey perspective. On this Slide 6, you can see that we -- that one way of organizing a patient journey to think about screening tests in patients who are asymptomatic and do not have signs and symptoms of disease. The diagnostic support test to test for risk stratification therapy response, ending at the far end, at least in cancer really with MRD or recurrence monitoring testing services. We focus predominantly on tests that help clinicians and pathologists through the pathway of diagnostic support, risk stratification and therapy response.
+Our dermatological programs today largely focused on diagnostic support with our myPath Melanoma and DiffDx-Melanoma tests, risk stratification or what should my treatment plan be based upon my prognosis for DecisionDx-Melanoma, DecisionDx-SCC. And we have a pipeline program, of which we've announced our inflammatory pipeline test product, which is under development today, which we believe will help dermatologists and their patients in selecting the appropriate systemic biologic therapy when they're faced with a patient diagnosed with psoriasis and/or atopic dermatitis. 
+Our test for UV melanoma, DecisionDx-UM, is a risk stratification test as well. And the acquisition of Cernostics, which brought us the TissueCypher test for Barrett's esophagus in December of 2021, is also a risk stratification test. IDgenetix offers us an opportunity to have a second product focusing on this therapy response marketplace. So very exciting to have both of our myPath Melanoma acquisition in May of 2021, our TissueCypher acquisition in December of 2021 and now the acquisition of AltheaDx and their IDgenetix test acquisition in the second quarter of this year to complement and help us stay focused in this area of strategic opportunity.
+Slide 7. Let's talk about our end market and near-term market opportunity. We think we're sitting here today with an estimated $8 billion in total addressable market just in U.S. alone, assuming we complete our acquisition of AltheaDx. If we add on our near-term pipeline tests that are in development, we had an additional estimated $3.6 billion to our estimated U.S. TAM. 
+Next slide. So what about the pillars of our growth story or how we intend to execute on these in 2022 and 2023 and beyond. There are 3 areas I want you to go in thinking about Castle Biosciences. The first is continuing to strengthen what we view as an already strong core dermatology business, which focuses again on DecisionDx-Melanoma, our comprehensive diagnostic test offerings of myPath Melanoma and DiffDx-Melanoma, and our SCC test, DecisionDx-SCC, for patients diagnosed with squamous cell carcinoma of the skin, and one of our high-risk features. We also have a number of pipeline initiatives in the dermatology and our skin cancer marketplace that we initiated in 2021. We have not provided an update on guidance in terms of when we expect these to be reaching market beyond last year. And we continue to believe that we will launch 3 to 5 new tests by the end of 2025. 
+And finally, just on 2021, Castle took advantage of a strong balance sheet, and we made our initial 2 acquisitions, one on was for the myPath Melanoma test to complement our own in-house DecisionDx -- DiffDx-Melanoma test; and the other one was for Cernostics, which really brought forward an in-market test that is reimbursed by Medicare called TissueCypher Barrett's esophagus, as well as an opportunity to expand beyond our traditional gene expression profile development pipeline and into spatialomics. So again, great opportunities that we hope will move us forward from a significant standpoint in 2022 and the potential to drive additional growth over the next several years as well. 
+Slide 9. Now if we take the point under our Strategic Opportunities pillar for the last slide, you can see how we believe the acquisition of AltheaDx fits well in this M&A strategy. We believe the proven go-to-market success playbook, we have utilized in dermatology will translate into the mental health space by initially targeting high-prescribing clinicians. We believe we have multiple pipeline opportunities to build out a suite of tests in the mental health and pharmacogenomics test space. And of course, addressing clinical questions is essential. And with mental health, recent data supports that clinical utility of IDgenetix and its potential to improve upon the standard of care trial and error method. Finally, the IDgenetix test is a multi-gene test that's currently reimbursed for Medicare for depression. 
+Next slide. Slide 12. We provided 2022 guidance on revenue and expenses on our February 28 earnings call for the fourth quarter and year-end earnings report 2021. You can see here how we expect AltheaDx to impact us incrementally. We anticipate low single digits of incremental revenue in approximately $1 million to $3 million for 2022. For incremental expenses, we anticipate approximately $12 million to $15 million in total. Further, not just focusing on this acquisition, but for cash flow overall, we look toward operating cash use. We expect to reach positive net cash flow provided by operating activities by 2025. 
+Next slide. We further our position as a leader in advanced diagnostic testing. Our near- and long-term capital allocation priorities allow us to continue pursuing operational opportunities to create shareholder value. As we've discussed, these priorities include continued acceleration of our R&D efforts to build our expansive body of evidence that supports our marketed tests as well as to develop our pipeline test, the continued optimization of our dermatology and GI sales and marketing teams and opportunistic tuck-in or bolt-on M&A activities.
+Here on Slide 14 and turning our attention a bit more towards AltheaDx specifically. You can see the unmet clinical need for mental health conditions, specifically here for depression. And since the pandemic began, the diagnose of mental health conditions have unfortunately increased significantly.
+Slide 15. You can see here that first-line therapies for depression often don't work, either patients experience adverse reactions or patients don't receive the improvement they're looking for. So we believe the opportunity for pharmacogenomic testing with IDgenetix is great based from a randomized controlled clinical trial in patients diagnosed with moderate and severe depression and/or anxiety, support of the clinical utility of IDgenetix over standard of care when physicians use a test prior to prescribing a medication.
+Slide 16. A simple cheek swab has the potential to determine how a patient's genetic makeup will influence their individual response to medication. And the test is supported by a successful and published peer-reviewed randomized controlled trial. Let's go into that trial here on Slide #17. The data from this study demonstrated that in patients diagnosed with moderate and severe depression, response rates and remission rates were significantly higher, i.e., improved in the DecisionDx guided group as compared to the control group at 12 weeks. We believe 2 forward-looking decisions made by AltheaDx contributed to these study results. The first was recognizing that both drug-gene and drug-drug interactions may impact the effectiveness of individualized therapies. And the second was their proprietary approach to analyzing genetic data.
+Next slide. Obtaining therapeutic benefit from medication is dependent upon the functioning of metabolic enzymes and key transporter and receptor proteins at the biological site of action. Each IDgenetix test analyzes genes and gene mutations that can play a role in influencing medication response, including efficacy or adverse events. IDgenetix testing provides tailored treatment recommendations for each patient by utilizing a bioinformatics platform or algorithm to integrate patient-specific health information with comprehensive genetic results. The IDgenetix test reports on both drug-gene interactions as well as drug-drug interactions.
+Slide 20. You know that one of our growth pillars is to execute on strategic opportunities. We acquired Cernostics and TissueCypher in December of 2021. You can see on Slide 20 -- I'm sorry, Slide 19, our progress to date. We expect to provide further updates in early May with our first quarter earnings, but optimization work at our new Pittsburgh lab is producing encouraging results. Floor plan and workflow reconfigurations have increased efficiencies with more progress expected throughout 2022. We believe that our planned CapEx investments, including expansion of the lab later in the year, with additional headcount could allow for further enhancements to automation, a significant increase in throughput that provides support for potential future GI tests of the TissueCypher spatialomics platform. Furthermore, our expanded laboratory footprint also now enables us to use that facility to process our DecisionDx-SCC test. And going forward, perhaps other of our dermatology GEP tests.
+Slide 20 and Slide 21. In summary, Castle remains committed to improving health through innovative tests that guide patient care. We believe in the strong fit of AltheaDx and its complementary test for depression, anxiety and other mental health conditions. We expect that this anticipated acquisition will support our long-term growth and give us a further opportunity to create continued value for our stockholders. This concludes our remarks. Thank you for your continued interest in Castle. Operator, we are now ready for Q&A.
+
+
+================================================================================
+Questions and Answers
+--------------------------------------------------------------------------------
+Operator    [1]
+--------------------------------------------------------------------------------
+(Operator Instructions) Our first question comes from Thomas Flaten with Lake Street.
+
+--------------------------------------------------------------------------------
+Thomas Flaten,  Lake Street Capital Markets, LLC, Research Division - Senior Research Analyst    [2]
+--------------------------------------------------------------------------------
+I was wondering if you guys could give us a bit of revenue history, particularly with respect to the number of reps that have been in place, maybe some sales trajectory kind of where we came from and where we're going to? Just to provide a little bit more context around the $1 million to $3 million revenue guide.
+
+--------------------------------------------------------------------------------
+Derek J. Maetzold,  Castle Biosciences, Inc. - Founder, CEO, President & Director    [3]
+--------------------------------------------------------------------------------
+The marketplace overall from a pharmacogenomic standpoint or Althea?
+
+--------------------------------------------------------------------------------
+Thomas Flaten,  Lake Street Capital Markets, LLC, Research Division - Senior Research Analyst    [4]
+--------------------------------------------------------------------------------
+No. Althea specifically, but if you have some commentary around the competitive positioning, that would be great, too, as my follow-up.
+
+--------------------------------------------------------------------------------
+Derek J. Maetzold,  Castle Biosciences, Inc. - Founder, CEO, President & Director    [5]
+--------------------------------------------------------------------------------
+Yes, sure. Thanks, Thomas. So Althea, as we disclosed, is early in the commercial ramp here. Coverage came in last year, I believe, for Medicare, and they began to build out a small sales force. We think there's great opportunity to optimize the size of that sales force. And similarly through Cernostics strategy given that coverage is in place here from Medicare, the sales force as we grow it can help support itself. And so there's a large market here that's very underpenetrated. This is, unfortunately, a growing need, the incidence and diagnosis of depression is getting higher as with other mental illness conditions. And so there's a big market to shoot at here, and we'll be optimizing that sales force and monitoring over time to make sure we've got good coverage of the prescribing community without overbuilding in the early days.
+
+--------------------------------------------------------------------------------
+Operator    [6]
+--------------------------------------------------------------------------------
+Our next question comes from Kyle Mikson with Canaccord.
+
+--------------------------------------------------------------------------------
+Kyle Alexander Mikson,  Canaccord Genuity Corp., Research Division - Analyst    [7]
+--------------------------------------------------------------------------------
+Okay, great. Congrats on the acquisition. You've acquired these last 2 companies, for the standalone company, you want to develop like new segments basically. I mean, they pretty much already have like commercial infrastructures and strategies already kind of relatively established. I'm just wondering like going forward, will your strategy be to expand your menu in like these like kind of brand new areas? Or will you fill in the existing 3 segments that you have today?
+
+--------------------------------------------------------------------------------
+Derek J. Maetzold,  Castle Biosciences, Inc. - Founder, CEO, President & Director    [8]
+--------------------------------------------------------------------------------
+Excellent question, Kyle. So our expectation here is that it's not a good strategy for Castle its current size to sort of only focus on commercial effort sales team, marketing team focusing on one test in one segment. So our belief is that we'll be able to develop or acquire additional assets so that we turn around in, I don't know, I'll call it, 2025. We can look at the gastroenterology marketplace. We can look at the sort of pharmacogenomics testing marketplace customer-wise and go from 1 test to hopefully 3 or 4 tests, some of which we can hopefully develop internally, some of which we may be able to go and acquire externally so that we can have these 2 segments and our investment here look much more like dermatology is today. That would be the end goal we're looking for there. Now of course, there's road between here and there, but that's specially where we'd like to get to.
+
+--------------------------------------------------------------------------------
+Kyle Alexander Mikson,  Canaccord Genuity Corp., Research Division - Analyst    [9]
+--------------------------------------------------------------------------------
+Okay. That's interesting. And I guess for my follow-on, I guess I'm just wondering how you could leverage the psychiatry call point as well as maybe pharmacy PBM payer channel in the neurology kind of market because obviously mental health is obviously a large issue, just curious about those sort of new groups, I guess.
+
+--------------------------------------------------------------------------------
+Derek J. Maetzold,  Castle Biosciences, Inc. - Founder, CEO, President & Director    [10]
+--------------------------------------------------------------------------------
+Yes, we'll certainly look to do that. Mental health is diagnosed by a number of physicians. So you've got a number of different groups of physicians that you can target. Fortunately, the data is pretty readily available to see who is treating these patients and who are prescribing these drugs. It's a tremendous clinical problem. There are, I don't know what, 14, 15 drugs in the category. And docs know they're not all going to work for all their patients. But without pharmacogenomic testing, they haven't had a tool to help them identify the correct therapy for each specific patient. We also think it's critically important to not only have drug-gene interaction information available to the doctors, but drug-drug specific interaction that's specific to the patient. We think it's a mistake to provide -- it would be a mistake to provide drug-gene interaction and then point perhaps to [apomorphies] or something like that for drug-drug interaction information because that's a population-based resource. It's not based on the specifics for that patient. So that's a key element of this test IDgenetix, and we think it's going to set us up well for success in this area. And we're not trying to leverage this test with the GI and derm communities. Those are physician communities that typically don't diagnose and treat depression, but there are other physician groups that do.
+
+--------------------------------------------------------------------------------
+Operator    [11]
+--------------------------------------------------------------------------------
+Our next question comes from Puneet Souda with SVB Leerink. Puneet, your line is now open.
+
+--------------------------------------------------------------------------------
+Puneet Souda,  SVB Leerink LLC, Research Division - Senior MD of Life Science Tools and Diagnostics & Senior Research Analyst    [12]
+--------------------------------------------------------------------------------
+So a couple of questions. First one is, I mean, historically, you've pursued markets with somewhat limited competition and an unmet need. This is clearly also an unmet need, but just trying to understand a little bit on the competitive front. I mean DecisionDx-Melanoma was obviously a strong position for you. TissueCypher Barrett's esophagus, that made sense. But pharmacogenomic is generally viewed as a competitive market. So wondering how is IDgenetix differentiated versus some of the other competitors, GeneSight, Genomind, Gencept, Clarity and others in the market? And then I have a follow-up.
+
+--------------------------------------------------------------------------------
+Derek J. Maetzold,  Castle Biosciences, Inc. - Founder, CEO, President & Director    [13]
+--------------------------------------------------------------------------------
+That's an excellent question, Puneet. So one is it certainly is a little more competitive than what we've entered into so far with our other tests, either homegrown or acquired. That being said, they -- AltheaDx did as they were seeking to gain Medicare reimbursement and coverage also under UHC's policy. Initiating a complete randomized controlled clinical trial, which was successful compared to physicians' choice. So essentially, patients with moderate to severe depression or anxiety and/or anxiety were randomized to receive the results of the IDgenetix test or the physicians could choose their medication of choice. And the results were quite outstanding, we believe. 
+Now we believe part of that is due to the bioinformatics algorithm of assessing drug-gene interactions. Part of it also was that the scientists at AltheaDx a long time ago made the active choice that both drug-gene and drug-drug interactions were important, and those results were reported and incorporated also into that randomized controlled trial. That's a typical or rather that is not seen in the other pharmacogenomic competitive space test, which is good. At this point in time, while I'm sure there is an error somewhere in the statement, the only companies which have a positive randomized controlled trials like this would be AltheaDx' IDgenetix and Myriad's GeneSight test. So we feel that all the other players out there certainly that are private we believe that both physicians and nurse practitioners and PAs as well as payers are going to want to see, does your test actually make a difference when it's used in patients. And right now, we are 1 of essentially 2 who can demonstrate that in published peer-reviewed literature. So very, very positive from that perspective, we believe, from a competitive perspective. 
+We also look at the number of patients that are facing mental health conditions where IDgenetix could be of use. And that's such a tremendous opportunity there that I think even though you might say there's competition, the competition really is getting patients to have an opportunity to get their pharmacogenomic test result so they can have a better first-time selection made as opposed to a saturated category we're all fighting for mainly 3 or 4 patients. So I think the upside for us is that it's a low-penetrated category today. You've seen coming out of COVID in 2021 tremendous growth in terms of volume and revenue with some of these companies, which is fantastic when they've been resourced properly, and we're entering into a marketplace of very low penetration. On top of that, as we had with the Cernostics acquisition as well as with the myPath Melanoma acquisition, we're walking into already having reimbursement by Medicare tackle these initially. And in this case, also some early positive signals in terms of other private payers or commercial payers supporting us.
+So we're starting out of the gate being able to accrue revenue on tests that we actually deliver as opposed to waiting for a process from ground zero. Those are all things that we think are very, very positive. But you're right, we have to go and step up and step in and be able to compete well. But again, competition is less about, I think, pulling out one patient left or right. It's more about getting patients who have not yet been given access to pharmacogenomic testing to improve treatment selection the first time they're starting on therapies.
+
+--------------------------------------------------------------------------------
+Puneet Souda,  SVB Leerink LLC, Research Division - Senior MD of Life Science Tools and Diagnostics & Senior Research Analyst    [14]
+--------------------------------------------------------------------------------
+Okay. Fair. I hear you on that. And then on the Medicare rate, could you just confirm what is that? And then also in terms of the volume that you're doing within that $1 million to $3 million expectation. But I mean what Althea is currently doing, could you maybe just talk about that?
+
+--------------------------------------------------------------------------------
+Frank Stokes,  Castle Biosciences, Inc. - CFO    [15]
+--------------------------------------------------------------------------------
+Yes. So the Medicare rate, Puneet, is $1,500, a little over $1,500. In terms of volume, we're not giving guidance on volume, but we are assuming that we can grow volumes over what they were historically from last year. The team Althea had a great start. They did a lot of really smart things and needed a bit more resourcing and frankly, I think, a bit of the Castle marketing playbook to really get the growth rate amped up some.
+
+--------------------------------------------------------------------------------
+Puneet Souda,  SVB Leerink LLC, Research Division - Senior MD of Life Science Tools and Diagnostics & Senior Research Analyst    [16]
+--------------------------------------------------------------------------------
+Okay. And then just last one for me. On the SG&A expense, you're pointing out a $9 million to $10 million. Can you maybe just talk about how many sales reps are you assuming in that for this business? And I assume that these are -- the sales reps are not cross -- getting cross-trained?
+
+--------------------------------------------------------------------------------
+Frank Stokes,  Castle Biosciences, Inc. - CFO    [17]
+--------------------------------------------------------------------------------
+Yes. We haven't disclosed reps. We haven't disclosed the rep growth, Puneet, but it is going to remain a separate independent sales force with independent sales leadership reporting into our Chief Commercial Officer. As you saw us do in the GI space, it's critically important that we don't distract from our efforts in any of these categories. And so we wouldn't want to cross-train GI folks and vice versa, just because we don't want to dilute those efforts. I think you've seen the great success we've had in marketing to the derm space, I think we'll show the same in these other 2 therapeutic categories.
+
+--------------------------------------------------------------------------------
+Operator    [18]
+--------------------------------------------------------------------------------
+Our next question comes from Catherine Schulte with Baird.
+
+--------------------------------------------------------------------------------
+Catherine Walden Ramsey Schulte,  Robert W. Baird & Co. Incorporated, Research Division - Senior Research Analyst     [19]
+--------------------------------------------------------------------------------
+I guess, first, just one of the milestones you called out is for a potentially expanded Medicare coverage. Can you just talk us through for some of Medicare volumes on the current LTV and where that could go if you get an expansion? And any timeline that you're expecting around that potential expansion?
+
+--------------------------------------------------------------------------------
+Derek J. Maetzold,  Castle Biosciences, Inc. - Founder, CEO, President & Director    [20]
+--------------------------------------------------------------------------------
+By expansion, we're looking at having additional indications besides major depression covered. And that should be in the works right now. So near term, I would say by the end of 2022.
+
+--------------------------------------------------------------------------------
+Catherine Walden Ramsey Schulte,  Robert W. Baird & Co. Incorporated, Research Division - Senior Research Analyst     [21]
+--------------------------------------------------------------------------------
+Okay. Got it. And then I would also just be curious to get more color on your process for sourcing deals. Is mental health an area that you identified as interesting and found it best to address that. Is this being shopped around? Or you evaluated that space after them coming to you. I would just love to hear when you're going into some of these new markets, just what process goes around that.
+
+--------------------------------------------------------------------------------
+Frank Stokes,  Castle Biosciences, Inc. - CFO    [22]
+--------------------------------------------------------------------------------
+Thanks, Catherine. Unfortunately, each of these situations has come about in a little different way. We see great opportunity here with Althea and our own pipeline products that we're working on for atopic derm and psoriatic conditions. Those 2 programs not from a sales level necessarily, but from a development and a support level, I think we'll learn a lot about each of those programs from the other. We were already working on a test to do something similar to what IDgenetix does in depression in these immune response modulated skin conditions. And so it's an area of high need. And frankly, there's a lot of waste of payer dollars here. 
+And in the case of atopic derm and psoriasis, for example, you've got patients who aren't able to function at their best, and it's very similar here in depression. If it takes a doc 2 or 3 or 6 months to get a patient on a med that's therapeutically responsive, there's enormous amounts of lost work, lost productivity. It's not just an inconvenience. It impacts these patients' lives very dramatically and it affects their family dynamic, their work dynamic and everything else. And so you waste a lot of money for throwing drugs at people that don't work and you're really doing a disservice to the patient. I think that when you sit down with a doc and you show them the data here and you show them -- and you can talk to a physician, and they've all had experience with patients that they just couldn't quite seem to get on the right med and the problems that caused and we're talking about depression here, but also think about bipolar and schizophrenia, et cetera. You've got real risks to the patient for not being treated and responding. 
+So when you sit out with a doc and you show them the data, they've all had a problem patient or a challenging patient in this situation. And you show them data that you can get them on the right med, right off the bat, and it's pretty compelling. So we don't necessarily have a -- I think we've got a great sales and marketing playbook, Catherine. I can't tell you we've got a playbook for opportunities outside of Castle. It's just -- it's different approaches have obtained in each of these situations. But yes, this is a great area. And to walk into a TAM like this with the good support that Althea had developed, the good evidence they developed, and then to have Medicare and some meaningful commercial coverage in place is just a great opportunity.
+
+--------------------------------------------------------------------------------
+Operator    [23]
+--------------------------------------------------------------------------------
+Our next question comes from Mason Carrico with Stephens.
+
+--------------------------------------------------------------------------------
+Mason Owen Carrico,  Stephens Inc., Research Division - Senior Research Associate     [24]
+--------------------------------------------------------------------------------
+Congrats on the acquisition. Maybe just one quick one on the test itself and then one on the sales team. First, any color on the split between the Medicare and commercial patient population for the current indication?
+
+--------------------------------------------------------------------------------
+Frank Stokes,  Castle Biosciences, Inc. - CFO    [25]
+--------------------------------------------------------------------------------
+Yes. It's -- Mason, it's a little less than we see in a couple of the other areas we're in. It's in the 30% range, maybe a little higher, what we had. I've got no empirical evidence to support the following statement. But we had -- we did see through COVID the increase in incidents among older people was more pronounced. I mean just if you think about it, older people were correctly identified as the most vulnerable, and so they had the greatest restrictions many times self-imposed. And so unfortunately, we saw a big uptick there through COVID. And that may have -- that may lead to some migration to that Medicare percentage over the next bit here. But it's unfortunately a condition that is not limited in terms of age, it's pediatrics all the way up to the very, very old.
+
+--------------------------------------------------------------------------------
+Mason Owen Carrico,  Stephens Inc., Research Division - Senior Research Associate     [26]
+--------------------------------------------------------------------------------
+Got it. Got it. And then on the high-prescribing clinicians that you're targeting. Have you sized that up at all? Or any color on how much of those high-prescribing clinicians that how much of that can be reached with the current sales force there?
+
+--------------------------------------------------------------------------------
+Derek J. Maetzold,  Castle Biosciences, Inc. - Founder, CEO, President & Director    [27]
+--------------------------------------------------------------------------------
+The current Althea sales force?
+
+--------------------------------------------------------------------------------
+Mason Owen Carrico,  Stephens Inc., Research Division - Senior Research Associate     [28]
+--------------------------------------------------------------------------------
+Yes.
+
+--------------------------------------------------------------------------------
+Derek J. Maetzold,  Castle Biosciences, Inc. - Founder, CEO, President & Director    [29]
+--------------------------------------------------------------------------------
+Yes, we have an expansion plan over time. The physician base is really those individuals who are -- I mean those clinicians who are diagnosing patients who are ready to go on therapy. So that's the mixture of some psychiatrists, some high-volume primary care clinicians, which will include physicians as well as our expectations of PA. So it's a readily identifiable group based upon third-party purchasing data to go after, and that would be our expectation. But we do expect to invest over time and has to increase sales force opportunities from an expansion perspective.
+
+--------------------------------------------------------------------------------
+Operator    [30]
+--------------------------------------------------------------------------------
+There are currently no further questions in queue. So I'll hand the conference back over to Derek for any additional remarks.
+
+--------------------------------------------------------------------------------
+Derek J. Maetzold,  Castle Biosciences, Inc. - Founder, CEO, President & Director    [31]
+--------------------------------------------------------------------------------
+Thank you, operator. This concludes our call. Thanks again for joining us today and for your continued interest in Castle Biosciences.
+
+
+
+
+
+
+
+--------------------------------------------------------------------------------
+Definitions
+--------------------------------------------------------------------------------
+PRELIMINARY TRANSCRIPT: "Preliminary Transcript" indicates that the 
+Transcript has been published in near real-time by an experienced 
+professional transcriber.  While the Preliminary Transcript is highly 
+accurate, it has not been edited to ensure the entire transcription 
+represents a verbatim report of the call.
+
+EDITED TRANSCRIPT: "Edited Transcript" indicates that a team of professional 
+editors have listened to the event a second time to confirm that the 
+content of the call has been transcribed accurately and in full.
+
+--------------------------------------------------------------------------------
+Disclaimer
+--------------------------------------------------------------------------------
+Refinitiv reserves the right to make changes to documents, content, or other 
+information on this web site without obligation to notify any person of 
+such changes.
+
+In the conference calls upon which Event Transcripts are based, companies 
+may make projections or other forward-looking statements regarding a variety 
+of items. Such forward-looking statements are based upon current 
+expectations and involve risks and uncertainties. Actual results may differ 
+materially from those stated in any forward-looking statement based on a 
+number of important factors and risks, which are more specifically 
+identified in the companies' most recent SEC filings. Although the companies 
+may indicate and believe that the assumptions underlying the forward-looking 
+statements are reasonable, any of the assumptions could prove inaccurate or 
+incorrect and, therefore, there can be no assurance that the results 
+contemplated in the forward-looking statements will be realized.
+
+THE INFORMATION CONTAINED IN EVENT TRANSCRIPTS IS A TEXTUAL REPRESENTATION
+OF THE APPLICABLE COMPANY'S CONFERENCE CALL AND WHILE EFFORTS ARE MADE TO
+PROVIDE AN ACCURATE TRANSCRIPTION, THERE MAY BE MATERIAL ERRORS, OMISSIONS,
+OR INACCURACIES IN THE REPORTING OF THE SUBSTANCE OF THE CONFERENCE CALLS.
+IN NO WAY DOES REFINITIV OR THE APPLICABLE COMPANY ASSUME ANY RESPONSIBILITY FOR ANY INVESTMENT OR OTHER
+DECISIONS MADE BASED UPON THE INFORMATION PROVIDED ON THIS WEB SITE OR IN
+ANY EVENT TRANSCRIPT. USERS ARE ADVISED TO REVIEW THE APPLICABLE COMPANY'S
+CONFERENCE CALL ITSELF AND THE APPLICABLE COMPANY'S SEC FILINGS BEFORE
+MAKING ANY INVESTMENT OR OTHER DECISIONS.
+--------------------------------------------------------------------------------
+Copyright 2023 Refinitiv. All Rights Reserved.
+--------------------------------------------------------------------------------

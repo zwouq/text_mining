@@ -1,0 +1,187 @@
+
+
+Refinitiv StreetEvents Event Transcript
+E D I T E D   V E R S I O N
+
+Petra Acquisition Inc and Revelation Biosciences Inc. Merger Call
+AUGUST 30, 2021 / 8:30PM GMT
+
+================================================================================
+Corporate Participants
+================================================================================
+
+ * James Rolke
+   Revelation Biosciences, Inc. - Director & CEO
+ * Chester Zygmont
+   Revelation Biosciences, Inc. - CFO
+ * Andreas Typaldos
+   Petra Acquisition, Inc. - CEO
+ * Sandra Vedrick
+   Revelation Biosciences, Inc. - VP, IR & HR
+
+================================================================================
+Presentation
+--------------------------------------------------------------------------------
+Operator    [1]
+--------------------------------------------------------------------------------
+
+          Greetings and welcome to Petra Acquisition, Inc. and Revelation Biosciences, Inc. merger call. (Operator instructions). As a reminder, this conference is being recorded. I would now like to turn the conference over to your host, Andreas Typaldos, CEO of Petra Acquisition, Inc.
+
+--------------------------------------------------------------------------------
+Andreas Typaldos,  Petra Acquisition, Inc. - CEO    [2]
+--------------------------------------------------------------------------------
+
+          Thank you. Thank you, everybody, for taking time to learn about Petra's merger with Revelation Biosciences. I'm excited to present this opportunity after looking at many companies that Petra could merge with. I think you will share our excitement about Revelation.
+First, because of the potential impact on health outcomes in key disease categories, for a large segment of healthcare, for people with viral respiratory diseases, and COVID-19. And as a result of that, we are excited about the potential upside for our shareholders. I think you will agree about our excitement stemming from three key values and considerations.
+As always, first and foremost is the Revelation team, whom I will introduce shortly. Three NASDAQ and one NYSE listing are good indications of the ability of management and scientific teams to deliver on product development across multiple indications, spanning all stages of drug development, including eight FDA and EMA approvals. So you can see why we feel confident about Revelation's management and scientists' ability to execute and deliver on the Company's business plan.
+Second, the therapeutic market of respiratory viral infections and COVID-19 that the Company is addressing is significant. And with the ongoing COVID-19 variance and vaccine developments, and their implication for diagnostics and therapeutics, this market need is urgent and global. Third, Revelation developed unique technology for its products.
+So it's now time to meet the Revelation team. They will describe the Company, its products and technology; the development and product time frames; the value creation points; the market; and the potential health outcomes for hundreds of millions of people who suffer from viral infectious diseases and COVID-19. The CFO will go over the transaction itself.
+Then I think you will agree that the prospects and opportunity are clear and compelling for the combined Company's shareholders, for its employees, for healthcare itself, and for the Company's many constituencies. So it's now my pleasure to introduce Sandra Vedrick, Revelation's VP of IR and HR, and the management team. Sandra?
+
+--------------------------------------------------------------------------------
+Sandra Vedrick,  Revelation Biosciences, Inc. - VP, IR & HR    [3]
+--------------------------------------------------------------------------------
+
+          Thank you, Andy, and thank you for taking time to learn about Revelation Biosciences and its merger with Petra. A copy of the press release is available on Revelation's website at revbiosciences.com. I'd like to remind everyone that today's call is being recorded and the replay can be found on our website.
+The conference call today will contain certain forward-looking statements and this must be viewed in conjunction with the risks that our business entails. Please read the forward-looking statements discussion on slide 3 of our corporate slide deck, a copy of which will be attached to Petra's SEC Form 8-K to be filed with the SEC.
+Petra will be filing a registration statement with the SEC containing more complete information regarding our business and the proposed transaction, and investors should not rely solely on this presentation to make any investment decision.
+And right now, thank you. I would like to turn over to present -- the presentation over to our CEO, James Rolke.
+
+--------------------------------------------------------------------------------
+James Rolke,  Revelation Biosciences, Inc. - Director & CEO    [4]
+--------------------------------------------------------------------------------
+
+          Thank you, Sandra, and thank you, Andreas. And thank you to the audience for taking the time to learn a little bit more about Revelation Biosciences. I'm very excited to present to you today, as we have made significant progress since our inception in May of 2020.
+The COVID-19 pandemic really exposed gaps in our ability to detect, treat, and prevent respiratory viral infections. And aside from COVID, there are many other existing viruses that have significant social and economic impact, in particular influenza. Vaccines are only part of the solution as they are very pathogen specific, and their effectiveness can be limited due to viral mutations. You may be starting to see this with the COVID-19 variants.
+Revelation decided to take a different approach and develop products that would potentially work pan-virally, meaning for multiple types of viruses and viral mutations, including those for COVID-19. We accomplished this by developing our products based on modulation or measurement of the innate immune response. To remind everyone, the innate immune response is our primary defense against infection that is mainly driven by the production and activity of multiple cytokines and chemokines.
+These cytokines and chemokines act immediately upon the start of an infection and work in non-specific ways to blunt the ability of a virus to proliferate and to survive. In addition, these cytokines and chemokines recruit the adaptive immune response, leading to the generation of pathogen specific antibodies. These antibodies take time to develop and this is where vaccines play a role. And again, Revelation is taking advantage of the innate immune response.
+Really, there's four key messages that I'd like to impart today as we go through the presentation. The first is that we have a multiple products in development that are broadly applicable to many types of viral infection and also have potential uses beyond viral infection.
+Our products are all based on the solid scientific foundation and our early clinical biomarker and safety data supports continued development. We have multiple near-term value driving milestones, including the start of two clinical studies. And we have assembled an excellent management and scientific team with a strong track record for developing drugs and growing organizations.
+Our pipeline consists of our lead product REVTx-99, which is being developed first as a potential treatment for preventing and possibly treating early respiratory viral infection. In addition, REVTx-99 may also be useful for treating chronic nasal congestion due to allergies or chronic rhinosinusitis. REVTx-200 is our intranasal adjunct to an intramuscular vaccine to provide a more complete immunization. And finally, REVDx-501 is our rapid at home universal screening tool for any type of respiratory viral infection.
+As I mentioned, we have several near-term value driving milestones. Most importantly, the start of our Phase 2 viral challenge study with influenza in the first quarter of 2022 and the start of the Phase 1b allergen challenge study at the end of this year.
+Now I'll tell you a little bit more about REVTx-99. REVTx-99 is given intranasally and the active ingredient is called PHAD. PHAD interacts with toll-like receptor 4, TLR4, which is widely expressed in the nasal mucosa. This interaction stimulates the TRIF pathway, which leads to the production of multiple protective cytokines and chemokines, including interferons. Again, these work -- they -- these work together to blunt the ability of a virus to survive and to proliferate.
+Interestingly, clinical studies using interferon-alpha drops showed a substantial reduction in clinically confirmed infections for multiple types of viruses versus placebo. Since REVTx-99 produces multiple protective cytokine including interferons, it is believed that REVTx-99 will work as well if not better than any single interferon alone.
+In addition, the active ingredient, PHAD, was studied in preclinical lethal influenza virus challenge models and, as indicated by the data, when given prior to the challenge, PHAD imparted significant protection versus no treatment.
+So based on this strong scientific foundation, we conducted a Phase 1 healthy volunteer study with the primary endpoints being safety and pharmacodynamic effects, as measured by intranasal cytokines. The study consisted of six cohorts, the first five cohorts were single ascending doses and the sixth cohort was five daily doses at the highest dose.
+From a safety perspective, REVTx-99 was very well tolerated with no significant or serious adverse events. All adverse events associated with the drug were mild in nature and limited to the local nasal mucosa at the highest doses.
+From a biomarker perspective, REVTx-99 induced the production of several protective cytokines including IP10, a key cytokine of interest. As indicated in the panel on the right, IP10 was significantly upregulated versus placebo.
+IP10 was chosen a priori as a key cytokine of interest for several reasons, principally it is an excellent surrogate for other interferon production, as interferons are required to get to IP10. IP10 is a known TRIF dependent cytokine. And increases in IP10 have been shown to be protective in clinical viral challenge studies with both influenza and rhinovirus.
+On this slide is a box and whisker plot of all the IP-10 data collected regardless of time. As you can see, there is a nice dose dependent response for intranasal IP-10. But also importantly, there is no increase in systemic IP-10, which again speaks to the local nature of the drug and its potential safe usage.
+In addition to IP-10, several other TRIF dependent cytokines were also upregulated, and they tracked very well with IP-10. But also equally important, IL6, an inflammatory cytokine, was not upregulated, which again speaks to the drug's potential safety.
+So based on the positive outcome from the Phase 1 study, we plan to conduct a Phase 2 viral challenge study with influenza starting in the first quarter of 2022 with a readout within the first half of the year. Success in this study is highly predictive of success in later stage real world studies.
+For the prevention of viral infection, REVTx-99 may have several broad marketing opportunities. In the first instance, for seasonal prophylaxis, REVTx-99 would be given to high-risk individuals, such as hospital workers, the elderly or immuno-compromised over the course of a season such as, for example, the flu season.
+For situational and contact prophylaxis, REVTx-99 would be given over the course of one to several days to individuals such as travelers or those people going to a hospital to help prevent an infection. During the formulation development of REVTx-99 for the viral indication, it was observed that REVTx-99 may also be beneficial for people suffering from chronic nasal congestion due to allergies or chronic rhinosinusitis.
+The rationale for why this would be is actually two-fold. First, the protective cytokines produced by REVTx-99 may shift the immune system from an inflammatory state to a more protective state. And second, the IP-10 generated by REVTx-99 would compete for the same receptor as Eotaxin.
+Eotaxin is a chemokine that promotes the allergic response. This competition would result in a down regulation of that allergic response. So based on this, we plan to evaluate REVTx-99 as both a prevention and a treatment in a Phase 1b allergen challenge study that will start later this year.
+Moving on to REVTx-200, this is an earlier stage program, where REVTx-200 would be given intranasally, concurrently with an intramuscular vaccine to give a more complete immunization. As most people know, most respiratory vaccinations are given intramuscularly including all the current COVID-19 vaccines.
+And while intramuscular vaccination results in a strong systemic immunity, it does not elicit a strong mucosal, for example in the nose immunity. And since most respiratory viruses enter through the nose, this type of immunity would be desired.
+REVTx-200 is believed to work by stimulating protective cytokines and chemokines. And these same protective cytokines and chemokines would work to recruit activated B and T-cells from the systemic immune space into the mucosal immune space resulting in an overall stronger mucosal immunity. Our plan for REVTx-200 is to evaluate it in nonclinical studies in the first part of 2022.
+Now I'm going to tell you a little bit more about our rapid, easy to use at-home diagnostic REVDx-501, also known as REVID. Like all our product candidates, REVID works to detect multiple types of viral infection. It is very similar to other at-home test kits, in that the user collects a sample from the lower portion of the nose, not way up in the nose like other products. It applies that sample to a sample application pad and waits about 15 minutes for a visual readout of the result.
+And the result is a simple, yes, I have a respiratory viral infection, or no, I do not have a respiratory viral infection. As such, REVID can be used as a universal screening tool to allow for testing of large numbers of people rapidly and inexpensively. Like REVTx-99, REVID has multiple potential broad markets. Most importantly as an individual screening tool that allows the user to make an informed decision on their general health and whether to quarantine or go about their daily lives.
+Testing with the REVID test kit correlates very well with PCR for COVID with a 0% false negative rate, meaning no one with an active COVID infection was allowed to pass through our test. The 14% false positive rate for the REVID kit is artificially high in that those subjects who tested positive using REVID, but negative for COVID by PCR, when subjected to additional PCR testing were shown to have an infection with another virus type such as rhinovirus, influenza or other coronaviruses. Thus, the test works exactly as it is supposed to as a universal screening tool.
+So our Board is comprised of industry veterans with skills that are complementary to those required to develop drugs and grow companies. In addition, as I mentioned earlier, we have assembled a fantastic management and scientific team with a proven track record of success for developing drugs and growing the value of the company.
+And lastly, I'd like to remind everyone of the four key takeaways. The first being that, Revelation is developing multiple products that have broad applicability to viral infection and utility beyond viral infection. Our product candidates are based on a strong scientific foundation backed by data, and we have several near-term value driving milestones, including the start of two clinical studies. And we have the right management and scientific team to get the job done.
+And with that, I will turn the presentation over to Chester Zygmont, our Chief Financial Officer, to talk about the transaction.
+
+--------------------------------------------------------------------------------
+Chester Zygmont,  Revelation Biosciences, Inc. - CFO    [5]
+--------------------------------------------------------------------------------
+
+          Thank you, James. Highlights from the transaction between Revelation and Petra include Petra's IPO in October 2020 of approximately $74 million, which, under the rules that governs SPACs, is held in trust and will be released to the company after the closing and requested redemptions.
+Revelation is to receive stock consideration totaling $105 million. This is an issuance of 10.5 million Petra shares at the IPO price of $10. And after the transaction is closed, the net proceeds remaining in the Petra trust account, after payment of expenses, will be available to help fund the continued development of the Company's therapeutic and diagnostic candidates.
+When we refer to the continued development of our therapeutic and diagnostic candidates, the therapeutic includes a Phase 2 viral challenge study, and further program development needs to reach a Phase 3 study. This also includes a Phase 1 study of REVTx-99 for the treatment of chronic nasal congestion and continued development of REVDx-501, our diagnostic candidate.
+Assuming limited redemptions, our expected runway of this cash brings us into Q2 of 2023. In addition, the Revelation leadership, both management and board, will be the successors to the company. Revelation is also expected to be traded on NASDAQ under the ticker symbol, REVB, or R-E-V-B, after the closing of the transaction, expected in Q4 of 2021.
+Examining the transaction overview, under the sources and uses previously mentioned, Petra has $73.5 million in trust with an equity rollover of $105 million for Revelation, and Petra's sponsors having $18.4 million totaling $196.9 million from the sources.
+Looking at the uses, two items that stand out are the net cash to Revelation's balance sheet of approximately $65 million, with assumed transaction expenses of $8.5 million. The $65 million in net proceeds, however, assumes no investor redemption of amounts from the Petra trust fund.
+This assumption is not necessarily indicative of what has been realized by other similar SPAC transactions; and at this point in time, we cannot offer assurances as to the amount we will yield from the trust. On a pro forma basis, the equity value of the company is $197.9 million with a pro forma enterprise value of $127.7 million.
+In the area of pro forma ownership, Revelation shareholders will hold approximately 53.6% of the company, the Petra public shareholders will hold approximately 73.1%, and the Petra sponsors will hold 9.3% of the overall company after the close. Again, the pro forma ownership estimates also assume that the Petra shareholders will not request redemption of any of their shares.
+Looking forward into the beneficial holders of Revelation prior to the merger, currently Dr. George Tidmarsh, our Chairman and largest single shareholder, holds 17.5% of Revelation's shares on a fully diluted basis. The Company management holds a total of 30.7% of Revelation's shares on a fully diluted basis.
+And institutions that hold Revelation stock include, AXA Prime Impact Fund, LifeSci Venture Partners, and Monashee Investments. Management's owner of Petra will be based on the portion of the 10.5 million Petra shares in which they are entitled on a pro forma basis. At this time, I would like to turn it back over to James.
+
+--------------------------------------------------------------------------------
+James Rolke,  Revelation Biosciences, Inc. - Director & CEO    [6]
+--------------------------------------------------------------------------------
+
+          Thanks, Chester. And at this time, we'd like to open it up for questions, and we'll turn it back to Sandra.
+
+--------------------------------------------------------------------------------
+Sandra Vedrick,  Revelation Biosciences, Inc. - VP, IR & HR    [7]
+--------------------------------------------------------------------------------
+
+          We will proceed with your questions and I would like to caution each of you that our comments may be limited in some regard under applicable securities laws. First, to the extent that any of our responses contain forward-looking statements, any such forward-looking statements are qualified as being subject to a number of risks and uncertainties, and our actual results may differ materially.
+Certain of the factors that may have an effect on any such forward-looking statements are identified in Petra's SEC filings and other public documents. Our comments will be further limited in accordance with our SEC Regulation's FD, as this meeting is not deemed by the SEC to be a Regulation FD compliant forum; thus, we are only allowed to provide information that is currently available in Petra's public filings. Operator?
+
+--------------------------------------------------------------------------------
+Operator    [8]
+--------------------------------------------------------------------------------
+
+          (Operator instructions). There are no questions at this time. I would like to turn the call back to management for any closing remarks.
+
+--------------------------------------------------------------------------------
+James Rolke,  Revelation Biosciences, Inc. - Director & CEO    [9]
+--------------------------------------------------------------------------------
+
+          Thank you. So again, thank you, everyone, for taking the time today to learn a little bit about Revelation Biosciences and the merger with Petra Acquisition Corporation. We are very excited for this opportunity to help propel our development of our products forward into the future. Again, thank you for your time and take care.
+
+--------------------------------------------------------------------------------
+Andreas Typaldos,  Petra Acquisition, Inc. - CEO    [10]
+--------------------------------------------------------------------------------
+
+          Thank you.
+
+--------------------------------------------------------------------------------
+Operator    [11]
+--------------------------------------------------------------------------------
+
+          This concludes today's conference. You may disconnect your lines at this time. Thank you very much for your participation and have a great day.
+
+
+
+
+
+
+
+--------------------------------------------------------------------------------
+Definitions
+--------------------------------------------------------------------------------
+PRELIMINARY TRANSCRIPT: "Preliminary Transcript" indicates that the 
+Transcript has been published in near real-time by an experienced 
+professional transcriber.  While the Preliminary Transcript is highly 
+accurate, it has not been edited to ensure the entire transcription 
+represents a verbatim report of the call.
+
+EDITED TRANSCRIPT: "Edited Transcript" indicates that a team of professional 
+editors have listened to the event a second time to confirm that the 
+content of the call has been transcribed accurately and in full.
+
+--------------------------------------------------------------------------------
+Disclaimer
+--------------------------------------------------------------------------------
+Refinitiv reserves the right to make changes to documents, content, or other 
+information on this web site without obligation to notify any person of 
+such changes.
+
+In the conference calls upon which Event Transcripts are based, companies 
+may make projections or other forward-looking statements regarding a variety 
+of items. Such forward-looking statements are based upon current 
+expectations and involve risks and uncertainties. Actual results may differ 
+materially from those stated in any forward-looking statement based on a 
+number of important factors and risks, which are more specifically 
+identified in the companies' most recent SEC filings. Although the companies 
+may indicate and believe that the assumptions underlying the forward-looking 
+statements are reasonable, any of the assumptions could prove inaccurate or 
+incorrect and, therefore, there can be no assurance that the results 
+contemplated in the forward-looking statements will be realized.
+
+THE INFORMATION CONTAINED IN EVENT TRANSCRIPTS IS A TEXTUAL REPRESENTATION
+OF THE APPLICABLE COMPANY'S CONFERENCE CALL AND WHILE EFFORTS ARE MADE TO
+PROVIDE AN ACCURATE TRANSCRIPTION, THERE MAY BE MATERIAL ERRORS, OMISSIONS,
+OR INACCURACIES IN THE REPORTING OF THE SUBSTANCE OF THE CONFERENCE CALLS.
+IN NO WAY DOES REFINITIV OR THE APPLICABLE COMPANY ASSUME ANY RESPONSIBILITY FOR ANY INVESTMENT OR OTHER
+DECISIONS MADE BASED UPON THE INFORMATION PROVIDED ON THIS WEB SITE OR IN
+ANY EVENT TRANSCRIPT. USERS ARE ADVISED TO REVIEW THE APPLICABLE COMPANY'S
+CONFERENCE CALL ITSELF AND THE APPLICABLE COMPANY'S SEC FILINGS BEFORE
+MAKING ANY INVESTMENT OR OTHER DECISIONS.
+--------------------------------------------------------------------------------
+Copyright 2023 Refinitiv. All Rights Reserved.
+--------------------------------------------------------------------------------

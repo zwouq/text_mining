@@ -1,0 +1,495 @@
+
+
+Refinitiv StreetEvents Event Transcript
+E D I T E D   V E R S I O N
+
+Novartis AG Announces Intention to Separate Sandoz Business to Create a Standalone Company Call
+AUGUST 25, 2022 / 2:00PM GMT
+
+================================================================================
+Corporate Participants
+================================================================================
+
+ * Richard Saynor
+   Novartis AG - CEO of Sandoz
+ * Samir Shah
+   Novartis AG - Global Head of IR
+ * Harry Kirsch
+   Novartis AG - CFO
+ * Vasant Narasimhan
+   Novartis AG - CEO
+
+================================================================================
+Conference Call Participiants
+================================================================================
+
+ * Stephen Michael Scala
+   Cowen and Company, LLC, Research Division - MD & Senior Research Analyst
+ * Seamus Christopher Fernandez
+   Guggenheim Securities, LLC, Research Division - Senior Analyst of Global Pharmaceuticals
+ * Richard Vosser
+   JPMorgan Chase & Co, Research Division - Senior Analyst
+ * Unidentified Analyst
+    - 
+ * Matthew Weston
+   Crédit Suisse AG, Research Division - MD and Co-Head of European Pharmaceutical Equity Research
+ * Peter James Welford
+   Jefferies LLC, Research Division - Senior Equity Analyst & European Pharmaceuticals Analyst
+ * Graham Glyn Charles Parry
+   BofA Securities, Research Division - MD and Head of Healthcare Equity Research
+ * Mark Douglas Purcell
+   Morgan Stanley, Research Division - Equity Analyst
+ * Jo Walton
+   Crédit Suisse AG, Research Division - MD
+ * Simon P. Baker
+   Redburn (Europe) Limited, Research Division - Head of Pharmaceutical Research
+
+================================================================================
+Presentation
+--------------------------------------------------------------------------------
+Operator    [1]
+--------------------------------------------------------------------------------
+Good morning and good afternoon, and welcome to the Novartis Investor Call and Live Webcast. (Operator Instructions) The conference will be recorded. (Operator Instructions) A recording of the conference call, including the Q&A session, will be available on our website shortly after the call ends. 
+With that, I would like to hand over to Mr. Samir Shah, Global Head of Investor Relations. Please go ahead, sir.
+
+--------------------------------------------------------------------------------
+Samir Shah,  Novartis AG - Global Head of IR    [2]
+--------------------------------------------------------------------------------
+Thank you very much, and welcome to everybody who's joining the webcast in this call. First of all, a big thank you for taking the time to participate. Before we start, I just wanted to go through our safe harbor statement. The information presented today contains forward-looking statements that involve known and unknown risks, uncertainties and other factors. These may cause actual results to be materially different from any future results, performance or achievements expressed or implied by such statements. 
+For a description of some of these factors, please refer to the company's Form 20-F, its most recent quarterly results on Form 6-K that respectively were filed with and furnished to the U.S. Securities and Exchange Commission. 
+Now I want to hand across to Vas Narasimhan, the CEO for Novartis. Thank you.
+
+--------------------------------------------------------------------------------
+Vasant Narasimhan,  Novartis AG - CEO    [3]
+--------------------------------------------------------------------------------
+Thank you, Samir, and thanks, everyone, for joining today's conference call. With me today, if you move to Slide 3 is Harry Kirsch, our CFO; Richard Saynor, the Chief Executive Officer of Sandoz, and you've already heard from Samir. 
+Moving to Slide 4. Today, as you heard earlier or saw earlier today, Novartis has concluded that a separation of Sandoz by 100% spin-off is what we believe is in the best interest of shareholders, and we expect completion of the proposed spin-off in the second half of 2023. What we'd like to do is walk you through, at a high level, some of the overview considerations that we made in taking this decision, the profile of the 2 companies and some of the details of the specifics on the transaction. 
+Now moving to Slide 5. We've concluded the separation of these 2 businesses would create 2 stand-alone companies, which can fully focus on their respective strategies, business segments and ultimately, maximize their impact as well as maximize value for shareholders. For Novartis, the new Novartis, we have a clear investment thesis as a focused, innovative medicines business. Our capital and investments will focus on bringing new technology platforms in our core TAs, new medicines to life in those core TAs will enhance -- it will enable us to really focus on the execution of the pipeline and commercialization of our assets as well as an improved financial profile and return on capital. 
+We also believe this will enable us to simplify our organization and operations and fully focus our capital on our critical business needs. For Sandoz, this creates a clear investment thesis of the generics and biosimilars business. Sandoz will become the #1 European generics company and a global leader in biosimilars. We believe this will enable Sandoz to follow strategies to win in the long term in the generics market, allow us to have more freedom to operate, freedom to allocate its capital as best needed to achieve its business goals and to build an organization that is fit for purpose culturally and with the right talent for the generics industry. 
+All of our assessments over the recent period have concluded that there are limited synergies between the innovative medicines and generics businesses as they're opposite end of the biopharma value chain. But importantly, we do conclude that biosimilars and generics have strong synergies, hence, we bring these 2 businesses together in Sandoz. 
+Now moving to Slide 6. We've concluded as well that 100% spin-off is the preferred separation path, and there are a few reasons for this. First, from a value standpoint, we believe that Novartis shareholders can benefit from the future upside of both businesses and make their own portfolio decisions as to which businesses they would like to own for the long term. It provides also business clarity and focus for the 2 independent operations, enabling each business to take on and complete its own business transformation. And we also know from our own precedents with Alcon, the largest public market been in recent memory in Europe, which is a highly successful spin. We can do this in an attractive way. 
+Other benefits include a high certainty of completion of a transaction and expectation to be generally tax-neutral for Novartis and lastly, the immediate full separation and deconsolidation of Sandoz at the time of spin-off. Some of these considerations will be covered in more detail by Harry on subsequent slides. 
+Now moving to Slide 7. We want to also highlight that for the new Novartis, the Sandoz separation would improve the financial profile of our innovative medicines business and enable us to fully execute our innovative medicine strategy with those improved financials. You see here on this slide that we would expect our sales growth from 2021 to 2027 to be in the 4% range. We expect our core operating income margin over time in the 2027 plus time horizon to reach 40% or more in terms of core operating income. 
+And then lastly, free cash flow and return on invested capital would also improve as a stand-alone innovative medicines business. So we're pleased with this opportunity to really improve the profile of a new Novartis 100% focus on innovative medicines. 
+Now turning to Sandoz. Sandoz will become a unique pure-play market leader across generics and biosimilars. And we believe highly -- well positioned to take advantage of what is a really highly attractive off-patent market opportunity. 
+Moving to Slide 9. Sandoz is a global leader. Here, you see IMS map data from March 2021 to March 2022. And the combined generics and biosimilars business on a gross sales basis of $12.7 billion, makes Sandoz the largest player in this segment in the world, clearly having scale and capabilities across the key segments and the key markets in the sector. 
+Moving to Slide 10. Importantly, we believe Sandoz is uniquely positioned amongst its relevant peer sets with its mix of generics and biosimilars. When you look at the chart on the left, we've charted global sales from biosimilars against global standard Gx sales. And you can see that Sandoz is a uniquely positioned company, benefiting from 65% of its sales from standard generics and 35% of its sales from biosimilars. 
+There are many benefits to having this kind of diversification. One is a balanced risk profile; two, an organization-wide expertise and generics mindset that can be brought to both segments. They can leverage their deep scale and understanding of their key customers. Biosimilars leadership, of course, offers margin upside and the opportunity given the growth of the biosimilars segment to grow significantly. And we believe substantial synergies exist between generics and biosimilars given how the biosimilars market has evolved in terms of commercial execution, channels, people and culture. 
+Now moving to Slide 11. That positioning will involve Sandoz over the coming decade to take advantage of what is really an attractive off-patent market opportunity, growing today from $251 billion of generics and $25 billion of biosimilars to a total market of $470 billion, driven by very strong growth in the biosimilars segment and solid growth in the standard generic segment. We believe health care policies will continue to encourage generics and biosimilar adoption. There remains high-value biologics, which will be going off patent in the coming decade. And there continues to be an important and positive shift in physician attitudes in the U.S. towards biosimilars building on the already strong adoption of biosimilars in Europe. 
+So moving to Slide 12. Taken together, Sandoz is well established -- a well-established player in the industry with the capabilities to win in the long term. From a portfolio standpoint, the business has both biosimilars as well as the key segments within small molecule generics, including oral solids, a leading position in anti-effective, a growing position in injectables and sterile and also a growing future position in respiratory generics. It's fit-for-purpose commercial engine and competitiveness in terms of cost and flexible supply will allow us to compete well over the coming years. It has a people and culture that's proven over the many years that Sandoz has been built, bringing together strong generics companies in different regions. 
+From a growth standpoint, Sandoz will have 15-plus assets in biosimilars that can drive a strong wave of growth over this next decade as well as good coverage of the 350 small -- of the LOE coverage in small molecules with 350 molecules in development. From a competitiveness standpoint, Sandoz has a critically strong footprint in Europe, Japan and other emerging markets and a strong and growing -- regrowing business in the U.S., good gross margins and good control of its operational costs. 
+Now moving to Slide 13. The first half of this year, we believe, has demonstrated the strong profile of this business. You see in the first half, we had sales growth of 6%, driven by Europe, where Sandoz, as I've mentioned, is the leader, good growth as well in the rest of world and a stabilizing U.S. business. Sandoz in this space is ultimately a European rest of world business with a strong future position in the U.S., we think, creates an attractive investment opportunity. 
+You also see in the right, the full year guidance for the business, which was increased and a solid pipeline, which should enable us to continue to drive growth into the future. 
+Now moving to Slide 14, I'll hand it off to Harry to provide some of the transaction details.
+
+--------------------------------------------------------------------------------
+Harry Kirsch,  Novartis AG - CFO    [4]
+--------------------------------------------------------------------------------
+Yes, thank you very much, Vas. Hello, everybody. Good morning, good afternoon. Very pleased to be here and share with you some of the transaction details of this proposed transaction. Now before I go into the details, I just want to step back. So a lot of work to be done here. I mean, it follows in general, the Alcon playbook now that the Board has agreed to this transaction. But there's a lot of work to do because, of course, Sandoz has been more integrated into Novartis than Alcon was. But all the plans are in place, but now we have to get to work to get this done. 
+So we do envision that the spin-off completion would happen in the second half of next year. And then that basically the Sandoz team would do IR Roadshows and Capital Markets Day mainly in half 1, and after the full year results, which we would present end of January and where we would provide, for example, guidance for Novartis, including and excluding Sandoz as well as for Sandoz future financial targets. Of course, the first opportunity to engage with the Sandoz team will be also at our Meet Novartis Management Day in September. 
+So if we now go to the next page, Page 15, some more details here. So it will be 100% spin-off of the new Sandoz share to our existing Novartis shareholders. The SIX will be the Swiss Exchange will be the listing menu. And we will have -- will set up the U.S. ADR program. And generally, we expect this, like the Alcon spin to be tax-neutral for Novartis and most of our shareholders and incorporated and headquartered Sandoz would be in Switzerland. 
+In terms of the financial profile and the balance sheet or the debt situation, there, we would target an investment grade credit rating. And also to be able to deliver on the plans for growth, some investments as well as attractive dividends. In terms of dividend policy, because we keep getting questions on that and try to be super clear here, that all of the dividends that would come would be incremental to the Novartis dividend, and we will not rebase our Novartis dividend even after a separation of Sandoz. So we will continue to grow our dividend based on the dividend we just paid out in March of this year. I hope that clarifies that question, which comes up so often. 
+As mentioned, half 2 would be the spin completion. In terms of further actions, this will be announced in due time. For example, some of the distribution ratio, what was the conversion from Novartis, what will the ratio from Novartis to Sandoz shares, the Board, the Chairman, Chairwoman selection and so on, all of that would come. And of course, this, as you see in the transaction conditions, several conditions, as always, but one of them will also be the final Novartis Board approval as well as the shareholder approval. And we would envision likely an extraordinary general assembly 6 to 8 weeks roughly before then the final spin date. 
+If we move to the next slide, just a bit as this may also have some questions, but we see clearly the Swiss Exchange as the natural listing location, given the Sandoz headquarters in Switzerland and of course, the legacy of the Sandoz brand. Also, we basically mirror the current structure of the Novartis listing and the Novartis shareholders all being able to remain invested and participate and we expect future growth of both Novartis and Sandoz. And just at the bottom here in detail, we keep also an ADR program, which offers the flexibility to our U.S. investors and of course, also for the U.S.-based employees to participate via share participation programs. With that, back to Vas.
+
+--------------------------------------------------------------------------------
+Vasant Narasimhan,  Novartis AG - CEO    [5]
+--------------------------------------------------------------------------------
+Thank you, Harry. So turning to Slide 17. I think it's also important to note this is an important moment for Novartis as a company as it completes our journey from a conglomerate with numerous business segments to a fully focused innovative medicines company. Since 2014, we've been on that journey. You can see the various steps we've taken over the years. With the potential -- with the proposed spin-off of Sandoz, we will be 100% innovative medicines company. 
+Moving to Slide 18. We think that new Novartis provides a very attractive value proposition to investors. From a scale and growth standpoint, we'll have a strong position in our 5 core therapeutic areas and continuing to build positions on top of small molecules and biologics in critical and important technology platforms for the long-term growth of our sector.  
+We have 6 key end market brands, multiple launches in flight and then a multiple pipeline readouts that will be coming over the coming years with up to 20 potential $1 billion-plus assets with approval by 2027. And this also enables us to focus even more on our goal of delivering high-value assets out of R&D so that we can consistently generate that above peer median growth that we've committed to.  
+Our commercial engine is #1 in Europe and in the U.S., we aim over time to achieve a top 5 position, enabling us to have a balanced global footprint that enables us to fully commercialize and maximize assets around the globe. We're also focused on driving synergies and leveraging our global scale. You've seen our recent organizational announcement, which will continue to enable us to create a more agile and fast organization as well as improve our margins and enable us to invest in R&D. 
+We expect this to lead to a stronger financial profile for Novartis with improved core margin, free cash flow and return on invested capital. And we'll continue, as Harry outlined, our shareholder-friendly capital allocation policy. And lastly, we have an experienced managed team, which is completely focused on future growth supported by the new organizational model that we are implementing.  
+Moving to Slide 19. In summary, Sandoz offers a unique value proposition to investors as well as a pure-play market leader across the generics and biosimilars market. A global leader in generics and biosimilars in an attractive market segment that will grow to $470 billion over the coming decades, a strong pipeline in small molecules and biosimilars, a strong commercialization engine that's proven itself with a #1 position in Europe and a deep understanding of customers. A good financial outlook that we'll provide more details, as Harry outlined in the first part of next year and a commitment to provide Sandoz with a solid capital structure, which will allow us to allocate its capital both to invest in its business and pursuing business development opportunities and a commitment from a Sandoz team to develop lean and efficient operations.  
+And lastly, a strong and experienced management team on the Sandoz side that's experienced in the global generics and biosimilars market and knows what it takes to deliver growth in that segment.  
+Moving to Slide 20. And in closing, we, of course, will be holding our Meet Novartis Management on September 21 and 22. It will provide an excellent opportunity for investors to meet the leadership teams across the various parts of Novartis and Sandoz, and we'll look forward at that time to also take any further questions on these various businesses. 
+So with that, I'll open the line for questions.
+
+
+================================================================================
+Questions and Answers
+--------------------------------------------------------------------------------
+Operator    [1]
+--------------------------------------------------------------------------------
+(Operator Instructions) And your first question comes from the line of Matthew Weston from Credit Suisse.
+
+--------------------------------------------------------------------------------
+Matthew Weston,  Crédit Suisse AG, Research Division - MD and Co-Head of European Pharmaceutical Equity Research    [2]
+--------------------------------------------------------------------------------
+Two questions, please. They're both financial. Harry, in the past, you've talked about this economies of scale if you took the decision to spin out Sandoz. I think I'm right in saying you also said they would likely to be more substantial than those we saw with consumer and outcome because Sandoz was more embedded in the Novartis business. How much of the group corporate cost today do you think you'll be able to reduce with the Sandoz spin? Or should we think of it as that cost staying with the innovative medicine business?  
+And then a quick housekeeping one on tax. Can you just give us an idea of how the tax rate for Novartis split today? Is it very similar for Sandoz versus IM or there is a meaningful difference? And if so, what is it?
+
+--------------------------------------------------------------------------------
+Harry Kirsch,  Novartis AG - CFO    [3]
+--------------------------------------------------------------------------------
+Yes. Thank you, Matthew. So to start with the tax. I would expect -- of course, we have to finalize all of that, right? As we finalize the carve-out financials, we finalize the perimeter and so on, I would expect it to be relatively similar. And in terms of corporate cost. So first of all, the corporate cost, there is nothing really dedicated to Sandoz as we see at the moment, right, the activities above the different businesses. 
+On the other hand, we will find after some additional work the corporate colleagues have to do over the next 2, 3 years as we set up a new stand-alone company, I'm sure we will find and over the midterm also some further efficiencies. And if you -- as Vas laid out, we have given now a midterm guidance of mid- to long term of 40% plus for the new Novartis that, of course, includes corporate, and it's basically an upgrade from the prior 40% plus for the innovative medicines, right?  
+So how exactly this will play out, we have to figure out, but we will find further opportunities to streamline our operations and we expect that by being a focused innovative medicines company.
+
+--------------------------------------------------------------------------------
+Operator    [4]
+--------------------------------------------------------------------------------
+Your next question comes from the line of Simon Baker from Redburn.
+
+--------------------------------------------------------------------------------
+Simon P. Baker,  Redburn (Europe) Limited, Research Division - Head of Pharmaceutical Research    [5]
+--------------------------------------------------------------------------------
+I also have 2. Just a quick question firstly, on the financials. You alluded to the seeking of an investment-grade credit rating, similar idea of how we should be thinking about the debt that Sandoz will be -- will begin life with? 
+And secondly,  in the Florida multi-district litigation over Zantac, Sandoz is a defendant, Novartis isn't. Would it be reasonable to assume that should there be any liabilities, that's how it will sit and any liabilities to sit with Sandoz, they will not sit with Novartis?
+
+--------------------------------------------------------------------------------
+Vasant Narasimhan,  Novartis AG - CEO    [6]
+--------------------------------------------------------------------------------
+On the first question on the credit rating, Harry?
+
+--------------------------------------------------------------------------------
+Harry Kirsch,  Novartis AG - CFO    [7]
+--------------------------------------------------------------------------------
+Thanks, Simon. As I mentioned, we target an investment grade credit rating, which as you look at this sector, it would be in the BBB, BBB- area. With that, we would expect a low to mid-single-digit billion debt push down. We will do it very thoughtful in a way that Sandoz would have a reasonable level of debt, but still free to operate.
+
+--------------------------------------------------------------------------------
+Vasant Narasimhan,  Novartis AG - CEO    [8]
+--------------------------------------------------------------------------------
+Thanks, Harry. And then from a legal standpoint on the H2 antagonist, first, it's important to note that Sandoz was a very small player, well less than 1% of this market segment over the recent years. So we view any exposure as a de minimis at this time. It'd be premature, I think, to comment on how exactly we will deal with that specific case. But in general, as a principle, we would expect any legal liabilities that are largely related to that business to go with that business at the time of separation.
+
+--------------------------------------------------------------------------------
+Operator    [9]
+--------------------------------------------------------------------------------
+And your next question comes from the line of Richard Vosser from JPMorgan.
+
+--------------------------------------------------------------------------------
+Richard Vosser,  JPMorgan Chase & Co, Research Division - Senior Analyst    [10]
+--------------------------------------------------------------------------------
+Two, please. Just one back on costs, please. I think Sandoz has done quite a lot of manufacturing for innovative medicines potentially. So just are there any manufacturing dis-synergies that we should think about? So incremental cost in COGS that innovative medicines might have to pay to now what would be a separate company. 
+And actually, just on Matthew's question again, we're effectively saying, I think, from your answer, Harry, that there would be incremental costs on top of the corporate cost for Sandoz that now have to be allocated. Any -- I know it's early, but any idea of that amount? Did I understand that right? 
+And then second question, just on the growth profile that you highlighted in terms of the off-patent market. Just thinking about the Sandoz portfolio within both elements of that off-patent market, the generics and the biosimilars. Do you -- how do you see your portfolio? Can you outgrow the expansion of those markets? Is that how we should think about it?
+
+--------------------------------------------------------------------------------
+Vasant Narasimhan,  Novartis AG - CEO    [11]
+--------------------------------------------------------------------------------
+Yes. Thanks, Richard. So first on manufacturing, just to clarify, today as an integrated business, we have an integrated manufacturing network. We've identified a certain number of manufacturing plants, which would move to Sandoz, which are predominantly or almost wholly producing medicines for Sandoz. There's a set of plants that are predominantly or wholly producing medicines for Novartis. That includes the biologics manufacturing, which will 100% be retained by Novartis.  
+We, of course, have TSAs across the 2 businesses, but we would not expect there to be an increase in cost for Novartis, IM, particularly because we will retain all of our biologics footprint and retain the production facilities to produce the vast majority of our medicines. In terms of the corporate cost question, Harry, you want to take it again?
+
+--------------------------------------------------------------------------------
+Harry Kirsch,  Novartis AG - CFO    [12]
+--------------------------------------------------------------------------------
+Yes, Richard. So let's go through different elements of cost and synergies and also streamlining opportunities over time. So of course, Sandoz will have some stand-up costs as a public company, right? Some corporate functions or the corporate function have to be set up there. Again, all of this is being finalized. I would expect that to be in the range of around $70 million per year. But that over time, the ability to drive lean further leaning out of structures that by far gets offset by activities within streamlining that business. 
+Then on the Novartis side, again, in the first couple of years, we have additional efforts here, so I don't expect corporate cost reductions. But then in the midterm, especially long term, further streamlining opportunities there as well in order to contribute to the 40%-plus mid- to long-term margin for the new Novartis company structure. There will be some onetime standup costs. Nobody has asked about this yet, but I just want to mention that. For Alcon, that was EUR 1 billion, it was a bit of a smaller business. Here, the vision is a onetime separation cost to be EUR 1.4 billion plus/minus. But again, we expect then why the streamlining of 2 focused companies to by far offset that onetime separation cost over time.
+
+--------------------------------------------------------------------------------
+Vasant Narasimhan,  Novartis AG - CEO    [13]
+--------------------------------------------------------------------------------
+Thanks, Harry. And maybe just to put a fine point on it. At the time of our announcement of our transformation program, we highlighted that we would expect our Innovative Medicines business to have a midterm margin guidance of 40% plus. Now we're saying as a stand-alone Novartis, inclusive of our corporate cost, we will be at 40% plus, which means in the midterm now, we would -- mid- to long term, we would expect to be able to offset the corporate cost element and get the whole company to be at 40% plus ex Sandoz. Does that clarify, Richard?
+
+--------------------------------------------------------------------------------
+Richard Vosser,  JPMorgan Chase & Co, Research Division - Senior Analyst    [14]
+--------------------------------------------------------------------------------
+That is perfect. That's very, very clear.
+
+--------------------------------------------------------------------------------
+Vasant Narasimhan,  Novartis AG - CEO    [15]
+--------------------------------------------------------------------------------
+Sorry, we have one more on growth segments, Richard.
+
+--------------------------------------------------------------------------------
+Richard Saynor,  Novartis AG - CEO of Sandoz    [16]
+--------------------------------------------------------------------------------
+Yes. So I think, Richard, you wanted to understand where we saw the growth coming from? And could we consistently beat the market. I mean if you think there's any $500 billion of product coming off patent in the next 10 years, roughly 60-40 split between small molecules and large. If you look at our position in Europe, we generally aim to have 80-plus percentage coverage of all LOEs in small molecules. We've consistently executed around that and delivered growth from Europe. In the biologics space, we've more than doubled the number of assets in partnership in development. So we now have 15-plus assets and they'll start beginning to launch really from the end of '23 onwards, and that drives significant incremental growth and expansion in terms of the margin mix. So we're confident that the expanding portfolio, the strengthening portfolio, both in Europe and in other territories, then will deliver good solid growth.
+
+--------------------------------------------------------------------------------
+Operator    [17]
+--------------------------------------------------------------------------------
+Your next question comes from the line of Tim Anderson from Wolfe Research.
+
+--------------------------------------------------------------------------------
+Unidentified Analyst,   -     [18]
+--------------------------------------------------------------------------------
+Richard Wagner, Wolfe Research on behalf of Tim Anderson. I have 2 questions, please. The first, what other generic companies does Sandoz or Novartis believe are good comps for investors to think about from a valuation perspective. 
+Second question, please. Years ago, I believe Novartis described there as being synergies between having an innovative and generics division, and you had mentioned already an integrated manufacturing network. Today, we see that there are limited to no synergies. My question first, am I mistaken in thinking that there had been synergies put forward in the past? And if not, what has happened over the years?
+
+--------------------------------------------------------------------------------
+Vasant Narasimhan,  Novartis AG - CEO    [19]
+--------------------------------------------------------------------------------
+Yes. Thanks, Richard. So I think it's -- in terms of the comps, I think you all know well, there's a wide range of multiples one Cs in the generic and specialty pharma segment, largely dependent on the mix of products they have and the geographic focus they have. I don't think we're going to be providing specific companies that would be comps, but I can provide, again, the profile. Here you have a business that's #1 in European generics, one of the leaders in most emerging markets that it plays in, a global leader in biosimilars with a limited presence in the U.S. that could be built off of over time. And so we really think about it as a European-focused generics company with a strong global base and a global biosimilars business. 
+You're not going to find a precise company, as we tried to outline on the 2x2 chart that we showed in the slide deck that exactly equates to that. But I think you can find the range of companies that with that mix to say what would be a reasonable multiple for a business like this. And I think it's important to look at that geographic presence and the business segment in order to make that determination as best as possible. In terms of synergies, in 2016, we did have a program in which we integrated Sandoz further into Novartis. And that was based on a thesis, particularly in biosimilars, where we thought that biosimilars could benefit from Novartis' manufacturing capabilities as well as global commercialization scale. 
+In the meantime, the biosimilars market is increasingly -- in most markets we compete behaving like the standard generics market, where you need outstanding cost competitiveness and production. You need the ability to compete with portfolios and tenders. You need to be able to rapidly meet the needs of customers and the important 
+(technical difficulty)
+in production, you need the ability to compete with portfolios and tenders. You need to be able to rapidly meet the needs of customers and the importance of classical medical affairs and large-scale promotional activities is a lot less than market access activities. 
+Given that those synergies no longer exist within the (inaudible) was the primary value driver, we've come to the conclusion that actually our biosimilars and generics business on its own would be best fit to be a stand-alone business and does not have synergies with our core Innovative Medicines business. That is a change, but I think it is also a change in the market environment that we've observed as biosimilars launched over the last 6 or 7 years, and that led to the shift. 
+I would say Sandoz does benefit from the tremendous capabilities of Novartis Biologics in order to drive down cost of goods and have a competitive cost base, we will have service agreements to provide supply to Sandoz, but Sandoz will also have the flexibility now to build its own stand-alone biologics manufacturing, technical development and development organization in order to compete in the long run in the biosimilars segment.
+
+--------------------------------------------------------------------------------
+Operator    [20]
+--------------------------------------------------------------------------------
+Your next question comes from the line of Graham Parry from Bank of America.
+
+--------------------------------------------------------------------------------
+Graham Glyn Charles Parry,  BofA Securities, Research Division - MD and Head of Healthcare Equity Research    [21]
+--------------------------------------------------------------------------------
+So just firstly, actually going back to legal liabilities, just on the Valsartan NDMA lawsuits. And so just clarify again, Sandoz would indemnify Novartis against future liabilities from personal injury lawsuits there. And can you just confirm, again, NDMA was only an issue to Sandoz, not Diovan brand products. And I think only Sandoz cited in lawsuits, just clarify that and confirm that. 
+Secondly, on the manufacturing, just following what you're saying that Valsartan building its own manufacturing network. Would the intent also be for Sandoz seize significant increase in third-party manufacturing? And how long do you think that shift would be away from Novartis manufacturing because presumably that's a lower incremental return on asset-based returns for Novartis to manufactured generics? 
+And then third and last question, just on leverage. You touched on the leverage that Sandoz would have, but also allowing it to pursue its own strategy. Do you see the generics and/or biosimilars business is fragmented and Sandoz as a potential consolidation in that market?
+
+--------------------------------------------------------------------------------
+Vasant Narasimhan,  Novartis AG - CEO    [22]
+--------------------------------------------------------------------------------
+Yes. Thanks, Graham. So first, on legal liabilities, I confirm that Novartis is not a party to the nitrosamines with respect to Valsartan. And again, our principle is that liabilities that are predominantly or completely associated with a given business, those liabilities will go with the business at the time of spin. So yes, those liabilities would move with respect to Sandoz. With respect to manufacturing, the current expectation is a 5-year agreement to provide supply to Sandoz and biosimilars with the option to extend to 2 years. That's our current assumption. 
+And of course, Sandoz, I think, would want to try to see if they can move it out of the Novartis network if they have their own capacity and ability to drive lower cost of goods in the meantime. Nonetheless, we want to ensure business continuity and business stability for Sandoz to enable that the Sandoz business to be as successful as possible to providing that 5-year assurance, we think, is reasonable. And in terms of Sandoz being a consolidator in the generic space, maybe Richard, you want to comment on BD&L opportunities and...
+
+--------------------------------------------------------------------------------
+Richard Saynor,  Novartis AG - CEO of Sandoz    [23]
+--------------------------------------------------------------------------------
+I think we will. I think in our plan assumptions, we would continue to look M&A and BD targets. But given that we have such broad coverage of LOE, I can't see much consolidation, there will be around very much specific either assets or what market segments or strength in particular markets. So I don't see a strong consolidation in this sector. Yes.
+
+--------------------------------------------------------------------------------
+Vasant Narasimhan,  Novartis AG - CEO    [24]
+--------------------------------------------------------------------------------
+So more of a targeted approach to BD and M&A for Sandoz.
+
+--------------------------------------------------------------------------------
+Operator    [25]
+--------------------------------------------------------------------------------
+Your next question comes from the line of Mark Purcell from Morgan Stanley.
+
+--------------------------------------------------------------------------------
+Mark Douglas Purcell,  Morgan Stanley, Research Division - Equity Analyst    [26]
+--------------------------------------------------------------------------------
+I have 2. The first one is on pricing environment and the second one on policy changes. In terms of the pricing environment, I mean the biosimilars market is becoming increasingly competitive, is often half a dozen biosimilar companies now chasing the same target. But at the same time, the inflationary environment is becoming less helpful when it comes to generic operating margins, especially for players without the global scale you've just described, Sandoz already has. So could you help us understand the anticipated pricing environment going forward and where Sandoz fits against this backdrop? 
+And then secondly, the Inflation Reduction Act might change the balance between extended patent litigation battles, which you've been involved in several at the expense of being subject to direct negotiations and deeper discounts on the long term within Medicare. And then otherwise, the flip side is you could have another model where you see the advances of limited biosimilar competition within the context of a more favorable pricing dynamic environment. 
+So what's your view there in terms of the legislative changes that we're currently seeing and whether that's supportive for business like Sandoz competing in biosimilars?
+
+--------------------------------------------------------------------------------
+Vasant Narasimhan,  Novartis AG - CEO    [27]
+--------------------------------------------------------------------------------
+Thanks, Mark. So first on the pricing environment, Richard?
+
+--------------------------------------------------------------------------------
+Richard Saynor,  Novartis AG - CEO of Sandoz    [28]
+--------------------------------------------------------------------------------
+Yes, it's a good question, but I think it's a little bit general. If you think the 2 launches that we're looking towards next year, you've got adalimumab in the U.S. sort of the single biggest LOE event in the history of this industry. And we probably see a 10, 11 competitors. So and I think there, you'll see a very strong price erosion. 
+But equally then you start seeing slightly smaller size opportunities for drugs like natalizumab, where we see potentially again we look to file in the U.S. again. And there, we probably don't see any competition for the next 4, 5 years. So again, it's very, very different by different products. And I think certainly on the biologics, clearly, the cost and time element and the number of biologics now is increasing. So I think there's always going to be an attractive space in terms of that mix. 
+On the small molecules, it's something that's been consistent in this industry. Normally 4, 5 points of price erosion is pretty standard and it tends to flow through. But clearly, again, looking at moving up the value chain to more specialty injectables, complex injectables, respiratory assets again, lower levels of competitive intensity and more sustainable over longer periods of time will help manage some of that as well.
+
+--------------------------------------------------------------------------------
+Vasant Narasimhan,  Novartis AG - CEO    [29]
+--------------------------------------------------------------------------------
+Thanks, Richard. In terms of the Inflation Reduction Act, I think it's a great question, Mark, and I can't say that we have the perfect answer yet. We're certainly looking at scenarios of how things might play out given the proposal and when biologics are negotiated, how they might be negotiated and what that might mean for the attractiveness of biosimilars, also some of the other smaller legislative changes that happened with respect to trying to promote biosimilars. So I don't think we have a definitive answer to your question. 
+It's likely, as Richard said, in some biosimilar cases, we will have to now reassess if -- I'm sure Richard and team actually will reassess it the biosimilar is still attractive market opportunity, but there will still be handful of options and opportunities to launch highly attractive biosimilars. And just to build on Richard's answer, I think there are multiple places where Sandoz is uniquely positioned. Just 2 examples are natalizumab and adalimumab are places where Sandoz has a unique position is pick the molecule where there is the ability to be one of the few players in the market and then hopefully drive long-term success.
+
+--------------------------------------------------------------------------------
+Operator    [30]
+--------------------------------------------------------------------------------
+Your next question comes from the line of Seamus Fernandez from Guggenheim Securities.
+
+--------------------------------------------------------------------------------
+Seamus Christopher Fernandez,  Guggenheim Securities, LLC, Research Division - Senior Analyst of Global Pharmaceuticals    [31]
+--------------------------------------------------------------------------------
+So just 2 quick questions. First, just on sort of capital allocation and share repurchase discussions that sort of kicked off and share repurchases that were along the way this year. How should we be thinking about capital allocation going forward? Obviously, you guys have confirmed the strength of the dividend, but I just wanted to get a better sense of how we should be thinking about the share repurchase plan that were announced towards the end of last year and initiated more strongly this year. 
+And then the second question relates to just sort of the interchangeability question, which I think is a question that's kind of increased or intensified to some degree with the Coherus' ranibizumab approval to the generic of Lucentis or biosimilar Lucentis. 
+How do you guys sort of decide because the FDA continues to talk about a -- treating each biosimilar as a one-off, but how do you decide on the types of trials that are necessary to run going forward as we think about those types of possibilities? Do you see interchangeability as kind of the most realistic path forward to pursue over time?
+
+--------------------------------------------------------------------------------
+Vasant Narasimhan,  Novartis AG - CEO    [32]
+--------------------------------------------------------------------------------
+Thanks, Seamus. First on share -- or share buybacks, Harry?
+
+--------------------------------------------------------------------------------
+Harry Kirsch,  Novartis AG - CFO    [33]
+--------------------------------------------------------------------------------
+Yes. Seamus, thank you very much for the question. It's probably a short -- I could do a very short answer with this, nothing changes. So the announcement today is -- doesn't have any impact on our capital allocation of Novartis. So we continue with our $15 billion share buyback as we have started it. We expect that in the second half of next year, this is concluded, and then we see what further capital allocation decisions have to be made. The dividend, as you mentioned, is expected to grow and of the Swiss franc per share base that we had this year over the next years, of course, and that's our dividend policy of growing and strong dividend Swiss franc per share. 
+And in terms of M&A, bolt-on, it continues -- will continue to be our focus to strengthen our therapeutic areas, which we have clarified to be 5. And so from that standpoint, no change of the capital allocation policies.
+
+--------------------------------------------------------------------------------
+Vasant Narasimhan,  Novartis AG - CEO    [34]
+--------------------------------------------------------------------------------
+Very good.  And Richard, on interchangeability?
+
+--------------------------------------------------------------------------------
+Richard Saynor,  Novartis AG - CEO of Sandoz    [35]
+--------------------------------------------------------------------------------
+I guess the jury is still out. I mean, clearly, it's not something we've deliberately pursued at this point. I think we'll see how I think the market evolves with the ADA launch where some parties have gone for interchangeability, the majority haven't. And then we'll consider how then we choose to file going forward.
+
+--------------------------------------------------------------------------------
+Vasant Narasimhan,  Novartis AG - CEO    [36]
+--------------------------------------------------------------------------------
+Very good. Thanks, Richard.
+
+--------------------------------------------------------------------------------
+Operator    [37]
+--------------------------------------------------------------------------------
+Your next question comes from the line of Peter Welford from Jefferies.
+
+--------------------------------------------------------------------------------
+Peter James Welford,  Jefferies LLC, Research Division - Senior Equity Analyst & European Pharmaceuticals Analyst    [38]
+--------------------------------------------------------------------------------
+I've got just, I think, 3 left. Firstly, just with regards to the actual split of the businesses, and apologies if this has been said, but are there any parts of Novartis at all that will go with Sandoz at the spin or are the companies very much as that we see at the moment in terms of the revenue split? I think in particular, as I think there's a contract manufacturing business, as an example, within Novartis. But also, and I know this has been addressed in the past, I thought I'd bring it up again. Can you just confirm of the respiratory business as these at all will go with the spin to Sandoz? 
+Secondly then, just with regards to the sale process or at least the stories that they were in the media, are you able now to confirm, were there any approaches that were made for you to buy Sandoz, where they only have a preliminary and perhaps how those discussions panned out or whether the decision was made that, that was not the most prudent and tax-effective way to pursue this split?
+And then just finally, you mentioned the biosimilars and what's going on there with regards to manufacturing. Are there also any clauses with regards to Sandoz's freedom to potentially develop biosimilars to Novartis' own medicines in the future? Or will the -- will it be total free in to operate as far as standards and strategy in the future?
+
+--------------------------------------------------------------------------------
+Vasant Narasimhan,  Novartis AG - CEO    [39]
+--------------------------------------------------------------------------------
+Yes. Thanks, Peter. So first with respect to the segments, Novartis in terms of Novartis and Sandoz, we shifted the contract manufacturing business into the IM P&L. So now the 2 businesses are reported as -- you would actually expect them to be a stand-alone entity. I don't know, Harry, if there's anything more you want to add or...
+
+--------------------------------------------------------------------------------
+Harry Kirsch,  Novartis AG - CFO    [40]
+--------------------------------------------------------------------------------
+Yes. I mean there is certainly not any significant move, biosimilars, the current generics portfolio as reported for Sandoz is there, the contract manufacturing is -- and stays with Novartis.
+
+--------------------------------------------------------------------------------
+Vasant Narasimhan,  Novartis AG - CEO    [41]
+--------------------------------------------------------------------------------
+Respiratory stays with IM as well.
+
+--------------------------------------------------------------------------------
+Harry Kirsch,  Novartis AG - CFO    [42]
+--------------------------------------------------------------------------------
+Respiratory stays. So it's pretty much, in the overall scheme of things, pretty much the current segment reporting on the sales.
+
+--------------------------------------------------------------------------------
+Vasant Narasimhan,  Novartis AG - CEO    [43]
+--------------------------------------------------------------------------------
+And then Peter, in terms of the sales process, I can confirm we only had received preliminary inbound interest but never any formal offers from private equity. It is our fiduciary responsibility that if we were to receive any further inbound interest, of course, fully evaluate them and ensure that it's in the best interest of our shareholders to continue down the spin path. But that is absolutely our current intention and expectation that the spin is the best way to go for our shareholders and the 2 businesses. 
+And then lastly, in terms of biosimilars, Sandoz on spin would have freedom to operate to pursue any business opportunity that it would like, including developing biosimilars for Novartis products.
+
+--------------------------------------------------------------------------------
+Operator    [44]
+--------------------------------------------------------------------------------
+Your next question comes from the line of Stephen Scala from Cowen.
+
+--------------------------------------------------------------------------------
+Stephen Michael Scala,  Cowen and Company, LLC, Research Division - MD & Senior Research Analyst    [45]
+--------------------------------------------------------------------------------
+The first question is a follow-up of an earlier question. But -- did the recent health care reform bill give management any pause in pursuing this transaction at this time? One could argue diversification could be an asset. So taking a bit more time to think it through might have been a good idea. So that's the first question. 
+Second question is, I appreciate that you are seeking to focus on Novartis' innovative medicine strategy. And I understand that Sandoz has some company-specific issues, which make it unique. But when Novartis got into generics 20-plus years ago, Novartis Pharma's goal was also to pursue innovative medicines. And my recollection is that it was pretty good at it. So why did owning a generics business makes sense 20 years ago, but not now? Has the pharma market changed? And if so, how? Or do you believe the strategy was just wrong 20 years ago?
+
+--------------------------------------------------------------------------------
+Vasant Narasimhan,  Novartis AG - CEO    [46]
+--------------------------------------------------------------------------------
+Thanks, Steve, and nice to hear from you as always. In terms of health care reform, no, it did not give us pause. I think we have ample time and opportunity to take appropriate strategies in the U.S. Medicare market where I would note that Novartis is one of the lowest exposed companies in the sector. We've reconfirmed that through our own re-analysis based on the latest legislation. And in terms of our pipeline, we can adapt the pipeline, I think, to optimize value creation even in the context of potential price negotiations? 
+And then also as I answered to the earlier question from Seamus that we -- or for Mark Purcell, it's difficult to judge at the moment, but also for biosimilars, we think there's ample opportunity to -- within the biologics segment as well for biosimilars. It would just have to, of course, be adjusted for the various elements of the recent past legislation. So it didn't give us pause and we moved ahead based on business strategy, value creation for shareholders. 
+Now in terms of the history, I think there's been 2 large trends that have happened that I think have enabled -- led to this decision. I can't speak to the decisions 25 years ago. But there was an expectance I believe, at that point in time for these businesses to converge more and more for there be opportunities for being in the generic segment to give you portfolio options to improve the performance of innovative medicines and for innovative medicines to increase the options for our generics business and holding both of those would allow you to provide a unique value proposition to governments and customers. 
+Now the reality is, over the last 20 years, the businesses have further diverged and that innovative medicines is very unique, commercialization, R&D, et cetera, and generics has an even more specialized and different commercial model such that there is no identifiable synergies that we can find in any of our key elements of our value chain between these 2 businesses. 
+So I think it's a question of there was a hypothesis, and it didn't fully plan out as the company expected. So then it's a logical thing to do to now separate and go in 2 separate directions. I think on the innovative medicine side, the other element of the story is that, of course, the competitiveness and the breadth of technologies and science that's out there means that being a winner in innovative medicines takes tremendous focus on outstanding R&D productivity and world-class commercialization as well as being on the leading edge of various technology platforms that are emerging and then having the ability to flex across those different technology platforms as more data arises. Keeping the minds of our management team and the energy of our organization focused on that, outstanding R&D productivity and outstanding innovative medicines commercialization, we believe it's a better long-term value creation opportunity and use of our capital than splitting our capital across these 2 businesses.
+
+--------------------------------------------------------------------------------
+Operator    [47]
+--------------------------------------------------------------------------------
+And your next question comes from the line of Matthew Weston from Credit Suisse.
+
+--------------------------------------------------------------------------------
+Matthew Weston,  Crédit Suisse AG, Research Division - MD and Co-Head of European Pharmaceutical Equity Research    [48]
+--------------------------------------------------------------------------------
+One quick follow-up and a question for Richard. Harry, you mentioned the $1.4 billion single upfront cost of the split. Can you confirm if that's all cash? .
+And then the second question for Richard. Given your very strong footprint, particularly ex U.S., there have been a number of moves more recently from companies that I would say are kind of crossovers between specialty pharma and generics to take on tail products from major pharma and try and limit their decline and maximize the cash flow from those products. Is that something you can ever see Sandoz doing in the future that would fit with your existing footprint? Or that's outside what you see as your core business?
+
+--------------------------------------------------------------------------------
+Vasant Narasimhan,  Novartis AG - CEO    [49]
+--------------------------------------------------------------------------------
+Very good. First, Matthew -- first, Harry, on the $1.4 billion?
+
+--------------------------------------------------------------------------------
+Harry Kirsch,  Novartis AG - CFO    [50]
+--------------------------------------------------------------------------------
+Yes, the onetime separation cost, mostly cash, distributed probably over 3 years, some of it or most of it before the separation and some of it after. So yes, that's also how it played out for Alcon.
+
+--------------------------------------------------------------------------------
+Vasant Narasimhan,  Novartis AG - CEO    [51]
+--------------------------------------------------------------------------------
+Thanks, Harry. And Richard?
+
+--------------------------------------------------------------------------------
+Richard Saynor,  Novartis AG - CEO of Sandoz    [52]
+--------------------------------------------------------------------------------
+I guess it's a good question. I don't see it as a key strategic driver. I mean there are certain parts of the portfolio. So in Europe, actually, we're the second largest OTC generics company, highly attractive segment, those kind of areas are much more interesting. They have growth potential, we can promote and expand them. The trouble with mature brands and less are in very specific therapy areas. So clearly, we bought the GSK business, but that's a business that fundamentally has growth potential and is very specialized. Those assets have generally declined quite rapidly. We've taken an awful lot of investment to get any kind of growth back. So they're not so attractive. So I'd much rather focus in different areas.
+
+--------------------------------------------------------------------------------
+Vasant Narasimhan,  Novartis AG - CEO    [53]
+--------------------------------------------------------------------------------
+Perfect. Thanks, Matthew, for the follow-ups.
+
+--------------------------------------------------------------------------------
+Operator    [54]
+--------------------------------------------------------------------------------
+We will now take our last question.  And your last question comes from the line of Jo Walton from Credit Suisse.
+
+--------------------------------------------------------------------------------
+Jo Walton,  Crédit Suisse AG, Research Division - MD    [55]
+--------------------------------------------------------------------------------
+I'm sorry, I was a backup because Matthew had to leave for a short period of time there. But whilst I have the opportunity, can I ask 2 quick questions. Harry, I believe you told us originally that this would take some time to sort out. And if you were going to get serious offers from trade buyers or others interested, they need to see the full financials. You wouldn't have that until the middle of the year. So I'm surprised you say you've only had one preliminary approach because I was under the impression that it was only around now that you would be able to get those approaches. 
+So can I just check and see, is there now a firm view that perhaps the tax situation will be such that you'd have to be offered so much money for the premium. Tax just wouldn't make it worthwhile? Or could we still see a big offer come in? 
+And my second question is that we always ask this, but within -- with Sandoz being a big -- early part of a much bigger company, you've been able not to tell us. But could you give us some idea of your first-to-file status? It's all very well telling us that you have a full pipeline, and there are gazillions of drugs going generic. 
+But if you are not in the first wave, as you are not with HUMIRA in the U.S., for example,  how do we know how much profitability there will be? And you -- other companies give you some sort of proportion or an idea of value where you think you might have 6 months plus of exclusivity?
+
+--------------------------------------------------------------------------------
+Vasant Narasimhan,  Novartis AG - CEO    [56]
+--------------------------------------------------------------------------------
+Yes. Thanks, Jo. And I guess, Credit Suisse is full on this call. We really appreciate it. In terms of the offer, look, there is always the possibility that a party wants to come in. We have now the ability to provide all of the relevant data. And of course, if a very attractive offer came in that would provide us a different value proposition than a spin, we will, of course, fully evaluate it. But based on our diligence and our assessment of the various options, we think the spin is far and away the most likely and best way to separate these 2 companies. But we certainly -- from a fiduciary responsibility, we cannot rule out the fact that a party might come forward, do the appropriate diligence and provide a very large offer. And then, of course, we would evaluate it as such as we would, in any case, in any situation of the separation of the business. In terms of the first to file story, Richard?
+
+--------------------------------------------------------------------------------
+Richard Saynor,  Novartis AG - CEO of Sandoz    [57]
+--------------------------------------------------------------------------------
+Yes, there's 2 parts there. I think clearly, as we look towards the road shows next year, we would think about how we give more clarity about the nature and characterization of our pipeline where we see whether exclusive opportunities also to file. I would -- I mean, I think that said, I mean, I think the U.S. today is sort of the U.S. generic business 5, 10 years ago with 180-day exclusivity, a lot of that has just gone. I mean most now you're first to file among several, most originators do authorized generics. So it's a much more dynamic place. So you have that. 
+And what I would say, I mean, certainly, from a European point of view, where we do have really good coverage, even when we are sometimes not necessarily first to market, we normally end up being the market leader, given the strength and the intimacy that we have in those marketplaces. But I think, again, we look forward to having the opportunity to give more details as we go into next year.
+
+--------------------------------------------------------------------------------
+Vasant Narasimhan,  Novartis AG - CEO    [58]
+--------------------------------------------------------------------------------
+And certainly, I think that the capital markets, road shows that we'll conduct in the first half of this year, we take the point, Jo, that we need to provide more context in detail, and we would certainly plan to do that at that point in time. 
+Thank you all very much for taking the time on short notice. I really appreciate it. I appreciate the questions. Look forward to continuing the dialogue in Meet the Management, and we wish you all a good rest of the week. Thank you.
+
+--------------------------------------------------------------------------------
+Operator    [59]
+--------------------------------------------------------------------------------
+Thank you. This concludes today's conference call. Thank you for participating. You may now disconnect.
+
+
+
+
+
+
+
+--------------------------------------------------------------------------------
+Definitions
+--------------------------------------------------------------------------------
+PRELIMINARY TRANSCRIPT: "Preliminary Transcript" indicates that the 
+Transcript has been published in near real-time by an experienced 
+professional transcriber.  While the Preliminary Transcript is highly 
+accurate, it has not been edited to ensure the entire transcription 
+represents a verbatim report of the call.
+
+EDITED TRANSCRIPT: "Edited Transcript" indicates that a team of professional 
+editors have listened to the event a second time to confirm that the 
+content of the call has been transcribed accurately and in full.
+
+--------------------------------------------------------------------------------
+Disclaimer
+--------------------------------------------------------------------------------
+Refinitiv reserves the right to make changes to documents, content, or other 
+information on this web site without obligation to notify any person of 
+such changes.
+
+In the conference calls upon which Event Transcripts are based, companies 
+may make projections or other forward-looking statements regarding a variety 
+of items. Such forward-looking statements are based upon current 
+expectations and involve risks and uncertainties. Actual results may differ 
+materially from those stated in any forward-looking statement based on a 
+number of important factors and risks, which are more specifically 
+identified in the companies' most recent SEC filings. Although the companies 
+may indicate and believe that the assumptions underlying the forward-looking 
+statements are reasonable, any of the assumptions could prove inaccurate or 
+incorrect and, therefore, there can be no assurance that the results 
+contemplated in the forward-looking statements will be realized.
+
+THE INFORMATION CONTAINED IN EVENT TRANSCRIPTS IS A TEXTUAL REPRESENTATION
+OF THE APPLICABLE COMPANY'S CONFERENCE CALL AND WHILE EFFORTS ARE MADE TO
+PROVIDE AN ACCURATE TRANSCRIPTION, THERE MAY BE MATERIAL ERRORS, OMISSIONS,
+OR INACCURACIES IN THE REPORTING OF THE SUBSTANCE OF THE CONFERENCE CALLS.
+IN NO WAY DOES REFINITIV OR THE APPLICABLE COMPANY ASSUME ANY RESPONSIBILITY FOR ANY INVESTMENT OR OTHER
+DECISIONS MADE BASED UPON THE INFORMATION PROVIDED ON THIS WEB SITE OR IN
+ANY EVENT TRANSCRIPT. USERS ARE ADVISED TO REVIEW THE APPLICABLE COMPANY'S
+CONFERENCE CALL ITSELF AND THE APPLICABLE COMPANY'S SEC FILINGS BEFORE
+MAKING ANY INVESTMENT OR OTHER DECISIONS.
+--------------------------------------------------------------------------------
+Copyright 2022 Refinitiv. All Rights Reserved.
+--------------------------------------------------------------------------------

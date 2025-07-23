@@ -1,0 +1,359 @@
+
+
+Refinitiv StreetEvents Event Transcript
+E D I T E D  V E R S I O N
+
+ATAI Life Sciences NV Announces Strategic Investment in Beckley Psytech Ltd Call
+January 04, 2024 / 1:00PM UTC
+
+================================================================================
+Corporate Participants
+================================================================================
+
+ * Chris Angermayer
+   atai Life Sciences N.V. - Founder & Chairman
+ * Florian Brand
+   atai Life Sciences N.V. - Co-Founder & CEO
+ * Srinivas Rao
+   atai Life Sciences N.V. - Co-Founder & Chief Scientific Officer
+
+================================================================================
+Conference Call Participants
+================================================================================
+
+ * Operator
+   
+ * Charles Duncan
+   Cantor Fitzgerald - Analyst
+ * Ritu Baral
+   TD Cowen - Analyst
+ * Andrew Tsai
+   Jefferies - Analyst
+ * Sumant Kulkarni
+   Canaccord Genuity - Analyst
+ * Patrick Trucchio
+   H.C. Wainwright - Analyst
+
+================================================================================
+presentation
+--------------------------------------------------------------------------------
+Operator,     [1]
+--------------------------------------------------------------------------------
+Hello ladies and gentlemen, thank you for standing by, and welcome to atai Life Sciences conference call. (Operator Instructions) As a reminder, today's call is being recorded.
+Earlier this morning, atai Life Sciences issued a press release providing the details of the strategic investment in Beckley Psytech. The press release is available in the Investor Relations section of the company's website. As a reminder, during today's call, atai Life Sciences will be making certain forward-looking statements within the meanings of the Private Securities Litigation Reform Act of 1995, including our business plans and objectives, and timing and success of our clinical trials, regulatory applications, and commercial launches.
+Such forward-looking statements are not guarantees of future performance and therefore, you should not put undue reliance upon them. These statements are subject to numerous risks and uncertainties that could cause actual results to differ materially from what we expect. atai refers you to the company's SEC filings for discussion of risk factors that could cause our actual results to differ materially from those discussed today.
+At this time, it is my pleasure to turn the call over to atai Life Sciences' Co-Founder and Chairman, Chris Angermayer.
+--------------------------------------------------------------------------------
+Chris Angermayer, atai Life Sciences N.V. - Founder & Chairman    [2]
+--------------------------------------------------------------------------------
+Thank you, operator, and hello, and thank you, everyone, for joining us this morning, this afternoon, wherever you are in the world. Today, we are very thrilled to announce our strategic investment into Beckley Psytech, a private biopharmaceutical company focused on transforming short-duration psychedelic into clinical treatments for mental health condition.
+I'm joined today by my two dear co-founders, Florian Brand, CEO of atai, and Dr. Srinivas Rao, atai's Chief Scientific Officer, who both will walk you later through the strategic rationale for this investment and provide an overview of Beckley Psytech's programs. But first, let me give you my thoughts.
+Since we founded atai in 2018, we have, as you all know, had the bold and ambitious vision to heal mental health disorders so that everyone, everywhere can live a more fulfilled life. When it comes to mental health, there is no one size fits all solution. And so with this investment and collaboration, we continue our dedication to building a diverse portfolio of therapeutics that addresses the heterogeneity in mental health patients.
+Most importantly, and I'm really, really proud of that, we always since our foundation had the ambition to be not just a psychedelic company, but the psychedelic company. With this transaction, we continue now to cement and strengthen our position as the leading company focused on the renaissance of psychedelic with a portfolio that we believe encompasses now, with this acquisition, all major psychedelic with therapeutic use case. So we have DMT, as you know. Now we have 5-MeO-DMT with today's acquisition. We have ibogaine. We have R-MDMA. We have ibopsilocybin via our stake in COMPASS, and now psilocin via Beckley again.
+I also want to reiterate that while we take great pride that we have been the first ones who had the original idea, actually back in 2014 at a place where I'm right now to bring psychedelics into the medical world. And then, as you know, took us several years to transform the idea into the seed funding of COMPASS and the foundation of atai, we are indeed standing on the shoulders of giants who have been advocating for a therapeutic use case of psychedelic since the '60s.
+And Beckley's founder, Lady Amanda Feilding is one of these giants. So joining forces with Amanda, her family, and her team makes me and us especially proud also in terms of historic significance of this transaction.
+But back to the deal. As you know, consistent with our vision, we are deploying an operating platform model that enables a modular and pragmatic approach to generating and capturing value for our shareholders and most importantly, allows us to accelerate the development of therapies for patients. This includes progressing programs in house, like, for example, our DMT program, which we own 100% of, or our R-MDMA as well as making strategic investments and acquisitions like we've done today.
+Especially in times like we have at the moment when (technical difficulty) of biotech companies in my point of view and in my opinion are distorted and artificially low, great founders usually don't want to sell out. So to say bluntly, I would actually have been worried if the Beckley founders would have wanted to sell 100%. But what they all do want and need in times like these, is a well-capitalized partner who can help them achieve their goals.
+Our platform approach allows us to be this partner and to structure win-win deals and by that capture the opportunities times like the current one provides. I hope you all got that I'm really super excited about the transaction.
+I will now hand over to Florian to talk you more about the details, the strategic rationale behind the investment, and to share, especially an overview of Beckley Psytech's exciting programs. And then we have questions later. And again, thank you all for your interest. Florian, over to you.
+--------------------------------------------------------------------------------
+Florian Brand, atai Life Sciences N.V. - Co-Founder & CEO    [3]
+--------------------------------------------------------------------------------
+Great. Thanks a lot, Christian, and good morning, everyone also from my side. Today's strategic investment in Beckley Psytech's really underscores our long-standing conviction in the clinical development of psychedelics. Data to date suggests that short duration psychedelic such as Beckley's two programs, BPL-003 and ELE-101 could offer clinical benefit comparable to longer duration psychedelic compounds in a more efficient and scalable way.
+With shorter treatment times and reduced medical resource requirements, we believe that shorter duration psychedelic could open up access to broader patient populations. Additionally, we believe the 2 hour interventional treatment window that has already been established by J&J's SPRAVATO or esketamine could potentially be leveraged for commercial rollout of shorter duration psychedelic if approved in the future.
+This investment brings BPL-003, which is an intranasal formulation of 5-MeO-DMT and ELE-101, an intravenous formulation of psilocin into our mental health innovation platform, reinforcing our position as the biopharmaceutical company with the largest and most diverse portfolio of clinical stage psychedelic in development.
+BPL-003 and ELE-101 are on track for multiple anticipated clinical readouts within the next 12 months. Importantly, including a Phase 2b readout of BPL-003, in treatment resistant depression or TRD anticipated in the second half of this year. We are very much looking forward to collaborating with the Beckley team and to exploring together potential synergies such as the use of digital tools for patient support, all with the goal to accelerate the development of urgently needed mental health innovations.
+Before we jump to more details of the two drug development programs, let's have a look at the high-level yield terms of this strategic investment. With this transaction, we acquired 35.5% of Beckley Psytech through a total investment of $50 million, consisting of a $40 million direct investment into the company and $10 million in secondary share purchases.
+In addition, we receive a 1:1 warrant coverage with a 30% premium on the primary issuances and we have the right to appoint and hold three of nine seats on Beckley Psytech's Board of Directors. Importantly, atai will hold a time-limited right of first refusal and first negotiation on the future sale of the company, asset sales or other transfers of commercial rights, as well as an indefinite right of first negotiation for BPL-003 and ELE-101.
+Before I will hand it over to Srini, who will dig into each program in greater detail, I will provide you with a brief overview of each asset's key features.
+Let's start with BPL-003, which is an intranasal dry powder formulation of a novel patent-protected salt and crystal form of 5-MeO-DMT. Three trials are currently ongoing with BPL-003 with the Phase 2B trial actively recruiting in the US under an open IND that was accepted by the FDA in February of last year.
+The other compound ELE-101 is an intravenous formulation of psilocin, which is the active moiety in the body when psilocin is administered orally. As such, we view ELE-101 as a relatively derisked asset for its stage of development as it leverages the robust proof of concept data that has been established with psilocin across multiple trials.
+Both of these patent protected assets are characterized by a short duration of psychedelic effect of approximately 2 hours or less. And both of these assets have, in our view, the potential to be first to market and best in class.
+As you can see here on the right side of this slide, this transaction adds multiple near-term clinical milestones to our catalyst map. Importantly, the Phase 2b trial of BPL-003 and TRD anticipated to read out top line results in the second half of 2024. And in addition, results from two open label trials with BPL-003, one in TRD and the other one in alcohol use disorder are anticipated in the first half in middle of this year.
+The results of the combined Phase 1/2a trial of ELE-101 are also anticipated in the first half of this year, and this compound will be tested in patients with moderate to severe MDD rather than TRD in the Phase 2 portion of this trial.
+Srini will now contextualize these assets into our broader depression portfolio and then walk you through some clinical data and the trial design of the BPL-003 and ELE-101 program. Over to you, Sri.
+--------------------------------------------------------------------------------
+Srinivas Rao, atai Life Sciences N.V. - Co-Founder & Chief Scientific Officer    [4]
+--------------------------------------------------------------------------------
+Thanks, Florian, and thank you to the audience for joining us this morning. Both BPL-003 and ELE-101 augment our portfolio psychedelic drug candidates aimed at addressing the treatment of major depression. As I'm sure many of you know, depression is a highly heterogeneous disorder. Two people can meet the DSM-V diagnostic criteria for MDD yet completely different clinical presentations.
+As such we're proud to have assembled a diverse portfolio of assets to address this prevalent yet highly underserved indication. As you can see on this slide, the four assets in our portfolio are differentiated from one another pharmacologically and by target indication, route of administration, and in clinic duration. COMPASS's COMP360, our proprietary formats psilocybin represents a first-generation psychedelic therapy for TRD. It's an advanced clinical development with two Phase 3 trials currently ongoing. The first of which is anticipated to read out midyear.
+COMP360's ingested orally, and it results in a psychedelic experience that last 4 to 6 hours. Existing interventional psychiatry clinics are typically configured to deliver some combination of ketamine, esketamine, or rTMS, all of which involve clinics stays of 2 hours or less. ELE-101 has the potential to directly utilizes this existing infrastructure, as Florian indicated, providing the same active moiety as oral psilocybin, but falling into that to our window.
+Further, ELE-101 is being developed for the treatment of MDD rather than TRD as the case with COMP360. Both BPL-003 and VLS-01 rely on transmucosal absorption as neither moiety or is orally bioavailable. As mentioned previously, BPL-003 is administered intranasally and systemically absorbed through the nasal mucosa. As many of you are already aware, VLS-01 is an oral thin film that is applied to the buccal or internal cheek mucosa and it's absorbed there.
+In terms of pharmacology, DMT itself shows approximately the same 5-HT2A to 1A receptor binding ratio as psilocin. Both primarily target 2A receptor and this activity is hypothesized to drive psychedelic effects. However, the pharmacology of 5-methoxy-DMT is different from both psilocin and DMT as it binds the 5-HT1A receptor approximately 100 times more tightly than the 2A receptor.
+This difference potentially underlies the subjective experiential differences that have been noted with 5-methoxy-DMT versus other psychedelic. These pharmacological and experiential differences may have therapeutic implications and important consideration given the heterogeneity of the population of patients with depression.
+Let's dig a little deeper into BPL-003, a Phase 1 stat study was recently completed in which BPL-003 was shown to be safe and well tolerated across the seven doses tested. No severe or serious adverse events are noted and the most common AEs were nasal discomfort, nausea, vomiting, and headache. Dose-proportion of PK was observed as was a short Tmax of 6 to 17 minutes. The duration of exposure was short, with plasma concentrations approaching 0 within 90 minutes of administration across all dose levels.
+From a pharmacodynamic standpoint, BPL-003 demonstrated robust psychedelic effect as measured by the subjective drug intensity scale or SDI in this Phase 1 study at doses 6 milligrams and above. Indeed, all subjects in these dose groups achieved scores of 7 or greater out of 10 on the SDI.
+Notably, subjective effects came on within a few minutes of administration were prominent for 30 to 45 minutes depending on dose and generally dissipated by 90 minutes. These promising results compelled Beckley to advance BPL-003 into three Phase 2 trials. As noted earlier, all three of these trials are underway now with data readouts anticipated over the next year.
+Let's dig into the first trial anticipated readout in TRD. In summary, this open label Phase 2A trial is exploring the safety and tolerability of 10 milligrams of BPL-003 in 12 patients diagnosed with TRD. The trial is enrolling patients presenting with moderate-to-severe symptoms who are willing and able to discontinue antidepressant medications prior to the dosing of BPL-003.
+The subjects will be followed for approximately 12 weeks and several exploratory endpoints focused on efficacy will be collected. These include the mattress at multiple time points, the CGI, PGIC, and a measure of quality of life, the EQ-5D. We anticipate results from this trial to be available in the first half of this year.
+Let's move now to the Phase 2b trial, which is actually very similar to COMPASS's Phase 2b trial of COMP360 in both science and design. Briefly, this is a randomized double-blind study assessing the effects of a single administration of BPL-003 in approximately 225 patients diagnosed with moderate to severe TRD. While COMPASS's Phase 2b, this trial is dose controlled with subjects randomized to receive 0.3, 8, or 12 milligrams of BPL-003.
+The primary endpoint of this study is the MADRS assessed at week four with key secondary endpoints that include safety and other measures of efficacy at multiple time points. This is a global trial with sites in the US, EU, and Australia. The first subject was dosed in October of last year. And as mentioned earlier, top line results from this trial were anticipated in second half of this year.
+It's also worth mentioning that patients who complete the Phase 2b study will have the opportunity to enroll in an open-label extension trial. This trial will evaluate the safety and efficacy of an additional administration at 12 milligrams of BPL-003 over a follow-up period of 8 weeks. We expect these data will be highly informative to the design of future studies.
+With that, let's turn our attention to ELE-101. As mentioned earlier, ELE-101 is a benzoate salt formulation of psilocin that is administered intravenously via short infusion. There are two potential benefits of this approach. First, it's anticipated result in less variability in systemic psilocin concentrations compared to oral psilocybin. Second, based on PK modeling ibopsilocybin is expected to have a much shorter exposure versus oral psilocybin. This in turn should translate to a short duration of psychedelic effects lasting less than 2 hours.
+Such a profile may be more convenient for both patients and physicians compared to a 4-to-6-hour experience. We anticipate this may allow for increased commercial scalability and thus improved access for patients overall. Beckley's investigating ELE-101 used in MDD and a combined Phase 1/2a trial is currently ongoing.
+The Phase 1 component of this combined trial involves trail design and focused on assessing the safety, tolerability, pharmacokinetics, and pharmacodynamics of [ID ELE-101]. Four dose cohorts are planned, but up to six cohorts are possible. The goals of the Phase 1 trial will be to confirm the hypothesis that ibopsilocybin result in reduced PK variability and a short duration of both exposure and psychedelic effects compared to oral psilocybin.
+Upon successful completion of the Phase 1 trial component, a dose will be selected and advance into the open label Phase 2a portion of the trial. This will enroll 12 patients with moderate-to-severe MDD rather than TRD as is being tested with BPL-003. These subjects will be given a single administration of ELE-101 and then follow it for four weeks.
+The primary objective of this Phase 2a trial will be to assess the safety and tolerability of ELE-101 in an MDD patient population. However, exploratory efficacy endpoints, including the MADRS will be measured at multiple time points. The company anticipates reporting top line results from this trial in the first half of 2024. And with that, I'll hand it back to Florian to wrap up. Florian?
+--------------------------------------------------------------------------------
+Florian Brand, atai Life Sciences N.V. - Co-Founder & CEO    [5]
+--------------------------------------------------------------------------------
+Thank you, Srini. At entire, our ambition is to build the leading mental health innovation company with a focus on differentiated assets with prior clinical evidence. Today's strategic investment underscores our long-standing conviction in developing psychedelic based treatments as I mentioned before, and we believe that this collaboration with Beckley Psytech can lead to accelerating the development of promising short acting psychedelic with first-in-class potential such as BPL-003 and that have the opportunity to drive broader patient access.
+As a result of this transaction and the addition of multiple meaningful clinical catalysts over the next 12 months, atai becomes even better positioned to generate value for our shareholders and patients. Would now like to turn the call back over to the operator to open up the line for questions. (Conference Instructions) Operator?
+
+================================================================================
+q-and-a
+--------------------------------------------------------------------------------
+Operator,     [1]
+--------------------------------------------------------------------------------
+(Operator Instructions)
+Charles Duncan, Cantor.
+--------------------------------------------------------------------------------
+Charles Duncan, Cantor Fitzgerald - Analyst    [2]
+--------------------------------------------------------------------------------
+Yeah, good morning, Florian and Srini. Congratulations on this transformational transaction. And Christian, nice to hear from you. Happy new year. Pretty interesting increase in visibility on the pipeline. I had a couple of quick questions regarding BPL-003.
+First of all, could you give us a sense of the enrollment thus far? I know that treatment when we began in October, have any patients actually been through treatment and have any entered the open-label extension?
+And then as a follow-up, Srini, can you give us a sense as to the effect size? Do you think short duration psychedelic experience may increase or reduce the effect size and then the durability? Thanks.
+--------------------------------------------------------------------------------
+Florian Brand, atai Life Sciences N.V. - Co-Founder & CEO    [3]
+--------------------------------------------------------------------------------
+Thanks, Charles.
+--------------------------------------------------------------------------------
+Chris Angermayer, atai Life Sciences N.V. - Founder & Chairman    [4]
+--------------------------------------------------------------------------------
+(Multiple speakers) Happy New Year, like I've forgotten, it has been a because we're already so in work mode with that transaction. (multiple speakers), especially for Charles like, yeah, happy new year, it's going to be a great one.
+--------------------------------------------------------------------------------
+Florian Brand, atai Life Sciences N.V. - Co-Founder & CEO    [5]
+--------------------------------------------------------------------------------
+Indeed. Thanks Chris.
+And Srini, do you want to jump in on these questions?
+--------------------------------------------------------------------------------
+Srinivas Rao, atai Life Sciences N.V. - Co-Founder & Chief Scientific Officer    [6]
+--------------------------------------------------------------------------------
+Yeah, absolutely. So Charles, as you -- as we noted, I mean, we're basically -- we just guided that the first patient was dosed in October, and we're guiding that the trial will readout at the end of the year. So we really haven't given any more color than that on this study. You and I've had multiple conversations about the correlation between duration of psychedelic effect and either magnitude of efficacy or duration or durability of efficacy.
+I mean the short answer is I don't think that question has been fully elucidated yet. Obviously, this trial will be important to generate that data. As I've mentioned in multiple calls previously, I think there -- we're really targeting a sweet spot with VLS-01, which we think of it as sort of a 30 to 45 minutes psychedelic window. Not too short, not too long sort of Goldilocks sort of territory.
+BPL-003 squarely hits as well. And as you saw from the simulation slide, the PK slide with ELE-101, we anticipate that to hit something very similar as well. So obviously, this is a really important question and something that's TBD. Couple of trials that are ongoing that should address this. And I think this is one of the largest -- The BPL-003 to three trial is one of the largest and most powerful study to really address this question.
+--------------------------------------------------------------------------------
+Charles Duncan, Cantor Fitzgerald - Analyst    [7]
+--------------------------------------------------------------------------------
+Very good. That's helpful. If I may ask a question of you or Stephen or whoever regarding the IP, I'm wondering the kind of diligence that you did here and do you have a sense of kind of the durability of the intellectual property protection for these two agents? Thanks.
+--------------------------------------------------------------------------------
+Florian Brand, atai Life Sciences N.V. - Co-Founder & CEO    [8]
+--------------------------------------------------------------------------------
+Maybe I (multiple speakers) --
+I just wanted to say we, of course, Charles, we took a very close look at look at the IP statement, it's essential part of diligence. And then Srini, maybe you want to kind of give some high-level comments.
+--------------------------------------------------------------------------------
+Srinivas Rao, atai Life Sciences N.V. - Co-Founder & Chief Scientific Officer    [9]
+--------------------------------------------------------------------------------
+Yeah. I mean so we have some patents that are very similar to what COMPASS has generated. So there's salt forms, there's crystal polymorphs, there's some formulation patents depending on the asset. Obviously, we spent a lot of time on this. And as usual, there's lots of opportunities to create additional IP as clinical data comes in. That's an important question.
+--------------------------------------------------------------------------------
+Operator,     [10]
+--------------------------------------------------------------------------------
+Ritu Baral, TD Cowen.
+--------------------------------------------------------------------------------
+Ritu Baral, TD Cowen - Analyst    [11]
+--------------------------------------------------------------------------------
+Good morning, guys. Thanks for taking the question. My first question's on the 003 Phase 2b trial design. That 0.3 milligram dose, I'm assuming that is a subclinical comparator arm just in the landscape of psychedelic treatment.
+--------------------------------------------------------------------------------
+Florian Brand, atai Life Sciences N.V. - Co-Founder & CEO    [12]
+--------------------------------------------------------------------------------
+Correct.
+--------------------------------------------------------------------------------
+Ritu Baral, TD Cowen - Analyst    [13]
+--------------------------------------------------------------------------------
+What is the placebo effect that you -- like how did Beckley choose the 0.3? And what sort of placebo effect are you expecting from that arm? And then primary endpoint here is a HAM-D, whereas most of the trials that we've seen with psychedelic have used the MADRS. Can you talk about why the HAM-D and what it might show versus other MADRS datasets?
+--------------------------------------------------------------------------------
+Srinivas Rao, atai Life Sciences N.V. - Co-Founder & Chief Scientific Officer    [14]
+--------------------------------------------------------------------------------
+So let me address that the second point first, it is MADRS at four weeks in this one.
+--------------------------------------------------------------------------------
+Ritu Baral, TD Cowen - Analyst    [15]
+--------------------------------------------------------------------------------
+I'm sorry, you're right. Sorry about that. The inclusion (multiple speakers) --
+--------------------------------------------------------------------------------
+Srinivas Rao, atai Life Sciences N.V. - Co-Founder & Chief Scientific Officer    [16]
+--------------------------------------------------------------------------------
+Yeah. No worries. Yes. So the question around dosing is an important one. So, in the slides, I kind of pointed out, the fact that seven doses were tested. The loss in that context was 1. And there were some perceptual observations there. So that was the reason for the decision to go to one-third of that dose, 0.3. They went -- they actually did generate some clinical data with that dose as well as; just wasn't presented today.
+So these are all psychedelic naive patients. So there's obviously going to be some expectation. But nonetheless, in this context, there is essentially no significant sort of perceptual -- perceptional alteration with that 0.3 milligram dose. So again, very analogous to how COMPASS approached it.
+--------------------------------------------------------------------------------
+Ritu Baral, TD Cowen - Analyst    [17]
+--------------------------------------------------------------------------------
+Would you expect a similar placebo effect on the MADRS versus other depression studies at that 0.3 in this trial design?
+--------------------------------------------------------------------------------
+Srinivas Rao, atai Life Sciences N.V. - Co-Founder & Chief Scientific Officer    [18]
+--------------------------------------------------------------------------------
+I mean, broadly again, I think that we are expecting something very similar in terms of magnitude, et cetera, to what that COMPASS are? So there really isn't much of any effect of 0.3 milligram. I think it's functionally very, very much a placebo in this context.
+--------------------------------------------------------------------------------
+Ritu Baral, TD Cowen - Analyst    [19]
+--------------------------------------------------------------------------------
+Got it. And then next question is 101. Could you disclose like where -- which dose cohort are you at, between the four first slide. I'm just wondering how we should be thinking about the side effects of usual suspicion with psilocybin, the nausea, headache, et cetera, maybe blood pressure and what you're seeing to date at which dose?
+--------------------------------------------------------------------------------
+Srinivas Rao, atai Life Sciences N.V. - Co-Founder & Chief Scientific Officer    [20]
+--------------------------------------------------------------------------------
+Yeah, we haven't really provided any more color on that other than to say that we do anticipate the whole trial wrapping up certainly by the end of this half of -- the middle of this year, so the first half of this year. But you're absolutely right. I mean those are the side effects that one would anticipate with psilocybin.
+Because IV infusion, so you have a little bit more latitude there than oral administration in terms of duration of infusion, for example. But yeah, it's always the same as you see with other psychedelic compounds. You have a headache, nausea, vomiting are the main ones that we're watching out for.
+--------------------------------------------------------------------------------
+Ritu Baral, TD Cowen - Analyst    [21]
+--------------------------------------------------------------------------------
+But you personally can see the tolerability profile being kicked off and have seen it before the deal?
+--------------------------------------------------------------------------------
+Srinivas Rao, atai Life Sciences N.V. - Co-Founder & Chief Scientific Officer    [22]
+--------------------------------------------------------------------------------
+We've seen some data.
+--------------------------------------------------------------------------------
+Ritu Baral, TD Cowen - Analyst    [23]
+--------------------------------------------------------------------------------
+Okay.
+--------------------------------------------------------------------------------
+Srinivas Rao, atai Life Sciences N.V. - Co-Founder & Chief Scientific Officer    [24]
+--------------------------------------------------------------------------------
+Yes, again, we're not guiding on that. Yes.
+--------------------------------------------------------------------------------
+Operator,     [25]
+--------------------------------------------------------------------------------
+Andrew Tsai, Jefferies.
+--------------------------------------------------------------------------------
+Andrew Tsai, Jefferies - Analyst    [26]
+--------------------------------------------------------------------------------
+Thanks. Good morning and congratulations on the deal. So maybe two questions for me on 003. For the data set from the Phase 2b data set coming up, what would you want to see on a mattress efficacy drug versus placebo, high and mid dose versus -- sorry, not placebo, but the 0.3, that was the primary endpoint of day 28. And why did you choose day 28 as a primary endpoint as opposed to, let's just say, day 7, for instance?
+And then secondly, just a higher level question for 003, can you just also help us reconcile why you guys are running both an open-label study as well as this Phase 2b study in parallel? Is there -- just trying to understand how you plan to leverage the open-label dataset as it relates to the Phase 2b dataset. Thank you
+--------------------------------------------------------------------------------
+Srinivas Rao, atai Life Sciences N.V. - Co-Founder & Chief Scientific Officer    [27]
+--------------------------------------------------------------------------------
+Yeah. Well, Andrew, great to hear from you. Let's answer the second question first. Obviously, we have received literally inherited these trials, right? So we didn't have anything to really do with them in terms of atai itself.
+There are different questions, of course. The first thing is around safety and tolerability. That trial was kicked off earlier. The open label bit obviously made the decision to get that Phase 2b up and running as well. So really I think the focus is around safety and tolerability in this patient population with their Phase 2a. But then -- and there's going to be that obviously, the Phase 2b is already running and that's really the focus of the program at this point.
+Sorry, what was the first question again? [Little lonely on the West Coast].
+--------------------------------------------------------------------------------
+Andrew Tsai, Jefferies - Analyst    [28]
+--------------------------------------------------------------------------------
+No problem. Day 28 expectations and why day 28 as well?
+--------------------------------------------------------------------------------
+Srinivas Rao, atai Life Sciences N.V. - Co-Founder & Chief Scientific Officer    [29]
+--------------------------------------------------------------------------------
+Yeah. So expectations, not guiding a lot there. You can sort of surmise where one's head would be at this general statement. This is a really well-powered study, as I mentioned. So obviously, anticipating stat say, but beyond that, in terms of effect size, in terms of magnitude change, I mean that's just not something we're going to get into at this point.
+Part of this was -- in terms of the four week versus three week was really kind of -- or one week for that matter is really driven sort of by internal decisions and thoughts around existing data, albeit all open label data around 5-methoxy. So that's what really kind of guided, but that also was then reflected in the size of the trial. Right again, this is a pretty substantial trial to really make sure that that four-week endpoint is nailed.
+--------------------------------------------------------------------------------
+Andrew Tsai, Jefferies - Analyst    [30]
+--------------------------------------------------------------------------------
+Thanks very much.
+--------------------------------------------------------------------------------
+Srinivas Rao, atai Life Sciences N.V. - Co-Founder & Chief Scientific Officer    [31]
+--------------------------------------------------------------------------------
+Absolutely.
+--------------------------------------------------------------------------------
+Operator,     [32]
+--------------------------------------------------------------------------------
+Sumant Kulkarni, Canaccord Genuity.
+--------------------------------------------------------------------------------
+Sumant Kulkarni, Canaccord Genuity - Analyst    [33]
+--------------------------------------------------------------------------------
+Morning. Happy New Year and thanks for taking my question. So my question is on 003. How do you expect the eventual battle for new chemical entity exclusivity for 5-MeO-DMD to play out if and when the molecule gets approved in the US. Asking because Beckley has gone in development than GH also has one roughly at similar stages. Thanks.
+--------------------------------------------------------------------------------
+Srinivas Rao, atai Life Sciences N.V. - Co-Founder & Chief Scientific Officer    [34]
+--------------------------------------------------------------------------------
+Yeah. I got to be first, right? That's the key there. So it's literally NCE new chemical entity exclusivity. So definitely have to be first. Now there's a lot of reasons why we have conviction in this asset, not the least of which is this is the most substantial trial. The GH, as an example at this moment is obviously on clinical hold in the United States.
+So this trial is apparently running primarily -- GH's trials currently running primarily in Europe. It's a much more limited trial in terms of the number of patients as well. So our expectation is considering where Beckley is. It seems to be the furthest along IMDs enables the United States, et cetera. So and with our investment, with the team that's there, we have a lot of conviction that this will be the first to market.
+--------------------------------------------------------------------------------
+Sumant Kulkarni, Canaccord Genuity - Analyst    [35]
+--------------------------------------------------------------------------------
+Thanks.
+--------------------------------------------------------------------------------
+Florian Brand, atai Life Sciences N.V. - Co-Founder & CEO    [36]
+--------------------------------------------------------------------------------
+And at the moment, just to add to this, when we discussed it earlier, but there's an additional differentiation on the route of administration, of course, which we believe that's also a very key point to highlight so internasal versus -- the internasal, they are deliberately of BPL-003.
+--------------------------------------------------------------------------------
+Srinivas Rao, atai Life Sciences N.V. - Co-Founder & Chief Scientific Officer    [37]
+--------------------------------------------------------------------------------
+Yeah. Good point. I mean, I personally been burned in the past with [inhaled] and the FDA kind of take on this. But I don't know what's going on there specifically, but yeah.
+--------------------------------------------------------------------------------
+Sumant Kulkarni, Canaccord Genuity - Analyst    [38]
+--------------------------------------------------------------------------------
+Right. And then a bigger picture question. As you looked at the assets of Beckley specifically, was it the proximity of data that drove this? And what was the thought process behind owning a part of Beckley versus internalizing it wholly?
+--------------------------------------------------------------------------------
+Chris Angermayer, atai Life Sciences N.V. - Founder & Chairman    [39]
+--------------------------------------------------------------------------------
+Well, if I can start here, like as I said, like sometimes you want to own things fully, but like the other side doesn't. And I'm actually kind of happy because I think we -- valuations in biotech are super low at the moment. I think they kind of artificially depressed low. So -- companies if you don't have to you don't want to sell your company now you want to wait till markets recover. So but -- what do you want? You want to raise money.
+So we had actually this discussion because we're also looking at some other stuff like and before either cannot have a deal or I have a market for lemon, which is like the sort of not-so-good founders want to sell out now in the worst moment of all times. Yeah, I rather take a smaller stake. And as you know, we have warrants which would bring us close to 50% in case of exercise, but I rather have sort of half of something amazing at very good terms then owning 100% of something not so amazing or of not getting the deal at all.
+So we're very pragmatic. For us, the most important thing is [IRR] and sort of making the right decisions and then getting sort of the right assets onto our platform. And then additionally, the team is amazing. I want to reiterate that. Cosmo, all the people around him. So I also think we were not just acquired two great sort of therapeutics, but we also acquired some very smart brains, which we also very friendly with each other for a very long time. So we would like to work together. So I think given time, given market, given mutual interests, and win-win situations, that is sort of the best deal structure.
+--------------------------------------------------------------------------------
+Florian Brand, atai Life Sciences N.V. - Co-Founder & CEO    [40]
+--------------------------------------------------------------------------------
+And to manage to add to this, it's also in line with kind of how we've done the structured deal historically. We've been always, as Christian said, pragmatic. It was really the excitement around the data that drove our conviction here and also the potential for scalability and patient access. In addition to some synergies that we see also with some of our enabling technologies, as I mentioned earlier with like the digital, patient support that we will explore together and other synergies.
+So this is really a very -- has been very collaborative approach with them over the last weeks, and we're looking very much forward to explore this further. And if you noticed or as I said earlier, there's also [row from in the row for implies] that allow us a for more formal closer collaboration, adding to Christian's point between our two firms in the future.
+--------------------------------------------------------------------------------
+Operator,     [41]
+--------------------------------------------------------------------------------
+Patrick Trucchio, H.C. Wainwright.
+--------------------------------------------------------------------------------
+Patrick Trucchio, H.C. Wainwright - Analyst    [42]
+--------------------------------------------------------------------------------
+Quite a good morning and congrats on the deal over. I have a couple of follow-up questions on the BPL-003 program. Just first for clarification, is BPL-003 being administered by a third-party device? Or was this device designed by Beckley?
+And then just on the trial design for the Phase 2b trial, just regarding the key inclusion criteria, it's based on the HAM-D and then the primary endpoint is based on the MADRS. I guess I'm just curious, why is there a difference there? And how is treatment resistance being defined in this study in terms of number of prior treatments failed and how does that compare to some of these other TRD trials that we've seen?
+--------------------------------------------------------------------------------
+Srinivas Rao, atai Life Sciences N.V. - Co-Founder & Chief Scientific Officer    [43]
+--------------------------------------------------------------------------------
+Yeah. So it's done in trials sometimes to prevent sort of great inflation or -- sorry, the HAM-D bit. You use a different endpoint or different criterion for inclusion. There's good correlation between the two endpoints, but then you use a separate one for the primary. So that is done. It's been done in multiple trials in the past again, just to prevents any kind of great inflation by the sites, including patients, and that's getting more of a regression to the mean. So that's why that was done in this context.
+--------------------------------------------------------------------------------
+Patrick Trucchio, H.C. Wainwright - Analyst    [44]
+--------------------------------------------------------------------------------
+And (technical difficulty) --
+--------------------------------------------------------------------------------
+Operator,     [45]
+--------------------------------------------------------------------------------
+I'm showing no further questions at this time. I will now turn the call back over to atai Life Sciences, CEO, Florian Brand, for closing remarks.
+--------------------------------------------------------------------------------
+Florian Brand, atai Life Sciences N.V. - Co-Founder & CEO    [46]
+--------------------------------------------------------------------------------
+Thank you and Patrick, if you cut out there, happy to follow up of course, after this call.
+And to the rest of you thanks a lot for dialing in today. We wish you, as Christian said, continued Happy New Year and appreciate your support, and we'll look forward to our continued progress throughout this year. Operator, you can --. Over to you, Christian.
+--------------------------------------------------------------------------------
+Chris Angermayer, atai Life Sciences N.V. - Founder & Chairman    [47]
+--------------------------------------------------------------------------------
+No. I do I say whoever is also at JPMorgan conference next week, so both the Srini, Florian, and I are there together, and we would love to see you. So either drop one of us an e-mail. You have our contact details and then we can schedule something. We all in town for the whole week. So hope to see in person. And again, Happy New Year.
+--------------------------------------------------------------------------------
+Florian Brand, atai Life Sciences N.V. - Co-Founder & CEO    [48]
+--------------------------------------------------------------------------------
+Back to you, operator. Thank you.
+--------------------------------------------------------------------------------
+Chris Angermayer, atai Life Sciences N.V. - Founder & Chairman    [49]
+--------------------------------------------------------------------------------
+Thank you, operator. Bye everybody.
+--------------------------------------------------------------------------------
+Operator,     [50]
+--------------------------------------------------------------------------------
+You're welcome. Thank you for your participation. This does conclude the program. You may now disconnect. Everyone have a great day.
+--------------------------------------------------------------------------------
+Chris Angermayer, atai Life Sciences N.V. - Founder & Chairman    [51]
+--------------------------------------------------------------------------------
+Thank you.
+
+
+
+
+
+
+--------------------------------------------------------------------------------
+Definitions
+--------------------------------------------------------------------------------
+Preliminary Transcript: "Preliminary Transcript" indicates that the 
+Transcript has been published in near real-time by an experienced 
+professional transcriber.  While the Preliminary Transcript is highly 
+accurate, it has not been edited to ensure the entire transcription 
+represents a verbatim report of the call.
+
+EDITED TRANSCRIPT: "Edited Transcript" indicates that a team of professional 
+editors have listened to the event a second time to confirm that the 
+content of the call has been transcribed accurately and in full.
+
+--------------------------------------------------------------------------------
+Disclaimer
+--------------------------------------------------------------------------------
+The London Stock Exchange Group and its affiliates (collectively, "LSEG") reserves the right to make changes to documents, content, or other information on this web site without obligation to notify any person of such changes. No content may be modified, reverse engineered, reproduced or distributed in any form by any means, or stored in a database or retrieval system, without the prior written permission of LSEG. The content shall not be used for any unlawful or unauthorized purposes. LSEG does not guarantee the accuracy, completeness, timeliness or availability of the content. LSEG is not responsible for any errors or omissions, regardless of the cause, for the results obtained from the use of the content. In no event shall LSEG be liable to any party for any direct, indirect, incidental, exemplary, compensatory, punitive, special or consequential damages, costs, expenses, legal fees, or losses (including, without limitation, lost income or lost profits and opportunity costs or losses caused by negligence) in connection with any use of the content even if advised of the possibility of such damages.
+
+In the conference calls upon which Summaries are based, companies may make projections or other forward-looking statements regarding a variety of items. Such forward-looking statements are based upon current expectations and involve risks and uncertainties. Actual results may differ materially from those stated in any forward-looking statement based on a number of important factors and risks, which are more specifically identified in the companies' most recent SEC filings. Although the companies may indicate and believe that the assumptions underlying the forward-looking statements are reasonable, any of the assumptions could prove inaccurate or incorrect and, therefore, there can be no assurance that the results contemplated in the forward-looking statements will be realized.
+
+LSEG assumes no obligation to update the content following publication in any form or format. The content should not be relied on and is not a substitute for the skill, judgment and experience of the user, its management, employees, advisors and/or clients when making investment and other business decisions. LSEG does not act as a fiduciary or an investment advisor except where registered as such.
+
+THE INFORMATION CONTAINED IN TRANSCRIPT SUMMARIES REFLECTS LSEG'S SUBJECTIVE CONDENSED PARAPHRASE OF THE APPLICABLE COMPANY'S CONFERENCE CALL AND THERE MAY BE MATERIAL ERRORS, OMISSIONS, OR INACCURACIES IN THE REPORTING OF THE SUBSTANCE OF THE CONFERENCE CALLS. IN NO WAY DOES LSEG OR THE APPLICABLE COMPANY ASSUME ANY RESPONSIBILITY FOR ANY INVESTMENT OR OTHER DECISIONS MADE BASED UPON THE INFORMATION PROVIDED ON THIS WEB SITE OR IN ANY SUMMARY. USERS ARE ADVISED TO REVIEW THE APPLICABLE COMPANY'S CONFERENCE CALL ITSELF AND THE APPLICABLE COMPANY'S SEC FILINGS BEFORE MAKING ANY INVESTMENT OR OTHER DECISIONS.
+--------------------------------------------------------------------------------
+Copyright 2024 LSEG. All Rights Reserved.
+--------------------------------------------------------------------------------

@@ -1,0 +1,522 @@
+
+
+Refinitiv StreetEvents Event Transcript
+E D I T E D   V E R S I O N
+
+Ipsen SA M&amp;A Call
+JANUARY 09, 2023 / 2:00PM GMT
+
+================================================================================
+Corporate Participants
+================================================================================
+
+ * David Loew
+   Ipsen S.A. - MD, CEO & Director
+ * Howard Mayer
+   Ipsen S.A. - Executive VP and Head of Research & Development
+ * Aymeric Le Chatelier
+   Ipsen S.A. - Executive VP & Group CFO
+
+================================================================================
+Conference Call Participiants
+================================================================================
+
+ * Charles Pitman
+   Barclays Bank PLC, Research Division - Research Analyst
+ * Unidentified Analyst
+    - 
+ * Richard J. Parkes
+   BNP Paribas Exane, Research Division - Head of Pharmaceutical and Biotechnology Team
+ * Delphine Le Louet
+   Societe Generale Cross Asset Research - Equity Analyst
+ * Michael Leuchten
+   UBS Investment Bank, Research Division - Co-Head of Pharmaceuticals Research of Equity Research
+ * Rosie Turner
+   Jefferies LLC, Research Division - Equity Analyst
+ * Jo Walton
+   Crédit Suisse AG, Research Division - MD
+ * Alistair David Campbell
+   RBC Capital Markets, Research Division - Analyst
+ * Simon P. Baker
+   Redburn (Europe) Limited, Research Division - Head of Pharmaceutical Research
+
+================================================================================
+Presentation
+--------------------------------------------------------------------------------
+Operator    [1]
+--------------------------------------------------------------------------------
+Hello, and welcome to the Ipsen conference call and webcast on acquisition of Albireo. 
+I now hand you over to David Loew, Ipsen's CEO. Please go ahead, sir.
+
+--------------------------------------------------------------------------------
+David Loew,  Ipsen S.A. - MD, CEO & Director    [2]
+--------------------------------------------------------------------------------
+Thank you, operator. Good afternoon or good morning, everyone. As you just heard, I'm David Loew, Chief Executive of Ipsen. We're live at the JPMorgan Healthcare Conference in San Francisco, and I'm delighted that you have joined us today as we take you through today's exciting news on the acquisition of Albireo. 
+Please turn to Slide 2. This is our usual safe harbor statements which outlines the routine risks and uncertainties contained within this presentation. 
+Please turn to Slide 3. I'm joined today by Howard Mayer, Ipsen's Head of Research & Development; as well as our CFO, Aymeric Le Chatelier. We'll provide a brief presentation before using the majority of the time to answer your questions. 
+Please turn to Slide 4. I will begin the presentation by taking you through the strategic rationale for the acquisition. I'll then hand over to Howard who will explain the development of Bylvay. I will go through the commercial opportunities before Aymeric runs through the financials. I will then conclude the presentation before we move to your questions. 
+Please turn to Slide 5. So firstly, let me turn to the strategic rationale for today's news. 
+Please turn to Slide 6. Underpinning our vision is the focus on 3 therapy areas. Within oncology, we have strengthened our position in the last 2 years by adding a dozen assets to our clinical and preclinical pipeline. We have also added further assets to our neuroscience pipeline. In rare disease, we look forward to the forthcoming Phase III results in primary biliary cholangitis for elafibranor, which was in-licensed around a year ago. But we do want to expand the scope in rare disease further. And it's this focus that has supported our decision to acquire Albireo. 
+Please turn to Slide 7. This expansion in rare disease is perfectly aligned to our external innovation strategy, which is designed to replenish our pipeline and add further medicines to our portfolio. The focus of this deal is on the potential of Bylvay, a possibly best-in-class rare liver disease medicine with global rise, that's already on the market for a progressive familial intrahepatic cholestasis, or PFIC, in Europe and U.S. There are multiple opportunities presented by this deal. We have the possibility of adding 2 further indications to the currently approved indication for Bylvay with Alagille syndrome and biliary atresia. Furthermore, the acquisition also comes with an early-stage pipeline in adult cholestatic liver diseases. Bylvay and the clinical and preclinical novel bile acid transport inhibitors are clearly an excellent potential strategic fit in rare liver disease with elafibranor. 
+Financially, we anticipate sales of around $800 million and an accretive impact to core operating income from 2025. 
+Please turn to Slide 8. I hand over to Howard.
+
+--------------------------------------------------------------------------------
+Howard Mayer,  Ipsen S.A. - Executive VP and Head of Research & Development    [3]
+--------------------------------------------------------------------------------
+Thanks, David. And hello, everyone. I'd like to spend a few minutes taking you through pediatric cholestatic liver diseases as well as the development of Bylvay. 
+Please turn to Slide 9. Bile acids are chemical compounds found in the liver made from cholesterol. Bile acids have several roles in the body, including promoting the flow and excretion of bile and assisting in the intestinal absorption of fat and fat-soluble vitamins and nutrients. 95% of bile acids are recycled back into the liver from the intestine and reused within the body. A disruption to this process can lead to the buildup of bile acids in the liver, which is known as cholestasis. 
+Neonatal cholestasis reflects an underlying condition causing impaired flow of bile from liver cells into the intestine. This affects approximately 1 in 2,500 live births and about 50% have a known genetic origin. Patients with cholestasis experience symptoms such as intense and severe itching, poor sleep, delayed growth and diminished quality of life. Failure of bile outflow can ultimately cause obstructed bile ducts, portal hypertension, cirrhosis and end-stage liver disease, with some patients requiring liver transplantation. 
+Please turn to Slide 10. Bylvay, or odevixibat, is a potent, oral, non-systemic ileal bile acid transporter inhibitor approved in the U.S. and EU in 2021 for PFIC. By blocking the actions of iBAT, Bylvay reduces the reabsorption of bile acids from the terminal ileum and their return to the liver. Reducing buildup of bile acids or cholestasis prevents liver damage leading to cirrhosis, end-stage liver disease and the need for liver transplantation. 
+Please turn to Slide 11. PFIC refers to a rare heterogeneous group of autosomal recessive disorders of childhood that disrupt bile production or secretion and presents with cholestasis that can lead to significant morbidity. The PEDFIC trials represented the largest trials ever completed in children with PFIC. PEDFIC 1 was a randomized, double-blind, placebo-controlled Phase III trial, aiming to evaluate the efficacy and tolerability of Bylvay in reducing pruritus and serum bile acids in children with PFIC. All patients enrolled in PEDFIC 1 were eligible to participate in PEDFIC 2, a long-term open-label extension phase. 
+Bylvay achieved the primary efficacy end point versus placebo and demonstrated efficacy across multiple PFIC types including the percentage of patients with improved pruritus score, mean reduction in pruritus score from baseline and reductions in serum bile acids from baseline. Bylvay was generally well tolerated. Most treatment-emergent adverse events were mild to moderate in severity. There were no serious treatment-emergent adverse events, discontinuations or deaths.
+Please turn to Slide 12. Alagille syndrome is a rare autosomal dominant disorder caused by either inherited or spontaneous mutations in the JAG1 or NOTCH2 gene, which can affect normal development of multiple organ systems, including the liver. Many patients with Alagille syndrome will ultimately require biliary diversion or liver transplantation. ASSERT is a double-blind, randomized, placebo-controlled, 24-week trial designed to evaluate the safety and efficacy of Bylvay for people living with Alagille syndrome. Top line results were presented at the American Association for the Study of Liver Diseases' annual meeting in November of last year. 
+In 52 patients with a mean age of 6, those who received Bylvay experienced statistically significant improvements in observer-reported scratching score from baseline to month 6 compared with placebo. And looking at the key secondary end point, serum bile acid levels dropped significantly with Bylvay versus placebo at 24 weeks. There were no trial discontinuations, and all patients completed the initial 24-week treatment duration. 96% rolled over into the open-label extension trial. 
+Please turn to Slide 13. Biliary atresia is a rare pediatric liver disease with symptoms typically developing about 2 to 8 weeks after birth and no approved pharmacological therapies. The disease is characterized by destruction or absence of all or a portion of the extrahepatic bile duct system. This results in bile and bile acids being trapped inside the liver, quickly resulting in cirrhosis and liver failure. Kasai surgery, or a hepatoportoenterostomy, can be lifesaving in patients that respond. However, about 50% of patients undergo a liver transplant in the first 2 years of life. 
+BOLD is a double-blind, randomized, placebo-controlled trial to evaluate the safety and efficacy of Bylvay in children who have biliary atresia and have undergone a Kasai procedure before age 3 months and who are eligible to start treatment and randomized within 3 weeks of the procedure. The primary efficacy end point is the proportion of patients who are alive and have not undergone a liver transplant after 2 years in the Bylvay arm compared to placebo. The study has enrolled 205 patients. And based on our due diligence, we are confident in the trial design and may increase the sample size of the study to maximize its probability of success. The FDA and EMA have indicated that a single pivotal study is sufficient to support filing. 
+Thank you for listening. I'll now hand back to David. Please turn to Slide 14.
+
+--------------------------------------------------------------------------------
+David Loew,  Ipsen S.A. - MD, CEO & Director    [4]
+--------------------------------------------------------------------------------
+Thanks, Howard. I'm now going to outline commercial opportunities for Bylvay. 
+Please turn to Slide 15. As you have seen, the development of Bylvay is advanced and is at various stages across the 3 indications. It's worth noting that competition is very limited with only 1 launch so far in Alagille syndrome. We have outlined here our broad assumptions for the numbers of patients across the indications. On pricing, we assume a higher price in Alagille syndrome and then biliary atresia, then in PFIC. Our assumption is that the overwhelming majority of patients will stay on treatment until they need a liver transplant. The time to liver transplant is dependent on the native liver survival rate per indication and per response to the treatment. 
+Please turn to Slide 16. Pulling this together means that we have substantial commercial opportunities to increase the sales of Bylvay. A strong Bylvay efficacy and safety profile has been established, and there are very limited number of competitors in this space. It is leading in PFIC and biliary atresia where competition is in Phase II. Bylvay is already on the market in the U.S. and in Europe for PFIC and already been launched and reimbursed in a number of countries, including in the U.S., where favorable coverage has been secured as well as 9 countries in Europe. 
+The profile of Bylvay has been augmented by compelling results from the ASSERT trial for Alagille syndrome. And regulatory submissions were made in the U.S. and EU late last year, so we would expect regulatory decision in this indication at the end of 2023. Global rights in the hands of a truly global company mean that we can leverage our infrastructure, capabilities and strength to fully accelerate the sales of Bylvay. It's also worth highlighting the convenient dosing with food via capsules once a day, which are preferred by children and teens. Bylvay can be sprinkled over food via oral pellets for babies. Finally, we have a good patent life in both, in U.S. and in Europe. 
+With success in all 3 indications, we can deliver peak sales of around $800 million, of which approximately half will come from biliary atresia. 
+I'll now hand you over to Aymeric who will summarize the financials. Please turn to Slide 17.
+
+--------------------------------------------------------------------------------
+Aymeric Le Chatelier,  Ipsen S.A. - Executive VP & Group CFO    [5]
+--------------------------------------------------------------------------------
+Thanks, David. Please turn to Slide 18. The terms of the agreement include an offer to acquire all outstanding shares of Albireo for $42 per share in cash at closing, which will represent an initial consideration slightly in excess of $950 million. The agreement has been structured to include a contingent value payment based on the approval of Bylvay in biliary atresia in the U.S. by FDA. One contingent value right per share will entitle its holder to a deferred cash payment of $10 per CVR, which will represent about $240 million. As you can see, this transaction will be fully financed by our existing available cash and line of credit, and we will keep after the transaction sufficient firepower to continue our business development strategy.
+Subject to the satisfaction of all closing conditions, including regulatory, we anticipate the closing of the transaction by the end of this quarter. The acquisition of Albireo will immediately provide incremental sales, and we anticipate short-term dilution to our profitability until the end of next year. It's very similar to the Epizyme acquisition. From 2025, we expect accretion to our core operating income. 
+So as you can see, this financial profile is consistent with our outlook to do this and make operating investment under the external innovation strategy to promote the long-term and systemic growth of Ipsen. 
+I will now hand over back to David. Please turn to Slide 19.
+
+--------------------------------------------------------------------------------
+David Loew,  Ipsen S.A. - MD, CEO & Director    [6]
+--------------------------------------------------------------------------------
+Thank you, Aymeric. I'd now like to conclude our presentation before we go to your questions. 
+Please turn to Slide 20. As we make more progress with the execution of our external innovation strategy, I'm pleased to announce today's news. It's another step in our journey of delivering sustainable growth over the long term and supporting excellent medicines to get to more patients. We're expanding the scope of our Rare Disease business by acquiring a leading innovator in bile acid modulators for rare liver diseases with real expertise in bile acid modulation. In Bylvay, we'll have an on-market and potentially best-in-class medicine that has an advanced development program and significant commercial opportunities. Finally, it is an excellent fit for it's in line with the consistent strategy for growth. 
+Please turn to Slide 21. Thanks for listening to our presentation. We now have time for questions. Operator, over to you.
+
+
+================================================================================
+Questions and Answers
+--------------------------------------------------------------------------------
+Operator    [1]
+--------------------------------------------------------------------------------
+(Operator Instructions) The first question is from Jo Walton from Credit Suisse.
+
+--------------------------------------------------------------------------------
+Jo Walton,  Crédit Suisse AG, Research Division - MD    [2]
+--------------------------------------------------------------------------------
+I think the main question that people have is why you are able to get something with peak sales potential of around $800 million for something in the region of $1 billion. Normally, you seem to pay a much higher multiple of potential peak sales. I wonder if there is something unusual in the profitability that we can't see from looking at consensus forecasts that would take the profitability down. 
+Secondly, I note from the company that their guidance was for $24 million of sales for this year. They've already done around $18 million or so. So there's only $6 million left, which is less than the [third] quarter. Now they did make a comment that sales would go down because we're beyond the end of the German free pricing period. So perhaps you could tell us a little bit about how you see pricing developing in Europe. 
+And for our modeling, I wonder if you can help us on what sort of avoidance of interest charge, I mean given that you've got cash, what sort of interest rate we should put against this and whether you are able or intending to get rid of the Sagard Partners' health royalty program. Presumably, you can just buy that out and add that to the initial cost.
+
+--------------------------------------------------------------------------------
+David Loew,  Ipsen S.A. - MD, CEO & Director    [3]
+--------------------------------------------------------------------------------
+Thank you, Jo. So on the $800 million, you have seen that actually, there were already analyst reports, which were much higher. We actually came to the conclusion that with the $800 million, that is the right price, the right figure for peak sales, which I think we're going to achieve in 2029-ish, 2030-ish or so. 
+Now I can't really comment on the multiples of the market. You know, of course, that the market has taken a hit on biotech. And so it's really something that we were also not quite sure how it is to explain. But I think we made a fair offer. And with a 100% premium, I think that's a very fair premium. So that's all I can say on this point. 
+Regarding the sales I think we need to see the official results that Albireo is going to publish. So I think they have been doing quite nicely. In terms of the pricing in Europe, we don't think next to this effect that you have mentioned on Germany, there are other effects. Of course, the pricing in Europe is somewhat lower than in the U.S. That's usual. But there is no special explanation, so watch the space for the Q4 sales. 
+In terms of the modeling, I will hand over to Aymeric.
+
+--------------------------------------------------------------------------------
+Aymeric Le Chatelier,  Ipsen S.A. - Executive VP & Group CFO    [4]
+--------------------------------------------------------------------------------
+Yes. So maybe back a little bit to your question about the profitability. So I think it's a rare disease company, so there is nothing specific that will impair the profitability. There is no specific royalties. The cost of goods are pretty standard and pretty low. So clearly, you were asking the question about the royalty debt financing. As you can see, there is a possibility to potentially buy this out, and that will reduce clearly the level of royalties, which are not assumed in our model. So today, the dilution is assuming we're going to find a way to buy out this royalty debt. 
+Regarding the financing, we have a revolving credit facility that has been set up a couple of years ago, which has a very favorable interest rate in terms of margin. So this shouldn't be a very huge cost of financing for us. And we also have available cash. So the transaction is going to be financed through a combination of our existing cash and some drawing on our revolving credit facility. 
+Last one, maybe on the guidance of the company. I think the company has been quite conservative given the track record since the beginning of the year, so I would assume that the fourth quarter is going to be lower than the previous one. And this was guidance provided in October on the $24 million sales. We'll provide more when we close our books in February.
+
+--------------------------------------------------------------------------------
+Howard Mayer,  Ipsen S.A. - Executive VP and Head of Research & Development    [5]
+--------------------------------------------------------------------------------
+Operator, can I just check? We've had a couple of people say they couldn't hear the first part of David's answer. Can I just check, you're able to hear that?
+
+--------------------------------------------------------------------------------
+Operator    [6]
+--------------------------------------------------------------------------------
+Yes, I was, sir.
+
+--------------------------------------------------------------------------------
+Howard Mayer,  Ipsen S.A. - Executive VP and Head of Research & Development    [7]
+--------------------------------------------------------------------------------
+Okay. Thank you.
+
+--------------------------------------------------------------------------------
+David Loew,  Ipsen S.A. - MD, CEO & Director    [8]
+--------------------------------------------------------------------------------
+And Jo, you got the answer to your questions?
+
+--------------------------------------------------------------------------------
+Jo Walton,  Crédit Suisse AG, Research Division - MD    [9]
+--------------------------------------------------------------------------------
+Yes, I did. I got all the answers. But I do know that some people who are on the webcast are finding it more difficult than those of us who have dialed in.
+
+--------------------------------------------------------------------------------
+David Loew,  Ipsen S.A. - MD, CEO & Director    [10]
+--------------------------------------------------------------------------------
+Okay. Interesting. So it seems to be linked to the webcast. So perhaps these people on the webcast who have difficulties, please dial in through the phone.
+
+--------------------------------------------------------------------------------
+Operator    [11]
+--------------------------------------------------------------------------------
+The next question is from Michael Leuchten from UBS.
+
+--------------------------------------------------------------------------------
+Michael Leuchten,  UBS Investment Bank, Research Division - Co-Head of Pharmaceuticals Research of Equity Research    [12]
+--------------------------------------------------------------------------------
+It's Michael Leuchten from UBS. Three questions, please. Just going back, Aymeric, to your comments around sort of the operating expenses, efficiencies and margin accretion. Given that you have the palovarotene infrastructure sitting there with somewhat of an uncertain future until we exactly know what's happening with the FDA, like how much of the cost that you're taking on will you be able to absorb? Or is there a scenario where you have to keep both your and the other infrastructure in place until you get more clarity and, at that point, there might actually be more efficiencies that allow you to get a better margin accretion than maybe in the first 2 years? So how are you going to absorb or not the OpEx, both in terms of SG&A and R&D that you're taking on with this transaction? 
+And the second question, just wondering how you think about the competition. You did mention LIVMARLI, the Mirum product that's out there for Alagille. So as they now, at some point, get the Phase III readout, how do you think competition is going to shape up in PFIC? Just any thoughts would be helpful. And then is there any timeline to the CVR? Is there any sort of point in time where the CVR expires regardless of what happens with the approval? Or is it open-ended?
+
+--------------------------------------------------------------------------------
+Aymeric Le Chatelier,  Ipsen S.A. - Executive VP & Group CFO    [13]
+--------------------------------------------------------------------------------
+So maybe to start with your question on the OpEx and the palovarotene. I mean, as you know, I mean, on the R&D side, there will be very limited synergies. These are very different studies to be run. And by the way, there's not that much left for palovarotene. So I think your question is more on the SG&A. And clearly, we are building already the infrastructure. It's quite limited that you don't need a lot in this ultra-rare space. So yes, if we were to launch both, palovarotene and Bylvay, we may have some limited synergy, but that's not a major driver today of the cost base. And we believe that there is the right investment behind Bylvay. We need more sales to ramp up, and the dilution is really coming from a progressive ramp-up. We expect by the end of this year to get the second indication and then to progressively ramp up on these 2 indications, and R&D is going to be mainly related to the BA study.
+
+--------------------------------------------------------------------------------
+David Loew,  Ipsen S.A. - MD, CEO & Director    [14]
+--------------------------------------------------------------------------------
+On your second question, Michael, on the competition. So basically, LIVMARLI is already registered in Alagille. We are going to come on the market towards the end of the year. They have shown positive results also in PFIC. It's really hard to compare across studies. And so we see the profile as pretty similar regarding efficacy. Perhaps there is a safety advantage for Bylvay, but it's very, very hard to say because there is less diarrhea for this cross-study comparison, very low numbers of patients. So one needs to be super careful when looking at cross-study comparisons.
+What I can say is where we do see a differentiation is clearly on the dosing. So Bylvay has capsules and pellets. You know that when you need to give a dose to a baby or to a toddler, sometimes it can be hard for those of you who have babies or toddlers. And so the dosing on Bylvay is actually very convenient. So if you have a baby, you can sprinkle the pellets over, for example, an applesauce or a chocolate pudding and the babies usually like that. And then once they grow a bit over and they can start to swallow, then they can take the capsules, which in this market is, I think, very important because this market can go up to teenagers and also some adolescents. So having a capsule, I think, is something which we really like. 
+Then another important point is on BA, which is about 50% of the forecast, clearly, Bylvay has a strong head start being in very advanced Phase III while competition is in Phase II and is measuring on a surrogate end point. So all in all, this is what actually seduced us on Albireo. 
+And then on the CVR and the exploration, I hand over to Aymeric.
+
+--------------------------------------------------------------------------------
+Aymeric Le Chatelier,  Ipsen S.A. - Executive VP & Group CFO    [15]
+--------------------------------------------------------------------------------
+Yes. So as you can see from the press release, the drop date for the CVR is end of December of 2027 as we have room to potentially adjust the number of patients in the BOLD study. And as Howard explained, that's the way to maximize the probability of success of that study, which represents a large part, almost 50% of the $800 million PFICs.
+
+--------------------------------------------------------------------------------
+Operator    [16]
+--------------------------------------------------------------------------------
+The next question is from Simon Baker from Redburn.
+
+--------------------------------------------------------------------------------
+Simon P. Baker,  Redburn (Europe) Limited, Research Division - Head of Pharmaceutical Research    [17]
+--------------------------------------------------------------------------------
+A few quick ones, if I may. On Bylvay, this stemmed to Jo's question about royalties, but specifically on Bylvay. There have been quite a few deals done regionally in the U.S., Israel, Turkey, the Gulf, Japan. So I just wondered if you could give us a summary of where those deals stand in terms of royalties that you were paying away in any key territories on Bylvay. 
+And then the second one, a number of other iBAT inhibitors are being tried in PBC. Bylvay doesn't appear to be in PBC at the moment. I just wonder if that's an additional opportunity. 
+And then a second -- final question, you hadn't talked about elobixibat. Which I think is only approved in Japan and Thailand. I just wonder if you could give us your thoughts on the commercial potential of that as well.
+
+--------------------------------------------------------------------------------
+David Loew,  Ipsen S.A. - MD, CEO & Director    [18]
+--------------------------------------------------------------------------------
+Thank you. So on the royalties, I think we can have Aymeric elaborate on that.
+
+--------------------------------------------------------------------------------
+Aymeric Le Chatelier,  Ipsen S.A. - Executive VP & Group CFO    [19]
+--------------------------------------------------------------------------------
+Yes. I think that there is only a back-to-back agreement on Japan, and this has no impact for us. There has been a transaction, which we don't intend to change contrary to the big royalty financing that was set up by Albireo in September. So clearly, Japan is not in the scope. And that's the only territory, assuming we pay out the Sagard royalty financing that will exist. And this will have no impact. It would be back-to-back.
+
+--------------------------------------------------------------------------------
+David Loew,  Ipsen S.A. - MD, CEO & Director    [20]
+--------------------------------------------------------------------------------
+Then on the iBAT use in PBC. Howard, do you want to elaborate on this?
+
+--------------------------------------------------------------------------------
+Howard Mayer,  Ipsen S.A. - Executive VP and Head of Research & Development    [21]
+--------------------------------------------------------------------------------
+Yes. So we're aware that other iBAT inhibitors are being tried for pruritus in primary biliary cholangitis. Currently, there's no such program for Bylvay. However, there is an oral systemic iBAT inhibitor in the pipeline from Albireo called A3907 that has the potential to be used in adult cholestatic liver diseases, currently PSC, but potentially others. So that's the situation with the pipeline as it stands today.
+
+--------------------------------------------------------------------------------
+David Loew,  Ipsen S.A. - MD, CEO & Director    [22]
+--------------------------------------------------------------------------------
+Thank you, Howard. And then on your third question on elobixibat, so the acquisition includes all of Albireo's marketed products and pipeline assets. And EA Pharma is the exclusive licensee of elobixibat for the treatment of gastrointestinal disorders in Japan and other select countries in Asia, but not including China. Albireo currently has own commercial rights to elobixibat in the United States, Europe and China and otherwise, outside of the territories licensed to EA Pharma. Now we are currently assessing all of our opportunities across the whole of Albireo's portfolio, both marketed and pipeline.
+
+--------------------------------------------------------------------------------
+Operator    [23]
+--------------------------------------------------------------------------------
+The next question is from Rosie Turner from Jefferies.
+
+--------------------------------------------------------------------------------
+Rosie Turner,  Jefferies LLC, Research Division - Equity Analyst    [24]
+--------------------------------------------------------------------------------
+Just a few quick ones left, if I may. So maybe continuing on in terms of the broader pipeline, I think there's A3907, if that's the correct way to say it. It looks like that was going into Phase II in 2022, but I can't see an update on the website. Has that happened? And is that kind of still planned to go into Phase II kind of under Ipsen ownership? 
+Kind of going a little bit back to the royalty question. So does that mean there are opportunities kind of ex Japan for kind of additional sales, thinking about kind of China, et cetera? And then just finally, so the CVR, do we know -- is that going to be tradable? Or is that going to be something that's OTC?
+
+--------------------------------------------------------------------------------
+David Loew,  Ipsen S.A. - MD, CEO & Director    [25]
+--------------------------------------------------------------------------------
+Okay. So perhaps we start with the A3907. It's indeed have just started the Phase II. I'll let Howard elaborate on this one.
+
+--------------------------------------------------------------------------------
+Howard Mayer,  Ipsen S.A. - Executive VP and Head of Research & Development    [26]
+--------------------------------------------------------------------------------
+Yes. A3907, if you look on clinicaltrials.gov, it is public information that it has started a Phase II study with 2 doses in patients with primary sclerosing cholangitis. So that has actually been posted and our understanding is they're imminently going to start that study.
+
+--------------------------------------------------------------------------------
+David Loew,  Ipsen S.A. - MD, CEO & Director    [27]
+--------------------------------------------------------------------------------
+On the question 2, so we do have the rights for Bylvay in China, and we anticipate that it could probably come on the market in 2026 there. So I wasn't quite sure about your question because you asked on royalties and then China, but we don't have Japan, as you know. But we do have China. So perhaps you can quickly clarify your question.
+
+--------------------------------------------------------------------------------
+Rosie Turner,  Jefferies LLC, Research Division - Equity Analyst    [28]
+--------------------------------------------------------------------------------
+Yes. No, that's perfect. That's my question, yes. It's just checking are there any opportunities where you don't have royalty payments, so yes. I guess, it would obviously be China, sounds like it.
+
+--------------------------------------------------------------------------------
+David Loew,  Ipsen S.A. - MD, CEO & Director    [29]
+--------------------------------------------------------------------------------
+Yes, the answer is yes, yes. Okay. And then on the CVR tradable, I give it to Aymeric.
+
+--------------------------------------------------------------------------------
+Aymeric Le Chatelier,  Ipsen S.A. - Executive VP & Group CFO    [30]
+--------------------------------------------------------------------------------
+The answer is no, the CVR is not going to be tradable.
+
+--------------------------------------------------------------------------------
+Operator    [31]
+--------------------------------------------------------------------------------
+We are now taking the next question from the line of Charles Pitman from Barclays.
+
+--------------------------------------------------------------------------------
+Charles Pitman,  Barclays Bank PLC, Research Division - Research Analyst    [32]
+--------------------------------------------------------------------------------
+Charles Pitman from Barclays. Just a few questions for me. Firstly, just on the kind of strength of IP. Could you give us a little bit more detail around the strength of your IP for Bylvay given the footnote in your slide suggests that your currently projecting out to November 2031 but then, based on patent term extensions, likely extended to 2036. Can you just give an idea of the kind of confidence you have on those extensions?
+And then this is on your kind of M&A strategy, this is naturally a more derisked acquisition already being in the market. Is this a kind of strategic change in your strategy going forward? And can you talk a bit more around the reasoning for ensuring the CVR links just to the approval of BA, whilst it's expected to be 50% of your peak sales? 
+And then just a quick clarification question. During the call, I think you said that it was 50% of patients require a liver transplant in the first 2 years, but in the appendix, it says 80%. Can you just clarify which of these is the correct amount?
+
+--------------------------------------------------------------------------------
+David Loew,  Ipsen S.A. - MD, CEO & Director    [33]
+--------------------------------------------------------------------------------
+Okay. So on the IP, yes, we are comfortable on the IP. So expiration in the U.S. will be end '23 is our read and then -- sorry, '33, I would say, end '33, sorry, for the U.S. and for Europe. The loss of exclusivity is end '35. 
+Regarding your second question on the CVR with BA, I hand over to Aymeric.
+
+--------------------------------------------------------------------------------
+Aymeric Le Chatelier,  Ipsen S.A. - Executive VP & Group CFO    [34]
+--------------------------------------------------------------------------------
+Yes. I think your question is -- yes, this transaction is partly derisked because, as you can see, BA is a significant part. There is still a Phase III. And we saw that was the appropriate way of structuring the deal. I think as you can see, timing also of BA may take a little bit longer than what was anticipated. So that's why we structured the deal to be derisked. And that's the way we intend to continue our M&A strategy. That's the way we did it also for Epizyme. And as you know, the elafibranor transaction was also a royalties -- was a licensing agreement where we pay limited upfront. So I think it's very consistent on our M&A strategy.
+
+--------------------------------------------------------------------------------
+David Loew,  Ipsen S.A. - MD, CEO & Director    [35]
+--------------------------------------------------------------------------------
+And operator, can I just confirm, we just had a couple of people saying they couldn't hear Aymeric. Can I just confirm you can hear?
+
+--------------------------------------------------------------------------------
+Operator    [36]
+--------------------------------------------------------------------------------
+Yes, sir. I can hear loud and clear.
+
+--------------------------------------------------------------------------------
+David Loew,  Ipsen S.A. - MD, CEO & Director    [37]
+--------------------------------------------------------------------------------
+Okay. Thank you. and then on the third question regarding native liver transplant survival. I hand over to Howard regarding the BA question.
+
+--------------------------------------------------------------------------------
+Howard Mayer,  Ipsen S.A. - Executive VP and Head of Research & Development    [38]
+--------------------------------------------------------------------------------
+Yes. So the correct answer is that about 50% of patients who've undergone a Kasai procedure will require a liver transplant within the first 2 years of life and with at least 80% requiring liver transplantation by age 20 years. So apologies if that wasn't clear.
+
+--------------------------------------------------------------------------------
+Operator    [39]
+--------------------------------------------------------------------------------
+And the question is from Richard Parkes from Exane BNP Paribas.
+
+--------------------------------------------------------------------------------
+Richard J. Parkes,  BNP Paribas Exane, Research Division - Head of Pharmaceutical and Biotechnology Team    [40]
+--------------------------------------------------------------------------------
+Firstly, does a perception, I think, that maybe Albireo did a good job in terms of development but less in terms of commercial execution, I don't know whether that's correct or not, but I just wondered if you feel that's the case as well and maybe understand how you plan to improve on that and how things could have been done better so far. 
+Then the second question for Howard. I just wondered if you could help us understand what a 1- to 2-point reduction in pruritus score means for a patient, just help us in providing context, it would be really helpful. 
+And then finally, just a couple of minor things. I just wondered if you can help us understand what you've assumed in terms of market shares with the competitor in your $800 million potential? I know you're not going to be specific there, but if you can help us broadly there, that would be helpful. 
+And then finally, sorry, just one more on pricing. Could you just help us by confirming the current pricing? And I think you mentioned that you expected Alagille syndrome pricing to be higher than the other indications. I don't know if I misheard that. I just wondered why that might be. Is the dosing the same across all the indications? Or is there some other difference there?
+
+--------------------------------------------------------------------------------
+David Loew,  Ipsen S.A. - MD, CEO & Director    [41]
+--------------------------------------------------------------------------------
+Okay. Regarding the commercial execution, I think always when you have start-up biotechs launching themselves, it's not necessarily the same performance than if you have a larger company who has been in fields, for example, in rare disease, we have some Somatuline, acromegaly, we have Increlex, et cetera. So we had kind of a very strong organization. It's not the same performance. So we do indeed assume that we can get a stronger performance by showing the full force of Ipsen globally behind the product. And that was also one of the reasons why this acquisition saw the light because the Board also saw that this is an advantage for the drug. And Albireo is very committed to patients and very purpose-led, so are we. And so therefore, that is also a motivation for the acquisition. 
+Then on your second question, Howard, on the 1 to 2 points on pruritus, what does it mean?
+
+--------------------------------------------------------------------------------
+Howard Mayer,  Ipsen S.A. - Executive VP and Head of Research & Development    [42]
+--------------------------------------------------------------------------------
+Yes. So basically, when you look at the precision scale that was used by Albireo for these programs, it's based on a 0 to 4 scale with no itching versus the most severe itching. And a 1-point change, obviously, in a 4-point scale is significant. And when you talk to key opinion leaders, they consider a 1-point change to be very clinically meaningful. And as you know, many of these children have really debilitating pruritus where there's blood on the bedsheets, et cetera. So it can really impact quality of life. So a 1-point change is felt to be clinically meaningful.
+
+--------------------------------------------------------------------------------
+David Loew,  Ipsen S.A. - MD, CEO & Director    [43]
+--------------------------------------------------------------------------------
+Thank you, Howard. On your third question regarding market share, as you said, we are not guiding on a number. What I can say is that efficacy, if you look across the comparison, and I also said, you have to be very careful when doing that. But it looks broadly similar. We think we have an advantage on the dosing. It is more convenient. And there might also be a slight benefit on the side-effect profile, but again, this is a cross-study comparison, so we need to be extremely careful. So having said that, we would assume obviously, attractive market shares for Bylvay. 
+Regarding pricing, your question was, is the pricing going up because of the dose. The answer is yes. As you know, the dose registered in PFIC is 40 micrograms. If potentially now a GL is going to be 40 or 120, we have to see what comes out in the discussions with the FDA. We think it should be 120. On BA, it will also be 120. Now of course, the conscious multiply by 3, that price. That's not going to work. So we will have to take this into account, but we do assume a somewhat higher price in these 2 other indications.
+
+--------------------------------------------------------------------------------
+Richard J. Parkes,  BNP Paribas Exane, Research Division - Head of Pharmaceutical and Biotechnology Team    [44]
+--------------------------------------------------------------------------------
+One follow-up. Could you just confirm what the current WACC annual pricing is in the U.S. and maybe what kind of average pricing in other territories?
+
+--------------------------------------------------------------------------------
+David Loew,  Ipsen S.A. - MD, CEO & Director    [45]
+--------------------------------------------------------------------------------
+So it's super complex actually to give that because it's dose dependent. And if you give it to a baby, of course, it's a much, much lower dose than if you give it to a 17-year-old. What we can help you in the modeling is to say, in the U.S., if you take an average price, we would estimate that it's about $350,000. In the EU, the list prices are between $120,000 to $195,000 in average per year. But you know of course that in Europe, you then have to deduct also net prices. So there is a bit of a difference there.
+
+--------------------------------------------------------------------------------
+Operator    [46]
+--------------------------------------------------------------------------------
+And the next question is from Alistair Campbell from Royal Bank of Canada.
+
+--------------------------------------------------------------------------------
+Alistair David Campbell,  RBC Capital Markets, Research Division - Analyst    [47]
+--------------------------------------------------------------------------------
+Alistair Campbell from Royal Bank of Canada. Just a couple of questions, following up on biliary atresia thing. First of all, just looking at the BOLD study, obviously, placebo arm, you're probably expecting about 50 of those patients progress towards liver transplant. So I'm kind of curious what sort of efficacy you're hoping to see from BOLD. And if you do see a significant delay of liver transplant within the lifetime of the product in terms of IP life, could you see that incidence rate in the U.S. or sort of the prevalence rate in the U.S. of about 600 increase significantly and, ultimately, to a bigger sales number? 
+And the second question is again on BA. I was sort of reading some articles this morning saying that incidents in Asia is, I mean, significantly higher than Europe, in multiples of Europe. So given that, are there any sort of how important in your forecast is Asia ex Japan or your forecast largely based on U.S., Europe?
+
+--------------------------------------------------------------------------------
+David Loew,  Ipsen S.A. - MD, CEO & Director    [48]
+--------------------------------------------------------------------------------
+Yes. So very good questions. So thank you, Alistair. Regarding the BOLD study, perhaps I hand over to Howard.
+
+--------------------------------------------------------------------------------
+Howard Mayer,  Ipsen S.A. - Executive VP and Head of Research & Development    [49]
+--------------------------------------------------------------------------------
+Yes. So the BOLD study is statistically powered to show a minimum of a 15% improvement in patients who are treated with Bylvay in addition to having the Kasai procedure versus the Kasai procedure alone. Obviously, it could be greater than that, and that would be great. But it's basically minimally powered to show a 15% improvement in native liver survival at 2 years.
+
+--------------------------------------------------------------------------------
+David Loew,  Ipsen S.A. - MD, CEO & Director    [50]
+--------------------------------------------------------------------------------
+Then is the prevalence going to kind of accumulate over time? Of course, we do hope that there is an impact on the timing to liver transplant, so that this gets pushed out. And that would indeed mean that you have an accumulative effect on the prevalence pool. So this is a very good question because the modeling is actually not easy on the 3 indications, I have to say. What we modeled is, on PFIC, that you have a small incidence pool of new babies. So it's 1 in 100,000 births. But there is, of course, as you have seen on the slide with the prevalence, a bit of a larger pool on the prevalence. Now that prevalence pool is also going to start decreasing as the incidence pool is going to start kind of fermenting the new prevalence group. 
+Alagille is a bit the same thing. So you have 3 in 100,000 and the prevalence figures you have seen also are quite significant already. Again, the prevalence pool of people already in there today is going to start decreasing over time with the natural liver transplant survival curve. But of course, the new birth are going to replenish that pool. And then on BA, it's going to be mostly driven by the incidence pool. You have also a prevalence pool, but the ratio is a bit smaller, as you have seen on our slide. But then again, over time, if indeed we managed to prolong the time to transplant, that prevalence pool should increase over time. 
+And then to your second question on the BA incidence, it is higher in Asia. And what are the rest of the world sales? We did a bottom-up forecast for China and the rest of the world sales that we have modeled are somewhat higher indeed than the European sales. But that is also often the case. So we are not at the level of detail yet on our forecast model. Having modeled all the other Asian countries, we have taken a kind of a multiplier on the rest of the world there.
+
+--------------------------------------------------------------------------------
+Aymeric Le Chatelier,  Ipsen S.A. - Executive VP & Group CFO    [51]
+--------------------------------------------------------------------------------
+But to be clear, I mean, the majority of the peak sales are really coming from the U.S. today. It's not a disproportion due to that potential upside due to the incidence, prevalence in Asia.
+
+--------------------------------------------------------------------------------
+Operator    [52]
+--------------------------------------------------------------------------------
+The next question from Delphine Le Louet from SGC.
+
+--------------------------------------------------------------------------------
+Delphine Le Louet,  Societe Generale Cross Asset Research - Equity Analyst    [53]
+--------------------------------------------------------------------------------
+I was wondering, who is going to be responsible for the manufacturing going forward? First question. 
+Second question, we had roughly EUR 80 million R&D spend over the past 3 years on the project, the pipeline. How should we consider that looking forward and especially the sequence '23, '24 and possibly at France? 
+Third question, a more clinical question. I was just wondering if you have a cohort of 100 patients going forward. So regarding BA going forward, Kasai procedure, how many of them reached 20 years old? And how many of these 100 patients, let's say, at 2 years old having the Kasai are going to have a liver transplant in between 2 and 20 years old?
+
+--------------------------------------------------------------------------------
+David Loew,  Ipsen S.A. - MD, CEO & Director    [54]
+--------------------------------------------------------------------------------
+Okay. First, on the manufacturing. So Albireo has contracted with very well-known CMOs, out of which is in France as well. And so on the manufacturing plants, we are very confident. There is no issue there. 
+Regarding your second question on the clinical development, I hand over to Howard.
+
+--------------------------------------------------------------------------------
+Howard Mayer,  Ipsen S.A. - Executive VP and Head of Research & Development    [55]
+--------------------------------------------------------------------------------
+Sorry, the question around the biliary atresia and liver transplant incidents?
+
+--------------------------------------------------------------------------------
+David Loew,  Ipsen S.A. - MD, CEO & Director    [56]
+--------------------------------------------------------------------------------
+Yes.
+
+--------------------------------------------------------------------------------
+Howard Mayer,  Ipsen S.A. - Executive VP and Head of Research & Development    [57]
+--------------------------------------------------------------------------------
+Okay. So basically, the incidence of patients who have a Kasai procedure, requiring a liver transplant within the first 2 years of life, is 50% based on most recently available data. However, even the patients that basically are success -- have a successful Kasai procedure, those patients tend to continue to have progressive disease. And so at least 80% of those patients require liver transplantation by age 20 years. And of those patients who survive into the third decade after birth, almost all have portal hypertension or other complications of cirrhosis. 
+So even those patients that actually have a liver transplant or have a successful Kasai and have native liver survival, those patients tend to continue to progress and 80% of those or more require liver transplant by age 20 and even as those patients continue to progress in terms of their liver disease. So that's why we think there's really an urgent need for a pharmacological therapy to be available in addition to the Kasai procedure.
+
+--------------------------------------------------------------------------------
+David Loew,  Ipsen S.A. - MD, CEO & Director    [58]
+--------------------------------------------------------------------------------
+And then on your third question on the R&D expenditure, Aymeric?
+
+--------------------------------------------------------------------------------
+Aymeric Le Chatelier,  Ipsen S.A. - Executive VP & Group CFO    [59]
+--------------------------------------------------------------------------------
+Yes. So I think on the R&D, I'm not sure about the number you were talking about. But as you know, we spend about 15% of our sales in R&D. You should expect that ratio to significantly increase over time in 2023, even first, on one side, the Epizyme R&D spend, which will come from both the Tazverik clinical trials but also the early-stage pipeline. And we're going to add clearly the R&D spend of Albireo and mainly being the cost of the BA study that needs to be completed and also some of the development of the more earlier-stage assets. 
+So this is very consistent with our overall outlook where R&D is going to increase. This is going to be across '23 but also in '24. Then in '24, we're going to have more leverage from the sales, both from Epizyme and Albireo and [liver] infrastructure.
+
+--------------------------------------------------------------------------------
+Delphine Le Louet,  Societe Generale Cross Asset Research - Equity Analyst    [60]
+--------------------------------------------------------------------------------
+Okay. But for the Phase III for BA, can we get an envelope in terms of the cost?
+
+--------------------------------------------------------------------------------
+Aymeric Le Chatelier,  Ipsen S.A. - Executive VP & Group CFO    [61]
+--------------------------------------------------------------------------------
+I think it's a classical Phase III. So as you know, the number of patients is not that high. So I don't think it's very significant. This will be on top of the development of the other earlier-stage assets also of the Albireo pipeline.
+
+--------------------------------------------------------------------------------
+Operator    [62]
+--------------------------------------------------------------------------------
+The next question is from Jacob [Miken] from [VAS Company].
+
+--------------------------------------------------------------------------------
+Unidentified Analyst,   -     [63]
+--------------------------------------------------------------------------------
+I just had one. If you could elaborate on the side effects experienced by patients on Bylvay and how they are managed.
+
+--------------------------------------------------------------------------------
+David Loew,  Ipsen S.A. - MD, CEO & Director    [64]
+--------------------------------------------------------------------------------
+Yes. Howard, do you want to take the side effects question on Bylvay, how they are being managed? Howard?
+
+--------------------------------------------------------------------------------
+Howard Mayer,  Ipsen S.A. - Executive VP and Head of Research & Development    [65]
+--------------------------------------------------------------------------------
+Sorry, sorry, I was speaking into mute. So basically, the main side effects are gastrointestinal adverse reactions. And obviously, those can be minimized with obviously the need to take it with food, with hydration as needed. But as David alluded to before, we actually think that there might be differences between the available iBAT inhibitors in terms of those types of side effects. 
+Other side effects that are known are fat-soluble vitamin deficiency, which really occurs in a small number of patients and can be managed with adequate vitamin supplementation. So we don't think that, that is a major issue. And in general, I would say, as I said in my presentation that most of the adverse events that are seen with Bylvay are mild to moderate and really don't result in discontinuation typically. So we think this is a generally well-tolerated drug, both in PFIC but also in the Alagille program, which was recently filed to the agencies.
+
+--------------------------------------------------------------------------------
+David Loew,  Ipsen S.A. - MD, CEO & Director    [66]
+--------------------------------------------------------------------------------
+Very good. Thank you, Jacob. That was our last question. I would like to thank everybody for participating. And I hand over to the operator.
+
+--------------------------------------------------------------------------------
+Operator    [67]
+--------------------------------------------------------------------------------
+That concludes the conference for today. Thank you for participating. You may all disconnect.
+
+
+
+
+
+
+
+--------------------------------------------------------------------------------
+Definitions
+--------------------------------------------------------------------------------
+PRELIMINARY TRANSCRIPT: "Preliminary Transcript" indicates that the 
+Transcript has been published in near real-time by an experienced 
+professional transcriber.  While the Preliminary Transcript is highly 
+accurate, it has not been edited to ensure the entire transcription 
+represents a verbatim report of the call.
+
+EDITED TRANSCRIPT: "Edited Transcript" indicates that a team of professional 
+editors have listened to the event a second time to confirm that the 
+content of the call has been transcribed accurately and in full.
+
+--------------------------------------------------------------------------------
+Disclaimer
+--------------------------------------------------------------------------------
+Refinitiv reserves the right to make changes to documents, content, or other 
+information on this web site without obligation to notify any person of 
+such changes.
+
+In the conference calls upon which Event Transcripts are based, companies 
+may make projections or other forward-looking statements regarding a variety 
+of items. Such forward-looking statements are based upon current 
+expectations and involve risks and uncertainties. Actual results may differ 
+materially from those stated in any forward-looking statement based on a 
+number of important factors and risks, which are more specifically 
+identified in the companies' most recent SEC filings. Although the companies 
+may indicate and believe that the assumptions underlying the forward-looking 
+statements are reasonable, any of the assumptions could prove inaccurate or 
+incorrect and, therefore, there can be no assurance that the results 
+contemplated in the forward-looking statements will be realized.
+
+THE INFORMATION CONTAINED IN EVENT TRANSCRIPTS IS A TEXTUAL REPRESENTATION
+OF THE APPLICABLE COMPANY'S CONFERENCE CALL AND WHILE EFFORTS ARE MADE TO
+PROVIDE AN ACCURATE TRANSCRIPTION, THERE MAY BE MATERIAL ERRORS, OMISSIONS,
+OR INACCURACIES IN THE REPORTING OF THE SUBSTANCE OF THE CONFERENCE CALLS.
+IN NO WAY DOES REFINITIV OR THE APPLICABLE COMPANY ASSUME ANY RESPONSIBILITY FOR ANY INVESTMENT OR OTHER
+DECISIONS MADE BASED UPON THE INFORMATION PROVIDED ON THIS WEB SITE OR IN
+ANY EVENT TRANSCRIPT. USERS ARE ADVISED TO REVIEW THE APPLICABLE COMPANY'S
+CONFERENCE CALL ITSELF AND THE APPLICABLE COMPANY'S SEC FILINGS BEFORE
+MAKING ANY INVESTMENT OR OTHER DECISIONS.
+--------------------------------------------------------------------------------
+Copyright 2023 Refinitiv. All Rights Reserved.
+--------------------------------------------------------------------------------

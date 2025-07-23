@@ -1,0 +1,240 @@
+
+
+Refinitiv StreetEvents Event Transcript
+E D I T E D   V E R S I O N
+
+Bionano Genomics Inc To Acquire Purigen Biosystems
+NOVEMBER 29, 2022 / 1:30PM GMT
+
+================================================================================
+Corporate Participants
+================================================================================
+
+ * Robert Erik Holmlin
+   Bionano Genomics, Inc. - President, CEO, Secretary & Director
+
+================================================================================
+Conference Call Participiants
+================================================================================
+
+ * Unidentified Analyst
+    - 
+ * Jeffrey Scott Cohen
+   Ladenburg Thalmann & Co. Inc., Research Division - MD of Equity Research
+ * Michael Okunewitch
+   Maxim Group LLC, Research Division - Senior Research Analyst
+ * Amy Conrad
+   Juniper Point - Founder & CEO
+
+================================================================================
+Presentation
+--------------------------------------------------------------------------------
+Operator    [1]
+--------------------------------------------------------------------------------
+Good day, and welcome to the Bionano Genomics conference call regarding its acquisition of Purigen Biosystems. Today's conference is being recorded. At this time, I would like to turn the call over to Amy Conrad from Investor Relations. Please go ahead.
+
+--------------------------------------------------------------------------------
+Amy Conrad,  Juniper Point - Founder & CEO    [2]
+--------------------------------------------------------------------------------
+Thank you, Keith, and good morning, everyone. Welcome to the Bionano Genomics conference call, where we will be discussing the acquisition of Purigen Biosystems. Leading the call today is Dr. Erik Holmlin, CEO of Bionano. He is joined by Chris Stewart, CFO of Bionano; and Dr. Klint Rose, previously CFO and Co-Founder of Purigen, who are available for questions.
+After market closed yesterday, Bionano issued a press release announcing Bionano and Purigen's entry into a merger agreement for the proposed acquisition of Purigen. A copy of the release can be found on the Investor Relations page of Bionano's website. 
+I would like to remind everyone that certain statements made during this conference call may be forward-looking, including statements about Bionano's strategic and commercialization plans, sales pipeline, anticipated benefits or improvements to Purigen's products and their ability to enhance the ease or usability of optical genome mapping.
+Statements relating to the proposed acquisition of Purigen Biosystems and the anticipated closing; results and benefits thereof and achievement of any milestones related there to; statements regarding potential plans following the closing of the acquisition, including integration planning outcomes, improvements in the OGM sample preparation workflow, such as simplifying it and making it more consistent and reliable at scale; accelerated or expanded adoption of OGM and clinical research for cancer and genetic disease, as well as in discovery research and applications and cell bioprocessing, value drivers and genomic, the benefits of ITP technology and the anticipated continued results from ITP technology; development of new applications for more sample types with OGM through incorporation of the ITP technology; and incorporating of the ITP technology into the OGM workflow and complementary to existing Bionano solutions and the Saphyr System. 
+Such forward-looking statements are based upon current expectations, and there could be no assurances that the results contemplated in these statements will be realized. Actual results may differ materially from such statements due to a number of factors and risks, some of which are identified in Bionano's press release and Bionano's reports filed with the SEC. These forward-looking statements are based on information available to Bionano today, and the company assumes no obligation to update statements as circumstances change, except as required by law. An audio recording and webcast replay for today's conference call will also be available online in the Investors section of the company's website.
+With that, I will turn the call over to Erik. Erik?
+
+--------------------------------------------------------------------------------
+Robert Erik Holmlin,  Bionano Genomics, Inc. - President, CEO, Secretary & Director    [3]
+--------------------------------------------------------------------------------
+Great. Thank you, Amy, and good morning to everyone. Thank you so much for joining. And I want to start off by saying this is an incredibly exciting day for us at Bionano. In addition to Chris Stewart and Klint Rose, who are on the call, I'm joined today by Mark Oldakowski, who's our Chief Operating Officer and has been leading product development and manufacturing and customer support here at Bionano for a number of years now, and I want to congratulate Mark on this acquisition. It's really an incredible step forward for us. And we're very, very excited to have entered into this material definitive agreement for the proposed acquisition of Purigen.
+Purigen is a company that develops and commercializes what we believe are best-in-class solutions for automated nucleic acid extraction using something called isotachophoresis, which is a proprietary technology that Purigen licensed exclusively from Stanford University, and over the past decade, has developed into a commercial solution, which they have deployed on their Ionic System. And I can tell you that when you talk to customers about it, they're very excited about how it works. And so are we.
+We believe that this acquisition has the potential to help us expand the adoption of optical genome mapping by improving the way in which we isolate ultra-high molecular weight DNA for OGM. This acquisition, we believe, is a great strategic fit for us. It will help us accelerate the adoption of optical genome mapping. It will allow Bionano to acquire technology that we believe can enable us to achieve the goal of creating what is really an end-to-end solution for OGM, putting it together alongside with other components of the entire workflow that will together provide what is a comprehensive view of genome variation and the impact it has on human disease.
+Now as you may know, the optical genome mapping workflow centers around our proprietary single-molecule imaging of DNA that has been linearized inside nanochannel arrays. And in order to drive widespread adoption for OGM for routine use across our target markets, cytogenomics, discovery research and cell bioprocessing, we're focused on creating this integrated end-to-end solution that really maximizes some key attributes, ease of use, the speed and the overall performance of that workflow.
+We added BioDiscovery, which gave us an analytical platform through which we can transform the way the world sees the genome software that integrates optical genome mapping data alongside other data types used in genomic analysis, such as next-generation sequencing and micro arrays for single nucleotide variants in small structural variants.
+Purigen's Ionic Purification System and the underlying isotachophoresis, or ITP technology, represents a novel approach to isolating and purifying DNA that we believe would complement what we have on the market today that's based on a traditional binding approach, something that Hamilton has automated, and that the addition of Ionic and ITP provides a solution that will allow us to address more complex sample types, including small samples, samples with low cell counts or samples where the nucleic acids that are pretty dilute.
+And so when we look at where we're headed with this focus on structural variation, we believe that we have the potential to truly unlock the next wave of big biology and genomics, and that comes through acquisitions like this one, Purigen that come alongside the incredible Saphyr System and the optical genome mapping workflow.
+So I want to share a little bit more about Purigen with you today. This is a California company, headquartered in Pleasanton. The company was formed about 10 years ago with technology, as I mentioned, licensed from Stanford University. The ITP technology was developed in the Stanford Microfluidics Laboratory led by Dr. Juan Santiago, who is the Vice Chair in the Department of Mechanical Engineering there. Klint, who's on the call with us today and will become a fellow at Bionano, earned his PhD with Dr. Santiago before co-founding Purigen. We're excited that Klint will join the team after the closing and that he will continue to drive the development of Purigen's ITP technology, now with the support from Bionano.
+We want to say something about the incredible team at Purigen. They have built a unique and powerful technology. They have an installed base of their Ionic System labs across the globe. We spoke to a number of those customers through the process of getting to know Purigen, and customers love their products, and they should be very proud of what they have achieved. And once the acquisition is complete, we believe that we'll be able to expand upon what this team has built by adding optical genome mapping to the set of solutions that ITP-based sample preparation provides.
+This acquisition follows what was really an extensive co-development program and evaluation that was led by Mark Oldakowski, in which the Purigen team, over a period of about a year, developed several methods and techniques for isolating ultra-high molecular weight DNA and then demonstrated it on the Ionic System.
+And so I want to give a snapshot of the Purigen Ionic Purification System. Currently, what they offer is nucleic acid sample preparation through this commercially available platform, which is capable of isolating DNA and RNA using ITP. This automated benchtop instrument and its accompanying microfluidic chip purify complex biological samples from a variety of sources, low cell counts, small sample types or otherwise challenging samples. The current system has been adopted for many different samples, including and especially formalin-fixed paraffin embedded, or FFPE, tumor tissue. And again, when we talk to customers about what really excites them about ITP and their labs, it's this ability to tackle FFPE, which is really one of the most common samples in cancer.
+Now purified nucleic acids are immediately compatible after coming off of the Ionic System with a wide range of downstream detection methods, including next-generation sequencing, PCR and other genomic analysis methods. The Ionic System can purify 8 samples in 1 hour with less than 5 minutes of total hands-on time in a fully automated workflow.
+What's important about ITP is that it's a solution-based concentration approach. That means it's different from protocols that are in routine use today, which tend to rely on binding to a matrix, washing the bound nucleic acid to remove impurities and then stripping the target molecules off of that matrix. Now these protocols tend to be less efficient at capturing molecules from diluted solution, and they often result in shorter average length of DNA after removal from the matrix, and that means that those molecules tend to be shorter than what optical genome mapping requires. And so what we believe is that ITP is a very elegant solution to isolating long DNA from complex samples in a way that fits very nicely with the requirements of optical genome mapping and gives great results.
+This acquisition of Purigen offers us an opportunity to really elevate the overall OGM workflow, and we believe because of the automation and simplicity and the throughput that the Ionic System offers, make it easier to operate at scale. So this is a big step forward for us overall. And we know that the sample prep step in optical genome mapping is one that customers point to as something that they would like to see improvements in. And so through the combination of working with Purigen and with Hamilton, we believe we're going to be providing them a number of solutions here.
+And so there are many strategic benefits to this transaction. Certainly, we need to do some work to finalize product development in a way that there is an Ionic purification for optical -- kit for optical genome mapping that's available, and we expect that to come sometime in the near future. And then we'll be able to offer this Ionic Purification System as part of the end-to-end workflow for OGM.
+We believe that this acquisition will ultimately not only expand the technology portfolio, but as a result of ITP offering this solution-based approach, will allow us to overcome limitations of our current binding approach to tackle sample types that have been proven challenging for our current approach. And we'll talk more about what those sample types are, but I can say that there are examples of things that are in routine use today. And certainly, when we have a kit available for those samples, it will expand the utility of optical genome mapping, and as a result, really expand the market for OGM.
+Now I want to discuss the integration plan following the closing of this acquisition and the new operational structure. As I mentioned, Klint Rose, will become a fellow at Bionano, leading all of the ITP technology and product development here, many of the team would be integrated into existing roles such as our manufacturing and other areas of G&A and so forth. The goal of our integration plan is to fully support the existing business that Purigen operates, and that includes supporting enthusiastically all of their existing customers.
+We plan to expand the installed base of the Ionic System to customers who may or may not be OGM users. This will allow us to position Bionano as a key solution provider throughout molecular pathology and cytogenomics. And then ultimately, our goal is to commercialize the Ionic System with kits that are specifically developed for optical genome mapping, and that's likely to include many different sample types. And so these are certainly some ambitious goals that we believe we can accomplish together with the world-class team at Purigen.
+And lastly, I just want to review the financial details of the transaction before we take your questions. So the transaction included consideration that can be up to $64 million, $32 million of which will be paid in cash at closing, subject to customary adjustments. The remainder of the consideration is contingent upon achievement of certain milestones. I want to mention that Cowen and Company served as an exclusive adviser to Bionano on this transaction. And we expect the acquisition to close promptly, but certainly before December 8, 2022. And after the close, we are enthusiastic about welcoming the entire Purigen team into Bionano.
+So with that, Keith, I would like to turn the call back over for Q&A. So, Keith?
+
+
+================================================================================
+Questions and Answers
+--------------------------------------------------------------------------------
+Operator    [1]
+--------------------------------------------------------------------------------
+(Operator Instructions) And the first question comes from Jeffrey Cohen with Ladenburg Thalmann.
+
+--------------------------------------------------------------------------------
+Jeffrey Scott Cohen,  Ladenburg Thalmann & Co. Inc., Research Division - MD of Equity Research    [2]
+--------------------------------------------------------------------------------
+Well, firstly, could you walk us through the size of the company, Purigen, their sales force, their commercial organization and give us a sense of the fleet size out there and, geographically speaking, where they may be located?
+
+--------------------------------------------------------------------------------
+Robert Erik Holmlin,  Bionano Genomics, Inc. - President, CEO, Secretary & Director    [3]
+--------------------------------------------------------------------------------
+Sure. So the company has about 28 employees total. In the sales organization, there are 3 folks who are dedicated to sales in the field, 2 in the United States and 1 in Europe. They also have a field applications team and field support team. That number is in the medium single digits. So of the 28, probably about 10 people in commercial overall, and we'll be integrating those folks into our team over the coming weeks.
+And the thinking is that we will add the Ionic System to the products that the Bionano team is selling and integrate their selling team into that commercial group.
+
+--------------------------------------------------------------------------------
+Jeffrey Scott Cohen,  Ladenburg Thalmann & Co. Inc., Research Division - MD of Equity Research    [4]
+--------------------------------------------------------------------------------
+Got it. And could you talk about ITP and how it relates to reagent utilization? Would there be less of a need? Is it less reagents that are used through the process on throughput for samples or more reagents? And could you give us a sense of that?
+
+--------------------------------------------------------------------------------
+Robert Erik Holmlin,  Bionano Genomics, Inc. - President, CEO, Secretary & Director    [5]
+--------------------------------------------------------------------------------
+I mean, economically, if that -- I mean, I think it's not a one for one. There are some configuration differences. But there's certainly a consumable chip that's used, a microfluidic chip, the current one has a capacity of 8 samples. And so it would run sort of batches of optical genome mapping samples when available, and I think is very comparable to the overall usage model that we have for what we're operating today.
+In terms of their pull-through, I mean, I think that they have pretty good pull-through on the system, but we're not really breaking out any of those numbers yet in terms of their independent stand-alone applications. What I will say is that the cost to produce this chemistry and the solution overall compared to the cost to produce what we're doing currently is lower. And so there will be a benefit to us in terms of the cost of goods sold for the optical genome mapping reagents once there is an ITP-based system available. And it gives us some flexibility as to whether we're passing that on to customers and in what fashion.
+
+--------------------------------------------------------------------------------
+Jeffrey Scott Cohen,  Ladenburg Thalmann & Co. Inc., Research Division - MD of Equity Research    [6]
+--------------------------------------------------------------------------------
+Got it. That's helpful. One more for us. Could you talk about -- so I suppose that you're envisioning that a fair amount of your placements would benefit from an iconic system to run samples prior to OGM and vice versa. So what you described as 2 units essentially. And it sounds like longer term, you would work on some type of combination unit for higher throughput in both capabilities in one system?
+
+--------------------------------------------------------------------------------
+Robert Erik Holmlin,  Bionano Genomics, Inc. - President, CEO, Secretary & Director    [7]
+--------------------------------------------------------------------------------
+I'm not sure about the combination unit, although we do love your ideas. And we have engineers and product developers that get fired up when they hear that stuff because they love to build these things. And it's -- I'm not saying it's not possible, but that's not something that we're necessarily working on. We're certainly working on an evolution of the current Ionic, which is iconic, but it is called Ionic System that would have a kit and kind of integrated protocols that are tuned and optimized for isolating optical -- for isolating ultra-high molecular weight DNA for OGM.
+Now that would be like a menu addition to that system. It would not be a dedicated system for ultra-high molecular weight DNA. So a customer who's using it for FFPE into NGS can continue to use it for that. So there's -- the use case is very broad for Ionic. And in this kind of intervening period between now and when we release kits for OGM on Ionic, we believe that this is a great way to expand the Bionano customer base. They have about 50 systems or so installed worldwide now.
+And there's certainly some overlap. We have common customers today, but there's also customers who are using Ionic that are not yet Bionano customers. And so we believe expanding the overall customer base for Bionano is good for us, and it creates the opportunity for a new customer to become familiar with us and then become an OGM user down the road. So this is a strategic kind of product that opens doors for us.
+
+--------------------------------------------------------------------------------
+Operator    [8]
+--------------------------------------------------------------------------------
+And the next question comes from Frank Brisebois with Oppenheimer.
+
+--------------------------------------------------------------------------------
+Unidentified Analyst,   -     [9]
+--------------------------------------------------------------------------------
+This is Dan on for Frank. Congrats on the acquisition. Just a following up on the question -- on the last question there. With this acquisition, do you expect a widening of your customer base that you're targeting, specifically any particular customer groups who tended to show more inertia in adopting OGM? Now with the addition of ITP-based sample, perhaps do you expect to drive more adoption among those particular -- any specific customer groups? Any color there?
+
+--------------------------------------------------------------------------------
+Robert Erik Holmlin,  Bionano Genomics, Inc. - President, CEO, Secretary & Director    [10]
+--------------------------------------------------------------------------------
+Yes. So I mean, we believe that a strategic benefit of bringing in automated streamlined methods for ultra-high molecular weight DNA isolation is that it will impact potential OGM users who have been seeking to adopt the method, but found our current approach to DNA isolation maybe too low in throughput, looking for something faster, maybe requiring too many manual steps. So looking for something automated.
+And what I would say is that when we look at the automation solutions that will eventually be available right now, customers are able to work with us and work with Hamilton to get the long stream Vantage system, which will automate the current DNA isolation chemistry which works great. And that's going to be a great solution for them. Now they will have in the future when the Ionic System has an OGM kit, they will have another option. And importantly, we believe that Ionic will extend beyond through ITP, will extend beyond the capabilities of the current system to address additional sample types that we know just don't perform as well with the existing chemistry.
+And so I think the answer is yes. We have customers that are on the sidelines for workflow reasons that we'll find more automation friendly for them. And then we have other customers who may be on the sidelines because they're working with a sample type that maybe it's just too few cells in that sample type, too small or minute of a sample type or too high volume. So the target molecules that are in the sample is really dilute, and we believe that a solution like ITP will address all that. And so bottom line is, yes, we expect this to really broaden the installed base of OGM over time and through a process of expanding our addressable market.
+
+--------------------------------------------------------------------------------
+Operator    [11]
+--------------------------------------------------------------------------------
+And the next question comes from Michael Okunewitch with Maxim Group.
+
+--------------------------------------------------------------------------------
+Michael Okunewitch,  Maxim Group LLC, Research Division - Senior Research Analyst    [12]
+--------------------------------------------------------------------------------
+Congratulations on the acquisition. To start off, I just wanted to ask kind of a broad question. It's a pretty meaningful acquisition. So I'd like to see if you could contextualize the magnitude of the difference, in particular, in terms of throughput and hands-on time between your current processes and ITP and what the actual benefit looks like for our customers.
+
+--------------------------------------------------------------------------------
+Robert Erik Holmlin,  Bionano Genomics, Inc. - President, CEO, Secretary & Director    [13]
+--------------------------------------------------------------------------------
+Sure. I mean, I think this is -- so we talked a little bit about the capabilities of the Ionic System today. And we don't know exactly what it will be for optical genome mapping when that kit is available, but we can reference the current capabilities as a proxy. So DNA isolation, 8 samples in 1 hour. Depending on how labs operate their day, they can get quite a few samples through that system. And so we believe that this represents significantly higher throughput than labs would be able to push through using the current manual system.
+Now if we think about Hamilton, which has automated optical genome mapping, they're at about 24 samples a day. And so we should certainly be able to get into that range with an OGM kit on Ionic, if not, doing a little bit better. And so we're certainly in a place through the acquisition of Purigen and our partnership with Hamilton, where we're going to take our throughput, which is manual today, and elevate it through one automation solution or another to something that's higher throughput. And we believe that's really important for addressing routine use at scale in a commercial environment. That's #1. And you're making specific reference to throughput.
+#2 is really around the limited hands-on time that the Ionic System requires. And so it's really minutes through getting the sample ready and then to actually get it into the ITP Ionic System, it's really limited hands-on time. And so that means that tech time overall dedicated to the sample preparation for OGM can be minimized. And what we know about optical genome mapping and the folks who are adopting it, they do that because they believe it's a streamline workflow compared to what they're running today, 3 or 4 different techniques. And so this idea of workflow simplification is a big value driver overall. And so ITP Ionic -- Ionic really just hits the spot with regard to that.
+Then I want to talk about just the consistency that an automated approach provides. Our current chemistry is reliable, customers get good results with it and they get those consistently. But there is variation that comes with a manual process. And so by automating the process, we're going to bring a lot of consistency. And again, that consistency translates into better results for end users. They get more usable results, less failed samples. But the better results also comes with lower costs. So fewer repeats in samples and so forth. And so this move to bring in an automation solution on a proprietary chemistry, I don't know if Klint will allow me to call ITP a chemistry, but certainly, there are reagents involved in the isotachophoresis process that are chemical in nature.
+But in bringing this solution in-house, it really allows us to integrate an automated solution within our workflow and offer customers like a truly end-to-end solution. And I mean, I think that this is something that's really important. And it's very complementary to what we're doing with Hamilton. And I want to emphasize that because Hamilton is a good partner and has automated our current chemistry. And Hamilton is a great automation provider and can potentially work with other solutions like ITP. And so you can imagine massive expansion of our capabilities through that partnership going forward.
+But the real idea here is to transform this workflow, make it faster, make it reliable, make it consistent. And as a result, lower cost and streamline results for end users.
+
+--------------------------------------------------------------------------------
+Michael Okunewitch,  Maxim Group LLC, Research Division - Senior Research Analyst    [14]
+--------------------------------------------------------------------------------
+And then to follow up, I'd like to just kind of if you view this more as an evolutionary improvement where you get improved solution extraction for a market where you already addressed, or does this really open up a segment of the market which was unfeasible at scale?
+
+--------------------------------------------------------------------------------
+Robert Erik Holmlin,  Bionano Genomics, Inc. - President, CEO, Secretary & Director    [15]
+--------------------------------------------------------------------------------
+I really feel like it's the latter, partly because of expanding the addressable market by allowing us to go after different sample types. But I want to emphasize something which I think is really important, and it's that this approach to purification of biomolecules, which is being applied here to DNA and RNA on the Ionic System, is completely revolutionary and differentiated. It's totally orthogonal to just about everything that's in use today on a routine basis.
+The idea of isotachophoresis has been around, but its development and optimization, the IP that underlies this method, which Purigen exclusively licensed to Stanford and then will become part of Bionano's IP portfolio, this approach is completely unique in the market. And so in that sense, I really do view this acquisition as revolutionary for Bionano and elevating our total offering into the genomics community. It makes us a big and important potential partner throughout molecular pathology. And something that we talked about when we purchased BioDiscovery and really emphasize software, which software is the lens through which everybody looks at their data. That's why software is so important.
+But guess what? There is no data without a good sample. And so everything, every single genome analysis begins at the sample. And so isotachophoresis, the way it's been developed by Klint and his team, we can't say enough and congratulate them enough for their incredible progress. But this is really a revolutionary approach to nucleic acid isolation. And I think that the applications that exist for it are multiple, and we're going to see that bearing fruit for years to come in Bionano, for sure.
+
+--------------------------------------------------------------------------------
+Michael Okunewitch,  Maxim Group LLC, Research Division - Senior Research Analyst    [16]
+--------------------------------------------------------------------------------
+And then just one more for me and I'll hop back in the queue. You've already moved down the path of improving the analysis with the software, automating the sample prep and now there's additional sample isolation technology. Could you just highlight which aspects are that could further benefit from additional process refinements to increase scalability and provide a more optimized end-to-end solution for OGM?
+
+--------------------------------------------------------------------------------
+Robert Erik Holmlin,  Bionano Genomics, Inc. - President, CEO, Secretary & Director    [17]
+--------------------------------------------------------------------------------
+Sure. I think we think of it in probably 5 buckets overall, and it begins with DNA isolation, sample preparation. And we have this partnership with Hamilton, which has been incredibly productive, and now this acquisition of Purigen. And so we really believe we're addressing that bucket. There is the whole bucket of sample labeling, DNA labeling. And so the introduction of sequence informative information on to the sample that will subsequently be analyzed. And this is an area where we're looking at a number of different solutions.
+And so we have a very, very powerful in-house program to drive that forward and that we believe that through the relationships that we have now, we'll be able to continue expanding the utility and impact of that area. A third bucket would really be around DNA processing. So accelerating the steps that go in between data generation and data analysis on the NX clinical software. This is also an area where we've been doing a lot of work and co-development with different partners. And so we're seeing progress there. And then, of course, there's DNA analysis, which we've addressed through the acquisition of BioDiscovery, -- the fifth, and at the center of this whole ecosystem, is the data generation component of it altogether, and that's really our core.
+I want to say that I'm not trying to put investors or anybody on notice that we're going to be going out and making acquisitions in the DNA or data processing or sample labeling buckets. We remain opportunistic about opportunities that may exist out there. However, I want to say that we do have a number of partnerships, a number of relationships and strong internal expertise that's providing us really advanced solutions in that area.
+And so the focus for us now after bringing BioDiscovery in is getting a version of NX Clinical out into the market that analyzes optical genome mapping data. And that's going well, and we expect that to be available soon. We'll turn to developing a kit for Ionic that is designed to isolate ultra-high molecular weight DNA for OGM.
+And then our internal focus is on our next mapping instrument, which, as you know, we're committed to providing a pre-commercial system into the field this year. Just about to enter the last month of this year, I'm looking at Mark Oldakowski who leads that team. And so we'll be -- we expect to be having a system pre-commercial system in the field. But our focus will really be on optimizing that next mapping instrument, which will kind of map the throughputs of these automated match, I should say, the throughputs of these automated solutions that are out there.
+So there's a lot going on for us. But I want to say that we have other areas where we're developing solutions, but I do not want to be signaling to anybody that there are other acquisitions on the horizon.
+
+--------------------------------------------------------------------------------
+Operator    [18]
+--------------------------------------------------------------------------------
+And this concludes the question-and-answer session. I would like to turn the call to Dr. Holmlin for any closing comments.
+
+--------------------------------------------------------------------------------
+Robert Erik Holmlin,  Bionano Genomics, Inc. - President, CEO, Secretary & Director    [19]
+--------------------------------------------------------------------------------
+Great. Thank you, Keith. Thank you, everybody, for calling. Thanks for the great Q&A, and we look forward to updating you after the first of the year on our Q4 call. So thank you very much. Have a great day.
+
+--------------------------------------------------------------------------------
+Operator    [20]
+--------------------------------------------------------------------------------
+Thank you. The conference has now concluded. Thank you for attending today's presentation. You may now disconnect your lines.
+
+
+
+
+
+
+
+--------------------------------------------------------------------------------
+Definitions
+--------------------------------------------------------------------------------
+PRELIMINARY TRANSCRIPT: "Preliminary Transcript" indicates that the 
+Transcript has been published in near real-time by an experienced 
+professional transcriber.  While the Preliminary Transcript is highly 
+accurate, it has not been edited to ensure the entire transcription 
+represents a verbatim report of the call.
+
+EDITED TRANSCRIPT: "Edited Transcript" indicates that a team of professional 
+editors have listened to the event a second time to confirm that the 
+content of the call has been transcribed accurately and in full.
+
+--------------------------------------------------------------------------------
+Disclaimer
+--------------------------------------------------------------------------------
+Refinitiv reserves the right to make changes to documents, content, or other 
+information on this web site without obligation to notify any person of 
+such changes.
+
+In the conference calls upon which Event Transcripts are based, companies 
+may make projections or other forward-looking statements regarding a variety 
+of items. Such forward-looking statements are based upon current 
+expectations and involve risks and uncertainties. Actual results may differ 
+materially from those stated in any forward-looking statement based on a 
+number of important factors and risks, which are more specifically 
+identified in the companies' most recent SEC filings. Although the companies 
+may indicate and believe that the assumptions underlying the forward-looking 
+statements are reasonable, any of the assumptions could prove inaccurate or 
+incorrect and, therefore, there can be no assurance that the results 
+contemplated in the forward-looking statements will be realized.
+
+THE INFORMATION CONTAINED IN EVENT TRANSCRIPTS IS A TEXTUAL REPRESENTATION
+OF THE APPLICABLE COMPANY'S CONFERENCE CALL AND WHILE EFFORTS ARE MADE TO
+PROVIDE AN ACCURATE TRANSCRIPTION, THERE MAY BE MATERIAL ERRORS, OMISSIONS,
+OR INACCURACIES IN THE REPORTING OF THE SUBSTANCE OF THE CONFERENCE CALLS.
+IN NO WAY DOES REFINITIV OR THE APPLICABLE COMPANY ASSUME ANY RESPONSIBILITY FOR ANY INVESTMENT OR OTHER
+DECISIONS MADE BASED UPON THE INFORMATION PROVIDED ON THIS WEB SITE OR IN
+ANY EVENT TRANSCRIPT. USERS ARE ADVISED TO REVIEW THE APPLICABLE COMPANY'S
+CONFERENCE CALL ITSELF AND THE APPLICABLE COMPANY'S SEC FILINGS BEFORE
+MAKING ANY INVESTMENT OR OTHER DECISIONS.
+--------------------------------------------------------------------------------
+Copyright 2022 Refinitiv. All Rights Reserved.
+--------------------------------------------------------------------------------

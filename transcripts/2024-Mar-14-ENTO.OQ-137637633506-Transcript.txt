@@ -1,0 +1,204 @@
+
+
+Refinitiv StreetEvents Event Transcript
+E D I T E D  V E R S I O N
+
+First Wave BioPharma Inc To Acquire ImmunogenX LLC
+March 14, 2024 / 12:30PM UTC
+
+================================================================================
+Corporate Participants
+================================================================================
+
+ * Jason Rando
+   Tiberend Strategic Advisors, Inc. - EVP & COO
+ * James Sapirstein
+   First Wave BioPharma Inc - Chairman & CEO
+
+================================================================================
+Conference Call Participants
+================================================================================
+
+ * Operator
+   
+ * Jonathan Aschoff
+   Roth Capital Partners LLC - Managing Director, Senior Research Analyst
+ * Yi Chen
+   H.C. Wainwright & Co. - Analyst
+
+================================================================================
+presentation
+--------------------------------------------------------------------------------
+Operator,     [1]
+--------------------------------------------------------------------------------
+Good day, and thank you for standing by. Welcome to the First Wave BioPharma business combination conference call. (Operator Instructions) Please be advised today's conference is being recorded.
+I would now like to hand the conference over to your speaker today, Jason Rando, with Tiberend Strategic Advisors. Please go ahead.
+--------------------------------------------------------------------------------
+Jason Rando, Tiberend Strategic Advisors, Inc. - EVP & COO    [2]
+--------------------------------------------------------------------------------
+Good morning, and thank you for joining First Wave BioPharma in today's conference call. Earlier this morning, First Wave issued a press release detailing the closing of an all-stock acquisition of ImmunogenX, which we encourage listeners to read. The press release can be found in the News section of firstwavebio.com. First Wave also filed an 8-K this morning, which is available on firstwavebio.com and sec.gov.
+Before beginning today's call, I would like to make the following statement. Today, we'll be making certain forward-looking statements about operating metrics, future expectations, plans, events, and circumstances, including statements about our strategy, future operations and the development of our investigational drug candidates, and our expectations regarding capital allocation and cash resources. These statements are based on our current expectations, and you should not place undue reliance on these statements.
+Actual results may differ materially due to our risks and uncertainties, including those detailed in the Risk Factors section of First Wave BioPharma's annual report on Form 10-K for the year ended 2023 and subsequent quarterly reports on Form 10-Q, which have been filed with the SEC as well as in other filings we make with the SEC from time to time. First Wave BioPharma disclaims any obligation to update the information contained in these forward-looking statements, whether as a result of new information, future events, or otherwise.
+With us on today's call is James Sapirstein, Chairman and Chief Executive Officer of First Wave, who will discuss the merger agreement with ImmunoGenX and the potential of latiglutenase as a first-to-market celiac -- treatment for celiac disease. James, please go ahead.
+--------------------------------------------------------------------------------
+James Sapirstein, First Wave BioPharma Inc - Chairman & CEO    [3]
+--------------------------------------------------------------------------------
+Thank you, Jason, and thank you to everyone dialing into our conference call this morning.
+As mentioned earlier today, we announced the completion of the definitive merger agreement to acquire ImmunogenX in an all-stock transaction. This acquisition transforms First Wave BioPharma into a Phase 3-ready company with a clear growth strategy focused on building a GI pipeline comprised of multiple late-stage clinical assets that address significant -- sorry, a significant and unmet clinical need in a multi-billion-dollar market.
+Part of this acquisition, Jack -- as part of this acquisition, Jack Syage, CEO and Co-Founder of ImmunogenX, together with his team of scientific, clinical, and regulatory experts, will join First Wave. The ImmunogenX team brings with it significant scientific knowledge and recognized research contributions to celiac disease, as well as considerable experience in navigating the regulatory complexities of gastroenterological drug development. We are confident that First Wave's operational and strategic capabilities are further strengthened by the clinical and regulatory expertise of the ImmunogenX team.
+Central to our strategy and the centerpiece of this deal is the acquisition of latiglutenase, a Phase 3-ready, targeted, oral biotherapeutic for celiac disease. As many of you may know, celiac disease is an autoimmune disease related to eating gluten, a protein found in wheat, barley, and rye. It afflicts approximately 1% to 2% of the world's population, with over 3 million patients in the US alone. Currently, there are no commercially available therapies or cures for celiac disease.
+Latiglutenase is formulated through a mixture of two gluten-specific recombinant proteases that degrades gluten proteins into non-immunogenic peptide fragments, which are harmless. It comes in a flavored powder form and is mixed with the water that celiac disease patients drink when eating food.
+US FDA's GI division has completed its review of our Phase 3 clinical development plan for latiglutenase, setting the stage for trial initiation in early 2025. This pivotal step positions us to potentially introduce latiglutenase by 2027 as the first celiac therapeutic to enter the market. Successful development of latiglutenase not only promises to enhance shareholder value, but also underscores our commitment to addressing unmet medical needs.
+To support the Phase 3 trials, we soon expect to announce the close of a significant non-dilutive financial investment from a leading global pharmaceutical company in exchange for the US and Canadian rights for the drug. Having a major pharmaceutical company express interest in funding the company to co-develop latiglutenase positions us to move into the clinic quickly and provides us with an experienced commercial partner that can bring latiglutenase to market.
+In parallel, we expect to secure concurrent financing commitments from a syndicate of top-tier institutional investor healthcare funds. The investment we expect to secure from the strategic partner and healthcare funds is expected to fund the ongoing development of latiglutenase through Phase 3 interim data readout. We anticipate the conclusion of these agreements in the near term, ahead of the initiation of the Phase 3 trials for latiglutenase.
+Latiglutenase's transformative potential is grounded in compelling data from two prior Phase 2 trials, which have demonstrated that these therapy is not only safe and well-tolerated, but also effective in degrading the critical gluten proteins that cause intestinal damage and asymptomatic manifestations of celiac disease. Latiglutenase is an orally administered biotherapeutic comprised of two gluten-specific recombinant proteases. These proteases have minimal systemic absorption and have been developed specifically to address the unmet needs of celiac disease patients.
+The outcomes of the Phase 2A and Phase 2B clinical trials are promising, showing latiglutenase's capability to alleviate gluten-induced intestinal mucosal injury and to reduce the severity and frequency of symptoms among individuals afflicted with celiac disease.
+Celiac disease, as many of you are aware, is a chronic, hereditary autoimmune condition exacerbated by gluten consumption. It is marked by significant damage to the small intestines lining, leading to malabsorption, gastrointestinal dysfunction, and a range of debilitating symptoms. Patients with celiac disease, even when on a strict gluten-free diet, live in fear that a trace amount of gluten in their food can unexpectedly trigger a painful and debilitating flare-up that can incapacitate patients for several days and lead to hospitalization.
+In a recent survey sponsored by Beyond Celiac, 93% of the respondents reported they never intentionally eat gluten. But nonetheless, nearly 73% still reported having gluten exposure that resulted in symptoms. Nearly 40% of that group reported accidentally ingesting gluten as often as one to five times per month, with over two-thirds having severe or bad symptoms.
+Without proper management, celiac disease can lead to severe health deterioration, multiple serious medical complications, and an increased risk of morbidity and -- sorry, an increased risk of morbidity and mortality over a patient's lifetime. With a global prevalence of approximately 1% and an increasing rate of diagnosis to the better diagnostic tools and greater awareness, the need for effective treatments has never been more urgent.
+Our goal is to provide celiac patients with a safe and easy-to-administer therapy that reduces the symptoms of the disease, maintains intestinal health, and allows them to enjoy a quality of life free of fear and uncertainty stemming from trace gluten contamination of their food. With the definitive merger agreement completed, we are working to expedite the regulatory, manufacturing, and clinical preparations for the commencement of the pivotal Phase 3 trials of latiglutenase and, eventually, to do a potential biologicals license application, otherwise known as a BLA, and future commercialization.
+Based on current development timelines, latiglutenase could be commercially ready by 2027, positioning it to be the first ever drug product approved specifically to treat celiac disease. This will not only generate considerable shareholder value for First Wave, but offers an opportunity to bring relief to millions of Americans and the millions more around the world who suffer from celiac disease.
+The addition of latiglutenase represents a key pillar of growth for First Wave, not only -- but not only the only pillar. In 2023, we strengthened our GI-focused pipeline with the addition of capeserod, a selective 5-HT4 receptor partial agonist from Sanofi. Artificial intelligence-powered analyses indicate the drug's mechanism of action has potential applications for several gastrointestinal disorders in multi-billion-dollar markets, such as gastroparesis, where there are significant unmet medical need.
+Based on these analyses and buoyed by capeserod's strong safety profile, we are moving rapidly to initiate a Phase 2 gastroparesis clinical trial in 2025. And we'll be liaising with the FDA to establish the best developmental and regulatory pathway forward. Similar to the situation with latiglutenase, where a major strategic pharma company will have commercial rights, Sanofi retains the right of first refusal to develop and commercialize capeserod.
+Additionally, ongoing analyses of the adrulipase Phase 2 data have been promising and suggest potential opportunities to advance the program. We plan to request a type C meeting with the FDA to discuss the data and clinical development plan, given the shortcomings of current treatments for exocrine pancreatic insufficiency in patients with cystic fibrosis and chronic pancreatitis.
+With that, I will now open the call to your questions.
+
+================================================================================
+q-and-a
+--------------------------------------------------------------------------------
+Operator,     [1]
+--------------------------------------------------------------------------------
+Thank you. (Operator Instructions) Jason Aschoff, Roth.
+--------------------------------------------------------------------------------
+Jonathan Aschoff, Roth Capital Partners LLC - Managing Director, Senior Research Analyst    [2]
+--------------------------------------------------------------------------------
+Jonathan, but that was close enough. Good morning, guys. Congrats on the good news. And I've got four questions. The first one is, to be crystal clear, is there a single specific potential commercial partner that only some kind of unexpected problem discovered during due diligence could derail?
+--------------------------------------------------------------------------------
+James Sapirstein, First Wave BioPharma Inc - Chairman & CEO    [3]
+--------------------------------------------------------------------------------
+So right now, yes, Jonathan. And thanks for the question. There is one partner. We have a non-binding letter of intent with the said partner. They are pretty much completed with due diligence. We have one more a small item to go through.
+They have been waiting for this merger to be concluded, but they are very interested. I also want to highlight, they have a US, Canadian, and Central American rights, meaning that Western Europe and the rest of the world is wide open. And we are talking to several partners on those given rights.
+--------------------------------------------------------------------------------
+Jonathan Aschoff, Roth Capital Partners LLC - Managing Director, Senior Research Analyst    [4]
+--------------------------------------------------------------------------------
+That's great. That's good to see. [Two] deals can come from this. A question here is, why would a global pharmaceutical company not want to do the Phase 3 itself and simply have bought ImmunogenX directly? Or is it more like -- you're just like [not until] you done it first?
+--------------------------------------------------------------------------------
+James Sapirstein, First Wave BioPharma Inc - Chairman & CEO    [5]
+--------------------------------------------------------------------------------
+No. Look, I think we'd love for them to participate, and they will be participating in some way. While I haven't announced the amount of capital that they're going to invest until we turn this into a term sheet with them, they are -- it's going to be a double-digit million contribution. So they will be paying for a large chunk of the clinical trial. Therefore, they will have participation rights.
+They will be very involved in executing the trial and a lot of input. With that said, they will also have a right of first refusal to acquire the asset fairly early on, I would imagine once we have interim data in the Phase 3. If it's positive, I would think they would move into some discussion points on just grabbing more value for the asset.
+--------------------------------------------------------------------------------
+Jonathan Aschoff, Roth Capital Partners LLC - Managing Director, Senior Research Analyst    [6]
+--------------------------------------------------------------------------------
+Okay. Could you describe the earlier trials, especially the almost 500-patient trial, why it missed at 12 weeks, and how the intended Phase 3 program design will compensate for that, say, by -- I don't know -- choice of primary endpoint to enrolling a subset of celiac patients, whereas the other trial more broadly enrolled? can you tell us how you intend circumvent what went wrong in the past?
+--------------------------------------------------------------------------------
+James Sapirstein, First Wave BioPharma Inc - Chairman & CEO    [7]
+--------------------------------------------------------------------------------
+Yeah. So to -- it might not make it too complicated. Let's just say the earlier Phase 2 programs, they were seeking three clinical endpoints. And one of them, they hit two. And the one that they missed is histological improvement of the villi, which is a very -- it's a very tall order to reach that. But the other two endpoints, for instance, one of them, which was cutting down on GI disturbances, bloating, normal things you see from celiac disease, bowel movements, they were able to accomplish that one and the other second minor-ish endpoint.
+So the company actually has three studies in Phase 2 that accomplished two out of the three endpoints. What happened since then and, really, one of the reasons why First Wave was very interested in acquiring this asset is they went back after several years to the FDA and set up an end of Phase 2 meeting. And the FDA has now eliminated the need for these histological changes.
+So that one endpoint that was missed in the previous Phase 2 program no longer is a factor for approval, and it's really the only two -- the two other clinical endpoints that were hit every single time. And ImmunogenX did a conclusive study through the Mayo Clinic as well to prove this out. That was their last Phase 2B study. We're very confident we'll be able to hit both those clinical endpoints in Phase 3. Hope I answered your questions.
+--------------------------------------------------------------------------------
+Jonathan Aschoff, Roth Capital Partners LLC - Managing Director, Senior Research Analyst    [8]
+--------------------------------------------------------------------------------
+Okay. Thank you. Oh, yeah, definitely. My last one is a little easier. What's the share count after the acquisition?
+--------------------------------------------------------------------------------
+James Sapirstein, First Wave BioPharma Inc - Chairman & CEO    [9]
+--------------------------------------------------------------------------------
+So the share count -- once we merge everything, I mean, it's -- we have issued 365,000 shares of common stock to shareholders, and there's going to be another 11.7 million of preferred shares. So those need to convert to common. So at that point, we'll still have, depending on warrants and everything, approximately 20 million shares outstanding once all is said and done. We have to file a proxy in order to get these preferred shares converted to common, and then we'll have more -- close to 20 million shares.
+--------------------------------------------------------------------------------
+Jonathan Aschoff, Roth Capital Partners LLC - Managing Director, Senior Research Analyst    [10]
+--------------------------------------------------------------------------------
+Okay. Thank you very much. Congrats again.
+--------------------------------------------------------------------------------
+James Sapirstein, First Wave BioPharma Inc - Chairman & CEO    [11]
+--------------------------------------------------------------------------------
+Thank you.
+--------------------------------------------------------------------------------
+Operator,     [12]
+--------------------------------------------------------------------------------
+Yi Chen, H.C. Wainwright.
+--------------------------------------------------------------------------------
+Yi Chen, H.C. Wainwright & Co. - Analyst    [13]
+--------------------------------------------------------------------------------
+Hi. Thank you for taking my questions. Could you give just a bit more comment on the approvable endpoints from FDA's perspective? And also, how large -- I mean, how many patients in Phase 3 is going to enroll, and how much time do you expect the Phase 3 to complete the trial and report data? And roughly, how much the Phase 3 trial will cost? Thank you.
+--------------------------------------------------------------------------------
+James Sapirstein, First Wave BioPharma Inc - Chairman & CEO    [14]
+--------------------------------------------------------------------------------
+I'm just writing some quick notes so I get them all. Okay. So as I said before, the two -- we're going to look at a couple of things as the primary and secondary endpoints for Phase 3. So we will look at symptom relief. That is something that we've hit already, and we are looking in histological non-worsening. So those are really the two top -- primary and secondary endpoints for the Phase 3 trial.
+And the Phase 3 trials will also have a follow-on safety study. We're looking at anything from 840 patients to 1,100 patients to enroll in in both trials. So we're optimistic that the study will demonstrate histological improvement in these patients, especially for the ones that remain on the drug for the safety data.
+So the timing is -- we hope to get into the clinic, and as I mentioned before, in 2025. We believe the trials. We're going to run them in parallel. We'll take a 2 to 2.5 -- at most, three -- years, depending on how quickly we can enroll the patients.
+The cost of is anywhere from -- right now, we're looking at those things as well, anywhere from $70 million to $100 million for both trials. We're doing everything we can to save costs and bring those costs down. But those are -- that's for both trials. A big part of the cost, quite frankly, is drug, is getting our manufacturing, moving in the right direction, and creating capacity to have enough drug for the trial.
+So that's everything that's in process or will be in process starting today, actually, now that we've announced the merger. Did that answer your question?
+--------------------------------------------------------------------------------
+Yi Chen, H.C. Wainwright & Co. - Analyst    [15]
+--------------------------------------------------------------------------------
+Yes, that's very helpful. Thank you very much.
+--------------------------------------------------------------------------------
+James Sapirstein, First Wave BioPharma Inc - Chairman & CEO    [16]
+--------------------------------------------------------------------------------
+Thank you.
+--------------------------------------------------------------------------------
+Operator,     [17]
+--------------------------------------------------------------------------------
+And I'm not showing any further question at this time. I'd like to turn the call back over to James for any closing remarks.
+--------------------------------------------------------------------------------
+James Sapirstein, First Wave BioPharma Inc - Chairman & CEO    [18]
+--------------------------------------------------------------------------------
+Okay. Thank you, and thanks for the questions as well. There's going to be more news as time goes on. We have publications that we expect as well.
+So as we wrap up today's presentation, I want to emphasize that our refreshed therapeutic pipeline positions at First Wave BioPharma serve as the GI market leader. When compared to similar-sized companies, our late-stage GI pipeline stands out for its maturity and revenue potential.
+By expanding our pipeline into new late clinical stage therapeutic areas with near-term clinical and regulatory milestones and by partnering with strategic commercial pharma companies and raising institutional healthcare investment, we believe that we are creating the best conditions to increase shareholder value for current and future investors.
+Our commitment to developing new treatments for GI conditions that grow shareholder value and make a real difference in the lives of patients is at the core of what we do. Leading First Wave BioPharma in these efforts is something I take seriously. Today, I am confident that we now have the pieces in place to realize the potential of not only latiglutenase, but the entirety of our GI-focused pipeline. Thank you, everyone, for your time and attention today.
+--------------------------------------------------------------------------------
+Operator,     [19]
+--------------------------------------------------------------------------------
+Thank you. Ladies and gentlemen, this does conclude today's presentation. You may now disconnect and have a wonderful day.
+
+
+
+
+
+
+--------------------------------------------------------------------------------
+Definitions
+--------------------------------------------------------------------------------
+Preliminary Transcript: "Preliminary Transcript" indicates that the 
+Transcript has been published in near real-time by an experienced 
+professional transcriber.  While the Preliminary Transcript is highly 
+accurate, it has not been edited to ensure the entire transcription 
+represents a verbatim report of the call.
+
+EDITED TRANSCRIPT: "Edited Transcript" indicates that a team of professional 
+editors have listened to the event a second time to confirm that the 
+content of the call has been transcribed accurately and in full.
+
+--------------------------------------------------------------------------------
+Disclaimer
+--------------------------------------------------------------------------------
+Refinitiv reserves the right to make changes to documents, content, or other 
+information on this web site without obligation to notify any person of 
+such changes.
+
+In the conference calls upon which Event Transcripts are based, companies 
+may make projections or other forward-looking statements regarding a variety 
+of items. Such forward-looking statements are based upon current 
+expectations and involve risks and uncertainties. Actual results may differ 
+materially from those stated in any forward-looking statement based on a 
+number of important factors and risks, which are more specifically 
+identified in the companies' most recent SEC filings. Although the companies 
+may indicate and believe that the assumptions underlying the forward-looking 
+statements are reasonable, any of the assumptions could prove inaccurate or 
+incorrect and, therefore, there can be no assurance that the results 
+contemplated in the forward-looking statements will be realized.
+
+THE INFORMATION CONTAINED IN EVENT TRANSCRIPTS IS A TEXTUAL REPRESENTATION
+OF THE APPLICABLE COMPANY'S CONFERENCE CALL AND WHILE EFFORTS ARE MADE TO
+PROVIDE AN ACCURATE TRANSCRIPTION, THERE MAY BE MATERIAL ERRORS, OMISSIONS,
+OR INACCURACIES IN THE REPORTING OF THE SUBSTANCE OF THE CONFERENCE CALLS.
+IN NO WAY DOES REFINITIV OR THE APPLICABLE COMPANY ASSUME ANY RESPONSIBILITY FOR ANY INVESTMENT OR OTHER
+DECISIONS MADE BASED UPON THE INFORMATION PROVIDED ON THIS WEB SITE OR IN
+ANY EVENT TRANSCRIPT. USERS ARE ADVISED TO REVIEW THE APPLICABLE COMPANY'S
+CONFERENCE CALL ITSELF AND THE APPLICABLE COMPANY'S SEC FILINGS BEFORE
+MAKING ANY INVESTMENT OR OTHER DECISIONS.
+--------------------------------------------------------------------------------
+Copyright 2024 Refinitiv. All Rights Reserved.
+--------------------------------------------------------------------------------

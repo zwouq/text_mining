@@ -1,0 +1,498 @@
+
+
+Refinitiv StreetEvents Event Transcript
+E D I T E D   V E R S I O N
+
+Abbvie Inc To Acquire Cerevel Therapeutics
+DECEMBER 07, 2023 / 2:00PM GMT
+
+================================================================================
+Corporate Participants
+================================================================================
+
+ * Richard A. Gonzalez
+   AbbVie Inc. - Chairman & CEO
+ * Nicholas R. Donoghoe
+   AbbVie Inc. - Executive VP and Chief Business & Strategy Officer
+ * Jeffrey Ryan Stewart
+   AbbVie Inc. - Executive VP & Chief Commercial Officer
+ * Robert A. Michael
+   AbbVie Inc. - President & COO
+ * Elizabeth Shea
+   AbbVie Inc. - SVP of IR
+ * Scott T. Reents
+   AbbVie Inc. - Executive VP & CFO
+ * Roopal Thakkar
+   AbbVie Inc. - SVP of Development & Regulatory Affairs and Chief Medical Officer
+
+================================================================================
+Conference Call Participiants
+================================================================================
+
+ * Timothy Francis Lugo
+   William Blair & Company L.L.C., Research Division - Co-Group Head of Biopharma Equity Research, Partner & Research Analyst
+ * Gary Jay Nachman
+   Raymond James & Associates, Inc., Research Division - MD & Senior Life Sciences Analyst
+ * Unidentified Analyst
+    - 
+ * Carter Lewis Gould
+   Barclays Bank PLC, Research Division - Senior Analyst
+ * Christopher Joseph Raymond
+   Piper Sandler & Co., Research Division - MD & Senior Research Analyst
+ * Terence C. Flynn
+   Morgan Stanley, Research Division - Equity Analyst
+ * James John Shin
+   Deutsche Bank AG, Research Division - Research Analyst
+ * Vamil Kishore Divan
+   Guggenheim Securities, LLC, Research Division - Research Analyst
+ * Christopher Thomas Schott
+   JPMorgan Chase & Co, Research Division - Senior Analyst
+ * Evan David Seigerman
+   BMO Capital Markets Equity Research - MD & Senior BioPharma Research Analyst
+
+================================================================================
+Presentation
+--------------------------------------------------------------------------------
+Operator    [1]
+--------------------------------------------------------------------------------
+Good day, and thank you for standing by. Welcome to the AbbVie Investor and Analyst Conference Call. (Operator Instructions) Today's call is also being recorded. (Operator Instructions) I would now like to introduce Ms. Liz Shea, Senior Vice President of Investor Relations. Thank you. You may begin.
+
+--------------------------------------------------------------------------------
+Elizabeth Shea,  AbbVie Inc. - SVP of IR    [2]
+--------------------------------------------------------------------------------
+Good morning, and thank you for joining us for this special conference call to discuss AbbVie's acquisition of Cerevel, which we announced yesterday. 
+Joining me on the call today are Rick Gonzalez, Chairman of the Board and Chief Executive Officer; Rob Michael, President and Chief Operating Officer; Jeff Stewart, Executive Vice President and Chief Commercial Officer; Scott Reents, Executive Vice President and Chief Financial Officer; and Roopal Thakkar, Senior Vice President, Development and Regulatory Affairs and Chief Medical Officer; Nicholas Donoghoe, Executive Vice President, Chief Business and Strategy Officer; will also be joining us for the Q&A portion of our call. 
+Today's events will feature prepared remarks from Rick, Rob, Roopal, Jeff and Scott that discuss the strategic rationale for the Cerevel acquisition as well as the key financial aspects of the transaction. We have also posted a set of slides with additional background for your reference, which can be found on our investor website. 
+Before we get started, I'll note that some statements we make today may be considered forward-looking statements, based on our current expectations. AbbVie cautions that these forward-looking statements are subject to risks and uncertainties that may cause actual results to differ materially from those indicated in our forward-looking statements. 
+Additional information about these risks and uncertainties is included in our SEC filings. AbbVie undertakes no obligation to update these forward-looking statements except as required by law. Following our prepared remarks, we'll take your questions. 
+So with that, I'll turn the call over to Rick.
+
+--------------------------------------------------------------------------------
+Richard A. Gonzalez,  AbbVie Inc. - Chairman & CEO    [3]
+--------------------------------------------------------------------------------
+Thank you, Liz. Good morning, everyone, and thank you for joining us to discuss the acquisition of Cerevel Therapeutics. Cerevel is a unique opportunity to augment our presence in neuroscience with a pipeline of differentiated assets, assets with the potential to have a meaningful impact on AbbVie revenue in 2030 and beyond. 
+The acquisition of Cerevel, together with the ImmunoGen transaction we announced last week and our existing assets and pipeline, will create one of the most attractive growth portfolios in the industry. 
+In immunology, our performance and execution has been outstanding, and we're well positioned for sustained leadership. SKYRIZI and RINVOQ are demonstrating impressive results, with robust growth expected well into the next decade. 
+In oncology, we've established a strong commercial portfolio in heme and are building a significant presence in solid tumors, which was further strengthened with ImmunoGen. We see strong long-term growth potential for aesthetics, an extremely attractive underpenetrated market, where we have leading positions in toxins with Botox and fillers with Juvederm. 
+In eye care, we have a broad commercial portfolio of treatments and are advancing several clinical programs to address significant areas of unmet need, including wet AMD, diabetic retinopathy and other conditions. 
+And in neuroscience, are compelling therapies for migraine, along with Baylor and our combined pipeline with Cerevel represents a significant growth opportunity well into the next decade. 
+Our near-term prospects are extremely strong. We are positioned to return to robust growth in 2025 and deliver top-tier financial performance through the end of the decade. With the additions of Cerevel and ImmunoGen, AbbVie is in a stronger position to deliver sustainable long-term performance in the 2030s and beyond time frame. 
+With that, said, I'll turn the call over to Rob. Rob?
+
+--------------------------------------------------------------------------------
+Robert A. Michael,  AbbVie Inc. - President & COO    [4]
+--------------------------------------------------------------------------------
+Thank you, Rick. This is an exciting day for both companies. The acquisition of Cerevel represents a transformative opportunity for AbbVie's neuroscience portfolio as well as the patients we serve. This transaction is highly complementary to our own efforts in neuroscience, where we have been investing to advance novel medicines for patients since AbbVie's inception. 
+We expect to leverage AbbVie's clinical and regulatory expertise, commercial capabilities and international infrastructure to maximize Cerevel's high-value assets. Cerevel's pipeline includes several potentially best-in-class therapies. The most promising asset, emraclidine, is in late-stage development for schizophrenia, a condition affecting more than 5 million patients in the U.S., Europe and Japan. 
+Emraclidine is part of a new mechanistic class that has the potential to more effectively address psychosis-related symptoms across several diseases with improved safety and tolerability relative to standard of care. Based on the prevalence and unmet need as well as the encouraging clinical data demonstrated to date, emraclidine represents a multibillion-dollar peak sales opportunity that should contribute significantly to AbbVie's growth in the 2030s. 
+Cerevel is also advancing multiple programs across a range of other neurological conditions such as Parkinson's epilepsy, panic disorder, dementia-related apathy, and major depressive disorder. 
+In summary, this transaction complements our existing neuroscience portfolio and significantly strengthens our pipeline for long-term performance. I'm very excited to have the talented team from Cerevel join the AbbVie organization. We look forward to working together to deliver meaningful change for the patients we serve. 
+I'll now turn the call over to Roopal, who will highlight Cerevel's clinical programs in more detail. Roopal?
+
+--------------------------------------------------------------------------------
+Roopal Thakkar,  AbbVie Inc. - SVP of Development & Regulatory Affairs and Chief Medical Officer    [5]
+--------------------------------------------------------------------------------
+Thank you, Rob. I'd like to begin by welcoming the Cerevel team to our R&D organization. As Rob just outlined, this transaction provides AbbVie with a robust pipeline, consisting of multiple assets, with the potential to be best-in-class treatments across a range of neuropsychiatric diseases. In addition, Cerevel brings a talented team of scientists and strong research capabilities to complement AbbVie's discovery and development organizations. Neuroscience has been a core therapeutic area for our company for several decades, with research ongoing since before we separated and became an independent company. AbbVie has a long history of research and development efforts in the areas of neurodegenerative diseases, schizophrenia and mood disorders. 
+Over the past decade, we have made significant investments, both internally and externally, to increase our capabilities and expand our neuroscience portfolio through acquisitions, collaborations and internal efforts, including the work being done at our Cambridge Research Center and discovery site in Germany. We've made tremendous progress advancing our neuroscience R&D programs. 
+Our current commercial portfolio includes differentiated products such as Botox Therapeutic and our oral CGRP receptor antagonist in migraine, Vraylar in psychiatry and DUOPA in Parkinson's disease. To support long-term growth in this area, we have a robust pipeline consisting of novel therapies for Alzheimer's disease, movement disorders and mood disorders.
+Cerevel's pipeline will further strengthen our R&D efforts by adding 5 clinical-stage assets, preclinical programs and discovery capabilities. One of the most promising assets is emraclidine, a highly selective positive allosteric modulator of the muscarinic M4 receptor subtype in late-stage registration-enabling studies for schizophrenia. 
+Muscarinic receptor modulators are a new class of agents being developed for the treatment of schizophrenia and dementia-related psychosis. They have shown very promising clinical data in patients with schizophrenia, demonstrating potential to provide increased efficacy and improved safety compared to atypical antipsychotics. 
+Because these new modulators are not directly aimed at dopamine or serotonin receptors like currently available antipsychotics, they have not been associated with weight gain, adverse impact on metabolic parameters or extrapyramidal symptoms. 
+While there are several muscarinic receptor approaches in development, emraclidine is a positive allosteric modulator that selectively activates the M4 subtype, which we believe will allow emraclidine to differentiate on both efficacy and safety. 
+Emraclidine also has the advantage of being a drug with a single active ingredient that is dosed once daily without the need for titration. These are important attributes for an antipsychotic and serve as additional points of differentiation. 
+In a Phase Ib study, emraclidine showed a clinically meaningful and statistically significant improvement in the positive and negative syndrome score for schizophrenia at 6 weeks. This efficacy benefit was numerically greater than results demonstrated with current antipsychotics and other muscarinic receptor modulators in development. 
+Emraclidine also demonstrated a favorable safety and tolerability profile in this early-stage trial. There were no adverse events related to weight gain, metabolic parameters or extrapyramidal symptoms, which are common AEs for atypical antipsychotics. And contrary to what has been reported for the most advanced muscarinic receptor modulator in development, emraclidine showed low rates of GI events such as nausea, vomiting, dyspepsia and constipation.  
+We're very excited by the early clinical results for emraclidine, and the emerging profile gives us confidence that it has the potential to become a best-in-class treatment for schizophrenia. Emraclidine is currently being evaluated in 2 large randomized placebo-controlled Phase II trials in schizophrenia that would support regulatory submissions. Data from both studies are anticipated in the second half of 2024. 
+Beyond these ongoing studies, we are planning additional programs that have the potential to significantly expand emraclidine in schizophrenia. We will be initiating a Phase III trial in schizophrenia, designed to support expansion to key international markets, including Europe and Japan. Given its profile, we plan to develop emraclidine as an adjunctive treatment with classic antipsychotic drugs, which we believe will address residual unmet need for patients whose symptoms remain after monotherapy treatment. 
+We also plan to develop emraclidine as a long-acting injectable formulation, which would improve -- which would provide important benefits to schizophrenia patients in terms of compliance. And we plan to study emraclidine in dementia-related psychosis in patients with Alzheimer's and Parkinson's diseases. 
+Another exciting asset for Cerevel is CVL-354, a kappa opioid receptor antagonist, which is a novel class of drugs that has been clinically validated and has significant potential as a treatment for major depressive disorders. Cerevel's core antagonist is more selective and more potent in preclinical models compared to 2 other core antagonists in development, which may lead to better tolerability and a wider therapeutic index, positioning 354 as potentially best-in-class. 
+While CVL-354 is still early in development, we are very encouraged by its emerging profile and would expect it to contribute from a commercial perspective beginning in the next decade. 
+Cerevel also brings tavapadon, a dopamine receptor partial agonist that selectively targets D1 and D5 subtypes. This selectivity should enable an important and improved safety and tolerability profile relative to approved dopamine agonists, which would allow use in early Parkinson's patients prior to levodopa as well as adjunctively with levodopa in advanced patients. Tavapadon is currently in Phase III studies in both early and late-stage Parkinson's disease, with data expected next year. 
+Cerevel has 2 additional clinical-stage assets in its pipeline, including Darigabat and alpha 2, 3 and 5 selective GABA A modulator in Phase II studies for focal epilepsy and panic disorder; and CVL-871, a partial dopamine agonist, currently being evaluated in a Phase II study in dementia-related apathy. 
+In summary, this transaction further strengthens our neuroscience pipeline and complements our existing discovery and development capabilities. 
+I look forward to working with the talented team from Cerevel. 
+I'll now turn the call over to Jeff.
+
+--------------------------------------------------------------------------------
+Jeffrey Ryan Stewart,  AbbVie Inc. - Executive VP & Chief Commercial Officer    [6]
+--------------------------------------------------------------------------------
+Thank you, Roopal. I'd like to give the commercial context of this opportunity, and I'll start through the lens of our commercial scale and capabilities, which are very substantial. 
+AbbVie has a very large and established infrastructure in neuroscience. In fact, we have one of the largest neuro and neuropsychiatry sales teams in the U.S., with over 1,700 representatives and managers in place today. Our sales teams call on the entire psychiatry specialty as well as the high-prescribing primary care physicians in the mental health space. We have deep and enduring relationships across the core indications of schizophrenia, bipolar disease, major depression and Parkinson's. 
+Our field team has also represented some of the most meaningful brands across the category, including Vraylar and historically, Celexa, Lexapro and others. This organizational setup will be a significant competitive advantage as we begin to commercialize the exciting programs within the Cerevel portfolio. 
+Now let's take a look at some of the key indications and product opportunities. I'll start with schizophrenia, where emraclidine will initially fit in. This is a large market, with roughly 1.6 million patients treated annually just in the U.S. alone. And despite the availability of first- and second-generation atypical antipsychotics, patients face uncertainty around symptom control and tolerating their treatments over time. 
+Now the market structure is relatively simple. There are 4 big agents now generic, which make up approximately 85% of the market. These include Risperdal, Zyprexa, Seroquel and Abilify. 
+While these agents have clear efficacy and antipsychotic effects, their tolerability and AE profile is extremely challenging. As Roopal noted, significant weight gain, metabolic effects, glucose, lipid elevations, prolactin elevations in gynecomastia and the movement disorders like akathisia, Parkinsonism and tardive dyskinesia. These products are difficult for many patients to handle. 
+So when we look at the product profile that emraclidine will bring, we are very excited about elevating that standard of care. Emraclidine has the potential to deliver efficacy that is equivalent or better relative to these atypical antipsychotics. It has demonstrated exceptional tolerability to date in the clinic, which would represent a meaningful differentiation versus other previous blockbusters in this disease. 
+And emraclidine is expected to have very convenient dosing as a once-daily pill with no titration requirement, representing additional important points of differentiation from even other muscarinic receptor modulators in development. 
+I'd also like to highlight two other very attractive elements of the emraclidine profile that will be distinctive commercially: First, the ability to develop and commercialize a long-acting injection or LAI version of emraclidine. As patients are stabilized on the appropriate oral dose of an agent, some can be managed over time on the LAI versions for compliance reasons. This is a critical need in this population. 
+The global LAI market is more than $6 billion today, with the majority of the value captured by the INVEGA family of products. When you consider the profile I described earlier, with the unique blend of strong efficacy, very good tolerability and simple dosing, you can quickly see the potential opportunity with the LAI. 
+Second, as Roopal noted, we plan on pursuing adjunctive use of emraclidine in schizophrenia. Despite the urgent need to control those positive symptoms, the hallucinations, the delusions, combination use of current agents is relatively infrequent. And that's because the risk of the overlapping toxicities and adverse events of using the existing drugs together. But again, given the mechanism and the expected strong profile I've described, the use of adjunctive emraclidine becomes a very attractive value proposition. 
+So emraclidine's potential best-in-class profile, along with these other two attractive elements have generated significant excitement in our key opinion leaders and clinicians. We believe it's very well positioned to provide transformative care for patients, and we view this asset as a multibillion dollar peak sales opportunity. 
+AbbVie also has an established portfolio in advanced Parkinson's with DUOPA and 951. This is another area where we have strong existing commercial and medical infrastructure as well as strong relationships with neurologists and movement disorder experts around the world. Tavapadon will be a nice complementary fit to this portfolio and operate earlier than our advanced therapies. 
+While the vast majority of early disease is managed with oral levodopa, our experts report a desire to use more dopamine agonism. However, the existing options are difficult to manage. So tavapadon has the potential to be another opportunity to help manage Parkinson's disease earlier in its course. 
+Finally, in major depression, one of the largest prescription categories in the world, CVL-354 is setting up to be a very attractive asset. Simply put, physicians and patients need more effective antidepressants. The category is dominated by SSRIs, which typically only work 1/3 of the time as monotherapy in major depression, and they're not approved in bipolar depression. So we plan on pursuing both unipolar and bipolar disease in our programs with 354. 
+When we look to the profile, the selectivity, as described by Roopal, and ultimately, the ability to deliver and compete within a new class of antidepressants, we remain very excited to potentially slot in another attractive agent into our commercial infrastructure to create value. 
+And with that, I'll turn it over to Scott.
+
+--------------------------------------------------------------------------------
+Scott T. Reents,  AbbVie Inc. - Executive VP & CFO    [7]
+--------------------------------------------------------------------------------
+Thanks, Jeff. I'll echo others on the team. This is a very exciting day for both AbbVie and Cerevel. We are pleased to welcome this talented team into the AbbVie organization.
+This acquisition, along with the transaction we announced last week, meaningfully strengthens our existing portfolios in neuroscience and oncology and significantly bolsters our already strong prospects for robust long-term growth.
+Turning to the details of today's transaction. we have agreed to acquire all outstanding shares of Cerevel Therapeutics for a purchase price of $45 per share in an all-cash transaction. This reflects a purchase price of $8.7 billion, with an implied transaction value of approximately $8.4 billion net of estimated cash acquired. We will fund the transaction with a combination of cash and debt. 
+We see the potential for substantial shareholder value creation with multiple billion-dollar collective sales potential across Cerevel's portfolio of assets. Emraclidine represents the most substantial component of the deal value, given its potentially highly differentiated profile and the addressable instance in schizophrenia. 
+More modest value has been ascribed to CVL-354, given the earlier stage of development. Assuming a deal close in the middle of 2024, we expect the Cerevel transaction to be approximately $0.19 dilutive to our adjusted earnings per share in 2024 and approximately $0.41 dilutive to earnings in 2025, given the R&D investment and higher interest expense. We anticipate positive operating margin in 2028, with earnings accretion beginning in 2030 and significantly ramping over the long term. 
+Regarding our outlook, despite the dilution associated with both Cerevel and ImmunoGen transactions, we are once again maintaining the full -- 2024 full-year adjusted earnings per share floor of $11. This highlights our continued confidence in the underlying performance of our base business. We plan to provide formal guidance for 2024 on our fourth quarter earnings call. 
+It is also important to note that our approach to capital allocation remains unchanged, including a strong and growing dividend. We do not anticipate a change to AbbVie's credit rating following the incremental financing for the 2 recently announced transactions as we are committed to achieving a net leverage ratio of 2x by the end of 2026.
+In summary, this is an exciting day for both AbbVie and Cerevel as we combine our 2 companies to create a more robust neuroscience portfolio that has the potential to deliver better outcomes for patients. AbbVie is now in an even stronger position to deliver sustainable long-term performance in the 2030s and beyond.
+With that said, I'll turn the call back over to Liz.
+
+--------------------------------------------------------------------------------
+Elizabeth Shea,  AbbVie Inc. - SVP of IR    [8]
+--------------------------------------------------------------------------------
+Thanks, Scott. We will now open the call for questions in the interest of hearing from as many analysts as possible over the remainder of the call, please limit your questions to one or two.
+Operator, first question, please.
+
+
+================================================================================
+Questions and Answers
+--------------------------------------------------------------------------------
+Operator    [1]
+--------------------------------------------------------------------------------
+Our first question comes from Mohit Bansal with Wells Fargo.
+
+--------------------------------------------------------------------------------
+Unidentified Analyst,   -     [2]
+--------------------------------------------------------------------------------
+This is Serena on for Mohit. Congrats on the deal. Since this ImmunoGen and Cerevel deal will give you quite a bit of pipeline, can you comment on your further capacity and desire to do further deals, or do you think your pipeline is set for now?
+
+--------------------------------------------------------------------------------
+Robert A. Michael,  AbbVie Inc. - President & COO    [3]
+--------------------------------------------------------------------------------
+This is Rob. I'll take that question. And we have previously said that our BD efforts were focused on identifying assets that can drive growth in the next decade. And we've accomplished that by adding to our oncology and neuropsych pipeline through both the ImmunoGen and Cerevel deals. I would not anticipate similar-sized transactions for the foreseeable future. 
+That said, we will continue to pursue smaller-size early-stage opportunities that can further support growth in the next decade. That's not because we don't have the balance [sheet] capacity. There is still room to get back to net leverage of 2x in a 2- to 3-year time frame. It's because of the strength of our current on-market and pipeline portfolio across 5 key growth areas, which both ImmunoGen, Cerevel very nicely complement.
+
+--------------------------------------------------------------------------------
+Operator    [4]
+--------------------------------------------------------------------------------
+Our next question comes from Vamil Divan with Guggenheim Securities.
+
+--------------------------------------------------------------------------------
+Vamil Kishore Divan,  Guggenheim Securities, LLC, Research Division - Research Analyst    [5]
+--------------------------------------------------------------------------------
+I just have two, if I could. One, just if you could elaborate a little bit more on any sort of regulatory concerns, given your presence in schizophrenia with Vraylar and obviously emraclidine [leading] in the same condition. 
+And then the second question we've gotten, good to see you sort of maintain your confidence in the $11 [floor] for 2024. Can you just confirm that you still feel comfortable that 2024 will be the floor, especially when you consider the dilution -- full-year dilution impact in 2025? Is there any risk that you see at 2025 potentially again turning into the floor here?
+
+--------------------------------------------------------------------------------
+Richard A. Gonzalez,  AbbVie Inc. - Chairman & CEO    [6]
+--------------------------------------------------------------------------------
+Okay. This is Rick. I'll take the first question. Obviously, you look very carefully at the FTC risk before you proceed forward this. And I can tell you, this acquisition is not anticompetitive. One of the things that's important to keep a perspective in this particular market is psychiatry is an extremely crowded and fragmented market. There are literally dozens of approved therapies, both generics and branded drugs, so most drugs don't capture or only capture relatively modest peak share because of that. 
+In addition, we don't have any overlapping mechanisms between us and Cerevel in our portfolio or in our pipeline. So there's no real risk associated with that. 
+To the comment of Vraylar, you have to remember, Vraylar has very low share in schizophrenia. The vast majority of the revenue for Vraylar comes from bipolar and MDD. So we don't see that as an issue. So we have a lot of confidence that we will be able to get this through the FTC.
+
+--------------------------------------------------------------------------------
+Robert A. Michael,  AbbVie Inc. - President & COO    [7]
+--------------------------------------------------------------------------------
+And Vamil, this is Rob. To your question on the floor. No, we are very, very confident we're going to return a robust growth in 2025. So there is no risk that the floor would push out to '25. I would think about it as a 2024 floor. And as a reminder, we provided that floor in February to address investor concerns about which year trough earnings would occur. And so obviously, now that we're laying to [23], it's clear that trough earnings would occur in 2024. 
+Now it's also important to remember that we increased that floor on the Q3 call in October to reflect growth platform overperformance versus our original guidance this year, the guidance we gave you in February, we've overperformed that by greater than $1.4 billion on the growth platform. 
+And while the 4 calculations do not factor in the dilution from these deals, that's combined $0.32, the great progress we've been making with the HUMIRA payer negotiations this quarter gives us the confidence to maintain the floor despite this dilution. 
+And when you couple that with the growth platform momentum that was already factored into the floor update in October, the strength of our business performance becomes very clear. I mean that strong performance has enabled us to pursue these 2 acquisitions that bolster our growth outlook into the next decade without sacrificing our short-term commitments.
+
+--------------------------------------------------------------------------------
+Operator    [8]
+--------------------------------------------------------------------------------
+Our next question comes from Terence Flynn with Morgan Stanley.
+
+--------------------------------------------------------------------------------
+Terence C. Flynn,  Morgan Stanley, Research Division - Equity Analyst    [9]
+--------------------------------------------------------------------------------
+Maybe two for me. The first was just can you speak to your confidence in securing approval for emraclidine in schizophrenia based on the current Phase II trials? And then on the LAI, I thought that was interesting. Can you just comment about potential? Is that an in-house formulation? And what that might do for patent protection?
+
+--------------------------------------------------------------------------------
+Roopal Thakkar,  AbbVie Inc. - SVP of Development & Regulatory Affairs and Chief Medical Officer    [10]
+--------------------------------------------------------------------------------
+Terence, it's Roopal. I think you're -- when we call it Phase II for emraclidine, these are almost 400 patients per trial. So these are, I would say, large, very robust studies that are pivotal in nature. They're very well designed. They have a very high amount of power, the multiplicity control their endpoint, all the key features one would look for in a robust Phase III study, and they're doing that in replicate. 
+So we look at that and say that there's -- we don't perceive any regulatory risk from that standpoint. So we're quite confident in the trials that have been put together by Cerevel for emra. 
+I'll make a comment on LAI. There's a variety of different ways that these can be formulated. We will just seek the best possible approach to give us the best formulation, and we'll seek different types of depots. We have very strong [CMC] formulation teams here. 
+But I think what's critical from this standpoint is that we have a single agent, and that is very important when it comes to generating a long acting. Having that single molecule is very critical, I would say. So I think that sets us up for future success.
+
+--------------------------------------------------------------------------------
+Richard A. Gonzalez,  AbbVie Inc. - Chairman & CEO    [11]
+--------------------------------------------------------------------------------
+And then from an IP standpoint, as Roopal said, we're going to parallel path both some internal approaches as well as some external approaches, see which is faster, which is better. Depending upon which one of those approaches we end up with, there could be some IP benefit, but it's too early to tell that at this point.
+
+--------------------------------------------------------------------------------
+Operator    [12]
+--------------------------------------------------------------------------------
+The next question comes from Gary Nachman with Raymond James.
+
+--------------------------------------------------------------------------------
+Gary Jay Nachman,  Raymond James & Associates, Inc., Research Division - MD & Senior Life Sciences Analyst    [13]
+--------------------------------------------------------------------------------
+Congrats on the deal. So just back on emraclidine, so how does this M4 agonists compare with Karuna's M1, M4 agonist specifically, which should be approved potentially some time next year? And do you think that product would cannibalize Vraylar in any way, specifically with the schizophrenia use? 
+And I'm assuming it would start out as a second-line agent, just given the market dynamics, but what's the likelihood that it could ultimately be a first-line agent? And then just back on the IP, if you could just give us a high level of where the IP stands for all the key products in Cerevel's pipeline.
+
+--------------------------------------------------------------------------------
+Roopal Thakkar,  AbbVie Inc. - SVP of Development & Regulatory Affairs and Chief Medical Officer    [14]
+--------------------------------------------------------------------------------
+It's Roopal, Gary. I'll take the first part on potential differentiation. There's a few things, right? This one is M4 targeting. We think most of that M4 is where the antipsychotic activity is going to come from. It's also less likely to be peripherally located. Our feeling is M1 is more likely to be expressed [peripherally] and perhaps on cardiac tissue. So that's one point. 
+The second point, this is, as I've stated, a single agent. This is not a dual molecule. And that being said, when we differentiate and look at the atypicals, we don't expect the weight gain, the metabolic issues, the motor symptoms or sedation. But on the other hand, we also don't see the cholinergic or importantly, anticholinergic effects, meaning we don't see the tolerability issues of nausea, vomiting, constipation, dry mouth, I think those are critical differentiators. 
+The other thing I'd like to point out just about the molecule itself, it behaves quite well. It has a good half-life and has minimal food effect. It is once a day, and I think that's a critical differentiator, especially in schizophrenia. 
+It can be very challenging outside of neuropsychiatry to get patients to be adherent to their medicines, and moving from once a day to BID certainly increases those challenges even outside of neuropsychiatry. So QD for us is a critical factor. And then the other important thing other than the safety that I pointed out is also no need for titration.
+
+--------------------------------------------------------------------------------
+Jeffrey Ryan Stewart,  AbbVie Inc. - Executive VP & Chief Commercial Officer    [15]
+--------------------------------------------------------------------------------
+Yes. And Gary, it's Jeff. I'll take your Vraylar question. So if you take a step back and you look at the contribution to revenue, we've guided towards revenue approaching $5 billion. 
+And in schizophrenia, Vraylar is very, very small. It doesn't play at all. So the risk of cannibalization is really nonexistent. There's less than 2% share of the category in Vraylar. Most of the Vraylar momentum or really all of it is coming from mood, from bipolar and the adjunctive MDD. So there's no risk in our modeling there. 
+Now, what you've highlighted is typically in this category, you really need the efficacy. That's why the more -- the newer dopamine-type agents like Vraylar or CAPLYTA or REXULTI, they don't carry a lot of share because they can't get the efficacy that you need. And that's what's so compelling about emraclidine. 
+So to your point, typically, you would model these, as you highlighted, as in the early days as sort of a second line-type drug as people start to rotate off the RISPERDAL, so does Zyprexa because simply they just can't tolerate them. 
+So this unique mix of the very strong efficacy, so in line with the biggest drugs ever invented so far, really the early atypical antipsychotics, the tolerability and the simple dosing that Roopal talked about, we can absolutely see a scenario that this is transformative for the space. 
+And these agents, despite the fact they will be premium priced branded agents, they're so distinctive they can start to move to the front line. So that's very, very encouraging in terms of how we see the potential change of standard of care in what has been a very static market for many, many years.
+
+--------------------------------------------------------------------------------
+Richard A. Gonzalez,  AbbVie Inc. - Chairman & CEO    [16]
+--------------------------------------------------------------------------------
+And Nicholas, why don't you cover the IP?
+
+--------------------------------------------------------------------------------
+Nicholas R. Donoghoe,  AbbVie Inc. - Executive VP and Chief Business & Strategy Officer    [17]
+--------------------------------------------------------------------------------
+Yes. In terms of the IP, we're very confident in what we have seen as the deal model has assumed for emraclidine, LOE in the early [2040s]. As Rick mentioned earlier, there could be additional findings with LAI or other formulations, but that was what we've assumed in the deal model to date.
+
+--------------------------------------------------------------------------------
+Operator    [18]
+--------------------------------------------------------------------------------
+Our next question comes from Chris Schott with JPMorgan.
+
+--------------------------------------------------------------------------------
+Christopher Thomas Schott,  JPMorgan Chase & Co, Research Division - Senior Analyst    [19]
+--------------------------------------------------------------------------------
+Just two questions for me. Maybe first just talk about the EPS accretion by 2030. I'm just interested in terms of why it's taking that long for the deal to become accretive, in that it seems like the profile you're highlighting here is something that could ramp fairly quickly, given the challenges with current agents in the space. And I would think there'd be limited incremental OpEx, given AbbVie's existing presence in the markets. Just help me a little bit just kind of bridge in terms of the path to accretion. 
+And then the second one for me was on [emraclidine]. Can you just talk about the diligence you were able to do on the Phase II program? I think there were some delays in enrollment that Cerevel ran into. And just was trying to just get a sense of how comfortable you could get with how those studies have enrolled and the profile, et cetera.
+
+--------------------------------------------------------------------------------
+Robert A. Michael,  AbbVie Inc. - President & COO    [20]
+--------------------------------------------------------------------------------
+So Chris, this is Rob. In terms of your question on accretion dilution, so it's important to note that we do expect to see operating margin accretive by 2028. If you think about the launch timing and the ramp, you're going to see -- start to see a nice ramp towards the end of the decade. There is about, I'd say, $300 million to $400 million of R&D that you have to account for as we think about the expansion opportunities across this pipeline. 
+So the real -- the key driver really of the dilution and why it takes us until 2030 is really the net interest expense. If you think about the cost of financing the transaction, that -- think of that as sort of in the $0.25 to $0.26 range on an annualized basis. And so that carries through the deal model, but you start to see the momentum come through in operating margin starting in 2028. 
+Obviously, very robust growth as we get into the next decade. But that's the way to think about it, is we have obviously an R&D investment that we will continue to drive for long-term growth. You've got the net interest expense dilution that will continue. But then ultimately, you see very robust top line growth that would make this accretive and very robust into the next decade.
+
+--------------------------------------------------------------------------------
+Roopal Thakkar,  AbbVie Inc. - SVP of Development & Regulatory Affairs and Chief Medical Officer    [21]
+--------------------------------------------------------------------------------
+Chris, it's Roopal. I'll take the question around diligence. What I would say is that, that is really what drives our confidence. We were able to go through and -- in a robust, comprehensive diligence for all the assets, I would say. 
+Specific to the emra Phase II programs, we were able to look at that and understand the enrollment dynamic. One thing to be mindful of in this space, even if you're going to have high efficacy, you have to always worry about a placebo response. And the Cerevel team, I think, has done an exceptional job looking at balancing of speed and the need to create a very high-quality program from an operational standpoint. 
+So some of the things that we were able to observe. They're doing a great job on doing what's right, which you shouldn't have too many sites. So they do a good job, I would say, of balancing that, along with the speed, so limit the number of sites, that's a good rule of thumb trying to lower placebo responses. 
+The other important thing we saw is centralized review of eligibility criteria. That's also a good thing. You don't want patients that don't belong in the study to slip through. And I think they had robust methods to take care of that. Also, when it comes to rating and coming up with the endpoints. You want training, certification of raters, retraining. Cerevel team did a fantastic job of that. 
+The other thing we're able to do when you look at these Phase IIs is that we can look at data in aggregate in a blinded way. So when we look at that, we are able to see the key endpoints, whether it's [PANS] or [CGI], these are important. 
+And what we're able to see is comparing that again, blinded aggregate data to what we saw in the Ib, if we were to aggregate that data, it looks very consistent, and I would say from the efficacy measures, of course, blinded and also from the safety measures, that's another thing that you look at. And when you look at those, they're all very low, consistent with what we saw in the Ib data, and that's what drives the confidence.
+
+--------------------------------------------------------------------------------
+Operator    [22]
+--------------------------------------------------------------------------------
+Next question comes from Carter Gould with Barclays.
+
+--------------------------------------------------------------------------------
+Carter Lewis Gould,  Barclays Bank PLC, Research Division - Senior Analyst    [23]
+--------------------------------------------------------------------------------
+Congrats on the deals. Maybe just one for me. You talked about an overseas strategy, additional clinical study you're going to get started. Can you talk about some of the timelines there? And maybe just more broadly, how we should think about the timeline to EU approval? And any additional steps you think might be required on that side?
+
+--------------------------------------------------------------------------------
+Roopal Thakkar,  AbbVie Inc. - SVP of Development & Regulatory Affairs and Chief Medical Officer    [24]
+--------------------------------------------------------------------------------
+Carter, it's Roopal. Yes, I would say, consistent with the timelines that we've seen here, it will be a few years. So for the initial approvals, we anticipate in 2026. The international ones will need to enroll in Europe. Also Japan, it will take us a little bit of time to get going. But we'll go quickly while we're balancing the need to manage that placebo, but I would anticipate a couple of years after that launch.
+
+--------------------------------------------------------------------------------
+Jeffrey Ryan Stewart,  AbbVie Inc. - Executive VP & Chief Commercial Officer    [25]
+--------------------------------------------------------------------------------
+And maybe, Carter, it's Jeff, some more perspective on that. That is exciting when we think about the potential to truly globalize this asset. Historically, in Europe, the European [HTAs] haven't really paid or been interested in, let's say, the later generation of antipsychotics. However, I think that will change. And we have to have the right kind of data set. What they have been interested in is in the LAI. They clearly can see that, that's very, very important. 
+But I think as we think about this subsequent development program in terms of how we structure that study to basically maximize the potential transformative aspect of oral itself as monotherapy, the adjunctive program as well as this promising LAI approach that we can really start for the first time to see real innovation come into the European theater in addition to Japan. And so that is another significant value driver. While it will come later, it's projected to be very meaningful. So that's exciting for the program.
+
+--------------------------------------------------------------------------------
+Operator    [26]
+--------------------------------------------------------------------------------
+Our next question comes from Evan Seigerman with BMO Capital Markets.
+
+--------------------------------------------------------------------------------
+Evan David Seigerman,  BMO Capital Markets Equity Research - MD & Senior BioPharma Research Analyst    [27]
+--------------------------------------------------------------------------------
+When you look at kind of the opportunity in schizophrenia versus Alzheimer's, maybe walk me through some of the major differences in the clinical development and the regulatory path. I'm just trying to get a sense as to what's easier to do relatively or kind of what's more straightforward. 
+And just maybe taking a step back, kind of what are your plans for ensuring clinical uptake, just given all that's happening in the space? How do you look for differentiation to ensure that you really get the profit payoff from this acquisition?
+
+--------------------------------------------------------------------------------
+Roopal Thakkar,  AbbVie Inc. - SVP of Development & Regulatory Affairs and Chief Medical Officer    [28]
+--------------------------------------------------------------------------------
+Evan, it's Roopal. I would say, across neuropsychiatry, there's commonalities in the space from a regulatory standpoint. I would say, what's key that regulators look for is the right endpoint and early on, have you optimized a dose many times in this space, we will even allow dose flexibility. There's that allowance in many of these programs, especially if you move from schizophrenia to Alzheimer's disease psychosis. 
+We do want to make sure that you get the dose right, and that's what the regulators will be looking for. Clearly, they want you to separate from placebo, from a regulatory standpoint. So that flows through a development standpoint that you were carefully operationalizing these studies, as I described previously. These are other strategies that we would deploy. 
+But I would say, there's not really a stark difference from a -- clearly, from a regulatory standpoint, as long as you're following their typical rules. Others would include robust designs, appropriate power potentially appropriate controls if required. But beyond that, I would say, nothing too different. 
+And what allows for differentiation, and I'll make a few points and then maybe Jeff can make some comments, is some of the things that we've already talked about. 
+If you can drive high efficacy in a very tolerable molecule, especially in neuropsychiatry as we've talked about in schizophrenia, the issue sometimes isn't the efficacy, it is the tolerability in AEs. And this is where we see some of these assets as being a very nice fit, where they're able to drive that efficacy and have the potential for best-in-class tolerability. 
+The other key thing that we see in this space is convenient dosing. So if a titration is not required, that's a really good thing. And once a day is a good thing for emra, just so you don't have to disrupt your day and really think about it. It's great that there's no real food effect. The patient can take it on an empty stomach, or they can take it with a meal. 
+It has to be as easy as possible for the patient. And that's what's exciting for these assets that we'll be able to drive efficacy, keep it very tolerable and make it as convenient as possible.
+
+--------------------------------------------------------------------------------
+Operator    [29]
+--------------------------------------------------------------------------------
+Next question comes from Chris Raymond with Piper Sandler.
+
+--------------------------------------------------------------------------------
+Christopher Joseph Raymond,  Piper Sandler & Co., Research Division - MD & Senior Research Analyst    [30]
+--------------------------------------------------------------------------------
+Just one question. I know the primary focus for the deal is emraclidine, but just maybe talk a little bit about the extent to which you guys factored 354 in MDD into your thinking and your valuation. And then maybe more broadly on MDD, with your work on this asset and obviously, the current presence with Vraylar, any thoughts on newer mechanisms emerging like [Kv7] ? And how you see the competitive setup with these newer mechanisms versus, say, a core antagonist?
+
+--------------------------------------------------------------------------------
+Roopal Thakkar,  AbbVie Inc. - SVP of Development & Regulatory Affairs and Chief Medical Officer    [31]
+--------------------------------------------------------------------------------
+Chris, it's Roopal, maybe I'll start off, and thanks for mentioning it. We -- just a little bit of background. What we like about this one is that it's 20 to 40 more times potent than the clinical-stage assets today. And we believe it's going to be much more selective on the new receptor. And that's important because you potentially have less GI adverse events because it's a specific to kappa. So that's, I would say, a benefit. 
+When we look also across the profile from a tox standpoint, it looks clean to us and also no evidence of ocular or phototoxicity. I know that's come up with some of these assets. And also, we would be looking at, as you stated, MDD and also bipolar. And the other opportunity we'll be considering is also adjunctive in those spaces and potentially even PTSD. 
+And I think you mentioned looking at other competitors, it's -- I would say, it is -- it can be a tough space. And that's why when you see assets like we've described, we do get very interested in them and have the opportunity to drive them. 
+Why do I say that? There's been work in this space for a long time, I would say. And it's hard to generate that right profile. And you've heard us describe what that profile could look like. And for early-stage assets, you're still not sure what the tox readout is going to be, what the final tolerability is going to be, what the dosing is, all these things need to be passed. 
+So yes, we're continuing to assess even our own internal programs. We'll look externally that, that will continue. But right now, I would say, we're very excited with what we have here. 
+And also, this is a nice fit and complements our pipeline, including our 932 asset, which will also be entering into Phase II soon. And this one is a little bit different, not to completely change the topic, but that's our D3 leaning, very specific D3 leaning, coming from our learnings from Vraylar. We'd be looking at MDD and bipolar with that one along with adjunctive.
+
+--------------------------------------------------------------------------------
+Robert A. Michael,  AbbVie Inc. - President & COO    [32]
+--------------------------------------------------------------------------------
+And Chris, this is Rob. Just to echo Roopal's comments, I mean so you're right that we've ascribed the majority of the deal value to emra and it's been more modest value ascribed to 354, but that's really more of a function of it's in earlier stage of development. We are very excited about that program. 
+But you have to keep in mind that we look at this on a risk-adjusted basis, and it's an earlier stage in development. And that's essentially a component of why we would ascribe less value to 354, but we're very excited about the program.
+
+--------------------------------------------------------------------------------
+Operator    [33]
+--------------------------------------------------------------------------------
+So next question comes from James Shin  with Deutsche Bank.
+
+--------------------------------------------------------------------------------
+James John Shin,  Deutsche Bank AG, Research Division - Research Analyst    [34]
+--------------------------------------------------------------------------------
+Just to piggyback on the emraclidine diligence and [CAR-XT] comparisons, would [CAR-XTs] 8 to 10-point [PAN] score benefit be the benchmark for EMPOWER studies to be deemed to success? Or is AbbVie thinking more holistically where more convenient dosing and better tolerability could offset less effect size?
+
+--------------------------------------------------------------------------------
+Roopal Thakkar,  AbbVie Inc. - SVP of Development & Regulatory Affairs and Chief Medical Officer    [35]
+--------------------------------------------------------------------------------
+James, it's Roopal. I'll take that one. So what we observed with the Ib study was a 12.7 [PANS] differential, and that's placebo adjusted. Now granted, one would think about a Ib as a smaller study, but this, in fact, was around 80 patients, so it was robust for Ib. Many of us would call that a Phase II study. 
+And also, with respect to that efficacy, we saw it in 2 arms. You had a placebo and 2 arms in both of those doses drove that efficacy. So I think it's the totality of the molecule as we've described. So it would include driving to higher efficacy because that's what we've observed. 
+And all the other parameters that we've pointed out, which are very critical here. Again, a very nice half-life, easy dosing, no food effect, once a day, no titration, in particular, these cholinergic AEs where one may consider them mild, moderate and transient, but it can be challenging. 
+And we've been in this space for a long time, it's critical to onboard a patient with an immediate good experience, I would say because if they don't have a good experience, they may want to cycle off and think about something else. And as you know, in neuropsychiatry, there can be a tremendous amount of cycling. 
+So as we think about this, we want to give the patient an initial very, very good experience. And part of that, we're able to deliver because of the lack of anticholinergic side effects that are nausea, vomiting, constipation, dry mouth. And that, I would say, are unique differentiators. Again, we also have the benefit away from the atypicals, which is the weight, the metabolic, the motor symptoms and the sedation.
+
+--------------------------------------------------------------------------------
+Operator    [36]
+--------------------------------------------------------------------------------
+Next question comes from Jeff Meacham with Bank of America.
+
+--------------------------------------------------------------------------------
+Unidentified Analyst,   -     [37]
+--------------------------------------------------------------------------------
+This is Susan on for Jeff Meacham. As you mentioned earlier, the psychiatric disorders market is highly fragmented and there's many competing drugs, I wanted to know if you guys could talk a little bit about some of the strategies that you've used to successfully commercialize Vraylar in the space? And which of these strategies would be broadly [applicable] as you add more assets in the space?
+
+--------------------------------------------------------------------------------
+Jeffrey Ryan Stewart,  AbbVie Inc. - Executive VP & Chief Commercial Officer    [38]
+--------------------------------------------------------------------------------
+Yes. Thank you very much for the question. It's Jeff. If you think about Vraylar, certainly, again, I highlighted that schizophrenia is not a big player there, primarily because the perceptions of the sort of the core efficacy is a little bit lighter than the old group of drugs that I described. 
+I mean some of it is the indication set that's been very important. So if you think about the mood disorders, you had basically the full scope of bipolar indications that came out with first mania, then mix, then bipolar depression, very unique set of indications. With the adjunctive MDD indication, as I mentioned before in some of the calls, it was the first real approval in that space for 10 years. So very, very unique. 
+And then maybe to chime in to what Roopal said, very simple starting doses. So you don't have big titration. And that's quite attractive not only for psychiatrists but also for basically primary care physician. 
+And then really there's another key factor, which I opened some of my prepared remarks with, which was the share of voice, like we put a lot of effort behind it. There's direct-to-consumer advertising so we can activate patients. There's a significant amount of share of voice. 
+But in general, this asset, emraclidine, will be a very different position by core for schizophrenia. So it won't be really associated with any of the Vraylar dynamics that I've discussed. 
+But we would use some of the same techniques, the ability to bring very strong share of voice, strong positioning, multiple types of indications, how do we accelerate that adjunctive indication in terms of how we would set up the positioning. We would position against modern muscarinics as well as the old standbys. So those are techniques that we use from a commercial and medical standpoint.
+
+--------------------------------------------------------------------------------
+Operator    [39]
+--------------------------------------------------------------------------------
+Our next question comes from Tim Lugo with William Blair.
+
+--------------------------------------------------------------------------------
+Timothy Francis Lugo,  William Blair & Company L.L.C., Research Division - Co-Group Head of Biopharma Equity Research, Partner & Research Analyst    [40]
+--------------------------------------------------------------------------------
+Congratulations on the deal. While it sounds like emraclidine was the driver for at least the later-stage assets, can you talk about your expectations for tavapadon? I mean Parkinson's isn't really as fragmented as schizophrenia or mood disorders, and maybe just talk about the FTC implications there.
+
+--------------------------------------------------------------------------------
+Jeffrey Ryan Stewart,  AbbVie Inc. - Executive VP & Chief Commercial Officer    [41]
+--------------------------------------------------------------------------------
+Maybe I'll start off. And as I mentioned, we have a nice position in very advanced disease. So at the end stage of the disease, basically, the market, to your point, is pretty simple. You really only have a couple of choices. You're going to either go to do a [DUOPA] with a GI surgery or you're going to have the potential to choose deep brain stimulation, and that's really it. And many patients refuse. They don't want surgery, either brain surgery or GI surgery. 
+So our DUOPA sales there are relatively modest. It's about 16% of the advanced therapy is the most severe condition, and we have a certain percent of that sales. With 951, we're able to move upstream to some degree. So you still have an injection, you still have an aided pump, we think that will expand the ability of people that can access a device-aided therapy. 
+But where tavapadon will fit is not there. It's in a very different segment. So it's in the earlier oral segment. And that's a pretty dominant segment with basically generic levodopa, an older drug called Sinemet, which is quite effective, although there's some theory from the neurologists that the more I use levodopa, the more you have to load up that patient, the less effective it is over time. 
+And so tavapadon, and we're going to have to wait and see its emerging profile, with the safety profile that we see in the early studies, could be a nice complementary product up in the more early phases of the condition. So distinct from where we play now, but also complementary in terms of our commercial infrastructure and our ability to, in that oral market, provide more options to patients and physicians. 
+So we believe it's relatively modest, to Rob's point. I mean, the bulk of the value does sit on emraclidine, but nonetheless, a nice fit to where we can slot that in with our global teams across the world.
+
+--------------------------------------------------------------------------------
+Elizabeth Shea,  AbbVie Inc. - SVP of IR    [42]
+--------------------------------------------------------------------------------
+Operator, we have time for one final question.
+
+--------------------------------------------------------------------------------
+Operator    [43]
+--------------------------------------------------------------------------------
+Our last question comes from Trung Huynh with UBS.
+
+--------------------------------------------------------------------------------
+Unidentified Analyst,   -     [44]
+--------------------------------------------------------------------------------
+This is Carson on for Trung. Can you please just talk a bit about your thought process behind reentering the M4 space, following the exit of the associate partnership? And also, it looks like you've been targeting first-in-class or best-in-class assets between ImmunoGen and Cerevel. I guess to the extent you're still looking for deals, should we expect this pattern to continue?
+
+--------------------------------------------------------------------------------
+Roopal Thakkar,  AbbVie Inc. - SVP of Development & Regulatory Affairs and Chief Medical Officer    [45]
+--------------------------------------------------------------------------------
+It's Roopal, I'll start. We do look at class. We will always look at class. But we also want to know will that translate something within that class with the profile that we've been describing, which is first-in-class or best-in-class, but clearly able to differentiate and drive clear value for our patients, where they can really notice a difference. And you see that pattern across many of our medicines. 
+So I would say, it doesn't speak to a particular form of mechanism. But I would say, it's what's within the mechanisms, the different mechanisms or even similar, that allows us to deliver that patient experience that we're looking for.
+
+--------------------------------------------------------------------------------
+Elizabeth Shea,  AbbVie Inc. - SVP of IR    [46]
+--------------------------------------------------------------------------------
+Well, thank you, Trung. That concludes today's conference call. If you'd like to listen to a replay of the call, please visit our website at investors.abbvie.com. Thanks again for joining us.
+
+--------------------------------------------------------------------------------
+Operator    [47]
+--------------------------------------------------------------------------------
+Thank you. That concludes today's conference. You may all disconnect at this time.
+
+
+
+
+
+
+
+--------------------------------------------------------------------------------
+Definitions
+--------------------------------------------------------------------------------
+PRELIMINARY TRANSCRIPT: "Preliminary Transcript" indicates that the 
+Transcript has been published in near real-time by an experienced 
+professional transcriber.  While the Preliminary Transcript is highly 
+accurate, it has not been edited to ensure the entire transcription 
+represents a verbatim report of the call.
+
+EDITED TRANSCRIPT: "Edited Transcript" indicates that a team of professional 
+editors have listened to the event a second time to confirm that the 
+content of the call has been transcribed accurately and in full.
+
+--------------------------------------------------------------------------------
+Disclaimer
+--------------------------------------------------------------------------------
+Refinitiv reserves the right to make changes to documents, content, or other 
+information on this web site without obligation to notify any person of 
+such changes.
+
+In the conference calls upon which Event Transcripts are based, companies 
+may make projections or other forward-looking statements regarding a variety 
+of items. Such forward-looking statements are based upon current 
+expectations and involve risks and uncertainties. Actual results may differ 
+materially from those stated in any forward-looking statement based on a 
+number of important factors and risks, which are more specifically 
+identified in the companies' most recent SEC filings. Although the companies 
+may indicate and believe that the assumptions underlying the forward-looking 
+statements are reasonable, any of the assumptions could prove inaccurate or 
+incorrect and, therefore, there can be no assurance that the results 
+contemplated in the forward-looking statements will be realized.
+
+THE INFORMATION CONTAINED IN EVENT TRANSCRIPTS IS A TEXTUAL REPRESENTATION
+OF THE APPLICABLE COMPANY'S CONFERENCE CALL AND WHILE EFFORTS ARE MADE TO
+PROVIDE AN ACCURATE TRANSCRIPTION, THERE MAY BE MATERIAL ERRORS, OMISSIONS,
+OR INACCURACIES IN THE REPORTING OF THE SUBSTANCE OF THE CONFERENCE CALLS.
+IN NO WAY DOES REFINITIV OR THE APPLICABLE COMPANY ASSUME ANY RESPONSIBILITY FOR ANY INVESTMENT OR OTHER
+DECISIONS MADE BASED UPON THE INFORMATION PROVIDED ON THIS WEB SITE OR IN
+ANY EVENT TRANSCRIPT. USERS ARE ADVISED TO REVIEW THE APPLICABLE COMPANY'S
+CONFERENCE CALL ITSELF AND THE APPLICABLE COMPANY'S SEC FILINGS BEFORE
+MAKING ANY INVESTMENT OR OTHER DECISIONS.
+--------------------------------------------------------------------------------
+Copyright 2023 Refinitiv. All Rights Reserved.
+--------------------------------------------------------------------------------

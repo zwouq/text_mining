@@ -1,0 +1,445 @@
+
+
+Refinitiv StreetEvents Event Transcript
+E D I T E D   V E R S I O N
+
+Lonza Group AG Signs Agreement to Acquire Large-Scale Biologics Site in Vacaville (US) from Roche Holding AG Call
+MARCH 20, 2024 / 1:00PM GMT
+
+================================================================================
+Corporate Participants
+================================================================================
+
+ * Jean-Christophe Hyvert
+   Lonza Group AG - President of Biologics Division
+ * Philippe Deecke
+   Lonza Group AG - CFO
+ * Albert M. Baehny
+   Lonza Group AG - Interim CEO & Chairman
+
+================================================================================
+Conference Call Participiants
+================================================================================
+
+ * Charles Robert Weston
+   RBC Capital Markets, Research Division - Analyst
+ * Richard Vosser
+   JPMorgan Chase & Co, Research Division - Senior Analyst
+ * Thibault Boutherin
+   Morgan Stanley, Research Division - Equity Analyst
+ * Maxwell Andrew Smock
+   William Blair & Company L.L.C., Research Division - Research Analyst
+ * Vineet R Agrawal
+   Citigroup Inc., Research Division - VP
+ * James Alexander Stewart Vane-Tempest
+   Jefferies LLC, Research Division - Senior Equity Analyst
+ * Patrick Rafaisz
+   UBS Investment Bank, Research Division - Director and Chemical Research Analyst
+
+================================================================================
+Presentation
+--------------------------------------------------------------------------------
+Operator    [1]
+--------------------------------------------------------------------------------
+Ladies and gentlemen, welcome to the Lonza Investor Conference Call and Live Webcast. I am Sandra, the Chorus Call operator. (Operator Instructions) The conference is being recorded. (Operator Instructions) The conference must not be recorded for publication or broadcast. At this time, it's my pleasure to hand over to Mr. Albert M. Baehny, CEO at interim and Chairman of the Board of Directors. Please go ahead, sir.
+
+--------------------------------------------------------------------------------
+Albert M. Baehny,  Lonza Group AG - Interim CEO & Chairman    [2]
+--------------------------------------------------------------------------------
+Thank you for the introduction. Good morning, good afternoon, and thanks to you all for joining the short update call about our agreement to acquire the Vacaville site from Roche. I'm joined today by our CFO, Philippe Deecke; and the President of our Biologics division, Jean-Christophe Hyvert. We will share a few details of the acquisition, then take some time to answer your questions. Let me provide a short overview of the transaction.
+Today, we have signed an agreement with Roche to acquire the Genentech large-scale biologics facility in Vacaville, California, for USD 1.2 billion. The site is currently 1 of the largest biologics manufacturing facilities in the world by volume, with commercial capacity readily available. We expect to close the transaction in H2 2024, subject to customary closing conditions. After closing, we plan to invest around CHF 500 million to upgrade the facility to accommodate the next generation of mammalian biologics.
+The products currently manufactured at the site by Roche will be supplied by us with committed volume over the medium term. This will phase out over time as the site transition to serve alternative customers. Now let me share some more background on the site and why it is a good strategic fit for our global biologics network. 
+The Vacaville facility is a Genentech side and has a strong legacy in commercial manufacturing. The site became operational in 2000. It was acquired by Roche in 2009 and has been maintained to a high standard. The facility currently has a total bioreactor capacity of around 330,000 liters. It hosts a number of 12,000-liter and 25 liters bioreactors which can support customers looking to manufacture large-scale commercial mammalian drug substance. The site is a strong track record on quality and is approved for GMP production by the FDA and MTA.
+It has produced 9 commercial product families since 2000, including a collaboration with Regeneron during the pandemic. The facility come with a highly skilled and experienced workforce, which will transfer to Lonza upon closing. Roche has reserved around 30% of the SAT capacity in 2025. This will phase out over time as the site transition to serve alternative customers in our pipeline.
+Jean-Christophe Hyvert, President of our Biologics division will now share some details on how the acquisition supports our Biologics strategy and growth trajectory. Jean-Christophe, please?
+
+--------------------------------------------------------------------------------
+Jean-Christophe Hyvert,  Lonza Group AG - President of Biologics Division    [3]
+--------------------------------------------------------------------------------
+Thank you very much, Albert. It's a pleasure to have a chance to present the acquisition of Vacaville. So let's look at the strategic value of the transaction. First, it will secure our position as one of the world's leading provider of high-quality manufacturing services for large-scale mammalian drug substance. 
+Second, it expands our presence in the U.S., a strategically important market for Lonza. Vacaville location strengthen our presence in the San Francisco Pharma and biotech hub. We do know from our North American customers that it is important for us to support the domestic needs with local manufacturing.
+The acquisition is also supported by sustained customer demand and a very strong Lonza pipeline. And that comes alongside the manufacturing agreement with Roche to supply committed volume over the medium term. Finally, this will be supported by an investment to enhance capabilities. Now I would like to share our view on market dynamics. The current market gives us a high level of confidence that we will fill Vacaville with commercial volume at attractive margins.
+The acquisition fit seamlessly into our strategy and is very complementary to our organic growth program. It addresses the strong and sustained market need for commercial mammalian capacity as you see in the graph on the left. The site will help us deliver our healthy pipeline of molecules across phases as they transition to commercial stage. Now looking at the graph on the right. We see that the industry is turning more and more towards CDMO and strategic partnership.
+It's really important to note that it's a conversion of capacity from captive to CDMO in line with what the graph is showing. It's not additional capacity in the market. It's a conversion. Today, our current commercial manufacturing network is very highly utilized. Vacaville will provide capacity to support the growing global need for high-quality, large-scale mammalian manufacturing at the site which is proven to deliver high-quality products. I think we have to remember that key decision criteria of quality, of reliability and expertise which is what this site does bring.
+In summary, the acquisition will unlock future growth for both our Biologics division by providing customers with immediate access to high-quality and cost-effective capacity. In doing so, it will support our customers' outsourcing need and the growing pipeline of molecules approaching commercial phase or in commercial phase. I will now hand it over to Philippe to discuss some of the key financial. Thank you.
+
+--------------------------------------------------------------------------------
+Philippe Deecke,  Lonza Group AG - CFO    [4]
+--------------------------------------------------------------------------------
+Thank you very much, JC, and then hi, everyone. I would like to share some more details on the transaction and what we expect upon completion in the third year and in the midterm. The Vacaville acquisition represents an acceleration of growth CapEx that will immediately strengthen our capabilities in an attractive segment by unlocking additional large-scale CDMO capacity.
+As mentioned earlier, we plan to support the acquisition with a further CHF 500 million multiyear investment that would enable the facility to accommodate the next generation of mammalian biologics. Our CapEx trajectory remains unchanged, with CapEx expected to decrease to mid to high teens as a percentage of group sales by 2028. 
+Looking to 2025, the Vacaville site will begin contributing revenues and profit due to the manufacturing agreement with Roche. The site will therefore be accretive to sales and EBITDA starting from 2025. As is usual for an asset ramping up, we expect the Vacaville site to be accretive to sales growth, but dilutive to our core EBITDA margin during the midterm.
+Let's now take a look at the impact of this acquisition on our midterm guidance. As mentioned, we have updated our sales growth forecast for 2024 to 2028 from 11% to 13% to now 12% to 15% at constant exchange rates. So we expect the Vacaville site to add 1 to 2 percentage points of growth over the midterm period. The other metrics remain unchanged over the period. We continue to expect a 32% to 34% core EBITDA margin and double-digit ROIC in 2028. Finally, our net debt to core EBITDA ratio will remain between 1.5x to 2.0x with a continuing commitment to an investment-grade rating of BBB+.
+Let me close by saying that the acquisition of the Vacaville site supports our growth trajectory and add significant strategic value by extending our large-scale mammalian capacity. Unlocking this new capacity will create significant value for Lonza and for our shareholders. With this, thanks a lot for your time, and I will hand back to Albert to host the Q&A session.
+
+--------------------------------------------------------------------------------
+Albert M. Baehny,  Lonza Group AG - Interim CEO & Chairman    [5]
+--------------------------------------------------------------------------------
+Thank you, Philippe. Now we have time for your questions, and I hope that we'll be focusing on the topic of today, the acquisition of the SAT approach. And I'm asking who would like to start with the first question. Any questions from the participants?
+
+
+================================================================================
+Questions and Answers
+--------------------------------------------------------------------------------
+Operator    [1]
+--------------------------------------------------------------------------------
+(Operator Instructions) 
+The first question comes from Richard Vosser from JPMorgan.
+
+--------------------------------------------------------------------------------
+Richard Vosser,  JPMorgan Chase & Co, Research Division - Senior Analyst    [2]
+--------------------------------------------------------------------------------
+Two questions, please. First question is how should we think about the positive benefit on revenue growth in '25 from the deal? And should we anticipate something like 50 bps of margin pressure from these sales in '25. So just thoughts on '25. And probably a link -- the second question is linked to that as well. Do you still anticipate margin expansion in '25 over '24, even allowing for the deal?
+
+--------------------------------------------------------------------------------
+Albert M. Baehny,  Lonza Group AG - Interim CEO & Chairman    [3]
+--------------------------------------------------------------------------------
+If you don't mind, I delegated it to Philippe.
+
+--------------------------------------------------------------------------------
+Philippe Deecke,  Lonza Group AG - CFO    [4]
+--------------------------------------------------------------------------------
+Richard. So look, I think it's probably too early to give you more details on 2025 at this point in time. I think as you've seen, the size will be roughly 30% utilized in its first year. And if you remember some of our charts that we provide on the ramp-up of assets, this can give you a guide on the margin impact.
+
+--------------------------------------------------------------------------------
+Operator    [5]
+--------------------------------------------------------------------------------
+The next question comes from Patrick Rafaisz from UBS.
+
+--------------------------------------------------------------------------------
+Patrick Rafaisz,  UBS Investment Bank, Research Division - Director and Chemical Research Analyst    [6]
+--------------------------------------------------------------------------------
+A couple of questions from me as well. First, you mentioned that the CapEx trajectory remains unchanged. I guess that that means that we will be going down to sort of 15% of sales midterm but the CHF 500 million of upgrade investments, is that on top of what's already being planned now? Or will that replace other existing projects currently underway?
+
+--------------------------------------------------------------------------------
+Albert M. Baehny,  Lonza Group AG - Interim CEO & Chairman    [7]
+--------------------------------------------------------------------------------
+On the CapEx trajectory, we confirm what we said. We will maintain the project -- the CapEx [trajectory] is depend on the midterm and this CHF 500 million in Vacaville will be included in this CapEx trajectory.
+
+--------------------------------------------------------------------------------
+Operator    [8]
+--------------------------------------------------------------------------------
+The next question comes from Thibault Boutherin from Morgan Stanley.
+
+--------------------------------------------------------------------------------
+Thibault Boutherin,  Morgan Stanley, Research Division - Equity Analyst    [9]
+--------------------------------------------------------------------------------
+The first one is just on the midterm guidance upgrade. So it looks like the implied sales upgrade is around CHF 600 million at the midpoint, which seems quite modest considering that you are very meaningfully increasing your manufacturing capacity. So I just want to understand what exactly is included in this upgrade. Is it just the revenues that are committed from Roche, the kind of volume commitment? Or do you also include expected revenues from future contracts? 
+My second question is on new customers. If you could just give us a bit more color on the process to get new customers signed up in order to increase capacity utilization. Do you already have today a backlog of demand for large scale that you're able to contracting once you have the facility? And just so if you could give us -- in terms of time line, how long it would take to kind of start generating revenues for new customers. So could we start to see revenues in '26 for new customers or even earlier than that?
+
+--------------------------------------------------------------------------------
+Albert M. Baehny,  Lonza Group AG - Interim CEO & Chairman    [10]
+--------------------------------------------------------------------------------
+Jean-Christophe, you are the customer man. So if you don't mind, to take the lead for the answers without speculating about the future.
+
+--------------------------------------------------------------------------------
+Jean-Christophe Hyvert,  Lonza Group AG - President of Biologics Division    [11]
+--------------------------------------------------------------------------------
+Very happy to take the question. What you will see in the midterm is 2 things. What -- we mentioned Roche is using about 30% of capacity in 2025, that will decrease over time. So that will decrease in the horizon to 2028. At the same time, third-party customers will ramp up. So you should think about kind of a shift in the mix of what goes into the asset.
+With regard to the pipeline, we do have our customer pipeline today. So there are ongoing discussion around what we could contract with customers. There is an existing pipeline that may fit in the asset. Now with regards to the time line, I think that the shift will happen over time. Roche will ramp down over the midterm, third party will ramp up over the midterm.
+
+--------------------------------------------------------------------------------
+Operator    [12]
+--------------------------------------------------------------------------------
+The next question comes from the Charles Weston from RBC Europe.
+
+--------------------------------------------------------------------------------
+Charles Robert Weston,  RBC Capital Markets, Research Division - Analyst    [13]
+--------------------------------------------------------------------------------
+I'd like 2 questions as well, please. First of all, just you've guided on the compounded annual growth rate. But you've also just described that Roche will be declining and other customers will increase over time. So is the large part of the increase in '24 to 2028 growth -- average growth largely because of the revenues that you will be getting in 2025. And after that, we should be expecting the same sort of growth rate as we had before? Or should there be some sustained change over time?
+And then secondly, just in terms of sort of peak revenue from this sort of asset. If we understand your current capacity in terms of the kiloliters of bioreactor and your current revenues, and you've given us the number of -- the capacity of the bioreactors from the new assets. Is there any reason why we shouldn't be sort of reading across in terms of the peak revenue capacity from the new sites? Is that something we should be considering there?
+
+--------------------------------------------------------------------------------
+Albert M. Baehny,  Lonza Group AG - Interim CEO & Chairman    [14]
+--------------------------------------------------------------------------------
+Thank you for the question. I'll start with the last one. We don't want to speculate on the peak revenues. This will be depending on the number of batches we'll be producing. The product we will be producing and of course, the terms will be negotiating with our customers. So it's too early to talk about the peak revenues. Regarding the annual growth rates, maybe Jean-Christophe, if you -- want you to take the 2 questions?
+
+--------------------------------------------------------------------------------
+Jean-Christophe Hyvert,  Lonza Group AG - President of Biologics Division    [15]
+--------------------------------------------------------------------------------
+Sure. I think what you can expect is an increase in sales in 2025 and then for some time, a stabilization of that growth as the shift mix -- as a mix shift from Roche to third-party customer. And then you'll see an acceleration afterwards. So that's already how you can think about the volume growth. Midterm, fairly stable after an initial peak with a mix change, long term, then the growth acceleration.
+
+--------------------------------------------------------------------------------
+Charles Robert Weston,  RBC Capital Markets, Research Division - Analyst    [16]
+--------------------------------------------------------------------------------
+So was that referring to the division as a whole or of the new assets specifically?
+
+--------------------------------------------------------------------------------
+Jean-Christophe Hyvert,  Lonza Group AG - President of Biologics Division    [17]
+--------------------------------------------------------------------------------
+I was referring to the new assets specifically.
+
+--------------------------------------------------------------------------------
+Operator    [18]
+--------------------------------------------------------------------------------
+The next question comes from Vineet Agrawal from Citi.
+
+--------------------------------------------------------------------------------
+Vineet R Agrawal,  Citigroup Inc., Research Division - VP    [19]
+--------------------------------------------------------------------------------
+Just 2. One, can you comment what sort of utilization have you built in from the north facility at the bottom and the top end of the guidance range? And Philippe, typically for a greenfield large-scale Biologics project, you have a peak sales in year 7 from the time of construction. Can you maybe comment when should we expect this facility to reach peak?
+
+--------------------------------------------------------------------------------
+Albert M. Baehny,  Lonza Group AG - Interim CEO & Chairman    [20]
+--------------------------------------------------------------------------------
+Thank you for the question. I did not understand it correctly. Well, to be [honest] if my colleagues got it correctly, please answer. Otherwise, we ask you to send it via chat. I didn't understand correctly. Okay. So Philippe, did you get the answer -- question, sorry.
+
+--------------------------------------------------------------------------------
+Philippe Deecke,  Lonza Group AG - CFO    [21]
+--------------------------------------------------------------------------------
+I understood the second one, Vineet, which is how long it's going to take for us to reach peak utilization? Maybe something that JC can address. The first one, I did not understand.
+
+--------------------------------------------------------------------------------
+Jean-Christophe Hyvert,  Lonza Group AG - President of Biologics Division    [22]
+--------------------------------------------------------------------------------
+So if you don't mind to writing in the chat, please, because we could not understand your question.
+
+--------------------------------------------------------------------------------
+Operator    [23]
+--------------------------------------------------------------------------------
+The next question comes from James Vane-Tempest from Jefferies.
+
+--------------------------------------------------------------------------------
+James Alexander Stewart Vane-Tempest,  Jefferies LLC, Research Division - Senior Equity Analyst    [24]
+--------------------------------------------------------------------------------
+First one is, is it best to say that within your 1.5 to 2x net debt guidance range you wouldn't have the capacity for another deal like this over the strategic period. And then my second question, just some clarifications. The 12% to 15%, can you confirm if that's all organic of a pro forma 2024? Or is there a consolidation benefit and the 30% utilization is that just for Roche or the entire facility?
+
+--------------------------------------------------------------------------------
+Albert M. Baehny,  Lonza Group AG - Interim CEO & Chairman    [25]
+--------------------------------------------------------------------------------
+The growth is organic. The 30% capacity reason is Roche. And the first question was on, sorry, I missed it now.
+
+--------------------------------------------------------------------------------
+James Alexander Stewart Vane-Tempest,  Jefferies LLC, Research Division - Senior Equity Analyst    [26]
+--------------------------------------------------------------------------------
+1.5 to 2x in terms of your net debt target guidance range, which you've given, would you now have the capacity to do any further M&A over a strategic period.
+
+--------------------------------------------------------------------------------
+Albert M. Baehny,  Lonza Group AG - Interim CEO & Chairman    [27]
+--------------------------------------------------------------------------------
+We don't want to speculate today on further M&A. Sorry for that.
+
+--------------------------------------------------------------------------------
+James Alexander Stewart Vane-Tempest,  Jefferies LLC, Research Division - Senior Equity Analyst    [28]
+--------------------------------------------------------------------------------
+Okay. And if it's -- no problem. And the 30%, so if that's just for Roche. Can you give us a sense in terms of what the overall facility is in terms of capacity utilization at the moment?
+
+--------------------------------------------------------------------------------
+Albert M. Baehny,  Lonza Group AG - Interim CEO & Chairman    [29]
+--------------------------------------------------------------------------------
+I didn't get the question. Jean-Christophe, did you get it?
+
+--------------------------------------------------------------------------------
+Jean-Christophe Hyvert,  Lonza Group AG - President of Biologics Division    [30]
+--------------------------------------------------------------------------------
+I can answer, Albert. In your one, really, the way to think about it is the bulk of the capacity will be used by Roche. We will introduce products, but the bulk of the capacity will be used by Roche.
+
+--------------------------------------------------------------------------------
+Operator    [31]
+--------------------------------------------------------------------------------
+The next question comes from Max Smock from William Blair.
+
+--------------------------------------------------------------------------------
+Maxwell Andrew Smock,  William Blair & Company L.L.C., Research Division - Research Analyst    [32]
+--------------------------------------------------------------------------------
+Maybe just following up on some of your commentary around capacity and utilization today. Can you just remind us where your total 1 million drug substance capacity was at prior to this acquisition? Specifically on the commercial side and where utilization on that commercial side was at prior to this acquisition as well? And then where this acquisition kind of takes you both from a capacity perspective on the million drug substance side and from a utilization perspective.
+
+--------------------------------------------------------------------------------
+Albert M. Baehny,  Lonza Group AG - Interim CEO & Chairman    [33]
+--------------------------------------------------------------------------------
+(inaudible) very simply with the acquisition of the Roche, Vacaville, who are doubling of large-scale capacities in biologics. And as you know, the discussion on capacity is delicate because the capacity utilization at 70%, 80% means 100% capacity utilization. And why that? The industry and we need a certain buffer in capacities to be able to do maintenance works, to redesign, to modify the manufacturing processes and to be able to answer to unexpected demand. But as I said, the additional -- the Vacaville acquisition will double our capacities on large scale.
+
+--------------------------------------------------------------------------------
+Maxwell Andrew Smock,  William Blair & Company L.L.C., Research Division - Research Analyst    [34]
+--------------------------------------------------------------------------------
+Sorry, just to clarify on that. So are you saying for the initial piece that you already have, right? It's already at that 60% to 70% and so in that sense, maybe fully utilized, and that's why you're bringing on this additional capacity?
+
+--------------------------------------------------------------------------------
+Albert M. Baehny,  Lonza Group AG - Interim CEO & Chairman    [35]
+--------------------------------------------------------------------------------
+With our -- the Vacaville capacity, we are running at high level of capacity utilization, exactly. It's why we need this acquisition (inaudible) market, and the market meets the customer expectations.
+
+--------------------------------------------------------------------------------
+Operator    [36]
+--------------------------------------------------------------------------------
+The next question is a follow-up from Richard Vosser from JPMorgan.
+
+--------------------------------------------------------------------------------
+Richard Vosser,  JPMorgan Chase & Co, Research Division - Senior Analyst    [37]
+--------------------------------------------------------------------------------
+It's just one question on the contracted Roche sales. Could you give us some color on whether that that sort of value of that contract is similar to the contracts that you have in the rest of your business? Just any color there in terms of the sizing of that would be very helpful.
+
+--------------------------------------------------------------------------------
+Albert M. Baehny,  Lonza Group AG - Interim CEO & Chairman    [38]
+--------------------------------------------------------------------------------
+I understand the question. I have sympathy for your question, but we are not prepared and willing to talk about the quality of the deal with Roche, of course. So I can't give you any color on this one. You can expect that we have been -- we have very good and fair negotiation with Roche on that one.
+
+--------------------------------------------------------------------------------
+Operator    [39]
+--------------------------------------------------------------------------------
+I give over the line to Mr. Jean-Christophe for read out the question from the webcast from Mr. Agarwal.
+
+--------------------------------------------------------------------------------
+Albert M. Baehny,  Lonza Group AG - Interim CEO & Chairman    [40]
+--------------------------------------------------------------------------------
+Can you repeat the question?
+
+--------------------------------------------------------------------------------
+Jean-Christophe Hyvert,  Lonza Group AG - President of Biologics Division    [41]
+--------------------------------------------------------------------------------
+Sure. The first question is -- sure. The first question is, what sort of utilization have you baked in from Roche facility at the bottom and top end of the guidance. So with regard to Roche, we have committed volume and that's what we have assumed in our acquisition. There may be more discussions to be had in the future, but right now, we have looked at the committed volume. 
+Then the second question was separate from the acquisition, just wanted to understand how has the RFP activity been for Lonza over the past couple of months, given the Biosecure Act, have you seen an increased activity? Or is it too early to tell anything?
+Right. It's early to tell. I mean the Bio Act -- the Biosecure Act is being drafted and discussed. There will be implication, but it's too early to tell. We are having very active discussion with customers as you can imagine. But with regard to the implication of that, it's too early to tell.
+
+--------------------------------------------------------------------------------
+Albert M. Baehny,  Lonza Group AG - Interim CEO & Chairman    [42]
+--------------------------------------------------------------------------------
+Thank you, Christophe, for the key answers..
+
+--------------------------------------------------------------------------------
+Operator    [43]
+--------------------------------------------------------------------------------
+The next question is a follow-up from Thibault Boutherin from Morgan Stanley.
+
+--------------------------------------------------------------------------------
+Thibault Boutherin,  Morgan Stanley, Research Division - Equity Analyst    [44]
+--------------------------------------------------------------------------------
+Just maybe a little bit more granularity, please, on the CHF 500 million investment. Is it just focused on upgrading and how proposing the mammalian capacity for new customers? Or could you potentially address some additional modalities within biologics like ADC or microbial.
+And just the second question on what kind of figure of the acquisition? Because I think we know this facility has been on sales for some time. So just curious on what kind of product trigger right now? Is it because you're reaching a very high capacity utilization on your current large scale? Is it any other reason?
+
+--------------------------------------------------------------------------------
+Albert M. Baehny,  Lonza Group AG - Interim CEO & Chairman    [45]
+--------------------------------------------------------------------------------
+We have no intention to introduce short-term any other modalities in the site. It will be a focus site on large-scale mammalian implementation. This is clear. And -- this was the question on the introduction for the modalities. And why we acquired is simply, I said it before, and Jean-Christophe mentioned on a few occasions, we're running at capacities. So we need additional capacities to satisfy the market needs and the customer expectation from our side.
+It is an accelerated CapEx projects, which means that we have access to capacities right now, which is what we need to satisfy again [once we] in the market, strong demand and strong expectation from Lonza.
+
+--------------------------------------------------------------------------------
+Operator    [46]
+--------------------------------------------------------------------------------
+The next question is also a follow-up from Charles Weston from RBC Europe.
+
+--------------------------------------------------------------------------------
+Charles Robert Weston,  RBC Capital Markets, Research Division - Analyst    [47]
+--------------------------------------------------------------------------------
+One clarification point, please, and one modeling question. On the clarification, my learned colleague from Jefferies asked about the organic growth guidance. Can I just clarify something there. So you mean that if 2024 included a full year of consolidation of the new Roche site, then after that, from '24 to '28, you would be aiming to deliver the new guidance. Or does that guidance include the step-up in sales that you're acquiring in 2025?
+
+--------------------------------------------------------------------------------
+Albert M. Baehny,  Lonza Group AG - Interim CEO & Chairman    [48]
+--------------------------------------------------------------------------------
+There was a clear need for clarification. Philippe, can you please do it?
+
+--------------------------------------------------------------------------------
+Philippe Deecke,  Lonza Group AG - CFO    [49]
+--------------------------------------------------------------------------------
+Charles. Look, I think, first, we don't expect much impact on 2024. So the upgraded guidance from '24  to '28  assumes the step-up of the Vacaville sites in '25.
+
+--------------------------------------------------------------------------------
+Charles Robert Weston,  RBC Capital Markets, Research Division - Analyst    [50]
+--------------------------------------------------------------------------------
+Perfect. And then just on modeling. Can you give us a sense of what this acquisition might do to your nonoperating costs, interest and depreciation for 2025, please, just to help us with our models.
+
+--------------------------------------------------------------------------------
+Philippe Deecke,  Lonza Group AG - CFO    [51]
+--------------------------------------------------------------------------------
+Not yet. I think we will be funding this with long-term debt, which we will do once we close the deal. So that's going to be additional financing cost.
+
+--------------------------------------------------------------------------------
+Charles Robert Weston,  RBC Capital Markets, Research Division - Analyst    [52]
+--------------------------------------------------------------------------------
+Okay. But perhaps what's this -- what -- did you -- have you got a sense of the split between fixed assets and then intangibles then out of that USD 1.2 billion?
+
+--------------------------------------------------------------------------------
+Philippe Deecke,  Lonza Group AG - CFO    [53]
+--------------------------------------------------------------------------------
+No, we're not sharing that at this moment in time, Charles.
+
+--------------------------------------------------------------------------------
+Operator    [54]
+--------------------------------------------------------------------------------
+The next question comes from Max Smock from William Blair.
+
+--------------------------------------------------------------------------------
+Maxwell Andrew Smock,  William Blair & Company L.L.C., Research Division - Research Analyst    [55]
+--------------------------------------------------------------------------------
+Maybe just trying to -- thanks for taking this follow up. Maybe just trying to get at the revenue-generating potential of this facility, right? So in terms of the commercial drug substance piece, what we've heard a lot of times from clients is $3 million, $4 million per run per 20,000 liter bioreactor. I know obviously, there's a little bit of different scales here on the bioreactor side. But is that a helpful way to think or is that a correct way, I guess, to think about the revenue generating potential for each of these bioreactors on a per run basis moving forward?
+
+--------------------------------------------------------------------------------
+Albert M. Baehny,  Lonza Group AG - Interim CEO & Chairman    [56]
+--------------------------------------------------------------------------------
+Very speculative. I don't want to speculate on this question. Jean-Christophe, if you want to give a color, maybe?
+
+--------------------------------------------------------------------------------
+Jean-Christophe Hyvert,  Lonza Group AG - President of Biologics Division    [57]
+--------------------------------------------------------------------------------
+We are not commenting on market pricing. So I will stay away from commenting on market pricing. What I can tell you, and I think we communicated at Capital Market Day is, we are positioning ourselves on quality, reliability and expertise, which is what customers want at that scale. With regard to batch price, I'll leave it to you.
+
+--------------------------------------------------------------------------------
+Albert M. Baehny,  Lonza Group AG - Interim CEO & Chairman    [58]
+--------------------------------------------------------------------------------
+Thank you for understanding that we can't give you a more precise answer to this one.
+
+--------------------------------------------------------------------------------
+Operator    [59]
+--------------------------------------------------------------------------------
+Ladies and gentlemen, that was the last question. I would now like to turn the conference back over to Mr. Baehny for any closing remarks. Please go ahead, sir.
+
+--------------------------------------------------------------------------------
+Albert M. Baehny,  Lonza Group AG - Interim CEO & Chairman    [60]
+--------------------------------------------------------------------------------
+Thank you very much for joining us to this call. Thank you for your questions. Thank you for understanding and looking forward to your support in the future on Lonza. Thank you very much for your time, and we are very happy to clarify all the open issues we have today. And of course, we are available for further questions the coming days. Thank you very much. Bye-bye.
+
+--------------------------------------------------------------------------------
+Operator    [61]
+--------------------------------------------------------------------------------
+Ladies and gentlemen, the conference is now over. Thank you for choosing Chorus Call, and thank you for participating in the conference. You may now disconnect your lines. Goodbye.
+
+
+
+
+
+
+
+--------------------------------------------------------------------------------
+Definitions
+--------------------------------------------------------------------------------
+PRELIMINARY TRANSCRIPT: "Preliminary Transcript" indicates that the 
+Transcript has been published in near real-time by an experienced 
+professional transcriber.  While the Preliminary Transcript is highly 
+accurate, it has not been edited to ensure the entire transcription 
+represents a verbatim report of the call.
+
+EDITED TRANSCRIPT: "Edited Transcript" indicates that a team of professional 
+editors have listened to the event a second time to confirm that the 
+content of the call has been transcribed accurately and in full.
+
+--------------------------------------------------------------------------------
+Disclaimer
+--------------------------------------------------------------------------------
+Refinitiv reserves the right to make changes to documents, content, or other 
+information on this web site without obligation to notify any person of 
+such changes.
+
+In the conference calls upon which Event Transcripts are based, companies 
+may make projections or other forward-looking statements regarding a variety 
+of items. Such forward-looking statements are based upon current 
+expectations and involve risks and uncertainties. Actual results may differ 
+materially from those stated in any forward-looking statement based on a 
+number of important factors and risks, which are more specifically 
+identified in the companies' most recent SEC filings. Although the companies 
+may indicate and believe that the assumptions underlying the forward-looking 
+statements are reasonable, any of the assumptions could prove inaccurate or 
+incorrect and, therefore, there can be no assurance that the results 
+contemplated in the forward-looking statements will be realized.
+
+THE INFORMATION CONTAINED IN EVENT TRANSCRIPTS IS A TEXTUAL REPRESENTATION
+OF THE APPLICABLE COMPANY'S CONFERENCE CALL AND WHILE EFFORTS ARE MADE TO
+PROVIDE AN ACCURATE TRANSCRIPTION, THERE MAY BE MATERIAL ERRORS, OMISSIONS,
+OR INACCURACIES IN THE REPORTING OF THE SUBSTANCE OF THE CONFERENCE CALLS.
+IN NO WAY DOES REFINITIV OR THE APPLICABLE COMPANY ASSUME ANY RESPONSIBILITY FOR ANY INVESTMENT OR OTHER
+DECISIONS MADE BASED UPON THE INFORMATION PROVIDED ON THIS WEB SITE OR IN
+ANY EVENT TRANSCRIPT. USERS ARE ADVISED TO REVIEW THE APPLICABLE COMPANY'S
+CONFERENCE CALL ITSELF AND THE APPLICABLE COMPANY'S SEC FILINGS BEFORE
+MAKING ANY INVESTMENT OR OTHER DECISIONS.
+--------------------------------------------------------------------------------
+Copyright 2024 Refinitiv. All Rights Reserved.
+--------------------------------------------------------------------------------

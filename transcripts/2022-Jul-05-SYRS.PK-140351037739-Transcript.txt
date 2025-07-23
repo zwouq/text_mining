@@ -1,0 +1,195 @@
+
+
+Refinitiv StreetEvents Event Transcript
+E D I T E D   V E R S I O N
+
+Syros Pharmaceuticals Inc to Acquire TYME Technologies Inc Call
+JULY 05, 2022 / 12:30PM GMT
+
+================================================================================
+Corporate Participants
+================================================================================
+
+ * Nancy A. Simonian
+   Syros Pharmaceuticals, Inc. - President, CEO & Director
+ * Courtney Solberg
+   Syros Pharmaceuticals, Inc. - Manager of Corporate Communications and IR
+ * Jason Haas
+   Syros Pharmaceuticals, Inc. - CFO
+
+================================================================================
+Conference Call Participiants
+================================================================================
+
+ * Philip M. Nadeau
+   Cowen and Company, LLC, Research Division - MD & Senior Research Analyst
+
+================================================================================
+Presentation
+--------------------------------------------------------------------------------
+Operator    [1]
+--------------------------------------------------------------------------------
+Good morning, and welcome to Syros Pharmaceuticals conference call. (Operator Instructions) This call is being webcast live on the Investors & Media section of Syros' website at www.syros.com. Please be advised that today's call is being recorded.  
+At this time, I would like to turn the call over to Courtney Solberg, Manager of Corporate Communications and Investor Relations at Syros.
+
+--------------------------------------------------------------------------------
+Courtney Solberg,  Syros Pharmaceuticals, Inc. - Manager of Corporate Communications and IR    [2]
+--------------------------------------------------------------------------------
+Thank you. This morning, we issued a press release announcing a strategic merger with TYME Technologies and a concurrent private placement. The release is available on the Investors & Media section of Syros' website at www.syros.com.  
+We will begin the call with prepared remarks by Dr. Nancy Simonian, our Chief Executive Officer; and Jason Haas, our Chief Financial Officer. We will then open the call for questions. Dr. David Roth, our Chief Medical Officer; and Kristin Stephens, our Chief Development Officer, are also on the call and will be available for Q&A.  
+Before we begin, I would like to remind everyone that statements we make on this call will include forward-looking statements, including statements related to the planned strategic merger and concurrent private placement. Actual events or results could differ materially from those expressed or implied by any forward-looking statements as a result of various risks, uncertainties and other factors, including those set forth in the Risk Factors section of our annual report on Form 10-K and our quarterly report on Form 10-Q for the first quarter, and any other filings that we may make with the SEC in the future. 
+Any forward-looking statements made on this call represent our views only as of today and should not be relied upon as representing our views as of any subsequent date. We specifically disclaim any obligation to update or revise any forward-looking statements.  
+I would now like to turn the call over to Nancy.
+
+--------------------------------------------------------------------------------
+Nancy A. Simonian,  Syros Pharmaceuticals, Inc. - President, CEO & Director    [3]
+--------------------------------------------------------------------------------
+Thank you, Courtney, and good morning, everyone. I appreciate you joining us today on such short notice. This morning, we issued a press release announcing that we expect to raise approximately $190 million through our merger with TYME Technologies and a concurrent private investment in public equity or PIPE. We will acquire TYME's net cash of approximately $60 million through the merger and have an oversubscribed $130 million PIPE with a great group of existing and new investors.  
+In addition, we also announced an amendment to our debt agreement with Oxford to extend the interest-only period of our term loan facility. Together with our existing cash, we now expect to have cash into 2025. 
+The combined company will operate as Syros Pharmaceuticals. Syros' business strategy will remain the same. And our team will continue to be responsible for all executive positions. 
+This is a pivotal moment for Syros as following the closing of these transactions, we expect to have the necessary capital to advance our late-stage clinical programs towards commercialization. This includes tamibarotene, which is currently being evaluated in the SELECT-MDS-1 and SELECT-AML-1 trials; and SY-2101, which we plan to advance into a Phase III trial in the second half of next year for the treatment of acute promyelocytic leukemia or APL patients. We believe focusing on our later-stage targeted hematology portfolio will allow us to more rapidly address significant unmet needs.  
+I will now review and provide updates on our clinical and discovery programs. Afterwards, Jason Haas, our CFO, will review the details of our definitive merger agreement with TYME, our PIPE, the amendment to the Oxford debt agreement as well as updated financial guidance. 
+For those who are new to Syros, we started the company in 2012 with the vision to develop medicines that control the expression of genes, a novel approach that help promise to make a profound difference in the lives of patients. And today, we are a significant step closer to realizing that vision.  
+Like those at TYME, we believe that cancer patients deserve better and need new approaches to treat their disease. We are focused on bringing new medicines forward that can control disease, improve quality of life and ultimately change standards of care. Today, we are advancing our 2 later-stage hematology programs directed at targeted patient populations toward commercialization.  
+First, tamibarotene, our selective and potent RAR-alpha agonist, has the potential to set a new treatment paradigm for RARA-positive patients with higher-risk myelodysplastic syndrome, or MDS, and unfit acute myelogenous leukemia, or AML. From our gene control discovery engine, we discovered a novel subset of patients with overexpression of the RARA gene that have a dependency on the RARA pathway. Tamibarotene offers an oral and convenient option that we believe can deliver clinical benefit with a well-tolerated safety profile.  
+The SELECT-MDS-1 Phase III trial is evaluating tamibarotene in combination with azacitidine in RARA-positive, newly diagnosed higher-risk MDS patients. We currently have over 50 sites open and anticipating opening additional sites in the months ahead. We are on track to provide pivotal data in late 2023 or early 2024 and, if successful, to potentially file our first new drug application with the FDA in 2024. Tamibarotene has the potential to be the first therapy for a targeted population in higher-risk MDS patients and has the opportunity to change their standard of care. 
+Tamibarotene has also been evaluated in the SELECT-AML-1 Phase II trial in RARA-positive patients with newly diagnosed unfit AML. Around 30% of patients do not respond to venetoclax and azacitidine and nearly all relapsed, and there is a need for better options for patients. We are studying the triplet regimen of tamibarotene, venetoclax and azacitidine in RARA-positive patients with AML, and we look forward to providing clinical activity and safety data from the safety lead-in portion of the study in the second half of this year. Additionally, we also plan to initiate the randomized portion of the trial in approximately 80 additional RARA-positive patients with data expected in the 2023, 2024 time frame.  
+Turning to 2101. 2101 is our novel oral form of arsenic trioxide, or ATO, that is currently being evaluated in an ongoing dose confirmation trial in patients with newly diagnosed APL. We plan to share pharmacokinetic and safety data midyear. Importantly, following the closing of the merger and private placement, we now expect to initiate the Phase III trial of 2101 in the second half of 2023.  
+2101 has the potential to replace the IV form of ATO, which is the standard of care for APL patients. We believe 2101 could significantly improve upon IV ATO by reducing the treatment burden, increasing patient access and limiting health care costs and utilization. As you know, based on feedback from the FDA, we believe we have a clear development path to approval and are delighted that we have the capital needed to progress this program forward.  
+Now turning to SY-5609. We are -- we have been working on selective CDK7 inhibition since the early days of the company and believe it holds promise for many difficult-to-treat cancer patients. 5609, our highly selective and potent oral CDK7 inhibitor, showed encouraging single-agent activity in relapsed/refractory cancer patients, including those with pancreatic cancer. We are on track to report data, including clinical activity from the safety lead-in portion of our ongoing Phase I study of 5609 in combination with chemotherapy in relapsed/refractory pancreatic cancer patients in the second half of 2022. Based on the data, we will determine the best course for further development for this program. 
+Additionally, Roche recently opened enrollment for the arm of its ongoing Phase I/Ib INTRINSIC trial, evaluating 5609 in combination with atezolizumab in patients with BRAF-mutant colorectal cancer. We are pleased that the study is now up and running and look forward to the potential for 5609 in combination with this immune checkpoint inhibitor for these difficult-to-treat cancer patients. 
+Finally, we are on track to nominate our next development candidate from our CDK12 inhibitor program in the third quarter of this year. We believe CDK12 inhibition could play a key role in the treatment of breast, lung and ovarian cancer patients. 
+Today, as we announced in our press release, we are exploring partnerships for our oncology discovery programs, including for our CDK12 as well as for our CDK11 and WRN programs. Over the past several years, our gene control discovery engine has produced a broad and growing pipeline, fueling our leadership in small molecule inhibitors of gene control targets in partnerships with Incyte and Global Blood Therapeutics. 
+We are proud and excited about the great work of our discovery scientists, and the decision to pursue partnerships for our discovery-stage oncology programs will allow us to advance these important programs more robustly over the next several years. It will also allow us to focus our capital on our later-stage programs, which have the potential to deliver benefit to patients and our shareholders in the near term. 
+We are grateful to our new and existing investors for their support in helping us deliver on our mission of bringing forward medicines that have the potential to redefine the standard of care for cancer patients. We also want to thank the TYME team for their collaboration throughout this process and look forward to maximizing value for patients, our combined company and our shareholders and, finally, the Syros team for their unwavering commitment to make a difference in the lives of patients. We look forward to keeping you informed of our progress. 
+With that, I'll now turn the call over to Jason.
+
+--------------------------------------------------------------------------------
+Jason Haas,  Syros Pharmaceuticals, Inc. - CFO    [4]
+--------------------------------------------------------------------------------
+Thank you, Nancy, and good morning, everyone. As Nancy said, we are delighted to announce 3 strategic transactions, which meaningfully strengthened our cash position and enable us to advance our programs to deliver value in both the near and long term for all our stakeholders. Let me now review the terms of each transaction. 
+We entered into a definitive merger agreement with TYME Technologies, through which, we expect to acquire TYME's net cash of approximately $60 million. Our combined company will trade on NASDAQ under the ticker symbol S-Y-R-S and will be led by the existing Syros leadership team. We will also continue TYME's work on evaluating the best path for optimizing the value for their SM-88 program. 
+Also this morning, Syros announced a PIPE financing at a price per unit of $0.94, where new and existing investors have agreed to invest $130 million in our combined company. The PIPE was led by life sciences-focused investment fund and includes Syros Co-Founder and founding investor Flagship Pioneering, Avidity Partners, Deep Track Capital, Bain Capital Life Sciences, Invus, Samsara, Adage, Ally Bridge Group and Cowen Healthcare Investments as well as other investors. The financing is expected to close concurrently with the merger. 
+In addition, at the closing of the transactions, TYME and a PIPE investor are each expected to nominate a Board member to join the Syros Board of Directors. The transactions are expected to close in the second half of this year, concurrently with each other, subject to the approval of Syros and TYME shareholders and other customary closing conditions. 
+Syros also announced today an amendment to its senior secured loan facility with Oxford Finance, which, subject to certain conditions, will extend the interest-only payment period from March 1, 2023 to March 1, 2024, and upon achievement of certain milestones all the way to September 1, 2024. Following the closing of these transactions, we expect to have a cash balance of approximately $240 million after transaction expenses. We expect this capital will be sufficient to fund our planned operating expenses and capital expenditure requirements into 2025, more than a year past our expected pivotal data readout for SELECT-MDS-1 and also allow us to develop our commercial operations to support the launch of tamibarotene. 
+In closing, my colleagues and I are confident that the proposed transactions will provide benefit to the advancement of our clinical pipeline and enable us to deliver on our ultimate goal of developing medicines that have the potential to provide a profound benefit for cancer patients. 
+So with that, I'd now like to turn the call over to the operator for questions.
+
+
+================================================================================
+Questions and Answers
+--------------------------------------------------------------------------------
+Operator    [1]
+--------------------------------------------------------------------------------
+(Operator Instructions) Our first question comes from Phil Nadeau with Cowen.
+
+--------------------------------------------------------------------------------
+Philip M. Nadeau,  Cowen and Company, LLC, Research Division - MD & Senior Research Analyst    [2]
+--------------------------------------------------------------------------------
+Congratulations on the transactions. Just a few from us. I guess, first, in terms of the transactions, approximately how many shares will be outstanding once the PIPE and merger close?
+
+--------------------------------------------------------------------------------
+Jason Haas,  Syros Pharmaceuticals, Inc. - CFO    [3]
+--------------------------------------------------------------------------------
+So the basic shares outstanding, Phil, will be about 280 million. It obviously depends a little bit on the kind of the final cash adjustment for TYME, but approximately 280 million.
+
+--------------------------------------------------------------------------------
+Philip M. Nadeau,  Cowen and Company, LLC, Research Division - MD & Senior Research Analyst    [4]
+--------------------------------------------------------------------------------
+That's very helpful. Then second on 2101, can you remind us what steps are necessary between the data that we see midyear and starting the pivotal in the second half of 2023? What's going to occupy the 12 months?
+
+--------------------------------------------------------------------------------
+Nancy A. Simonian,  Syros Pharmaceuticals, Inc. - President, CEO & Director    [5]
+--------------------------------------------------------------------------------
+Yes, Phil. So we -- it's obviously really honing in on the dose that we want to take forward into the Phase III trial. And then, of course, manufacturing is very critical to ensure that we have the necessary clinical trial material for the Phase III and that's appropriate for Phase III. Earlier this year, we put a pause on some of the activities as we were, at that point in time, not knowing what our capital needs and funding situation look like. And so kind of where we are today with the activities we need to start Phase III, we're guiding to the second half of 2023.
+
+--------------------------------------------------------------------------------
+Philip M. Nadeau,  Cowen and Company, LLC, Research Division - MD & Senior Research Analyst    [6]
+--------------------------------------------------------------------------------
+Got it. That's very helpful. Third question is on SM-88. Can you maybe provide a little bit more details on that program? What are the possible options for Syros once you have control over?
+
+--------------------------------------------------------------------------------
+Jason Haas,  Syros Pharmaceuticals, Inc. - CFO    [7]
+--------------------------------------------------------------------------------
+Sure, Phil. I mean the focus of this transaction was clearly to raise capital with both TYME and with the PIPE. But they do have SM-88. So we're going to look at kind of where the program is between now and the closing and decide how to optimize the value for the asset at the end of the day, which could include a number of things, but we'll try to optimize the value of that asset.
+
+--------------------------------------------------------------------------------
+Philip M. Nadeau,  Cowen and Company, LLC, Research Division - MD & Senior Research Analyst    [8]
+--------------------------------------------------------------------------------
+Great. And then last question is on 5609. What is your priority there? What would be the ideal path forward? I know you said you're going to evaluate the strategic options once you have the data. But is there a particular strategy that today is the favor of the management?
+
+--------------------------------------------------------------------------------
+Nancy A. Simonian,  Syros Pharmaceuticals, Inc. - President, CEO & Director    [9]
+--------------------------------------------------------------------------------
+Phil, as I said, we remain very excited about the opportunity for 5609 to make a difference for patients. We obviously want to get the data from the safety lead-in and look at the safety and clinical activity data with the combination with chemotherapy. I think then we're going to think about like what's -- what makes most sense to move this forward to try to help patients. And I think we need to look at what the capital needs would be there and what's the best way to ensure that it can robustly move forward. I think that's the bottom line, where we, as I said, remain very bullish and excited about it. But we want to make sure that it has the appropriate level of capital and commitment to move it forward.
+
+--------------------------------------------------------------------------------
+Philip M. Nadeau,  Cowen and Company, LLC, Research Division - MD & Senior Research Analyst    [10]
+--------------------------------------------------------------------------------
+That makes a lot of sense. Congrats again on the transaction.
+
+--------------------------------------------------------------------------------
+Operator    [11]
+--------------------------------------------------------------------------------
+(Operator Instructions) And I'm showing no further questions at this time. I'd like to turn the call back over to Nancy Simonian for closing remarks.
+
+--------------------------------------------------------------------------------
+Nancy A. Simonian,  Syros Pharmaceuticals, Inc. - President, CEO & Director    [12]
+--------------------------------------------------------------------------------
+Thank you, operator, and thank you, everyone, for joining us today. We appreciate your steadfast support of Syros. And to those who are new to our story, I look forward to sharing more and meeting you in the months ahead. The remainder of 2022 promises to be an exciting time for Syros as we progress our clinical programs towards our near-term milestones and move one step closer to delivering on our vision of redefining the standard of care for patients. Thank you.
+
+--------------------------------------------------------------------------------
+Operator    [13]
+--------------------------------------------------------------------------------
+This concludes the conference call. Thank you for participating. You may now disconnect.
+
+
+
+
+
+
+
+--------------------------------------------------------------------------------
+Definitions
+--------------------------------------------------------------------------------
+PRELIMINARY TRANSCRIPT: "Preliminary Transcript" indicates that the 
+Transcript has been published in near real-time by an experienced 
+professional transcriber.  While the Preliminary Transcript is highly 
+accurate, it has not been edited to ensure the entire transcription 
+represents a verbatim report of the call.
+
+EDITED TRANSCRIPT: "Edited Transcript" indicates that a team of professional 
+editors have listened to the event a second time to confirm that the 
+content of the call has been transcribed accurately and in full.
+
+--------------------------------------------------------------------------------
+Disclaimer
+--------------------------------------------------------------------------------
+Refinitiv reserves the right to make changes to documents, content, or other 
+information on this web site without obligation to notify any person of 
+such changes.
+
+In the conference calls upon which Event Transcripts are based, companies 
+may make projections or other forward-looking statements regarding a variety 
+of items. Such forward-looking statements are based upon current 
+expectations and involve risks and uncertainties. Actual results may differ 
+materially from those stated in any forward-looking statement based on a 
+number of important factors and risks, which are more specifically 
+identified in the companies' most recent SEC filings. Although the companies 
+may indicate and believe that the assumptions underlying the forward-looking 
+statements are reasonable, any of the assumptions could prove inaccurate or 
+incorrect and, therefore, there can be no assurance that the results 
+contemplated in the forward-looking statements will be realized.
+
+THE INFORMATION CONTAINED IN EVENT TRANSCRIPTS IS A TEXTUAL REPRESENTATION
+OF THE APPLICABLE COMPANY'S CONFERENCE CALL AND WHILE EFFORTS ARE MADE TO
+PROVIDE AN ACCURATE TRANSCRIPTION, THERE MAY BE MATERIAL ERRORS, OMISSIONS,
+OR INACCURACIES IN THE REPORTING OF THE SUBSTANCE OF THE CONFERENCE CALLS.
+IN NO WAY DOES REFINITIV OR THE APPLICABLE COMPANY ASSUME ANY RESPONSIBILITY FOR ANY INVESTMENT OR OTHER
+DECISIONS MADE BASED UPON THE INFORMATION PROVIDED ON THIS WEB SITE OR IN
+ANY EVENT TRANSCRIPT. USERS ARE ADVISED TO REVIEW THE APPLICABLE COMPANY'S
+CONFERENCE CALL ITSELF AND THE APPLICABLE COMPANY'S SEC FILINGS BEFORE
+MAKING ANY INVESTMENT OR OTHER DECISIONS.
+--------------------------------------------------------------------------------
+Copyright 2022 Refinitiv. All Rights Reserved.
+--------------------------------------------------------------------------------

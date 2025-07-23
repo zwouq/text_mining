@@ -1,0 +1,453 @@
+
+
+Refinitiv StreetEvents Event Transcript
+E D I T E D   V E R S I O N
+
+Fresenius SE &amp; Co KGaA and Fresenius Kabi AG Conference Call on the Acquisition of Ivenix Inc and Majority Stake in mAbxience SA Call
+MARCH 31, 2022 / 11:30AM GMT
+
+================================================================================
+Corporate Participants
+================================================================================
+
+ * Markus Georgi
+   Fresenius SE & Co. KGaA - SVP of IR
+ * Stephan Sturm
+   Fresenius SE & Co. KGaA - CEO, President & Chairman of Management Board - Fresenius Management SE
+ * Michael Sen
+   Fresenius SE & Co. KGaA - Member of Management Board
+ * Rachel Clare Empey
+   Fresenius SE & Co. KGaA - CFO & Member of Management Board - Fresenius Management SE
+
+================================================================================
+Conference Call Participiants
+================================================================================
+
+ * Odysseas Manesiotis
+    - 
+ * Unidentified Analyst
+    - 
+ * Christian Ehmann
+    - 
+ * Oliver Metzger
+   ODDO BHF Corporate & Markets, Research Division - Research Analyst
+ * Veronika Dubajova
+   Goldman Sachs Group, Inc., Research Division - Equity Analyst
+ * Graham Doyle
+   UBS Investment Bank, Research Division - Analyst
+ * Falko Friedrichs
+    - 
+ * Hugo Solvet
+    - 
+
+================================================================================
+Presentation
+--------------------------------------------------------------------------------
+Markus Georgi,  Fresenius SE & Co. KGaA - SVP of IR    [1]
+--------------------------------------------------------------------------------
+Thanks, [Jed]. Good afternoon, good morning, everyone.  Warm welcome to all of you. I appreciate you being available at short notice for our call on the strategic acquisitions, mABxience and Ivenix, that we have announced this morning. I'm here today with Stephan Sturm, the CEO of Fresenius Group; Rachel Empey, CFO of Fresenius Group; and Michael Sen, CEO of Fresenius Kabi, to provide you with a bit of background of both acquisitions.  
+As always, I would like to start the call today by drawing your attention to the cautionary language, which is included in our safe harbor statement on Page 2 of today's presentation. Without any further ado, I hand it over to Stephan. The floor is yours.
+
+--------------------------------------------------------------------------------
+Stephan Sturm,  Fresenius SE & Co. KGaA - CEO, President & Chairman of Management Board - Fresenius Management SE    [2]
+--------------------------------------------------------------------------------
+Thank you, Markus. Good afternoon, good morning, everyone. A warm welcome to all. We appreciate you being available at such short notice for our call today.  
+Let me first ask you for your understanding that we will focus exclusively on the 2 transactions we announced this morning: The acquisitions of a majority stake in mABxience; and 100% of Ivenix. We look forward to discussing our Q1 results for '22 as well as our operational performance on May 4.  
+Secondly, I'm particularly happy for our colleague, Michael Sen, to join us today. Michael is soon approaching his first anniversary as Fresenius Kabi's CEO, and he has led and directed the Kabi teams working on these transactions over the last 6 months. And he is also best equipped to convey our thinking on the strategic rationale behind them.  
+And with that, let's move right to Page 4 and the highlights. I'm very excited to present to you how we are rigorously pursuing our group strategy of unleashing accelerated strategic growth. At our full year '21 presentation in February, we already laid out the new strategic imperatives for Fresenius. And I hope you will agree that we remain very consistent with those strategic priorities. We are fully committed to allocating our capital to the most profitable growth areas of our health care group, with Kabi clearly defined as Fresenius' top priority. The acquisitions are in line with our strategy to rebalance the group portfolio towards a higher relative weight of attractive product businesses. And whilst we continue to believe in the virtues of diversification within health care, we also observed that the profitable product businesses are, by nature, less regulated than health care service markets.  
+I would like to emphasize the attractive risk return profile of both transactions. We will be able to considerably mitigate the associated risks as the earn-out components are highly performance related. And at the same time, the deal structures we've been able to negotiate are supportive of our balance sheet. We expect from the current perspective that the deals can be entirely financed by cash flow and available liquidity within the normal bolt-on M&A transaction sizing for Fresenius.  
+The transaction strengthened Kabi's capabilities and access to the attractive growth areas of biopharma and med tech, and should hence be seen as first steps in executing Fresenius Kabi's "Vision 2026" strategy. More details in a minute by Michael. The acquisitions have both a progressive, growth oriented as well as a defensive component. They are expected to accelerate strategic growth whilst strengthening -- actually safeguarding previous investments in infusion therapy and biosimilars, thus strategically perfectly complementary.  
+We are enthusiastic about the convincing industrial logic of both transactions. mABxience significantly enhanced Fresenius Kabi's presence in the high-growth biopharma market by creating a vertically integrated business model. The deal creates a pathway to category leadership in the attractive biosimilars market while comprising a solid cash-generating unit in the high-growth biologics CDMO market. We are gaining access to a highly cost competitive biologics manufacturing capacity, with expected significant cost synergies for Fresenius Kabi's biosimilars portfolio.  
+The Ivenix next-generation infusion therapy platform that perfectly complements Fresenius Kabi's global infusion therapy offering. It provides us a superior product portfolio for the all-important U.S. market. And we recognize that the U.S. infusion therapy market has significantly consolidated over the last years. Ivenix is one of the very few attractive opportunities to gain the relevant competitive traction. And all the more, we are happy to announce this transaction today.  
+On top of scale, we gained key capabilities in hospital connectivity which creates new options in the growth of Kabi's med tech business. And hence, we are convinced that the transaction will generate significant growth synergies. Transactions also from a financial perspective are attractive. Both transactions combined are accretive to group cash earnings, that means before any amortization charge and before integration costs already next year.  
+That's my summary. And with that, I'm happy to hand you over to Michael.
+
+--------------------------------------------------------------------------------
+Michael Sen,  Fresenius SE & Co. KGaA - Member of Management Board    [3]
+--------------------------------------------------------------------------------
+Yes. Thanks, Stephan. Good afternoon to everyone. Look forward to meeting all of you in person soon as we are planning for a meet the management later this year. I'm also excited about today's announcement, the actions we've taken today, gaining a majority stake and control in mABxience science and acquiring Ivenix are good news for patients, good news for physicians and nurses and good news for our company and shareholders. I think it's an excellent use of our capital and the transactions are clearly structured to succeed both. We'll spend a few minutes to walk you through the slides, so let's start with the portfolio strategy.  
+We launched "Vision 2026" in October last year to enhance our presence, sustain relevance in the coming decade and to spur growth, both in terms of top line and ultimately, margin expansion. Our strategy, 3 plus 1 identifies focus areas at Fresenius Kabi. We call them growth vectors, which are underpinned by structural growth drivers within the health care industry. Hence at the core, when allocating capital and talent, we focus exactly on these growth vectors, expand in med tech, rollout in nutrition, and broadening our biosimilar presence into the larger space of biopharma.  
+MABxience changes the game for us in biosimilars, combining a compelling industrial logic, while accessing another high-growth segment with biopharma services. Ivenix is key to expand in med tech.  It adds to our existing infusion therapy offerings, but even more builds on the next-generation infusion platform. Both of these sectors are growing fast, faster than the average growth of Fresenius Kabi recently. Med tech stands between 46% and biopharma is showing an even faster growth rate at around 8%.  
+Next chart, mABxience, 2 strategic businesses in 1 transaction. In mABxience, we take a controlling stake in a proven peer in biosimilars and biopharma services. mABxience has both products in the market and a healthy pipeline. The business is self-funding and generating cash. With these transactions, we joined forces with Insud Pharma, a family-owned enterprise who have strong presence in the market, and we have tightly aligned interests when it comes to market and regulatory success as well as performance development, all reflected in deal-related milestones.  
+The 2 biosimilar molecules, rituximab and bevacizumab, both with attractive therapeutic indications in oncology are already launched and commercialized through partners. And then another mid-single-digit number of biosimilars are in development and are expected to be launched globally from 2024 onwards until 2029. On top of this, Fresenius Kabi gains development and manufacturing capacity. In fact, 3 state-of-the-art highly cost competitive facilities in Spain and Argentina. mABxience's biological CDMO services allows us to establish a presence in the high-growth CDMO market. mABxience currently produces the Astra COVID-19 vaccine in Latin America, which just indicates the strong potential in this area currently but also going forward. In essence, 1 transaction, 2 new capabilities, good portfolio diversification and EBIT accretive right from the get-go.  
+Next chart, please. This chart shows the compelling industrial logic of the deal. It delivers the benefits of scale, portfolio and pipeline diversification and vertical integration. By combining the 2 assets, we create a global end-to-end vertically integrated biopharma business with a clear pathway to category leadership. The pipeline of mABxience and Fresenius Kabi are highly complementary, impressive in quantity and even more important as they address a good portion of the total market in key therapeutic areas. Fresenius Kabi will be able to capture meaningful synergy potential. In terms of drug substance, the access to the highly cost competitive manufacturing sites of mABxience enables us to eliminate future investment requirements and to consolidate a large part of our drug substance manufacturing into 1 technical and highly cost competitive platform.  
+On drug product manufacturing, i.e., fill and finish, the sites of Fresenius Kabi can serve as a hub going forward. And when talking about go-to-market, on the commercial side, it provides us with a durable growth opportunity over the long-term, driven by the broad portfolio of biosimilars and our ability to grow the portfolio because of our commercial structure. We have the option to go broad into commercial or more focused, and we will determine as we move. This allows us to leverage on existing strengths and creating a truly global integrated biopharmaceutical company.  
+Next chart, please. And this is a step change for biopharma at Fresenius Kabi, adding mABxience builds scale, enhances key capabilities and will accelerate our presence in one of the fastest-growing areas of health care, driven by structural growth. mABxience will increase our relevance, pronouncing our highly complementary and diversified pipeline. The strength in the 2 most attractive therapeutic areas, oncology and autoimmune with a coverage of roughly 56% in the oncology space and in autoimmune with even roughly 65%. Building an end-to-end player in the competitive biologics manufacturing enables us to deliver an industry-leading cost position and hence, driving significant synergy potential.   
+And on top of the addition of biologics manufacturing capacity and capability also allows Fresenius Kabi to establish a platform in the high-growth CDMO market. The drivers going forward will be the continued growth of biologics pipeline and the magnified limitations in manufacturing capacity, combined with what you need in the market, speed to market. mABxience has proven their capabilities in the recent COVID-19 vaccine ramp-up.  
+Next page, please, let's move to Ivenix. Ivenix is a company which was founded -- okay, sorry. Rachel?
+
+--------------------------------------------------------------------------------
+Rachel Clare Empey,  Fresenius SE & Co. KGaA - CFO & Member of Management Board - Fresenius Management SE    [4]
+--------------------------------------------------------------------------------
+Thanks, Michael. And we were nearly skipping over the financial highlights of mABxience, which I will quickly interject before Michael moves on to Ivenix. So let's move on to Slide -- so let's move again to Slide #11, sorry for the disturbance we have there, and let's look again at the financial highlights of the mABxience transaction. We intend to acquire a 55% stake in mABxience. With respect to the option scheme, the contractual provisions include that Fresenius Kabi has the option to acquire the remaining shares in mABxience at a later stage through a call option. Provision also includes a put option for mABxience.  
+As Stephan alluded to, there is a risk-mitigated deal structure. The purchase price will be a combination of EUR 495 million as an upfront payment, and there will be milestones, and these payments would be strictly tied to achievements of commercial and development targets. mABxience generated sales of approximately EUR 255 million in 2021, and let me emphasize that this figure includes sales from the recent contract with AstraZeneca to produce the drug substance for its COVID-19 vaccine in Latin America.  
+With regards to the earning accretion, we project that mABxience will be accretive to group cash EPS right after closing. And on a fully loaded basis, that means after amortization and after integration expenses, mABxience is expected to be broadly neutral in the first year and accretive from 2026 onwards. We've agreed a joint Board of Directors where the majority of seats will be held by Fresenius representatives and that includes the Chairman of the Board.  
+As you heard from Michael, we have a great synergy case here. Our current assumption is that we will be able to create midterm cost and growth synergies in the mid-double-digit million euros per annum before tax. I expect a progressive ramp-up of those synergies, which will be achieved by leveraging mABxience manufacturing capabilities for Fresenius Kabi's business. 
+As to integration costs, we expect a cumulative total of integration costs in the mid-double-digit million euro range before tax. Based on the deal and the governance structure that I've described, we will fully consolidate the mABxience financials after closing, which is expected in mid-2022. And with that, let's go back to Michael to hear about the second acquisition, Ivenix.
+
+--------------------------------------------------------------------------------
+Michael Sen,  Fresenius SE & Co. KGaA - Member of Management Board    [5]
+--------------------------------------------------------------------------------
+Thank you, Rachel, and thanks for handing it back. Ivenix is a company which was founded in 2007, we have known the company for almost a decade and watched closely as they build and progressed to FDA approval. They're located in Andover, Massachusetts, which is, for many of us, well known for being a competence hub for R&D and talent in med tech. We are very excited about integrating the tech-focused IV infusion system offering of Ivenix.  
+Let me briefly mention their portfolio. It contains, I would say, the most innovative and highly accurate large-volume pump in the market, and it is poised to disrupt the market. They have an advanced software platform, including a highly user-friendly interface and state-of-the-art tools, analytics and dashboards. And this will also provide a steady and attractive software revenue stream going forward. In addition, they also offer infusion sets that guarantee precise flow rates, also a stream of recurring revenues. All in all, a consistent and, I'd say, sticky business model, which is enhanced by the build-out of their installed base.  
+Next page, please. With the acquisition of Ivenix, we add next-generation infusion therapy platform to our existing infusion business. The Ivenix infusion system is smart. It addresses all critical needs of customers in a hospital setting, which are getting more sophisticated as we speak in terms of workflow optimization and connectedness. Providers demand an intuitive user interface and ultimately, hospitals want the device to ensure the highest standards in terms of patient safety. The regulatory environment is moving in the same direction. All key requirements are being accommodated by the smart infusion delivery system offering.  
+They are early in their revenue ramp. First, Ivenix customers are successful in place. They effectively partnered with several institutions and began their launch phase with a few hospitals to then demonstrate early market traction, build advocates and then references. The market feedback is very positive and the customer base is growing. Ivenix has a very experienced R&D team with a true focus on software, software architecture and in both the embedded software as well as in applications, i.e., customer applications. This adds tremendously to our capabilities.  
+And Fresenius Kabi is the best owner of the asset, given the highly synergetic nature of the business. with us contributing infusion solutions, disposables and industrial manufacturing capabilities, Ivenix completes our U.S. market offering meaningfully, subsequently driving revenue synergies. And we will be able to tap into substantial cost synergies, which are driven by our scale and proven capabilities in device and disposable manufacturing.  
+Next chart, please. So the market for IV therapy is at an important juncture and is changing as we speak, both on customer and on the regulatory front. The combination of Ivenix and Fresenius Kabi together enables a truly holistic infusion therapy offering for hospitals based on a next-generation platform. This platform will also serve as the launch pad for other smart tech adjacencies going forward. And then we can own the narrative at the customer out of the gate. We will be part of the theme on connected care and become a core partner in hospital connectivity and interoperability. It provides disruptive technology and application, leading to next-generation customer benefits, all based on a very attractive total cost of ownership model.  
+In combination with Fresenius Kabi's scale and proven capabilities in industrial manufacturing of devices and disposables, it will result in significant cost and growth synergies. We will in-source the manufacturing of pumps and sets, yielding a very competitive cost position. Fresenius Kabi enables growth based on our go-to-market, i.e., our commercial infrastructure and even more important the customer relationships we have. With that, over to you, Rachel.
+
+--------------------------------------------------------------------------------
+Rachel Clare Empey,  Fresenius SE & Co. KGaA - CFO & Member of Management Board - Fresenius Management SE    [6]
+--------------------------------------------------------------------------------
+Thanks, Michael. Let's move to Slide 16. And this time, we see the financial highlights of this, the Ivenix transaction. So here again, a risk-mitigated deal structure. The purchase price will be a combination of USD 240 million of upfront payment and then more milestone payments here linked again to achievements of commercial and operating targets.  
+With regards to the current sales activities, you heard from Michael having received the U.S. FDA approval, the Ivenix infusion system was successfully launched late last year and thus business is currently in a ramp-up phase. And we're really excited about the growth opportunity that Ivenix brings to our business.  
+With regards to the earnings accretion, we project cash EPS to be neutral in 2025 and to be accretive from 2026. And on a fully loaded basis, that means after amortization and integration expenses, Ivenix is expected to be accretive from 2026 onwards. Taken together, these 2 deals will be broadly neutral to cash EPS this year and accretive from next year onwards. And on a fully loaded basis, the transactions are expected to be broadly neutral in the first few years and again, to be accretive from 2026 onwards.  
+You've also heard again from Michael about the attractive synergies that we see in the deal with Ivenix. And our current assumption here is that we will be able to create midterm cost and growth synergies in the mid-double-digit million euro range per annum before tax. And here again, we expect a progressive ramp-up of those synergies. The integration costs for this transaction, we expect integration OpEx costs of a low single-digit million euro range before tax in total and a mid-double-digit million euro range of CapEx, which we'll see over the midterm. And again, here, we do expect this deal to close by the middle of this year.  
+And with that, I'd like to hand back to Stephan, who will give us a summary.
+
+--------------------------------------------------------------------------------
+Stephan Sturm,  Fresenius SE & Co. KGaA - CEO, President & Chairman of Management Board - Fresenius Management SE    [7]
+--------------------------------------------------------------------------------
+Thank you, Rachel, and let me wrap up our prepared remarks on Slide 17. We are enthusiastic about both transactions. I believe they are proof of the rigorous execution of our group growth strategy. They significantly strengthened Kabi's growth vectors biopharma and med tech, and they accelerate strategic growth for Kabi and the Fresenius Group.  
+Hence -- my apologies, [COVID]. Hence, we see this as a unique value creation opportunity, contributing to our purpose to provide ever better medicine to ever more people whilst creating added value for our shareholders. With that, we are very happy to take your questions. Thank you.
+
+
+================================================================================
+Questions and Answers
+--------------------------------------------------------------------------------
+Operator    [1]
+--------------------------------------------------------------------------------
+(Operator Instructions) First question is from the line of Veronika Dubajova from Goldman Sachs.
+
+--------------------------------------------------------------------------------
+Veronika Dubajova,  Goldman Sachs Group, Inc., Research Division - Equity Analyst    [2]
+--------------------------------------------------------------------------------
+Two questions for me, please, if I can, to start with. Just curious kind of now that you have mABxience under your belt, how should we be thinking about the targets you've articulated for the biosimilar business? Could you maybe talk through how those might change? And maybe a quick word related to this also on the overlap between the assets that mABxience has in development versus the ones that you have in development. So that would be my question, mABxience. 
+And then for Ivenix, just would love to get your thoughts on how you're thinking about the barriers to distribution. Obviously, the infusion market is really attractive. But historically, we've seen hospitals being fairly unwilling to trial out new entrants into the space. And so Michael, maybe you can talk to the experience that Ivenix has had so far, and what you think is a realistic expectation as you fast forward 3 to 5 years from today, what would be sort of a market share that you hope that asset to achieve on the pump side?
+
+--------------------------------------------------------------------------------
+Stephan Sturm,  Fresenius SE & Co. KGaA - CEO, President & Chairman of Management Board - Fresenius Management SE    [3]
+--------------------------------------------------------------------------------
+Veronika, and I hope you will be feeling better too anytime soon. As far as our targets in biosimilars are concerned, we will continue to hold on to them and try to keep them separate going forward, at least in a verbal explanation. As you know, we are committed showing you the top line in our biosimilars business as from Q1 this year after the transaction has closed. We would also do most of the mABxience revenue that we consolidate as part of that disclosure. But let me have Michael talk to you about the overlap that we're seeing and also the timing, and then we're going to pick it up on Ivenix again.
+
+--------------------------------------------------------------------------------
+Michael Sen,  Fresenius SE & Co. KGaA - Member of Management Board    [4]
+--------------------------------------------------------------------------------
+Yes. Veronika, it's Michael. In terms of the overlap, look, this is the beauty of this entire deal that there is hardly none in terms of overlap. It is a highly complementary deal. When you start from the very beginning, going through the value chain on the development side as in what do we have in our pipeline, which obviously we didn't disclose yet to the market and they have in the pipeline, it's highly complementary. If you look at the therapeutic areas, we currently with what you also know is that we have a stronger foothold on the autoimmune. They have a stronger foothold on the onco market. Both areas are actually the key drivers in the overall market, having the largest share so highly complementary there. 
+Then again, highly complementary with the models, which leaves us the optionality on the commercialization. We have commercial infrastructures. We have, let's say, an agreement, a contract in place where we can choose to operate, cooperate, or they can still, as in our joint asset going forward, look for partners. So not an overlap at all. And when you look at the business model, actually, in addition to Fresenius Kabi entering the biologics CDMO market, and I cannot stress this one enough because this is an addition, which is a high-growth market where currently, we see limited capacity by players. So the asset has good visibility on capacity and has a proven track record. 
+On Ivenix, you're right that the market, especially in the U.S. -- let me put it this way. The way I see it, the market for pumps and medical infusion devices has been slower in adopting new technologies than maybe other medical devices we see in the market. Yet, I think we are at a very important juncture point. That market, in essence, has been kind of underserved and was lacking innovation yet with the whole push into connected care digitization and the like, the hospitals especially the leading ones, the [IDNs] are going for connected care, have higher requirements on their own. 
+And even if you look at the let's say, the direction -- the regulatory environment is going. It's all about the solutions and the applications the Ivenix pump can offer. And therefore, I think it was a prudent approach that they went in and converted the first customers to gain traction and to get feedback to have a very, very stable product, which is now ready to being rolled out. And therefore, I think this is the right time to come with this next-generation pump, which has proven advantages and then one customer by the other as a reference point and then getting bigger and bigger. 
+And your question as in midterm, we do see a prudent ramp-up of market share. We don't actually want to also be too fast because we want to get the customer feedback, and we want to also get concurrently the costs per (inaudible) down. So you said midterm. Midterm, I definitely see us mid-teens as in market share in the installed base of pumps.
+
+--------------------------------------------------------------------------------
+Stephan Sturm,  Fresenius SE & Co. KGaA - CEO, President & Chairman of Management Board - Fresenius Management SE    [5]
+--------------------------------------------------------------------------------
+Veronika, you're obviously right with your observations on the market dynamics, but let me make 2 additional comments. Number one, as you know, we are the industry-leading supplier of infusion pumps here in Europe. We have -- and I believe that we also have something to bring to the party in particular when it comes to reliability. 
+And secondly, us also observing these meaningful barriers to entry, that was one of the reasons why we chose the transaction structure with heavily -- with heavy reliance on milestone payments going forward in order to mitigate our risk.
+
+--------------------------------------------------------------------------------
+Operator    [6]
+--------------------------------------------------------------------------------
+Next question is from the line of Falko Friedrichs from Deutsche Bank.
+
+--------------------------------------------------------------------------------
+Falko Friedrichs,   -     [7]
+--------------------------------------------------------------------------------
+My first question is on mABxience.  Are you able to provide some kind of a sales split between the biosimilars business and the CDMO business? And in that regard, it would also be helpful to hear how much of the sales are related to these COVID projects? 
+Then secondly, do you still stick to your leverage target range for this year, the 3 to 3.5x? 
+And then thirdly, on this put option scheme that is part of the one acquisition, are you able to share with us when that starts to kick in? How long it lasts? Or how long does it go? And will that count towards your net debt calculation?
+
+--------------------------------------------------------------------------------
+Stephan Sturm,  Fresenius SE & Co. KGaA - CEO, President & Chairman of Management Board - Fresenius Management SE    [8]
+--------------------------------------------------------------------------------
+Thank you, Falko. On the first one, I'm afraid I won't be able to help you. And it is a good split between the 2 businesses, and we made it deliberately a point to split out or to talk about the meaningful contribution of COVID with the sense that this may only be temporary, and that is why we wanted to qualify the EUR 255 million. On the leverage, Rachel?
+
+--------------------------------------------------------------------------------
+Rachel Clare Empey,  Fresenius SE & Co. KGaA - CFO & Member of Management Board - Fresenius Management SE    [9]
+--------------------------------------------------------------------------------
+Falko, I think 2 or 3 things to say. With the broadly neutral impact on earnings that I mentioned and the relatively modest side in terms of the upfront payments that I have referred to today, which I would clearly say is within the normal range of the bolt-on M&A activity we have within the year, the impact on our leverage range is not significant. And I think that speaks to the risk-mitigated deal structure that we've put in place.
+
+--------------------------------------------------------------------------------
+Michael Sen,  Fresenius SE & Co. KGaA - Member of Management Board    [10]
+--------------------------------------------------------------------------------
+Yes. And let me come back to the put question. There is a put call scheme in place, which starts to kick in as of '25, mid '25. The timing has been deliberately chosen because, up until then, we all have more visibility on the tangibility of what it is in the pipeline today and how close are those molecules getting to commercialization. After that, it gets a little more complicated, maybe Markus can walk you through after that. 
+There's one decision both parties have to make. They can choose and put. And if they don't put, a year later we can call. And there's some other peculiarities in there, which is not important. So as of '25, it can start. And they can put -- if they don't put, we can call. And as Stephan also mentioned on the first one, we alluded to that we say probably next year, there will be tougher comps. 
+But let me also share with you that if I look at the funnel activity as to what is in the customer funnel, which needs to convert, obviously, into contracts at mABxience from what we've seen today, smaller contracts, but it's a very intense funnel.
+
+--------------------------------------------------------------------------------
+Rachel Clare Empey,  Fresenius SE & Co. KGaA - CFO & Member of Management Board - Fresenius Management SE    [11]
+--------------------------------------------------------------------------------
+There was another question in there as well, I think, around how the put options are accounted for. So we already have other put options amongst the various structures within the Fresenius group. This will be treated exactly the same. So it will be booked in other liabilities under put option liabilities, if you look at the detailed disclosures. And it's obviously booked today's present value as an estimate of the potential future value of that put option. And in line with our other standard accounting practice that is not counted towards our net debt calculation. Thank you.
+
+--------------------------------------------------------------------------------
+Operator    [12]
+--------------------------------------------------------------------------------
+(Operator Instructions) The next question comes from the line of (inaudible) from HSBC.
+
+--------------------------------------------------------------------------------
+Unidentified Analyst,   -     [13]
+--------------------------------------------------------------------------------
+Just about your -- I know this is probably vague at this point, but just to have something planned on paper, how are you thinking about the potential margin structure, as I think some investors might be surprised about you entering the CMDO market in biosimilars. That will be my first question, please. 
+And my second question, you had disclosed at your earnings disclosures that you are entering into a partnership with Dr. Reddy's to market rituximab. Does it overlap with the agreements with mABxience in any way as this is 1 of the 2 biosimilars that they have under the portfolio.
+
+--------------------------------------------------------------------------------
+Stephan Sturm,  Fresenius SE & Co. KGaA - CEO, President & Chairman of Management Board - Fresenius Management SE    [14]
+--------------------------------------------------------------------------------
+Thank you. And Michael is going to take both of these.
+
+--------------------------------------------------------------------------------
+Michael Sen,  Fresenius SE & Co. KGaA - Member of Management Board    [15]
+--------------------------------------------------------------------------------
+Yes. Thank you, happy to. Look, we don't break out particularly the margin structure of the individual elements. But I think you were alluding to a very important factor of the deal as such that it has different business elements in 1 asset. And in a way, the CDMO business also underwrites risk which you may have in the pipeline during the development phase because -- and this is the hint, it is delivering margin and the [CMO] margin is margin accretive to the Fresenius Kabi margin which you see. 
+On the molecule, Dr. Reddy's good catch, yet there is no overlap. It is the same molecule, but the commercialization rights are different. They are already with rituximab in the market. And we have the agreement that if and when it is ready, that we would market this one -- commercialize this one in the U.S. where the rituximab molecule of mABxience is not present, and there's not a plan to go there. So there's also no overlap in terms of geography.
+
+--------------------------------------------------------------------------------
+Stephan Sturm,  Fresenius SE & Co. KGaA - CEO, President & Chairman of Management Board - Fresenius Management SE    [16]
+--------------------------------------------------------------------------------
+Let me finally quickly address your point of a potential surprise. I believe we couldn't have been any clearer as part as our full year results presentation that we have the intention of strengthening our position in the biopharmaceutical manufacturing. And I want to alert you to the fact that also is part of our other liquids manufacturing, Fresenius Kabi has a fairly meaningful contract manufacturing business going, which is and has always served as a capacity filler, in particular at the outset when we went about capacity expansions. And so a contract manufacturing business is absolutely nothing new for us, and we had very much the intention to spare you a surprise. But thank you for your questions.
+
+--------------------------------------------------------------------------------
+Operator    [17]
+--------------------------------------------------------------------------------
+Thank you. Next question is from the line of Oliver Metzger from ODDO BHF.
+
+--------------------------------------------------------------------------------
+Oliver Metzger,  ODDO BHF Corporate & Markets, Research Division - Research Analyst    [18]
+--------------------------------------------------------------------------------
+Yes. The first one is on biologics manufacturing. So until now, you work only with external [CMOs]. So is it right that the main synergy is the biologics production? And how fast can you change the production process towards your own molecules? 
+And second question is to which extent does the midterm synergies assume your expected success in your own biosimilar pipeline?
+
+--------------------------------------------------------------------------------
+Stephan Sturm,  Fresenius SE & Co. KGaA - CEO, President & Chairman of Management Board - Fresenius Management SE    [19]
+--------------------------------------------------------------------------------
+Thank you, Oliver. To clarify, so far we've been working with our friends at Merck, but Michael is going to share a bit more light on that.
+
+--------------------------------------------------------------------------------
+Michael Sen,  Fresenius SE & Co. KGaA - Member of Management Board    [20]
+--------------------------------------------------------------------------------
+Yes, Oliver, you're right that the big part or the chunk of the synergies is coming by consolidating into one highly cost-competitive manufacturing network. By the same token also respecting what we have in place currently as in contracts. And this goes hands in gloves because we'll need some time to tech transfer into the manufacturing platform of mABxience. 
+This will be what we usually call midterm. We need to prepare. You need to prepare the production processes, you need to prepare the analytics because at the end of the day, it has to stand regulatory requirements. So midterm is basically the transfer into that network, and this is where the synergies come from. And thereby, as you said, we are respecting also short-term to -- up until midterm, to use the network we have. But other molecules going forward will be tech transferred into that one.
+
+--------------------------------------------------------------------------------
+Stephan Sturm,  Fresenius SE & Co. KGaA - CEO, President & Chairman of Management Board - Fresenius Management SE    [21]
+--------------------------------------------------------------------------------
+And Oliver, I'm not entirely sure on your second question. Did I get you right that you were asking about the effect on the group's midterm targets? Or were you talking about midterm synergies within the biosimilars business?
+
+--------------------------------------------------------------------------------
+Oliver Metzger,  ODDO BHF Corporate & Markets, Research Division - Research Analyst    [22]
+--------------------------------------------------------------------------------
+About the midterm synergies. Basically, to my understanding you have answered this question.
+
+--------------------------------------------------------------------------------
+Stephan Sturm,  Fresenius SE & Co. KGaA - CEO, President & Chairman of Management Board - Fresenius Management SE    [23]
+--------------------------------------------------------------------------------
+Maybe Oliver, one thing. The beauty is those synergies will be fully in the pocket of Fresenius Kabi. So usually deals you have to pay whether the synergies are in 1 asset or the other. The synergies are fully in the pocket of Fresenius because mABxience is now having 2 shareholders.
+
+--------------------------------------------------------------------------------
+Operator    [24]
+--------------------------------------------------------------------------------
+Next question is from the line of Graham Doyle from UBS.
+
+--------------------------------------------------------------------------------
+Graham Doyle,  UBS Investment Bank, Research Division - Analyst    [25]
+--------------------------------------------------------------------------------
+Just a couple. Can I ask one on mABxience. In terms of the existing capacity of the facilities you currently have and the EUR 250 million of sales delivered, how much further can that go? And is there much more investment required to scale up to deliver the sort of growth you're expecting? 
+And then just on the Ivenix deal, you've obviously you've not given us some color from what I can tell in terms of how large the future payments might be at this stage. Could you maybe give us some color on that? And then also quantify what sort of investments will be needed in sort of the next 18, 24 months before this deal becomes accretive?
+
+--------------------------------------------------------------------------------
+Stephan Sturm,  Fresenius SE & Co. KGaA - CEO, President & Chairman of Management Board - Fresenius Management SE    [26]
+--------------------------------------------------------------------------------
+Graham, thank you. I'll take your second one, and then Michael is going to take the first. No, we are not prepared to get you a sense of that. But let me say, we would wish the current Ivenix shareholders to become filthy rich on this transaction. Because if we end up making very meaningful payments to them, that would have even improved our business case. Michael?
+
+--------------------------------------------------------------------------------
+Michael Sen,  Fresenius SE & Co. KGaA - Member of Management Board    [27]
+--------------------------------------------------------------------------------
+Yes. In terms of capacity and capacity extension, but you also linked to the current revenue, I think we made some statements also in terms of the revenue we've seen last fiscal and how we see that one going forward. And therefore, the capacity currently, obviously, is also occupied by a large COVID-19 vaccine contract, and there is no limit on capacity as we see it now. We can probably easily double the capacity with very limited CapEx.
+
+--------------------------------------------------------------------------------
+Graham Doyle,  UBS Investment Bank, Research Division - Analyst    [28]
+--------------------------------------------------------------------------------
+Can I just very briefly follow up on that, the Astra COVID vaccine. Generally, most suppliers are manufactured in this space have probably received a lower price than they usually would for using that capacity for other areas. Is that a reasonable assumption to make for you as well for mABxience, I suppose?
+
+--------------------------------------------------------------------------------
+Stephan Sturm,  Fresenius SE & Co. KGaA - CEO, President & Chairman of Management Board - Fresenius Management SE    [29]
+--------------------------------------------------------------------------------
+I'm not aware of the price contract they have. The financials, as I looked at, look very nice, very preferable, as I said, it's highly margin accretive.
+
+--------------------------------------------------------------------------------
+Operator    [30]
+--------------------------------------------------------------------------------
+Next question is from the line of Hugo Solvet from Exane BNP Paribas.
+
+--------------------------------------------------------------------------------
+Hugo Solvet,   -     [31]
+--------------------------------------------------------------------------------
+A quick follow-up on the CDMO activities focusing now, if I understand well on biologics. Do you think longer term that there would be or you will be willing to move into the cell and gene therapy space for CDMOs? That would be the first question. 
+Second, on the control launch phase for Ivenix pump. Can you maybe give a -- give us a bit more detail on when should we expect a broader launch and also some more color on the feedback that you've received from the first customer so far? 
+And lastly, given you've been working on those 2 deals for about 6 months, as you mentioned, Stephan, just wondering if the recent EUR 50 million increase in your group efficiency plan synergies included already some synergies from those 2 deals? Or should we understand that mABxience and Ivenix synergies will come on top of that?
+
+--------------------------------------------------------------------------------
+Stephan Sturm,  Fresenius SE & Co. KGaA - CEO, President & Chairman of Management Board - Fresenius Management SE    [32]
+--------------------------------------------------------------------------------
+I'll cover the third one, first, go and the answer is an outright no. We have not relied on a transaction that was still in the making when it came to increasing our synergy targets -- I'm sorry, our cost savings targets. Hugo, you got to help me here. I did not fully understand your first question, which part of the CDMO business?
+
+--------------------------------------------------------------------------------
+Hugo Solvet,   -     [33]
+--------------------------------------------------------------------------------
+Yes. Currently, our CDMO activities from absence, if I understand well, focused on biologics. There is also a big chunk of the market in the cell and gene therapy space for CDMO. So just wondering, if you also have a footprint on that with -- in that with mABxience acquisition or if you would be willing to diversify a bit more into this fast-growing segment?
+
+--------------------------------------------------------------------------------
+Stephan Sturm,  Fresenius SE & Co. KGaA - CEO, President & Chairman of Management Board - Fresenius Management SE    [34]
+--------------------------------------------------------------------------------
+The quick answer is no intention right now, but Michael is going to help you more.
+
+--------------------------------------------------------------------------------
+Michael Sen,  Fresenius SE & Co. KGaA - Member of Management Board    [35]
+--------------------------------------------------------------------------------
+Yes. I think we, first of all, have to digest what we have here in place, and this is already some sort of diversification going into the biologics CDMO market, which is very attractive in itself as in the segment they're playing. It has the full scope of what we talk about today, new technologies, mRNA. It can also produce the viral vector. So it's the biopharma in a much broader sense.  
+Cell and gene is another segment, which we have a tiny toe in the foot, not as in CDMO, but with our transfusion and cell therapy business, looking at the washing of the cells, but that is a different topic here. This is much more on what is hot today, the biologics on mRNA and the like, which is not only for vaccines by the way, it is actually the base technology for oncology.
+
+--------------------------------------------------------------------------------
+Hugo Solvet,   -     [36]
+--------------------------------------------------------------------------------
+Okay. And on the feedback from the.
+
+--------------------------------------------------------------------------------
+Michael Sen,  Fresenius SE & Co. KGaA - Member of Management Board    [37]
+--------------------------------------------------------------------------------
+Sorry, on the take that -- we're going to have a meet the management anyways, and Markus can provide you with more as I said, they're in the first ramp of the customers. We made studies also during our due diligence process. We talk to customers, by the way. We call them and the feedback was very positive.
+
+--------------------------------------------------------------------------------
+Operator    [38]
+--------------------------------------------------------------------------------
+Next question is a follow-up question from the line of Veronika Dubajova from Goldman Sachs.
+
+--------------------------------------------------------------------------------
+Veronika Dubajova,  Goldman Sachs Group, Inc., Research Division - Equity Analyst    [39]
+--------------------------------------------------------------------------------
+Just one quick one. On the 2 products that mABxience is distributing right now, is your intention to take over the distribution on year-end? And just any thoughts on whether that has potential to accelerate the revenues that you're booking at the moment?
+
+--------------------------------------------------------------------------------
+Stephan Sturm,  Fresenius SE & Co. KGaA - CEO, President & Chairman of Management Board - Fresenius Management SE    [40]
+--------------------------------------------------------------------------------
+Michael?
+
+--------------------------------------------------------------------------------
+Michael Sen,  Fresenius SE & Co. KGaA - Member of Management Board    [41]
+--------------------------------------------------------------------------------
+Yes. Look, what they have in the marketplace right now, obviously, there are -- is already the commercial partnership in place and it is running. When it comes to the pipeline, what we do here, and that is the beauty of that whole construction architecture is that the asset as such, can choose. And we, as Fresenius Kabi, having the commercial infrastructure, we can be the partner of choice. Obviously, we even have the first right or last right of refusal because we concurrently also know the cost structure. 
+Because we know to be successful on the commercial end, you need to have a very cost-competitive structure per molecule. So for the current molecules, which are out in the market, contracts are in place, everything in the pipeline, we could potentially be the partner.
+
+--------------------------------------------------------------------------------
+Veronika Dubajova,  Goldman Sachs Group, Inc., Research Division - Equity Analyst    [42]
+--------------------------------------------------------------------------------
+Understood. Thank you, Michael.
+
+--------------------------------------------------------------------------------
+Stephan Sturm,  Fresenius SE & Co. KGaA - CEO, President & Chairman of Management Board - Fresenius Management SE    [43]
+--------------------------------------------------------------------------------
+But Veronika, as I said, we will try and keep that separate from the original targets that we had set for ourselves.
+
+--------------------------------------------------------------------------------
+Operator    [44]
+--------------------------------------------------------------------------------
+Next question is from the line of Odysseas Manesiotis from Berenberg. 
+Mr. Manesiotis has disconnected. The next question is from the line of Christian Ehmann from Warburg Research.
+
+--------------------------------------------------------------------------------
+Christian Ehmann,   -     [45]
+--------------------------------------------------------------------------------
+To understand your rationale for the deal and considering that you might have a very -- will have a very reliable and competent partner with Merck and producing your own biosimilars, I'm curious what kind of advantage do you see in the -- in now buying the production capabilities and get them in-house? 
+And also what kind of focus you said the technologies of the yield? Or would you just prefer to have all the parts of the value chain in-house?
+
+--------------------------------------------------------------------------------
+Stephan Sturm,  Fresenius SE & Co. KGaA - CEO, President & Chairman of Management Board - Fresenius Management SE    [46]
+--------------------------------------------------------------------------------
+Thank you. Before Michael makes some complementary comments, we are grateful to the service -- for the services that our friends at Merck have provided. But as we alluded to, I believe, over the last 6, 9 months or so, we firmly believe that the key success factor going forward in the biosimilars business is a highly cost competitive position. And we do believe that it is in everyone's advantage -- to everyone's advantage, if we choose a partner that is truly dedicated to the manufacturing of biosimilars. 
+It was clear understanding right from 2017 when we struck the transaction with our friends at Merck that this was rather than an option for us than a firm commitment. We do know that they have ample other opportunities to make use of the existing manufacturing capacity that they do have. But yes, we have convinced ourselves as part of the due diligence that we could gain even more traction by partnering up with mABxience. Michael?
+
+--------------------------------------------------------------------------------
+Michael Sen,  Fresenius SE & Co. KGaA - Member of Management Board    [47]
+--------------------------------------------------------------------------------
+Yes, absolutely. Look, we are convinced, as Stephan said, it's the competitiveness on the cost side. Why is that so? Because -- which is again good argument for the entire biosimilars business, we see the share of biosimilars in the whole medication cake increasing, but there's also competition. So you need to be very cost competitive. 
+mABxience does nothing else than this for a living and then partner out. So they have -- it's a family-owned business. So they have very smart nimble processes. They're very agile, yet complying, obviously, with every regulatory environment. They're also getting ready with one of the molecules to go to the U.S. And when I look at the technical layout, we visited the factories, also the one in Argentina from a biotechnology reactor technology. It is exactly what we need also in terms of capacity. 
+And we've benchmarked their costs. And we looked at -- as you rightfully said, the yields they have, and it was very striking, and that's why we went for the deal.
+
+--------------------------------------------------------------------------------
+Operator    [48]
+--------------------------------------------------------------------------------
+Next question is from the line of Odysseas Manesiotis from Berenberg.
+
+--------------------------------------------------------------------------------
+Odysseas Manesiotis,   -     [49]
+--------------------------------------------------------------------------------
+I just have one on behalf of Tom Jones. So could you give us a sense of what to expect on amortization charges and whether that will be completely stripped out of your adjusted income entries?
+
+--------------------------------------------------------------------------------
+Rachel Clare Empey,  Fresenius SE & Co. KGaA - CFO & Member of Management Board - Fresenius Management SE    [50]
+--------------------------------------------------------------------------------
+Odysseas, clearly, we need to close these transactions and do the appropriate purchase price allocation process before we can finalize exactly what the amortization charges are going to look like. But I can tell you that based on our first estimate it's going to be a good double-digit million euro number that we would anticipate here. And we will, as usual, when we close the transaction, to give you an indication of that in terms of what it is contributing to the overall charges to the P&L. 
+But clearly, we need to get through -- get the closing done and then do the full detailed analysis of the PPA before we can confirm any more details for you.
+
+--------------------------------------------------------------------------------
+Stephan Sturm,  Fresenius SE & Co. KGaA - CEO, President & Chairman of Management Board - Fresenius Management SE    [51]
+--------------------------------------------------------------------------------
+I believe that concludes our Q&A session for today. Thank you very much, again, for making yourself available on short notice, and you're interested in to good questions. I hope that you can share our enthusiasm for these 2 transactions. They come on the back of a very thorough review of the group structure with the result that Kabi is ranked top priority for capital allocation. And they also come on the back of a very equally thorough portfolio review at Fresenius Kabi, where we have established the 3 growth vectors under the "Vision 2026" strategy, as Michael pointed out. 
+So we have now the first 2 steps underpinning that growth strategy and strengthening 2 out of the 3 growth vectors. But at the same time, I also, in no surprises policy, I want to tell you don't expect us now to follow up on a monthly basis. With new additions you heard us talk about, also some financial constraints as part of the full year results presentation. We have now taken a good bite, and we will work on that for the time being. And we will, at the same time, keep our heads down and heavily work on the operating environment on the operating performance in a not that easy environment. 
+Having said that, once again thank you. And we look forward to talking to you again as part of our Q1 results presentation on May 4. Thank you for now. Thank you.
+
+--------------------------------------------------------------------------------
+Operator    [52]
+--------------------------------------------------------------------------------
+We want to thank Fresenius and all the participants for taking part on this conference call. Goodbye.
+
+
+
+
+
+
+
+--------------------------------------------------------------------------------
+Definitions
+--------------------------------------------------------------------------------
+PRELIMINARY TRANSCRIPT: "Preliminary Transcript" indicates that the 
+Transcript has been published in near real-time by an experienced 
+professional transcriber.  While the Preliminary Transcript is highly 
+accurate, it has not been edited to ensure the entire transcription 
+represents a verbatim report of the call.
+
+EDITED TRANSCRIPT: "Edited Transcript" indicates that a team of professional 
+editors have listened to the event a second time to confirm that the 
+content of the call has been transcribed accurately and in full.
+
+--------------------------------------------------------------------------------
+Disclaimer
+--------------------------------------------------------------------------------
+Refinitiv reserves the right to make changes to documents, content, or other 
+information on this web site without obligation to notify any person of 
+such changes.
+
+In the conference calls upon which Event Transcripts are based, companies 
+may make projections or other forward-looking statements regarding a variety 
+of items. Such forward-looking statements are based upon current 
+expectations and involve risks and uncertainties. Actual results may differ 
+materially from those stated in any forward-looking statement based on a 
+number of important factors and risks, which are more specifically 
+identified in the companies' most recent SEC filings. Although the companies 
+may indicate and believe that the assumptions underlying the forward-looking 
+statements are reasonable, any of the assumptions could prove inaccurate or 
+incorrect and, therefore, there can be no assurance that the results 
+contemplated in the forward-looking statements will be realized.
+
+THE INFORMATION CONTAINED IN EVENT TRANSCRIPTS IS A TEXTUAL REPRESENTATION
+OF THE APPLICABLE COMPANY'S CONFERENCE CALL AND WHILE EFFORTS ARE MADE TO
+PROVIDE AN ACCURATE TRANSCRIPTION, THERE MAY BE MATERIAL ERRORS, OMISSIONS,
+OR INACCURACIES IN THE REPORTING OF THE SUBSTANCE OF THE CONFERENCE CALLS.
+IN NO WAY DOES REFINITIV OR THE APPLICABLE COMPANY ASSUME ANY RESPONSIBILITY FOR ANY INVESTMENT OR OTHER
+DECISIONS MADE BASED UPON THE INFORMATION PROVIDED ON THIS WEB SITE OR IN
+ANY EVENT TRANSCRIPT. USERS ARE ADVISED TO REVIEW THE APPLICABLE COMPANY'S
+CONFERENCE CALL ITSELF AND THE APPLICABLE COMPANY'S SEC FILINGS BEFORE
+MAKING ANY INVESTMENT OR OTHER DECISIONS.
+--------------------------------------------------------------------------------
+Copyright 2022 Refinitiv. All Rights Reserved.
+--------------------------------------------------------------------------------

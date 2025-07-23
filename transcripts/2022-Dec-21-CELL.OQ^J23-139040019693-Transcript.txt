@@ -1,0 +1,318 @@
+
+
+Refinitiv StreetEvents Event Transcript
+E D I T E D   V E R S I O N
+
+Berkeley Lights Inc to Acquire IsoPlexis Corp M&amp;A Call
+DECEMBER 21, 2022 / 10:00PM GMT
+
+================================================================================
+Corporate Participants
+================================================================================
+
+ * Sean Mackay
+   IsoPlexis Corporation - Co-Founder, CEO, President & Director
+ * Suzanne Hatcher
+   Berkeley Lights, Inc. - VP of Communications & IR
+ * Mehul Joshi
+   Berkeley Lights, Inc. - CFO
+ * Siddhartha Chandrakant Kadia
+   Berkeley Lights, Inc. - CEO & Director
+
+================================================================================
+Conference Call Participiants
+================================================================================
+
+ * Madeline Kendall Mollman
+   William Blair & Company L.L.C., Research Division - Research Analyst
+ * Evan Stampler
+   Stifel, Nicolaus & Company, Incorporated, Research Division - Research Analyst
+ * Chad M. Wiatrowski
+   Cowen and Company, LLC, Research Division - Associate
+ * Mark Anthony Massaro
+   BTIG, LLC, Research Division - MD & Life Science & Diagnostic Tools Analyst
+
+================================================================================
+Presentation
+--------------------------------------------------------------------------------
+Operator    [1]
+--------------------------------------------------------------------------------
+Good afternoon. My name is David, and I will be your conference operator today. At this time, I would like to welcome everyone to the Berkeley Lights, Inc. acquisition of IsoPlexis presenter and Presentation. (Operator Instructions) As a reminder, this conference is recorded. And it is now my pleasure to turn the conference over to Suzanne Hatcher, Vice President of Communications and Investor Relations. Suzanne?
+
+--------------------------------------------------------------------------------
+Suzanne Hatcher,  Berkeley Lights, Inc. - VP of Communications & IR    [2]
+--------------------------------------------------------------------------------
+Great. Thank you, operator. Good afternoon, everyone, and welcome to today's investor update conference call and webcast. My name is Suzanne Hatcher, Vice President of Communications and Investor Relations at Berkeley Lights. I'm joined today by Siddhartha Kadia, Chief Executive Officer; Mehul Joshi, Chief Financial Officer; and Sean Mackay, Chief Executive Officer of IsoPlexis.
+Before we begin, I'd like to remind you that management will make statements during this call that are forward-looking statements within the meaning of federal securities laws. These statements involve material risks and uncertainties that could cause actual results or events to materially differ from those anticipated. For more information, please refer to the risks, uncertainties and the other factors discussed in our SEC filings.
+Except as required by law, Berkeley likes to disclaim dispense any intention or obligation to update or revise any financial projections or forward-looking statements, whether because of new information, future events or otherwise. This conference call contains time-sensitive information and is accurate only as the live broadcast on December 21, 2022.
+During our prepared remarks this afternoon, we will reference a presentation that we have posted on the IR section of the Berkeley Lights website. If you're viewing the webcast, you'll be able to follow along live with our presentation.
+With that, I'd like to turn the call over to Siddhartha.
+
+--------------------------------------------------------------------------------
+Siddhartha Chandrakant Kadia,  Berkeley Lights, Inc. - CEO & Director    [3]
+--------------------------------------------------------------------------------
+Thank you, Suzanne, and thank you, everyone, for joining us. As you saw this afternoon, we announced an important milestone in our efforts to fuel our transformation into a growing profitable and sustainable life sciences company. We've entered into a definitive agreement under which Berkeley Lights will acquire IsoPlexis.
+Before I go any further, I'd like to thank both the Berkeley Lights and IsoPlexis teams for their hard work to achieve this milestone.
+By bringing our 2 companies together, we will accelerate the revolutionary work our teams are doing to enable scientific breakthroughs. We are building on the complementary strength of both organizations to create a premier functional cell biology company, which will be called PhenomeX. PhenomeX combines Berkeley Lights live cell functional biology, with IsoPlexis deep profiling of single cells. This will enable researchers to conduct deeper analysis of cell function for both research and clinical applications while preserving the cells of interest. Together, we will provide live cell biology research tools that deliver deep insights into cellular function and new perspectives on phenoms, which are central to all questions in biology. And we will each be better positioned than ever to create value for our employees, our customers and our shareholders.
+Before we get into the details of many benefits we see from this transaction, I want to walk you through the transaction details in key terms of the merger, which you can find on Slide 6.
+Berkeley Lights is acquiring IsoPlexis in an all-stock transaction valued at $57.8 million. This follows a robust process by the Boards of both companies, which included a significant period of engagement. IsoPlexis shareholders will receive 0.612 shares of Berkeley Lights stock for each IsoPlexis share they hold.
+Following the transaction, we closed on the transaction, Berkeley Lights shareholders will own approximately 75.2% of the combined company and IsoPlexis shareholders will own approximately 24.8%.
+I'm excited to share that I will be serving as CEO and a member of the Board of PhenomeX. I'm also pleased that we will benefit from Sean's expected appointment as our Chief Product Officer, following the close, which we expect in the first quarter of 2023, subject to approval by shareholders of both companies and other customary closing conditions.
+Over the coming weeks and months, as we advance our integration process, we'll combine our management team in a way that reflects the strengths and capabilities of both organizations.
+With that, I'll turn it over to Sean to talk a little more about IsoPlexis and the work that they do.
+
+--------------------------------------------------------------------------------
+Sean Mackay,  IsoPlexis Corporation - Co-Founder, CEO, President & Director    [4]
+--------------------------------------------------------------------------------
+Thanks so much, Siddhartha. I'm extremely pleased to be here today, and I share your enthusiasm about the future of our company.
+Turning to Slide 7. As many of you know, IsoPlexis is a pioneer in the proteomic space and a powerful contributor to the broader scientific community, we known for our leading IsoCode cellular behavior multiplexing platform, and we are well respected by researchers and clinicians for our scientific results and [e-to-e] software and hardware. Since our founding in 2013, we've been accelerating the fight against the toughest diseases by reviewing what we call true functional biology of patient cells via proteomics and in near future transcriptomics.
+We have placed 277 instruments in the field, building a customer base that spans pharma, biotech and medical centers, including 100% of the top 15 pharma companies and 81% of the comprehensive cancer centers. Our IsoCode and CodePlex products are building momentum and play a key role in the translational medicine ecosystem.
+For large soft immunology research is fighting cancer, IsoCode helps eliminate a critical bias on slow intracellular cytokine systems and (inaudible). Our customers recognize the extraordinary power of our technology, and we're pleased to have reached an agreement to reflect the value IsoPlexis has created. We're confident this is the best path forward to unlock the value of our extraordinary technologies together in solutions for all of our stakeholders, including our shareholders.
+Before I turn it back to Siddhartha, I do want to thank IsoPlexis employees for their dedication, our customers for believing in our company and our shareholders for their support over the last 9 years. Finally, I do want to thank Siddhartha and his team. I'm excited. They're excited. We're all excited about what the future evolves and look forward to fighting these diseases and pushing the limits of scientific discovery as PhenomeX.
+
+--------------------------------------------------------------------------------
+Siddhartha Chandrakant Kadia,  Berkeley Lights, Inc. - CEO & Director    [5]
+--------------------------------------------------------------------------------
+Thanks, Sean. Turning now to Slide 8 and 9. When we spoke a month ago at our most recent Berkeley Lights Investor Day, I spent some time talking through the key areas of focus for us to reshape the company over the next 3 to 5 years. I want to spend some time now talking about how this transaction will accelerate our progress against every pillar of our strategic plan that we laid out, which should help you understand why we are so excited about this combination.
+First, we will be building a world-class team with a proven track record of profitably scaling life sciences tools and services companies. I've already talked a bit about our management structure and the work we'll be doing over the coming weeks and months. Importantly, our team is highly experienced in company integration and consolidating organizations. So we are confident in the process will be seamless and result in a strengthened company that benefits from the impressive talent of both organizations.
+Our next pillar is about prioritization of R&D return on investment to increase focus and rigor on development initiatives. I've spoken a lot in the past about the extraordinary potential of Berkeley Lights technology and the need to be thoughtful in the use of our resources to accelerate innovation. This transaction brings together complementary portfolios that will extend our leadership through, the functional cell biologic continuum with technology that is unmatched in our industry. As a combined company, we are going to be laser-focused on executing on only the highest return initiatives.
+One of those focus areas will be to leverage the lower cost IsoPlexis platform to offer enhanced functionality from Berkeley Lights technology portfolio. And we'll be well positioned to maintain our advantaged position through a formidable intellectual property estate more than 600 issued patents. This will also advance our goal of delivering consistent commercial execution through a new sales structure, enhance our portfolio and pricing strategy. The combination of the strengthened commercial execution with an enhanced geographic footprint and diversified customer base, uniting Berkeley Lights position in the biopharma segment and IsoPlexis foothold in the academic segment. We'll be able to reach more and different customers across the globe with a strengthened sales team that is 75% larger than Berkeley Lights has today, and we will be more focused on growing our recurring revenues.
+Turning to our next pillar. We believe that by forming this new combined company, we will also be getting a platform for further consolidation in high-growth functional cell biology tools. We expect to achieve this in a number of ways. We'll take advantage of cross-selling opportunities to existing and new customers and grow our participation in a larger cell biology market with a wide range of tools and services.
+We also expect to drive significant productive improvements as part of the combined organization by bringing together our R&D, G&A, supply chain and manufacturing infrastructure, reducing costs and leveraging the talent and competencies of each organization. And as we have been, we will evaluate M&A opportunities that will further accelerate profitable growth and leverage a combined cost structure.
+Lastly, we talked previously about our goal of generating positive operating cash flow by early 2025. We believe that this transaction will accelerate the time line and to support our ability to achieve positive operating cash flows at $150 million in revenue by 2024 instead.
+As you would expect, the synergies we see from this transaction are important, as Mehul will touch on it shortly. At a high level, we believe we can achieve cost synergies of approximately $70 million annualized by 2024.
+Broadly, as we focused and have been focused on identifying opportunities that first accelerate profitable growth and leverage our current cost structure, this is how this transaction addresses the key elements of our M&A framework.
+In evaluating this transaction, IsoPlexis checks each of these boxes for us from expanding the markets we can serve to growing our offerings with complementary technologies to strengthening our commercial infrastructure and driving synergies. In short, this transaction just makes sense.
+I wanted to spend a few minutes today talking about the elements underpinning the combined company's investment thesis and deep diving on a few areas.
+We already talked about what this will mean for us in terms of building a world-class team and just spoke to our ability to serve as a platform for further consolidation. So I will focus on a few other points.
+Turning to Slide 12. We have the only platform enabling functional proteomics, and further, we have an accelerated development path for our product portfolio. Our combination with IsoPlexis will create a balanced product portfolio and expand our installed base. This integration of IsoPlexis core technology will also laid the groundwork for Beacon Quest by allowing us to accelerate entry into key high-growth academic research segments, including immuno-oncology and functional biology.
+We've spoken previously about our progress towards developing the lower-priced Beacon platform for academic segments, and the low cost of IsoPlexis platform and technology will accelerate that work.
+Turning to Slide 13. The combined company will have substantially expanded access to a large cell biology market and customer base, which will include high-value translational research and academic customers. Berkeley Lights and IsoPlexis have overlapping commercial channels and significant customer complementarity. Combined, the company will have a stronger position in the biopharma segment and a deep (inaudible) in the academic segment.
+I'm now going to turn it over to Mehul to deep dive on some of the financials of the new combined company. Mehul?
+
+--------------------------------------------------------------------------------
+Mehul Joshi,  Berkeley Lights, Inc. - CFO    [6]
+--------------------------------------------------------------------------------
+Thanks, Siddhartha, and good afternoon, everyone. I will now cover the cost synergies we expect to achieve as a result of the merger. As Siddhartha mentioned earlier, our cost synergies will increase our profitability and accelerate the time line to breakeven. We anticipate cost synergies of approximately $70 million annualized by 2024.
+As we evaluated this transaction, we identified synergy opportunities that included general and administrative cost efficiencies, prioritization of the R&D pipeline, taking advantage of our complementary R&D capabilities and the thoughtful combination of our marketing resources and sales support functions as well as manufacturing, supply chain, logistics and facilities.
+Having completed a thorough diligence review, we are confident these goals are very achievable. We've also talked previously about our goal of generating positive operating cash flow by 2025. We believe this transaction will accelerate that time frame and support our ability to achieve positive operating cash flow at $150 million in revenue by 2024 instead.
+Before we close, I want to reiterate our excitement for our combination with IsoPlexis and what this means for us. By becoming 1 company, we will accelerate our progress across every pillar of our strategic plan and create a path of achieving positive operating cash flow earlier than we expected to as a stand-alone company. Together, we will be a premier functional cell biology company, bringing together Berkeley Lights and IsoPlexis respective innovative solutions. We look forward to what the future holds for PhenomeX.
+With that, I'll open the floor up for Q&A.
+
+
+================================================================================
+Questions and Answers
+--------------------------------------------------------------------------------
+Operator    [1]
+--------------------------------------------------------------------------------
+(Operator Instructions) Our first question comes from Tejas Savant with Morgan Stanley.
+
+--------------------------------------------------------------------------------
+Unidentified Audience Member    [2]
+--------------------------------------------------------------------------------
+This is Yuko on the call for Tejas. You noted cost synergies of approximately $70 million annualized by '24. Could you provide a breakdown on which OpEx line you see that mostly coming from? And how should we think about the combined OpEx for the company with new launches expected next year?
+
+--------------------------------------------------------------------------------
+Mehul Joshi,  Berkeley Lights, Inc. - CFO    [3]
+--------------------------------------------------------------------------------
+Yes. This is Mehul. So we're not ready to break down the synergy by function yet. We have identified those. We will be validating them through our integration teams over the next 60 days or so. But I will make some commentary on your question.
+So IsoPlexis and Berkeley Lights are both public companies. They have public company infrastructure to support reporting and the Board of Directors and so on. So we will only need 1 public company infrastructure. So we will be able to eliminate a large part of that and that will come from typically general and administrative expenses.
+Looking at manufacturing, logistics, supply chain, as we consolidate those functions, we expect to achieve significant synergies as we leverage our purchasing power and combine our activities within operations.
+On the R&D side, what's exciting is that we'll be consolidating product road maps. And that may yield some cost synergies. But the more exciting part of that is we will be able to enhance our time-to-market on our products and services for commercialization.
+And then finally, on the commercial side, I'd say we may get some synergies on the marketing and sales support functions as I mentioned previously. But with our expanded commercial footprint, we expect to be able to drive some revenue synergies as we have complementary geographic footprints. So at a high level, that's how we're thinking about moving forward on the synergy front.
+
+--------------------------------------------------------------------------------
+Unidentified Audience Member    [4]
+--------------------------------------------------------------------------------
+Great. That was super helpful. And then as a separate follow-up, could you elaborate on the plans for reorganizing and combining the 2 sales structures? How do you plan to do this to ensure that there's minimal disruptions during the transition?
+
+--------------------------------------------------------------------------------
+Siddhartha Chandrakant Kadia,  Berkeley Lights, Inc. - CEO & Director    [5]
+--------------------------------------------------------------------------------
+Yes. It's a great question. The good news is actually there is just about enough salespeople between the 2 companies that we really need, and it's a matter of actually training our frontline sales people with the product (inaudible) portfolio. And so there is not a whole lot of reorganization to be done. It's more about providing a deeper portfolio to hand for the salespeople. I think it's going to go really well. And it allows us to build a much stronger footprint in the non-U.S. markets as we bring these 2 companies together.
+
+--------------------------------------------------------------------------------
+Operator    [6]
+--------------------------------------------------------------------------------
+Our next question comes from Dan Arias with Stifel.
+
+--------------------------------------------------------------------------------
+Evan Stampler,  Stifel, Nicolaus & Company, Incorporated, Research Division - Research Analyst    [7]
+--------------------------------------------------------------------------------
+Actually, it's Evan on for Dan. Congrats on the deal. So as I sat here listening, I'm just kind of going through the math, I look at consensus numbers. You kind of -- you look at 24% for the 2 companies combined, you're kind of at the $150 million mark already just based on, I guess, where consensus is. So I'm just trying to understand. I mean I understand this kind of pulls forward your path towards profitability. But is that kind of the only reason for this deal? Or are there like actual synergies where, hey, we have the Beacon, they have the IsoPlexis products, and we can actually port some capabilities from this machine over to this machine, and this makes the combined entity even more powerful or more or better position than it was previously. That's my first question.
+
+--------------------------------------------------------------------------------
+Siddhartha Chandrakant Kadia,  Berkeley Lights, Inc. - CEO & Director    [8]
+--------------------------------------------------------------------------------
+Yes. That's a great question. The most exciting part of our combined organization serving our technology teams. The companies have been around 8, 10 years in parallel, developing similar but at the same time, extremely complementary technologies. And we believe that by putting Berkeley Lights' ability to keep the cells alive as well as our ability to export live calls, into IsoPlexis platform can be really powerful.
+Some of the greatest things at IsoPlexis platform is customers love the ease of use and the software and the ability to really go from bench top to have full analysis with a fantastic software suite that they have. So we believe that just the commercial footprint is expanded, but the R&D capabilities are going to be quite complementary. And so together, this kind of hits all the marks as they say. It's a transaction that really brings the 2 companies that if you go back and track the history back of life sciences tools industry. All of these companies that have now gone into mid-market or large cap space, they all grow up into this same kind of world where you create a commercial channel, you create significant R&D and innovation overlap.
+And as you do that, you simplify our product portfolio as well. You don't try to go after growth for the sake of growth, and we go after higher quality growth. I think I've talked about this a lot we are focused on delivering higher quality growth versus growth for the sake of the growth. So we are focused on that operating cash flow positive, much more than anything else because we know that, that allows us to really create significant value for our shareholders.
+
+--------------------------------------------------------------------------------
+Evan Stampler,  Stifel, Nicolaus & Company, Incorporated, Research Division - Research Analyst    [9]
+--------------------------------------------------------------------------------
+I'm actually -- I'm glad you ended with that. I mean so to that point, we don't cover IsoPlexis, but just looking at kind of where consensus is right now. I mean they're forecasting 40% revenue growth next year, I believe. And so I know you've done a good job since you've come in and sort of resetting expectations. Do you kind of want to take the opportunity? Or when should we think about you maybe potentially reset any expectations there? Just because if I take consensus out to 2024, you're like well above $150 million. And so I'm just trying to understand what kind of maybe where you get closer to $150 million, whether it's coming from Berkeley or IsoPlexis?
+
+--------------------------------------------------------------------------------
+Mehul Joshi,  Berkeley Lights, Inc. - CFO    [10]
+--------------------------------------------------------------------------------
+This is Mehul. So I'll take a shot at that and then Siddhartha can add on. So the premise of the deal was -- we did not build in a lot of revenue synergies in the short to medium term. And we are really focusing on our cost synergies. We believe those revenue synergies will come over time as Siddhartha mentioned around commercial execution as well as the R&D pipeline and product road map. So I'd say that as an initial point to also your initial question there.
+And then I think what -- as we work through to closing will obviously have a much better understanding of the combined companies and a better sense of the financial modeling. So I think what we'll do is probably provide more guidance as we approach that closing time line.
+
+--------------------------------------------------------------------------------
+Evan Stampler,  Stifel, Nicolaus & Company, Incorporated, Research Division - Research Analyst    [11]
+--------------------------------------------------------------------------------
+Okay. No, that makes sense. And I guess Yes, this is all kind of new and you're just kind of going through everything right now. So let me just talk about, I guess my final question, if you don't mind. I know you posted, you put up your product road map. It looked the same as kind of when during your Analyst Day, but obviously, you added, I think you changed the name on the 2Q '23 product. I mean, obviously, you had the IsoPlexis stuff. Is there anything, any update to the product road map based on this transaction? Or is that kind of like to be determined?
+
+--------------------------------------------------------------------------------
+Siddhartha Chandrakant Kadia,  Berkeley Lights, Inc. - CEO & Director    [12]
+--------------------------------------------------------------------------------
+I think for Berkeley Lights stand a lot of our road map for sure, we will be making some specific announcements as you see them on this chart that was presented here today with a launch in Q1 and the launch in Q2. We are making strong, significant progress. The Q1 launch is about to go out as we close the year out here, and the Q2 launch looks very realistic in April time frame.
+So given that, I think the only change on this is the future system where Berkeley Lights technology platform, as you know, is quite complex and has lots of bells and whistles, as I've described in the past and allowing us to take the lower cost, simple to use fantastic software suite platform that already exists with IsoPlexis and putting some of the key differentiated technologies from Berkeley Lights onto their platform, if you will, will allow us to introduce to sell biology market an amazing set of tools that either company alone wouldn't be able to do. Our intellectual property portfolio is completely complementary in this regard.
+And it accelerates the time line by which we would have to do that, the future system from a Berkeley Lights technology point of view, it will accelerate the time line by several quarters.
+
+--------------------------------------------------------------------------------
+Operator    [13]
+--------------------------------------------------------------------------------
+Our next question comes from Chad Wiatrowski from Cowen.
+
+--------------------------------------------------------------------------------
+Chad M. Wiatrowski,  Cowen and Company, LLC, Research Division - Associate    [14]
+--------------------------------------------------------------------------------
+You have Chad on the line for Steve (inaudible). Congrats on the deal. You've spoken in the past about your prioritization of the higher ROI R&D initiatives, such as like AAV and cell and gene therapy just given IsoPlexis' expertise in cell and gene as well. Can you speed the (inaudible) sort of accelerates that initiative?
+
+--------------------------------------------------------------------------------
+Siddhartha Chandrakant Kadia,  Berkeley Lights, Inc. - CEO & Director    [15]
+--------------------------------------------------------------------------------
+Yes. I think that's the great question. And Chad, I think you nailed out of something really important. I think as we think through kind of where the innovation and biology and impact from that innovation and biologics happening on human health. The next wave of innovation is really about that cell-based products and the gene therapy products. A significant amount of our clients, whether they are big pharma, small pharma or even translational medical centers are all working towards that right now. So having IsoPlexis technology available to us, which already had a strong foothold into T-cell workloads of our customers allows us to actually get significant commercial traction with the Beacon portfolio.
+Immuno-oncology centers is one target that we had found out through our research work in the last 6 months that we need to address providing a tool from Berkeley Lights platform into that segment. We're going to do two things. We go to combine our technology with IsoPlexis technology and make it tool available in longer term. But meanwhile, the customers who have a tool from either company could be provided a suite of tools to complement what they already have. So that specific customer segment is the one that will be our focus. And Translational Research Medical Centers are almost all over the world, not only in the United States, they have become the next wave of what I would call small biotechs in the world because they have significant funding to do this kind of work, they have access to patient samples, and we plan to enable with the combined portfolio, a great amount of progress being made in that the third wave of innovation, if you will, in cell and gene therapy.
+
+--------------------------------------------------------------------------------
+Chad M. Wiatrowski,  Cowen and Company, LLC, Research Division - Associate    [16]
+--------------------------------------------------------------------------------
+Yes. Super helpful. Just another question on the commercial organization. Obviously, a pretty diverse customer base and geographic focus now. ISO had a couple of reduction in forces this year. Do you feel like this now combined force is appropriate for the combined product portfolio maybe can you speak to the priorities for these new reps? And if they have any type of efficiencies just given some stats for you complementary?
+
+--------------------------------------------------------------------------------
+Siddhartha Chandrakant Kadia,  Berkeley Lights, Inc. - CEO & Director    [17]
+--------------------------------------------------------------------------------
+Yes, I think that's a great question. As you look at the combined P&L in March when we provided as the transaction company as a close, what you will see here, there is significant available pool of resources for the combined commercial structure. As I said, we have just about enough R&D resources to really sell most of this product, but geographic ability to reach our customers is a huge differentiator in this industry. And that allows us to place people in each of the geographies locally. And in the post-COVID era, especially for selling an instrument platform, it is an extremely important step for customers to get a demonstration and to buy an instrument meets a lot of interactions with technical teams. So we believe that the combined company will have a great footprint.
+We would actually collectively be able to add resources in certain geographies where we may not have had enough resources before, and that happens to be complementary in the case of Asia Pacific, which is mostly China for Berkeley Lights has a very strong presence there. As you know, IsoPlexis is a strong and emerging presence there. We would have a combined force in EMEA that is going be stronger. We'll have to wait some further investments there, and they're going to make investments into the Asia Pacific that is not China because we believe that's where there's a significant opportunity for both company to add commercial scale.
+
+--------------------------------------------------------------------------------
+Operator    [18]
+--------------------------------------------------------------------------------
+Our next question comes from Matt Larew with William Blair.
+
+--------------------------------------------------------------------------------
+Madeline Kendall Mollman,  William Blair & Company L.L.C., Research Division - Research Analyst    [19]
+--------------------------------------------------------------------------------
+This is actually Madeline Mollman on for Matt Larew. One thing that you highlighted in your Investor Day last month was the importance of moving towards a more reoccurring revenue model. I just wanted to see how does this acquisition impact your long-term reoccurring revenue goals? Do you still expect to have about 2/3 of revenue be reoccurring by 2025? Or will this accelerate that?
+
+--------------------------------------------------------------------------------
+Siddhartha Chandrakant Kadia,  Berkeley Lights, Inc. - CEO & Director    [20]
+--------------------------------------------------------------------------------
+I think we are, our current model actually suggest that actually, we are in line with that. In fact, one of the things that is very marketable actual is even though the both companies have been pretty young and relatively new in the marketplace, collectively, we would have 400 instruments placed. And that's a significant amount of installed base to focus and get that tailwind of the recurring revenue growth both from the services and warranties that we provide for our instrument profile as well as for reagents and consumables that people consume. And the unique thing about the platform that IsoPlexis has built is that their instrument is quite flexible in introducing more consumables in the agents that go on that. So we are able to capture more recurring revenue with combination with them.
+
+--------------------------------------------------------------------------------
+Madeline Kendall Mollman,  William Blair & Company L.L.C., Research Division - Research Analyst    [21]
+--------------------------------------------------------------------------------
+Great. And then one thing that you I noticed on the slide that you've highlighted is that the IsoPlexis models tend to be lower cost than the Berkeley Lights models, as you try to increase your penetration with the Berkeley Lights models amongst the existing IsoPlexis customers, how are you going to be thinking about pricing?
+
+--------------------------------------------------------------------------------
+Siddhartha Chandrakant Kadia,  Berkeley Lights, Inc. - CEO & Director    [22]
+--------------------------------------------------------------------------------
+Yes. I think our current platform in academic market will have a need for people who have significant need for using patient samples that allow them to do unique work for T-cell workflows even oncology applications that no other platform can provide.
+And for -- from our early work in the last 6 months, as I mentioned earlier, we believe it is a market for a lower-cost Beacon that will be launched for the academic market. And as you heard us describe it in the Q2 of this year, we are going to launch that Beacon Quest, which will be focused on that academic market. It will not be at the same price point as our current Beacon for industrial applications, but it will be significantly lower cost than our platform yet it will be a higher cost than IsoPlexis's platform. It allows us to really address customers' needs by offering solutions that really meet their needs.
+
+--------------------------------------------------------------------------------
+Operator    [23]
+--------------------------------------------------------------------------------
+Our final question comes from Mark Massaro with BTIG.
+
+--------------------------------------------------------------------------------
+Mark Anthony Massaro,  BTIG, LLC, Research Division - MD & Life Science & Diagnostic Tools Analyst    [24]
+--------------------------------------------------------------------------------
+Congratulations on this deal. Obviously, it makes a lot of sense to combine 2 life science companies and the synergies are readily apparent to me. I also like the fact that you use all cash -- excuse me, all stock. And it appears that you have -- or at least at the end of Q3, you had $135 million of cash. It looks like you're going to absorb roughly a similar amount of debt and cash over Iso.
+And Siddhartha, you also indicated at your Analyst Day that you would contemplate acquisitions or at least you wouldn't rule them out. So given that you still have over $100 million of cash in the balance sheet, this looks to be nicely complementary. Should we think about you potentially building a more diversified tools company and, and so in other words, is it possible for you to consider some additional complementary M&A going forward?
+
+--------------------------------------------------------------------------------
+Siddhartha Chandrakant Kadia,  Berkeley Lights, Inc. - CEO & Director    [25]
+--------------------------------------------------------------------------------
+It's a great question, Mark. Look, I think our long-term vision here is to create the premier functional cell biology company, and that does indeed mean that we would be putting together more tools together. The entire life sciences tools industry is built on that. So I don't think there's any sort of question that there is a significant room for doing that. Of course, we have to digest what we've just done, we have to work together.
+And we will be opportunistic. As you know, the marketplace is right now interesting, to say the list in the next 12 months, but we have a lot of work to do right now. So you should expect us to be laser focused on delivering the $70 million of synergies that we talked about and delivering on our product road map.
+
+--------------------------------------------------------------------------------
+Mark Anthony Massaro,  BTIG, LLC, Research Division - MD & Life Science & Diagnostic Tools Analyst    [26]
+--------------------------------------------------------------------------------
+Yes. I know you were asked a question about Iso consensus revenue, and I don't expect you to guide for 2023 on this call. However, it is pretty apparent that, it appears that there's approximately $20 million of base revenue coming over. I assume that, that will continue to grow, and also the installed base has been growing at around 20 to 25 systems per quarter over at Iso, so is it fair to think that you're comfortable with at least $20 million of revenue from Iso next year and kind of expanding that installed base on a similar run rate?
+
+--------------------------------------------------------------------------------
+Siddhartha Chandrakant Kadia,  Berkeley Lights, Inc. - CEO & Director    [27]
+--------------------------------------------------------------------------------
+I'm not going to provide any forward-guiding forecast on a business that we are just announcing that we are acquiring right now. However, what I would tell you is that the combined company is going to focus on profitable growth, number one; and b, positive cash flow by 2024. And we are not going to measure ourselves on specific region or a specific instrument. We're going to focus on building a company, building a great company, and we believe that between the combined footprint, we have plenty of levers to go do that.
+
+--------------------------------------------------------------------------------
+Mark Anthony Massaro,  BTIG, LLC, Research Division - MD & Life Science & Diagnostic Tools Analyst    [28]
+--------------------------------------------------------------------------------
+Okay. And maybe just one last nit-picky question. Your gross margins came in at 70% in Q3. Iso's came in at 50% and, last month at your Analyst Day, you laid out a target to hit 70% gross margins by 2025. Maybe help me a bit of how you can still get there or if that's still a target. And maybe point me to any pickup in recurring revenue that perhaps could bridge the gap there.
+
+--------------------------------------------------------------------------------
+Mehul Joshi,  Berkeley Lights, Inc. - CFO    [29]
+--------------------------------------------------------------------------------
+Well, I think you answered your own question that we are going to be laser focused on recurring revenue and both on the Berkeley Lights platform as well as the IsoPlexis platform. And we expect to hit approximately 70% gross margin on the Berkeley Lights side, we'll -- as we begin integration, we'll evaluate the ability for IsoPlexis to do that. They do have a manufacturing facility and has throughput through that factory increases more costs can be absorbed, and we believe that can enable gross margin expansion for IsoPlexis product. So -- but we'll work through all of that over the next 90 days.
+
+--------------------------------------------------------------------------------
+Operator    [30]
+--------------------------------------------------------------------------------
+There are no further questions at this time, which concludes today's conference. Thank you for attending today's presentation. You may now disconnect.
+
+
+
+
+
+
+
+--------------------------------------------------------------------------------
+Definitions
+--------------------------------------------------------------------------------
+PRELIMINARY TRANSCRIPT: "Preliminary Transcript" indicates that the 
+Transcript has been published in near real-time by an experienced 
+professional transcriber.  While the Preliminary Transcript is highly 
+accurate, it has not been edited to ensure the entire transcription 
+represents a verbatim report of the call.
+
+EDITED TRANSCRIPT: "Edited Transcript" indicates that a team of professional 
+editors have listened to the event a second time to confirm that the 
+content of the call has been transcribed accurately and in full.
+
+--------------------------------------------------------------------------------
+Disclaimer
+--------------------------------------------------------------------------------
+Refinitiv reserves the right to make changes to documents, content, or other 
+information on this web site without obligation to notify any person of 
+such changes.
+
+In the conference calls upon which Event Transcripts are based, companies 
+may make projections or other forward-looking statements regarding a variety 
+of items. Such forward-looking statements are based upon current 
+expectations and involve risks and uncertainties. Actual results may differ 
+materially from those stated in any forward-looking statement based on a 
+number of important factors and risks, which are more specifically 
+identified in the companies' most recent SEC filings. Although the companies 
+may indicate and believe that the assumptions underlying the forward-looking 
+statements are reasonable, any of the assumptions could prove inaccurate or 
+incorrect and, therefore, there can be no assurance that the results 
+contemplated in the forward-looking statements will be realized.
+
+THE INFORMATION CONTAINED IN EVENT TRANSCRIPTS IS A TEXTUAL REPRESENTATION
+OF THE APPLICABLE COMPANY'S CONFERENCE CALL AND WHILE EFFORTS ARE MADE TO
+PROVIDE AN ACCURATE TRANSCRIPTION, THERE MAY BE MATERIAL ERRORS, OMISSIONS,
+OR INACCURACIES IN THE REPORTING OF THE SUBSTANCE OF THE CONFERENCE CALLS.
+IN NO WAY DOES REFINITIV OR THE APPLICABLE COMPANY ASSUME ANY RESPONSIBILITY FOR ANY INVESTMENT OR OTHER
+DECISIONS MADE BASED UPON THE INFORMATION PROVIDED ON THIS WEB SITE OR IN
+ANY EVENT TRANSCRIPT. USERS ARE ADVISED TO REVIEW THE APPLICABLE COMPANY'S
+CONFERENCE CALL ITSELF AND THE APPLICABLE COMPANY'S SEC FILINGS BEFORE
+MAKING ANY INVESTMENT OR OTHER DECISIONS.
+--------------------------------------------------------------------------------
+Copyright 2023 Refinitiv. All Rights Reserved.
+--------------------------------------------------------------------------------

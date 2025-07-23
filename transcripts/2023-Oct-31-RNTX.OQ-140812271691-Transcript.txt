@@ -1,0 +1,129 @@
+
+
+Refinitiv StreetEvents Event Transcript
+E D I T E D  V E R S I O N
+
+Aileron Therapeutics Inc M&A Call
+October 31, 2023 / 5:30PM UTC
+
+================================================================================
+Corporate Participants
+================================================================================
+
+ * Susan Drexler
+   Aileron Therapeutics, Inc. - Interim CFO
+ * Manuel Aivado
+   Aileron Therapeutics, Inc. - CEO
+ * Brian Windsor
+   Aileron Therapeutics, Inc. - COO & President
+
+================================================================================
+Conference Call Participants
+================================================================================
+
+ * Operator
+   
+
+================================================================================
+presentation
+--------------------------------------------------------------------------------
+Operator,     [1]
+--------------------------------------------------------------------------------
+Good morning, and welcome to the Aileron Therapeutics conference call to discuss the acquisition of Lung Therapeutics. (Operator Instructions) Please be advised that this audio presentation is being recorded.
+Now, I'd like to turn the call over to Susan Drexler, Chief Financial Officer of Aileron. Mr. Drexler?
+--------------------------------------------------------------------------------
+Susan Drexler, Aileron Therapeutics, Inc. - Interim CFO    [2]
+--------------------------------------------------------------------------------
+Thank you, operator, and good afternoon, everyone. Earlier today, we issued a press release that outlined our acquisition of Lung Therapeutics. This release is available at aileronrx.com under the Investors and Media tab.
+Before we begin, I would like to remind everyone that statements made during this webcast relating to Aileron's expected future performance, future business prospects, or future events or plans may include forward-looking statements as defined under the Private Securities Litigation Reform Act of 1995. As such, forward-looking statements are intended to be subject to the Safe Harbor protection provided by the Reform Act.
+Actual outcomes and results could differ materially from those forecast due to the impact of many factors beyond the control of Aileron. Aileron expressly disclaims any duty to provide updates to its forward-looking statements, whether as a result of new information, future events, or otherwise. Participants are directed to the risk factors set forth in Aileron's reports filed with the Securities and Exchange Commission.
+During the call today, our Chief Executive Officer, Manuel Aivado, will provide introductory remarks on the acquisition of Lung Therapeutics. Our newly appointed President and Chief Operating Officer, Brian Windsor, will provide details of our clinical development programs. And I will review details of the acquisition and concurrent private placement financing.
+It is now my pleasure to pass the call over to Manuel Aivado, CEO for Aileron.
+--------------------------------------------------------------------------------
+Manuel Aivado, Aileron Therapeutics, Inc. - CEO    [3]
+--------------------------------------------------------------------------------
+Thank you, Susan, and thank you all for joining us today. About an hour ago, we announced the completed acquisition of Lung Therapeutics, a privately held biotechnology company focused on the development of novel therapies for the treatment of orphan pulmonary and fibrosis indications that have no approved or limited effective treatments.
+I'm pleased to be able to share this news with you, and the details on our programs are available in an updated slide presentation that can be found on our website. In February, we announced that Aileron's Board of Directors had determined that it was in the best interest, both the company and its shareholders, to explore a range of strategic alternatives to maximize shareholder value. We believe the acquisition of Lung Therapeutics represents such value creation opportunity for Aileron's stockholders. We would like to thank our Board members, management, and employees, both past and present, alongside our investors for their commitment and their support.
+In addition to the acquisition, Aileron also announced that we entered into a definitive agreement for the sale of Series X non-voting, convertible preferred stock and warrants to purchase shares of Aileron's common stock in a private placement to a group of accredited investors. The private placement was led by Bios Partners, the principal shareholder of Lung Therapeutics, and includes Nantahala Capital as well as additional undisclosed investors. (inaudible) will provide more details on the pipe shortly, but proceeds will be primarily used to complete the ongoing Phase 1b clinical study for LTI-03 and for general corporate purposes.
+Our priority effectively immediately is to advance our lead clinical program, LTI-03, for the treatment of idiopathic pulmonary fibrosis, which is also known as IPF. LTI-03 is a novel Caveolin-1-related peptide with a dual mechanism, targeting both alveolar epithelial cell survival as well as inhibition of pro-fibrotic signaling. Currently approved treatments and candidates in development primarily focus on only reducing pro-fibrotic signaling.
+It is now my great pleasure to introduce Dr. Brian Windsor, who joins us as President and Chief Operating Officer. Brian has been the President and CEO of Lung Therapeutics since 2013. During his tenure, he spearheaded three equity rounds of funding and advanced two programs through preclinical testing into clinical development. He also spun out technology into TFF Pharmaceuticals, which is a Nasdaq-listed company, and he has successfully led the formation and execution of early-stage life science companies over the past 23 years. We are honored to welcome Brian to our team. Brian, please.
+--------------------------------------------------------------------------------
+Brian Windsor, Aileron Therapeutics, Inc. - COO & President    [4]
+--------------------------------------------------------------------------------
+Thanks, Manuel, and thanks to everyone for participating in today's call. I'm excited by the opportunity to join Aileron as we pursue a new strategic direction that will focus on advancing pulmonary and fibrosis treatment options for untreated or poorly treated patients with pulmonary and fibrotic diseases.
+I would like to briefly provide an introduction to our two clinical candidates. Aileron will continue to advance Lung's lead clinical-stage compound LTI-03, which is a synthetic peptide in development for idiopathic pulmonary fibrosis or IPF. IPF is a progressive, fatal, age-associated lung disease affecting approximately 100,000 people in the United States. In IPF, the lungs become scarred or fibrotic and damaged, causing difficulty in breathing. It is a fatal condition with a median survival from diagnosis of only two to five years.
+Two approved drugs, nintedanib and pirfenidone, have been shown to reduce the rate of lung function decline, but unfortunately provide only modest clinical benefit to IPF patients. Preclinical studies of LTI-03, including studies of biopsy tissue from IPF patients, has shown inhibition of numerous pro-fibrotic proteins as well as the ability to protect Type II epithelial cells, the primary progenitor cells of the lung epithelium. LTI-03 completed a Phase 1a clinical trial in healthy volunteers and is currently being evaluated in a randomized, double-blind, placebo-controlled Phase 1b clinical trial in IPF patients.
+Our second clinical-stage candidate, LTI-01, is a proenzyme fibrinolytic in development for the treatment of loculated pleural effusions, or LPEs, an orphan condition for which there are no currently approved therapeutics. LPEs are typically a complication of pneumonia and develop from pockets of infected fluid. LTEs can result in pain, shortness of breath, and can rapidly lead to sepsis and death.
+Surgery is the only medically approved treatment to train an LPE, which is essential to resolving the underlying infection. Given the risks of surgery and extensive days of hospitalization required post surgical intervention, fibrinolytic drugs have been used off-label in patients with LPEs to promote pleural effusion drainage and have become the standard-of-care treatment for treating LPEs in most institutions. In the US, it is estimated that LPEs affect over 60,000 patients each year. And based upon our market research, over half of these patients are receiving off-label fibrinolytic.
+LTI-01 has demonstrated signs of safety and preliminary efficacy and completed Phase 1b and Phase 2a clinical trials in LPE patients. LTI-01 Phase 2b ready. Ultimately, if approved, LTI-01 could be the first candidate to have a biologics license application, or BLA, filed with the US Food and Drug Administration with associated market exclusivity.
+Our pipeline also includes preclinical programs focused on other fibrosis indications based on the Caveolin-1-related mechanism of LTI-03. Caveolin-1 has been shown to play a role in fibrosis in organs other than the lungs, including the heart and kidney.
+I'm excited to be joining the Aileron leadership team, working alongside Manuel and Susan, as we continue the development and progress of our clinical and preclinical programs. Together, we'll work to advance our mission of developing first-in-class medicines for unmet medical needs in fibrosis and lung disease.
+With that, I'd like to turn the presentation back over to Susan Drexler to provide more details on the structure of the acquisition and concurrent financing.
+--------------------------------------------------------------------------------
+Susan Drexler, Aileron Therapeutics, Inc. - Interim CFO    [5]
+--------------------------------------------------------------------------------
+Thank you, Brian. The acquisition of Lung Therapeutics was structured as a stock-for-stock transaction, whereby all of Lung Therapeutics' outstanding equity interests were exchanged for a combination of shares of Aileron common stock and shares of a newly issued Series X non-voting, convertible preferred stock.
+With the acquisition of Lung Therapeutics, Aileron entered into a definitive agreement for the sale of Series X non-voting, convertible preferred stock and warrants to purchase shares available on common stock in a private placement to a group of accredited investors, led by Bios Partners and includes Nantahala Capital, as well as additional undisclosed investors. The private placement is expected to result in gross proceeds to Aileron of approximately $18 million, including the conversion of certain convertible promissory notes in the aggregate principal amount of approximately $1.6 million issued by Lung Therapeutics to Bios Partners prior to the acquisition.
+In the private placement, investors have agreed to purchase an aggregate of approximately 4,707 shares of Series X preferred stock and warrants to purchase up to an aggregate of approximately 2,353,500 shares of Aileron common stock. The warrants will be exercisable any time after the latter of May 2, 2024, on the date stockholder approval with the conversion rights of the Series X preferred stock is obtained and on or prior to May 2, 2027, at an exercise price of $4.89.
+The PIPE offering is expected to close on November 2, 2023. Subject to stockholder approval, each share of Series X preferred stock will convert into a 1,000 shares of Aileron common stock subject to certain beneficial ownership limitations initially set at and not to exceed 19.99. On a pro forma basis, based on the number of shares of Aileron common stock and Series X preferred stock issued in the acquisition and the concurrent financing and assuming the conversion of all such Series X preferred stock to Aileron common stock, but excluding any potential exercise of warrants issued in the concurrent financing, Aileron equity holders immediately prior to the acquisition will own approximately 14% of Aileron on an as-converted basis immediately after these transactions.
+The proceeds from the private placement are intended to be used primarily to complete the ongoing Phase 1b clinical study of LTI-03 and for general corporate purposes. As of September 30, 2023, on a pro forma basis, to give effect to the receipt of cash of gross proceeds of the private placement, Aileron and Lung Therapeutics combined cash and cash equivalents was approximately $29 million. Based on Aileron's current operating plan, Aileron estimates that these cash resources will enable Aileron to fund its operating expenses and capital expenditure requirements as currently planned into the fourth quarter 2024.
+I will now turn the presentation back to Manuel Aivado to provide closing remarks.
+--------------------------------------------------------------------------------
+Manuel Aivado, Aileron Therapeutics, Inc. - CEO    [6]
+--------------------------------------------------------------------------------
+Thank you, and thank you all for joining us today to learn more about the exciting developments at Aileron, including the acquisition of Lung Therapeutics and our vision of advancing novel therapies for patients with orphan pulmonary and fibrosis indications that are underserved by current treatments. We are very excited about our pipeline and the future potential for LTI-03 to treat IPF and for LTI-01 to treat LPE.
+We look forward to providing additional updates as we continue to advance our pipeline. We will not be taking any questions today, but we look forward to responding to questions following the completion of the integration of Aileron and Lung Therapeutics. Thank you again for your interest in Aileron Therapeutics.
+--------------------------------------------------------------------------------
+Operator,     [7]
+--------------------------------------------------------------------------------
+This concludes the Aileron Therapeutics call today. Thank you for attending. A recording of today's call will be available for playback for 90 days. More details can be found on the Aileron website, aileronrx.com. You may now disconnect.
+
+
+
+
+
+
+--------------------------------------------------------------------------------
+Definitions
+--------------------------------------------------------------------------------
+Preliminary Transcript: "Preliminary Transcript" indicates that the 
+Transcript has been published in near real-time by an experienced 
+professional transcriber.  While the Preliminary Transcript is highly 
+accurate, it has not been edited to ensure the entire transcription 
+represents a verbatim report of the call.
+
+EDITED TRANSCRIPT: "Edited Transcript" indicates that a team of professional 
+editors have listened to the event a second time to confirm that the 
+content of the call has been transcribed accurately and in full.
+
+--------------------------------------------------------------------------------
+Disclaimer
+--------------------------------------------------------------------------------
+Refinitiv reserves the right to make changes to documents, content, or other 
+information on this web site without obligation to notify any person of 
+such changes.
+
+In the conference calls upon which Event Transcripts are based, companies 
+may make projections or other forward-looking statements regarding a variety 
+of items. Such forward-looking statements are based upon current 
+expectations and involve risks and uncertainties. Actual results may differ 
+materially from those stated in any forward-looking statement based on a 
+number of important factors and risks, which are more specifically 
+identified in the companies' most recent SEC filings. Although the companies 
+may indicate and believe that the assumptions underlying the forward-looking 
+statements are reasonable, any of the assumptions could prove inaccurate or 
+incorrect and, therefore, there can be no assurance that the results 
+contemplated in the forward-looking statements will be realized.
+
+THE INFORMATION CONTAINED IN EVENT TRANSCRIPTS IS A TEXTUAL REPRESENTATION
+OF THE APPLICABLE COMPANY'S CONFERENCE CALL AND WHILE EFFORTS ARE MADE TO
+PROVIDE AN ACCURATE TRANSCRIPTION, THERE MAY BE MATERIAL ERRORS, OMISSIONS,
+OR INACCURACIES IN THE REPORTING OF THE SUBSTANCE OF THE CONFERENCE CALLS.
+IN NO WAY DOES REFINITIV OR THE APPLICABLE COMPANY ASSUME ANY RESPONSIBILITY FOR ANY INVESTMENT OR OTHER
+DECISIONS MADE BASED UPON THE INFORMATION PROVIDED ON THIS WEB SITE OR IN
+ANY EVENT TRANSCRIPT. USERS ARE ADVISED TO REVIEW THE APPLICABLE COMPANY'S
+CONFERENCE CALL ITSELF AND THE APPLICABLE COMPANY'S SEC FILINGS BEFORE
+MAKING ANY INVESTMENT OR OTHER DECISIONS.
+--------------------------------------------------------------------------------
+Copyright 2023 Refinitiv. All Rights Reserved.
+--------------------------------------------------------------------------------

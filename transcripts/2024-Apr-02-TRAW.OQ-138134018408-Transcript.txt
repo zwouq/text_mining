@@ -1,0 +1,174 @@
+
+
+Refinitiv StreetEvents Event Transcript
+E D I T E D  V E R S I O N
+
+Onconova Therapeutics Inc To Discuss Proposed Transaction With Trawsfynydd Therapeutics Inc
+April 02, 2024 / 12:30PM UTC
+
+================================================================================
+Corporate Participants
+================================================================================
+
+ * Bruce Mackle
+   LifeSci Advisors, LLC - IR
+ * Steven Fruchtman
+   Onconova Therapeutics Inc - President, Chief Executive Officer, Director
+ * Mark Guerin
+   Onconova Therapeutics Inc - Chief Financial Officer, Chief Operating Officer
+
+================================================================================
+Conference Call Participants
+================================================================================
+
+ * Operator
+   
+ * Werner Cautreels
+   Traws Pharma, Inc. - CEO & Executuve Chairman
+ * Ahu Demir
+   Ladenburg Thalmann & Co. Inc. - Analyst
+ * David Pauza
+   Trawsfynydd Therapeutics, Inc. - Chief Scientific Officer, Virology
+ * Robert Redfield
+   Trawsfynydd Therapeutics, Inc. - Chief Medical Officer
+
+================================================================================
+presentation
+--------------------------------------------------------------------------------
+Operator,     [1]
+--------------------------------------------------------------------------------
+Greetings and welcome to the Onconova Therapeutics corporate update and strategic combination with Trawsfynydd Therapeutics call. (Operator Instructions) As a reminder, this conference is being recorded.
+I would now like to turn the conference over to your host, Mr. Bruce Mackle with LifeSci Advisors. Thank you. You may begin.
+--------------------------------------------------------------------------------
+Bruce Mackle, LifeSci Advisors, LLC - IR    [2]
+--------------------------------------------------------------------------------
+Thank you, operator, and welcome, everyone. Joining me today are Dr. Steven Fruchtman, President and CEO of Onconova, and President and CSO, Oncology of Traws Pharma; Mark Guerin, Chief Financial Officer of Onconova and Traws Pharma; and Dr. Werner Cautreels, Incoming CEO of Traws Pharma.
+Before we begin, please note that today's call contains forward-looking statements, the accuracy of which depends on future events outside Onconova's, Trawsfynydd's, and Traws Pharma's control and therefore could cause actual results to differ materially from those forward-looking statements. The forward-looking statements are made as of the date of this call only.
+Additional information regarding the risks and uncertainties and other important factors, any of which could cause actual results to differ from those contained in these forward-looking statements, are described in the section titled Risk Factors in Onconova's annual report on Form 10-K filed yesterday, April 1, 2024, and in other filings that Traws makes and will make with the SEC.
+With that, I will now turn the call over to Dr. Steve Fruchtman.
+--------------------------------------------------------------------------------
+Steven Fruchtman, Onconova Therapeutics Inc - President, Chief Executive Officer, Director    [3]
+--------------------------------------------------------------------------------
+Thanks, Bruce, and everyone who is joining us today. This morning at 7:00 AM Eastern Standard Time, Onconova and Trawsfynydd issued a joint press release to announce that the companies have entered into a definitive merger agreement to combine in an all-stock transaction. The new combined company will be named Traws Pharma. Traws Pharma will be focused on developing next-generation best-in-class antivirals for influenza, COVID, and other respiratory infections, and defining the recommended Phase 2 dose for narazaciclib in cancer.
+During this morning's call, Mark Guerin will review the transaction, including details related to a concurrent private placement. Werner Cautreels will provide an introduction to Traws Pharma, and then we will have a question-and-answer session with two additional members of the Traws team, Dr. Robert Redfield, Chief Medical Officer, and Dr. David Pauza, Chief Scientific Officer of Virology at Traws Pharma.
+Now, I would like to turn the call over to Mark. Mark?
+--------------------------------------------------------------------------------
+Mark Guerin, Onconova Therapeutics Inc - Chief Financial Officer, Chief Operating Officer    [4]
+--------------------------------------------------------------------------------
+Thank you, Steve, and good morning, everyone. As Steve said, this morning, Onconova and Trawsfynydd announced that the companies have entered into a definitive merger agreement to combine in an all-stock transaction.
+I'll take the next few minutes to review the transaction, and, for simplicity, I will describe the details using rounded numbers and refer you to the press release for specific detailed information. I will cover the merger, the private placement, the ownership composition and equity value of the transaction, and the contingent value rights, also called CVR.
+So starting with the merger. Under the terms of the agreement, Onconova acquired 100% of Trawsfynydd's outstanding equity interest. The combined company will begin trading on Nasdaq under the new ticker symbol TRAW, commencing prior to the opening of trading tomorrow, Wednesday, April 3, 2024. For the private placement in connection with the merger, Traws announced that it will raise $14 million in a committed private placement financing by OrbiMed and Torrey Pines. Private placement is expected to close tomorrow, April 23, 2024.
+Upon closing of the private placement, Traws expects to have an excess of $28 million in cash and cash equivalents from the proceeds of the private placement and cash from both companies. These proceeds will be used to advance the Traws programs through multiple clinical data catalysts, including completion of the dose-ranging studies for narazaciclib.
+Regarding the ownership breakout and fully diluted equity value of the transaction, here's a summary of the shares that Onconova issued in the transaction. Again, we've used rounded numbers for simplicity during this call.
+In connection with the merger, the stockholders of Trawsfynydd received an aggregate of approximately 3.5 million shares of common stock and approximately 10,400 shares of newly issued Series C non-voting convertible preferred stock, with a conversion ratio of preferred to common at 1 for 10,000, also known as the Series C preferred stock.
+Also, in connection with the private financing, OrbiMed and Torrey Pines received an aggregate of approximately 497,000 shares of common stock and approximately 1,600 shares of Series C preferred stock, with the same 1 for 10,000 conversion ratio I just noted.
+What this represents, an ownership on a fully diluted basis, is 75.7% for Trawsfynydd, 13.7% for Onconova, and 10.6% for new investors, with a combined fully diluted equity value of $132 million excluding transaction fees. The shares of common stock which are issuable upon conversion of the Series C preferred stock shall be subject to stockholder approval and compliance with the rules of the Nasdaq stock market.
+Finally, regarding the contingent value right or CVR. In connection with the transaction, a non-transferable contingent value right will be distributed to Onconova's stockholders of record as of the close of business on April 15, 2024. Holders of the CVR will be entitled to receive certain proceeds received by Onconova, if any, related to the disposition, net sales or monetization of narazaciclib and rigosertib. I'm happy to take any questions on the transaction during the Q&A.
+I'd now like to hand the call over to Incoming Traws CEO, Werner Cautreels. Werner?
+--------------------------------------------------------------------------------
+Werner Cautreels, Traws Pharma, Inc. - CEO & Executuve Chairman    [5]
+--------------------------------------------------------------------------------
+Thank you, Mark, and again, good morning, everybody. I want to start by telling you that I'm very pleased to announce the combination of Onconova and Trawsfynydd at this important time and to join the combined company as the CEO. I'd like to take the next few minutes to introduce you to the team and then provide a high-level overview of the programs and upcoming milestones. We look forward to provide more details on the programs as the year unfolds.
+In this section, I will therefore cover the management team and the Board; an overview of the influenza, COVID-19, and narazaciclib programs; and a roadmap of the upcoming milestones through 2024 and into 2025. And then we will open the floor for questions.
+Traws Pharma will focus on developing next-generation best-in-class antivirals for influenza, and COVID-19, and other respiratory infections. And we will define the recommended Phase 2 dose for the oncology compound, narazaciclib. Traws will be supported by a group of highly respected advisers with unparalleled expertise in both viral disease and in oncology.
+So let's start with the people, and first, the Traw's management team. That will include me as the Incoming CEO; Steven Fruchtman as President and CSO, Oncology; Mark Guerin as CFO; Dr. Robert Redfield as the Chief Medical Officer; David Pauza from Trawsfynydd as CSO, Virology; and also, Nikolay Savchuk from Trawsfynydd and a general partner of Torrey Pines as COO.
+Turning to the Board of Directors. It will be comprised of Trawsfynydd's Chairman, Dr. Iain Dukes, a venture partner at OrbiMed, who will be the Executive Chairman; myself as the Incoming CEO; Dr. Nikolay Savchuk from Trawsfynydd and a general partner of Torrey Pines; as well as four existing Onconova Directors and those are Trafford Clarke, James Marino, Theresa Shoemaker, and Jack Stover.
+As we turn to the pipeline, I want to tell you what attached me to lead towards Traws Pharma. I am joined Traws at an important inflection point as the company readies to initiate Phase 2 studies in the second half of 2024 for the lead antiviral programs for influenza and COVID-19. From the start, the people and the science at Trawsfynydd and the potential to develop best-in-class antivirals has been at the core of my enthusiasm for joining what is now called Traws Pharma.
+I believe that the pipeline, that also includes narazaciclib, is very promising and at an important point in time with the potential to generate several short-term value inflection points and meaningful Phase 2 data over the next 9 to 18 months. Not only do we have a strong management team and exceptional world-class advisers, but we are supported by lead investors, OrbiMed and Torrey Pines.
+I want to touch on each of the three programs next. We'll plan to cover any questions with the Traws team members present today, including former CDC Director, Dr. Robert Redfield, Dr. David Pauza, and as well Dr. Steven Fruchtman.
+First, for TRX100 or viroksavir, which is a cap-dependent endonuclease inhibitor for influenza, currently in Phase 1. Viroksavir targets the cap-dependent endonuclease of influenza and is a potent inhibitor of influenza virus replication, including A and B strains. Preclinical data showed that TRX100 inhibits viral replication of pandemic-potential influenza viruses circulating in nature. And importantly, also in oseltamivir and baloxavir-resistant viruses.
+Trawsfynydd completed a first Phase 1 study last year that demonstrated safety and tolerability in healthy volunteers. The study also provided pharmacokinetic and pharmacodynamic data to support the potential use of a single oral dose administration for either treatment or prophylaxis.
+Looking ahead to the next milestones for viroksavir. First, we plan to conduct a Phase 1 dose extension study to evaluate two additional higher doses prior to the initiation of Phase 2 studies in the second half of 2024. Top-line data from the Phase 2 study are expected in the first half of 2025.
+Second, for TRX01 or travaltrevir. Travaltrevir is a potent oral inhibitor of the SARS-CoV-2 Mpro protease, that is also known as the 3CL protease. The compound is effective against the original, like the Delta and Omicron variants of SARS-CoV-2, with potentially superior properties to nirmatrelvir, which is Pfizer’s Mpro inhibitor, PAXLOVID.
+One of the most important potential differentiating features of travaltrevir is that it does not require co-administration with a human cytochrome P450 inhibitor, such as ritonavir, therefore avoiding potential significant drug-drug interactions. This feature provides the opportunity to expand the number of eligible patients. Travaltrevir has been shown to be safe in GLP tox studies with no adverse events in the expected human dose range. The drug candidate's pharmacokinetic profile may enable a once-daily 10-day treatment regimen, which could reduce the likelihood of viral rebound.
+Looking ahead to the next milestones for travaltrevir. First, screening in normal volunteers was initiated in the Phase 1 first-in-human single and multiple dose study, and that was done in the first quarter of 2024. We expect to report top-line data of this Phase 1 trial in the second half of 2024. We plan to initiate a Phase 2 study with travaltrevir in the second half of 2024. That study will enroll people with moderate to severe COVID-19, and we anticipate reporting top-line data in the first half of 2025.
+I want to provide also an update on narazaciclib, Onconova's next-generation CDK4/6 inhibitor in development for low-grade endometrial cancer or LGEEC. Narazaciclib's mechanism of action in LGEEC has been validated by Phase 2 studies with other approved CDK4/6 inhibitors, like palbociclib from Pfizer, ribociclib from Novartis, and abemaciclib from Lilly.
+Narazaciclib has several characteristics that could differentiate it from other agents, including reduced gastrointestinal and hematological toxicities, which may permit daily administration without the need for drug holidays as they are employed by other approved agents to manage severe bone marrow suppression. Together with additional pharmacological aspects, these features could provide narazaciclib with a better efficacy safety ratio compared to approved products.
+The program is currently in Phase 1/2 studies, with and without the hormone therapy letrozole. And these studies are designed to define the recommended Phase 2 dose. Therefore, the next milestone for narazaciclib is the definition of a recommended Phase 2 dose and the definition of the development strategy for LGEEC and potential other indications.
+In closing, I believe that Traws has unique opportunity to improve the care of respiratory viruses, such as influenza and COVID-19, as well as to improve treatment in cancer patients with LGEEC and potentially other indications. With several clinical catalysts ahead, a world-class team, and strong investor support, I believe that Traws Pharma is well positioned to achieve important value inflection points over the next 9 to 18 months, and we look forward to keep you updated on our progress.
+With that, I will turn it over to the operator for Q&A.
+
+================================================================================
+q-and-a
+--------------------------------------------------------------------------------
+Operator,     [1]
+--------------------------------------------------------------------------------
+(Operator Instructions) Ahu Demir, Ladenburg Thalmann.
+--------------------------------------------------------------------------------
+Ahu Demir, Ladenburg Thalmann & Co. Inc. - Analyst    [2]
+--------------------------------------------------------------------------------
+Good morning. Thank you for taking my questions and congrats on the merger. I have two questions. I'll start with the antiviral pipeline. Could you highlight the major differentiations of travaltrevir compared to other protease inhibitors for COVID 19?
+--------------------------------------------------------------------------------
+Werner Cautreels, Traws Pharma, Inc. - CEO & Executuve Chairman    [3]
+--------------------------------------------------------------------------------
+Thank you for your question. I think this is a good question for our CSO, Virology, David Pauza. Can you take that question, David?
+--------------------------------------------------------------------------------
+David Pauza, Trawsfynydd Therapeutics, Inc. - Chief Scientific Officer, Virology    [4]
+--------------------------------------------------------------------------------
+Yes, Thank you, Werner. The TRX01 for COVID is best-in-class for potency, both in terms of biochemical assays and assays for virus replication reduction in vitro. The compound also has a superior pharmacologic profile with excellent safety. And we plan for the initial studies to be a 10-day dose regimen, which is a significant differentiation from all other compounds in the market. The 10-day dose regimen is intended, as Werner mentioned earlier, to suppress the rate of rebound, which is at very high levels in current therapeutics and in the current disease condition. Thank you.
+--------------------------------------------------------------------------------
+Robert Redfield, Trawsfynydd Therapeutics, Inc. - Chief Medical Officer    [5]
+--------------------------------------------------------------------------------
+And David, this is Redfield, I would just add the other distinguishing feature, say, against a competitor like PAXLOVID, is it does not require any co-administration of a PK enhancer, like ritonavir.
+--------------------------------------------------------------------------------
+Ahu Demir, Ladenburg Thalmann & Co. Inc. - Analyst    [6]
+--------------------------------------------------------------------------------
+Thank you, that's helpful. So my other question will be about oncology pipeline. For narazaciclib, is there a point to make a go, no-go decision? Curious about that. And also, it sounds like rigosertib is not part of the pipeline so there is no effort to move forward with that in our lab. Is that correct?
+--------------------------------------------------------------------------------
+Werner Cautreels, Traws Pharma, Inc. - CEO & Executuve Chairman    [7]
+--------------------------------------------------------------------------------
+Thank you. Like for any pipeline, of course, this will all be data driven. But on the oncology aspects, maybe, Steve, can you add some more color to that?
+--------------------------------------------------------------------------------
+Steven Fruchtman, Onconova Therapeutics Inc - President, Chief Executive Officer, Director    [8]
+--------------------------------------------------------------------------------
+Sure, Werner, and thank you for your question, Ahu. And as you know, very excited about the potential for narazaciclib. Of course, from a safety potential, this drug can be given every day, once a day, which is unique amongst all the health (technical difficulty) CDK4/6 inhibitors. Two of these drugs require a one-week holiday to prevent -- to permit the bone marrow cells to replicate. Of course, in that week, cold tumor cells may also have the capacity to replicate and not be inhibited during the drug holiday.
+So based on our studies to date, narazaciclib does not require such a drug holiday. We've not seen significant diarrhea. We've not seen interstitial lung disease which has been reported with all the other CDK4/6 inhibitors. So again, based on safety and ultimately efficacy, we hope to bring narazaciclib to the market.
+Regarding rigosertib, as you know, this has had quite profound and impressive results in the ultra-rare disease of squamous cell carcinoma, complicating [ardeb]. The plan at this point is the FDA has been very helpful for us to understand the pathway to orphan designation, which is the first step in the development pathway for future studies with rigosertib. And we anticipate that those interactions with the orphan group -- at FDA will continue.
+--------------------------------------------------------------------------------
+Ahu Demir, Ladenburg Thalmann & Co. Inc. - Analyst    [9]
+--------------------------------------------------------------------------------
+Got it. And if we can include one more question -- thank you, Steve -- one more question. $28 million cash, what is the runway, given the multiple programs that you plan to run? Thank you so much for taking all my questions.
+--------------------------------------------------------------------------------
+Werner Cautreels, Traws Pharma, Inc. - CEO & Executuve Chairman    [10]
+--------------------------------------------------------------------------------
+Thank you for that question. We have definitely a view on the company's resources. Regarding the financial resources, the cash balance at closing of about $28 million will allow us to reach the milestones of the three assets that we give priority to in the pipeline. That is to complete Phase 1 for the influenza project, complete Phase 1 for the COVID project, and reach the recommended Phase 2 dose for narazaciclib. We will also work on the initiation of the next steps for the clinical development of the projects, and the $28 million will allow us to do that.
+--------------------------------------------------------------------------------
+Ahu Demir, Ladenburg Thalmann & Co. Inc. - Analyst    [11]
+--------------------------------------------------------------------------------
+Got it. Thank you.
+--------------------------------------------------------------------------------
+Operator,     [12]
+--------------------------------------------------------------------------------
+(Operator Instructions) Ladies and gentlemen, I'm showing no other questions. Thank you. This concludes our Q&A session, and thus concludes our call today. We thank you for your interest and participation. You may now disconnect your lines.
+
+
+
+
+
+
+--------------------------------------------------------------------------------
+Definitions
+--------------------------------------------------------------------------------
+Preliminary Transcript: "Preliminary Transcript" indicates that the 
+Transcript has been published in near real-time by an experienced 
+professional transcriber.  While the Preliminary Transcript is highly 
+accurate, it has not been edited to ensure the entire transcription 
+represents a verbatim report of the call.
+
+EDITED TRANSCRIPT: "Edited Transcript" indicates that a team of professional 
+editors have listened to the event a second time to confirm that the 
+content of the call has been transcribed accurately and in full.
+
+--------------------------------------------------------------------------------
+Disclaimer
+--------------------------------------------------------------------------------
+The London Stock Exchange Group and its affiliates (collectively, "LSEG") reserves the right to make changes to documents, content, or other information on this web site without obligation to notify any person of such changes. No content may be modified, reverse engineered, reproduced or distributed in any form by any means, or stored in a database or retrieval system, without the prior written permission of LSEG. The content shall not be used for any unlawful or unauthorized purposes. LSEG does not guarantee the accuracy, completeness, timeliness or availability of the content. LSEG is not responsible for any errors or omissions, regardless of the cause, for the results obtained from the use of the content. In no event shall LSEG be liable to any party for any direct, indirect, incidental, exemplary, compensatory, punitive, special or consequential damages, costs, expenses, legal fees, or losses (including, without limitation, lost income or lost profits and opportunity costs or losses caused by negligence) in connection with any use of the content even if advised of the possibility of such damages.
+
+In the conference calls upon which Summaries are based, companies may make projections or other forward-looking statements regarding a variety of items. Such forward-looking statements are based upon current expectations and involve risks and uncertainties. Actual results may differ materially from those stated in any forward-looking statement based on a number of important factors and risks, which are more specifically identified in the companies' most recent SEC filings. Although the companies may indicate and believe that the assumptions underlying the forward-looking statements are reasonable, any of the assumptions could prove inaccurate or incorrect and, therefore, there can be no assurance that the results contemplated in the forward-looking statements will be realized.
+
+LSEG assumes no obligation to update the content following publication in any form or format. The content should not be relied on and is not a substitute for the skill, judgment and experience of the user, its management, employees, advisors and/or clients when making investment and other business decisions. LSEG does not act as a fiduciary or an investment advisor except where registered as such.
+
+THE INFORMATION CONTAINED IN TRANSCRIPT SUMMARIES REFLECTS LSEG'S SUBJECTIVE CONDENSED PARAPHRASE OF THE APPLICABLE COMPANY'S CONFERENCE CALL AND THERE MAY BE MATERIAL ERRORS, OMISSIONS, OR INACCURACIES IN THE REPORTING OF THE SUBSTANCE OF THE CONFERENCE CALLS. IN NO WAY DOES LSEG OR THE APPLICABLE COMPANY ASSUME ANY RESPONSIBILITY FOR ANY INVESTMENT OR OTHER DECISIONS MADE BASED UPON THE INFORMATION PROVIDED ON THIS WEB SITE OR IN ANY SUMMARY. USERS ARE ADVISED TO REVIEW THE APPLICABLE COMPANY'S CONFERENCE CALL ITSELF AND THE APPLICABLE COMPANY'S SEC FILINGS BEFORE MAKING ANY INVESTMENT OR OTHER DECISIONS.
+--------------------------------------------------------------------------------
+Copyright 2024 LSEG. All Rights Reserved.
+--------------------------------------------------------------------------------

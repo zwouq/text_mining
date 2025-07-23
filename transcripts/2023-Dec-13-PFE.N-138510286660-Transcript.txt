@@ -1,0 +1,533 @@
+
+
+Refinitiv StreetEvents Event Transcript
+E D I T E D   V E R S I O N
+
+Pfizer Inc To Acquire Seagen Inc
+DECEMBER 13, 2023 / 1:30PM GMT
+
+================================================================================
+Corporate Participants
+================================================================================
+
+ * Albert Bourla
+   Pfizer Inc. - Chairman of the Board & CEO
+ * David M. Denton
+   Pfizer Inc. - CFO & Executive VP
+ * Francesca M. DeMartino
+   Pfizer Inc. - Chief IR Officer
+ * Chris Boshoff
+   Pfizer Inc. - Executive VP and Chief Oncology Research & Development Officer
+
+================================================================================
+Conference Call Participiants
+================================================================================
+
+ * Stephen Michael Scala
+   TD Cowen, Research Division - MD & Senior Research Analyst
+ * Timothy Minton Anderson
+   Wolfe Research, LLC - MD of Equity Research
+ * Umer Raffat
+   Evercore ISI Institutional Equities, Research Division - Senior MD & Senior Analyst of Equity Research
+ * Terence C. Flynn
+   Morgan Stanley, Research Division - Equity Analyst
+ * Nicole Germino
+   Truist Securities, Inc., Research Division - Associate
+ * Kerry Ann Holford
+   Joh. Berenberg, Gossler & Co. KG, Research Division - Analyst
+ * Akash Tewari
+   Jefferies LLC, Research Division - Equity Analyst
+ * Christopher Thomas Schott
+   JPMorgan Chase & Co, Research Division - Senior Analyst
+ * Geoffrey Christopher Meacham
+   BofA Securities, Research Division - MD
+ * David Reed Risinger
+   Leerink Partners LLC, Research Division - Senior MD
+ * Mohit Bansal
+   Wells Fargo Securities, LLC, Research Division - Senior Equity Analyst
+ * Trung Chuong Huynh
+   UBS Investment Bank, Research Division - Analyst
+ * Andrew Simon Baum
+   Citigroup Inc., Research Division - Global Head of Healthcare Research and MD
+ * Evan David Seigerman
+   BMO Capital Markets Equity Research - MD & Senior BioPharma Research Analyst
+
+================================================================================
+Presentation
+--------------------------------------------------------------------------------
+Operator    [1]
+--------------------------------------------------------------------------------
+Good day, everyone. And welcome to Pfizer's Analyst and Investor Call to review full year 2024 financial guidance. Today's call is being recorded.
+At this time, I would like to turn the call over to Francesca DeMartino, Chief Investor Relations Officer and Senior Vice President. Please go ahead, ma'am.
+
+--------------------------------------------------------------------------------
+Francesca M. DeMartino,  Pfizer Inc. - Chief IR Officer    [2]
+--------------------------------------------------------------------------------
+Good morning, and welcome to Pfizer's Call to discuss the Seagen acquisition, changes to our commercial organization and our 2024 financial guidance.
+I'm Francesca DeMartino, Chief Investor Relations Officer. On behalf of the Pfizer team, thank you for joining us. This call is being made available via audio webcast at pfizer.com.
+Earlier this morning, we released our 2024 financial guidance via press release that is available on our website at pfizer.com. I'm joined today by Dr. Albert Bourla, our Chairman and CEO; and Dave Denton, our CFO.
+Albert and Dave have some prepared remarks, and we will then open the call for questions. For the Q&A session, we'll also be joined by Dr. Chris Boshoff, our Chief Oncology Officer.
+Before we get started, I want to remind you that we will be making forward-looking statements and discussing certain non-GAAP financial measures. I encourage you to read the disclaimers in the press release we issued this morning and the disclosures in our SEC filings, which are all available on the IR website on pfizer.com.
+With that, I will turn the call over to Albert.
+
+--------------------------------------------------------------------------------
+Albert Bourla,  Pfizer Inc. - Chairman of the Board & CEO    [3]
+--------------------------------------------------------------------------------
+Thank you, Francesca. Good morning, everyone, and thank you for joining us. I'm pleased to mark an exciting moment for Pfizer and for the battle against cancer as the HSR waiting period regarding our acquisition of Seagen has now expired.
+This morning, we will discuss the importance of this acquisition to our business, the enhancements we are making to our commercial organization to fully unlock the value of Seagen and our pro forma guidance for full year 2024 that incorporates our expectations for Seagen.
+Seagen is a true pioneer in antibody-drug conjugate technology ADCs, an innovative solution to better treat cancer by harnessing the targeting power of antibodies to deliver cytotoxic molecule drugs to tumors. Adding Seagen and its powerful tool to Pfizer's already strong oncology core therapeutic area significantly enhances our ability to have a dramatic positive impact on human health and support patients with cancer.
+As a reminder, 1 in 3 people will be diagnosed with cancer in their lifetime. Cancer remains the second leading cause of death in the U.S., is a leading cause of death worldwide and is the largest growth driver in global medicine, improving the lives of patients with cancer will have enormous, unimaginable impact on human.
+At the same time, oncology represents the largest therapeutic area, which is fast growing and projected to exceed USD 300 billion by year 2030. With the regulatory clearance received, we expect to close the acquisition tomorrow, Thursday, December 14.
+Given Seagen's position as the world's best ADC company, we are confident that they are the ideal partner for Pfizer. Together, we will accelerate the next generation of potential cancer breakthroughs and drive better outcomes for patients.
+This acquisition combines the oncology expertise of both companies to realize the value of Seagen's commercial portfolio by leveraging Pfizer's global scale and footprint and create significant R&D opportunities. Some of the promising opportunities include: first, becoming a significant player in the fastest-growing area of biomedicine, Oncology; second, developing ADCs, which are poised to replace chemotherapy in many tumor types. Seagen has the track record in some of the most promising next-generation molecules that will enter the clinic.
+Third, by combining Pfizer and Seagen portfolios, we will have an opportunity to advance a number of innovative combination regimens. We also have the global commercial manufacturing and supply capabilities to accelerate Seagen's current and future marketed products. Lastly, by pairing Pfizer's medicinal chemistry and protein engineering capabilities with Seagen's discovery efforts, we are confident that we will deliver the next generation ADCs.
+We are truly excited about the many benefits this acquisition can create, which will enhance our ability to pursue breakthroughs that change patients' lives. Pfizer is ideally situated to deploy our financial, scientific, manufacturing and commercial capabilities to develop powerful new medicines with Seagen's targeted technology to give hope to patients with cancer everywhere. We have identified a range of portfolio expansion opportunities but come with the addition of Seagen's broad and deep pipeline. We are looking forward to providing more details about the combined pipeline of both companies on February 29, 2024, during an Oncology R&D Day that we will host in New York City.
+In addition to expanding our portfolio and leading the next generation of potential cancer breakthroughs, we also expect Seagen to contribute meaningfully to our goal of accelerating near-term and long-term financial growth. In the near term, Seagen's in-line medicines are expected to immediately enhance Pfizer's top line growth, driven by strong revenues from Seagen's four first-in-class in-line products, Padcev, Adcetris, Tivdak and Tukysa.
+Longer term, this acquisition doubles the size of Pfizer early stage oncology pipeline and late-stage development programs. Pfizer has clear potential for significant growth in front of us and our teams are eager to execute our well-advanced integration and strategic planning for a full seamless integration upon closing.
+Our commercial platform remains a key strength of Pfizer, which we believe will enable us to capture this near- and long-term growth potential. The combined U.S. infrastructure will be 3x the size of Seagen's alone in the U.S. and will enhance our reach and medical impact in the competitive oncology field. To ensure we are best positioned for the future ahead of us, Pfizer is introducing enhancements to our commercial organization to incorporate Seagen and prioritize focus, speed and execution.
+Starting January 1, 2024, we will establish a new end-to-end business organization called the Pfizer Oncology Division by combining several Oncology operations currently residing in Biopharma with a newly formed Oncology Research and Development, ORD organization. This will integrate certain Oncology commercial and R&D operations from both companies and will be led by Dr. Chris Boshoff, who has been named Chief Oncology Officer, Executive Vice President, and will continue reporting to me.
+The leadership team of the new Oncology division reporting to Chris will combine the proven expertise from both Pfizer and Seagen. Reporting to Chris are five exceptional leaders from Seagen and four from Pfizer. The remaining oncology organization is comprised of equal representation in R&D from each company. And on the commercial side, we retain the vast majority of colleagues from Seagen.
+And finally, our go-forward oncology R&D footprint will be focused on the West Coast with major reserve facilities in La Jolla and Seattle.
+Next, we are splitting the remainder of the Biopharmaceutical organization and creating two more focused business divisions, Pfizer U.S. Commercial division and Pfizer International Commercial divisions.
+The U.S. Commercial division will include the U.S. and Global commercial organizations and be led by Pfizer's Aamir Malik, who will become Chief U.S. Commercial Officer, Executive Vice President, and will continue to report to me. The International Commercial division will consist of the commercial organizations in all ex-U.S. markets and will be led by Alexandre de Germay, who will become -- whom we welcome back to Pfizer as Chief International Commercial Officer, Executive Vice President. Alexandre will also report to me.
+These three leaders will begin transitioning to their new roles immediately after the close of the Seagen acquisition, which is expected tomorrow and the enhancements to the commercial organization, as I mentioned, will become effective as of January 1, 2024.
+I'm confident that this organizational enhancements to our commercial structure will enhance the quality of our business execution and unlock the value that the Seagen acquisition can create for patients and shareholders.
+As a final update to our leadership team, Angela Hwang, Chief Commercial Officer and President of the Global Biopharmaceutical Business will be leaving the organization after a stellar nearly 27-year career at Pfizer. Angela has agreed to transition her responsibilities and stay as an adviser to help move the organization into the new role -- into the new model.
+Under Angela's leadership, Pfizer introduced an unprecedented number of new medicines and vaccines to patients across the globe. She was instrumental in launching the world's first COVID-19 vaccine, Comirnaty and our antiviral treatment, Paxlovid. We are grateful for her contributions to Pfizer and her role in delivering breakthroughs that change patients' lives.
+Before Dave provides our outlook for 2024, inclusive of our expectations for Seagen, I want to provide some final comments. As we close out 2023 and look ahead to 2024, we are very focused on addressing uncertainty and providing clarity. Pfizer's business is robust with many in-line acquired and expected launch products that we believe are capable of driving strong revenue and an attractive pipeline of potential products, but meaningfully strengthen our growth trajectory long into the future. As such, we will continue to invest in our business and remain committed to creating value for our shareholders.
+I will now turn it to Dave to share guidance for fiscal year 2024 that incorporates the Seagen's acquisition on a pro forma basis. Dave?
+
+--------------------------------------------------------------------------------
+David M. Denton,  Pfizer Inc. - CFO & Executive VP    [4]
+--------------------------------------------------------------------------------
+Thank you, Albert. Good morning. I'll begin this morning by confirming the company's 2023 financial guidance. We expect full year revenues of between $58 billion and $61 billion with our revenues, excluding Comirnaty and Paxlovid growing by 6% to 8% operationally versus LY. Furthermore, we expect adjusted diluted earnings per share to be in the range of $1.45 to $1.65 for 2023.
+Moving on to 2024. I want to punctuate that our full year '24 guidance range not only includes the expected performance of our legacy Pfizer business but also includes the expected financial impact of the Seagen acquisition. Please note that for 2024, the company's revenues will now include Royalty Income to conform to Seagen's historical accounting policy. This reclassification from Other Income is expected to add approximately $1 billion to legacy pharma -- Pfizer revenues, but also has no material impact on the company's growth rates and no impact on profits.
+On a total company basis, we expect revenues in the range of $58.5 billion to $61.5 billion for the full year of 2024. We continue to expect strong contributions from our non-COVID products. Excluding Comirnaty and Paxlovid, we anticipate operational revenue growth of between 8% and 10% versus the midpoint of our 2023 guidance. Products from the Seagen portfolio are forecasted to contribute approximately $3.1 billion to the company's revenues in 2024 while enhancing Pfizer's growth rates by 500 basis points, once again, excluding Comirnaty and Paxlovid.
+For Comirnaty and Paxlovid, given their inherent variability, the company is focused on setting prudent, more reliable revenue expectations for next year. Against this backdrop, our 2024 revenue expectations for these products is $8 billion, $5 billion from Comirnaty and $3 billion from Paxlovid. While we do not expect COVID vaccination and infection rates to change materially in 2024 versus this year, we have set our Comirnaty and Paxlovid 2024 revenue expectations lower. Given the range of potential outcomes, we believe this approach to setting our COVID expectations is appropriate.
+Moving further down P&L, total Adjusted SI&A and R&D expenses are expected to be in the range of $24.8 billion to $26.8 billion which incorporates expenses from the acquired Seagen business. Specifically, the company expects Adjusted SI&A in the range of $13.8 billion to $14.8 billion and Adjusted R&D expenses in the range of $11 billion to $12 billion. This range incorporates an anticipated decline of approximately $4 billion in Pfizer's legacy operating expenses compared with the midpoint of the company's guidance baseline issued on August 1, 2023. This expected decline include incremental $500 million in savings coming from our ongoing cost realignment program.
+From an earnings standpoint, we expect Adjusted diluted earnings per share to be in the range of $2.05 to $2.25 for the full year of 2024. This range incorporates an anticipated $0.40 of earnings dilution from the Seagen acquisition with the vast majority of this dilution resulting from the financing cost associated with the deal.
+Now let me wrap up with just a few key takeaways. Our product portfolio remains strong with our products, excluding Comirnaty and Paxlovid,  expected to grow by 8% to 10% operationally next year. The combination with Seagen is expected to drive long-term growth in both revenues and profits, while enhancing returns in our business long term. We have made good progress with our cost realignment program and in 2024, we now expect to achieve $4 billion in savings versus our original expectation of $3.5 billion. Comirnaty and Paxlovid continue to be significant products and are expected to deliver $8 billion in revenues for 2024.
+We look forward to executing our '24 plans with a focus on driving near-term performance while enhancing our back half of the decade growth expectations.
+And with that, I'll turn it back over to Albert.
+
+--------------------------------------------------------------------------------
+Albert Bourla,  Pfizer Inc. - Chairman of the Board & CEO    [5]
+--------------------------------------------------------------------------------
+Thank you, Dave. So let me quickly summarize Pfizer intends to significantly advance the battle cancer by accelerating the next generation of potential cancer treatments as we unite Seagen's best in class ADC technology with Pfizer's expansive scale and expertise. The new Pfizer Oncology division will be at the forefront of innovative cancer care. And the enhancements we are making to our commercial organization will prioritize focus, speed and quality of commercial execution for all the major launches that we have done so far.
+Operator, we can now assemble the queue and start the Q&A session.
+
+
+================================================================================
+Questions and Answers
+--------------------------------------------------------------------------------
+Operator    [1]
+--------------------------------------------------------------------------------
+(Operator Instructions) And our first question will come from Mohit Bansal with Wells Fargo.
+
+--------------------------------------------------------------------------------
+Mohit Bansal,  Wells Fargo Securities, LLC, Research Division - Senior Equity Analyst    [2]
+--------------------------------------------------------------------------------
+Thank you for providing this guidance. I just wanted to chat a little bit on the core operating guidance you have provided so 3% to 5% growth. One, does it include royalty? And if you exclude royalty, you're looking at about 1% to 3% -- 2% kind of growth. Can you talk a little bit about the puts and takes there? And it is lower than how you grew last year year-over-year. So what are the -- what is the thought process behind this?
+
+--------------------------------------------------------------------------------
+Albert Bourla,  Pfizer Inc. - Chairman of the Board & CEO    [3]
+--------------------------------------------------------------------------------
+David, why don't you take the question.
+
+--------------------------------------------------------------------------------
+David M. Denton,  Pfizer Inc. - CFO & Executive VP    [4]
+--------------------------------------------------------------------------------
+Yes. Mohit, just to be clear, the 3% to 5% growth rate is not impacted by our change in accounting for royalties. Pro forma, we would include royalties in 2023 as well as in 2024. The impact of that is immaterial to the growth rate. So our core business excluding Comirnaty and Paxlovid and Seagen would be growing at 3% to 5%.
+
+--------------------------------------------------------------------------------
+Operator    [5]
+--------------------------------------------------------------------------------
+Our next question will come from Chris Schott with JPMorgan.
+
+--------------------------------------------------------------------------------
+Christopher Thomas Schott,  JPMorgan Chase & Co, Research Division - Senior Analyst    [6]
+--------------------------------------------------------------------------------
+Can you just elaborate a little bit more on the 2024 EPS guidance. I guess I'm just having a tough time when I look at the top line target, the OpEx numbers you gave and the tax rate, it seems to imply a much lower gross margin than what's Street is forecasting. I'm just trying to understand what's kind of happening with gross margins. Is there any color you can provide? And is this largely tied to the lower COVID number? Or is this a trend in the non-COVID business? I know there's a lot of moving pieces that seems to be kind of a core question I'm getting. So any color would be much appreciated.
+
+--------------------------------------------------------------------------------
+Albert Bourla,  Pfizer Inc. - Chairman of the Board & CEO    [7]
+--------------------------------------------------------------------------------
+Again Dave, for you.
+
+--------------------------------------------------------------------------------
+David M. Denton,  Pfizer Inc. - CFO & Executive VP    [8]
+--------------------------------------------------------------------------------
+Yes. So I would -- if you look '23 versus '24 versus our expectation and you exclude the onetime items you would think that gross margin would be relatively consistent with prior year in the -- I would say, approximately 70% range. Clearly, the flow-through given the downdraft in the COVID expectations for next year, drives dilution into -- from an EPS perspective, number one.
+And number two, as I indicated on the prepared remarks, Seagen, while contributing nicely, $3.1 billion to the top line is actually diluted by $0.40 to the bottom line, driven significantly by the financing costs. I hope that's helpful.
+
+--------------------------------------------------------------------------------
+Operator    [9]
+--------------------------------------------------------------------------------
+Next, we have Evan Seigerman with BMO Capital Markets.
+
+--------------------------------------------------------------------------------
+Evan David Seigerman,  BMO Capital Markets Equity Research - MD & Senior BioPharma Research Analyst    [10]
+--------------------------------------------------------------------------------
+Really appreciate you providing this guidance. So two questions on my end. One, can you walk us through some of the inputs for your COVID-related guidance? I really want to understand how you're getting to this $8 billion number to ensure that kind of this is reasonable over the course of the year. And if I'm not mistaken, you said you were going to provide an update for the DMD gene therapy program by year-end. Can you provide us some kind of an update as to when we can get that? Or if you have one now that would be fantastic.
+
+--------------------------------------------------------------------------------
+Albert Bourla,  Pfizer Inc. - Chairman of the Board & CEO    [11]
+--------------------------------------------------------------------------------
+On the COVID, I think Dave already spoke in his script. We want to provide realistic and conservative basically estimate on COVID, which will be something that we can easily make.
+In reality, we stay with our statements that we do believe that vaccination rates and treatment rates in the year to come, will be very similar to what we have seen this year. The reason is because COVID this year, it is not top of mind, we are in the middle of COVID fatigue. We have a peak of anti-vaccine, let's say rhetoric. So people that they are doing vaccinations or they are taking the treatments. They are going to be the people that they will do it again because they believe in value of these treatments and vaccinations. But as I said, we want to be conservative, and we are giving a good floor, and we want to be reliable so that we will not create again uncertainty, which was the case unfortunately this year where our estimates were way higher than what in reality came and what people thought.
+Now as regards to the DMD, thank you for the question. We have made a decision to make a final analysis next year. This based on multiple data that were presented and after analyzing the situation. By doing that, we're giving way more opportunity to the product to be successful and to the study to be successful because we are transferring all the alpha power that otherwise would have been occupied or will have been spent into an interim analysis. We are all of this transferred to final analysis, but we will do it sometime next year. So more news when basically we unlock the date.
+
+--------------------------------------------------------------------------------
+Operator    [12]
+--------------------------------------------------------------------------------
+Next, we have Terence Flynn with Morgan Stanley.
+
+--------------------------------------------------------------------------------
+Terence C. Flynn,  Morgan Stanley, Research Division - Equity Analyst    [13]
+--------------------------------------------------------------------------------
+Maybe a two-part one for me as well. First, to Dave. I was just wondering if you can talk about the margin trajectory from here in terms of when you might be able to reach pre-pandemic margins? And then also, just wondering if you'll also reiterate that you expect Seagen will contribute more than $10 billion in risk-adjusted revenues in 2030, now I know there's been some more data out both for Padcev and Adcetris?
+
+--------------------------------------------------------------------------------
+Albert Bourla,  Pfizer Inc. - Chairman of the Board & CEO    [14]
+--------------------------------------------------------------------------------
+David?
+
+--------------------------------------------------------------------------------
+David M. Denton,  Pfizer Inc. - CFO & Executive VP    [15]
+--------------------------------------------------------------------------------
+Yes. So on the margin question, clearly, our objective is to get back to pre-pandemic operating margins, adjusted slightly for the mix associated with COVID. That is a, I'll say, a midterm objective for us. So give it in our vernacular, probably 2 to 3 years is our objective here, specifically from that perspective.
+And then secondly, clearly, our objective around Seagen and our expectation around Seagen is to achieve $10 billion in 2030 revenues we stand behind that.
+I do want to point out, as we think about growth rates going forward. I know the company has said specifically that our '20 to '25 growth rates would be excluding COVID, approximately 6% from a CAGR perspective over that time frame. Given the guidance we just provided for 2024, it seems that objective of getting to that 6% growth rate by 2025, excluding BD would be very challenging. It is our expectation that we would get to that 6% growth rate only including BD from that perspective. We're very excited about the products that we have. We're very excited about the focus that we have to grow our existing portfolio. That target seems somewhat out of reach at this point in time.
+
+--------------------------------------------------------------------------------
+Albert Bourla,  Pfizer Inc. - Chairman of the Board & CEO    [16]
+--------------------------------------------------------------------------------
+Chris, do you want to add something on the Seagen potential revenues by year 2030?
+
+--------------------------------------------------------------------------------
+Chris Boshoff,  Pfizer Inc. - Executive VP and Chief Oncology Research & Development Officer    [17]
+--------------------------------------------------------------------------------
+Yes. I think you're correct because of the monumental 302 data for Padcev, there's potential uplift, but for now, of course, pending registration and approval. But for now, we are comfortable with the $10 billion plus in 2030.
+
+--------------------------------------------------------------------------------
+Operator    [18]
+--------------------------------------------------------------------------------
+Next, we have Umer Raffat with Evercore.
+
+--------------------------------------------------------------------------------
+Umer Raffat,  Evercore ISI Institutional Equities, Research Division - Senior MD & Senior Analyst of Equity Research    [19]
+--------------------------------------------------------------------------------
+I feel like we knew a lot about various parts to your individual revenue lines and their implied gross margins. If you build it all up, the implied gross margin for the business should be 76%. I noticed you did not break out your gross margin this time, which you normally always do, but I calculate 76% gross margin. If I run your numbers for '24 down at that 76%, the implied EPS is in the high 2s, meaning the gross margin would have to be closer to 70% to get to the type of guidance that was given out.
+So can you speak to what the discrepancy is on gross margin? And then also, Dave, I noticed Seagen was basically approaching breakeven in 3Q, meaning the only dilution should be from their interest, which is only $1.9 billion, which is less than $0.30 on EPS. So how do we get to $0.40 on Seagen's EPS dilution? So the gross margin and the Seagen, I feel like is probably where the Street is confused around the overall numbers.
+
+--------------------------------------------------------------------------------
+David M. Denton,  Pfizer Inc. - CFO & Executive VP    [20]
+--------------------------------------------------------------------------------
+Yes. So as I said earlier, from a gross margin perspective, our expectation for next year is in the low 70s, not the high 70s. I think that's where the model might be -- there might be discrepancy from that perspective. Clearly as we cycle into '24, we have a lot of launches in our pipeline that we're executing against. Those carry slightly higher cost of goods because they are more expensive products to manufacture. And therefore, that dilutes maybe the expected gross margin performance from a rate perspective going forward. Having said that, we're kind of in the low 70s. So that's where I would adjust your model from that perspective.
+Additionally, from a Seagen's flow-through perspective, $0.40 is still a good number as I indicated earlier. The vast majority of that does come from the financing of both long-term financing as well as short-term financing at this point in time to finance and close the transaction. It is our expectation that Seagen will still be at the operating profit line somewhat dilutive, but relatively modest in comparison to the financing cost. And that really shows that we are getting synergies from the deal.
+But at the same time, we're investing behind the deal. Oncology is important to us. The products and the pipeline within Seagen is important to us as we've always indicated, we are going to invest against the product -- those products and those portfolios to maximize their performance long term. And you should expect us to continue to do that.
+
+--------------------------------------------------------------------------------
+Operator    [21]
+--------------------------------------------------------------------------------
+Our next question will come from Robyn Karnauskas with Truist Securities.
+
+--------------------------------------------------------------------------------
+Nicole Germino,  Truist Securities, Inc., Research Division - Associate    [22]
+--------------------------------------------------------------------------------
+This is Nicole on for Robyn. With the 2024 revenue and EPS guidance versus the full year 2023. Is the 2024 guidance, the base case scenario? Or if there are upside scenarios given in multiple recent launches, can you walk us through those push and pulls? Or is this guidance more set on the Comirnaty impact of the expectations?
+
+--------------------------------------------------------------------------------
+David M. Denton,  Pfizer Inc. - CFO & Executive VP    [23]
+--------------------------------------------------------------------------------
+So yes. So I'll touch on that quickly. Clearly, as we sit here today, our expectation for '24 as we outlined is our best estimate for performance next year. Having said that, as Albert indicated and I indicated in my prepared remarks, from a COVID perspective, it is our expectation that vaccination and infection rates are largely consistent in '24 versus '23. But as we set guidance, we set guidance lower than that because there is inherent variability in that portfolio of products. Therefore, if there is an upside, you would think about it in those sets of products, number one.
+Number two is we're extremely excited about the Seagen acquisition coming on board here in the next several days. Clearly, we're working hard to maximize performance in those products and the data coming out of their portfolio going forward, there potentially could be upside from that perspective. And then finally, I'd say we're -- as we've done this year, we've embarked upon a significant amount of new launches from a product perspective. We continue to focus on those new launches, aggressively invest behind those new launches. And over time, we think there's upside. So that would be the third place I would look.
+
+--------------------------------------------------------------------------------
+Albert Bourla,  Pfizer Inc. - Chairman of the Board & CEO    [24]
+--------------------------------------------------------------------------------
+And as David said, keep in mind that we are investing in Seagen. So in Seagen, we are going to support both the new launches, and we are going to support R&D because we think that there is significant opportunity to start Phase 3 studies. So we will provide more details about how we think about the Seagen pipeline in R&D Day, as I said, that we're going to do at the end of February but that's the bottom line.
+So the other thing it is, as also David explained in his prepared remarks, we are setting very reliable, low COVID base. But because of that also, we are shooting for higher cost reduction than the ones that we had promised. As you remember, we promised that we will do at least $3.5 billion, of which 1 in '23 that we reconfirmed and $2.5 billion additional in '24. Now the $2.5 billion additional in '24 is 3 additional in '24. We feel confident to put out this number because our plans to reduce the costs are progressing very, very nicely. And despite -- and by the way, all these 4 are not including anything on Seagen right now. They are all Pfizer legacy.
+So Seagen will be very, very well supportive as it comes into our business because we think it is our priority to create shareholder value by investing in that business.
+
+--------------------------------------------------------------------------------
+Operator    [25]
+--------------------------------------------------------------------------------
+Next we have David Risinger with Leerink Partners.
+
+--------------------------------------------------------------------------------
+David Reed Risinger,  Leerink Partners LLC, Research Division - Senior MD    [26]
+--------------------------------------------------------------------------------
+So I have two questions on the financials. First, with respect to the cost cuts, the $500 million of additional cuts, are those in SG&A or R&D? And how is Pfizer balancing the cost cutting with the need to drive strong commercial execution? And then second, could you talk about your commitment to continuing to pay the $1.64 annual dividend given the implied dividend payout of 76% on a $2.15 midpoint and also considering required annual CapEx?
+
+--------------------------------------------------------------------------------
+Albert Bourla,  Pfizer Inc. - Chairman of the Board & CEO    [27]
+--------------------------------------------------------------------------------
+David, it's your day today, apparently you are the man of the hour. So go ahead, and then I'll make some comments on the commercial execution.
+
+--------------------------------------------------------------------------------
+David M. Denton,  Pfizer Inc. - CFO & Executive VP    [28]
+--------------------------------------------------------------------------------
+Yes. So maybe I'll hit the dividend first because, obviously, the dividend is very important to Pfizer. I know it's very important to investors. Pfizer you have our commitment to maintain and grow the dividend over time, and that is our first priority from that perspective.
+Secondly, as you think about the costs coming out of the organization from our cost realignment program, I would say the incremental $500 million -- maybe I won't speak directly to that, but maybe I'll give you some color in totality where the $4 billion is coming out of it. And you can kind of roll this forward in your models.
+Approximately of the $4 billion -- approximately 30% of that savings is coming out of SI&A and 70% of that saving is coming out of the R&D line. And that is a combined look at the $4 billion in the legacy Pfizer performance.
+And keep in mind that over time, if you go back to roughly 2018 and 2019, those levels that we just projected for you into 2024 are actually higher now than they were back in those time frames. So this still shows an incremental investment. It's just not at the level it was over the last couple of years.
+
+--------------------------------------------------------------------------------
+Albert Bourla,  Pfizer Inc. - Chairman of the Board & CEO    [29]
+--------------------------------------------------------------------------------
+And Dave, I mean, Dave Risinger, also remember that, as we said before, Seagen is not included in this $4 billion. So on the R&D, basically, there is a major transfer into Oncology R&D because you now have to add the entire Seagen R&D budget into that. I think at the end of when you will see the full guidance, probably -- I mean, you have seen the full guidance, but when you understand -- or you see the numbers, you will see that still, we are among the highest investors in R&D in absolute dollars. So I think we have very high confidence that we have a very productive growth ends. The reduction a little bit on the Pfizer side, I think will improve productivity because the way we do it is we are focusing on the higher, higher return projects.
+Also in the commercial, as David said, we still next year, trying to provide enough commercial support. That's why smaller reduction in SI&A because we have all these launches that are coming and we need to start. We also, by dividing basically the commercial business into 3 pieces: the oncology and then all the rest into U.S. and international. I think we are putting tremendous focus by having senior leadership, supervision in both groups, and we expect to see significant also improvement in the commercial execution in a bit. So it's not only the amount of capital, but it is also the way that we hope that we will be able to execute commercial launches.
+
+--------------------------------------------------------------------------------
+Operator    [30]
+--------------------------------------------------------------------------------
+Next, we have a question from Trung Huynh with UBS.
+
+--------------------------------------------------------------------------------
+Trung Chuong Huynh,  UBS Investment Bank, Research Division - Analyst    [31]
+--------------------------------------------------------------------------------
+It's Trung Huynh from UBS. Two very quick questions, hopefully. One, simply, do you think the COVID trough is now 2024? And then second, you mentioned the long-term guide of the 6% is unachievable now or going to be a stretch. So what's changed here? What's becoming more difficult in that base business?
+
+--------------------------------------------------------------------------------
+Albert Bourla,  Pfizer Inc. - Chairman of the Board & CEO    [32]
+--------------------------------------------------------------------------------
+Dave, what is the COVID trough question...
+
+--------------------------------------------------------------------------------
+David M. Denton,  Pfizer Inc. - CFO & Executive VP    [33]
+--------------------------------------------------------------------------------
+Yes. So I think the question is really is '24 the trough question. I think given the guidance that we said, this is our expectation. I think as we said, the COVID virus is unpredictable, and it's hard to understand with certainty and model its performance. That's why we take -- we've outlined our expectations for next year. So I'm not going to say that, that's the case. I would say that we still believe that the COVID products we have are substantial products. They meet a very large and high unmet need of the patient population around the globe, and they're going to be significant products for us going forward. So we'll continue to take this on a year-by-year basis and let you understand the assumptions based on our forecast.
+And then secondly, this -- from the 6% CAGR from '20 to '25, this is somewhat just math. If you give -- if you take into consideration our expected performance in '23, our guidance we gave for '24, the growth rate in '25 would need to be very significant. We still feel very strongly about the products that we have in the marketplace. They continue to grow nicely. Our launches continue to grow well, but I think that 6%, excluding BD is just a more aggressive target at this point in time given what's happened.
+
+--------------------------------------------------------------------------------
+Operator    [34]
+--------------------------------------------------------------------------------
+Next, we have Tim Anderson with Wolfe Research.
+
+--------------------------------------------------------------------------------
+Timothy Minton Anderson,  Wolfe Research, LLC - MD of Equity Research    [35]
+--------------------------------------------------------------------------------
+I have a question for Aamir if he's on the line. So you'll be Head of Commercial in the U.S. I think you've been at Pfizer for about 2 years. Prior to that, you were at McKinsey. Can you describe how much operational, commercially oriented experience you've developed over the last 2 years in this very complex part of the business and a complex geography?
+I think your primary responsibility over the last year have been more in the business development front, but perhaps you have some of that experience at McKinsey.
+If I look at something like your international counterpart, Alexandre, you've got 30 years of commercial experience launching brands and that sort of thing? And then second question unrelated to the first, can you guys give us some idea of the COVID profit contribution to EPS in 2024?
+
+--------------------------------------------------------------------------------
+Albert Bourla,  Pfizer Inc. - Chairman of the Board & CEO    [36]
+--------------------------------------------------------------------------------
+Okay. Let me take the first question. Aamir is not here. So he is not with us, unfortunately. We have only Chris and Dave with us.
+But I can tell you why I have picked Aamir because, of course, it was my personal choice. I know him from multiple years, we have worked together while I was running Commercial at Pfizer in multiple, multiple projects, and he's someone that I have been incredibly impressed and I'm very trusting of him. So I have zero doubt that he is the right man for the right choice.
+That being said, Alexandre as well. I know him for many, many years. We have worked together. Alexandre used to report to me when he was running Asia back in the day when he was in Pfizer. And although he was stolen by Sanofi, when Olivier Brandicourt moved to Sanofi to become the CEO for Pfizer. I'm very happy that he's coming back to us. Again, it's someone that I personally trust. So I'm very confident that he is also the right man for that job.
+So in essence, the three leaders that are going to run the commercial of Pfizer with Chris Boshoff running also in addition to Commercial Oncology -- R&D oncology are both three leaders that I have personally known for many years, and I have personally chosen to do the job.
+So with that, why don't we go now to Dave to answer about the COVID.
+
+--------------------------------------------------------------------------------
+David M. Denton,  Pfizer Inc. - CFO & Executive VP    [37]
+--------------------------------------------------------------------------------
+Yes. So from a COVID perspective, we don't break out the specific profit contributions for COVID. But maybe I'll give a little color. At the $8 billion level, obviously, COVID is accretive to the company from an EPS perspective. Just keep in mind, given the profit share that the company has around Comirnaty with our partner, the flow-through is lower than the company average because of that profit share. So from a rate perspective, both at the gross margin level and at the operating level, from a rate perspective is dilutive, but still very profitable to the company.
+
+--------------------------------------------------------------------------------
+Operator    [38]
+--------------------------------------------------------------------------------
+Next, we have Kerry Holford with Berenberg.
+
+--------------------------------------------------------------------------------
+Kerry Ann Holford,  Joh. Berenberg, Gossler & Co. KG, Research Division - Analyst    [39]
+--------------------------------------------------------------------------------
+Two, please. Can I just go back to a previous question around the growth -- sales growth guidance for 2024, this 3% to 5% ex-COVID, ex-Seagen. That is below your target in 2023. So can you just talk a little more about why you expect the rate to slow? Clearly, you're launching a number of new products. But where is a pressure ex-COVID, ex-Seagen that's offsetting some of that growth as you move into next year?
+And then secondly, on the restructuring business, you sort of effective carve-out of oncology, I guess my question is, what's the end of the game here? Why are you taking this end-to-end approach in oncology only? Clearly, the timing of Seagen, I guess, prioritize is the category but do you ultimately intend to take a similar end-to-end approach across the rest of the business?
+
+--------------------------------------------------------------------------------
+Albert Bourla,  Pfizer Inc. - Chairman of the Board & CEO    [40]
+--------------------------------------------------------------------------------
+Thank you. Let me give some comments, and then I will ask Dave and Chris to answer those question. On '23, keep in mind that we have a full year impact of projects like NURTEC, right? Because we didn't have it in '22, we had them in '23. That is not happening now because we are comparing now a full year of NURTEC compared to full year of -- that applies to GBT. And that applies to several other products. And also, we did a lot of launches in which they build also inventory in the first year. So that's one of the reasons.
+But I push also to Dave to provide more color on that. And then Chris, I would like you also to say, from your perspective, what are the benefits that an end-to-end oncology organization brings?
+
+--------------------------------------------------------------------------------
+David M. Denton,  Pfizer Inc. - CFO & Executive VP    [41]
+--------------------------------------------------------------------------------
+So why don't I hit the growth rate real quickly, and I'll just reiterate what Albert said. If you look at the dollars that's coming out of both launches and newly acquired business development products, excluding Seagen, the dollars are actually larger going into 2024 versus 2023. However, we are overlapping our comparisons are harder given that those products were with us in '23, as Albert indicated, but not with us in 2024. So it compresses or suppresses the growth rate. So again, strong performance across the board is more of a comparison topic than anything else.
+And with that, maybe, Chris?
+
+--------------------------------------------------------------------------------
+Chris Boshoff,  Pfizer Inc. - Executive VP and Chief Oncology Research & Development Officer    [42]
+--------------------------------------------------------------------------------
+Thank you very much for the question. You may recall, we used to have an end-to-end oncology business at Pfizer and first with Garry Nicholson and then under Liz Barrett and of course, we performed very well in terms of both where we used immunocology and our exceptional growth in CAGR starting with the business and $2 billion 10 years ago, now a business about $14 billion. So significant growth in oncology during that period.
+We've also learned that in R&D, especially clinical and medical is linked very closely to commercial, for seamless execution that we can perform better, and especially now with more precision medicine opportunity, we would really want to integrate translation oncology opportunities with companion diagnostic development and execution at sites. I think it's important for us to have this cross talk from early July.
+
+--------------------------------------------------------------------------------
+Albert Bourla,  Pfizer Inc. - Chairman of the Board & CEO    [43]
+--------------------------------------------------------------------------------
+Thank you very much, Chris. And also keep in mind that as we said multiple times, the acquisition of Seagen for us is very important and to consider that we are not acquiring golden eggs, which are the products, we are acquiring the goose that has laid the golden eggs. So it was extremely important for us to make sure that as we integrate Seagen, we will not distract the operations of this exceptional company and their model, which was end-to-end, we feel very, very nice for now as they are coming in into a whole Pfizer model of end-to-end. So thank you very much.
+
+--------------------------------------------------------------------------------
+Operator    [44]
+--------------------------------------------------------------------------------
+Next, we have Andrew Baum with Citi.
+
+--------------------------------------------------------------------------------
+Andrew Simon Baum,  Citigroup Inc., Research Division - Global Head of Healthcare Research and MD    [45]
+--------------------------------------------------------------------------------
+A couple of questions. When we do the math, it looks like there's a downgrade in consensus of about $2 billion on the ex-COVID, ex-Seagen business. So just touching on an earlier question, are we missing something in terms of underlying dynamics for the underlying Pfizer portfolio?
+And then second, given we have Chris on the line, ponsegromab, which you know we are interested in as a high-potential asset. Does that fit in your book of business? Or is that a Mikael's book of business? And what's the latest update on Pfizer's level of commitment to taking this forward into indeed, any of the potential indications?
+
+--------------------------------------------------------------------------------
+Albert Bourla,  Pfizer Inc. - Chairman of the Board & CEO    [46]
+--------------------------------------------------------------------------------
+Thank you very much. Dave?
+
+--------------------------------------------------------------------------------
+David M. Denton,  Pfizer Inc. - CFO & Executive VP    [47]
+--------------------------------------------------------------------------------
+Yes. So on the growth rate for the non-COVID non-Seagen business, that is 3% to 5%, I don't think you're missing anything. I think what we're just trying to indicate here is that as we -- as the prior question indicated and expressed is that we are now overlapping those launches and those acquired products into '24 versus '23, which suppresses the growth rate. But we're still seeing significant contributions from those as well. So the core business, absent COVID and Seagen continues to progress nicely.
+
+--------------------------------------------------------------------------------
+Albert Bourla,  Pfizer Inc. - Chairman of the Board & CEO    [48]
+--------------------------------------------------------------------------------
+Thank you, Dave. And I don't think if you make the math, Andrew, that it is $2 billion difference in the non-COVID, right? There is a significant difference in the COVID business. But when you see either Seagen alone or the remaining of the business, I think the differences with consensus are very way smaller than the $2 billion that you said.
+Now as regard cachexia, which is a project that I know you are very excited and we are extremely excited as well. It will remain with -- yes, with Mikael Dolsten. It is part of our internal metabolic franchise that is dealing with cachexia and with obesity with many other metabolic diseases.
+
+--------------------------------------------------------------------------------
+Operator    [49]
+--------------------------------------------------------------------------------
+Next, we have Steve Scala with Cowen.
+
+--------------------------------------------------------------------------------
+Stephen Michael Scala,  TD Cowen, Research Division - MD & Senior Research Analyst    [50]
+--------------------------------------------------------------------------------
+Can you hear me now?
+
+--------------------------------------------------------------------------------
+Albert Bourla,  Pfizer Inc. - Chairman of the Board & CEO    [51]
+--------------------------------------------------------------------------------
+Yes, we can.
+
+--------------------------------------------------------------------------------
+Stephen Michael Scala,  TD Cowen, Research Division - MD & Senior Research Analyst    [52]
+--------------------------------------------------------------------------------
+Okay. What is the significance of the 8% to 10% revenue growth guidance? It simply includes the positives and excludes the negative. It appears 2024 sales would define, if not for the Seagen acquisition. In 2025 will have a tough comp because of the acquisition, so another sluggish year. So what am I missing? But perhaps more importantly, the 6% guidance you pulled, you're referring to is through 2025 but the company had 6% guidance on the top line through 2030 as well. Is that intact? Or is that being pulled? And is the $15 billion in new product sales in 2030 also intact or being pulled?
+
+--------------------------------------------------------------------------------
+David M. Denton,  Pfizer Inc. - CFO & Executive VP    [53]
+--------------------------------------------------------------------------------
+So Steve, the 8% to 10%, including Seagen is now what the company is going to be after tomorrow. So we will be a company that has the Seagen products as a part of it. And the 3% to 5% from my perspective, will somewhat be no longer relevant. You'll be able to track our performance in those products going forward, but as a company, our company now, as of tomorrow, will include Seagen and that's how we'll look at it.
+And then secondly, obviously, we're pulling our expectations for 2025 growth rates. We were not making these statements kind of above and beyond that. I think if you look at our chart, you show the components that contribute to growth over time, including the fact that we're impacted by LOEs in the back half of the decade. We have products that are launching currently that are going to contribute significant revenues in the back half of the decade as well as our BD performance. We are not stepping off of those building blocks.
+
+--------------------------------------------------------------------------------
+Operator    [54]
+--------------------------------------------------------------------------------
+Next, we have Geoff Meacham with Bank of America.
+
+--------------------------------------------------------------------------------
+Geoffrey Christopher Meacham,  BofA Securities, Research Division - MD    [55]
+--------------------------------------------------------------------------------
+Just had a couple. With the closing of Seagen, I know you guys all have a lot to say about the pipeline at the analyst meeting, but are there any assets where your thinking has evolved since you initially announced the deals?
+And the second question kind of is commercially when you look at the biggest revenue opportunities for growth with the Seagen portfolio, is it broader opportunities and expansion for things like PADCEV in the U.S.? Or do you think there is a lot to be gained geographically and adding more resources, for example, in Europe, et cetera?
+
+--------------------------------------------------------------------------------
+Albert Bourla,  Pfizer Inc. - Chairman of the Board & CEO    [56]
+--------------------------------------------------------------------------------
+Chris?
+
+--------------------------------------------------------------------------------
+Chris Boshoff,  Pfizer Inc. - Executive VP and Chief Oncology Research & Development Officer    [57]
+--------------------------------------------------------------------------------
+Thank you for the question. You are correct. There's been tremendous progress at Seagen, especially over the last 4 months with 3 potential registration Phase trial readouts, including obviously PADCEV with 302 to Kaiser with T-DM1 as well as TIVDAK the randomized data that showed an overall survival benefit.
+They've recently also initiated a Phase 3 trial with disitamab in combination with pembrolizumab in previously untreated metastatic HER2-positive including HER2-positive and HER2 low urothelial cancer and they anticipate another Phase 3 study start the non-small cell lung cancer with B6 study. They are also on par to deliver by the end of this year, 4 new INDs and first in-patient starts early next year.
+So we're really excited about the progress and the way they can execute and the speed of flawless execution at Seagen. We decided to incorporate that into our portfolio. And in terms of the second part of your question, it's both, is expansion of potential opportunities. And I should know there's ongoing studies also for PADCEV and a massive invasive bladder cancer setting. There's also opportunities now for combinations, especially with the payload MMAEs.
+And also, lastly, to your point especially for programs that are not partnered, the opportunity to expand globally. Seagen is currently present in 17 countries, Pfizer's present in 100 countries. So not only for the approved medicines or for approved medicines, but also for future medicine significant opportunity for global expansion.
+
+--------------------------------------------------------------------------------
+Albert Bourla,  Pfizer Inc. - Chairman of the Board & CEO    [58]
+--------------------------------------------------------------------------------
+Thank you very much, Chris. In general Geoff, I have to say that today, we are closing Seagen, and I'm way more optimistic about this acquisition than the day that we announced. And because of things that happened in the meantime. And I'm not referring only to the things that we knew at the time like oncology is projected to be the largest therapeutic area, very fast growing, and we are going to become a significant player into that.
+But also our selection of the technology of ADC at the time has been proven to become one of the hottest BD activities in the last few months. Everybody is looking for an ADC and actually with the prices that we've seen being paid for ADCs are way, way higher than what we're able to get. You don't forget that we not only got significant revenues, but we estimate $10 billion by year 2030. But we've got 4 products. And also we got in addition that in other clinical programs that exist right now plus a platform, but it is extremely -- so the ADCs, it is what everybody is trying to be and we are getting now superpower in ADCs.
+The other one it is Seagen particular in ADCs since we did the acquisition or we announced the acquisition. More and more data came out that has proven us to be on the very optimistic side of whatever we were hoping to see. And that also is going to tremendously increase the value. And last but not least, our ability to do an integration planning that will allow us tomorrow to have the majority of the leadership team in oncology coming in the R&D from Seagen and at least 50-50 participation of Seagen colleagues and Pfizer colleagues into the new oncology organization. So really, I'm very, very optimistic that this is a tremendous opportunity going forward. And with that, I will ask for the last question, please.
+
+--------------------------------------------------------------------------------
+Operator    [59]
+--------------------------------------------------------------------------------
+Our last question will come from Akash Tewari with Jefferies.
+
+--------------------------------------------------------------------------------
+Akash Tewari,  Jefferies LLC, Research Division - Equity Analyst    [60]
+--------------------------------------------------------------------------------
+So given '24 EPS has come out meaningfully lower than the Street, your long-term growth rate is lower than external -- your internal expectations. How do you maintain or grow the current dividend given the Seagen debt cost, why wouldn't a dividend cut be on the table? And what would have to happen financially for that to be a part of the discussion?
+
+--------------------------------------------------------------------------------
+David M. Denton,  Pfizer Inc. - CFO & Executive VP    [61]
+--------------------------------------------------------------------------------
+Let me be clear, a dividend cut is not on table. We are -- we have a balance sheet that is appropriate that can maintain and grow our dividend over time. Our long-term expectation is the fact that we have made significant investments. The investments it materially are behind us now as a process of execution to deliver on both our growth rates long term. But importantly, as those growth rates begin to materialize, they will substantially enhance our cash flow yield over time. So you should not expect that. Our focus, again, is from a capital allocation perspective to both maintain and grow our dividends over time.
+
+--------------------------------------------------------------------------------
+Albert Bourla,  Pfizer Inc. - Chairman of the Board & CEO    [62]
+--------------------------------------------------------------------------------
+And also, David, as maybe you can make also a comment as to how we think from the immediate capital allocation strategy would be number one, dividend. Number 2?
+
+--------------------------------------------------------------------------------
+David M. Denton,  Pfizer Inc. - CFO & Executive VP    [63]
+--------------------------------------------------------------------------------
+Yes. So obviously, the first and foremost focus of our capital allocation program, again, is on the dividend. Secondly, we're going continue to invest in our business. And you just heard us reiterate the focus on investing in Seagen in the portfolio around Seagen to grow the existing products but also expand our reach into oncology as well as support the many launches that we have underway. And then our final leg of our capital allocation program is share repurchases. We are not at a point at this point in time to do share repurchases. We will focus on delevering a bit over the next midterm before we get back into the share repurchase program.
+So with that, Albert, back to you.
+
+--------------------------------------------------------------------------------
+Albert Bourla,  Pfizer Inc. - Chairman of the Board & CEO    [64]
+--------------------------------------------------------------------------------
+So thank you. So to summarize, dividend, then deleverage and then once we bring the leverage to a certain level, investing back in business development, we have done 20 billions of 25 that we have targeted. And then once we delever, we can execute the remaining 5 and, of course, share repurchases so that we can return basically capital threshold.
+So with that, we have a great reason to be optimistic about the positive momentum in our business. The opportunity that the Seagen acquisition brings forward and Pfizer's long-term potential. I think we have said based I think it is very realistic, a base that is very reliable and the base that we can easily deliver with very high confidence. I want to thank you all and wish you a happy holiday season. Thank you.
+
+--------------------------------------------------------------------------------
+Operator    [65]
+--------------------------------------------------------------------------------
+Thank you, ladies and gentlemen. This concludes Pfizer's Analyst and Investor Call. We appreciate your participation, and you may disconnect at any time.
+
+
+
+
+
+
+
+--------------------------------------------------------------------------------
+Definitions
+--------------------------------------------------------------------------------
+PRELIMINARY TRANSCRIPT: "Preliminary Transcript" indicates that the 
+Transcript has been published in near real-time by an experienced 
+professional transcriber.  While the Preliminary Transcript is highly 
+accurate, it has not been edited to ensure the entire transcription 
+represents a verbatim report of the call.
+
+EDITED TRANSCRIPT: "Edited Transcript" indicates that a team of professional 
+editors have listened to the event a second time to confirm that the 
+content of the call has been transcribed accurately and in full.
+
+--------------------------------------------------------------------------------
+Disclaimer
+--------------------------------------------------------------------------------
+Refinitiv reserves the right to make changes to documents, content, or other 
+information on this web site without obligation to notify any person of 
+such changes.
+
+In the conference calls upon which Event Transcripts are based, companies 
+may make projections or other forward-looking statements regarding a variety 
+of items. Such forward-looking statements are based upon current 
+expectations and involve risks and uncertainties. Actual results may differ 
+materially from those stated in any forward-looking statement based on a 
+number of important factors and risks, which are more specifically 
+identified in the companies' most recent SEC filings. Although the companies 
+may indicate and believe that the assumptions underlying the forward-looking 
+statements are reasonable, any of the assumptions could prove inaccurate or 
+incorrect and, therefore, there can be no assurance that the results 
+contemplated in the forward-looking statements will be realized.
+
+THE INFORMATION CONTAINED IN EVENT TRANSCRIPTS IS A TEXTUAL REPRESENTATION
+OF THE APPLICABLE COMPANY'S CONFERENCE CALL AND WHILE EFFORTS ARE MADE TO
+PROVIDE AN ACCURATE TRANSCRIPTION, THERE MAY BE MATERIAL ERRORS, OMISSIONS,
+OR INACCURACIES IN THE REPORTING OF THE SUBSTANCE OF THE CONFERENCE CALLS.
+IN NO WAY DOES REFINITIV OR THE APPLICABLE COMPANY ASSUME ANY RESPONSIBILITY FOR ANY INVESTMENT OR OTHER
+DECISIONS MADE BASED UPON THE INFORMATION PROVIDED ON THIS WEB SITE OR IN
+ANY EVENT TRANSCRIPT. USERS ARE ADVISED TO REVIEW THE APPLICABLE COMPANY'S
+CONFERENCE CALL ITSELF AND THE APPLICABLE COMPANY'S SEC FILINGS BEFORE
+MAKING ANY INVESTMENT OR OTHER DECISIONS.
+--------------------------------------------------------------------------------
+Copyright 2023 Refinitiv. All Rights Reserved.
+--------------------------------------------------------------------------------

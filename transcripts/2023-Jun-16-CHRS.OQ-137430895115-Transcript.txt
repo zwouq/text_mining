@@ -1,0 +1,415 @@
+
+
+Refinitiv StreetEvents Event Transcript
+E D I T E D   V E R S I O N
+
+Coherus BioSciences, Inc., Surface Oncology, Inc. - M&amp;A Call
+JUNE 16, 2023 / 12:30PM GMT
+
+================================================================================
+Corporate Participants
+================================================================================
+
+ * Robert W. Ross
+   Surface Oncology, Inc. - President, CEO & Director
+ * McDavid Stilwell
+   Coherus BioSciences, Inc. - CFO
+ * Theresa M. Lavallee
+   Coherus BioSciences, Inc. - Chief Development Officer & Chairman of Scientific Advisory Board
+ * Dennis M. Lanfear
+   Coherus BioSciences, Inc. - Chairman, President & CEO
+ * Marek Ciszewski
+   Coherus BioSciences, Inc. - SVP of IR
+
+================================================================================
+Conference Call Participiants
+================================================================================
+
+ * Ashwani Verma
+   UBS Investment Bank, Research Division - Director of Americas Equity Research & US Specialty Pharma Analyst
+ * Jason Matthew Gerberry
+   BofA Securities, Research Division - MD in US Equity Research
+ * Unidentified Analyst
+    - 
+ * Boris Peaker
+   TD Cowen, Research Division - MD & Senior Research Analyst
+ * Douglas Dylan Tsao
+   H.C. Wainwright & Co, LLC, Research Division - MD & Senior Healthcare Analyst
+
+================================================================================
+Presentation
+--------------------------------------------------------------------------------
+Operator    [1]
+--------------------------------------------------------------------------------
+Good day, and thank you for standing by. Welcome to the Coherus and Surface Oncology Conference Call. (Operator Instructions) Please be advised that today's conference is being recorded. 
+I would now like to hand the conference over to your speaker today. Marek, please go ahead.
+
+--------------------------------------------------------------------------------
+Marek Ciszewski,  Coherus BioSciences, Inc. - SVP of IR    [2]
+--------------------------------------------------------------------------------
+Thank you, Latanya, and good morning, everybody. Today's call includes forward-looking statements regarding the proposed transaction for the terms of the agreement and plan of merger among Coherus BioSciences and Surface Oncology and their affiliates. These forward-looking statements include, but are not limited to, statements regarding the business combination and related matters, including, but not limited to, satisfaction of closing conditions, prospective performance and opportunities with respect to Coherus or Surface, post-closing operations and the outlook for the company's businesses, Coherus', Surface's or the combined company's targets, plans and objectives or goals for future operations, including those related to Coherus' and Surface's product candidates. 
+Factors that may affect future results and may cause these forward-looking statements to be inaccurate include, without limitation, uncertainties as to the timing for completion of the proposed transaction, uncertainties assure Surface's ability to obtain the approval of its stockholders, the possibility that competing offers will be made by third parties, the occurrence of events that may give rise to right of one or both of parents and the company to terminate the merger agreement or other factors, either very nature, forward-looking statements involve inherent risks and uncertainties, both general and specific, that are discussed in our presentation slides and the press release that we issued today as well as the documents that Coherus and Surface filed with the SEC. 
+With that, I will hand the call over to Denny.
+
+--------------------------------------------------------------------------------
+Dennis M. Lanfear,  Coherus BioSciences, Inc. - Chairman, President & CEO    [3]
+--------------------------------------------------------------------------------
+Thank you, Marek. Good morning, everyone. 
+As you know, this morning, we announced the proposed acquisition of Surface Oncology, and the objective of our call this morning is to explain to you the scientific, clinical and strategic rationale behind this transaction. I'm honored and pleased to be joined today by Dr. Rob Ross, Surface Oncology's Chief Executive Officer. I'm also joined by my Coherus team members, Dr. Theresa Lavallee, our Chief Development Officer; and Mr. McDavid Stilwell, our Chief Financial Officer. 
+Now for more than a year, Coherus had systematically searched for I-O assets complementary with our next-generation differentiated PD-1 inhibitor, toripalimab, that would potentially extend towards reach into more prevalent cancers as well as areas of unmet needs in inadequate patient survival. 
+With this effort, we screened over 200 companies to more than 500 moiety. We believe our efforts were comprehensive and thorough. At the end of that process, the world-class science of Surface and the high-quality clinical stage data-rich assets, SRF388 and SRF114, stood out head and shoulders above the others. Coherus brings to Surface the ability to develop these assets in combination with our PD-1 inhibitor, toripalimab. 
+As you will see, the Coherus-Surface merger creates one of the few immuno-oncology companies with demonstrated commercial expertise, significant product revenues and unique leading-edge R&D programs. 
+Now let me make two additional key points. Firstly, this merger comes at a very opportune time for Coherus, as we are now midway through an 18-month period of five product launches in our revenue inflection point with toripalimab progressing towards an FDA approval decision.
+Secondly, by adding SRF388 and SRF114 to our immuno-oncology portfolio creates a pipeline prioritization opportunity as we upgrade and refocus on more competitively positioned programs. We project R&D expense reductions of up to $50 million through the 2025 planning period, and these efforts, while adding up to $25 million in cash to our balance sheet upon closing. 
+Now the scientific, clinical and business model synergies of this corporate combination are considerable. Rigorous scientific research service has discovered and developed a number of very interesting I-O drug candidates, potentially synergistic with toripalimab. Toripalimab itself is an ideal foundation stone for the I-O franchise for Coherus, with a differentiated mechanism of action and well positioned for success in prevalent cancers. 
+The existing Coherus pipeline is also focused on targeting the immunosuppressive mechanisms in the tumor microenvironment. And of course, our commercial revenues now from our approved products will support our development expenses. We're well positioned to extend the survival of cancer patients and deliver significant shareholder value. 
+Now let me talk firstly about the scientific synergies. Agents which activate an immune response to the tumor microenvironment will promise when combined with checkpoint inhibitors. Both SRF388, and IL-27 map, and SRF114, a CCR8 map, target tumor microenvironment, relieving immunosuppression, allowing T cell response. 
+Checkpoint inhibitors reinvigorate tumor-specific T cells. This mechanism of action synergy thus presents promising approaches to treat cancers with high prevalence and unmet need. As the next-generation PD-1 inhibitor antibody, toripalimab is an ideally suited for combination therapy with these assets. 
+Let me talk now about the clinical synergies. Together, Coherus and Surface share a patient-focused vision for developing novel immuno-oncology agents that a potential extends above and beyond what has been achieved with checkpoint inhibitors and chemotherapy. This merger upgrades Coherus' clinical pipeline and leapfrogs us to combinations with the potential to accelerate the development pathway. 
+SRF388 and SRF114, in combination with toripalimab and potentially also with CHS-006, our targeted antibody, has the potential to expand our immuno-oncology commercial opportunity in non-small cell lung cancer, hepatocellular carcinoma, head and neck cancer and other tumor types where IL-27 and CCR8 mechanisms play a role in immunosuppression. These tumor types are complementary to the toripalimab clinical development program, setting up promising combination approaches in cancer treatment. 
+Now let me discuss a bit about the business model synergies and benefits. The Surface acquisition brings important business model synergies and financial benefits to Coherus. First, the elimination of program overlap on shared targets generates cost and time savings. Secondly, the transaction enables Coherus to conduct a portfolio review and a prioritized development of the most advanced and the most competitively positioned programs. 
+It expands our partnering opportunities for toripalimab, in addition, combination therapies. We expect to reduce Coherus' currently budgeted R&D expenses through 2025 by at least $50 million through this portfolio prioritization. 
+Additionally, we plan to monetize ex-U.S. rights to SRF388 and SRF114 in 2024 and 2025 after the assets have passed through important clinical milestones, potentially yielding upfront payments and defraying future development expenses. 
+Coherus shareholders will receive 30% share of the value for the Surface programs partner with Novartis and GSK. Importantly, the transaction is projected to strengthen Coherus' balance sheet with up to $25 million of service net cash projected at closing. 
+Now the Surface merger is very opportunistically timed as we are beginning to realize potential of our biosimilar strategy, which plays an important role for Coherus as they generate net sales to fund our innovative neo-oncology drug development. We are seeing accelerating revenue growth for similarly per plan and the recently launched UDENYCA auto-injector is gaining traction, providing new Spark UDENYCA franchise. 
+Next month, we plan to launch our (inaudible) similar YUSIMRY, with our innovative strategy, made possible by a significant prior investment manufacturing scale. Toripalimab will become our first branded drug, if approved by the FDA for nasal pharyngeal carcinoma. And we are continuing to work with the FDA to get this potentially life-saving drug to patients who currently have no approved therapies in the United States. 
+This merger adds two competitively positioned clinical stage programs to our pipeline. The combined pipeline of the two companies is represented here. In a few moments, Rob will describe the exciting data has been generated recently with SRF388 and SRF114.
+Commercially, use of an improved combination of these candidates with toripalimab with yield sales of two Coherus owned drugs. 
+With that, I'll now turn the call over to my colleague, Dr. Robert Ross, CEO. Rob?
+
+--------------------------------------------------------------------------------
+Robert W. Ross,  Surface Oncology, Inc. - President, CEO & Director    [4]
+--------------------------------------------------------------------------------
+Thank you, Denny. It's a pleasure to be joining the Coherus team on today's call to provide an overview of Surface's programs, discuss the data we announced today and most importantly, to share our excitement for the proposed merger of Surface and Coherus. 
+Surface has a compelling pipeline of innovative immuno-oncology antibodies, which hold the potential to change the treatment paradigm for patients suffering from a variety of solid tumors. However, to truly realize their potential, it is essential that these molecules are developed with both the resources and the companion drugs needed to successfully advance them through the clinic and to bring them to market. Coherus is greatly positioned to do just that. 
+Surface's programs dovetail with the Coherus business strategy and its vision to become an innovative leader in the field of immuno-oncology. That's why we firmly believe that with Coherus our programs will have the best possible opportunity to benefit patients and realize value for our shareholders. 
+I'll start by revisiting the combined pipeline, which Denny just shared. This slide illustrates the logic and benefits of a merger of Surface and Coherus. It presents an exciting opportunity to advance Surface's novel antibodies and investigate them in combination with Coherus' molecules. I'll discuss more detail about the Surface novel antibodies now. 
+Moving to the next slide. SRF388 is Surface's fully-human IgG1 antibody that binds and neutralizes the immunosuppressive cytokine IL-27. It is the only anti-IL-27 antibody in clinical development. At Surface, we have been at the forefront of IL-27 research and biology. This cytokine is not always found in the tumor microenvironment, but when present, it is highly immunosuppressive and serves as an important regulator of checkpoint protein expression. 
+SRF388 binds IL-27 and prevent it from interacting with its downstream receptor, thereby neutralizing its immunosuppressive effects. With this agent, we have demonstrated clinical activity with confirmed responses as a single agent in kidney cancer and in lung cancer as well as combination activity in liver cancer. 
+Moving to the next slide. Let me share a bit on IL-27 biology. IL-27 is an immunoregulatory cytokine that's produced by macrophages and dendritic cells. It has a multitude of immunosuppressive effects within the tumor microenvironment, including constraining NK cell immunosurveillance, increasing checkpoint receptor expression on immune cells and decreasing pro-inflammatory cytokine secretion. So through a cascade of different effects, IL-27, when present in the tumor microenvironment, can suppress both innate and adaptive immune response. By binding the IL-27 cytokine, SRF388 neutralizes these immunosuppressive effects and stimulates anti-tumor immunity. 
+Moving to the next slide. We share the most recent data from our clinical trial investigating SRF388 as monotherapy treatment in a refractory non-small cell lung cancer population of patients. 
+On the right of this slide, in the waterfall plot, you can see the data from 32 response-evaluable patients with non-small cell lung cancer whose data was available at the time of our most recent snapshot, of whom 24 are RECIST valuable. All but one of these patients were treated at a recommended Phase II dose of 10 mg per kilo or above, all had previous anti-PD-1 or anti-PD-L1 treatment, and many of these patients had low PD-L1 expression in the tumor microenvironment. 
+In this patient population, SRF388 demonstrated encouraging monotherapy activity, including two confirmed partial responses. Both PRs were in patients with squamous non-small cell lung cancer. And both patients had either low or no PD-L1 expression within the tumor microenvironment. 
+Additionally, both patients were resistant to previous anti-PD-1 or anti-PD-L1 treatment. It is uncommon to see monotherapy activity in this highly treatment refractory patient population from a novel I-O agent, and we believe this bodes well for its future success in combination. 
+Furthermore, one of the exciting aspects of the proposed merger with Coherus is integrating SRF388's activity in non-small cell lung cancer with the known activity of toripalimab in non-small cell lung cancer. which presents the opportunity for a host of potential combination trials moving forward. 
+Moving to the next slide. This is our Phase II trial investigating SRF388 in hepatocellular carcinoma, also known as liver cancer. We have fully enrolled the 30-patient lead-in in the first-line single-arm Phase II trial of SRF388 in triple combination with the standard of care, that is atezolizumab with bevacizumab. Note that this data cut-off is early in the treatment of these patients, and only half of the patients on the trial have had more than one on treatment scan. 
+To date, we have recorded a 27% overall response rate, with a 65% disease control rate. It generally takes three or four on-treatment scans to identify most of the responders. And importantly, only about half of all eventual responses from atezolizumab and bevacizumab alone are detectable within the first imaging cycle, that only half the patients on our trial have had more than one imaging cycle, suggest that as these data mature, we should expect to see increased response rates as well as generating important data on progression-free survival and duration of response. 
+Notably, at the recent ASCO conference, Roche shared exciting new data from their anti-TIGIT antibody in a very similar liver cancer patient population. This news is both encouraging for the class of anti-TIGIT antibodies and also speaks to another highlight of this merger. We believe that the merger of Surface and Coherus presents a unique opportunity to combine the promising novel drugs to toripalimab, CHS-006 and SRF388 targeting PD-1, TIGIT and IL-27, respectively, in liver cancer. No other company has agents against all three of those targets in clinical trials, and the scientific and competitive advantages presented by this proposed combination are vast. 
+Now I'll move on to SRF114 the next slide. SRF114 is our anti-CCR8 antibody, which is currently in a Phase I/II dose escalation, safety and tolerability trial. The scientists of Surface have been working on this program from Surface's inception because targeting CCR8 offers the opportunity to deplete intratumoral regulatory T cells without depleting other T cells, including circulating regulatory T cells and effector CD8-positive T cells. 
+SRF114 is a high affinity, fully human IgG1 that binds the CCR8 and has been engineered to specifically deplete Tregs within the tumor microenvironment. Importantly, in our preclinical studies, we have seen exquisite selectivity to human CCR8 and have not observed off-target binding of SRF114 to any other human proteins. 
+Moving to the next slide. We have known for quite some time that regulatory T cells, also called Tregs, are an important cellular component of the tumor microenvironment and result in profound local immune suppression, allowing tumor cells to avoid antitumor immunity. 
+A long-held goal in immuno-oncology research has been to find a way to remove these regulatory T cells selectively from the tumor microenvironment. But targeting regulatory T cells result in two key challenges. First, the protein used to target regulatory T cells are often expressed on normal effector T cells. 
+By targeting a protein that's expressed on the regulatory T cells and a normal nonregulatory T cell, you remove both the immunosuppressive regulatory T cell, but to remove the effector T cell as well, which could undermine the effect you're trying to produce. 
+Secondly, peripheral Tregs serve an important role in preventing autoimmunity in healthy human beings. So one targets intratumoral regulatory T cells, but also deplete peripheral regulatory T cells, it could result in significant toxicity manifested by autoimmunity. 
+CCR8 is an ideal target for removing primarily tumor infiltrating regulatory T cells because it is not expressed at high levels on normal T cells and it is not expressed at high levels on the majority of peripheral regulatory T cells. That's shown in the graph at the bottom of this slide, where you can see that on human cells in, in vitro studies with SRF114 application, you see market depletion of intratumoral regulatory T cells, but no effect on peripheral regulatory T cells and no effect on intratumoral CD4 and CD8 effector T cells, which are responsible for antitumor immunity. So SRF114 has been observed to be a highly selective and potent anti-CCR8 antibody to deplete tumor infiltrating regulatory T cells. 
+Moving to the next slide, you can see a snippet from the extensive amount of preclinical data that we have generated evaluating antibodies, which target and deplete CCR8-positive regulatory T cells. 
+In this mouse model that we're displaying on this slide, we use a melanoma tumor that is highly resistant to anti-PD-1 treatment and then studied treatment with anti-CCR8 antibodies as well as the combination of anti-CCR8 and anti-PD-1 in the mouse. 
+As you can see on the left, as expected, in this PD-1 resistant tumor type, anti-PD-1 treatment has no effect, while anti-CCR8 treatment had a strong effect of preventing tumor growth and the combination of the two did even better. On the right, you can see that result is recapitulated in the survival graphs, showing that the best treatment in this PD-1 resistant tumor type is anti-CCR8 in combination with anti-PD-1. 
+There is a huge unmet need for patients with cancer who have progressed during treatment with anti-PD-1 or for those whose tumors don't just don't respond to anti-PD-1 therapy alone, potentially SRF114 in combination with toripalimab could help to address this need. 
+Moving to Slide 20. Here is the potential mechanism of action of this combined treatment, and it's clearly illustrated. As you can see that after treatment with anti-CCR8 or anti-CCR8 plus anti-PD-1, the infiltrating effector T cells, the CD8-positive T cells, go up considerably as compared to anti-PD-1 alone. You can see that in the immunohistochemistry on the left, where the CD8-positive T cells are shown in brown. And you can see that in the scatter plot on the right, where the combination treatment has markedly increased the number of CD8+ T cells and those CD8+ T cells are the ones that drive antitumor immunity. Our belief is that the combinatorial efficacy seen in this PD-1 resistant tumor model is driven by this influx of antitumor CD8 positive T cell. 
+Moving to Slide 22. The first patient was dosed with SRF114 in early 2023. Since that time, we've progressed through three dose levels, treating six patients without any concerning safety signals. Moreover, we had some early pharmacodynamic data, which we are quite excited about. 
+In data available from the first two patients treated at dose level 3, we saw a profound effect of SRF114 on a subset of circulating CCR8 positive regulatory T cells. You can see in the flow plot on the left and in the bar graph on the right a marked reduction in the CCR8-positive regulatory T cells from immediately pre-dose to 24 hours post-dose, where the number of CCR8-positive regulatory T cells drops from double digits to less than 1% after treatment. We are gratified to see these data because not only does it suggest that SRF114 is having the intended pharmacologic effect, but it is happening at a lower dose level than we had previously thought, speaking to the potency of this antibody. 
+Moving to the next slide. One of the many exciting synergies we see with this potential merger is the opportunity to combine SRF114 with toripalimab in head and neck cancer, where anti-PD-1 treatment has shown durable and consistent responses in human beings. 
+Head and neck tumors are typically heavily infiltrated with regulatory T cells, which are strongly positive for CCR8. As you can see on the left, in the immunofluorescence staining, approximately 75% of the regulatory T cells in head and neck tumors are CCR8-positive. 
+On the right, when you look across a broad range of different solid tumors, the tumor type that combines both high levels of CCR8 positivity on infiltrating regulatory T cells, along with high levels of infiltrating NK cells, which are required for the depletion effects of SRF114, head and neck tumors stand out as the top indication to study. In fact, the current Phase I/II study already contains an expansion arm for patients suffering from this disease. 
+Coherus and their partners have already presented exciting data from toripalimab in native fringil tumors, which are a subset of head and neck tumors. We believe there is a real opportunity to have a profound combination that is purely immunotherapy-based with SR114 combined with toripalimab in patients suffering from head and neck cancer. 
+In summary, I believe that the merger of Surface and Coherus creates an exciting armamentarium of potentially transformative immuno-oncology therapies, which holds the promise of improving lives and giving hope to patients who are suffering from life-threatening cancers. 
+I'll now turn the call over to Dr. Theresa Lavallee, Coherus' Chief Development Officer.
+
+--------------------------------------------------------------------------------
+Theresa M. Lavallee,  Coherus BioSciences, Inc. - Chief Development Officer & Chairman of Scientific Advisory Board    [5]
+--------------------------------------------------------------------------------
+Thank you, Rob. I'm thrilled to be here today to talk about these exciting and differentiated I-O programs with scientific and clinical synergies, all with robust data packages and strong disease positioning. 
+On the next slide, Coherus' toripalimab is a next-generation PD-1 inhibitor designed to bind the SG loop of PD-1. As you can see on the left side of this slide, this epitope binding is specific to toripalimab, while pembrolizumab predominantly binds the CD loop and nivalumumab predominantly binds the enterminus of PD-1. 
+Additionally, as shown on the right side of the slide, toripalimab has greater than tenfold higher binding affinity for PD-1 compared to pembro and nivo. This unique and potent binding has shown differentiation in three Phase III studies in non-small cell lung cancer, nasopharyngeal carcinoma, in esophageal squamous cell carcinoma, where treatment with toripalimab and chemotherapy to similar activity irrespective of PD-L1 status. 
+On the next slide, this importantly shows toripalimab has demonstrated clinical activity in a broad range of immunologically responsive tumor types. And furthermore, our partner, Junshi, reported positive Phase III studies in small cell lung cancer and triple-negative breast cancer, tumor types that are generally considered moderately responsive to I-O agents. The demonstrated toripalimab clinical activity has scientific and clinical overlap with SRF388 and SRF114. 
+To date, the safety profile for toripalimab is consistent with the PD-1 inhibitor class, with no new safety signals. Toripalimab is currently under BLA review with the U.S. FDA for nasal pharyngeal carcinoma and has breakthrough therapy designation as well as the data being presented at ASCO plenary session and most recently in an oral discussion at ASCO 2023, characterized as practice changing. 
+Coherus' strategy has been to identify novel I-O combinations to expand toripalimab treatment beyond NPC and continue to improve survival for underserved cancer patients. SRF388 and SRF114 have met all the criteria we were looking for, for development with toripalimab. 
+The next slide depicts Coherus and the field focus for immunotherapy development. While PD-1 inhibitors have revolutionized cancer therapy, still only a minority of patients respond, over the last decade, the field has learned a lot about what makes the tumor immunologically responsive or high and others that are PD-1 resistant or refractory. 
+A key mechanism for PD-1 resistance is immunosuppressive cells and cytokines. Locking these immunosuppressive mechanisms in the tumor microenvironment has the potential to reverse PD-1 resistance and convert a tumor to be immunologically responsive. 
+Surface has demonstrated, with their SRF388 program, targeting IL-27 and immunosuppressive cytokine that inhibiting this cytokine can activate the immune system and importantly, activate antitumor immunity demonstrating single-agent activity in PD-1 experienced non-small cell lung cancer in renal cell carcinoma. 
+I-O monotherapy activity, particularly in PD-1 previously treated patients, is unusual and exciting. Advancing clinical studies with SRF388 and toripalimab is of importance and has the potential to address a critical unmet medical need for cancer patients. 
+Other immunosuppressive mechanisms that may address PD-1 resistance are Treg cells and the suppressive macrophages. SRF114, as eloquently described by Rob, is a clinical stage program that is early in its development. And in the Phase I first-in-human study has demonstrated the activity to eliminate CCR8 expressing Treg cells in circulation, and that establishes the proof of the antibody's mechanism of action in cancer patients. 
+Coherus' ILT-4 program aims to relieve suppressive macrophages in the tumor microenvironment. All of these programs are scientifically supported in rational combinations with toripalimab. 
+On the left side of this slide further shows the aim of future I-O treatments. After a decade of successful checkpoint inhibitors generating survival for cancer patients, as signified by the tail on the Kaplan-Meier curve, the next decade is looking to increase survival for more cancer patients. 
+The combined portfolio gives an exciting and science-driven approach to activating antitumor immunity in a broad range of tumor types, with early clinical data showing antitumor activity, an acceptable safety profile and immune activation for anti-IL-27, SRF388. We look forward to further the Phase II clinical development in combination with our next-generation PD-1 inhibitor, toripalimab. 
+I'll now turn the call to McDavid Stilwell, our Chief Financial Officer.
+
+--------------------------------------------------------------------------------
+McDavid Stilwell,  Coherus BioSciences, Inc. - CFO    [6]
+--------------------------------------------------------------------------------
+Thank you, Theresa. I'll begin by reviewing key terms of the transaction. 
+This is a stock-for-stock deal in which Coherus will issue shares of common stock in exchange for all outstanding shares of Surface common stock. We estimate the value of the transaction at up to $65 million, inclusive of $40 million of enterprise value and $20 million to $25 million in Surface net cash projected at closing. 
+The transaction pricing is based on Coherus' 5-day volume weighted average price per share of $5.28. The final transaction value and number of shares issued to Surface shareholders will depend on the value of Surface net cash at closing. The transaction has been unanimously approved by the Boards of Directors of both companies, and we expect it to close in September. 
+In addition to Coherus' common stock, Surface shareholders will receive contingent value rights for 70% of the value of programs partnered with GSK and Novartis as well as CVRs representing 25% of any upfront payments Coherus received for an ex-U.S. collaboration for SRF114 and 50% of the upfront Coherus received for an ex-U.S. collaboration for SRF388. 
+As Denny mentioned, the transaction has a positive financial impact for Coherus. The $20 million to $25 million in projected Surface net cash at closing will strengthen Coherus' balance sheet. Potential out-licensing of ex-U.S. rights to SRF388 and SRF114 could raise significant non-dilutive capital in 2024 and 2025 after these programs have advanced through key clinical milestones. Coherus also stands to receive 30% of the value of milestones or royalties paid through the GSK and Novartis partnerships. 
+Next slide. The acquisition comes at an opportune time as our biosimilar strategy is beginning to deliver the revenue growth we projected. Similarly, market share and net sales are growing rapidly since the activation of the Q code in April 1, we as we expected. 
+Today, we are introducing revenue guidance for the second quarter of 2023. We expect combined UDENYCA and YUSIMRY net sales of $48 million to $53 million for 2Q. For the full year 2023, we maintain our guidance of at least $275 million of portfolio net sales, including at least $100 million of similarly net sales. This transaction will not change our lean approach to operations. 
+And very importantly, we are also today reaffirming our full year expense guidance range of $315 million to $335 million of combined R&D and SG&A expenses. This range includes approximately $50 million in noncash stock compensation expense and it excludes the acquisition cost of Surface and also upfront or milestone payments payable in connection with other collaborations. Over the past year, we have achieved very significant reductions in operating expenses and cash utilization. And we will continue to look for opportunities for savings. 
+As Denny mentioned earlier, this acquisition will enable us to prioritize our R&D activities on the most competitively positioned programs, and we expect to cut at least $50 million in budgeted R&D expenses through 2025. We continue to project that Coherus could become cash flow positive again in 2024. 
+I will now turn the call back to Denny for closing remarks.
+
+--------------------------------------------------------------------------------
+Dennis M. Lanfear,  Coherus BioSciences, Inc. - Chairman, President & CEO    [7]
+--------------------------------------------------------------------------------
+Thank you, McDavid. I'd like to return to the combined pipeline and show you all the exciting near-term catalysts we're expecting for the program.
+As you can see, our pipeline is robust, diversifying complementary synergistic, focused on unmet need and extending patient survival in cancer. We are full court pressing the entire cancer immunity cycle, not just focusing on checkpoint inhibitors. These targets represent the most forward thinking in the I-O field and our next-generation approaches. 
+I remind you again, we pair this with our revenue drivers and our expanding commercial portfolio. We anticipate strong news flow on both fronts going forward for you. We'll continue as usual with presenting data when available at scientific medical conferences, and I look forward to seeing you all at our research day in Q4 of this year. 
+Operator, I'll now open the call to questions.
+
+
+================================================================================
+Questions and Answers
+--------------------------------------------------------------------------------
+Operator    [1]
+--------------------------------------------------------------------------------
+(Operator Instructions) One moment for our first question, which comes from Robyn Karnauskas of Truist.
+
+--------------------------------------------------------------------------------
+Unidentified Analyst,   -     [2]
+--------------------------------------------------------------------------------
+This is (inaudible) on for Robyn and congrats on the progress here. So a question on M&A. So you talked about bringing other molecules to partner with tori -- combined with tori. 
+Now considering your spend and your profitability insight, how should we think about additional M&A? Like also should we anticipate like additional partnership agreements with tori in future? And I have a follow-up.
+
+--------------------------------------------------------------------------------
+Dennis M. Lanfear,  Coherus BioSciences, Inc. - Chairman, President & CEO    [3]
+--------------------------------------------------------------------------------
+Thank you for the question. I think with respect to the pipeline pairing tori with other assets, we would probably do such transactions in partnering mode, taking tori post approval for nasal pharyngeal and pairing up with selected compounds. 
+I don't perceive further M&A of this type with further products in the pipeline. We continue, however, to look at top line and driving the top line with the revenues. And I think that goes hand-in-hand with the I-O story.
+
+--------------------------------------------------------------------------------
+Unidentified Analyst,   -     [4]
+--------------------------------------------------------------------------------
+Great. And just one. So in terms of combination studies with tori, what should we think about the next test here? Now considering like both the surface assets would benefit from being used in combinations with tori? Like what can you do quickly to jump into like pivotal combination studies here?
+
+--------------------------------------------------------------------------------
+Dennis M. Lanfear,  Coherus BioSciences, Inc. - Chairman, President & CEO    [5]
+--------------------------------------------------------------------------------
+That's a great question. So I'll let Dr. Lavallee, our Chief Development Officer, address that. Theresa?
+
+--------------------------------------------------------------------------------
+Theresa M. Lavallee,  Coherus BioSciences, Inc. - Chief Development Officer & Chairman of Scientific Advisory Board    [6]
+--------------------------------------------------------------------------------
+Yes. I think Rob and I both talked about the obvious overlap, both scientifically and clinically, but we'll have to do a whole portfolio of prioritization. And as the deal closes, we'll be announcing more and plan to have a Science day in the fourth quarter to really walk through how we're going to prioritize things and take them forward.
+
+--------------------------------------------------------------------------------
+Operator    [7]
+--------------------------------------------------------------------------------
+And our next question will come from Ash Verma of UBS.
+
+--------------------------------------------------------------------------------
+Ashwani Verma,  UBS Investment Bank, Research Division - Director of Americas Equity Research & US Specialty Pharma Analyst    [8]
+--------------------------------------------------------------------------------
+I had a couple, and I'll get back in the line after that. So just for 388 for squamous non-small cell carcinoma. Just it seems like pembro PFS OS benefit is pretty remarkable, irrespective of PD-L1 expression. Just curious where 388 could fit in here? 
+And then for CCR8, so yes, I wanted to understand like the competitive landscape, I think there other companies pursuing this mechanism in early stage. Can you elaborate like what's the value proposition? And how 114 may compete with other programs?
+
+--------------------------------------------------------------------------------
+Dennis M. Lanfear,  Coherus BioSciences, Inc. - Chairman, President & CEO    [9]
+--------------------------------------------------------------------------------
+Okay. We'll take -- I'll let Dr. Lavallee take your first question first. I think it was a pursuant to pembro?
+
+--------------------------------------------------------------------------------
+Theresa M. Lavallee,  Coherus BioSciences, Inc. - Chief Development Officer & Chairman of Scientific Advisory Board    [10]
+--------------------------------------------------------------------------------
+In the squamous or in PD-L1 expression, so I think from the SRF388 data that Rob shared with today, it's incredibly exciting to see particularly tumor shrinkage in patients who have been PD-1 experience. So the second line of the lung cancer is an incredibly important space that is highly underserved. 
+So doing combinations in reversing PD-1 resistance is an incredibly exciting opportunity. So moving into front line, we'd have to evaluate activity in that setting. In terms of 114, it's very competitively positioned. All assets currently are in Phase I.
+
+--------------------------------------------------------------------------------
+Dennis M. Lanfear,  Coherus BioSciences, Inc. - Chairman, President & CEO    [11]
+--------------------------------------------------------------------------------
+Did you have a follow-up, Ash? Is that...
+
+--------------------------------------------------------------------------------
+Ashwani Verma,  UBS Investment Bank, Research Division - Director of Americas Equity Research & US Specialty Pharma Analyst    [12]
+--------------------------------------------------------------------------------
+Yes. If you have a few minutes. So -- I mean I just wanted to understand two things really. One is just like as you look at these programs, right, like what is the key sales opportunity in your mind of this portfolio? 
+And sometimes cancer can be a little bit difficult to compete in terms of established PD-1 therapies. Is it possible here that you may pursue a lower cost oncology drug strategy for this portfolio to gain some competitive advantage?
+
+--------------------------------------------------------------------------------
+Theresa M. Lavallee,  Coherus BioSciences, Inc. - Chief Development Officer & Chairman of Scientific Advisory Board    [13]
+--------------------------------------------------------------------------------
+Yes. I think our focus, as we've said, is really looking to extend patient survival and change the treatment paradigm. These combinations really have the potential to expand not only improve on current PD-1 regimens, but also address patients who are currently treated with PD-1 inhibitors. So focus on the patient, focus on survival is really where we're looking.
+
+--------------------------------------------------------------------------------
+Dennis M. Lanfear,  Coherus BioSciences, Inc. - Chairman, President & CEO    [14]
+--------------------------------------------------------------------------------
+I would further add for you, Ash, that we are focused overall as an organization in terms of addressing unmet patient need. And as Theresa said with the patient's need. On the biosimilar side of the business, that's access to very competitively priced drugs and that's the paradigm. 
+Over on this side here, though, I think as Theresa said, the patient need is to extend survival. And those are two sides of the same coin.
+
+--------------------------------------------------------------------------------
+Operator    [15]
+--------------------------------------------------------------------------------
+And our next question will come from Boris Peaker of TD Cohen.
+
+--------------------------------------------------------------------------------
+Boris Peaker,  TD Cowen, Research Division - MD & Senior Research Analyst    [16]
+--------------------------------------------------------------------------------
+Can you hear me? This is Boris Peaker. Congratulations on the deal. I just had a question here on 388. I'm just curious, obviously, you plan to combine it at some point with tori. What is the timeline for that? Do you -- and do you need to start building kind of a safety database of the two drugs combined together? Is there some kind of a plan to start a combo study soon? 
+And my second question is on the data expectation, both in 4Q when we're going to see some additional monotherapy data as well as 1Q next year for hepatocellular? What are you looking to see this combo go forward?
+
+--------------------------------------------------------------------------------
+Dennis M. Lanfear,  Coherus BioSciences, Inc. - Chairman, President & CEO    [17]
+--------------------------------------------------------------------------------
+I'm sorry. What are we looking to?
+
+--------------------------------------------------------------------------------
+Boris Peaker,  TD Cowen, Research Division - MD & Senior Research Analyst    [18]
+--------------------------------------------------------------------------------
+What efficacy bar do you really feel you need to see at that point to move this forward?
+
+--------------------------------------------------------------------------------
+Dennis M. Lanfear,  Coherus BioSciences, Inc. - Chairman, President & CEO    [19]
+--------------------------------------------------------------------------------
+Got it. Great. Theresa?
+
+--------------------------------------------------------------------------------
+Theresa M. Lavallee,  Coherus BioSciences, Inc. - Chief Development Officer & Chairman of Scientific Advisory Board    [20]
+--------------------------------------------------------------------------------
+Yes. So the first question about what do you need to do to put tori in this study? Clearly, the current study that surface has ongoing has a 388 arm with pembro. So we would quickly amend that study to include toripalimab. The rest of it -- I mean, the PD-1 class, the nice data package that Surface has generated has shown very good safety profile in combination with other agents, including angiogenesis inhibitors and checkpoint inhibitors. 
+So the totality of the data should be pretty seamless in terms of doing that rapidly. The rest of it will look for prioritization through our full review and discussions with the surface team and announced after deal closing at the Science Day in terms of what we would need to see to advance things, but we will be looking for a high probability of success to go rapidly.
+
+--------------------------------------------------------------------------------
+Operator    [21]
+--------------------------------------------------------------------------------
+And our next question will come from Balaji Prasad of Barclays.
+
+--------------------------------------------------------------------------------
+Unidentified Analyst,   -     [22]
+--------------------------------------------------------------------------------
+This is Shan for Balaji. Just a quick one on the potential CCR8 Treg and PD-1 combo. Just like in normal biology, (inaudible) inhibiting PD-1 at the same time, depleting the Treg, you will have more CD8-positive T cells without figuring any immune AEs concerned?
+
+--------------------------------------------------------------------------------
+Theresa M. Lavallee,  Coherus BioSciences, Inc. - Chief Development Officer & Chairman of Scientific Advisory Board    [23]
+--------------------------------------------------------------------------------
+Yes, I think -- I mean that's a good question in terms of the combination with immunotherapies. That has always been a concern, is to look at increased toxicity. And the Phase I study will continue to address that. But we've also seen combinations with other Treg targeting agents without terrible toxicity. 
+I think that the data having the high selectivity to the CCR8 positive Tregs, as Rob nicely walked through, gives us that selectivity to the tumoral resident Tregs and that should preserve other autoimmune mechanisms. So the data in the clinical study will read out.
+
+--------------------------------------------------------------------------------
+Dennis M. Lanfear,  Coherus BioSciences, Inc. - Chairman, President & CEO    [24]
+--------------------------------------------------------------------------------
+Rob, any further comment on the MOA here with CCR8 (inaudible) to the question?
+
+--------------------------------------------------------------------------------
+Robert W. Ross,  Surface Oncology, Inc. - President, CEO & Director    [25]
+--------------------------------------------------------------------------------
+Yes, I definitely agree with Theresa that, obviously, with any novel combination, you have to wait to see the clinical data. The whole purpose, though, of targeting CCR8 as opposed to one of the many other ways to target Tregs is that you're really focused on the intratumoral Tregs, so that should have a significant impact on the potential safety, right? When you look across the Treg depletion space, there are many other approaches, but most of those approaches target peripheral Tregs and also effector T cells, all of which have additional toxicity.
+
+--------------------------------------------------------------------------------
+Operator    [26]
+--------------------------------------------------------------------------------
+And our next question seems to come from Douglas Tsao of H.C. Wainwright.
+
+--------------------------------------------------------------------------------
+Douglas Dylan Tsao,  H.C. Wainwright & Co, LLC, Research Division - MD & Senior Healthcare Analyst    [27]
+--------------------------------------------------------------------------------
+Congrats on this transaction. Just in terms of the moving parts, obviously, you're adding to your balance sheet as well as some rationalization. We -- just how much pipeline expansion can do ultimately envision with these new service assets, especially in combination with tori? 
+Obviously, you highlighted a couple different tumor types that you would want to initially target or seem logical to target initially. But how much broader -- more broadly can you pursue? And then obviously, does that -- how much of that depends on what you see from the biosimilar's business and some of the other product launches over the next couple of years?
+
+--------------------------------------------------------------------------------
+Dennis M. Lanfear,  Coherus BioSciences, Inc. - Chairman, President & CEO    [28]
+--------------------------------------------------------------------------------
+Thanks, Doug. I'll let Dr. Lavallee take that one for you. Theresa?
+
+--------------------------------------------------------------------------------
+Theresa M. Lavallee,  Coherus BioSciences, Inc. - Chief Development Officer & Chairman of Scientific Advisory Board    [29]
+--------------------------------------------------------------------------------
+Thanks. As we've kind of walked through in the script today in the presentation that we've been -- we've always been focused, and we said repeatedly that doing additional studies with toripalimab has been planned to see approvals beyond (inaudible). This really fits in with what we had already planned. 
+As we go through the opportunities, the wealth of opportunities here into prioritization and have a development plan that we can really bring forward to folks in the fourth quarter at a science day, we'll reveal that. But we're incredibly focused on being within the budget that we've outlined in returning to profitability next year.
+
+--------------------------------------------------------------------------------
+Dennis M. Lanfear,  Coherus BioSciences, Inc. - Chairman, President & CEO    [30]
+--------------------------------------------------------------------------------
+The other point that I'd make, Doug, is one of the things we really like about (inaudible) that's it's very -- it's in the front in a space that's not very crowded, whereas some of the other things such as our digit assets, as you know, there's -- it's a little more crowded. There's quite a few people doing quite a few things. So I think this is a more straightforward development path in combination with tori.
+
+--------------------------------------------------------------------------------
+Operator    [31]
+--------------------------------------------------------------------------------
+And our next question will come from Jason Gerberry of Bank of America.
+
+--------------------------------------------------------------------------------
+Jason Matthew Gerberry,  BofA Securities, Research Division - MD in US Equity Research    [32]
+--------------------------------------------------------------------------------
+A couple of questions just on IL-27 and HCC opportunity. First, just the data that's been generated so far I just wanted to clarify. Of the seven partial responses, how many are confirmed versus unconfirmed? Think you typically need to scans to qualify as a confirmed response. I just wanted to understand that given the amount of follow-up involved with the study so far. 
+And then as we look forward to the first half '24 update for this asset, Obviously, right now, the ORRs are kind of trending in line with atezobev as a combination. So I think we typically need to see like 10% to 15% better ORR on a cross-trial comparison basis to kind of get confidence that you've got something better. 
+So will you have sufficient scans and follow-ups of all these patients to kind of make a determination with the first half 2024 data update?
+
+--------------------------------------------------------------------------------
+Dennis M. Lanfear,  Coherus BioSciences, Inc. - Chairman, President & CEO    [33]
+--------------------------------------------------------------------------------
+Thank you. Rob, would you like to address that?
+
+--------------------------------------------------------------------------------
+Robert W. Ross,  Surface Oncology, Inc. - President, CEO & Director    [34]
+--------------------------------------------------------------------------------
+Yes, I'd be more than happy to. So as you rightly pointed out, with the immature setting of the data with less than or approximately half the patients having more than one on treatment scan, there just hasn't been enough time for many patients to confirm. So right now, four of the responses are confirmed. 
+I think the second half of your question had to do with cross-trial comparisons and what we expect from these data. I really want to stay away from setting an expectation now. I think the important thing is that over the next 6 months, the data mature, we get a better sense of what that response rate looks like, both from a RECIST setting and also an HCC-specific RECIST setting. And then also we care very much about some of the other efficacy metrics such as duration of response and progression-free survival. 
+Your question about what's the appropriate or where to go with cross-trial comparisons is a very interesting one because the primary reference point has been the Phase III trial with atezo bev with a response rate on the order of about 30%. 
+But interestingly, at ASCO now with the Morpheus data, we've seen, over time, a degradation of that response rate, obviously, small patient numbers and still need more maturity but the control arm response rate in that trial was sub-20%, actually right about 11%. 
+So we need to get a really good sense of these patients over time and see how they do. But certainly, I believe these data are trending in a very competitive direction and then the opportunity to combine with a powerful PD-1 as well as the potential to combine with a drug like the anti-TIGIT antibody, I think, is really a wealth of opportunities for patients with liver cancer.
+
+--------------------------------------------------------------------------------
+Operator    [35]
+--------------------------------------------------------------------------------
+And I'm showing no further questions. I would now like to turn the conference back to Coherus CEO, Denny Lanfear, for closing remarks.
+
+--------------------------------------------------------------------------------
+Dennis M. Lanfear,  Coherus BioSciences, Inc. - Chairman, President & CEO    [36]
+--------------------------------------------------------------------------------
+Thank you, operator, and thank you all for joining us this morning to discuss this very, very exciting combination of two companies and a very significant clinical, strategic and mechanism of action synergies, which are driving us forward. 
+We look forward to talking to you all again on our next call in August, and we look forward to seeing you in our Research Day in Q4. Bye-bye.
+
+--------------------------------------------------------------------------------
+Operator    [37]
+--------------------------------------------------------------------------------
+This concludes today's conference call. Thank you for participating. You may now disconnect.
+
+
+
+
+
+
+
+--------------------------------------------------------------------------------
+Definitions
+--------------------------------------------------------------------------------
+PRELIMINARY TRANSCRIPT: "Preliminary Transcript" indicates that the 
+Transcript has been published in near real-time by an experienced 
+professional transcriber.  While the Preliminary Transcript is highly 
+accurate, it has not been edited to ensure the entire transcription 
+represents a verbatim report of the call.
+
+EDITED TRANSCRIPT: "Edited Transcript" indicates that a team of professional 
+editors have listened to the event a second time to confirm that the 
+content of the call has been transcribed accurately and in full.
+
+--------------------------------------------------------------------------------
+Disclaimer
+--------------------------------------------------------------------------------
+Refinitiv reserves the right to make changes to documents, content, or other 
+information on this web site without obligation to notify any person of 
+such changes.
+
+In the conference calls upon which Event Transcripts are based, companies 
+may make projections or other forward-looking statements regarding a variety 
+of items. Such forward-looking statements are based upon current 
+expectations and involve risks and uncertainties. Actual results may differ 
+materially from those stated in any forward-looking statement based on a 
+number of important factors and risks, which are more specifically 
+identified in the companies' most recent SEC filings. Although the companies 
+may indicate and believe that the assumptions underlying the forward-looking 
+statements are reasonable, any of the assumptions could prove inaccurate or 
+incorrect and, therefore, there can be no assurance that the results 
+contemplated in the forward-looking statements will be realized.
+
+THE INFORMATION CONTAINED IN EVENT TRANSCRIPTS IS A TEXTUAL REPRESENTATION
+OF THE APPLICABLE COMPANY'S CONFERENCE CALL AND WHILE EFFORTS ARE MADE TO
+PROVIDE AN ACCURATE TRANSCRIPTION, THERE MAY BE MATERIAL ERRORS, OMISSIONS,
+OR INACCURACIES IN THE REPORTING OF THE SUBSTANCE OF THE CONFERENCE CALLS.
+IN NO WAY DOES REFINITIV OR THE APPLICABLE COMPANY ASSUME ANY RESPONSIBILITY FOR ANY INVESTMENT OR OTHER
+DECISIONS MADE BASED UPON THE INFORMATION PROVIDED ON THIS WEB SITE OR IN
+ANY EVENT TRANSCRIPT. USERS ARE ADVISED TO REVIEW THE APPLICABLE COMPANY'S
+CONFERENCE CALL ITSELF AND THE APPLICABLE COMPANY'S SEC FILINGS BEFORE
+MAKING ANY INVESTMENT OR OTHER DECISIONS.
+--------------------------------------------------------------------------------
+Copyright 2023 Refinitiv. All Rights Reserved.
+--------------------------------------------------------------------------------

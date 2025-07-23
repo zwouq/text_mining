@@ -1,0 +1,136 @@
+
+
+Refinitiv StreetEvents Event Transcript
+E D I T E D  V E R S I O N
+
+GlycoMimetics Inc entered into an acquisition agreement with Crescent Biopharma Inc
+October 29, 2024 / 12:00PM UTC
+
+================================================================================
+Corporate Participants
+================================================================================
+
+ * Christian Dinneen-Long
+   GlycoMimetics Inc - General Counsel and Company Secretary
+ * Harout Semerjian
+   GlycoMimetics Inc - President and Chief Executive Officer
+ * Jonathan Violin
+   Crescent BioPharma - Chief Executive Officer
+
+================================================================================
+Conference Call Participants
+================================================================================
+
+ * Operator
+   
+
+================================================================================
+presentation
+--------------------------------------------------------------------------------
+Operator,     [1]
+--------------------------------------------------------------------------------
+Good morning, ladies and gentlemen. Thank you for standing by. Welcome to the Glycomimetics, Crescent BioPharma transaction conference call. I would also like to remind you that this call is being recorded for replay.
+I will now turn the conference over to Christian Dinneen-Long, General counsel.
+--------------------------------------------------------------------------------
+Christian Dinneen-Long, GlycoMimetics Inc - General Counsel and Company Secretary    [2]
+--------------------------------------------------------------------------------
+Thank you and good morning before we begin, I'd like to remind you that during this call, we may make forward-looking statements. These statements include the expectations of both Glycomimetics and crescent management teams regarding the future statements including but not limited to those referring to the timing of the transactions, close the expected investment amount related to the transaction, use of proceeds the cash balance of the combined entities at closing including expected cash runway sufficiency of post transaction resources to advance crescent pipeline through key milestones and expectations for programs. Croo one, croo two and croo three including their target product profiles and the timing of clinical trials are subject to certain risks and uncertainties. Our actual results may differ materially from expectations for a discussion of risks and uncertainties. Please review the descriptions included under the heading, risk factors and business in Glycomimetics. Most recent annual report on form 10-K filed with the SEC as well as other SEC filings made by Glycom Memetics from time to time. These filings are available through the website maintained by the SEC at www.sec.gov and also available on Glycomics website.
+All forward-looking statements are made as of today's date except to the extent required by law. We do not undertake any obligation to update any forward-looking statements. We also caution you against placing undue reliance on any forward-looking statements.
+I'll now turn the conference over to Harout Semerjian President and Chief Executive Officer of Glycom Otics.
+--------------------------------------------------------------------------------
+Harout Semerjian, GlycoMimetics Inc - President and Chief Executive Officer    [3]
+--------------------------------------------------------------------------------
+Thank you, Christian. Joining me today on today's call is Jonathan Violin, the Chief Executive Officer of Crescent Bio Pharma who is expected to become the interim Chief Executive Officer of the company following the closing of the transaction.
+I will review the details of our proposed acquisition agreement with Crescent BioPharma and the preclosing private placement by leading biotech investors to support the Crescent programs. Jonathan will then provide an overview of Crescent its strategy and pipeline as you saw in today's in our press release this morning, Glycomics and Crescent, a private company have entered into an acquisition agreement for Glycomics to acquire Crescent in an all stock transaction.
+Upon completion of this acquisition, the combined company plans to operate under the name Crescent BioPharma Inc.
+The combat the company's combined cash position includes a $200 million preclosing private placement in Crescent consisting of common stock and common stock equivalents offered to a syndicate of investors led by Fairmount Venrock healthcare capital partners DVF and the large investment management firm with participation from paradigm by capital RT W investments, Blackstone multiasset investing Fraser Wright Sciences, Commodore capital, perceptive advisors, deep track capital, Vauxhall capital management, so logos capital Drey House capital Management, Bradwell LP and Wellington management.
+With this capital, we are confident Crescent is well equipped to advance through key value driving milestones to support its pipeline development strategy.
+After the closing of the proposed agreement, the company's cash balance is expected to provide the runway through 2027.
+Under the terms of the agreement, the premerger Glycomics shareholders are expected to own approximately 3.1% of the combined company and the preacquisition. Crescent stockholders inclusive of those participating in the crescent preclosing financing are expected to own approximately 96.9% of the combined company.
+The percentage of the combined company that Glycom Matics shareholders will own as of the close of the acquisition is subject to adjustments based on the amount of Glycomics net cash at the closing date.
+We would like to thank Lytics and Crescent board members for their commitment and support as they have approved the transaction, which of course is subject to stockholder approval and customary closing conditions.
+We expect the merger transaction to close in the second quarter of 2025.
+We at Glycomics have been impressed with the leadership at Crescent and have confidence in their ability to deliver on their strategy going forward.
+Our decision to pursue this agreement with Crescent follows an extensive review of strategic alternatives by our, by our board and management team and we are confident this represents the best path forward for the company and its shareholders.
+We believe the company is well positioned to carry forward the mission of improving the lives of patients.
+Now, I'd like to pass it over to Jonathan Violin zero of Crescent BioPharma over to you Jon.
+--------------------------------------------------------------------------------
+Jonathan Violin, Crescent BioPharma - Chief Executive Officer    [4]
+--------------------------------------------------------------------------------
+Thank you, Harit and good morning everyone. First off, I want to thank the Glycom Metics management team and board for their confidence in our team and our company strategy.
+Before we jump in, I'd like to point out that our listeners can access additional information on Crescent in our corporate presentation which has been uploaded to the Glycomimetics website at glycomimetics.com.
+We're thrilled today to have the opportunity to tell you about crescent BioPharma and our plans to advance a pipeline of novel precision engineered biologics that we believe could meaningfully advance the standard of care for patients with solid tumors.
+Crescent's pipeline consists of three programs which originated at Paragon Therapeutics. Paragon has a biologics engineering team with deep experience in discovering and developing novel complex biologics including Biospecifics and Antibody drug conjugates.
+This is the same team that discovered the molecules that launched Apogee Spire, Aruca and Jade over the last few years, each of our three programs were designed to optimize efficacy and safety by leveraging proven science to de risk each program and provide the conviction we believe is necessary to aggressively accelerate development.
+Our lead program is a tetravalent PD one and VEGF Bispecific antibody that was carefully designed to recapitulate the unique cooperative binding that led to the breakthrough performance delivered by Ibas cmab. As you know, Ibas cab recently beat the market leading anti PD one antibody pembrolizumab in a head to head phase three trial in non small cell lung cancer.
+This was the first time pembrolizumab had been beaten in a phase three head to head trial. And Ivan Eab did so by delivering nearly a halving of progression free survival coupled with a compelling safety profile.
+This remarkable result derives from the novel differentiated mechanism of action of Ivan Ekma.
+It's a tetravalent bispecific antibody that imparts cooperative binding of VEGF and PD one bi specific blockade.
+This novel format enables VEGF to create DAISY chains of drug molecule linking them together and increasing the potency for PD one blockade, meaning the drug is most active in the presence of both VEGF and PD. One.
+This unique design also may enable location of drug to the tumor micro environment, potentially reducing systemic toxicity together. These features enable the molecule to deliver benefits to patients that are more than the sum of the parts and to do so safely.
+This is a true breakthrough. Immuno oncology is a tricky space as the field has come to learn over the last decade, enhancing the remarkable immune effects of the PD one class is not easy.
+And if you do find a way to enhance the effects, doing so safely can be challenging. This is why the field's efforts to improve upon PD one have been littered with failures. Adding the profound effects of vegf inhibition to the equation. Further highlights the importance of threading the safety needle with careful molecule design.
+We intentionally designed our molecule to replicate the pharmacology and Pharmacokinetics of Ivan Ecomm to be the best version of the structural format. In order to avoid disrupting the balance of activities that have shown such striking promise in clinical trials, we considered many other changes to the structure as we were designing croo one even small ones that could lead to some potential improvement. But each time our team concluded that the new design may actually increase the risks to efficacy, safety or both and no matter what it would be hard for us and our investors to assign a similarly compelling probability of success. To see. Roo one like Ivan Ecomm, cr one comprises the beva a sequence to block vegf and enable Daisy chain whereby Vegf dimers bridge cr one molecules to create a molecular chain of active drug.
+And it is enabling the specific level of Ivan Ecomm Daisy chaining no less, no more.
+In addition, like Vansco, the BEP map domain is C silence to reduce the risk of A and is attached to stable CFE domains, targeting PD one.
+In our case, we have used proprietary engineering of an SCFE domain that targets the same epitope as pembrolizumab of all the approaches to blocking the PD one axis. If you can find a way to hit the epitope of the current market leader to leverage all the clinical trials, teaching us how blocking this epitope translates to outcomes. Then we believe you should and we've done so with targeted engineering to create highly stable CFE domains, an important factor in manufacturing this class of drug. So to summarize cr one is a purpose built molecule designed to recapitulate precisely the pharmacology of Ivan Ecomm and to enhance stability and manufacturability.
+We're very excited about this new molecule and we filed provisional patents to cover composition of matter.
+The croo one program is currently undergoing IND enabling work and is on track for an IND filing in the fourth quarter of 2025 or the first quarter of 2026 we anticipate we'll have our first clinical data in the second half of 2026 which will include interim phase one data in patients with solid tumors because we've designed one precisely to recapitulate Ivan eab pharmacology. The initial clinical data offers a substantial opportunity to derisk our development plans something unique to our construct. We aim to show that one behaves well with the expected exposure in pharmacokinetics along with preliminary pharmacodynamics and tumor response data. So we can gain confidence that data from just a few dozen patients can connect the dots back to the data produced from the hundreds of patients treated with Ivan Eim.
+This is an unusual position to be in.
+If we design some different pharmacology or structural features. Compared to Ivan Ekm, we'd be viewed as a novel program in immuno oncology and we will need hundreds of patients worth of data to generate confidence in both the efficacy and the safety to accelerate development.
+Instead, given our design, we believe our early data can generate the confidence to rapidly advance to late stage development where we can pursue two parallel paths that I'll describe at a high level today.
+Firstly, we can focus on first in class opportunities where we believe there's a high probability of success on hitting both progression free survival and overall survival and which offer an efficient development path. The crescent team can execute the VEGF and PD one PDL, one class is approved in dozens of indications. So there's a rich landscape to mine and we've identified several potential opportunities to prioritize that we're very enthusiastic about.
+We look forward to disclosing more detail in the future.
+Secondly, there are about to be numerous large phase three studies launched by summit and Biontech, largely in first line of a variety of major tumor types like nonsmall cell lung cancer.
+We plan to be fully enabled with the appropriate drug combinations to leverage data produced by those trials to support our clinical development strategy.
+Again, given our design and the functional similarities of Cr one's Ivan Ecomm, we feel we will be uniquely positioned to leverage those data sets with confidence, something we couldn't do if we had a molecule that behaved differently and thus wouldn't provide that connection back to what safely worked.
+We know that Ivan Ecomm data has catalyzed massive interest in advancing next generation checkpoint inhibitor therapy. The PD one PDL one class is currently a $50 billion market and growing. So when something beats the leader of such a large and important drug class, we expect competition, we anticipate this will be similar to what we've seen recently in the obesity field. And we believe we have the advantage of strategic molecule design.
+C one was crafted specifically to thread the same immunotherapy needle as an eab putting us in a strong competitive position with today's transaction and the support of the leading biotech investors who have funded us. We're well positioned to deliver on our mission of building a world class Solid Tumor oncology company.
+Before I end, I should also note that we believe firmly in the power of optionality and the value of a rich pipeline.
+That's why we're so pleased to have croo two as a second program advancing quickly to clinic, just a few quarters behind OO one, we're not disclosing details yet, but cro two targets a highly compelling pathway with a Topo Sora inhibitor payload, touros thras inhibitor payloads have produced profound results across a variety of targets and tumor types with increased efficacy and less of the debilitating peripheral neuropathy associated with orin.
+We've seen this for her two antibodies in breast nonsmall cell lung cancer and gastric cancers and also for tro two antibodies in breast and nonsmallcell lung cancer. Just to name a few, we hope to see the same benefits for croo two with the chance to be first in class.
+The paragon team has crafted C two specifically for this purpose. The antibody is designed to overcome limitations that will hinder robust ADC efficacy for some of the other existing antibodies for this target.
+We're not saying more about croo two solely for competitive reasons but are excited to unveil this program. In due course, we also have a third program in our pipeline, another ADC to a different target again with a topo sase inhibitor payload.
+We'll be excited to share more about that program when the time is right together, we believe the three programs in our pipeline represent an exciting opportunity offering best in class efficacy while balancing safety with the potential for combinations to drive even further efficacy for patients living with deadly solid tumors.
+We're thrilled to have the opportunity to move these programs forward.
+We're grateful for the level of support we saw in fundraising from a group of leading biotech investors and health care focused mutual funds. The robust private investment of $200 million. We announced today funds the advancement of all three of our pipeline programs and will fund the roo one through initial dose escalation data in solid tumor patients which we anticipate will be delivered in the second half of 2026.
+The funding provides the company cash runway through 2027.
+We're excited by the opportunity that comes with building a biotechnology company focused on developing new therapies for patients with solid tumors.
+We're driven by the potential our pipeline offers to patients and we're eager to help innovate within the treatment landscape for oncology. Our team is working diligently to deliver on the goal of bringing best in class therapies to patients with solid tumors.
+With that. I'll conclude my remarks and hand the call back to the operator. Thank you for joining the call today.
+--------------------------------------------------------------------------------
+Operator,     [5]
+--------------------------------------------------------------------------------
+Ladies and gentlemen, this concludes our conference for today. All parties may now disconnect.
+
+
+
+
+
+
+--------------------------------------------------------------------------------
+Definitions
+--------------------------------------------------------------------------------
+Preliminary Transcript: "Preliminary Transcript" indicates that the 
+Transcript has been published in near real-time by an experienced 
+professional transcriber.  While the Preliminary Transcript is highly 
+accurate, it has not been edited to ensure the entire transcription 
+represents a verbatim report of the call.
+
+EDITED TRANSCRIPT: "Edited Transcript" indicates that a team of professional 
+editors have listened to the event a second time to confirm that the 
+content of the call has been transcribed accurately and in full.
+
+--------------------------------------------------------------------------------
+Disclaimer
+--------------------------------------------------------------------------------
+The London Stock Exchange Group and its affiliates (collectively, "LSEG") reserves the right to make changes to documents, content, or other information on this web site without obligation to notify any person of such changes. No content may be modified, reverse engineered, reproduced or distributed in any form by any means, or stored in a database or retrieval system, without the prior written permission of LSEG. The content shall not be used for any unlawful or unauthorized purposes. LSEG does not guarantee the accuracy, completeness, timeliness or availability of the content. LSEG is not responsible for any errors or omissions, regardless of the cause, for the results obtained from the use of the content. In no event shall LSEG be liable to any party for any direct, indirect, incidental, exemplary, compensatory, punitive, special or consequential damages, costs, expenses, legal fees, or losses (including, without limitation, lost income or lost profits and opportunity costs or losses caused by negligence) in connection with any use of the content even if advised of the possibility of such damages.
+
+In the conference calls upon which Summaries are based, companies may make projections or other forward-looking statements regarding a variety of items. Such forward-looking statements are based upon current expectations and involve risks and uncertainties. Actual results may differ materially from those stated in any forward-looking statement based on a number of important factors and risks, which are more specifically identified in the companies' most recent SEC filings. Although the companies may indicate and believe that the assumptions underlying the forward-looking statements are reasonable, any of the assumptions could prove inaccurate or incorrect and, therefore, there can be no assurance that the results contemplated in the forward-looking statements will be realized.
+
+LSEG assumes no obligation to update the content following publication in any form or format. The content should not be relied on and is not a substitute for the skill, judgment and experience of the user, its management, employees, advisors and/or clients when making investment and other business decisions. LSEG does not act as a fiduciary or an investment advisor except where registered as such.
+
+THE INFORMATION CONTAINED IN TRANSCRIPT SUMMARIES REFLECTS LSEG'S SUBJECTIVE CONDENSED PARAPHRASE OF THE APPLICABLE COMPANY'S CONFERENCE CALL AND THERE MAY BE MATERIAL ERRORS, OMISSIONS, OR INACCURACIES IN THE REPORTING OF THE SUBSTANCE OF THE CONFERENCE CALLS. IN NO WAY DOES LSEG OR THE APPLICABLE COMPANY ASSUME ANY RESPONSIBILITY FOR ANY INVESTMENT OR OTHER DECISIONS MADE BASED UPON THE INFORMATION PROVIDED ON THIS WEB SITE OR IN ANY SUMMARY. USERS ARE ADVISED TO REVIEW THE APPLICABLE COMPANY'S CONFERENCE CALL ITSELF AND THE APPLICABLE COMPANY'S SEC FILINGS BEFORE MAKING ANY INVESTMENT OR OTHER DECISIONS.
+--------------------------------------------------------------------------------
+Copyright 2024 LSEG. All Rights Reserved.
+--------------------------------------------------------------------------------

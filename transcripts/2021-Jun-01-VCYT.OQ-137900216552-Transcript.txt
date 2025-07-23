@@ -1,0 +1,441 @@
+
+
+Refinitiv StreetEvents Event Transcript
+E D I T E D   V E R S I O N
+
+Veracyte Inc to Acquire HalioDx M&amp;A Call
+JUNE 01, 2021 / 12:00PM GMT
+
+================================================================================
+Corporate Participants
+================================================================================
+
+ * Marc A. Stapley
+   Veracyte, Inc. - CEO & Director
+ * Vincent Fert
+   HalioDx SAS - Co-Founder, Chairman & CEO
+ * Bonnie H. Anderson
+   Veracyte, Inc. - Co-Founder & Executive Chairwoman
+ * Tracy Morris
+   Veracyte, Inc. - VP of Corporate Communications & IR
+
+================================================================================
+Conference Call Participiants
+================================================================================
+
+ * Michael Stephen Matson
+   Needham & Company, LLC, Research Division - Senior Analyst
+ * Tejas Rajeev Savant
+   Morgan Stanley, Research Division - Equity Analyst
+ * Puneet Souda
+   SVB Leerink LLC, Research Division - MD of Life Science Tools & Diagnostics and Senior Research Analyst
+ * Paul Richard Knight
+   KeyBanc Capital Markets Inc., Research Division - MD & Senior Analyst
+ * Thomas Flaten
+   Lake Street Capital Markets, LLC, Research Division - Senior Research Analyst
+ * Brian David Weinstein
+   William Blair & Company L.L.C., Research Division - Partner, Group Head of Life Sciences & Healthcare Analyst
+
+================================================================================
+Presentation
+--------------------------------------------------------------------------------
+Operator    [1]
+--------------------------------------------------------------------------------
+Good morning, ladies and gentlemen, and welcome to Veracyte's conference call regarding its pending acquisition of HalioDx announced earlier today. As a reminder, today's conference call is being recorded.
+I'd now like to turn the conference over to Tracy Morris, Veracyte's Vice President of Corporate Communications and Investor Relations. You may begin.
+
+--------------------------------------------------------------------------------
+Tracy Morris,  Veracyte, Inc. - VP of Corporate Communications & IR    [2]
+--------------------------------------------------------------------------------
+Thank you, Josh. Good morning, everyone, and thanks for joining us today to review and discuss our pending acquisition of HalioDx, which we announced earlier today. With me today are Bonnie Anderson, Veracyte's Executive Chairwoman; Marc Stapley, Veracyte's Chief Executive Officer; and Vincent Fert, HalioDx' Chairman and CEO. I would also like to point out that today is Marc's first day as CEO of Veracyte. Welcome, Marc.
+Before we begin, I'd like to remind you that various statements that we may make during this call will include forward-looking statements as defined under applicable securities laws. Forward-looking statements include those regarding our pending acquisition of HalioDx, the expected timing and completion of the acquisition and our ability to realize the expected benefits of the transaction, statements regarding future plans, prospects and strategy, financial goals, product attributes and test pipeline, drivers of growth, expectations regarding product manufacturing, biopharma collaborations, reimbursement and other statements that are not historical fact. Management's assumptions, expectations and opinions reflected in these forward-looking statements are subject to risks and uncertainties that may cause actual results and/or performance to differ materially from any future results, performance or achievements discussed in or implied by such forward-looking statements. And the company can give no assurance that they will prove to be correct and will not provide any further updates on these forward-looking statements.
+Please refer to our June 1, 2021, press release and the risk factors included in the company's filings with the Securities and Exchange Commission for a discussion of important factors that may cause actual events or results to differ materially from those contained in our forward-looking statements. Our announcement regarding the acquisition of HalioDx is available on our website under Press Releases in the Investor Relations section. A presentation is also available on our website under Events & Presentations in the Investor Relations section.
+I will now turn the call over to Bonnie Anderson, Veracyte's Executive Chairwoman.
+
+--------------------------------------------------------------------------------
+Bonnie H. Anderson,  Veracyte, Inc. - Co-Founder & Executive Chairwoman    [3]
+--------------------------------------------------------------------------------
+Thank you, Tracy, and thank you, everyone, for joining our call to discuss our pending acquisition of HalioDx. The acquisition will further strengthen our long-term growth by providing key strategic capabilities that will enable us to execute on our powerful vision of improving outcomes for patients all over the world at every step of their journey. Marc and I look forward to welcoming Vincent and the HalioDx team to Veracyte and are thrilled about layering HalioDx' business into the company.
+The acquisition of HalioDx will be a key piece of the strategic puzzle that will enable us to execute on our powerful global vision. When we acquired the global rights to the incredible nCounter platform in 2019, we knew that we would need to bring under our control, the ability to develop and manufacture IVD test kits, and we would need to establish a European headquarters. We're really excited that HalioDx will give us both of these important elements for our business.
+HalioDx, with its development and manufacturing infrastructure and operations in Europe, will enable our reach into global markets, while also further expanding our scientific capabilities into the emerging immuno-oncology field and broadening our testing menu to address 8 of the top 10 cancers. HalioDx has developed a unique biopharma partnering ecosystem for the identification of clinically relevant biomarker signatures, the demonstration of their utility in clinical trials and the development and commercialization of resulting IVD and companion diagnostic tests.
+Additionally, as you will see here on Slide 4, we believe this acquisition will be accretive to our revenue growth in 2021 and beyond by helping us accelerate test menu development on our nCounter platform for global distribution as well as expanding our scientific expertise into the emerging immuno-oncology field.
+We are executing on an exciting vision that is now becoming a reality, as you can see, illustrated on Slide 5 in our presentation deck. With the acquisition of HalioDx, we will complete the puzzle and expand on our growth opportunities along 3 strategic pathways: firstly, global growth, expanding from a centralized lab business in the U.S.-only to a global lab and instrument kit business that we entirely control from end-to-end; secondly, scientific excellence, extending our technology to advance our pipeline of high-value genomic tests and to fuel biopharma partnerships to bring to Veracyte, the innovative Immunoscore platform to harness the patient's immune system to assess risk and patient outcomes; and thirdly, menu expansion, expanding to address 8 of the top 10 cancers by U.S. incidents by adding colorectal to our portfolio, answering important questions along the patient care continuum for this terrible disease that impacts over 160,000 patients in the U.S. annually.
+When I founded Veracyte in 2008, we had a vision to become a global leader in diagnostics for cancer and other diseases. We began with whole-transcriptome arrays of machine learning and then migrated our test to our RNA whole-transcriptome sequencing as the cost of sequencing declined. We focused on unmet needs and important questions in 3 disease areas: thyroid cancer; lung cancer; and interstitial lung diseases, first, improving diagnosis and then using our robust scientific platform to address additional questions along the care continuum, including informing treatment decisions and upstream improving early detection in lung cancer.
+The acquisition in December 2019 of the exclusive global diagnostic rights to the nCounter Analysis System gave us a powerful platform for making our advanced genomic tests available to physicians and their patients in global markets where laboratories favor a distributed model. We also expanded our menu through that transaction to include breast cancer and lymphoma.
+Our acquisition of Decipher further expanded our testing menu with market-leading diagnostics in prostate cancer and bladder cancer and a pipeline test in renal cancer enabling us to address many of the leading cancers by incidents. With the recent acquisitions and strategic initiatives completed and the pending addition of HalioDx, Veracyte is well positioned to further accelerate our global growth for its cancer tests.
+At this point, I'd like to introduce you to Vincent Fert, the Chairman and CEO of HalioDx, to introduce you to the company. Vincent?
+
+--------------------------------------------------------------------------------
+Vincent Fert,  HalioDx SAS - Co-Founder, Chairman & CEO    [4]
+--------------------------------------------------------------------------------
+Thank you, Bonnie. First on behalf of the entire HalioDx team we are excited to become a Veracyte company in the European headquarters of Veracyte. Like Bonnie, Marc and the rest of the Veracyte team, we share the same vision to improve outcomes for patients all over the world at every step of their journey.
+Very much like Veracyte, the founders and management of HalioDx have significant experience in creating high-quality diagnostic products, including working with biopharma to enhance patient care. In addition, we have been developing and manufacturing complex diagnostic products for the last 15 years. The HalioDx leadership team, as shown on Slide 6 of the deck, is comprised of a unique blend of sound industry experience with a track record of successes. In the early 2000s, this group founded Ipsogen to develop molecular monitoring of blood cancer. The company progressed rapidly, went public in 2008 and developed a significant IVD business in both Europe and the U.S. Ipsogen was then acquired by QIAGEN in 2011 for $100 million. Over the next 4 years, the team developed a personalized health care business of QIAGEN at various juncture, and then in 2015, spun off HalioDx.
+Turning now to Slide 7. HalioDx is positioned as a pioneering player in the immune response diagnosis of cancer, based on a strong patent portfolio developed by our cofounder, Jérôme Galon. We are a commercial stage immuno-oncology diagnostic company, providing oncologist and drug development organizations with first-in-class diagnostic products and services to guide types of care and contribute to precision  medicine. We provide a unique range of immune assessment solutions, including our flagship Immunoscore assay for assessing the immune contexture of a tumor as a key determinant of patient outcomes and response to cancer treatments.
+We have developed a unique biopharma partnering ecosystem for the identification of clinically relevant biomarker signature, the demonstration of their utility in clinical trials and the development and commercialization of resulting IVD and companion diagnostic test.
+We operate 2 CLIA-certified laboratories in the United States and France as well as facility in France that develops, manufactures and distributes Immunoscore diagnostic products. We are excited about the acquisition by Veracyte for several reasons. For alluding, Veracyte resources, capabilities and strong reputation will help us to expand the market reach for our test and advance our pipeline. We believe the combination of our extensive manufacturing capability, our scientific expertise in immuno-oncology and our colorectal diagnostic product are complement to Veracyte's business and enable Veracyte to execute on its global vision.
+Let me now turn the call to Marc to walk you through the strategic pathway. Marc?
+
+--------------------------------------------------------------------------------
+Marc A. Stapley,  Veracyte, Inc. - CEO & Director    [5]
+--------------------------------------------------------------------------------
+Thank you, Vincent, and good morning, everyone. I'm thrilled to share details about our acquisition of HalioDx and can't imagine a better way to kick off my first day as Veracyte's CEO by solidifying this key element of the Veracyte vision.
+Let me reiterate the 3 pathways that underscore the strategic rationale for the acquisition. First, as you will see on Slide 8, HalioDx provides European development, manufacturing and operational capabilities to support our global testing and menu expansion, giving Veracyte the capability to own the manufacturing of the test kits that run on the nCounter Analysis System. This will give us end-to-end control of our distributed test business critical to ensure that we can expand globally and meet our customers' needs as we scale.
+With this acquisition, we will plan to transition manufacturing of our kits currently produced by NanoString to HalioDx' facility in Marseille, France. This will further accelerate the expansion of our test menu on the nCounter platform for Europe and other strategic global markets. This will also give us the opportunity to improve gross margins on the nCounter products. We will be prioritizing new tests for the nCounter and excited about our plans to adapt Envisia, the first of our legacy tests onto the instrument by the end of 2021.
+As you know, we recently launched exciting data for our Percepta Nasal Swab for early lung cancer detection, which we expect to develop on the nCounter in 2022 and make available in global markets the following year. Additionally, given our recent acquisition of the Decipher business, we will explore opportunities to move our prostate and bladder cancer tests onto the nCounter instrument to expand their reach into global markets. Our acquisition of worldwide diagnostic rights to the nCounter platform and HalioDx' development and manufacturing capabilities together allow us to access a long-term global market of approximately $50 billion. And HalioDx provides a European headquarters to support our global expansion and to simplify nCounter test distribution in international markets.
+Secondly, moving to Slide 9, HalioDx deepens our scientific capabilities to expand our diagnostic offerings and fuel our biopharma services business. We add a unique and complementary immuno-oncology biomarker analysis technology that supports our vision of answering important clinical questions along the patient care continuum. HalioDx' technology has the potential to enhance our test for patients at every step of their journey in cancer and serve as a platform to grow our biopharma partnering business. The addition of immune biomarkers that are complementary to tumor genomics can help further inform patient care from treatment decisions to risk for recurrence and help improve outcomes for patients.
+Slide 10 illustrates HalioDx' Immunogram multimodal analysis platform for guiding immuno-oncology clinical development. It is a biomarker approach that enables a 360-degree view of the immune tumor microenvironment, allowing the quantification of various immune and non-immune cell types inside and around the tumor bed from a small amounts of tumor sample. The Immunogram platform can help predict patient response to immunotherapy and is synergistic with our biopharma partnering efforts, which leverage our large biorepository of genomic content built from whole-transcriptome sequencing.
+In December 2019, a partnership with Kite Pharma, a subsidiary of Gilead, allows HalioDx to position itself among the major players in the analysis of the tumor microenvironment, and as a strategic part of the biopharmaceutical industry developing immunotherapies, filled that is, as you know, rapidly expanding.
+Now looking at Slide 11. HalioDx' flagship Immunoscore assay evaluates the immune contexture of a tumor at a basic level, looking at a patient's lymphocytes to determine how those cells are physically infiltrating the tumor and from this, producing a score that reflects how activated the patient's immune response is.
+Finally, as you can see on Slide 12, HalioDx expands our current cancer testing market into colorectal cancer, which is the third pillar of our strategic rationale. With the addition of HalioDx' Immunoscore IVD test, which leverages the immuno-oncology platform previously described, Veracyte is now positioned to address 8 out of the top 10 cancers by U.S. incidents. We believe this broad portfolio positions Veracyte as a leading global cancer diagnostics company.
+As shown on Slide 13, Immunoscore provides us with a near-term commercial opportunity in colorectal cancer, which we estimate is approximately a $2 billion market. Immunoscore colon is a commercial stage test today, addressing unmet needs for approximately 300,000 colon cancer patients and with the potential to expand into later-stage colon cancer and rectal cancer. HalioDx also has in their pipeline development projects to expand further into other indications beyond colorectal cancer.
+I'm excited about this acquisition and about the many ways it helps us execute on our powerful vision. Layering this step on top of the recent Decipher acquisition completes for now the vision for Veracyte that Bonnie and I believe will achieve our potential for growth. But we clearly have a lot to go through over the next year or so as we complete the integrations, transition manufacturing to Veracyte and launch our new products. In my role as CEO, I'm excited to bring my experience building and leading complex global organizations, and I'm confident that we can put these pieces together.
+To ensure success, Bonnie has agreed to lead the HalioDx acquisition and strategic integration. I look forward to working closely with Bonnie on this as we continue to greatly benefit from her leadership and deep experience in immunology from her 18-year tenure at Beckman Coulter. And of course, I also look forward to welcoming the HalioDx employees to Veracyte and starting to work together to achieve our vision.
+At this point, I will now turn the call back over to Bonnie.
+
+--------------------------------------------------------------------------------
+Bonnie H. Anderson,  Veracyte, Inc. - Co-Founder & Executive Chairwoman    [6]
+--------------------------------------------------------------------------------
+Thank you, Marc. Moving to the deal terms and financials on Slide 14 in our deck, you will see that Veracyte has negotiated to purchase HalioDx for approximately EUR 260 million in cash and equity. The transaction, which has been unanimously approved by Veracyte's Board of Directors and is fully supported by the HalioDx Board of Directors, is expected to close in the third fiscal quarter of 2021 subject to the required works council consultations and the satisfaction of customary closing conditions.
+Looking at Slide 15. HalioDx grew its 2020 total revenue by 43% to EUR 19.9 million compared to EUR 13.9 million in 2019, and its total revenue in the first quarter of 2021 was approximately EUR 5.5 million. For the remainder of 2021, HalioDx' revenue contribution to Veracyte will be dependent on the transaction close date, the U.S. dollar-euro exchange rate and transaction and purchase accounting. When the transaction closes, we will incorporate HalioDx' financials into our guidance. Having said that, Veracyte expects the acquisition of HalioDx to be accretive to its revenue growth in 2021 and to expand the near-term addressable market for Veracyte's current and pipeline tests.
+Turning to Slide 16. I could not be more enthusiastic to be taking on the Executive Chairwoman role working with Marc and the HalioDx team to realize the potential of the vision we set out to accomplish almost 14 years ago. With the completion of recent acquisitions and strategic initiatives over the last couple of years, Veracyte is well positioned to accelerate growth in the approximately $50 billion long-term global market for our cancer and other high-value diagnostic tests.
+In closing, we want to remind you of the strategic rationale, key terms, considerations and timing of this transaction, which are all summarized on Slide 17. We are confident with the addition of HalioDx, we will even be better positioned to improve outcomes for patients all over the world at every step of their journey. We look forward to delivering incredible value to patients, physicians, employees and to you, our shareholders.
+And with that, we will open the call for questions.
+
+
+================================================================================
+Questions and Answers
+--------------------------------------------------------------------------------
+Operator    [1]
+--------------------------------------------------------------------------------
+(Operator Instructions) Our first question comes from Brian Weinstein from William Blair.
+
+--------------------------------------------------------------------------------
+Brian David Weinstein,  William Blair & Company L.L.C., Research Division - Partner, Group Head of Life Sciences & Healthcare Analyst    [2]
+--------------------------------------------------------------------------------
+So just a couple of questions. Bonnie, just starting out with you, you guys have, obviously, a ton going on right now with the launch of major risk coming up at the end of the year. You've got the Decipher integration that is ongoing. You've got a base business that is, obviously, also moving forward pretty rapidly. You also had management changes at the top. So can you just talk about the company's ability to take something like this on at this time of the company's development with so much else going on here. How are you guys going to manage this sort of integration process? I understand you're staying on, and you'll be sort of managing it. But, in general, this seems like an awful lot for the organization to be able to kind of take out at this point. Can you just sort of talk through that a little bit for us and give investors some comfort there?
+
+--------------------------------------------------------------------------------
+Marc A. Stapley,  Veracyte, Inc. - CEO & Director    [3]
+--------------------------------------------------------------------------------
+Brian, it's Marc. I'll start since it's my first day on the role here and give you my perspective. And then Bonnie, please do weigh in as well. So you're absolutely right. I mean we picked -- and you picked up on the key point. We have got a lot going on. I think there's always a lot going on in a company like us that is fast-moving, growing and has laid out a strategic vision and is executing on that.
+Having said that, we've put in place a lot of the steps necessary to make sure that this -- everything that we're doing, including this acquisition is successful. So you mentioned our nasal swab and the other products that we're launching this year. We've got the full team engaged on very successful launches. And we have a lot of talented people within Veracyte that are leading those. The Decipher integration is going extremely well. And of course, we have a very experienced leader at the helm there, in Tina, who's also taken on our thyroid business as well. So that's all covered.
+As far as the management changes are concerned, yes, I do think -- if you think about the role that Bonnie and I will play, it sets us up really well actually for this acquisition. And of course, we've had this in mind. So I'm going to run the company starting from today, and Bonnie is going to take on the key role with the acquisition. We've talked before about Bonnie's role going forward as a strategic adviser to me and also working on strategy and business development initiatives and opportunities. This is the first where she's going to take a very key role, leading the acquisition to closure and then leading the integration, making sure that we optimize the success of this wonderful acquisition of HalioDx. Bonnie?
+
+--------------------------------------------------------------------------------
+Bonnie H. Anderson,  Veracyte, Inc. - Co-Founder & Executive Chairwoman    [4]
+--------------------------------------------------------------------------------
+Yes. I'd just like to add that what other company has been able to lay out a long-term vision execute on the acquisitions needed to achieve that vision, and along the way, attract what will be following the closure of this deal for current and former CEOs on board, helping to make that a reality. So I think that helps to illustrate how excited I am as an ex-CEO. Tina staying on as well to lead. And now we'll have Vincent Fert who I've known for a long time and who will do an amazing job leading the HalioDx effort to align and strengthen and help us achieve the success we're looking for.
+
+--------------------------------------------------------------------------------
+Brian David Weinstein,  William Blair & Company L.L.C., Research Division - Partner, Group Head of Life Sciences & Healthcare Analyst    [5]
+--------------------------------------------------------------------------------
+Great. I appreciate those comments from both of you. In terms of the revenue that the company posted the $20 million last year, can you break that down? And if you did already, sorry, if I missed it, but can you break that down between the Immunoscore and then the other products that the company has in the pipeline -- I'm sorry, the -- anything that they're working on with pharma partners? Just to give us an idea about where that revenue is coming from?
+
+--------------------------------------------------------------------------------
+Marc A. Stapley,  Veracyte, Inc. - CEO & Director    [6]
+--------------------------------------------------------------------------------
+Yes. Brian, we're not going to break down the individual components of that revenue. Halio is obviously private. And so there's not much more detail that we're going to provide on that. What I will say is, once the transaction closes, we'll incorporate their financials into ours and give a little bit more color commentary at that point in time. But yes, we're not going to do the individual breakouts, unfortunately at this time.
+
+--------------------------------------------------------------------------------
+Brian David Weinstein,  William Blair & Company L.L.C., Research Division - Partner, Group Head of Life Sciences & Healthcare Analyst    [7]
+--------------------------------------------------------------------------------
+Okay. And then last one for me. Can you talk at all about the R&D that's going on at Halio right now in terms of what types of relationships they currently have with Pharma? And then anything else that they're developing themselves from a diagnostic platform. Is that something that you guys would be able to provide some insight into?
+
+--------------------------------------------------------------------------------
+Marc A. Stapley,  Veracyte, Inc. - CEO & Director    [8]
+--------------------------------------------------------------------------------
+Yes. I mean I'll ask -- Vincent's on the call. So I'll ask Vincent to give a high-level overview of some of the R&D activities that you're asking about. Vincent?
+
+--------------------------------------------------------------------------------
+Vincent Fert,  HalioDx SAS - Co-Founder, Chairman & CEO    [9]
+--------------------------------------------------------------------------------
+Yes. Sure. What we are -- the first part of your question, we are working closely with biotech and pharma. What I can say is that all these companies go to us because we are expert in the immune biomarkers part, and they all developed immunotherapies, whatever the CAR-T cells or vaccines, okay? And we are one of the few experts in immune biomarkers that can help those companies understanding mechanism of action and stratifying patients for their clinical trials.
+
+--------------------------------------------------------------------------------
+Marc A. Stapley,  Veracyte, Inc. - CEO & Director    [10]
+--------------------------------------------------------------------------------
+Yes. Thanks, Vincent. Obviously, we've talked in the presentation, in the prepared remarks about the work that's going on with the Immunoscore and the pipeline opportunity there. I think the other thing to note is we're really excited to actually bring our capabilities together. So a lot of the expertise that HalioDx has in immuno-oncology is complementary with our expertise in cancer genomics and the large biorepository of genomic content that we've got. And so putting that together, I think, enhances -- we think, enhances our opportunity to work with biopharmaceutical industry and create a really unique offering.
+
+--------------------------------------------------------------------------------
+Bonnie H. Anderson,  Veracyte, Inc. - Co-Founder & Executive Chairwoman    [11]
+--------------------------------------------------------------------------------
+I agree. When you combine the biology of the tumor with the biology of the patient's response to that tumor, you're answering the 360-degree question around how that individual patient might respond. It's a really exciting combination.
+
+--------------------------------------------------------------------------------
+Operator    [12]
+--------------------------------------------------------------------------------
+Our next question comes from Puneet Souda with SVB Leerink.
+
+--------------------------------------------------------------------------------
+Puneet Souda,  SVB Leerink LLC, Research Division - MD of Life Science Tools & Diagnostics and Senior Research Analyst    [13]
+--------------------------------------------------------------------------------
+So from what I see, I mean, there are key components here. One is the transition of the nCounter kits manufacturing towards Veracyte's test and the expansion; second is your expansion into Europe and with the CLIA labs here and the addition of the Immunoscore test and the pharma services that HalioDx is bringing to the table.
+So maybe just so that -- to refresh on that first, could you update us on what is the status with nCounter kits manufacturing today? What is the current arrangement with NanoString with the existing kits and any obligations that you need to fulfill their before transitioning to the France site? And also, if you could provide any geographic breakdown for what Halio is doing currently in Europe versus U.S.?
+
+--------------------------------------------------------------------------------
+Marc A. Stapley,  Veracyte, Inc. - CEO & Director    [14]
+--------------------------------------------------------------------------------
+Yes. So just to cover on the nCounter, and I'll ask Bonnie, if she wants to provide more details. When we completed that acquisition in 2019, we knew that we would have to make the transition of the manufacturing to Veracyte at some point in time. So we've been spending our time thinking through that, working through that. And as you can see from this announcement today, we're now making great progress on that. There's a lot of work ahead of us, but we're going to move quickly to make that transition happen. And that's one of the things, obviously, that Bonnie is going to be leading for us. Bonnie, I don't know if you want to give any more details on the...
+
+--------------------------------------------------------------------------------
+Bonnie H. Anderson,  Veracyte, Inc. - Co-Founder & Executive Chairwoman    [15]
+--------------------------------------------------------------------------------
+Yes. We have secured the contract manufacturing from NanoString, of course, at the time of the transaction. And so we are -- have been working with them on the development program for Envisia moving forward and have plans on beginning to supply kits with Envisia at the end of the year. We think it could take up to 2 years to get the manufacturing fully transition. So the timing could not be better to begin that process. As I think our original time line was to notify in a year, which would mean 3 years, 3 to 4 years to get that done. And we're coming up on the 2-year window. So everything is lining up perfectly to achieve that goal of taking it over.
+
+--------------------------------------------------------------------------------
+Marc A. Stapley,  Veracyte, Inc. - CEO & Director    [16]
+--------------------------------------------------------------------------------
+And then on -- thank you, Bonnie. On HalioDx' geographical split, I'll ask Vincent to give kind of a high level view. We're not going to break out the numbers, but a high-level view of the activities geographically. So Vincent, do you want to just give a quick overview.
+
+--------------------------------------------------------------------------------
+Bonnie H. Anderson,  Veracyte, Inc. - Co-Founder & Executive Chairwoman    [17]
+--------------------------------------------------------------------------------
+Are you on mute?
+
+--------------------------------------------------------------------------------
+Marc A. Stapley,  Veracyte, Inc. - CEO & Director    [18]
+--------------------------------------------------------------------------------
+Vincent, you there?
+
+--------------------------------------------------------------------------------
+Vincent Fert,  HalioDx SAS - Co-Founder, Chairman & CEO    [19]
+--------------------------------------------------------------------------------
+Sorry, sorry, Marc. I'm here. On our biopharma activity, the majority of our customers are European based. We do have a few U.S. customers Kite, Gilead, for example. But indeed, the perspective of joining the Veracyte will open us new perspective for the U.S. market for that.
+Considering Immunoscore diagnostic, I mean, in colon, we are in a prelaunch phase, and we are focusing -- we were focusing our efforts to get the reimbursement in the U.S., and I think the support of the -- and the expertise of the Veracyte team will be very important here.
+Concerning our IVD activity, it's basically a lot of European companies, so I would say our activity is really European centric.
+
+--------------------------------------------------------------------------------
+Puneet Souda,  SVB Leerink LLC, Research Division - MD of Life Science Tools & Diagnostics and Senior Research Analyst    [20]
+--------------------------------------------------------------------------------
+Got it. That's very helpful. And if I could follow-up, Marc, Veracyte has traditionally focused on classifier tests and done a really solid job on that. It seems like you're growing more later stage colorectal cancer as well as non-small cell lung cancer. Could you maybe help us understand how is Immunoscore situated in the market? And how is it positioned versus the current therapy management products, such as the FoundationOne CDx, Guardant360 products or the emerging MRD products, the liquid biopsy products from Nateras and Guardants. Can you help us understand how it's positioned versus those in the market? And what expectations do you have for the overall expansion of the Immunoscore product line?
+
+--------------------------------------------------------------------------------
+Marc A. Stapley,  Veracyte, Inc. - CEO & Director    [21]
+--------------------------------------------------------------------------------
+Yes. I mean just kind of going back, our original vision here is to improve our computations all over the world at every step of their journey. So while we've focused on particular areas initially here, our goal is to expand across the care continuum. So you saw that with the nasal swab, which, as you mentioned, helped -- as mentioned earlier, helps early detection in lung, and of course, that can even go further down -- upstream.
+I would say -- and then the Immunoscore assay and the immuno-oncology capabilities that HalioDx brings allows us to address even more of the care continuum.
+Bonnie, I don't know if you want to kind of give some specifics around the question and the market positioning there.
+
+--------------------------------------------------------------------------------
+Bonnie H. Anderson,  Veracyte, Inc. - Co-Founder & Executive Chairwoman    [22]
+--------------------------------------------------------------------------------
+Yes. There's a couple of things, and Vincent may want to comment as well. But what I love about their technological approach is that it's a platform technology. You can build the Immunoscore assay essentially across the entire landscape of cancers. And the lead product, which is, as Vincent mentioned, going through the MolDX coverage process right now is indicated for stage 2 and stage 3 colon cancer patients where you're looking at the infiltrate of the immune cells and being able to determine based on the strength of a patient's immune system, whether or not you need to use more aggressive treatment.
+And as I was saying earlier, this is bringing the full picture of the biology together, not only looking at the biology of the tumor, which we and many others are doing and have done for a long time. But now combining that with what is the host immune response to this, and if it's very strong and you have a very high Immunoscore, then you potentially can be less aggressive in treatment. And of course, if the patient's immune status is very low to the tumor, then more aggressive treatment would be warranted. And they've got a lot of data on a number of different areas, but the lead test is in colon cancer.
+So really exciting new area to complement everything we're doing. And again, just helping to advance the program, but then the care continuum for patients.
+
+--------------------------------------------------------------------------------
+Puneet Souda,  SVB Leerink LLC, Research Division - MD of Life Science Tools & Diagnostics and Senior Research Analyst    [23]
+--------------------------------------------------------------------------------
+Got it. That's very helpful. And then last one, if I could squeeze in. In -- around the sales force, do you expect to build out the core oncology sales force to offer this product in U.S. and Europe and also with lung cancer specialists, and by that, I mean, the Immunoscore product?
+
+--------------------------------------------------------------------------------
+Marc A. Stapley,  Veracyte, Inc. - CEO & Director    [24]
+--------------------------------------------------------------------------------
+Well, I mean, we also -- we clearly have the benefit of the existing HalioDx sales force and business development team. And then, of course, we could be able to bring to bear the greater Veracyte team to that. And then in terms of how we grow that in the future, that will be part of our integration planning and our planning for the rest of this year, which we'll update on again once we complete the acquisition.
+
+--------------------------------------------------------------------------------
+Operator    [25]
+--------------------------------------------------------------------------------
+Our next question comes from Tejas Savant with Morgan Stanley.
+
+--------------------------------------------------------------------------------
+Tejas Rajeev Savant,  Morgan Stanley, Research Division - Equity Analyst    [26]
+--------------------------------------------------------------------------------
+Don't have too many. Just a couple of quick cleanup questions here, Marc. In terms of that Halio revenue step-up that you saw in 2020 versus 2019, would you be willing to share some color on any specific sort of contracts with biopharma or any other drivers that you'd like to highlight there? And also the momentum you're seeing here continuing into the first quarter for the business?
+
+--------------------------------------------------------------------------------
+Marc A. Stapley,  Veracyte, Inc. - CEO & Director    [27]
+--------------------------------------------------------------------------------
+Yes. I mean probably no specific commentary. And Vincent, I mean, if you feel -- if you want to feel free to add, I want to say is, clearly, what we've seen here is HalioDx is gaining traction. I'd say that traction is across the elements of the business, including the biopharma, and then, of course, with launching the Immunoscore. So that's been the key driver. And then we provided the first quarter actuals, which I think demonstrate that, that transaction is continuing -- that traction is continuing. 
+Vincent, I don't know if there's anything you want to add. But please feel free.
+
+--------------------------------------------------------------------------------
+Vincent Fert,  HalioDx SAS - Co-Founder, Chairman & CEO    [28]
+--------------------------------------------------------------------------------
+Yes. Marc, thank you. No. I mean it was perfect. I mean, we see a very dynamic development of our biopharma business. And we have seen that in 2020, and we will see that also this year.
+
+--------------------------------------------------------------------------------
+Tejas Rajeev Savant,  Morgan Stanley, Research Division - Equity Analyst    [29]
+--------------------------------------------------------------------------------
+Got it. And then in terms of just the head count split between Europe and the U.S., I'm assuming, is it sort of 70-30, 80-20, Europe versus the states? And then, Bonnie, I mean, if you can elaborate on how you envision the Richmond site sort of unfolding on a go-forward basis? Will that essentially -- will you use it to expand some of what you do in your current facility in the states? Or will that exclusively be for nCounter kit manufacturing as well?
+
+--------------------------------------------------------------------------------
+Marc A. Stapley,  Veracyte, Inc. - CEO & Director    [30]
+--------------------------------------------------------------------------------
+I would say on the first one, head count is significantly biased to France.
+
+--------------------------------------------------------------------------------
+Bonnie H. Anderson,  Veracyte, Inc. - Co-Founder & Executive Chairwoman    [31]
+--------------------------------------------------------------------------------
+Yes. The small lab and sales and support team for biopharma and Immunoscore in the U.S. So yes, I mean, as we go back to the strategic rationale we laid out, for us, finding a company of this size and this caliber with a new area that is one of the hottest emerging areas in science that allows us to acquire a European operations with global regulatory and quality processes in place that is ready-made with the addition of the capital and things that we'll need to do to transfer our specific technology, this was just an awesome find. And we think there really could not be a better fit for what we need operationally and then also the new science areas just kind of icing on the cake.
+
+--------------------------------------------------------------------------------
+Operator    [32]
+--------------------------------------------------------------------------------
+Your next question comes from Thomas Flaten with Lake Street Capital Markets.
+
+--------------------------------------------------------------------------------
+Thomas Flaten,  Lake Street Capital Markets, LLC, Research Division - Senior Research Analyst    [33]
+--------------------------------------------------------------------------------
+I apologize if I missed this, Bonnie, but could you walk us through within your new General Manager organizational structure, how Halio will fit into that? Or how do you anticipate fitting into that?
+
+--------------------------------------------------------------------------------
+Marc A. Stapley,  Veracyte, Inc. - CEO & Director    [34]
+--------------------------------------------------------------------------------
+Yes. It's Marc here. I'll answer, and then Bonnie, if I miss anything, please fill in the gaps for me. But initially -- so of course, what we're planning to do here is to keep HalioDx running as HalioDx as a business. And they've got a very capable leadership team that Vincent walked you through, and we have a slide on that. So that team will become part of the senior leadership, of course, of the company. 
+And then for the actual integration of the manufacturing, Bonnie will take that on as part of her activities going forward. So we'll see how that shapes out. Of course, we're going to -- I'm going to continue to fill out the leadership team here at Veracyte, including getting a world-class CFO as well. And I'm day 1 on the job, so I haven't looked across the rest of the organization here in terms of how we structure. But I love the General Manager structure that Bonnie put in place. So I believe in it. I think it's the right one. And so we'll -- if anything, there'll only be minor adjustments as we bring in HalioDx to that.
+
+--------------------------------------------------------------------------------
+Thomas Flaten,  Lake Street Capital Markets, LLC, Research Division - Senior Research Analyst    [35]
+--------------------------------------------------------------------------------
+And then just one quick question on Immunoscore. Is that entirely the immune-based implying that it will be tumor agnostic? Is -- are there any limitations to the tumor types that you could expand into with that?
+
+--------------------------------------------------------------------------------
+Bonnie H. Anderson,  Veracyte, Inc. - Co-Founder & Executive Chairwoman    [36]
+--------------------------------------------------------------------------------
+Yes. That is one of the most incredible things about the technology. It's measuring the contexture of the immune system of the tumor micro environment, questions that are -- questions being asked every day now in the growth funnel of immunotherapy. So we'll be in the heart of that. We'll be able to complement the platform technology and its utility across tumor areas with the potential to focus on lung cancer, prostate and colon, which will complement some of the large-scale biorepositories and information we have on tumor biology, especially in lung cancer and prostate and use some of our U.S. resources. 
+This will be part of what I get to help with is how do we integrate this so that we're benefiting from the areas of strength across our business today and utilize this new technology area to augment our portfolios and our reach into biopharma, especially in lung cancer, prostate and colon where we'll have a foothold. And then at the same time, set the team up so that we can get the operation integrated, the manufacturing up and running. It will be a fun project for me. I'm first day on the job, too, and I'm looking to knock the ball out of the park for Marc as his Executive Chairwoman.
+
+--------------------------------------------------------------------------------
+Marc A. Stapley,  Veracyte, Inc. - CEO & Director    [37]
+--------------------------------------------------------------------------------
+Thank you, Bonnie.
+
+--------------------------------------------------------------------------------
+Operator    [38]
+--------------------------------------------------------------------------------
+Our next question comes from Mike Matson with Needham & Company.
+
+--------------------------------------------------------------------------------
+Michael Stephen Matson,  Needham & Company, LLC, Research Division - Senior Analyst    [39]
+--------------------------------------------------------------------------------
+Congrats on the deal here. I guess on Slide 15, I just wanted to ask about the HalioDx growth that's shown on there. Is that all organic? And then it's pretty amazing to see that they grew 43% during 2020, given the pandemic. So it almost seems like there's a bit of an inflection happening in the growth rate there. So maybe you could talk a little bit about that?
+
+--------------------------------------------------------------------------------
+Marc A. Stapley,  Veracyte, Inc. - CEO & Director    [40]
+--------------------------------------------------------------------------------
+Yes. I mean it is organic. Correct me if I'm wrong, Vincent, but yes, it's entirely organic. And I think the same thing. I mean very impressive during that particular year that the company continued growth. Vincent gave a little color on the biopharma opportunities that have continued to gain traction in 2020. So at this point, I think those are the key elements of that growth.
+
+--------------------------------------------------------------------------------
+Michael Stephen Matson,  Needham & Company, LLC, Research Division - Senior Analyst    [41]
+--------------------------------------------------------------------------------
+Okay. And then just wondering about the -- since the manufacturing capacity is an important part of the deal here. Can you talk about how much space they have and how much runway you have there before you'd have to kind of expand that when you -- as you move on to the nCounter platform or expand the test availability there in Europe?
+
+--------------------------------------------------------------------------------
+Marc A. Stapley,  Veracyte, Inc. - CEO & Director    [42]
+--------------------------------------------------------------------------------
+Yes. I mean you can -- and you can see a little bit of this on Slide 8, but the facility is, obviously, relatively significant, I think, close to 30,000 square feet. Correct me I'm wrong, Vincent, but...
+
+--------------------------------------------------------------------------------
+Vincent Fert,  HalioDx SAS - Co-Founder, Chairman & CEO    [43]
+--------------------------------------------------------------------------------
+Yes. That's right.
+
+--------------------------------------------------------------------------------
+Marc A. Stapley,  Veracyte, Inc. - CEO & Director    [44]
+--------------------------------------------------------------------------------
+And obviously, the capacity supports the current business and the growth that they've experienced and this plan to support the future growth. Obviously, one of the key things that we're going to have to do, and then, of course, the manufacturing transition will require changes to that manufacturing facility capability and so on. So that's part of the key planning here. And it's going to take some time to get through that. But one of the changes we're going to have to make is ensure that there's sufficient capacity to meet Veracyte's needs for the foreseeable future. 
+And so planning ahead, I think it's the key there, and we're going to put a lot of our attention and effort into making sure we do that right. So I wouldn't see the volume of manufacturing that's required is going to be part of the plan, and we're going to, obviously, invest to achieve that.
+
+--------------------------------------------------------------------------------
+Operator    [45]
+--------------------------------------------------------------------------------
+(Operator Instructions) Our next question comes from Paul Knight with KeyBanc Capital Markets.
+
+--------------------------------------------------------------------------------
+Paul Richard Knight,  KeyBanc Capital Markets Inc., Research Division - MD & Senior Analyst    [46]
+--------------------------------------------------------------------------------
+Marc, could you update us -- I think you talked about the nCounter program, but just refresh us there. And then, Bonnie, your insights you gained within nCounter by looking at HalioDx they've, obviously, achieved success there. So you seem obviously a step-up here with nCounter. But could you kind of give us a refresh there?
+
+--------------------------------------------------------------------------------
+Marc A. Stapley,  Veracyte, Inc. - CEO & Director    [47]
+--------------------------------------------------------------------------------
+So when you say update on the nCounter program, you mean our plans to transition products to nCounter?
+
+--------------------------------------------------------------------------------
+Paul Richard Knight,  KeyBanc Capital Markets Inc., Research Division - MD & Senior Analyst    [48]
+--------------------------------------------------------------------------------
+Yes.
+
+--------------------------------------------------------------------------------
+Marc A. Stapley,  Veracyte, Inc. - CEO & Director    [49]
+--------------------------------------------------------------------------------
+Yes. So obviously, our first product to transition is Envisia, and that will be this year. And then we talked about when we launched our data for the Percepta Nasal Swab, that will be our next product, which will be transitioned next year; commercial, the following year. And then, of course, I think I mentioned this in the prepared remarks as well the Decipher products are potential great products because the European market, in particular, is a great potential market for that product. So we'll be looking to transition those. In addition, don't just think of this as transitioning, but developing new products as well. That goes straight to our own manufacturing with HalioDx on the -- for the nCounter platform.
+
+--------------------------------------------------------------------------------
+Bonnie H. Anderson,  Veracyte, Inc. - Co-Founder & Executive Chairwoman    [50]
+--------------------------------------------------------------------------------
+Halio has had the opportunity through a spin-out relationship they've retained with QIAGEN and several other relationships for the contract development of IVD and companion diagnostic tests and then the follow-on manufacturing of those. So over the years of experience, including prior to that, more than 15 years' experience developing these kind of programs. And what's really key is that they have the backbone in place with their ISO and other regulatory certifications, a fantastic quality system and the regulatory process is all in place. And we will be the recipients of those instead of having to take the years and the risk of building those out. 
+So it's really fantastic timing. As you pointed out, with them being an inflection point for growth, bringing great capabilities to help us extend our biopharma relationships, but probably most importantly is that operation that's going to allow us to realize the value of the nCounter acquisition we did a couple of years ago. So just set up for incredible success.
+
+--------------------------------------------------------------------------------
+Paul Richard Knight,  KeyBanc Capital Markets Inc., Research Division - MD & Senior Analyst    [51]
+--------------------------------------------------------------------------------
+And Bonnie, I know the nCounter, one attribute was working with difficult samples was made easier. Any other insights you're gaining from nCounter and...
+
+--------------------------------------------------------------------------------
+Bonnie H. Anderson,  Veracyte, Inc. - Co-Founder & Executive Chairwoman    [52]
+--------------------------------------------------------------------------------
+It's a fantastic technology and platform. Our team that has transitioned Envisia loves the technology, and I'll remind everyone who may not have been on our original call there. This was our top platform of choice to get access to, to take a distributed model to global markets so that we can test patients for all of our tests, eventually, perhaps all over the world. And the reason is it's a small footprint that fits into any laboratory, turnaround times are about 2 days with 1 hour of hands-on time only by a technician, the complexity of the technology is all built into the cartridge, and it's a very reliable, very easy to operate, yet highly capable with up to 800 genes, measures RNA, DNA and protein. So it gives us lots and lots of capability for our genomic tests. 
+And now we'll be set up to accelerate that menu, build the products on our end, gain margins over time. Don't forget, NanoString makes margins in all these tests, eventually we'll have that margin. So a pathway to growth and a pathway to operational solidification here.
+
+--------------------------------------------------------------------------------
+Marc A. Stapley,  Veracyte, Inc. - CEO & Director    [53]
+--------------------------------------------------------------------------------
+And just to be clear. This is one of the things that got me really excited about Veracyte and joining the company. When Bonnie and I talked about this strategy and these pieces all came together, having that kind of a platform with the full enzyme and control of the manufacturing, it puts us in a very differentiating position. And so very excited about that.
+
+--------------------------------------------------------------------------------
+Operator    [54]
+--------------------------------------------------------------------------------
+Thank you. And I'm not showing any further questions at this time. Ladies and gentlemen, this concludes our call today. Thank you for joining us. You may now disconnect.
+
+
+
+
+
+
+
+--------------------------------------------------------------------------------
+Definitions
+--------------------------------------------------------------------------------
+PRELIMINARY TRANSCRIPT: "Preliminary Transcript" indicates that the 
+Transcript has been published in near real-time by an experienced 
+professional transcriber.  While the Preliminary Transcript is highly 
+accurate, it has not been edited to ensure the entire transcription 
+represents a verbatim report of the call.
+
+EDITED TRANSCRIPT: "Edited Transcript" indicates that a team of professional 
+editors have listened to the event a second time to confirm that the 
+content of the call has been transcribed accurately and in full.
+
+--------------------------------------------------------------------------------
+Disclaimer
+--------------------------------------------------------------------------------
+Refinitiv reserves the right to make changes to documents, content, or other 
+information on this web site without obligation to notify any person of 
+such changes.
+
+In the conference calls upon which Event Transcripts are based, companies 
+may make projections or other forward-looking statements regarding a variety 
+of items. Such forward-looking statements are based upon current 
+expectations and involve risks and uncertainties. Actual results may differ 
+materially from those stated in any forward-looking statement based on a 
+number of important factors and risks, which are more specifically 
+identified in the companies' most recent SEC filings. Although the companies 
+may indicate and believe that the assumptions underlying the forward-looking 
+statements are reasonable, any of the assumptions could prove inaccurate or 
+incorrect and, therefore, there can be no assurance that the results 
+contemplated in the forward-looking statements will be realized.
+
+THE INFORMATION CONTAINED IN EVENT TRANSCRIPTS IS A TEXTUAL REPRESENTATION
+OF THE APPLICABLE COMPANY'S CONFERENCE CALL AND WHILE EFFORTS ARE MADE TO
+PROVIDE AN ACCURATE TRANSCRIPTION, THERE MAY BE MATERIAL ERRORS, OMISSIONS,
+OR INACCURACIES IN THE REPORTING OF THE SUBSTANCE OF THE CONFERENCE CALLS.
+IN NO WAY DOES REFINITIV OR THE APPLICABLE COMPANY ASSUME ANY RESPONSIBILITY FOR ANY INVESTMENT OR OTHER
+DECISIONS MADE BASED UPON THE INFORMATION PROVIDED ON THIS WEB SITE OR IN
+ANY EVENT TRANSCRIPT. USERS ARE ADVISED TO REVIEW THE APPLICABLE COMPANY'S
+CONFERENCE CALL ITSELF AND THE APPLICABLE COMPANY'S SEC FILINGS BEFORE
+MAKING ANY INVESTMENT OR OTHER DECISIONS.
+--------------------------------------------------------------------------------
+Copyright 2022 Refinitiv. All Rights Reserved.
+--------------------------------------------------------------------------------

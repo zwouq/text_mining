@@ -1,0 +1,436 @@
+
+
+Refinitiv StreetEvents Event Transcript
+E D I T E D   V E R S I O N
+
+Biogen Inc to Acquire Reata Pharmaceuticals Inc Call
+JULY 28, 2023 / 1:00PM GMT
+
+================================================================================
+Corporate Participants
+================================================================================
+
+ * Charles E. Triano
+   Biogen Inc. - Senior VP & Head of IR
+ * Michael R. McDonnell
+   Biogen Inc. - Executive VP & CFO
+ * Christopher A. Viehbacher
+   Biogen Inc. - President, CEO & Director
+ * Adam Keeney
+   Biogen Inc. - Executive VP & Head of Corporate Development
+
+================================================================================
+Conference Call Participiants
+================================================================================
+
+ * Brian Corey Abrahams
+   RBC Capital Markets, Research Division - Senior Biotechnology Analyst
+ * Michael Jonathan Yee
+   Jefferies LLC, Research Division - Equity Analyst
+ * Paul Andrew Matteis
+   Stifel, Nicolaus & Company, Incorporated, Research Division - Co-Head of the Biotech Team, MD & Senior Analyst
+ * Brian Peter Skorney
+   Robert W. Baird & Co. Incorporated, Research Division - Senior Research Analyst
+ * Carter Lewis Gould
+   Barclays Bank PLC, Research Division - Senior Analyst
+ * Umer Raffat
+   Evercore ISI Institutional Equities, Research Division - Senior MD & Senior Analyst of Equity Research
+ * Sumant Satchidanand Kulkarni
+   Canaccord Genuity Corp., Research Division - Analyst
+ * Terence C. Flynn
+   Morgan Stanley, Research Division - Equity Analyst
+ * Jay Olson
+   Oppenheimer & Co. Inc., Research Division - Executive Director & Senior Analyst
+ * Unidentified Analyst
+    - 
+ * Ami Fadia
+   Needham & Company, LLC, Research Division - Senior Analyst
+ * Geoffrey Christopher Meacham
+   BofA Securities, Research Division - Research Analyst
+ * Myles Robert Minter
+   William Blair & Company L.L.C., Research Division - Analyst
+ * Tyler Martin Van Buren
+   TD Cowen, Research Division - MD & Senior Equity Research Analyst
+
+================================================================================
+Presentation
+--------------------------------------------------------------------------------
+Operator    [1]
+--------------------------------------------------------------------------------
+Good morning. My name is Marjorie, and I will be your conference operator today. At this time, I'd like to welcome everyone to the Biogen business update. (Operator Instructions) Today's conference is being recorded. I would now like to turn the conference over to Mr. Chuck Triano, Head of Investor Relations. Mr. Triano, you may begin your conference.
+
+--------------------------------------------------------------------------------
+Charles E. Triano,  Biogen Inc. - Senior VP & Head of IR    [2]
+--------------------------------------------------------------------------------
+Thanks, Marjorie. Good morning, everyone, and thank you for joining us on short notice this morning. We know we're still busy in earnings season, and we will keep this call to about 30 minutes. During this call, we will be making forward-looking statements, which are based on our expectations. These statements are subject to certain risks and uncertainties and our actual results may differ materially. I encourage you to consult the risk factors discussed in our SEC filings for additional detail. 
+On today's call, I am joined by our President and Chief Executive Officer, Chris  Viehbacher, and CFO, Mike McDonnell. Chris and Mike will each make some overview comments, and then we'll move to the Q&A session, where we will also be joined by Adam Keeney, our Head of Corporate Development. You can access the press release and supporting materials regarding today's announcement as well as a replay of this call at www.biogen.com. 
+I'll now turn the call over to Chris. Chris?
+
+--------------------------------------------------------------------------------
+Christopher A. Viehbacher,  Biogen Inc. - President, CEO & Director    [3]
+--------------------------------------------------------------------------------
+Thank you, Chuck. Good morning, everyone. So as you saw this morning, we announced that Biogen has reached an agreement to acquire Reata for $172.50 per share in cash, that represents an enterprise value of about $7.3 billion, and we do believe this is a highly attractive opportunity on our path to returning Biogen to sustainable growth and it's expected to drive return to revenue and non-GAAP EPS growth. This fits perfectly with Biogen. We're used to being first in class and really addressing unmet needs and SKYCLARYS is the first and only FDA-approved treatment for Friedreich's ataxia. This is a devastating rare genetic neuromuscular disorder. The U.S. launch has just started. Our regulatory filing is currently under review in the EU, and we see the potential for further geographic expansion. 
+The expected exclusivity period is through 2037, and we believe it is poised to become the standard of care for Friedreich's ataxia for the long term with the potential to meaningfully contribute to Biogen's sustainable long-term revenue growth. As we evaluated this opportunity, it became increasingly clear that Biogen would be the natural owner for SKYCLARYS. Now commercial execution in the rare disease space is a very distinct skill set built up over time, and you've heard me say that before and we see a significant complementarity with our existing global commercial infrastructure with SPINRAZA and of course, more recently, QALSODY and that creates the opportunity for meaningful synergies. Overall, we believe the transaction creates a win for both patients and for our investors. We believe that Reata's limited U.S.-based operational footprint is going to allow for a relatively seamless integration. 
+Now if I just turn to Friedreich's ataxia for a moment, this is a really significant unmet need, and we believe we can address this with this acquisition. Friedreich's ataxia is a rare but often fatal genetic neuromuscular disease and it impacts approximately 5,000 people in the United States and about 22,000 patients worldwide with a prevalence concentrated in people of European (inaudible) exclusively caused by a mutation in the [FRATAXIN] gene with most people starting to experience symptoms early in life. 
+The condition damages the cerebellum, spinal cord and peripheral nerves resulting in an array of different symptoms, which may include problems with speech and swallowing, trouble walking, hearing and vision problems as well as heart issues. These symptoms can be quite serious, and the average life expectancy for an individual with Friedreich's Ataxia is only 37 years. 
+As I said earlier, SKYCLARYS is the first FDA-approved therapy for FA, and it has demonstrated clear ability to improve functional abilities and improve the overall quality of life for patients. We believe that the daily oral treatment with SKYCLARYS has the potential to become the standard of care for FA over the long term globally. 
+And with that, I welcome Mike to run through the financial highlights.
+
+--------------------------------------------------------------------------------
+Michael R. McDonnell,  Biogen Inc. - Executive VP & CFO    [4]
+--------------------------------------------------------------------------------
+Chris. Thank you. Let me take you through some of the financial highlights of this important transaction. Our acquisition of Reata for $172.50 per share in cash represents an enterprise value of roughly $7.3 billion, and we expect to finance the acquisition with cash on hand, which will be supplemented by the issuance of term debt. The transaction is subject to customary closing conditions, and this includes approval by Reata shareholders and also regulatory approvals. We anticipate closing the acquisition in the fourth quarter of this year, and we have received support agreements from Reata shareholders, which hold approximately 36% of its voting power.  
+We believe that the agreement with Reata is consistent with our overarching sustainable growth strategy and prudent capital allocation, and we believe it will create significant long-term value for our shareholders. We expect that the acquisition will be accounted for as a business combination. And assuming that we close in Q4, we expect that this will be slightly dilutive to non-GAAP diluted EPS in 2023 roughly neutral in 2024 and significantly accretive beginning in 2025, all of this being inclusive of associated transaction costs. The majority of this slight near-term dilution is expected to come from lower interest income due to lower cash balances and higher interest expense due to the incremental debt. And so importantly, we expect to see a positive contribution to our non-GAAP operating income beginning in 2024. I would add that we plan to update our full year 2023 financial guidance in conjunction with our third quarter earnings call. 
+And importantly, as Chris mentioned, we believe that Biogen is the natural owner of SKYCLARYS and we do expect significant synergies with SPINRAZA and QALSODY. Biogen continues to generate significant free cash flow, which provides capacity and flexibility to support our internal R&D efforts, investments in new product launches and other strategic initiatives, both organic and inorganic. 
+So with that, I'll turn it back over to Chuck to open up the Q&A.
+
+--------------------------------------------------------------------------------
+Charles E. Triano,  Biogen Inc. - Senior VP & Head of IR    [5]
+--------------------------------------------------------------------------------
+Great. Thanks, Mike. Marjorie, can we please pull for questions?
+
+
+================================================================================
+Questions and Answers
+--------------------------------------------------------------------------------
+Operator    [1]
+--------------------------------------------------------------------------------
+Of course. And we'll take our first question from Jay Olson from Oppenheimer.
+
+--------------------------------------------------------------------------------
+Jay Olson,  Oppenheimer & Co. Inc., Research Division - Executive Director & Senior Analyst    [2]
+--------------------------------------------------------------------------------
+Congrats on the deal. Can you just talk about the physician overlap between SPINRAZA and QALSODY, are they the same doctors that would treat Friedrich's Ataxia? And how easy is it to diagnose Friedreich's Ataxia? And is there a patient registration?
+
+--------------------------------------------------------------------------------
+Christopher A. Viehbacher,  Biogen Inc. - President, CEO & Director    [3]
+--------------------------------------------------------------------------------
+Yes, there is a huge overlap with SPINRAZA, it's largely the same physicians, same centers. There may be some origin at the PCP level, which is not the case for SPINRAZA. And so we may, at some point, think about it -- not necessarily a [field force] but some omnichannel outreach to PCPs. But largely, we anticipate just being able to use our existing commercial field force. We may be looking in an initial period at adding some of the field force that Reata has now and some of the MSLs, but largely, there's an awful lot of synergy with that. What was the second part of the question, Jay?
+
+--------------------------------------------------------------------------------
+Jay Olson,  Oppenheimer & Co. Inc., Research Division - Executive Director & Senior Analyst    [4]
+--------------------------------------------------------------------------------
+Diagnosis.
+
+--------------------------------------------------------------------------------
+Christopher A. Viehbacher,  Biogen Inc. - President, CEO & Director    [5]
+--------------------------------------------------------------------------------
+Diagnosis is largely genetic. The genetic tests are actually readily available and reimbursed. Reata hasn't been providing those genetic tests. We do that actually in the case of SPINRAZA and with QALSODY, and we would anticipate doing that also for SKYCLARYS.
+
+--------------------------------------------------------------------------------
+Operator    [6]
+--------------------------------------------------------------------------------
+And we'll next go to Carter Gould from Barclays.
+
+--------------------------------------------------------------------------------
+Carter Lewis Gould,  Barclays Bank PLC, Research Division - Senior Analyst    [7]
+--------------------------------------------------------------------------------
+Let me offer my congratulations too. One of the outstanding questions for Reata has been sort of -- the stuff to address that pediatric population. Do you have any further clarity or color on exactly what the FDA ask might be here and sort of the time lines?
+
+--------------------------------------------------------------------------------
+Christopher A. Viehbacher,  Biogen Inc. - President, CEO & Director    [8]
+--------------------------------------------------------------------------------
+We do think an additional study will be needed and we built that into our financial model.
+
+--------------------------------------------------------------------------------
+Operator    [9]
+--------------------------------------------------------------------------------
+Our next question comes from Terence Flynn from Morgan Stanley.
+
+--------------------------------------------------------------------------------
+Terence C. Flynn,  Morgan Stanley, Research Division - Equity Analyst    [10]
+--------------------------------------------------------------------------------
+Just wondering if you can comment at all about market opportunity. It looks like consensus estimates in 2030 are around $1.7 billion. Just wondering how you think that shapes out both in the U.S., ex U.S. and then maybe current label versus pediatric label.
+
+--------------------------------------------------------------------------------
+Christopher A. Viehbacher,  Biogen Inc. - President, CEO & Director    [11]
+--------------------------------------------------------------------------------
+One of the interesting things about all the rare diseases I've had in the experience with is that they're always end up being more patients than you think. As long as there's not a treatment, there isn't the same always pursuit of really trying to get at the diagnosis. Now there's -- and this is at different stages. Obviously, most people are diagnosed somewhere in their mid-teens. It can be younger and it can be older. There are people that do live longer. And so I actually think some of those older ones who may have slightly less symptoms might actually now emerge and be seeking therapy. But I definitely think the analyst forecasts are doable. I did go back and asked how did analysts forecast compared to SPINRAZA actual sales? And actually SPINRAZA also demonstrated that we exceeded those forecasts.
+And I think it's just this function of -- the more you look, the more patients you find. I used to say when Genzyme launched, product for Gaucher's disease, it was thought that there was less than 1,000 patients worldwide. And today, I think they're treating over 7,000. I don't -- wouldn't suggest that there's going to be that kind of number of patients emerge for FA, but it just says that once you start treating you usually find more. So I think actually there's an upside to the analyst sales forecast at peak.
+
+--------------------------------------------------------------------------------
+Operator    [12]
+--------------------------------------------------------------------------------
+Our next question comes from Brian Skorney from Baird.
+
+--------------------------------------------------------------------------------
+Brian Peter Skorney,  Robert W. Baird & Co. Incorporated, Research Division - Senior Research Analyst    [13]
+--------------------------------------------------------------------------------
+I just wanted to dig in on your thoughts on the EMA review. I know you submitted 12% in the fourth quarter, which is when Reata also submitted [all maths] so under similar CHMP review periods. And I just wanted to also address AMX-035 from Amylyx recently received a negative CHMP opinion, although in a different indication than omaveloxolone, there's a lot of parallels in the clinical trial results of discrete -- sort of sees it. So I guess -- I kind of assuming your process, maybe you look at Amylyx as well. So in that context, I just wanted to get a feel for what your confidence level is in a positive CHMP opinion for omaveloxolone. And why you think the CHMP may fall on a different side here than with the AMX, soft of brief out decision?
+
+--------------------------------------------------------------------------------
+Christopher A. Viehbacher,  Biogen Inc. - President, CEO & Director    [14]
+--------------------------------------------------------------------------------
+Thanks, Brian. I mean, clearly, we have to respect the confidentiality of our diligence process since Reata is still a separate company. But we clearly did a lot of diligence in this. I think it's safe to say that the 120-day questions are pretty much consistent with the same questions that the FDA ask. With regulatory, you never know, but I would say we're highly confident in the approvability of SKYCLARYS in the EU.
+
+--------------------------------------------------------------------------------
+Operator    [15]
+--------------------------------------------------------------------------------
+Our next question comes from Michael Yee from Jefferies.
+
+--------------------------------------------------------------------------------
+Michael Jonathan Yee,  Jefferies LLC, Research Division - Equity Analyst    [16]
+--------------------------------------------------------------------------------
+A question maybe thinking about this deal, assuming it gets completed, your balance sheet, I think that you will look around 3x levered, but maybe Mike can walk through your thinking around where you will be here and after the deal. And then the thoughts around having to work down the debt or generating free cash flow to get back to where you'd like to be and where you're comfortable to be doing more deals?
+
+--------------------------------------------------------------------------------
+Michael R. McDonnell,  Biogen Inc. - Executive VP & CFO    [17]
+--------------------------------------------------------------------------------
+Sure, Mike. Thanks for the question. And we'll be in a good spot. I would say that the gross leverage will be something probably just a bit less than 3 churns, and the net debt will be something even below that. We'll probably keep some buffer cash on hand. Maybe that's $1 billion or so. And in terms of term debt, I would sort of estimate that, that might be something on the order of about $1.5 billion. But we'll structure that very flexibly. We'll prioritize paying that down. And I would estimate that we should be able to very comfortably pay that down over the course of 2 years at the very outside. We're generating about $1.8 billion of free cash flow per year. We have over $400 million due from Samsung come April. So we've got plenty of sources for very quick repayment and putting our balance sheet back to a similar place that it's in today.
+
+--------------------------------------------------------------------------------
+Operator    [18]
+--------------------------------------------------------------------------------
+Next question comes from Tyler Van Buren from TD Cowen.
+
+--------------------------------------------------------------------------------
+Tyler Martin Van Buren,  TD Cowen, Research Division - MD & Senior Equity Research Analyst    [19]
+--------------------------------------------------------------------------------
+Congratulations to both Reata and Biogen transaction. A couple of quick ones. Can you please give us a sense of what the latest number of cumulative patient start forms for SKYCLARYS looks like? And the second one is related to the Day 120 questions, have the responses to those questions been submitted yet?
+
+--------------------------------------------------------------------------------
+Christopher A. Viehbacher,  Biogen Inc. - President, CEO & Director    [20]
+--------------------------------------------------------------------------------
+I think on the patient numbers, I have to check, but I think we have -- we're in a position of quite a bit of confidential information. We haven't closed this deal yet. So I think I would still have to defer to Reata management about what they intend disclosed. And on the -- Adam, on the responses to the 120-day questions, perhaps you can help.
+
+--------------------------------------------------------------------------------
+Adam Keeney,  Biogen Inc. - Executive VP & Head of Corporate Development    [21]
+--------------------------------------------------------------------------------
+Yes. This is Adam Keeney here, Head of Corporate Development. So that's a very ongoing engaged process currently. So the Reata team are drafting their responses during due diligence, of course, we had an understanding of where they are in that process. So that seems to be progressing well.
+
+--------------------------------------------------------------------------------
+Operator    [22]
+--------------------------------------------------------------------------------
+Our next question comes from Umer Raffat with ISI.
+
+--------------------------------------------------------------------------------
+Umer Raffat,  Evercore ISI Institutional Equities, Research Division - Senior MD & Senior Analyst of Equity Research    [23]
+--------------------------------------------------------------------------------
+Maybe a couple here, if I may. First, do you think the deal is a breakeven of the valuation you're paying if [EU] is not approved? Sorry, can you hear me?
+
+--------------------------------------------------------------------------------
+Charles E. Triano,  Biogen Inc. - Senior VP & Head of IR    [24]
+--------------------------------------------------------------------------------
+Yes, we can hear you.
+
+--------------------------------------------------------------------------------
+Umer Raffat,  Evercore ISI Institutional Equities, Research Division - Senior MD & Senior Analyst of Equity Research    [25]
+--------------------------------------------------------------------------------
+Okay. Let me do it again. Do you think the deal as a breakeven on the NPV you're paying if EU is not approved? Secondly, on the day 120 questions that you have from EMA. Are they looking at the open-label extension natural history comparison as a confirmatory evidence the way FDA did or at least are they heading in that direction? And finally, Orange Book has 2033 as a patent listed. I know Reata had expressed they could get extensions through 2037. Is that your base case as well in modeling.
+
+--------------------------------------------------------------------------------
+Christopher A. Viehbacher,  Biogen Inc. - President, CEO & Director    [26]
+--------------------------------------------------------------------------------
+So we haven't actually specifically looked at whether this is breakeven without the EU. That said, this is very similar to a lot of rare disease and in fact, SPINRAZA, there's no question that significant value comes from ex U.S. it could potentially be breakeven just from the U.S. I haven't really modeled that. But again, I think we got pretty comfortable with the approvability in the EU. On the patent, the due diligence suggested that we put in our comments earlier, we think that there is exclusivity out to 2037. And I don't know whether you want to comment on the day 120 question that could be a better thing to defer to Reata.
+
+--------------------------------------------------------------------------------
+Adam Keeney,  Biogen Inc. - Executive VP & Head of Corporate Development    [27]
+--------------------------------------------------------------------------------
+No, exactly. I would just say that -- that's a conversation that's going on currently, and I don't think we can comment any further.
+
+--------------------------------------------------------------------------------
+Operator    [28]
+--------------------------------------------------------------------------------
+Our next question comes from Jeff Meacham from Bank of America.
+
+--------------------------------------------------------------------------------
+Geoffrey Christopher Meacham,  BofA Securities, Research Division - Research Analyst    [29]
+--------------------------------------------------------------------------------
+Congrats on the deal. I know SKYCLARYS is by far the big value driver, but what consideration did Biogen give to the NRF2 or HSP90 programs in the deal? And is there some synergy with any internal programs there at Biogen?
+
+--------------------------------------------------------------------------------
+Christopher A. Viehbacher,  Biogen Inc. - President, CEO & Director    [30]
+--------------------------------------------------------------------------------
+So we -- the programs are early, but -- and so we can't really say that a lot of value was ascribed to that, although I would certainly say we took that into consideration. I am actually quite interested, I think we as a company are. I think the NRF2 technology, in particular, fits very well with a number of disease that we already look at, such as ALS and Alzheimer's. And I think one of the things that we will be doing is getting our R&D teams together and thinking about what other things could we do. Diabetic neuropathy is a huge potential market. We did not spend as much time yet on really diligencing that -- but I do think that the Reata is potentially much more than just a company on SKYCLARYS. And I don't know, Adam, if you want to add anything?
+
+--------------------------------------------------------------------------------
+Adam Keeney,  Biogen Inc. - Executive VP & Head of Corporate Development    [31]
+--------------------------------------------------------------------------------
+I think actually, I'll just add that the body of literature and scientific support for this particular mechanism NRF2 and the mitochondrial processes in a range of neurodegenerative diseases makes a lot of sense and Reata have proven the ability to deliver quality molecules. So we'll go through a thorough assessment and understand what the future opportunity could be for their earlier portfolio.
+
+--------------------------------------------------------------------------------
+Operator    [32]
+--------------------------------------------------------------------------------
+And our next question comes from Sumant Kulkarni from Canaccord.
+
+--------------------------------------------------------------------------------
+Sumant Satchidanand Kulkarni,  Canaccord Genuity Corp., Research Division - Analyst    [33]
+--------------------------------------------------------------------------------
+I know you said -- you consider SKYCLARYS is becoming the standard of care for Friedreich Ataxia, but how do you think of the competitive landscape over time? And how many competitors were you factoring in, let's say, over 5 years?
+
+--------------------------------------------------------------------------------
+Christopher A. Viehbacher,  Biogen Inc. - President, CEO & Director    [34]
+--------------------------------------------------------------------------------
+The near-term competitor was PTC. And they obviously had a setback, and it's not really clear what PTC is going to do. You've got some enzyme replacement out there. You've got some gene therapy. But that all seems to be somewhere in the distance. And I think in diseases like this, you could well end up with addressing them through a combination. So our thinking is that we certainly have a period of exclusivity here in the marketplace. And even if at some point, competitors do come in, we do think that this could be the backbone of therapy.
+
+--------------------------------------------------------------------------------
+Operator    [35]
+--------------------------------------------------------------------------------
+Our next question is from Myles Minter from William Blair.
+
+--------------------------------------------------------------------------------
+Myles Robert Minter,  William Blair & Company L.L.C., Research Division - Analyst    [36]
+--------------------------------------------------------------------------------
+Just a quick one. You mentioned that you paid down the debt comfortably over 2 years. Does that imply that Biogen is not going to do another deal on this scale or somewhere underneath that for another 2 years?
+
+--------------------------------------------------------------------------------
+Michael R. McDonnell,  Biogen Inc. - Executive VP & CFO    [37]
+--------------------------------------------------------------------------------
+Sure. Happy to take that one, Myles. And it doesn't necessarily imply that. This is obviously a sizable deal. It will use a meaningful amount of cash. But at the same time, we've got $7.3 billion of cash at the end of the second quarter in building. So our balance sheet is in a good spot. I have a high degree of confidence that we'll be able to maintain very solid investment-grade ratings that we have. and we'll continue to look at business development opportunities as they come, obviously, this one is a pretty sizable one which we were thrilled to be able to get done. But we'll continue to look at a variety of different things. And we're not stretching the balance sheet to a point where we have to go completely dark on business development activities for a period of time.
+
+--------------------------------------------------------------------------------
+Christopher A. Viehbacher,  Biogen Inc. - President, CEO & Director    [38]
+--------------------------------------------------------------------------------
+Yes. We're not going to let Adam retire here. The -- to Mike's point, I mean this is a sizable deal. It doesn't use all of our firepower, but it's sort of a small deal either. And basically back in the early part of the year, we engaged a team internally to really look at the landscape of what's out there that could fit with Biogen because you do want to make sure that you do the right thing and not just the first thing that somebody comes along with. And so we have discovered the landscape and we do believe that this is an opportunity that will drive both an awful lot of strategic synergy within our portfolio. I've said that I'd like to get Biogen a little stronger in rare diseases, and I see this acquisition as a move in that direction. 
+But equally, we believe that this is an opportunity to drive shareholder value with this transaction. But BD isn't all about M&A. And we're pretty close to naming a Head of Research, and we'd like to have an external growth oriented research organization. I think there are an awful lot of capabilities in Biogen that make it unique as a partner in a number of fields such -- certainly anything in neuroscience, certainly now in rare diseases and also in aspects of immunology. 
+So BD is really covering the gamut if not all -- it's not all going to be M&A. And I would suspect we're going to focus more on the BD type deals, licensing and collaborations for a while. But to Mike's point, we always keep our eye open if there's something that we think would drive shareholder value then we would at least look at it.
+
+--------------------------------------------------------------------------------
+Operator    [39]
+--------------------------------------------------------------------------------
+Our next question comes from Robyn Karnauskas from Truist Securities.
+
+--------------------------------------------------------------------------------
+Unidentified Analyst,   -     [40]
+--------------------------------------------------------------------------------
+This is Alex on for Robyn. You mentioned that there could be more FA patients that come into the forefront after the approval. Could you say if there are active efforts from Reata or Biogen that are supporting patient identification for FA? And also, could you remind us, do you now have access to a priority review voucher. And do you plan to monetize that? Or how do you plan to use that?
+
+--------------------------------------------------------------------------------
+Christopher A. Viehbacher,  Biogen Inc. - President, CEO & Director    [41]
+--------------------------------------------------------------------------------
+There is indeed a priority review voucher in there. And we haven't made a decision about what we're going to do with it. As you know, those are definitely transactable. We'll be reviewing that and looking at that. In terms of outreach, it's early days. People have known the product is coming. I think it's reasonable to say that Reata is experiencing even better response and they had actually forecast for this. So I think FA patients have been anxiously awaiting this therapy. And I think it's very good news for them.
+I think over time Biogen has a real opportunity to accelerate particularly the expansion internationally. We have SPINRAZA around the world. So we cannot only get probably to Europe if it's approved earlier, but there are actually quite a number of patients in -- potentially in Latin America. Just given the European heritage that is typically associated with this, we don't particularly see this as a big opportunity in Asia. But again, I think Biogen, I wasn't here, so as I observed, I think Biogen did an excellent job of commercializing and continues to do an excellent job. You saw that we returned to growth actually in the second quarter with SPINRAZA. I do think Biogen brings an awful lot that can really make sure that the maximum number of patients benefit from SKYCLARYS.
+
+--------------------------------------------------------------------------------
+Operator    [42]
+--------------------------------------------------------------------------------
+Our next question comes from Brian Abrahams from RBC Capital Markets.
+
+--------------------------------------------------------------------------------
+Brian Corey Abrahams,  RBC Capital Markets, Research Division - Senior Biotechnology Analyst    [43]
+--------------------------------------------------------------------------------
+Congratulations on the deal. Can you talk about how this acquisition will impact your recently announced fit to Growth initiative and how, if at all, this might change expectations for the cost and personnel reductions measures that you recently talked about.
+
+--------------------------------------------------------------------------------
+Christopher A. Viehbacher,  Biogen Inc. - President, CEO & Director    [44]
+--------------------------------------------------------------------------------
+Thanks, Brian. No, actually, well, fit for Growth was always around -- what we -- how do we best position Biogen for future growth? We've had a long heritage and successful heritage in multiple sclerosis. We are still the market leader in there. But there is a need for reengineering, as I said, it wasn't just a cost reduction exercise. It's around removing layers in the organization and also building the capabilities for the new therapeutic areas that we're going to enter. 
+So that's ongoing. That will be done. And I think one of the things I had also said is I didn't really want to do an acquisition too early until we actually had a plan for the internal organization. So by the time we close this, I think, certainly in the U.S., we'll have -- been able to implement most of what we need to fit for growth, at least in the U.S. around the world that will take more time. So I think this is actually going to be pretty synergistic. And if I may, I think as I look now at Biogen, we have LEQEMBI that is already approved. We have SKYCLARYS, which is already approved. We have a PDUFA date for zuranolone next week, and we have an opportunity to really reengineer our cost base and get our capabilities. I think this places Biogen in an outstanding position for growth going forward.
+
+--------------------------------------------------------------------------------
+Operator    [45]
+--------------------------------------------------------------------------------
+Our next question comes from Ami Fadia from Needham.
+
+--------------------------------------------------------------------------------
+Ami Fadia,  Needham & Company, LLC, Research Division - Senior Analyst    [46]
+--------------------------------------------------------------------------------
+Can you put some specifics around cost synergies from the deal sounds like you're not going to take on much of the organization, but perhaps a little bit. Maybe if you could sort of quantify how that contributes to accretion in 2025. And also if you could comment if this process was a competitive bid process?
+
+--------------------------------------------------------------------------------
+Christopher A. Viehbacher,  Biogen Inc. - President, CEO & Director    [47]
+--------------------------------------------------------------------------------
+Mike, do you want to take the numbers questions?
+
+--------------------------------------------------------------------------------
+Michael R. McDonnell,  Biogen Inc. - Executive VP & CFO    [48]
+--------------------------------------------------------------------------------
+Yes, sure. So thanks for the question, Ami. And it's a very attractive financial profile. This is an oral and royalty obligations are modest. So you're looking at a very high gross margin product. And then from a cost perspective, there is some ongoing R&D related to the pediatric study that will go for a few years. And obviously, you need to add some sales and marketing cost in order to market the product. But as we've said, this will bolt on very nicely to our rare disease platform along with SPINRAZA. So in terms of incremental cost below the gross margin line, you're not looking at a huge amount of money, probably maybe $150 million and then winding down to closer to $100 million or less over time. So a very high operating margin that we would expect as this goes, which is why we've made a comment about significant accretion expected by 2025.
+
+--------------------------------------------------------------------------------
+Christopher A. Viehbacher,  Biogen Inc. - President, CEO & Director    [49]
+--------------------------------------------------------------------------------
+And we'll wait for the S-4 to see what it was indeed -- it felt like a competitive process until you see the S-4, you don't know for sure.
+
+--------------------------------------------------------------------------------
+Operator    [50]
+--------------------------------------------------------------------------------
+Our next question comes from Marc Goodman from Leerink Partners.
+
+--------------------------------------------------------------------------------
+Unidentified Analyst,   -     [51]
+--------------------------------------------------------------------------------
+This is Rudy on the line for Mark. Just curious about how should we think about the product ramps? Do you think we can have a bolus of patients following the initial launch given the higher revenues?
+
+--------------------------------------------------------------------------------
+Christopher A. Viehbacher,  Biogen Inc. - President, CEO & Director    [52]
+--------------------------------------------------------------------------------
+Again, I'll defer to Reata because, again, they're an independent company and would being appropriate for us to share confidential information gain through diligence. But I would say, I think I'm on safe ground to say that Reata management are seeing better and faster uptake than they themselves had forecast.
+
+--------------------------------------------------------------------------------
+Operator    [53]
+--------------------------------------------------------------------------------
+Our last question comes from Paul Matteis from Stifel.
+
+--------------------------------------------------------------------------------
+Paul Andrew Matteis,  Stifel, Nicolaus & Company, Incorporated, Research Division - Co-Head of the Biotech Team, MD & Senior Analyst    [54]
+--------------------------------------------------------------------------------
+I guess it's straight for me to ask -- reask a little bit of my question from earnings. But one of the questions I've gotten from investors is just whether the timing of this deal has any read drawn to your confidence or not in zuranolone and the breadth of potential there. Maybe you can comment, but I thought I should ask.
+
+--------------------------------------------------------------------------------
+Christopher A. Viehbacher,  Biogen Inc. - President, CEO & Director    [55]
+--------------------------------------------------------------------------------
+No, I mean we -- as I said, Paul, we've started early this year and have been working our way through the landscape of companies. And we will -- I think we will always continue to do that. I mean I think personally, as a CEO, you have opportunities inside the company, but you should always be mindful of things that are outside the company. If there is no other reason, you see what your competitors are doing and where there's value creation. I think increasingly, our industry has relied more on external growth certainly to complement internal growth. 
+So this has gone over some period of time and I will say that we were able to move quite quickly. I do have to complement the Biogen team -- this happened very quickly, we're able to put together a strong team to due diligence. And I'll take the opportunity to congratulate Adam Keeney. He's been here for 3 months, and he's already got a substantial deal. I don't know what he's going to do next quarter for non-core.
+But no, look, this is -- this gives us another driver of growth, as I said. I think fit for Growth is extremely important. I mean I really can't tell you how important that is in terms of internally. I mean, you guys are all going to be interested in what's the impact on the numbers. But this is a substantial cultural shift inside the company. And it really is -- really trying to make us really agile and focused and accountable to really be able to take advantage of the growth drivers that are in front of us. And with LEQEMBI already launched with a PDUFA for zuranolone next week and now with this product, I think we've got a pretty outstanding growth outlook for the company over the coming years.
+
+--------------------------------------------------------------------------------
+Charles E. Triano,  Biogen Inc. - Senior VP & Head of IR    [56]
+--------------------------------------------------------------------------------
+Great. Thank you, Chris and Mike and Adam, and thanks to everyone for joining us on short notice this morning. This will end our call.
+
+--------------------------------------------------------------------------------
+Operator    [57]
+--------------------------------------------------------------------------------
+Thank you. Ladies and gentlemen, that does conclude today's conference. We appreciate your participation. Have a wonderful day.
+
+
+
+
+
+
+
+--------------------------------------------------------------------------------
+Definitions
+--------------------------------------------------------------------------------
+PRELIMINARY TRANSCRIPT: "Preliminary Transcript" indicates that the 
+Transcript has been published in near real-time by an experienced 
+professional transcriber.  While the Preliminary Transcript is highly 
+accurate, it has not been edited to ensure the entire transcription 
+represents a verbatim report of the call.
+
+EDITED TRANSCRIPT: "Edited Transcript" indicates that a team of professional 
+editors have listened to the event a second time to confirm that the 
+content of the call has been transcribed accurately and in full.
+
+--------------------------------------------------------------------------------
+Disclaimer
+--------------------------------------------------------------------------------
+Refinitiv reserves the right to make changes to documents, content, or other 
+information on this web site without obligation to notify any person of 
+such changes.
+
+In the conference calls upon which Event Transcripts are based, companies 
+may make projections or other forward-looking statements regarding a variety 
+of items. Such forward-looking statements are based upon current 
+expectations and involve risks and uncertainties. Actual results may differ 
+materially from those stated in any forward-looking statement based on a 
+number of important factors and risks, which are more specifically 
+identified in the companies' most recent SEC filings. Although the companies 
+may indicate and believe that the assumptions underlying the forward-looking 
+statements are reasonable, any of the assumptions could prove inaccurate or 
+incorrect and, therefore, there can be no assurance that the results 
+contemplated in the forward-looking statements will be realized.
+
+THE INFORMATION CONTAINED IN EVENT TRANSCRIPTS IS A TEXTUAL REPRESENTATION
+OF THE APPLICABLE COMPANY'S CONFERENCE CALL AND WHILE EFFORTS ARE MADE TO
+PROVIDE AN ACCURATE TRANSCRIPTION, THERE MAY BE MATERIAL ERRORS, OMISSIONS,
+OR INACCURACIES IN THE REPORTING OF THE SUBSTANCE OF THE CONFERENCE CALLS.
+IN NO WAY DOES REFINITIV OR THE APPLICABLE COMPANY ASSUME ANY RESPONSIBILITY FOR ANY INVESTMENT OR OTHER
+DECISIONS MADE BASED UPON THE INFORMATION PROVIDED ON THIS WEB SITE OR IN
+ANY EVENT TRANSCRIPT. USERS ARE ADVISED TO REVIEW THE APPLICABLE COMPANY'S
+CONFERENCE CALL ITSELF AND THE APPLICABLE COMPANY'S SEC FILINGS BEFORE
+MAKING ANY INVESTMENT OR OTHER DECISIONS.
+--------------------------------------------------------------------------------
+Copyright 2023 Refinitiv. All Rights Reserved.
+--------------------------------------------------------------------------------

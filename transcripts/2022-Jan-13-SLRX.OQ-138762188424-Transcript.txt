@@ -1,0 +1,485 @@
+
+
+Refinitiv StreetEvents Event Transcript
+E D I T E D   V E R S I O N
+
+Salarius Pharmaceuticals Inc Asset Acquisition Agreement with DeuteRx LLC - M&amp;A Call
+JANUARY 13, 2022 / 1:30PM GMT
+
+================================================================================
+Corporate Participants
+================================================================================
+
+ * David Arthur
+   Salarius Pharmaceuticals - Director and CEO
+ * Daniela Santiesteban
+   Salarius Pharmaceuticals - Director of Corporate Development and Director of SP31
+
+================================================================================
+Conference Call Participiants
+================================================================================
+
+ * Hunter Diamond
+   Diamond Equities - Analyst
+ * Mike King
+   HC Wainwright - Analyst
+
+================================================================================
+Presentation
+--------------------------------------------------------------------------------
+Operator    [1]
+--------------------------------------------------------------------------------
+Good day and welcome to the Salarius Pharmaceuticals Oncology Pipeline Expansion conference call. (Operator Instructions) As a reminder, this call may be recorded.  I would now like to turn the call over to [Jason Landa], (inaudible) Strategic Advisors (inaudible).
+
+--------------------------------------------------------------------------------
+Unidentified Audience Member    [2]
+--------------------------------------------------------------------------------
+Good morning and thank you for joining Salarius Pharmaceuticals on today's conference call.  Earlier this morning, Salarius Pharmaceuticals issued a press release detailing a cash and stock transaction with DeuteRx LLC for the acquisition of a protein degradation portfolio, which we encourage listeners to read.
+The press release can be found in the news section of SalariusPharma.com.  Salarius also filed an 8-K this morning, which is available on SalriusPharma.com and SEC.gov.
+Before beginning the call, I would like to make the following statement, today, we'll be making certain forward looking statements about operating metrics, future expectations, plans, events and circumstances, including statements about our strategy, future operations and development of our investigational drug (inaudible), as well as our expectations regarding capital allocation and cash resources.
+These statements are based on our current expectations and you should not place undue reliance on these statements.  Actual results may differ materially due to our risks and uncertainties, including those detailed in the risk factors section of Salarius Pharmaceuticals' Annual Report on form 10-K for the year ended 2020 and subsequent quarterly reports on form 10-Q, which [have been] filed with the SEC, as well as in other filings we make with the SEC from time to time.
+Salarius Pharmaceuticals disclaims any obligation to update the information contained in these forward looking statements, whether as a result of new information, future events or otherwise.
+With us on today's call is David Arthur, Director and CEO of Salarius Pharmaceuticals, who will discuss the acquisition as well as Salarius' lead investigational drug [candidate] Seclidemstat [an addition] for the company. David, please go ahead.
+
+--------------------------------------------------------------------------------
+David Arthur,  Salarius Pharmaceuticals - Director and CEO    [3]
+--------------------------------------------------------------------------------
+Thank you, [Jason] and good morning, and thank you to everyone dialing into our conference call this morning.  As you know, earlier today, we announced an agreement with DeuteRx LLC under which, we acquired a portfolio of assets and intellectual property that will form the basis of our targeted protein degradation research and development program.
+The agreement includes the lead candidate, SP3164, additional targeted protein degradation drug development programs and a portfolio of six patent families.  In addition, Salarius has entered into a research and development agreement with our DeuteRx colleagues to complete 3164 development and also collaborate on the research and development of these future products.
+With this acquisition, Salarius has gone from a company with a single clinical state asset Seclidemstat to a company with a multi-pronged internal pipeline built around two exciting and distinct fields of cancer research, protein inhibition and now targeted protein degradation.
+Before getting into the details of this tremendous opportunity, I want to provide a brief update on Seclidemstat's ongoing process - progress.  Seclidemstat, our novel LSD1 inhibitor program continues to build momentum with the addition of clinical trial sites, ongoing patient enrollment and most recently announced, the fact that the [Ewing sarcoma arm] investigating Seclidemstat in combination with common chemotherapy agents has advanced to the second safety lead in cohort.
+I'll [come to - back] to Seclidemstat later, but now, I'd like to talk more about this acquisition and our entrance into the attractive and growing field of targeted protein degradation.  I want to say upfront that we believe 3164 is a de-risked asset with tremendous upside potential.
+I'll spend the next few minutes explaining why 3164 is a great addition to our pipeline, but first let me mention why we're excited to enter the protein degradation space.  Protein degradation is a fast growing field of drug development that has attracted considerable attention, not to mention investment from some of the world's biggest drug makers, including Pfizer and Novartis, and it should come as no surprise that these drug makers are showing interest.
+In 2020 - 2020, global sales for a class of protein degraders called molecular [glues] totaled over $15 billion.  Be sure to remember that phrase as ii provide more details on 3164.
+Now, let's shift gears and talk about the terms of the deal, the opportunity and the science behind SP3164 - 3164 was developed by DeuteRx using a unique process called deuterium enabled [chiral] switching or [DECS] to create a new molecular entity with the potential for increased efficacy and improved safety, compared to the first generation compound Ovatomide.  Ovatomide is a well-known molecular glue that has an unstable [chiral] center and therefore consists of two [anantomers] in equilibrium.
+You can think of [an anantomer] as mirror images of one another.  They have the same chemical structure, but they are not the same.  Consider as an example, your left hand and your right hand, each has four fingers and a thumb, a mirror image of each other, but you can't place one on top of the other.
+Interestingly, it is only one of these [anantomers], the [S anantomer] of Ovatomide that is primarily responsible for the anti-cancer and immune modulating effects of the drug.  The other [anatomer], the R [anantomer] has minimal anti-cancer properties and actually may even help promote tumor growth, which is obviously undesirable.
+Ideally, one would only want the active anti-cancer [S anantomer] of Ovatomide, and that is exactly what we have with SP3164 - 3164 was developed to be only [the active] anti-cancer [S anantomer] and therefore, we believe it may have improved efficacy and potentially an improved safety profile over Ovatomide, the first generation compound.
+One of the many reasons we're - we are excited about developing 3164 is we can take a lot of the published data from the first generation compound and build upon these learnings with 3164.  This helps de-risk the development and position 3164 for success.
+For instance, the first generation compound has shown preclinical activity - already shown preclinical activity in various hematological indications, including multiple myeloma, lymphomas and leukemias and in solid tumors like [hepata cellular] carcinoma or liver cancer.
+In addition, Ovatomide was studied in more than 400 subjects across 10 clinical trials for patients with hematologic cancers and solid tumors with published data showing it has encouraging efficacy in lymphomas as both a single agent and in combination therapy with standard of care agents.
+This is a large set of positive data for us to build upon with our newly acquired improved second generation compound.  The unique properties and improvements of SP3164 over the first generation compound make it a new molecular entity with its own composition of [matter patent], so while we can learn from the first generation compound, 3164 represents a novel entity that will have a differentiated clinical profile and development [path].
+For these reasons, we believe 3164 is a de-risked asset with significant upside potential.  One of the reasons we are excited to announce this acquisition and collaboration agreement with DeuteRx is because they are the leaders in the space of deuterated [chiral] switching.  This is not DeuteRx's first transaction.
+In fact, it is the fourth time DeuteRx or an associated DeuteRx company has sold, licensed or spun out a portfolio of deuterium stabilized [isomers] for clinical development.
+In fact, previous transactions have included [Cell Gene], [Toxcel SA] and most recently [Neuromity] - nor is 3164 the first preferred isomer in the industry.  There is a long list of products where the preferred isomer was developed into a multibillion dollar brand.
+In this transaction, DeuteRx received an upfront payment from Salarius of $1.5 million in cash and 1 million shares of restricted stock.  In addition, and based upon the success of 3164, DeuteRx is also entitled to receive up to $53 million in future even driven clinical and regulatory milestone payments and sales achievement milestone payments of up to $135 million, as well as escalating royalties on net sales.
+Additionally, DeuteRx is eligible to receive event driven, clinical regulatory and sales milestone payments of up to $84 million and escalating royalties on net sales for each of two future products.
+As part of our shared vision to support early development activities, Salarius and DeuteRx structured this deal so that development milestone payments do not occur until much later than is typical in the drug development cycle.
+In fact, the first potential developmental milestone payment is not triggered until initiation of a phase three or registration clinical trial. With this high level overview, I hope you can now share in our excitement regarding this acquisition announcement.
+To highlight, SP3164 allows us to enter the growing, attractive space of targeted protein degradation.  SP3164 is an improved next generation version of Ovatomide, a widely studied molecular glue with a significant amount of published data that helps de-risk 3164's development path.
+And economically, we structured a deal that allows our resources to be used for early preclinical and clinical development activities, while leveraging expertise from the DeuteRx team so we can advance the development of future products.
+We look forward to sharing updates of this exciting new program as we advance it through R&D enabling studies with the intention of entering in - into the clinic in 2023.
+Now, furthermore and in addition to the news surrounding our acquisition, Seclidemstat development continues to build momentum.  In December, the [ewing sarcoma] arm or our sarcoma trial achieved an important dosing milestone by advancing to the second safety [leading] cohort, and we are now treating patients with Seclidemstat at 900 milligrams twice daily in combination with [Tofatican] and [Cyclophosamide] or TC therapy.
+As we have mentioned previously, Seclidemstat, when used in combination with TC therapy demonstrated synergy in a [ewing sarcoma] cell line - synergy meaning [1 + 1 = more than 2] in [end cancer] activity.
+Also, in our sarcoma trial, the [mixoid] liposarcoma and [FET] rearranged sarcoma arms continue to enroll patients who are being treated with single agent Seclidemstat therapy.
+And a second Seclidemstat clinical trial is also active and enrolling patients.  This trial is an investigator sponsored trial at MD Anderson Cancer Center here in Houston, and is exploring Seclidemstat in combination with the cancer drug [Azasidanine] for the treatment of hematologic cancers.
+This is an exciting time for Salarius, and we are looking forward to providing clinical updates on both of these Seclidemstat trials later this year.
+We believe entering the fast growing field of targeted protein degradation with the acquisition of 3164, the acquisition of additional future assets in development, plus the increasing momentum of Seclidemstat is all great news and we would enjoy answering your questions.
+You can also find additional info on the Salarius Pharmaceuticals' website at SalariusPharma.com.
+Joining me for the Q&A portion of this call is Mark Rosenblum, Chief Financial Officer, Dr. Nadine Mirza, Senior Vice President of Clinical Development and Dr. Daniela Santiesteban, Director of Corporate Development and Director of the SP31 program.  With that, I will now open the call to your questions.
+
+
+================================================================================
+Questions and Answers
+--------------------------------------------------------------------------------
+Operator    [1]
+--------------------------------------------------------------------------------
+(Operator Instructions). Our first question comes from [Ahu Naduar] with (inaudible) [Thalman].  Your line is open.
+
+--------------------------------------------------------------------------------
+Unidentified Audience Member    [2]
+--------------------------------------------------------------------------------
+Thank you very much for taking my question, and I would like (inaudible) for the acquisition, it's (inaudible) -I look - I look forward to learning more about the program.
+So, (inaudible) my first question [will come] - based on (inaudible) clinical trials, are there particular indications that the (inaudible) [superior] efficacy and [you plan to maybe proceed on the indications]?  And (inaudible) wording in the press release (inaudible) promoting [targets], is [that] strategic decision going towards those targets as well?
+
+--------------------------------------------------------------------------------
+David Arthur,  Salarius Pharmaceuticals - Director and CEO    [3]
+--------------------------------------------------------------------------------
+[Ahu], thank you for calling in and good morning.  Let me take the first part of the question and I'll ask Danielle to weigh in on the second.
+We've had the opportunity to review all of the published data on Ovatomide and the published data on 3164, and we had the opportunity to review data that has not been published, and I got to tell you, we really like what we see.  And when you look at the published data that is out there, you - as I mentioned in my - in my script, Ovatomide has already demonstrated efficacy in lymphomas and some very exciting data in liver cancer.
+When we couple that with what we have seen during the acquisition process and due diligence process that we went through with DeuteRx, we have a lot of good choices in front of us and we're going to let the data and strategic considerations of ensuring we get to market quickly and we get to market with good strong indications that lead to good strong market presence really guide our development strategy.
+So, at this point, I would answer your question by saying we have some really good choices in front of us that include multiple myeloma, a number of lymphomas, possibly even liver cancer, and we'll be sharing more on our development path as we have a chance to - build our relationship more strongly with DeuteRx and execute some additional preclinical trials. Daniela, the second part of the question was about undrugable targets, would you like to take that one?
+
+--------------------------------------------------------------------------------
+Daniela Santiesteban,  Salarius Pharmaceuticals - Director of Corporate Development and Director of SP31    [4]
+--------------------------------------------------------------------------------
+Yes, (inaudible) David, and thanks for the question, [Ahu].  So yes, I think one of the advantages of protein degradation is the ability to not just be limited to proteins that have [a catalytic site] and you can really go after a lot more proteins - so called undrugable targets.
+And so we're really - we're really excited to be able to try and tackle some of these targets.  We'll be working with DeuteRx on developing future drugs in the targeted protein degradation space and hope to have some updated in the future for you.
+
+--------------------------------------------------------------------------------
+Unidentified Audience Member    [5]
+--------------------------------------------------------------------------------
+That sounds great.  This is helpful, thank you.  And my second question will be regarding the [IND labeling] studies, are you responsible for carry those studies?  What are we expecting to see throughout the year before you enter the clinical trial for this program?
+
+--------------------------------------------------------------------------------
+David Arthur,  Salarius Pharmaceuticals - Director and CEO    [6]
+--------------------------------------------------------------------------------
+So, [Ahu], we purchased the targeted protein degradation portfolio and product line from DeuteRx, so we are now the owners and we are responsible for advancing not only 3164, but advancing the development of future products.
+We have a lead candidate, 3164 is the lead candidate, so we will be quickly moving into the IND work necessary to file an IND with the FDA.  And as you know, that includes optimizing the chemical synthesis.  It means developing some analytical methods.
+It means - obviously your GOP tox studies and a number of other activities that help characterize 3164 and show that we have both the likelihood of efficacy, which we feel very good about.  And we can meet the safety requirements requested by the FDA. And we would - as we mentioned, we expect to be in the clinic in 2023.  Does that answer your question?
+
+--------------------------------------------------------------------------------
+Unidentified Audience Member    [7]
+--------------------------------------------------------------------------------
+Yes, but one - one additional question, could be like are you planning to maybe (inaudible) data at a conference?  Are we going to see maybe more (inaudible) clinical data?  Are you planning to maybe present at a conference or not?  So, that [would also help me].
+
+--------------------------------------------------------------------------------
+David Arthur,  Salarius Pharmaceuticals - Director and CEO    [8]
+--------------------------------------------------------------------------------
+Well, the answer is absolutely yes.  We not only have Seclidemstat data that we are hoping to present at a number of conferences over 2022 and 2023 and many of those would be preclinical in addition to clinical data.
+And then, with 3164, we are currently looking at the best way to disclose not only some of the existing data that has not been published, but also plan on how to release data that we'll be generating over the next year.  So, the answer is yes, we just need to get our heads around exactly what we have and figure out the best way to get the information out there.
+
+--------------------------------------------------------------------------------
+Unidentified Audience Member    [9]
+--------------------------------------------------------------------------------
+That makes sense, if I could ask one more question, thanks for the highlight regarding the [DEC] (inaudible) and as you pointed out, degradation [arena] is rapidly growing, so I would be curious to hear what the major differentiating (inaudible) degradation companies in terms of strategic [decisions] or targeting indications or [targets]?
+
+--------------------------------------------------------------------------------
+David Arthur,  Salarius Pharmaceuticals - Director and CEO    [10]
+--------------------------------------------------------------------------------
+So, let me start by talking a little bit about the differentiation and then I'm going to ask Daniela to talk a little bit about the opportunity for clinical trials and where we might go there.
+At a high level, and this is - this is what I think is very important for everyone on the call to realize is the development of preferred isomers is not new to the pharmaceutical industry.  There are numbers of examples where this has been done successfully.  In fact, those of us on the phone - many of us may remember a company called [Cepracor] that was very successful in the development of preferred isomers.
+You can look back recently at I believe, Prilosec, a widely successful product was followed by Nexium, which was an isomer of - one of the isomers in Prilosec and Nexium ended up with a more efficacious profile and was also a multibillion dollar drug.
+Other examples include [Selexa], which was followed by [Lexapro], which was one of the [Selexa] isomers.  Also, items that we - we may be familiar with - probably a lot of people on this phone call may have used [Zertec].  Well guess what, [Xalis] is the ice - one of the isomers of [Zertec] and provided more consistent (inaudible) [lexidation].
+[Focalin] followed Ritalin, so there a lot - and the reason I use these examples is the answer to your question is we are now taking the preferred and active isomer of Ovatomide, which we believe will provide a more potent product and by leaving the R in [anantomer] behind, that has been shown to not be active and potentially promote undesirable side effects, including the promotion of cancer - we believe we will have a more potent, more efficacious and safer product than Ovatomide, knowing that Ovatomide has already performed pretty darn well in the clinic.
+So, from a differentiating factor, we think we have a real advantage here.  Now, let me toss it to Daniela and, Daniela, you can comment on future indications.
+
+--------------------------------------------------------------------------------
+Daniela Santiesteban,  Salarius Pharmaceuticals - Director of Corporate Development and Director of SP31    [11]
+--------------------------------------------------------------------------------
+Yes, thanks, David.  So, yes, just adding to what David said, 3164 is going to be the first generated (inaudible) [as an anantomer and for the clinics] that we're aware of.  And because (inaudible) [anantomer] is the active one that immediately differentiates from the get go.  It has the same targeted protein degradation profile as some of the other molecular glues and [that targeted] proteins are [elios] and [icaros] but in addition to those, it also degrades other proteins.
+And because of that [unique] protein degradation profile, we think that we can develop it in not only pharmacological indications but also solid tumor indications, and develop it in combination with approved agents due to its tolerable safety profile.
+So, like David said, (inaudible) [risk] but there are several areas and opportunities for us to develop this differentiated molecular glue.
+
+--------------------------------------------------------------------------------
+Unidentified Audience Member    [12]
+--------------------------------------------------------------------------------
+Thank you very much.  Thanks for taking my questions.  And congratulations to the team again.
+
+--------------------------------------------------------------------------------
+David Arthur,  Salarius Pharmaceuticals - Director and CEO    [13]
+--------------------------------------------------------------------------------
+Thank you.  Have a good day.
+
+--------------------------------------------------------------------------------
+Operator    [14]
+--------------------------------------------------------------------------------
+And our next question comes from Mike King with HC Wainwright.  Your line is open.
+
+--------------------------------------------------------------------------------
+Mike King,  HC Wainwright - Analyst    [15]
+--------------------------------------------------------------------------------
+Hi, guys, can you hear me OK?
+
+--------------------------------------------------------------------------------
+David Arthur,  Salarius Pharmaceuticals - Director and CEO    [16]
+--------------------------------------------------------------------------------
+Can hear you find, Michael, good morning.
+
+--------------------------------------------------------------------------------
+Mike King,  HC Wainwright - Analyst    [17]
+--------------------------------------------------------------------------------
+Good morning.  Sorry, I'm driving in the car - so, thanks for doing the call and I applaud your business development efforts, I'm just - want to go a little bit deeper on the previous answer that Daniela gave the prior caller about the targets of [Esovatomide].  Daniela, you said [icaros] and [elios]?
+
+--------------------------------------------------------------------------------
+Daniela Santiesteban,  Salarius Pharmaceuticals - Director of Corporate Development and Director of SP31    [18]
+--------------------------------------------------------------------------------
+Yes, that's right, Mike.
+
+--------------------------------------------------------------------------------
+Mike King,  HC Wainwright - Analyst    [19]
+--------------------------------------------------------------------------------
+OK, so you're - you're referring to this as a molecular glue, I - I'm just trying to understand a little bit better mole - at the - at the level of chemistry and the biology, are you - are you forming a covalent bonds between [Esovatomide] and these target proteins?  Or is there some other methodology - is - and is this a - does this utilize [cerablan] or not?  Just trying to see kind of where in the molecular glue space the molecule falls?
+
+--------------------------------------------------------------------------------
+Daniela Santiesteban,  Salarius Pharmaceuticals - Director of Corporate Development and Director of SP31    [20]
+--------------------------------------------------------------------------------
+Yes, yes, happy to provide some additional detail on that.  So, yes, it is a [cereblan] binding molecular glue.  So the compound itself will bind both to [cereblan] and [induce] as you know like a stickiness with the protein of interest.  And like I mentioned, that includes [elios] and icaros].
+It also includes several other proteins.  And based off those differentiated proteins, that's going to guide (inaudible) in development opportunities for this molecular glue.  But yes, it is a [cereblan] binding molecular glue.
+
+--------------------------------------------------------------------------------
+Mike King,  HC Wainwright - Analyst    [21]
+--------------------------------------------------------------------------------
+Got it, OK, thanks for the clarification.  And then I'm also interested to understand - you mentioned that Ovatomide has been in clinical studies before, and I presume we could just look those up on PubMed or whatever, but has there been preclinical studies using the [S anantomer] in preclinical models, whether in vitro or in vivo that demonstrate that the (inaudible) [anantomer] has equal or better anti-tumor characteristics?
+
+--------------------------------------------------------------------------------
+Daniela Santiesteban,  Salarius Pharmaceuticals - Director of Corporate Development and Director of SP31    [22]
+--------------------------------------------------------------------------------
+Yes, so our colleagues at DeuteRx conducted those studies.  They did it in a multiple myeloma model.  And when they compared it to the (inaudible) mixture of Ovatomide or to the [R anantomer] at the relevant concentrations, it was the [S anantomer] that had the most anti-tumor effect.  And so, yes we've seen that preclinically play out.
+
+--------------------------------------------------------------------------------
+Mike King,  HC Wainwright - Analyst    [23]
+--------------------------------------------------------------------------------
+[Can you say]...
+
+--------------------------------------------------------------------------------
+Unidentified Audience Member    [24]
+--------------------------------------------------------------------------------
+Daniela...
+
+--------------------------------------------------------------------------------
+Mike King,  HC Wainwright - Analyst    [25]
+--------------------------------------------------------------------------------
+... is it 1.2 times the [racamate] or is it 2X or 5X, do you have any quantification you could help us?
+
+--------------------------------------------------------------------------------
+Daniela Santiesteban,  Salarius Pharmaceuticals - Director of Corporate Development and Director of SP31    [26]
+--------------------------------------------------------------------------------
+Yes, so the data will be on the website, Mike in our [deck], but you can see...
+
+--------------------------------------------------------------------------------
+Mike King,  HC Wainwright - Analyst    [27]
+--------------------------------------------------------------------------------
+OK.
+
+--------------------------------------------------------------------------------
+Daniela Santiesteban,  Salarius Pharmaceuticals - Director of Corporate Development and Director of SP31    [28]
+--------------------------------------------------------------------------------
+... it's about - if you - if you compare it to the [racinic mixture] - now remember, the [racinic] mixture is 1/2 S, 1/2 R, so (inaudible)...
+
+--------------------------------------------------------------------------------
+Mike King,  HC Wainwright - Analyst    [29]
+--------------------------------------------------------------------------------
+Right.
+
+--------------------------------------------------------------------------------
+Daniela Santiesteban,  Salarius Pharmaceuticals - Director of Corporate Development and Director of SP31    [30]
+--------------------------------------------------------------------------------
+... going to have the anti-cancer property.  But when we remove the [R anantomer], what we see is about - I can't recall at the top of my head, but maybe 15, 20% decrease in tumor size over the [racinic mixture].  So, what's important is that when we look at - when the - when the DeuteRx team looked at just the [R anantomer], they saw the potential that that [anantomer] might be pro [tumorgenic].  And so, they actually saw...
+
+--------------------------------------------------------------------------------
+Mike King,  HC Wainwright - Analyst    [31]
+--------------------------------------------------------------------------------
+Right.
+
+--------------------------------------------------------------------------------
+Daniela Santiesteban,  Salarius Pharmaceuticals - Director of Corporate Development and Director of SP31    [32]
+--------------------------------------------------------------------------------
+... an increase in the tumor size over the vehicle, over the control group.  And by eliminating that, we're going to get rid of any [pro tumorgenic] effects but also hopefully eliminate any safety issues that may be coming from the [R anantomer].
+And so that's why we think that the [S anantomer] not only will have improved efficacy, but has the potential to have improved safety as well.
+
+--------------------------------------------------------------------------------
+Mike King,  HC Wainwright - Analyst    [33]
+--------------------------------------------------------------------------------
+OK.  Thanks for the clarity there.  And then finally, as long as David's in the room, just wondering what you can say about the spend and how the spend might change to account for additional work that you'll have to do?
+
+--------------------------------------------------------------------------------
+David Arthur,  Salarius Pharmaceuticals - Director and CEO    [34]
+--------------------------------------------------------------------------------
+So, great question, Mike.  And the answer is this deal was funded out of existing cash.  And as you know, we've - and hats off to Mark Rosenblum who's on the call here...
+
+--------------------------------------------------------------------------------
+Unidentified Audience Member    [35]
+--------------------------------------------------------------------------------
+Sorry (inaudible).
+
+--------------------------------------------------------------------------------
+David Arthur,  Salarius Pharmaceuticals - Director and CEO    [36]
+--------------------------------------------------------------------------------
+... we maintained some of the financial strength, so we've been in the strongest financial position that we've been in in a long, long time and now was the right time to do this deal, given the opportunity with DeuteRx to strengthen our financial position.  So, the funding for this program is coming out of existing cash.  We have anticipated a transaction to build our pipeline and so we were prepared for it.
+And what I think is really important for investors to know is that we now have two assets, each in - one each in the area of protein inhibition and now, in the hot space of targeted protein degradation.  Each of those assets is capable of generating value infection points that create value and support financing if and when we need to - we need to raise money at some point in the future.
+But the bottom line is we just - we - I believe we just doubled shots on goal from a drug development perspective here at Salarius and that doesn't even count he exciting future products that we - we are - we're - we'll be talking about at a later date.
+
+--------------------------------------------------------------------------------
+Mike King,  HC Wainwright - Analyst    [37]
+--------------------------------------------------------------------------------
+Thanks for taking my questions.
+
+--------------------------------------------------------------------------------
+David Arthur,  Salarius Pharmaceuticals - Director and CEO    [38]
+--------------------------------------------------------------------------------
+Our pleasure.  Drive safely.
+
+--------------------------------------------------------------------------------
+Operator    [39]
+--------------------------------------------------------------------------------
+Our next question comes from Hunter Diamond with Diamond Equities.  Your line is open.
+
+--------------------------------------------------------------------------------
+Hunter Diamond,  Diamond Equities - Analyst    [40]
+--------------------------------------------------------------------------------
+Hi, good morning, everyone.  So, most of my questions were asked.  My only other question, how are you going about finding these assets and sort of what's the due diligence process?  I'd just be curious your high level thoughts?
+
+--------------------------------------------------------------------------------
+David Arthur,  Salarius Pharmaceuticals - Director and CEO    [41]
+--------------------------------------------------------------------------------
+Happy to - happy to answer that and good morning, Hunter.  So, how do we go about finding assets?  You know, I'm going to start - I'm going to start with a - with a quote from my father in law, who used to tell me the harder he worked, the luckier he got.  And I was - we are incredibly fortunate to have - Daniela and the rest of the Salarius team who has been working on business development.
+We've looked at probably 100 or more assets early on and Daniela and her team filtered that down to probably 50 that we took a good look at and narrowed it down to just a handful that we took a really hard look at.  And it's - it's hard work.  It's getting out there.  It's attending conferences.  It's using your own internal network and it's turning over a lot of rocks before you find the true diamond in the rough.
+And here we found better than diamond in the rough, we found DeuteRx who is in the business of developing stabilized isomers and then selling them or licensing them or spinning them out for clinical development.  The timing was great and I would never say we're lucky, because we have a team that works incredibly hard and generates our own luck.
+
+--------------------------------------------------------------------------------
+Hunter Diamond,  Diamond Equities - Analyst    [42]
+--------------------------------------------------------------------------------
+Great, makes perfect sense.  I guess just a follow up to that question I know - there's a lot of companies with capital looking for (inaudible) and biotech and doing IPOs or even [stacks] for - in healthcare, so there's a lot of money looking for these early stage assets.
+I would think that most of your acquisitions, if there are future ones, would be preclinical or very early stage, given - a phase 2 asset, they might want 50, 100 million or larger sums.  Is that sort of your take that you'd be mostly looking at preclinical assets that look compelling?
+
+--------------------------------------------------------------------------------
+David Arthur,  Salarius Pharmaceuticals - Director and CEO    [43]
+--------------------------------------------------------------------------------
+Well, we - we're in a great position right now.  We've got a clinical asset that is in two different trials across four different patient populations - Seclidemstat and single agent therapy and [then] two different drug combinations.
+We now have a - what we feel is a de-risked clinical candidate with a pretty robust  and we think exciting set of clinical data from the [parent] - from the Ovatomide molecule, the first generation asset, so we have a plethora of opportunities there.  And in addition, we now have not only our second generation, new chemical [entity LSD1] inhibitor program, but we now have at least one, and I believe two - well two, I do know two, future protein degradation programs.
+And so, we're - we're flush with opportunities right now.  Would we - would we talk to companies who brought us something to consider?  Absolutely, we - a big part of my day is just listening to what people want to talk about but as we sit right here, I think we're in pretty darn good shape.
+
+--------------------------------------------------------------------------------
+Hunter Diamond,  Diamond Equities - Analyst    [44]
+--------------------------------------------------------------------------------
+Great, great.  Sounds good and again, congratulations on the results.
+
+--------------------------------------------------------------------------------
+David Arthur,  Salarius Pharmaceuticals - Director and CEO    [45]
+--------------------------------------------------------------------------------
+Thank you very much.
+
+--------------------------------------------------------------------------------
+Operator    [46]
+--------------------------------------------------------------------------------
+Our next question is a follow up from Mike King with HC Wainwright.  Your line is open.
+
+--------------------------------------------------------------------------------
+Mike King,  HC Wainwright - Analyst    [47]
+--------------------------------------------------------------------------------
+Hi, guys, sorry, I forgot to ask about the IP position of [Esavatomide]?
+
+--------------------------------------------------------------------------------
+David Arthur,  Salarius Pharmaceuticals - Director and CEO    [48]
+--------------------------------------------------------------------------------
+Yes, so we - it's well protected.  We have a composition of matter [of] patent that has been issued in US, Europe, Japan, Australia, Canada.  We - it extends to 2034, that does not include the potential five year extension.  And so, we really like the patent position.
+Now, one thing I do want to shares with you to be fully transparent, we are aware of a patent in Europe, in the major five in Europe that could potentially delay launch a little bit.  But we have a clear cut strategy to address that.  We have activities in place supporting that strategy.  And I believe that when it comes time to launch in Europe, we will have resolved that situation.
+
+--------------------------------------------------------------------------------
+Mike King,  HC Wainwright - Analyst    [49]
+--------------------------------------------------------------------------------
+(Inaudible) [thank you]...
+
+--------------------------------------------------------------------------------
+David Arthur,  Salarius Pharmaceuticals - Director and CEO    [50]
+--------------------------------------------------------------------------------
+End of the day we have - end of the day, I really like our patent position and we have it locked up in a large number of major markets.
+
+--------------------------------------------------------------------------------
+Mike King,  HC Wainwright - Analyst    [51]
+--------------------------------------------------------------------------------
+What - what's the patent on [Raysamay]?  Is it off?
+
+--------------------------------------------------------------------------------
+David Arthur,  Salarius Pharmaceuticals - Director and CEO    [52]
+--------------------------------------------------------------------------------
+The patent on the [Raysamay Ovatomide], I believe expires in the late - later this decade, so 2027 or something like that, so it's not going to - it's not going to be [in play] in the US.
+
+--------------------------------------------------------------------------------
+Mike King,  HC Wainwright - Analyst    [53]
+--------------------------------------------------------------------------------
+OK, thanks.
+
+--------------------------------------------------------------------------------
+Operator    [54]
+--------------------------------------------------------------------------------
+There are no further phone questions I'd like to turn the call over to Daniela Santiesteban.
+
+--------------------------------------------------------------------------------
+Daniela Santiesteban,  Salarius Pharmaceuticals - Director of Corporate Development and Director of SP31    [55]
+--------------------------------------------------------------------------------
+Thank you.  Yes, so we've had some questions come in via email, and David, the first one is, first off, congratulations on the acquisition (inaudible) wondering about future plans with SP3164, it promotes segregation of proteins kind of like what Seclidemstat does with [LSD1].
+Seclidemstat is also able to turn on and off genes, which it looks like has been a problem or an issue in this space.  Is there a possibility to use Seclidemstat in combination with this new compound 3164?
+
+--------------------------------------------------------------------------------
+David Arthur,  Salarius Pharmaceuticals - Director and CEO    [56]
+--------------------------------------------------------------------------------
+Thank you for the question.  And you do point out an interesting characteristic.  You know, we've learned a lot from Seclidemstat and protein inhibition that we can apply to targeted protein degradation.  And because it's all about going after the proteins.
+Now, having said that, at this moment in time, we don't have any specific plans to look at combination therapy between Seclidemstat and 3164, but that can change.  You know, we're at the front end of looking at a - I used the word plethora previously, a significant number of opportunity with 3164 in combination therapy, as single agent, looking at combining with standard of care agents across a number of tumor types, both solid and liquid.
+And I'm sure, as we start to move through that process, we will take a look at combination with Seclidemstat, but at this moment in time, we're really focusing on getting 3164 through IND enabling studies and into the clinic.
+
+--------------------------------------------------------------------------------
+Daniela Santiesteban,  Salarius Pharmaceuticals - Director of Corporate Development and Director of SP31    [57]
+--------------------------------------------------------------------------------
+All right.  Thank you, David.  We do have another question, congratulations on the new acquisition, I'm just wondering why you decided to acquire SP3164 at this time?
+
+--------------------------------------------------------------------------------
+David Arthur,  Salarius Pharmaceuticals - Director and CEO    [58]
+--------------------------------------------------------------------------------
+The short answer is we felt this was absolutely the ideal time, strong financial position, Seclidemstat momentum was building, has been building, is continuing to build and there were a number - there were a number of companies that were approaching us based on our demonstrated ability to get drugs into the clinic and implement clinical trials, and our strong financial position.
+The second reason is opportunities like this don't come along that often.  You know, we talked a little bit about - we talked a lot about the fact that 3164 is de-risked.
+We talked about its differentiated profile.  Michael asked about the patent position, which I want to reiterate, we really like the patent position and we think it's strong across the world.  And DeuteRx in addition to being just a great group of people to work with and experts in the field of deuterium development, also have additional products - future products that we put into the deal.
+So, when opportunity strikes - and remember you make your own luck.  Hard work meets opportunity is exactly what fell into our laps.  So, this is - this is the absolute perfect time.
+And in fact, it just - it just doesn't get any better than this.  I've been in - I've been in big pharma for 20 - a little over 22 years now and these type of opportunities don't - don't come along that often where we couldn't be happier.
+
+--------------------------------------------------------------------------------
+Daniela Santiesteban,  Salarius Pharmaceuticals - Director of Corporate Development and Director of SP31    [59]
+--------------------------------------------------------------------------------
+Thank you, David.  So, we have a few more questions and you've touched on this before but the questions are regarding the financing around the new (inaudible) our [cap and existing] runway, how that could be impacted by this acquisition?  And maybe, David, if you can just reiterate and expand upon some things you've said before?
+
+--------------------------------------------------------------------------------
+David Arthur,  Salarius Pharmaceuticals - Director and CEO    [60]
+--------------------------------------------------------------------------------
+Yes, happy to.  You know, so I want to be clear up front, this program, the acquisition and our entrance into protein degradation does not, in any way, impact the development of Seclidemstat.  We are bullish on Seclidemstat.  We like the data we're seeing.  We are adding clinical trial sites.  We are enrolling patients and things are moving forward and we're looking forward to releasing the data later this year.
+As I mentioned, this deal was just an amazing opportunity to work with a group - brilliant group of individuals at DeuteRx and being in not only a lead candidate but future products.  And one of the things I mentioned in the script that shouldn't be overlooked is that there - this was a - this deal did not have a large upfront payment.
+It was only $1.5 million and a - and a million shares of stock and DeuteRx was as interested as we were in being able to use our resources for preclinical and clinical development, so they were willing to push milestone payments out to initiation of a phase 3 [or] registration trial, which allows us to focus everything we have on getting 3164 into the clinic.
+So, as I mentioned this deal in the near term is funded out of existing cash as is the development work.  It does not impact Seclidemstat and we now have two assets that can reach value inflection points, create value and potentially be used for driving financing at some point in the future if and when we decide that's necessary.  But for the time being, we continue to be in the strongest financial position we've experienced to date.
+
+--------------------------------------------------------------------------------
+Daniela Santiesteban,  Salarius Pharmaceuticals - Director of Corporate Development and Director of SP31    [61]
+--------------------------------------------------------------------------------
+Thank you, David. [And] those are all the questions that came in via email, so I'll hand it back over to you, David, for closing remarks.
+
+--------------------------------------------------------------------------------
+David Arthur,  Salarius Pharmaceuticals - Director and CEO    [62]
+--------------------------------------------------------------------------------
+OK, thanks - thank you, Daniela.  I hope today's discussion has given you a fully - fuller picture of the evolution underway at Salarius.  We believe it is very exciting.  Supporting all this activity and growth is a strong financial foundation that we touched upon.
+It's coupled with the hard work and dedication of our employees that we touched upon and the support of our shareholders, and I always want to thank our shareholders, because without all of them and without all of you, Salarius would not be where it is today.
+Thank you for - everyone for your time and attention today and I extend my sincerest wishes for good health to all and a safe and successful 2022. Thank you.
+
+--------------------------------------------------------------------------------
+Operator    [63]
+--------------------------------------------------------------------------------
+This does conclude the program.  You may now disconnect.  Everyone, have a great day.
+
+
+
+
+
+
+
+--------------------------------------------------------------------------------
+Definitions
+--------------------------------------------------------------------------------
+PRELIMINARY TRANSCRIPT: "Preliminary Transcript" indicates that the 
+Transcript has been published in near real-time by an experienced 
+professional transcriber.  While the Preliminary Transcript is highly 
+accurate, it has not been edited to ensure the entire transcription 
+represents a verbatim report of the call.
+
+EDITED TRANSCRIPT: "Edited Transcript" indicates that a team of professional 
+editors have listened to the event a second time to confirm that the 
+content of the call has been transcribed accurately and in full.
+
+--------------------------------------------------------------------------------
+Disclaimer
+--------------------------------------------------------------------------------
+Refinitiv reserves the right to make changes to documents, content, or other 
+information on this web site without obligation to notify any person of 
+such changes.
+
+In the conference calls upon which Event Transcripts are based, companies 
+may make projections or other forward-looking statements regarding a variety 
+of items. Such forward-looking statements are based upon current 
+expectations and involve risks and uncertainties. Actual results may differ 
+materially from those stated in any forward-looking statement based on a 
+number of important factors and risks, which are more specifically 
+identified in the companies' most recent SEC filings. Although the companies 
+may indicate and believe that the assumptions underlying the forward-looking 
+statements are reasonable, any of the assumptions could prove inaccurate or 
+incorrect and, therefore, there can be no assurance that the results 
+contemplated in the forward-looking statements will be realized.
+
+THE INFORMATION CONTAINED IN EVENT TRANSCRIPTS IS A TEXTUAL REPRESENTATION
+OF THE APPLICABLE COMPANY'S CONFERENCE CALL AND WHILE EFFORTS ARE MADE TO
+PROVIDE AN ACCURATE TRANSCRIPTION, THERE MAY BE MATERIAL ERRORS, OMISSIONS,
+OR INACCURACIES IN THE REPORTING OF THE SUBSTANCE OF THE CONFERENCE CALLS.
+IN NO WAY DOES REFINITIV OR THE APPLICABLE COMPANY ASSUME ANY RESPONSIBILITY FOR ANY INVESTMENT OR OTHER
+DECISIONS MADE BASED UPON THE INFORMATION PROVIDED ON THIS WEB SITE OR IN
+ANY EVENT TRANSCRIPT. USERS ARE ADVISED TO REVIEW THE APPLICABLE COMPANY'S
+CONFERENCE CALL ITSELF AND THE APPLICABLE COMPANY'S SEC FILINGS BEFORE
+MAKING ANY INVESTMENT OR OTHER DECISIONS.
+--------------------------------------------------------------------------------
+Copyright 2023 Refinitiv. All Rights Reserved.
+--------------------------------------------------------------------------------

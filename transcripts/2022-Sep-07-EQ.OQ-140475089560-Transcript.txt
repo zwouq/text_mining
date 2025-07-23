@@ -1,0 +1,265 @@
+
+
+Refinitiv StreetEvents Event Transcript
+E D I T E D  V E R S I O N
+
+Equillium Inc to Acquire Metacrine Inc - M&A Call
+September 07, 2022 / 12:30PM UTC
+
+================================================================================
+Corporate Participants
+================================================================================
+
+ *  Bruce Steel
+   Equillium, Inc.  - CEO
+ * Jason Keyes
+   Equillium, Inc.  - CFO
+
+================================================================================
+Conference Call Participants
+================================================================================
+
+ * Operator
+   
+ * Dae Gon Ha
+   Stifel Financial Corp. - Analyst
+ * Ram Selvaraju
+   H.C. Wainwright & Co., LLC - Analyst
+ * Roger Song
+   Jefferies - Analyst
+ * Prakhar Agrawal
+   Cantor Fitzgerald - Analyst
+
+================================================================================
+presentation
+--------------------------------------------------------------------------------
+Operator,     [1]
+--------------------------------------------------------------------------------
+Welcome, and thank you for joining us this morning for Equillium's announcement regarding the acquisition of Metacrine Inc. Present this morning is Mr. Bruce Steel, Chief Executive Officer of Equillium; Dr. Preston Klassen, President and Chief Executive Officer of Metacrine; Dr. Stephen Connelly, Chief Scientific Officer of Equillium; and Mr. Jason Keyes, Chief Financial Officer of Equillium, who will also join for Q&A following the presentation.
+Before we begin, I would like to remind you that any statements made during this call that are not historical are considered to be forward-looking statements within the meaning of the Private Securities Litigation Reform Act of 1995. Actual results may differ materially from those indicated by these statements as a result of various important factors. This includes those discussed in the Risk Factors section in the company's most recent annual report on Form 10-K, as well as other reports filed with the SEC.
+I'll remind you that this call is being recorded, and a replay will be available on the company's website following the conclusion of the call.
+And with that, I'm pleased to turn the call over to Mr. Bruce Steel, Chief Executive Officer for Equillium. Go ahead, Mr. Steel.
+--------------------------------------------------------------------------------
+ Bruce Steel, Equillium, Inc.  - CEO    [2]
+--------------------------------------------------------------------------------
+Thank you very much. Good morning, everybody. We appreciate you dialing in today for this call, where we're very pleased to announce the acquisition of Metacrine. Let me go through the forward-looking statements that were just covered by our operator, customary forward-looking statements, as well as additional information as it applies to the transaction.
+We're very excited about the acquisition of Metacrine. This is a company that we've actually known quite well for some time. It's a local San Diego biotech company publicly traded. We've known both executives, as well as Board members. And from the Equillium perspective, this is the way we consider to be largely an acquisition for the cash and runway extension we get out of this transaction, we're expecting to onboard approximately $33 million in cash at closing.
+I should clarify that closing is expected to take a couple of months here as we go through the formal process of regulatory submissions and then shareholder votes that will be required to complete the transaction. But this is an important addition to our balance sheet as we think about our operating plans going in the future, where this extends our runway comfortably into the 2024 timeframe.
+Preston Klassen, who I have known for some time now, will be joining us on our Board of Directors for continuity, as well as his expertise, both on the clinical development front, which is extensive, but also particularly with MET642, the FXR program that we'll be onboarding as well.
+We do not expect this acquisition to really add any incremental operating expense. We are not bringing on any full-time employees. We are not, at this point, planning to pursue any of the research and development with the programs and technology we're acquiring. We will maintain sole control and discretion over the timing and extent of advancing any of those programs, if at all.
+In terms of MET642, this is a potential first-in-class oral product that is not immunosuppressive that could be used for the treatment of IBD. This is a Phase 2-ready asset in ulcerative colitis. It has already been through a significant number of patients in other studies, and we do believe there is a strong rationale biologically for advancing this into IBD and UC. We also think this is a good fit with our own portfolio, where, with our lead program itolizumab, we've seen significant [newly ration] of GI disease in the acute GVHD setting. We think itolizumab could be applicable in the UC setting.
+And then, of course, with our recent pipeline acquisition of EQ101 and 102, particularly with 102, where we are planning to conduct some proof of concept evaluation in patients with celiac disease. We think MET642 in UC is a good fit overall with our portfolio of novel therapeutic agents targeted at autoimmune and inflammatory disorders, with our expanding pipeline in the GI space.
+A few things to highlight, again, stockholder vote would be required by both Equillium and Metacrine shareholders. This is an all-stock transaction, whereby we will be issuing Equillium shares to Metacrine shareholders based on the net cash at closing, plus a 25% premium, divided by the Equillium share price using the 10-day volume-weighted average price 10 trading days going into the closing; importantly, with a collar at a floor of $2.70 and a ceiling of $4.50. The floor is set roughly at our recent trading range, and the ceiling was specifically provided to give us some headroom coming into our upcoming data with the interim data, [i.e., to support this program].
+The net cash is going to be factored by gross cash, deducting liabilities, debt, and other related adjustments. And that net cash expectation is approximately $26 million at closing. Obviously, there will be some variability there to actual numbers, but we are anticipating around $26 million of factored net cash that was used for the calculation described above.
+Concurrent with the closing, we plan to retire our existing $10 million loan and assume Metacrine's existing $15 million loan that is outstanding with K2 Health Ventures. We are expecting some adjustments in the term sheet we've executed with K2 to extend our interest-only period and also give us a potential additional second tranche of financing.
+In terms of the traditional pipeline view, we remain focused on our existing pipeline, that's EQ001 itolizumab. The acute GVHD EQUATOR study, our Phase 3 program, is ongoing. As a reminder, we have fast track and orphan drug designation for that program. And then the lupus nephritis portion of our EQUALISE study is ongoing. Interim data is expected mid-2022, and you can read that as during this month of September. We feel good about where we are with that program and providing that interim data in the immediate future. We have fast track and orphan drug orphan -- sorry, fast track designation for the LN program.
+EQ101, our antagonist against IL-2, 9, and 15, we are planning to initiate the Phase 2 study in the second half. We are on track with our plans to initiate that program in alopecia areata. As a reminder, when we acquired the program, they were Phase -- IND's open for a Phase 2 study in both CTCL and alopecia areata. And at this time, we only have plans to advance into alopecia areata.
+And then EQ102, our antagonists against IL-15 and 21, also on track for Phase 1 initiation during the second half of this year, SAD/MAD study, and then the tail-end of that study will include proof of concept evaluation in patients with celiac disease.
+We are not putting on the pipeline MET642 yet. We will be seeking strategic partner options to advance that program, but we do think there is potential future value in MET642 in, certainly, part of the rationale for the acquisition.
+In terms of the key takeaways, again, largely a cash financing event for us. We felt that this was quite a creative way in an obviously challenging capital markets environment to bring on important cash to extend our operating runway, which gives us plenty of back room on our catalysts and milestone schedule.
+Again, we're not that -- not really any additional expense here in terms of FTEs or program expense. All stock transaction with the net cash definition, plus 25% premium at closing, with the collar of $2.70 and $4.50. Again, focused on our existing programs, and then we will continue to explore ways to create value for the newly acquired FXR program.
+In terms of the catalysts and milestones, again, highlighting the interim data from our EQUALISE study in lupus nephritis patients that will be during this month. We will expect topline data from that program during 2023. And then, as just mentioned, initiation of the EQ1012 Phase 2 study in alopecia areata, we do expect to have interim data from that study during 2023. We've redesigned that study to give us what we think should be a very good shot at assessing drug activity in that patient population, and then the 102 study initiation, as well as interim data from 102 study, during 2023. So we feel like we've got a very exciting few weeks in front of us, with the LN interim data, and then certainly, in 2023, a pretty good set of milestones for the company to achieve.
+With that, I'd like to thank everybody for taking time to hear the presentation. And I'm happy to field any questions that may be out there.
+
+================================================================================
+q-and-a
+--------------------------------------------------------------------------------
+Operator,     [1]
+--------------------------------------------------------------------------------
+(Operator Instructions) Ha Dae Gon, Stifel.
+--------------------------------------------------------------------------------
+Dae Gon Ha, Stifel Financial Corp. - Analyst    [2]
+--------------------------------------------------------------------------------
+Hey, good morning, guys. Thanks for taking our questions. And congrats on this deal and extending the runway. I guess two from us. As we think about the lupus nephritis data in the next couple of weeks, what's remaining -- what's the gating factor prior to reading out that data? And can you remind us what exactly investors should be expecting there?
+And then secondly, more of a reconciliation or clarification part on the cash and net cash, $33 million in cash, $26 million in net cash, $15 million, in principle, that you're assuming from Metacrine acquisition. Can you help us clarify that, please? Thanks.
+--------------------------------------------------------------------------------
+ Bruce Steel, Equillium, Inc.  - CEO    [3]
+--------------------------------------------------------------------------------
+Sure, Dae Gon. I'm happy to try to do that. So in terms of open items, we just recently had our data cuts for the interim looks, so we are seeing the data in getting it in presentation form. So nothing really gating other than traditional prep for the release. We've got good look and, I think, pretty good understanding of what we have there.
+As we have mentioned before, we're planning to provide fairly detailed update on the patients that are in the study so far. The study is designed to recruit up to 20 patients, who will be reporting on a subset of that number. Some of those patients will have completed the study at the six-month mark, and others will still be ongoing in the study. This is obviously a safety and tolerability assessment.
+But importantly, we'll be taking a very careful look at changes in proteinuria to assess whether or not we believe we're seeing a signal of the drug. And that will be contextualized against other known data sets from approved drugs or drugs that are in the clinic. So we think it will be a meaningful update on the program and, obviously, an area of high interest to us, patients, and our stakeholders. So that's what upcoming.
+And as I think we've indicated before, from our perspective, we would like to see something north of a 30% reduction in proteinuria, on average, in this patient setting. Patients presenting in our study appear to be quite sick based on the levels of proteinuria. We'll be providing updates on what we've observed there so far.
+In terms of the cash and net cash, it is a little bit complicated. But the cash balance that we expect to have at closing is expected to be approximately $33 million, and that takes into account Metacrine budget operating plan as they have effectively fully wound down operations in the company. From the gross cash of $33 million, that also includes the $15 million of debt that would be coming over, subtracted by the $10 million of debt that we are canceling. So there's roughly a $5 million net gain on the debt side of the balance sheet between the planned assumption of the K2 $15 million line and the termination of our $10 million facility.
+So with $33 million, there's actually obviously more than [that could mean] over if you add the $10 million of existing cash baked into the K2 debt. So from $33 million, you would subtract the $5 million of incremental debt. There are also transaction and close-out costs that are factored into the deduction to further reduce that number and then miscellaneous expenses to get to the $26 million roughly.
+So $26 million is our expected target net cash number that will be then used in the calculation per share. So I don't know if that helped clarify the gross cash to net cash figure.
+--------------------------------------------------------------------------------
+Dae Gon Ha, Stifel Financial Corp. - Analyst    [4]
+--------------------------------------------------------------------------------
+It does. Thank you very much.
+--------------------------------------------------------------------------------
+ Bruce Steel, Equillium, Inc.  - CEO    [5]
+--------------------------------------------------------------------------------
+Thank you.
+--------------------------------------------------------------------------------
+Operator,     [6]
+--------------------------------------------------------------------------------
+Ram Selvaraju, H.C. Wainwright.
+--------------------------------------------------------------------------------
+Ram Selvaraju, H.C. Wainwright & Co., LLC - Analyst    [7]
+--------------------------------------------------------------------------------
+Thanks very much for taking my questions. Just a couple of housekeeping items on the financial front first. [Can] you just clarify what the amendments to the terms of the K2 facility are relative to the terms when it was solely Metacrine borrowing?
+--------------------------------------------------------------------------------
+ Bruce Steel, Equillium, Inc.  - CEO    [8]
+--------------------------------------------------------------------------------
+Yeah, I'll let Jason highlight the key changes. I'd say the interest-only extension is probably the most important one as it relates to the existing debt outstanding. But Jason, do you want to highlight anything else?
+--------------------------------------------------------------------------------
+Jason Keyes, Equillium, Inc.  - CFO    [9]
+--------------------------------------------------------------------------------
+Sure. Hi, Ram. It's Jason. Due to our confidentiality with K2 at this point, probably prevented above getting into too much detail. But as Bruce mentioned, there will be a modest interest on the extension. Other than that, it's mostly the same as the current outstanding debt, with a principal amount of $15 million. But there is additional available committed amount of $10 million that we could be potentially accessing.
+--------------------------------------------------------------------------------
+Ram Selvaraju, H.C. Wainwright & Co., LLC - Analyst    [10]
+--------------------------------------------------------------------------------
+Okay. And just to clarify two points there. If we compare the cost of servicing the debt as it would stand with this new facility and relative to the debt that you are retiring, can you just maybe quantify that a little bit for us, please, if you're expecting the carrying cost of the debt to go down, and now that you're retiring the original debt facility?
+And then secondly, can you give us any granularity on what conditions would need to be met for you to be able to access that additional $10 million that you just mentioned?
+--------------------------------------------------------------------------------
+Jason Keyes, Equillium, Inc.  - CFO    [11]
+--------------------------------------------------------------------------------
+Sure. The ongoing cost of carrying the debt would be favorable to us by taking on the new and amended debt facility with K2, primarily because of the further interest-only extension. Recall that our existing facility begins to amortize principle in the fourth quarter. So from a debt service standpoint, it is favorable to us to take on the amended K2 facility and retire our existing facility.
+And I'm sorry, Ram, what was your second question?
+--------------------------------------------------------------------------------
+Ram Selvaraju, H.C. Wainwright & Co., LLC - Analyst    [12]
+--------------------------------------------------------------------------------
+It was just with respect to whether you can tell us anything about what additional conditions, if any, would need to be met in order for you to be able to access that additional $10 million.
+--------------------------------------------------------------------------------
+Jason Keyes, Equillium, Inc.  - CFO    [13]
+--------------------------------------------------------------------------------
+It generally has to do with clinical progress, as well as our financial conditions as we look forward. But I'll leave it at that until we actually close that deal and file the amended loan agreement.
+--------------------------------------------------------------------------------
+Ram Selvaraju, H.C. Wainwright & Co., LLC - Analyst    [14]
+--------------------------------------------------------------------------------
+Okay. And then just with respect to some logistical items and envisaged use of the cash from this transaction. First of all, wanted to know whether with this cash, you provided a timeline with respect to the extended runway. But I was just wondering if you could clarify what clinical programs are likely to be covered now within the context of that extended runway.
+And also if you have any plans to engage in any further our capital deployment investment activities that are directly related to the Phase 3 itolizumab program and looking at ways to accelerate the pace of enrollment, if that's practicable, if that's something that you're envisaging? Thanks.
+--------------------------------------------------------------------------------
+ Bruce Steel, Equillium, Inc.  - CEO    [15]
+--------------------------------------------------------------------------------
+Yeah, we'll continue to evaluate opportunities to further shore up the balance sheet and more completely fund our development programs. And we are free to do that with certain limitations under the merger agreement. As far as the runway extension, as Bruce mentioned, into comfortably 2024, would enable us to get through multiple operational milestones and catalysts, completing the EQUALISE study, and then making significant progress on our other clinical trials that are ongoing.
+--------------------------------------------------------------------------------
+Ram Selvaraju, H.C. Wainwright & Co., LLC - Analyst    [16]
+--------------------------------------------------------------------------------
+Okay. And then just one last one, can you detail that would the nature and extent of the lockup, if any, that the Metacrine legacy shareholders would be subjected to following the closing of this transaction and the issuance of the Equillium shares to them?
+--------------------------------------------------------------------------------
+ Bruce Steel, Equillium, Inc.  - CEO    [17]
+--------------------------------------------------------------------------------
+That I would have to go back and look at the detail. I don't have the answer [to that].
+--------------------------------------------------------------------------------
+Jason Keyes, Equillium, Inc.  - CFO    [18]
+--------------------------------------------------------------------------------
+Yeah, I don't believe there is a lockup on the Metacrine shareholders at closing.
+--------------------------------------------------------------------------------
+Ram Selvaraju, H.C. Wainwright & Co., LLC - Analyst    [19]
+--------------------------------------------------------------------------------
+Any --
+--------------------------------------------------------------------------------
+Operator,     [20]
+--------------------------------------------------------------------------------
+Roger Song, Jefferies.
+--------------------------------------------------------------------------------
+ Bruce Steel, Equillium, Inc.  - CEO    [21]
+--------------------------------------------------------------------------------
+Yeah, it sounds like Ram might have had a follow-up question. If so, Ram, I want you to pop back in the queue. Sorry. Keep going.
+--------------------------------------------------------------------------------
+Roger Song, Jefferies - Analyst    [22]
+--------------------------------------------------------------------------------
+All right. Great. Congrats for the deal, and thanks for taking our questions. A couple fall on that -- so the first one is, I understand the FXR, you're not going to move forward by yourselves and instead of seeking partnership. Just curious, any comments around the current partnership discussion and what are the key consideration when you consider the FXR future value?
+--------------------------------------------------------------------------------
+ Bruce Steel, Equillium, Inc.  - CEO    [23]
+--------------------------------------------------------------------------------
+Yeah, I think the Metacrine team certainly assess partnering options following their announcement that they intended to pursue the program and obviously felt that the merger with Equillium was favorable in the best course for Metacrine shareholders. I think we'll be spending some time to better understand options to take that forward.
+And I think the Metacrine plans work to conduct a relatively robust Phase 2 study that would be relatively expensive and want to conduct, I think, might be worth exploring if there's some near-term options to resolve some risk out of that program, either in the near term and/or explore perhaps, step-wise, development with strategic parties. But we've got more work to do there that we'll be focusing on over the coming months.
+--------------------------------------------------------------------------------
+Roger Song, Jefferies - Analyst    [24]
+--------------------------------------------------------------------------------
+Excellent. Thank you. Another one is just a clarification. I understand you have this -- the share price collar range. Just curious, given you will have very meaningful LN data readouts in coming months and coming weeks and how this will play out in terms of the share price versus when you closed the deal.
+Would that be part of the potential renegotiation or regardless of how your stock change and you will stick with this collar using the ceiling price if you do reach a (inaudible)?
+--------------------------------------------------------------------------------
+ Bruce Steel, Equillium, Inc.  - CEO    [25]
+--------------------------------------------------------------------------------
+Yeah, we do not intend to quote renegotiate the announced transaction with Metacrine or the collar. That is pretty well set. We do think that the collar, from our perspective, was designed to give us a pretty nice headroom coming into this data. I think it's about a 65% ceiling above our recent trading range. I think our 10-day VWAP was right around $2.70 or so as of the close yesterday.
+So we think it gives us the meaningful room for upside as it relates to activities over the coming -- the next month or two. But certainly, with a focus on the interim LN data, we wanted to make sure we had that opportunity for value attribution and accretion, following the back of that data announcement. So that's a summary of other collars.
+--------------------------------------------------------------------------------
+Roger Song, Jefferies - Analyst    [26]
+--------------------------------------------------------------------------------
+Got it. Great. That's [all on us]. Thank you, and congrats again.
+--------------------------------------------------------------------------------
+Operator,     [27]
+--------------------------------------------------------------------------------
+Prakhar Agrawal, Cantor.
+--------------------------------------------------------------------------------
+Prakhar Agrawal, Cantor Fitzgerald - Analyst    [28]
+--------------------------------------------------------------------------------
+Hi. Good morning, and congratulations on the deal. So maybe a first question on the Metacrine asset. In case you don't find a partner in the near term, would you have appetite to take this asset forward by yourselves in IBD? And I have a follow up.
+--------------------------------------------------------------------------------
+ Bruce Steel, Equillium, Inc.  - CEO    [29]
+--------------------------------------------------------------------------------
+Yeah, I think there's maybe two ways to look at it. I think from a rationale around why FXR and IBD, absolutely. We think there's very strong rationale mechanistically for taking this forward. I think that's generally well established. It really is a function of resources.
+And we now have a pretty robust pipeline with three active development programs or at least the two that will be active in the next couple of months, with EQ101 and 102 and itolizumab. So we don't have the cash resources certainly to pursue a full Phase 2 program on our own. Whether there might be some near term, more incremental steps to resolve some risk and increase the potential value around the program, we'll see. But as of now, our first strategy is to explore strategic options where we do believe there could or should be interest in the program.
+--------------------------------------------------------------------------------
+Prakhar Agrawal, Cantor Fitzgerald - Analyst    [30]
+--------------------------------------------------------------------------------
+Thanks, Bruce. And secondly, could you update on the enrollment progress and activity at sites in the Phase 3 acute GVHD trial for itolizumab? Thank you.
+--------------------------------------------------------------------------------
+ Bruce Steel, Equillium, Inc.  - CEO    [31]
+--------------------------------------------------------------------------------
+Yeah, we don't really have a current plan to update on enrollment on the EQUATOR study. We're tracking to our regional and site rollout. I think we'll have a better sense of enrollment pace as we get towards the end of the year, once we've got significant bolus of sites, operational and recruiting. So we're not really giving guidance yet on recruitment and potential timelines for interim data or topline data from the program.
+--------------------------------------------------------------------------------
+Prakhar Agrawal, Cantor Fitzgerald - Analyst    [32]
+--------------------------------------------------------------------------------
+Thanks.
+--------------------------------------------------------------------------------
+Operator,     [33]
+--------------------------------------------------------------------------------
+There are no further questions at this time. I will now turn the call back over to Mr. Bruce Steel.
+--------------------------------------------------------------------------------
+ Bruce Steel, Equillium, Inc.  - CEO    [34]
+--------------------------------------------------------------------------------
+Again, thank you, everybody. Please feel free to reach out if you've got any follow-up questions or comments, and happy to provide further detail if we can. And we'll be in touch soon. Thanks, everybody.
+
+
+
+
+
+
+--------------------------------------------------------------------------------
+Definitions
+--------------------------------------------------------------------------------
+Preliminary Transcript: "Preliminary Transcript" indicates that the 
+Transcript has been published in near real-time by an experienced 
+professional transcriber.  While the Preliminary Transcript is highly 
+accurate, it has not been edited to ensure the entire transcription 
+represents a verbatim report of the call.
+
+EDITED TRANSCRIPT: "Edited Transcript" indicates that a team of professional 
+editors have listened to the event a second time to confirm that the 
+content of the call has been transcribed accurately and in full.
+
+--------------------------------------------------------------------------------
+Disclaimer
+--------------------------------------------------------------------------------
+Refinitiv reserves the right to make changes to documents, content, or other 
+information on this web site without obligation to notify any person of 
+such changes.
+
+In the conference calls upon which Event Transcripts are based, companies 
+may make projections or other forward-looking statements regarding a variety 
+of items. Such forward-looking statements are based upon current 
+expectations and involve risks and uncertainties. Actual results may differ 
+materially from those stated in any forward-looking statement based on a 
+number of important factors and risks, which are more specifically 
+identified in the companies' most recent SEC filings. Although the companies 
+may indicate and believe that the assumptions underlying the forward-looking 
+statements are reasonable, any of the assumptions could prove inaccurate or 
+incorrect and, therefore, there can be no assurance that the results 
+contemplated in the forward-looking statements will be realized.
+
+THE INFORMATION CONTAINED IN EVENT TRANSCRIPTS IS A TEXTUAL REPRESENTATION
+OF THE APPLICABLE COMPANY'S CONFERENCE CALL AND WHILE EFFORTS ARE MADE TO
+PROVIDE AN ACCURATE TRANSCRIPTION, THERE MAY BE MATERIAL ERRORS, OMISSIONS,
+OR INACCURACIES IN THE REPORTING OF THE SUBSTANCE OF THE CONFERENCE CALLS.
+IN NO WAY DOES REFINITIV OR THE APPLICABLE COMPANY ASSUME ANY RESPONSIBILITY FOR ANY INVESTMENT OR OTHER
+DECISIONS MADE BASED UPON THE INFORMATION PROVIDED ON THIS WEB SITE OR IN
+ANY EVENT TRANSCRIPT. USERS ARE ADVISED TO REVIEW THE APPLICABLE COMPANY'S
+CONFERENCE CALL ITSELF AND THE APPLICABLE COMPANY'S SEC FILINGS BEFORE
+MAKING ANY INVESTMENT OR OTHER DECISIONS.
+--------------------------------------------------------------------------------
+Copyright 2023 Refinitiv. All Rights Reserved.
+--------------------------------------------------------------------------------

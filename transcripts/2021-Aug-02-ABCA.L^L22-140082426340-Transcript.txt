@@ -1,0 +1,503 @@
+
+
+Refinitiv StreetEvents Event Transcript
+E D I T E D   V E R S I O N
+
+Abcam PLC to Acquire BioVision for $340 Million Call
+AUGUST 02, 2021 / 1:30PM GMT
+
+================================================================================
+Corporate Participants
+================================================================================
+
+ * James Staveley
+   Abcam plc - VP of IR
+ * Michael Shaun Baldock
+   Abcam plc - CFO & Director
+ * Alan Thomas Hirzel
+   Abcam plc - CEO & Executive Director
+
+================================================================================
+Conference Call Participiants
+================================================================================
+
+ * James Daniel Gordon
+   JPMorgan Chase & Co, Research Division - Senior Analyst
+ * Stefan John Hamill
+   Numis Securities Limited, Research Division - Director of Equity Research
+ * Tejas Rajeev Savant
+   Morgan Stanley, Research Division - Equity Analyst
+ * Michael Leonidovich Ryskin
+   BofA Securities, Research Division - Associate
+ * Matthew Richard Larew
+   William Blair & Company L.L.C., Research Division - Analyst
+ * Puneet Souda
+   SVB Leerink LLC, Research Division - MD of Life Science Tools & Diagnostics and Senior Research Analyst
+ * Xian Deng
+   Joh. Berenberg, Gossler & Co. KG, Research Division - Analyst
+ * Christian Glennie
+   Stifel, Nicolaus & Company, Incorporated, Research Division - Analyst
+ * Miles Dixon
+   Peel Hunt LLP, Research Division - Analyst 
+
+================================================================================
+Presentation
+--------------------------------------------------------------------------------
+Operator    [1]
+--------------------------------------------------------------------------------
+
+          Ladies and gentlemen, welcome to the Abcam management conference call. (Operator Instructions) I must inform you that this call is being recorded. I would now like to hand over to James Staveley, Vice President of Investor Relations at Abcam. James, please go ahead.
+
+--------------------------------------------------------------------------------
+James Staveley,  Abcam plc - VP of IR    [2]
+--------------------------------------------------------------------------------
+
+          Thank you, Annette. Good afternoon, and good morning, everyone, and welcome to today's conference call covering this morning's announcement of Abcam's acquisition of BioVision. If you've not received a copy of the press release, you may find it on the Investors section of our website at corporate.abcam.com/investors. Please note, this call is being webcast and will be archived on Abcam's website until the 9th of August 2021. 
+Before I hand over to Alan, let me briefly cover our safe harbor statement. Some of the comments made during this conference call may be considered forward-looking statements, such as statements regarding the acquisition, including the anticipated closing, integration and potential benefits and synergies as well as Abcam's portfolio, ambitions, beliefs and expectations about future performance. These forward-looking statements are subject to risks and uncertainties and are based upon currently available data. Actual results are subject to future events and uncertainties, which can materially impact the company's performance. Please look at the company's recent regulatory filings for a more complete picture of our risks and other factors. 
+And with that, I'd like to turn the call over to Alan.
+
+--------------------------------------------------------------------------------
+Alan Thomas Hirzel,  Abcam plc - CEO & Executive Director    [3]
+--------------------------------------------------------------------------------
+
+          Thank you, James, and good morning, and good afternoon, everyone. 20 months ago at our strategy review for the company that we presented to analysts, shareholders, one of the most important aspects of the growth strategy was to continue to invest in the company and drive organic growth. And we're certainly making tremendous progress in that area. But importantly, we also said that we would take an opportunity to acquire portfolios of products or capabilities to enhance and accelerate our growth. 
+And the acquisition that we announced this morning with BioVision is the implementation of that strategy, and we're very excited about the opportunity to press ahead with that business. It's a company we've known really well. I have been actively in conversations with them for the duration of my time at Abcam. But as a company, we've been bringing in their products and selling them under the Abcam brand now for more than a decade. 
+The product quality is excellent. The markets and the opportunities that they have are all growing. We've seen a lot of high double-digit growth out of this portfolio consistently over the years. And we -- this is one of the suppliers that we've been much more integrated with over time. They've actually been packaging under our brand for quite a while and shipping those products to us ready to go, which is a real advantage over some of the other relationships we have. 
+And so it's a product portfolio we know well. Our customers love them, and it's an opportunity for us to bring that technology, that innovation, that product portfolio into Abcam and drive higher growth and higher profitability under our ownership. So we're hoping that the regulatory review goes well and looking forward to bringing that team into Abcam once that process is complete. But as I say, this is an implementation of our strategy. It's a business we know well and one that we're looking forward to bringing into the fold. 
+Michael, do you want to talk about the financials?
+
+--------------------------------------------------------------------------------
+Michael Shaun Baldock,  Abcam plc - CFO & Director    [4]
+--------------------------------------------------------------------------------
+
+          Sure. I mean, we -- as Alan said, we've got 2 to 3 months before we receive the Chinese -- the necessary Chinese regulatory clearances as well as NKY shareholder approval. So we're somewhat limited on the statements we can make. But as you saw, we did say that for the year ended December 31, 2021, the company had about $33.8 million in revenues and close to $13 million in EBITDA. And that included about $5 million of COVID revenues, which we don't think are repeating. 
+I'd tell you, the business has been growing in line with their past growth levels and that we expect that to continue. We think it will be significantly accretive to earnings in the first full year we own the business, which is expected to be our calendar year ended December 31, 2022, and very enhancing to our revenue growth as well and our margins. 
+We expect to fund the transaction out of our current cash balances and some limited drawdown on our RCF. We've got a significant amount of cash in the balance sheet, as most of you know, we've been carrying since we did our U.S. listing on NASDAQ. And we'll be putting that cash to work here on this transaction. 
+Otherwise, I think there's probably a limited amount what we can say. We think it's going to be a fantastic deal for Abcam. And if you look at -- you know there's -- prices in this space have been very, very high. We actually think we're getting a very good deal for BioVision, particularly when you look at the recent multiples that are being paid by companies like PerkinElmer for BioLegend. So we're quite happy with the deal we got, and we're very excited about bringing the company into the Abcam fold. 
+So that's all for me.
+
+
+================================================================================
+Questions and Answers
+--------------------------------------------------------------------------------
+Operator    [1]
+--------------------------------------------------------------------------------
+
+          (Operator Instructions) And the first question comes from the line of Tejas Savant from Morgan Stanley.
+
+--------------------------------------------------------------------------------
+Tejas Rajeev Savant,  Morgan Stanley, Research Division - Equity Analyst    [2]
+--------------------------------------------------------------------------------
+
+          Congrats on the deal. Just had a few follow-ups here for you, Alan. Can you just outline for us the differential growth rate for their end markets, specifically biochemical and cell-based assays, versus what you see across your broader portfolio?
+
+--------------------------------------------------------------------------------
+Alan Thomas Hirzel,  Abcam plc - CEO & Executive Director    [3]
+--------------------------------------------------------------------------------
+
+          Yes, sure. I mean, it's an interesting question. I can say for our portion of their sales, this has been a pretty steady teens growth opportunity. And we think as some of the fields like cancer get more interested in metabolism and drug -- and how things will metabolize through different cancer treatments, that there's a greater interest in getting reliable kits that can be used. So we actually think this is a higher growth segment within the life science tools market. It's quite a difficult number to pin down because competitive set is quite fragmented and there's not much data. But it's certainly -- certainly, we feel better than the kind of single-digit antibody growth in market.
+
+--------------------------------------------------------------------------------
+Tejas Rajeev Savant,  Morgan Stanley, Research Division - Equity Analyst    [4]
+--------------------------------------------------------------------------------
+
+          Got it. Fair enough. And then on the regulatory sort of process here, how straightforward or not do you anticipate this being -- I mean, obviously, there's been a little bit of scrutiny here. This seems like a pretty straightforward acquisition of a complementary asset and, in some sense, a vertical transaction. How should we think about any sort of like issues or challenges there? Or do you think it's going to be pretty straightforward and should close in the next 2 to 3 months?
+
+--------------------------------------------------------------------------------
+Michael Shaun Baldock,  Abcam plc - CFO & Director    [5]
+--------------------------------------------------------------------------------
+
+          We hope it's going to be quite straightforward. We've got a Hart-Scott filing in the U.S., which is typical for a transaction of this size, and we don't expect any issues there. And in China, we have a stock exchange, a Shenzhen Stock Exchange market approval, MAR approval and shareholder approval. And we are hoping that we don't expect, and we're hoping we don't have any issues there either. So the range -- it could be as little as 2 months and as much as 3 months, but that's the typical time range for a MAR approval on the stock exchange in China.
+
+--------------------------------------------------------------------------------
+Tejas Rajeev Savant,  Morgan Stanley, Research Division - Equity Analyst    [6]
+--------------------------------------------------------------------------------
+
+          Got it, makes sense. And then one last one for me. Since you were already distributing a portion of their product portfolio, Michael, can you just sort of help us dimension how much revenue and margin dollars here will be incremental versus what you recorded previously? And on a somewhat sort of related note, how should we be thinking about opportunities for expanding their commercial reach or perhaps even new product development?
+
+--------------------------------------------------------------------------------
+Michael Shaun Baldock,  Abcam plc - CFO & Director    [7]
+--------------------------------------------------------------------------------
+
+          Sure. So we -- because we're awaiting regulatory clearance, we haven't disclosed, and I'm afraid we can't disclose, a lot of incremental financial information, but I'll give you a few benchmarks. We are hopeful that by the time we get to our results in mid-September, we can give you more guidance on the impact this will have on our financials going forward. But if you look at it, and I think several reports that were already published this morning, including yours, quick note, I think you'll see that there's an estimate. If you look at our market share in this space of 20-ish-plus percent, if you translated that to their sales, that will give you an estimate, which you can then use to sort of work your way back in terms of revenues that can be accredited to Abcam and then the resulting margin impact. 
+I think if you look at our estimates and our comments on margin performance in the past, our own product margins are about 90-ish percent, as we've told you many times, and our third-party gross margins are somewhere between 50% and 60%. If you take that quantum of revenues and you do that translation, you'll come up with a range and an estimate range, which will be within a realm that is -- will give you a good idea of kind of where we think things will go forward. So it's going to have clearly a significant margin impact on our gross margin impact and net operating margin impact and a small impact on revenues.
+
+--------------------------------------------------------------------------------
+Tejas Rajeev Savant,  Morgan Stanley, Research Division - Equity Analyst    [8]
+--------------------------------------------------------------------------------
+
+          Got it. And then on the commercial reach and product development opportunities?
+
+--------------------------------------------------------------------------------
+Michael Shaun Baldock,  Abcam plc - CFO & Director    [9]
+--------------------------------------------------------------------------------
+
+          Go ahead, Alan.
+
+--------------------------------------------------------------------------------
+Alan Thomas Hirzel,  Abcam plc - CEO & Executive Director    [10]
+--------------------------------------------------------------------------------
+
+          Yes. I think the one -- the great thing about this business is that they have so diligently made great products and built up a tremendous portfolio over the years of over 10,000 of their own products. So we definitely see opportunities here to continue to innovate and bring new products to market and use the insights we have about research areas and where things are hot and evolving to help direct and prioritize where that innovation happens, something we're quite excited about. In terms of commercial reach, less than 30% of their business was going direct through their brand to market. And we see with our brand and reach an opportunity to enhance and build on their reach direct to customers. And that's what we're looking for there.
+
+--------------------------------------------------------------------------------
+Operator    [11]
+--------------------------------------------------------------------------------
+
+          And the next question comes from the line of James Gordon from JPMorgan.
+
+--------------------------------------------------------------------------------
+James Daniel Gordon,  JPMorgan Chase & Co, Research Division - Senior Analyst    [12]
+--------------------------------------------------------------------------------
+
+          This is James Gordon from JPMorgan. Just a couple on sort of the strategy and further M&A, obviously, today's deal, you get some significant accretion, but it doesn't actually take the company to a very levered position. So could this be the start of a series of transactions, where you look to acquire assets and sort of take them in-house where you're currently distributing for third parties? 
+And if you did more deals like this, would you only do it up to a sort of ceiling of what you could do in terms of debt? Or could you actually use equity to take a lot more product in-house? And maybe just a sort of final one on that vein as well, is there a sort of a proportion you aspire to longer term of products that would be in-house versus third party? I think it was like 53% previously. But how far would you like to take that?
+
+--------------------------------------------------------------------------------
+Michael Shaun Baldock,  Abcam plc - CFO & Director    [13]
+--------------------------------------------------------------------------------
+
+          Alan, why don't you answer part one and then I'll answer part two?
+
+--------------------------------------------------------------------------------
+Alan Thomas Hirzel,  Abcam plc - CEO & Executive Director    [14]
+--------------------------------------------------------------------------------
+
+          Absolutely. So first off, we don't have a target that we're trying to hit on own products. We -- that's kind of an outcome of a bunch of things that we're evaluating that are we the best innovator and producer or do we think we could do a better job of innovating and producing, given our data and know-how, in combination of other products than buying from third parties. So that evaluation is always going on, on a case-by-case basis. But there are some things that we will sell that we're not going to make. I mean, small molecule biochemicals, there are other people who are much better suited to make those. And so we have other suppliers to do that for us. So we don't have a target in mind. 
+But this transaction is a playbook that we've used now several times. And each time we've done it, it's been quite deliberate, whether it was MitoSciences to bring in some -- our first step into immunoassays and into these kind of cellular assays was with MitoSciences in 2011, with Epitomics in 2012, with Calico Bio in 2019 and with Expedeon more recently. All of those are examples of companies that were suppliers to us who we saw had very high-quality product portfolios that we're capable of generating a lot more growth than what was typical in the market because of their innovation capabilities and product quality. And this is another transaction in that vein. And so we're not indiscriminately buying up suppliers, we're looking for those combination of factors to bring those companies and capabilities in-house.
+
+--------------------------------------------------------------------------------
+Michael Shaun Baldock,  Abcam plc - CFO & Director    [15]
+--------------------------------------------------------------------------------
+
+          Thanks, Alan. And James, on the leverage side, we just aim to finance transactions wisely and maximize our returns. We have a lot of -- as you noted, we have a lot of capacity both on the equity and on the debt front, using -- we have a significant amount of cash, if you even leaving a fair amount of working capital, we'll draw down a small amount on the RCF, which we can easily pay off over time and leaves us plenty of capacity if we like to do further deals using cash in an RCF or equity. 
+And you'll recall when we did our U.S. listing, one of the reasons that we pointed out that we did that was to give us U.S. currency to make potential acquisitions. So we continue to hope if we can find, as Alan said, smart acquisitions like this that we'll continue to make them. And we've got plenty of financial capacity to do that. And we aim to keep our balance sheet, I guess, underlevered right now, but at the same time, use leverage to maximize our returns and be wise about how we finance things.
+
+--------------------------------------------------------------------------------
+Operator    [16]
+--------------------------------------------------------------------------------
+
+          And the next question comes from the line of Michael Ryskin from Bank of America.
+
+--------------------------------------------------------------------------------
+Michael Leonidovich Ryskin,  BofA Securities, Research Division - Associate    [17]
+--------------------------------------------------------------------------------
+
+          I want to follow up on an earlier one in terms of BioVision's sales that are already moving through Abcam versus through other distributors or vendors. Do you see any risk with the switchover there, particularly with some of the COVID-related sales and some of those could be a little bit more time-sensitive, a little bit more project-oriented? So I just kind of want to talk to how much of their portfolio really is sort of unsubstitutable and how much could be at risk with the switchover when everything goes through Abcam.
+
+--------------------------------------------------------------------------------
+Alan Thomas Hirzel,  Abcam plc - CEO & Executive Director    [18]
+--------------------------------------------------------------------------------
+
+          I think they're all manageable risks. We've had this situation in the past, most recently with Expedeon, where they had then using our competitors as a channel to sell their products and OEM back to them. And we had that with -- actually had it with Epitomics early on as well. So we know how to manage those transitions, and it's only a risk if you do it clumsily. So I think we're okay there in terms of the migration of the product portfolio over to more direct sales to Abcam over time, if that makes sense as some outbound relationships doesn't even make sense because they're economically attractive for both parties and we're happy to carry on with those, if that's the case. 
+On the COVID materiality itself, I think we don't know yet. So Michael has highlighted in his comments that there is some COVID-related product revenue. It's unclear whether that research-related activity will continue and for how long. And so I think we have highlighted that one as an uncertain. I think we even called it potentially nonrecurring for that -- for just the point you're raising. And that's the one that we want people to at least understand.
+
+--------------------------------------------------------------------------------
+Michael Leonidovich Ryskin,  BofA Securities, Research Division - Associate    [19]
+--------------------------------------------------------------------------------
+
+          Okay. And I realize you may be limited on what you could say, but any additional color you can provide in terms of either geographic mix or customer mix in terms of academic and government versus maybe some pharma and bio that maybe some IVD manufacturers in terms of the existing customer base of BioVision? And how -- whether being within Abcam sort of opens up some additional opportunities that you may bring to the table?
+
+--------------------------------------------------------------------------------
+Alan Thomas Hirzel,  Abcam plc - CEO & Executive Director    [20]
+--------------------------------------------------------------------------------
+
+          Well, it's hard to know. With so much of their business -- sorry, Michael, so much of their business goes through other distribution channels, the visibility on where it's going is not great. We do know where it's going with our own sales. And what we observed there is that there's a demand within larger customers that's very attractive. And certainly, as biopharma does more screening of metabolic pathways and biochemical processes, it's been a pretty strong pull in that area, so -- but that's one of those things that we're going to have to kind of get into and get closer to as we get our arms around the business.
+
+--------------------------------------------------------------------------------
+Operator    [21]
+--------------------------------------------------------------------------------
+
+          And the next question comes from the line of Stefan Hamill from Numis.
+
+--------------------------------------------------------------------------------
+Stefan John Hamill,  Numis Securities Limited, Research Division - Director of Equity Research    [22]
+--------------------------------------------------------------------------------
+
+          It sounds like you're quite limited in what you can say on the ROIC targets for the deal, et cetera. It seems to me like the sense that the addressable market here is growing more quickly than your core antibodies market. And then I've got a follow-up after that. Is that right?
+
+--------------------------------------------------------------------------------
+Alan Thomas Hirzel,  Abcam plc - CEO & Executive Director    [23]
+--------------------------------------------------------------------------------
+
+          Yes, that's my sense, Stefan. We reckon the market is between $300 million and $400 million a year, growing low double digits. But it's -- on the ROIC targets, I'll let Michael explain. I think it's a matter of when we can say more rather than if.
+
+--------------------------------------------------------------------------------
+Michael Shaun Baldock,  Abcam plc - CFO & Director    [24]
+--------------------------------------------------------------------------------
+
+          Yes. Look, Stefan, because of the regulatory -- I mean it kind of depends how quickly we get through the regulatory process. And we'd like to provide you all with as much information as possible to help you sort of figure out how this fits in with our business because we do think it's really attractive and it's going to be attractive addition. So we're hopeful that by mid-September, when we do our results, that we'll be able to provide more information. And if not, then shortly thereafter. And we'll look to try and give you as much guidance to sort through things as we can over time.
+
+--------------------------------------------------------------------------------
+Stefan John Hamill,  Numis Securities Limited, Research Division - Director of Equity Research    [25]
+--------------------------------------------------------------------------------
+
+          Okay. That's really clear. And then just a sort of follow-up, so it's obviously not a completely additive product set because you had these guys as a supplier. But can you talk about the uniqueness of the BioVision product amongst your other suppliers? Is there any useful technology or proprietary capabilities that you've gained with the acquisition?
+
+--------------------------------------------------------------------------------
+Alan Thomas Hirzel,  Abcam plc - CEO & Executive Director    [26]
+--------------------------------------------------------------------------------
+
+          I mean, they do have a capability of making these types of assays that's very strong, particularly the -- as I say, the metabolic and biochemical and cellular assays, so -- and again, it's like a lot of things in our industry. It's -- one person can probably make a couple really well. What this company does is, it's created a group of people, who can do many hundreds a year with great capability. And that's pretty attractive. So it's know-how, it's lot of the know-how built up in the company about how to make these assays. And we see that as an opportunity to continue to innovate. 
+As I said earlier, I think we can add value in how we direct and prioritize the innovation because of the amount of data we got about where unmet need is. So we're looking forward to doing that with them. And growing the existing portfolio because we've got, I think, a stronger channel opportunity for them than what they could do on their own. So those are the two big revenue and value drivers out there.
+
+--------------------------------------------------------------------------------
+Operator    [27]
+--------------------------------------------------------------------------------
+
+          And the next question comes from the line of Xian Deng from Berenberg.
+
+--------------------------------------------------------------------------------
+Xian Deng,  Joh. Berenberg, Gossler & Co. KG, Research Division - Analyst    [28]
+--------------------------------------------------------------------------------
+
+          I have two, please. The first one is that the financials disclosed in the press release suggest a 37% operating margin for BioVision, which is quite attractive. So I was just wondering, going forward, would you plan to keep it relatively stable? Or would you plan to invest a lot into BioVision, hence the margin for this business could also be volatile going forward? So that's the first question. 
+The second one is to do with the  -- more or less to do with the valuation of the deal. So BioVision was acquired by NKY around 2017/'18 for about $290 million. And now they sold it for $340 million. So from their perspective, it's not a very profitable deal. So I was just wondering if there's any reason why they're selling it at this price. Do you think you have actually got a good bargain off this? Or do you think we actually bought it at a very high price in the first place? Just trying to understand a bit of the dynamics behind the valuation, if that's all right.
+
+--------------------------------------------------------------------------------
+Michael Shaun Baldock,  Abcam plc - CFO & Director    [29]
+--------------------------------------------------------------------------------
+
+          Alan, do you want to talk about the investment side of things?
+
+--------------------------------------------------------------------------------
+Alan Thomas Hirzel,  Abcam plc - CEO & Executive Director    [30]
+--------------------------------------------------------------------------------
+
+          Sure. The margins they have are on the higher end of what we see in these kinds of companies, although they're not uncommon for small kind of founder-led companies. And this has still been very much -- still run by the two founders, who built it in California. So I think there is some investment in bringing some of the facilities and the processes and kind of overall how the company is run up to an Abcam standard, and there will be some investment for that. But more interestingly, the investment is going to be in how we drive innovation and growth. 
+That's what's going to make the difference here in how we think about the value of this deal to Abcam. And we think there's a lot of opportunity between the margin increase from -- we'll get by selling our own products rather than buying them through BioVision, that's significant. And the growth and opportunity there is significant. So there's just a lot of value to be had. But there is a little bit of investment in bringing it into our company and how we run our businesses.
+
+--------------------------------------------------------------------------------
+Michael Shaun Baldock,  Abcam plc - CFO & Director    [31]
+--------------------------------------------------------------------------------
+
+          Yes. And on the purchase price side of things, I think it's always hard to guess from the outside and prejudge why things are being done. Remember, they bought this not long before COVID hit and have been running a bit -- their only U.S. asset from China during COVID has been quite difficult. And I think if you look at that, combined with sort of what NKY is doing in their own domestic market, I think they just decided that we have been a partner of theirs, that we'd be a good partner for BioVision. And you'll note that the other part of the announcement we made today was that we are working on a collaboration with NKY in their home market for their specific business on the diagnostic side. 
+So it's a combination of things that I think made this the right transaction for us and for them. But there are a lot of elements that are part of that decision that we both made. And I think that's really -- each case has always very specific peculiarities, and this one is no different. So I think I don't think they overpaid for it before and I don't think that they are underselling now. I think it's working out to be a good transaction for all of us, and we hope to have a very strong collaboration with them in China in their diagnostics business going forward.
+
+--------------------------------------------------------------------------------
+Operator    [32]
+--------------------------------------------------------------------------------
+
+          And the next question comes from the line of Miles Dixon from Peel Hunt.
+
+--------------------------------------------------------------------------------
+Miles Dixon,  Peel Hunt LLP, Research Division - Analyst     [33]
+--------------------------------------------------------------------------------
+
+          Michael, you just touched upon it actually, the MoU that you've signed with NKY, how much is that just backfilling previous internal sales that they had or cross-selling between the companies? And how much is it genuine new opportunity that you see to leverage Abcam's wider products and services into NKY?
+
+--------------------------------------------------------------------------------
+Michael Shaun Baldock,  Abcam plc - CFO & Director    [34]
+--------------------------------------------------------------------------------
+
+          It's all new opportunity. There's actually nothing right now that transpires between us and NKY or BioVision and NKY. So this is all new potential opportunity. But remember, it's a very -- we're at the very early stages. It is just an MoU, and we'll be working on that over the next 6 to 12 months as we develop our partnership.
+
+--------------------------------------------------------------------------------
+Alan Thomas Hirzel,  Abcam plc - CEO & Executive Director    [35]
+--------------------------------------------------------------------------------
+
+          And Miles, just to add, I think one of the things that -- and this sort of reaches both questions. My sense is that when you look at NKY's portfolio of businesses, they own several -- a handful of different small biotech innovators in China, who are all trying to improve health care and health care diagnostics and pharmaceuticals in that market. And the opportunity for them to have the capital to invest in those businesses and have a partner like Abcam to help support them in the innovation in the areas around antibodies and antibody engineering is quite attractive to them. So we're looking forward to expanding on that.
+
+--------------------------------------------------------------------------------
+Operator    [36]
+--------------------------------------------------------------------------------
+
+          And the next question comes from the line of Christian Glennie from Stifel.
+
+--------------------------------------------------------------------------------
+Christian Glennie,  Stifel, Nicolaus & Company, Incorporated, Research Division - Analyst    [37]
+--------------------------------------------------------------------------------
+
+          Just a quick follow-up on the financing then. I think you made a modest drawdown on the RCF. Is that still double-digit as opposed to potentially triple digit and a reminder in terms of the current sort of rough terms in terms of interest rate on the RCF?
+
+--------------------------------------------------------------------------------
+Michael Shaun Baldock,  Abcam plc - CFO & Director    [38]
+--------------------------------------------------------------------------------
+
+          Yes. I think it is double digit -- likely double digit, not triple digit. I mean, we've got about GBP 220 million of cash right now on the balance sheet, plus or minus. And we leave a fair amount for working capital. But that's still -- you can work through that. We don't need to draw down a lot. And it's very -- you saw when we had the drawdown before that we did for Expedeon what the cost was, it's pretty low -- it's at a pretty low rate. So it's well below what our typical cost of capital is, given the equity mix, when you calculate our cost of capital.
+
+--------------------------------------------------------------------------------
+Christian Glennie,  Stifel, Nicolaus & Company, Incorporated, Research Division - Analyst    [39]
+--------------------------------------------------------------------------------
+
+          Okay. And then just in terms of headcount for BioVision as it stands today and how that's been evolving, has there been much investment across that business in recent times?
+
+--------------------------------------------------------------------------------
+Michael Shaun Baldock,  Abcam plc - CFO & Director    [40]
+--------------------------------------------------------------------------------
+
+          They have about 70 team right now.
+
+--------------------------------------------------------------------------------
+Alan Thomas Hirzel,  Abcam plc - CEO & Executive Director    [41]
+--------------------------------------------------------------------------------
+
+          They're all on 1 team in California. That's 70 people in California.
+
+--------------------------------------------------------------------------------
+Christian Glennie,  Stifel, Nicolaus & Company, Incorporated, Research Division - Analyst    [42]
+--------------------------------------------------------------------------------
+
+          And has that been fairly sort of stable? Or is that kind of...?
+
+--------------------------------------------------------------------------------
+Alan Thomas Hirzel,  Abcam plc - CEO & Executive Director    [43]
+--------------------------------------------------------------------------------
+
+          Growing?
+
+--------------------------------------------------------------------------------
+Christian Glennie,  Stifel, Nicolaus & Company, Incorporated, Research Division - Analyst    [44]
+--------------------------------------------------------------------------------
+
+          Yes.
+
+--------------------------------------------------------------------------------
+Alan Thomas Hirzel,  Abcam plc - CEO & Executive Director    [45]
+--------------------------------------------------------------------------------
+
+          Growing just as long as the business has been growing.
+
+--------------------------------------------------------------------------------
+Operator    [46]
+--------------------------------------------------------------------------------
+
+          (Operator Instructions) And our next question comes from the line of Puneet Souda from SVB Leerink.
+
+--------------------------------------------------------------------------------
+Puneet Souda,  SVB Leerink LLC, Research Division - MD of Life Science Tools & Diagnostics and Senior Research Analyst    [47]
+--------------------------------------------------------------------------------
+
+          Alan, Michael, congrats on this acquisition. The first one is really when you look at the offerings today, the biochemical and the metabolic assays and the apoptosis cancer research, where they're serving, and when you look at some of the key areas of investments for you, how do you think -- where do you think this -- where can this be most useful in terms of driving more products and where the portfolio is additive? And where can you see more synergies? And then proteomics is obviously an important area for you. Do you see any of this helping you drive some of the proteomics growth and priority areas for you, just looking at the overall product portfolio where you are right now?
+
+--------------------------------------------------------------------------------
+Alan Thomas Hirzel,  Abcam plc - CEO & Executive Director    [48]
+--------------------------------------------------------------------------------
+
+          Puneet, the simple answer is we've always liked these products, and we've always been adding as many of them as we could each year. And so we cover quite a bit of their portfolio already. It's just not in our control. So we're always much better at marketing and supplying customers when we control the full supply chain and the prioritization within that. And that's -- it's not so much additive in terms of product numbers, although there are a few products that we didn't have. It's much more about driving more from the current portfolio and then directing the new product development beyond that.
+
+--------------------------------------------------------------------------------
+Puneet Souda,  SVB Leerink LLC, Research Division - MD of Life Science Tools & Diagnostics and Senior Research Analyst    [49]
+--------------------------------------------------------------------------------
+
+          Got it. Okay. And then just Alan, just broadly looking at the overall landscape today. I mean, we obviously saw a large acquisition in this space prior to this. How do you see the fragmentation of the overall reagents with antibodies market? Where do you see that stand today versus before?
+
+--------------------------------------------------------------------------------
+Alan Thomas Hirzel,  Abcam plc - CEO & Executive Director    [50]
+--------------------------------------------------------------------------------
+
+          Yes. I mean, it's a trend that's been going on since Greg Lucier and the team at Life Tech began really to consolidate the whole industry. And so we're -- with BioLegend going to PerkinElmer, that's another sizable private reagent company going into the hands of a consolidator. And I guess, we'd expect to keep seeing that. We will play a role in that as well. But as I said, we're going to be selective about exactly who we would bring in. And increasingly, it's going to be harder and harder for antibody companies to make sense for us because you've got such a great capability there, it's probably only a couple of those. 
+But in some of these related areas that we laid out in terms of our expansion and how we want to play in the broader proteomics field and people studying pathways around proteins, certainly enzymatic assays, proteomic assays, epigenetic assays, ELISAs, things like that, that are made at BioVision make a lot of sense for us. And we want to own those because that helps accelerate what we're doing in the total addressable market that we're approaching beyond simply research antibodies at this point.
+
+--------------------------------------------------------------------------------
+Operator    [51]
+--------------------------------------------------------------------------------
+
+          And the next question comes from the line of Matt Larew from William Blair.
+
+--------------------------------------------------------------------------------
+Matthew Richard Larew,  William Blair & Company L.L.C., Research Division - Analyst    [52]
+--------------------------------------------------------------------------------
+
+          I'm curious, this is just down the road from Fremont, where you've really expanded your footprint. I think you referenced potentially needing some investment in facilities for them. So just curious if there's anything in terms of your investment that you can leverage or if there are any other sort of location-based synergies that you might as well take advantage of, given the investment you've made in California.
+
+--------------------------------------------------------------------------------
+Alan Thomas Hirzel,  Abcam plc - CEO & Executive Director    [53]
+--------------------------------------------------------------------------------
+
+          We've not made any decisions on how operationally we want to integrate the company. I think the first stage here is to make sure we understand how they operate and then the right way to integrate that into our company. But you're right, it is close to our Fremont facility. The Fremont facility is nearly fully occupied with our engineering cell lines and some of the consolidation we've done with our other facilities in the Bay Area around antibody engineering. 
+So there's not enough space there to absorb their people. So what we're not going to is consolidate those two because neither of them has the space to accommodate the other. But we will look. Obviously, once the deal is closed, we will have a detailed integration plan on how we're going to approach that, and we'll use the next few months to begin to work through that.
+
+--------------------------------------------------------------------------------
+Matthew Richard Larew,  William Blair & Company L.L.C., Research Division - Analyst    [54]
+--------------------------------------------------------------------------------
+
+          Okay. And then you referenced to the $5 million of COVID sales. But I'm guessing a piece of their business may have been hurt by COVID in terms of lab productivity the same way yours was. So just curious if there's any additional color you could give us there or maybe a 2019 sort of pre-COVID revenue number that might level set us.
+
+--------------------------------------------------------------------------------
+Michael Shaun Baldock,  Abcam plc - CFO & Director    [55]
+--------------------------------------------------------------------------------
+
+          Yes. We haven't really broken down the numbers specifically, and we haven't given any more data and can't really do that right now.
+
+--------------------------------------------------------------------------------
+Alan Thomas Hirzel,  Abcam plc - CEO & Executive Director    [56]
+--------------------------------------------------------------------------------
+
+          But the point is right. I mean, the point is right. There's a lot of mix shift that happens between '19/'20 and the outlook of the business, it's -- we'll have to unpick for you when we can and we'll do.
+
+--------------------------------------------------------------------------------
+Operator    [57]
+--------------------------------------------------------------------------------
+
+          (Operator Instructions) As there are no further questions at the moment, this concludes today's question-and-answer session. I would now like to turn the call back to Alan Hirzel for any closing remarks. Please go ahead, sir.
+
+--------------------------------------------------------------------------------
+Alan Thomas Hirzel,  Abcam plc - CEO & Executive Director    [58]
+--------------------------------------------------------------------------------
+
+          Thank you, everyone, for joining us today. It's always reassuring to have the opportunity to hear what's on your mind and be able to address the questions you have. Obviously, if you've got any further questions, James can field those. 
+But when we look at this transaction, as I said at the top, it's right in line with the strategy that we outlined for the business 20 months ago. It's a great portfolio of products. We look forward to seeing the regulatory approvals come through so that we can begin to shape and drive the growth from the business in the way that we hope. And we look forward to providing a bit more detail as and when the market reviews allow us to do so. So thanks for your attention, and talk to you again in September, I think.
+
+--------------------------------------------------------------------------------
+Operator    [59]
+--------------------------------------------------------------------------------
+
+          Thank you. That concludes today's conference call. Thank you for your participation, ladies and gentlemen. You may now disconnect.
+
+--------------------------------------------------------------------------------
+Michael Shaun Baldock,  Abcam plc - CFO & Director    [60]
+--------------------------------------------------------------------------------
+
+          Thank you.
+
+
+
+
+
+
+
+--------------------------------------------------------------------------------
+Definitions
+--------------------------------------------------------------------------------
+PRELIMINARY TRANSCRIPT: "Preliminary Transcript" indicates that the 
+Transcript has been published in near real-time by an experienced 
+professional transcriber.  While the Preliminary Transcript is highly 
+accurate, it has not been edited to ensure the entire transcription 
+represents a verbatim report of the call.
+
+EDITED TRANSCRIPT: "Edited Transcript" indicates that a team of professional 
+editors have listened to the event a second time to confirm that the 
+content of the call has been transcribed accurately and in full.
+
+--------------------------------------------------------------------------------
+Disclaimer
+--------------------------------------------------------------------------------
+Refinitiv reserves the right to make changes to documents, content, or other 
+information on this web site without obligation to notify any person of 
+such changes.
+
+In the conference calls upon which Event Transcripts are based, companies 
+may make projections or other forward-looking statements regarding a variety 
+of items. Such forward-looking statements are based upon current 
+expectations and involve risks and uncertainties. Actual results may differ 
+materially from those stated in any forward-looking statement based on a 
+number of important factors and risks, which are more specifically 
+identified in the companies' most recent SEC filings. Although the companies 
+may indicate and believe that the assumptions underlying the forward-looking 
+statements are reasonable, any of the assumptions could prove inaccurate or 
+incorrect and, therefore, there can be no assurance that the results 
+contemplated in the forward-looking statements will be realized.
+
+THE INFORMATION CONTAINED IN EVENT TRANSCRIPTS IS A TEXTUAL REPRESENTATION
+OF THE APPLICABLE COMPANY'S CONFERENCE CALL AND WHILE EFFORTS ARE MADE TO
+PROVIDE AN ACCURATE TRANSCRIPTION, THERE MAY BE MATERIAL ERRORS, OMISSIONS,
+OR INACCURACIES IN THE REPORTING OF THE SUBSTANCE OF THE CONFERENCE CALLS.
+IN NO WAY DOES REFINITIV OR THE APPLICABLE COMPANY ASSUME ANY RESPONSIBILITY FOR ANY INVESTMENT OR OTHER
+DECISIONS MADE BASED UPON THE INFORMATION PROVIDED ON THIS WEB SITE OR IN
+ANY EVENT TRANSCRIPT. USERS ARE ADVISED TO REVIEW THE APPLICABLE COMPANY'S
+CONFERENCE CALL ITSELF AND THE APPLICABLE COMPANY'S SEC FILINGS BEFORE
+MAKING ANY INVESTMENT OR OTHER DECISIONS.
+--------------------------------------------------------------------------------
+Copyright 2023 Refinitiv. All Rights Reserved.
+--------------------------------------------------------------------------------

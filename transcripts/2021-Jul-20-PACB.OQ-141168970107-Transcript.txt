@@ -1,0 +1,470 @@
+
+
+Refinitiv StreetEvents Event Transcript
+E D I T E D   V E R S I O N
+
+Pacific Biosciences of California Inc Signs Definitive Agreement to Acquire Omniome Inc Call
+JULY 20, 2021 / 12:30PM GMT
+
+================================================================================
+Corporate Participants
+================================================================================
+
+ * Christian O. Henry
+   Pacific Biosciences of California, Inc. - President, CEO & Director
+ * Min-Jui Shen
+   Omniome, Inc. - President
+ * Todd Friedman
+   Pacific Biosciences of California, Inc. - Director of IR
+ * Susan G. Kim
+   Pacific Biosciences of California, Inc. - CFO
+
+================================================================================
+Conference Call Participiants
+================================================================================
+
+ * Jack Meehan
+   Nephron Research LLC - Research Analyst
+ * Tejas Rajeev Savant
+   Morgan Stanley, Research Division - Equity Analyst
+ * Tycho W. Peterson
+   JPMorgan Chase & Co, Research Division - Senior Analyst
+ * Doug Schenkel
+   Cowen and Company, LLC, Research Division - MD & Senior Research Analyst
+ * Charles Cliff Duncan
+   Cantor Fitzgerald & Co., Research Division - Senior Analyst
+
+================================================================================
+Presentation
+--------------------------------------------------------------------------------
+Operator    [1]
+--------------------------------------------------------------------------------
+
+          Hello, ladies and gentlemen, and welcome to the Pacific Biosciences to acquire Omniome conference call. (Operator Instructions) As a reminder, this conference is being recorded. I would now like to hand the conference over to your host, Mr. Todd Friedman. Please go ahead.
+
+--------------------------------------------------------------------------------
+Todd Friedman,  Pacific Biosciences of California, Inc. - Director of IR    [2]
+--------------------------------------------------------------------------------
+
+          Thank you. Good morning, everyone, and thanks for joining us on such short notice to discuss the definitive agreement to acquire -- for Pacific Biosciences to acquire Omniome. If you've not had a chance to read today's release, it can be found in the Investor Relations section at our website at pacb.com.
+Participating for PacBio today will be Christian Henry, President and Chief Executive Officer; Susan Kim, Chief Financial Officer; Mark Van Oene, Chief Operating Officer. We're also pleased to welcome Richard Shen, President of Omniome. Christian, Susan and Richard will share some prepared remarks, and then we will open up the call for some questions. The call is being recorded, and the audio portion will be archived in the Investors section of our website.
+Today's presentation contains estimates, projections and other forward-looking statements. You should not place undue reliance on forward-looking statements because they are subject to risks and uncertainties. Actual events or results may differ materially from those projected or discussed. Please review the cautionary statements and other important information for investors and stockholders on Slide 2 and in our filings with the Securities and Exchange Commission. With that, I'll turn the call over to Christian.
+
+--------------------------------------------------------------------------------
+Christian O. Henry,  Pacific Biosciences of California, Inc. - President, CEO & Director    [3]
+--------------------------------------------------------------------------------
+
+          Good morning, everyone, and thank you for joining us today. I'm thrilled to share that earlier this morning, we announced an agreement to acquire Omniome, a San Diego-based company developing a proprietary short-read DNA sequencing platform capable of producing highly accurate sequencing data at low cost and high throughput.
+At PacBio, our mission is to enable the promise of genomics to better human health. By combining our industry-leading long-read HiFi sequencing technology with a highly accurate short-read sequencing platform, we move closer to achieving that mission as we will now be able to serve all parts of the sequencing market. This acquisition represents just one step towards PacBio becoming the most advanced solutions provider for understanding biology.
+Currently, PacBio provides the most accurate long-read sequencing solutions, which address a market of over $20 billion. This includes areas like clinical, molecular diagnostics, human biomedical research, and plant and animal sciences. We expect to continue penetrating this TAM and bring the benefits of HiFi sequencing to a growing customer base as we accelerate our R&D investments, continue to scale our growing commercial infrastructure and sign more collaborations with leading clinical organizations.
+Long-read sequencing is gaining significant traction. Additionally, as we continue to drive the cost down and throughput up for HiFi, we believe that the market for long reads will grow at a CAGR of over 40% over the next 5 years. It is also clear that there's enormous revenue opportunity that has historically been untapped by PacBio. While growing slower than long-read sequencing, short-read sequencing applications already represent a multibillion-dollar revenue opportunity today.
+By combining Omniome, PacBio will address both the fastest-growing and the largest sequencing applications. Together, we will strive to provide the most complete and accurate solutions to enable our customer success across the entire sequencing landscape. Specifically, adding a short-read technology will allow us to participate more broadly in areas like early-stage cancer screening, recurrence monitoring, therapy selection, targeted clinical panels, single cell and NIPT.
+Customers in these fields are working on some of the most groundbreaking science, and they deserve a sequencing provider that will partner with them to achieve the most complete and cost-effective solutions to answer their problems. We estimate that these applications will more than double our current addressable market when products based on Omniome's sequencing technology come to market.
+In a growing landscape of sequencing providers, we see Omniome's proprietary sequencing by binding, or SBB chemistry, as the best technology to meaningfully participate in short-read applications. SBB incorporates more natural nucleotides, making for a high signal-to-noise ratio and results in less molecular scarring than other short-read sequencing technologies.
+Sequencing by Binding is a 2-step process that incorporates the binding and extension steps typically used in short-read sequencing. In doing so, Omniome's team has been able to optimize each step. During binding, the target base can be interrogated with higher accuracy. By focusing on binding instead of incorporation, we're able to create a growing strand during extension that is scar free.
+These features could allow for increased sequencing accuracy, driving higher-fidelity experiments and broadly enabling clinical sequencing. This will be especially useful in applications that seek to detect low-frequency variants such as cancer screening, therapy optimization, minimal residual disease testing and prenatal genetic testing.
+As more companies develop their short-read sequencing solutions, we wanted to make sure that any technology we brought forward -- we bring forward is the most differentiated and can make the most significant impact, and we believe Omniome has that technology. Across the several sequencing applications and methods, both long reads and short reads have their advantages. Customers often have to trade off between read length and completeness, cost versus quality, supplier A versus supplier B.
+From a high-quality germline whole genome sequencing to liquid biopsy and counting applications, we believe we will be the only sequencing provider to address any customer need and be truly read length agnostic. At the end of the day, we want to provide our customers with the right solutions for the right experiments.
+We expect SBB's accuracy to be a differentiator in oncology in particular. In fact, preliminary data shows that is more accurate than conventional sequencing technologies. With higher accuracy, it significantly improves limit of detection at lower levels of sequencing depth. This ultimately allows the customer to flex between higher sensitivity or lower depth, depending on the application, and could potentially allow for sensitivity that is difficult to attain with other sequencing methods. Additionally, it can provide a more efficient way to get results because there is less need to over sample to improve quality.
+To that end, we also announced that we intend to expand our collaboration with Invitae to develop the SBB platform at scale to address applications requiring high depth of coverage and low limits of detection. This will occur upon the close of our proposed acquisition and is contingent upon PacBio's and Invitae's agreement of the associated terms.
+PacBio and Invitae will work together to leverage the improved accuracy and sensitivity of SBB chemistry to advance cancer diagnostics and pathogen detection. Additionally, we will work together to explore novel methods of integrating SBB chemistry with PacBio's HiFi genomes. Combining both highly accurate long- and short-read sequencing technologies, we expect to provide deeper clinical insights and lower the overall cost of analysis.
+With Omniome, PacBio will be uniquely positioned as the only commercial provider of highly accurate long- and short-read technologies. And as a combined company, we can make the most significant impact on sequencing. This acquisition creates an incredible value by delivering the best products to our customers, and it will drive lasting commercial synergies.
+First, on the product side, as a company with both long and short read offerings, we will maximize the success of both platforms by delivering integrated product opportunities. With the SBB chemistry, we will better serve our oncology customers and provide them with a solution that our long reads don't currently address.
+Additionally, Omniome's 100-plus person R&D organization combined with our highly experienced R&D team will tackle some of the most challenging problems in biology by leveraging each other's respective strengths. Omniome adds deep expertise in flow cell development and PacBio has extensive experience working in enzymology, surface chemistry and optics. I believe the cross-pollination of both of our R&D teams will be a true synergy in unexpected ways.
+And second, on the commercial side, the products we will launch using Omniome's technology will immediately increase our TAM upon launch. It will also allow us to accelerate demand for our Sequel platform as we will be able to reach more customers than ever before. By offering a portfolio across long and short reads, PacBio will improve market support and better manage the transition from short read approaches to long read approaches. It will also position us as the partner of choice, offering integrated solutions for any customer need.
+With that, I'd like to hand the call over to Richard Shen, President of Omniome, to share some thoughts. Richard?
+
+--------------------------------------------------------------------------------
+Min-Jui Shen,  Omniome, Inc. - President    [4]
+--------------------------------------------------------------------------------
+
+          Thank you, Christian. I couldn't be more excited about joining the experienced team at PacBio and the value that our combined organization can bring to our customers and investors. I am personally familiar with several of the leaders and team members at PacBio, and I know we all share the same values.
+Over the past decade, we have witnessed some of the most dramatic breakthroughs in sequencing technology. Throughput has increased by orders of magnitude and costs have dropped exponentially, yet accuracy has largely remained unchanged. We believe our SBB technology can be the chemistry that breaks that status quo in sequencing accuracy.
+Challenging the status quo has been our North Star at Omniome. To that end, I'd like to take a moment to recognize the Omniome employees for their accomplishments. Since the company's founding in 2013, our employees transformed an idea on paper to functional chemistry on the instrument that has the potential to reimagine the way we think about accuracy in short-read sequencing.
+We have grown from a start-up with a strong vision to a full organization that has manufactured over 10,000 flow cells to date. We've engineered instruments from prototype boxes to beta units ready for third-party validation and developed the chemistry from proof of concept to a workflow that has sequenced whole human genomes. We put a lot of sweat and some long nights into building Omniome.
+Now, I believe the technology and development programs are at the right stage to leverage PacBio's expertise to bring across the finish line and insert into a global commercial channel. I couldn't think of a better team to bring our years of hard work developing SBB into customers' hands. 
+With that, I'd like to pass it over to Susan Kim.
+
+--------------------------------------------------------------------------------
+Susan G. Kim,  Pacific Biosciences of California, Inc. - CFO    [5]
+--------------------------------------------------------------------------------
+
+          Thank you, Richard. As shared in our press release, PacBio will acquire Omniome for upfront consideration of approximately $600 million consisting of approximately 9.4 million shares and approximately $300 million in cash, plus an additional $200 million in cash and stock payable upon first commercial shipment of an SBB sequencer.
+The acquisition is subject to satisfying closing conditions, including regulatory approvals, and we expect the transaction to close within the next few months. We expect continued investment in operating expenses, mainly research and development costs, on the path to commercialization. Assuming the transaction closes before October 1, we expect fourth quarter incremental expenditures in the range of $12 million to $19 million, excluding any merger-related expenses. We look forward to providing more details once the acquisition closes.
+Concurrently with our announcement to acquire Omniome and subject to closing of the transaction, we shared plans to raise $300 million in PIPE financing from a group of premier life science investors. While PacBio was already very well capitalized, this financing maintains our flexibility to keep investing in our multiple development and commercial activities as we introduce new instruments to the market over the next few years.
+The financing comes from a handful of our top stockholders led by Casdin Capital and represents their continued conviction in PacBio's strategy to bring the most advanced biological solutions to market for our customers. In terms of pricing, we will issue approximately 11.2 million shares at $26.75 per share, which represents approximately 1.8% discount to the closing price as of July 19.
+Looking ahead, we anticipate initial commercial launch of our first SBB-based systems no earlier than the first half of 2023. We will also be increasing the investment in the platform to enable SBB on various throughput platforms to more broadly deliver this technology at scale.
+Finally, before I turn it back to Christian, I'm pleased to share that we achieved another record in product and services revenue in the second quarter. Our preliminary unaudited second quarter revenues were approximately $30.5 million, representing a growth of 78% over the second quarter of last year. We continue to be pleased with Sequel II and IIe's adoption as we installed 38 systems in the quarter, bringing the total installed base to 282 at quarter end. This is almost double the number installed at the end of the second quarter of 2020.
+Full results for the quarter are not yet available, and I look forward to providing more detail in a couple of weeks when we report our second quarter earnings. Now back to Christian.
+
+--------------------------------------------------------------------------------
+Christian O. Henry,  Pacific Biosciences of California, Inc. - President, CEO & Director    [6]
+--------------------------------------------------------------------------------
+
+          I want to wrap it up by first reiterating that our conviction has never been stronger that a HiFi genome is the genome for germline clinical whole genome sequencing. We are already making great progress in positioning HiFi as a leading technology in clinical sequencing.
+Researchers worldwide are using PacBio solutions to investigate areas of the genome previously undetected with other technologies. Organizations like Rady's, Children's and Children's Mercy Kansas City apply HiFi to some of their most complex cases. Leading genomics labs like Berry Genomics, Invitae, and Asuragen are developing targeted clinical panels using HiFi across areas like thalassemia, childhood epilepsy and carrier screening. We expect to continue to grow our clinical collaborations, adding new technology to our product offerings, and this will only strengthen these collaborations.
+In closing, combining Omniome with PacBio is consistent with our strategy to provide the most advanced solutions for biology. In life sciences, scale matters, and Omniome's technology will enable us to reach more customers with the differentiated chemistry that can drive greater discoveries, especially in high-growth clinical markets.
+For too long, the sequencing landscape has been bifurcated into long reads versus short reads. Today marks a shift in that narrative. PacBio will be uniquely positioned as the only sequencing solution provider for both long and short read applications.
+With that, I would like the operator to begin the question-and-answer session.
+
+
+================================================================================
+Questions and Answers
+--------------------------------------------------------------------------------
+Operator    [1]
+--------------------------------------------------------------------------------
+
+          (Operator Instructions) Your first response is from Doug Schenkel of Cowen.
+
+--------------------------------------------------------------------------------
+Doug Schenkel,  Cowen and Company, LLC, Research Division - MD & Senior Research Analyst    [2]
+--------------------------------------------------------------------------------
+
+          Congratulations on the transaction. I want to talk about 3 things: differentiation, diligence and broader strategy. So starting on differentiation. The biggest thing you noted when it comes to the Omniome platform in terms of where you view it being differentiated is accuracy. And while better accuracy is always better, it isn't clear to me that this in itself is going to be an important point of differentiation relative to Illumina.
+Yes, there are applications where it matters and of course, better is better. But in most applications, Q30 is more than sufficient. When I've looked at Omniome in the past, other points of differentiation have been less clear. More specifically, on the surface I believe most users would be more excited if they had to choose about a lower cost, quicker, more flexible, higher throughput instrument versus looking for something that's just purely a bit more accurate.
+Are there things you envision doing with this technology to create other points of differentiation? And then are there ways you can advance an integrated platform that integrates both long- and short-read sequencing? Because I think that in itself -- those things would arguably be a lot more interesting than just a slightly more accurate short read box.
+
+--------------------------------------------------------------------------------
+Christian O. Henry,  Pacific Biosciences of California, Inc. - President, CEO & Director    [3]
+--------------------------------------------------------------------------------
+
+          So Doug, I appreciate the question, and thanks for participating today. So there's a lot to unpack there. First and foremost, the level of accuracy differentiation is actually very transformative. It's more than an order of magnitude different. And the reality there is that when you're looking at applications where you need a low limit of detection, say, 1% limited detection, the amount of sequencing that you have to do to achieve the same limit of detection is dramatically lower because of the error profile.
+That matters a lot in oncology applications, as you can imagine. So that's the first thing I would say about the accuracy matters. It does matter. Slightly better accuracy, I would agree with you, but this is dramatically different. It's on a completely different curve. So that's the first thing I would say.
+The second thing I would talk about, when you think about differentiation, you're right. What we've already seen -- what we've already seen internally on the PacBio side is that we have technical capabilities that will help with density, which will drive cost, which will drive all of the other aspects of the technology to be competitive and differentiated from others. Now -- that is -- that's what's so exciting to me, is that we've got the team on the PacBio side that can -- and some of the technology on the PacBio side that we can leverage on the Omniome side.
+And then finally, you're right. Integrated products are going to be key. And it's -- we're going to integrate in a lot of different ways. Sure, we'll start with commercial integration in the sense of bundling different products and of the like and making it a value proposition for our customers that want to do both long- and short-read sequencing. But over the long run or the midterm even, finding new ways to combine the technologies into integrated products, that's going to be a really important aspect of this.
+And it's actually one of the reasons why we're expanding our collaboration with Invitae is we can work with them to explore those integrated product opportunities and get those out to market. So I think there's a number of different fronts where this acquisition into our portfolio enables us to become a much more well-rounded, much more competitive company. It also enables us, Doug, to be able to sell long-read sequencers into accounts that we haven't historically got into.
+So the way I look at this is it's a great way for us to expand our TAM and reach more customers. It's a differentiated technology that allows us to, especially in those high-value oncology markets, really offer a fundamentally different product than the market has seen before. And then finally, it really allows us to expand our long-read sequencing revenue because we believe this enables us to get to places where we haven't been able to get to before. Hopefully, that answers some of your questions.
+
+--------------------------------------------------------------------------------
+Doug Schenkel,  Cowen and Company, LLC, Research Division - MD & Senior Research Analyst    [4]
+--------------------------------------------------------------------------------
+
+          Okay. Yes. And maybe building off of that, because I agree with a lot of it. But I think the other important component is, how do you get comfortable that this is going to work? And you know as well as anyone, Christian, that there's a long history of companies projecting where they're going to be in 1 to 2 years and comparing that to where Illumina is today. That usually doesn't work out very well. And again, you know that as well as anyone.
+How did you get comfortable with this, keeping in mind commercial launch is 1.5 to 2 years away? I mean I know you have a lot of capable people around you. I know you're great at this. But in terms of outside validation, what could you point to that kind of got you comfortable that this is going to be different?
+
+--------------------------------------------------------------------------------
+Christian O. Henry,  Pacific Biosciences of California, Inc. - President, CEO & Director    [5]
+--------------------------------------------------------------------------------
+
+          Well, I think the first thing is that the team that Omniome brings to the table. So Richard, I've worked with Richard for many, many years. And as you probably do know, Doug, he was an important component of the success in the past. And so having the intellectual talent around the table at Omniome is super helpful.
+Where they actually are in their product development, they're -- the products in the current state are actually ready to go to beta test already. We're just going to slow the development down just a bit so that we can continue to improve kind of the density and some of the other cost metrics by leveraging some of the PacBio technology. 
+And so that's why we're slowing the development down a little bit. But the technology is working. They have a working instrument that is in pretty good shape, where they have, as we pointed out in the prepared remarks, it is a flow cell-based system, and they -- and that's an area where PacBio doesn't have a ton of expertise, but they have already produced over 10,000 flow cells and have a pretty robust process there that will only get better with time.
+But you're right, the competition is going to be fierce in this space. And so having a multi product portfolio, I think, allows us to compete against emerging competitors. And then against established competitors, I do think having differentiated products will help us get into some of these markets. And at the end of the day, the world is different, Doug, today.
+The -- we're not saying that we're going to capture 70% market share, right? What we're saying is that if we can -- relative to the value of the acquisition of that [work], the costs that we're paying and the opportunity that's in front of us, if we capture 4%, 5% market share, this becomes a very successful project. And that's -- I'm being very conservative there in my thinking. I also think our product development is going to go quite well.
+And so I don't -- I think that we're -- obviously, today, we're just announcing the deal. We don't know when it's going to close. So we're being reasonably conservative on how we think about when these products will actually get to market.
+
+--------------------------------------------------------------------------------
+Doug Schenkel,  Cowen and Company, LLC, Research Division - MD & Senior Research Analyst    [6]
+--------------------------------------------------------------------------------
+
+          Okay. That's super helpful. And last one, Christian, and then I'll let others hop in. From a strategy standpoint, I mean, it seemed pretty clear subsequent to the last financing and based on some of our subsequent conversations that it sure seems like PacBio had ambitions to diversify the product portfolio and leverage the company's growing R&D and commercial infrastructure. You actually maintain pretty much close to the same financial flexibility with the structure of this transaction.
+So with that in mind, 2 questions. How ready is PacBio to do the next deal? And two, what investment needs to be made to support the combined business and to really position PacBio to support technical advancements, optimization, manufacturing and commercial launch of additional technologies? Because it sure seems like there is a path here to move not just into sequencing further, but into other adjacencies, maybe single cell or maybe even proteomics. Where is the infrastructure today? And where does it need to be to support that position?
+
+--------------------------------------------------------------------------------
+Christian O. Henry,  Pacific Biosciences of California, Inc. - President, CEO & Director    [7]
+--------------------------------------------------------------------------------
+
+          Yes, that's a great question, Doug. And you're right. We are building PacBio to be a multi product portfolio with lots of different technologies. And in some respects, that's why I've hired such a strong leadership team for the size company we are so that we can absorb and handle different acquisitions, different technologies, development across locations, which are all complex endeavors to make sure you do -- you execute well.
+But I think at this point, you nailed it in the sense that the financing actually maintains our complete financial flexibility and an unencumbered view towards developing both the long read technology and the Omniome technology, but also looking at the broader market. I think in my prepared comments, I said scale, I think, is going to matter a lot in these businesses down the road. And I want us to have a broad product portfolio so we can delight our customers with the solutions that they want, working with the partner that they want to work with.
+And I think that we have -- we're set up quite well for that now, and we can absorb more from here. And you're right. We're not done with this transaction. However, I want to make sure we execute exceptionally well. So we'll be thoughtful about how we look at our corporate development activities.
+I think the last thing I would add is there is synergy operationally between the 2 companies. So instrument manufacturing, for example, because a lot of instrument manufacturing is outsourced so we can get greater leverage from suppliers, which will help drive costs down and help drive redundancy and efficiency. And as we scale the commercial organization, as you know, we're investing heavily in that and we're going to continue. We'll be able to plug the Omniome products, the go to -- right into our commercial infrastructure and go to market much faster than other emerging competitors, for example. 
+So there's a lot of excitement around this strategy. I think it continues to be sound, and we have a lot of support from our investors as evidence from this PIPE that we announced this morning for this trade.
+
+--------------------------------------------------------------------------------
+Operator    [8]
+--------------------------------------------------------------------------------
+
+          Your next response is from Tycho Peterson of JPMorgan.
+
+--------------------------------------------------------------------------------
+Tycho W. Peterson,  JPMorgan Chase & Co, Research Division - Senior Analyst    [9]
+--------------------------------------------------------------------------------
+
+          Christian, as you guys well know, the FTC is blocking a lot in health care these days. What gives you confidence that you're not going to have real issues here from an antitrust perspective? Obviously, if you look at the broader sequencing market, you guys are relatively small, but it's just unclear whether FTC is going to put more scrutiny on it. So can you maybe talk to that angle?
+
+--------------------------------------------------------------------------------
+Christian O. Henry,  Pacific Biosciences of California, Inc. - President, CEO & Director    [10]
+--------------------------------------------------------------------------------
+
+          Well, Tycho, thank you for the question. We obviously did consider FTC risk and exposure carefully as we were working through this, our diligence, in the process. And we believe that this transaction actually drives more competition into the market fundamentally and that having a short-read sequencing technology that is well capitalized with an experienced management team can drive more competition into the market.
+We also believe, for example, the announcement of our intent to expand Invitae collaboration demonstrates customer desire to have alternatives, and so we think that, that will be useful. We are prepared to manage through the FTC process. But it's our belief, based on our analysis, that we think this project in particular enables more competition in the market, greater choice for customers and kind of goes to the fundamentals of why the FTC exists.
+So we're hopeful that it will be a straightforward process. But Tycho, as you know, all of these things are fraught with some risk, and so we're prepared to manage it.
+
+--------------------------------------------------------------------------------
+Tycho W. Peterson,  JPMorgan Chase & Co, Research Division - Senior Analyst    [11]
+--------------------------------------------------------------------------------
+
+          And then I guess, sticking with risk, is there any technical development risk from your perspective? I know you talked about products ready to go to beta test and for commercial launch in the first half of '23. But if we think about kind of the hardware, the chemistry, has that all been derisked at this point? Or are there breakthroughs you're still relying on?
+
+--------------------------------------------------------------------------------
+Christian O. Henry,  Pacific Biosciences of California, Inc. - President, CEO & Director    [12]
+--------------------------------------------------------------------------------
+
+          Yes. The vast majority of the risks have been retired. They have an instrument that works and works well. We're going to spend a bit of time improving kind of the industrial design and user interface a little bit in the near term. The sequencing chemistry is very far along and very robust.
+We're working on the clustering methods and making sure we have the appropriate cluster methods that give us the right numbers of reads per flow cells so that we have both the right level of throughput and low cost as well as the accuracy. And that's an area that we're working on and we'll be developing out over the next year.
+And of course, informatics. I don't think the informatics journey ever ends. And so we're developing out their informatics capability. What's exciting is that we'll be able, from the get-go, to leverage our SMRT Link capability, which is connected to the vast majority of PacBio sequencers. We'll be able to leverage that at launch for the Omniome technology, which will give us deeper insight. It will make it easier for our customers. And it will help us put us on a path towards more deeply integrated informatics tools looking at long and short reads together and just simplifying the whole process for customers across the board.
+So largely retired risks. Obviously, there's lots of development to do and lots of work to get the products out. And perhaps the area that we're working on the most is kind of making sure we get the number of reads where we need it to be on the clustering side.
+
+--------------------------------------------------------------------------------
+Tycho W. Peterson,  JPMorgan Chase & Co, Research Division - Senior Analyst    [13]
+--------------------------------------------------------------------------------
+
+          And then if we think about applications, I know you highlighted a handful of targeted cancer panel, single-cell NIPT, MRD and so on. Obviously, Illumina is fairly well entrenched in a lot of those markets and their accuracy hasn't necessarily been an issue there.
+So in your mind, are there particular killer applications that could emerge earlier? Are there areas where customers, in your view, would want both short and long read if you do launch a hybrid system? And then can you comment at all on cost? We heard a lot about the accuracy advantages. Where do you think you're going to come out on cost?
+
+--------------------------------------------------------------------------------
+Christian O. Henry,  Pacific Biosciences of California, Inc. - President, CEO & Director    [14]
+--------------------------------------------------------------------------------
+
+          Yes. Well, starting with the cost question. I do think the accuracy is important. But if we don't have costs that are on par with the market, we might get some traction, but we won't get substantial traction. And so it's my full expectation that the cost profiles are going to be consistent with where the short-read technologies are today and where they're going to be tomorrow as well. I think that was -- we're thinking about where the market will be tomorrow, not where it is today to get these products out.
+So that's first and foremost. With respect to the application set, I do think there's no question the SBS leaders have done a great job of building out that market. However, there is real opportunity in cell-free and in MRD, et cetera, where we can get engaged in fact and become part of the solution with our highly accurate competitive capabilities. And we don't have to create that much market share in order to significantly alter the trajectory of PacBio's revenue and profitability as well.
+So I look at this as a play for us to basically continue driving the long read thesis into the market by leveraging the opportunity to get into some of these short read applications and customers. I also look at it as an ability for some of the customers to see, particularly in the oncology area and potentially the NIPT area as well, see the benefits of the accuracy.
+I mean, I know we've talked a lot about accuracy on this call, but the reality is, is that we're talking about more than an order of magnitude different between -- difference between the current state and where we are. And so I think that does give us some unique advantages that will enable us to get some market share.
+
+--------------------------------------------------------------------------------
+Tycho W. Peterson,  JPMorgan Chase & Co, Research Division - Senior Analyst    [15]
+--------------------------------------------------------------------------------
+
+          And then on Invitae, it was great to see you expanded the collaboration. I guess, does this impact the time lines in your view on the original partnership in terms of that development road map, if they're going to start to look at embracing Omniome? Or do you think those would be kind of viewed separately?
+
+--------------------------------------------------------------------------------
+Christian O. Henry,  Pacific Biosciences of California, Inc. - President, CEO & Director    [16]
+--------------------------------------------------------------------------------
+
+          They're going to be viewed separately. There is no way we are going to let this jeopardize our time line on the long read platform. One of the things I told our Vice President level group yesterday on a pre-call was that the crown jewel, so to speak, is our long-read sequencing capability, and we're not going to slow any of those projects down. We're going to, in fact, continue to accelerate them the best we can. And that's another reason why, Tycho, we did the financing, so we can be completely unencumbered in how we approach addressing the market and the product development.
+
+--------------------------------------------------------------------------------
+Tycho W. Peterson,  JPMorgan Chase & Co, Research Division - Senior Analyst    [17]
+--------------------------------------------------------------------------------
+
+          Okay. Last one for me. Just actually want to focus on the 2Q numbers. You had a bit of upside, maybe not as much as you had in the first quarter. But as we think about just the underlying trends and strength in the market, any commentary you want to make on how 2Q shook out? And anything you could say about 3Q, do you expect it to be flat up or down sequentially?
+
+--------------------------------------------------------------------------------
+Christian O. Henry,  Pacific Biosciences of California, Inc. - President, CEO & Director    [18]
+--------------------------------------------------------------------------------
+
+          Yes. So I'm not going to comment today on Q3. We're still doing our analysis and the field teams are still rolling up their detailed forecast, but we'll be prepared to talk about that in a couple of weeks in -- more wholesomely. Q2 actually was a great quarter. We had very strong consumables. So we're starting to see the benefit of really pushing on driving installations of instrumentation. You've seen -- we've had strong installation numbers over the last several quarters, and that's really starting to pay some dividends on the consumables side.
+On the instrument side, as I keep talking about on these conference calls that -- from quarter-to-quarter, we're going to see variability in terms of multisystem orders, strengths and weaknesses in different geographic regions et cetera. And I thought the quarter was a good quarter on the instrument side. There's a lot of opportunity and demand out there for the back half of the year, and so we continue to grow.
+We had -- I think it was about 78% growth on a year-over-year basis. It was right in line with, kind of where we were with respect to growth sequentially. And so I'm actually quite happy with the state of the business from a fundamental level. Susan will talk a lot about gross margins and all those other things on the call later in the quarter as the books aren't -- the auditors aren't through the books yet. So it takes a bit of time to get all that done.
+
+--------------------------------------------------------------------------------
+Operator    [19]
+--------------------------------------------------------------------------------
+
+          Your next response is from Tejas Savant with Morgan Stanley.
+
+--------------------------------------------------------------------------------
+Tejas Rajeev Savant,  Morgan Stanley, Research Division - Equity Analyst    [20]
+--------------------------------------------------------------------------------
+
+          So one big picture question for you, Christian. Can you just walk us through how you arrived at your decision to go with Omniome versus some of the other emerging short-read technologies out there? Element Bio, et cetera. Is there something specific about the technology that makes it a particularly good fit for -- with HiFi sequencing?
+
+--------------------------------------------------------------------------------
+Christian O. Henry,  Pacific Biosciences of California, Inc. - President, CEO & Director    [21]
+--------------------------------------------------------------------------------
+
+          Yes, I think so. Thanks for the question. The SBB chemistry is differentiated from SBS chemistry and the other -- most of the other emerging competitors are using some variants of SBS. And for us, SBB is fundamentally differentiated. And the -- we were -- to be honest, we were very pleasantly surprised at how powerful the accuracy really was when we sent the Omniome team genomes to be sequenced during the diligence. I think all of us were very pleasantly surprised to see how high quality they were.
+And when you think about PacBio and HiFi, you think about the highest quality sequencing in the market. This technology promises to be the highest quality, highest quality short-read sequencing technology in the market. And so we start to really leverage that theme of being the most accurate on the market. And we think with the accuracy, you get the opportunity to give customers flexibility where -- to either sequence more deep -- to either sequence the equivalent depth of current state-of-the-art and get much, much lower limits of detection, or sequence much, much less at much lower cost and faster to get where the market is, at least today, on limits of detection for rare variants.
+And so that was interesting. I mean of course, we looked at -- we evaluated the whole market to the best of our ability. I think there's going to be a lot of players in this market because it is very significant opportunity. And that's another reason why we think PacBio is uniquely positioned to do well in this space because we already have the commercial infrastructure. When we deploy the products, we will deploy them globally on day 1 versus having to build out infrastructure. And so -- we have -- over the emerging competitors, we have, I do think some, potentially, a leg up.
+But obviously, there's also the market leaders, and they're going to continue to be the market leaders. And I think that, that's perfectly fine.  I think the days of one company owning all of the market are going to go by the wayside and we're going to see lots of different competitors because these markets are so large and there's so much opportunity, and they're growing at a really reasonably fast pace. So I'm very enthusiastic about how we can turn this into fast revenue growth for us, durable cash flows and drive our gross margin at the same time. So anyway, that was a mouthful there, Tejas. I hope I answered your question.
+
+--------------------------------------------------------------------------------
+Tejas Rajeev Savant,  Morgan Stanley, Research Division - Equity Analyst    [22]
+--------------------------------------------------------------------------------
+
+          Got it. No, that's helpful. And then I know you mentioned sort of being ready to launch beta access. I mean, are you willing to put sort of some sort of a time line around when you plan to launch kind of like a broader early access program ahead of that 1H '23 commercial rollout?
+
+--------------------------------------------------------------------------------
+Christian O. Henry,  Pacific Biosciences of California, Inc. - President, CEO & Director    [23]
+--------------------------------------------------------------------------------
+
+          Yes, we will launch a broad early access program in '22 in front of the launch. It will probably be more in the second half than the first half because we want to make sure that when we go to early access, it's much closer to full commercialization than early access.
+However, we'll start immediately collaborating with Invitae, for example, and others, on making sure that the chemistry and the whole platform actually is very robust and ready to go. And so I suspect you'll start seeing papers on the technology over time here, then we'll go into early access, and then first half of '23 would be my objective, our target for broad commercialization.
+So that's kind of what the schedule looks like. And remember, we have to get the acquisition closed first. So that is a bit of a gate. The Omniome team is not going to stop working, of course, but that has to get done as well before we really start integrating and combining the teams.
+
+--------------------------------------------------------------------------------
+Tejas Rajeev Savant,  Morgan Stanley, Research Division - Equity Analyst    [24]
+--------------------------------------------------------------------------------
+
+          Got it. And then do you envision, sort of, around that commercial launch, leveraging the same sales force across both platforms? And if so, I mean, what are you going to do to put some safeguards in place to make sure that they're sort of equally incentivized to sell the Sequel as they are to sell the Omniome instrument? And secondly, are there any opportunities that you foresee in terms of leveraging bundled pricing?
+
+--------------------------------------------------------------------------------
+Christian O. Henry,  Pacific Biosciences of California, Inc. - President, CEO & Director    [25]
+--------------------------------------------------------------------------------
+
+          Yes. Yes and yes. So on the sales force, we will sell it with our existing commercial organization. It's one of the -- it's actually one of the reasons why I've been trying to grow the sales organization really fast because it's been my vision to want to combine other technologies and put them into our portfolio. And I think the Omniome platform is perfect to leverage into that.
+I suspect we will have some short read specialists that will support the core sales force that -- so that we have the appropriate level of expertise across the entire market and all applications. I suspect we will end up with incentive plans that help our sales force focus where we'd like them to focus. But generally, we like to have our sales force focused on serving our customers and driving the total experience for those customers, whether they desire long read or short read. So it's likely we'll continue to have kind of the base compensation plans focused on the total dollars coming into accounts, and then we'll have specialist overlays.
+Of course, we will solve all of this as we get deeper into integration, but that would be the initial way that I would be thinking about it. With respect to bundling products, I think that's going to be really exciting. We'll be -- and it's actually one of the things that I think is most important about this opportunity today is our ability to sell a long read -- more long-read sequencers, more Sequel Systems into the market. 
+One, because we can reach more customers than ever before because we have more to talk about; two, we can engage with short read customers and then have them get integrated into the long-read sequencing paradigm. And so I think that this will drive holistically our entire business, not just the short read part of it. I think this is just as much about making sure that we can drive our long read business over time as it is about the short read opportunity itself.
+
+--------------------------------------------------------------------------------
+Tejas Rajeev Savant,  Morgan Stanley, Research Division - Equity Analyst    [26]
+--------------------------------------------------------------------------------
+
+          Got it. And then one final one for Susan. Can you share some details on the contingent milestones and what sort of triggers those payments? And then is there a breakup fee associated with the transaction [at all]?
+
+--------------------------------------------------------------------------------
+Susan G. Kim,  Pacific Biosciences of California, Inc. - CFO    [27]
+--------------------------------------------------------------------------------
+
+          Sure. So there -- starting with the latter question, there is no breakup fee with respect to this transaction. But as we mentioned, we do have to get to the close, and we think that we will close this transaction before the end of the quarter. And then with respect to the milestones, the $200 million milestone in cash and stock will be payable within 5 days of the first commercial shipment then (inaudible).
+
+--------------------------------------------------------------------------------
+Operator    [28]
+--------------------------------------------------------------------------------
+
+          Your next response is from Charles Duncan of Cantor Fitzgerald.
+
+--------------------------------------------------------------------------------
+Charles Cliff Duncan,  Cantor Fitzgerald & Co., Research Division - Senior Analyst    [29]
+--------------------------------------------------------------------------------
+
+          Christian and team, congratulations on this business broadening transaction. Looks pretty interesting. I had a couple of questions. So I had a couple of questions regarding, call it, the next 2 years and visibility on -- for us on the effectiveness of the transaction. I guess I'm wondering, are there certain wins that you're looking for with regard to business development strategy? 
+And then to me, more importantly, in terms of biotech analysts. I'm intrigued with the applications and any particular wins that you will look forward to in terms of early cancer screening or therapeutic optimization or whatever that you think will underscore your confidence in this transaction.
+
+--------------------------------------------------------------------------------
+Christian O. Henry,  Pacific Biosciences of California, Inc. - President, CEO & Director    [30]
+--------------------------------------------------------------------------------
+
+          Yes. That's a great question, and thanks, Charles, for that. The way I think about it is it does start with what we announced today, the Invitae collaboration and the expansion of that. I do anticipate that we will work to drive more collaboration similar to Invitae to explore kind of some of the different areas in oncology, perhaps prenatal diagnostics with some of these companies. And that will -- it's likely they would end up being publicly disclosed and we'd be able to talk about them.
+So I think that that's a -- that's one important kind of set of milestones. I suspect as we get into kind of the late-stage development and the early access programs having publications, sharing data, helping people see the power of the technology. I think that will all be quite powerful and useful and that will give you guideposts from which you can kind of assess our progress and our efficiency to our effectiveness, I guess, I should say.
+And then finally, on the business development strategy side in general, perhaps there are opportunities to engage with some of the other larger oncology or other type of players in new ways, both potentially integrating long- and short-read technology. And so I think there's a lot of opportunity out there in front of us. I think we have an excellent management team that has deep relationships with a lot of these people around the world, not just in the United States. And so I think that bodes well for us getting engaged with these people and driving the technology forward and showing the power of it.
+
+--------------------------------------------------------------------------------
+Charles Cliff Duncan,  Cantor Fitzgerald & Co., Research Division - Senior Analyst    [31]
+--------------------------------------------------------------------------------
+
+          Okay. That's helpful. Appreciate the added color and look forward to next couple of years, seeing that visibility. Regarding that -- however, regarding valuation, and I know this is often more art than science. But I'm wondering if you could point to any particular observations you made with regard to Omniome and the valuation that you arrived at for this acquisition. Anything in particular in terms of patents? Or is this more forward thinking in terms of PacBio's business opportunities?
+
+--------------------------------------------------------------------------------
+Christian O. Henry,  Pacific Biosciences of California, Inc. - President, CEO & Director    [32]
+--------------------------------------------------------------------------------
+
+          Well, I think all prudent acquisitions start with kind of the business opportunity, quite frankly, for me, at least. I'm a big fan of selling products to customers. I think that creates the biggest competitive advantages or moats, I guess, from a competitive perspective. And so it starts there. And of course, we built out our projections of what we think we can do in this business over time and use traditional valuation metrics to kind of assess the valuation. Of course, then we looked out in the world and there's no question that valuations are -- in the comps are higher.
+And so from my perspective, I think we were very disciplined in how we approached the valuation and how we approach the project. And at the end of the day, this is focused on execution. And I believe when you think about valuation, you also have to first assess, do you have the wherewithal to execute to try to achieve the goals and the milestones that you set forth that drive that valuation?
+And that's where I have a lot of confidence not only in the Omniome team, and I've got Richard sitting here right next to me, and he's got some very fantastic R&D folks that will help us, but also on the PacBio side across the whole board -- across the board from everything from HR and operations to product development and commercial. I think we're building a team that can really execute on these and drive the valuation. So all of those things were considered when we can -- when we thought about the valuation. And from my perspective, I feel like this is a very exciting opportunity for us to push this technology forward.
+
+--------------------------------------------------------------------------------
+Charles Cliff Duncan,  Cantor Fitzgerald & Co., Research Division - Senior Analyst    [33]
+--------------------------------------------------------------------------------
+
+          Okay. Last question for Susan. Appreciate that, Christian. Regarding that milestone -- $200 million milestone, I think you mentioned it's a combination of cash and stock. And I believe you mentioned no earlier than the first half of '23. Can you provide a little color on when you actually expect it to occur? And then perhaps more importantly, how much of it will be in cash roughly? And how much of it will be in stock?
+
+--------------------------------------------------------------------------------
+Susan G. Kim,  Pacific Biosciences of California, Inc. - CFO    [34]
+--------------------------------------------------------------------------------
+
+          Sure. So right now, what we're indicating is it is in the early 2023 time frame, and it's 50% cash and 50% equity. And the equity will be based off of the VWAP at that point in time, the volume-weighted average price. And so 50% cash, 50% stock.
+
+--------------------------------------------------------------------------------
+Operator    [35]
+--------------------------------------------------------------------------------
+
+          Your last response is from Jack Meehan of Nephron Research.
+
+--------------------------------------------------------------------------------
+Jack Meehan,  Nephron Research LLC - Research Analyst    [36]
+--------------------------------------------------------------------------------
+
+          Just had a couple of follow-ups on the platform itself. I was wondering if you could comment on where you intend to compete with the initial box on the throughput spectrum. And is there any color you can provide around the read length? Do you think there's any differentiation you can provide there?
+
+--------------------------------------------------------------------------------
+Christian O. Henry,  Pacific Biosciences of California, Inc. - President, CEO & Director    [37]
+--------------------------------------------------------------------------------
+
+          Yes. So with respect to the throughput, the initial product will be a mid-throughput type box with a significant number of read counts to enable low cost and get that product to market. And so you should expect kind of the mid-throughput billion read kind of level is kind of what we're looking at. Of course, that could vary, but it's -- that's kind of our -- where we're planning to go. With respect to the second -- the second question was, I'm sorry?
+
+--------------------------------------------------------------------------------
+Jack Meehan,  Nephron Research LLC - Research Analyst    [38]
+--------------------------------------------------------------------------------
+
+          The read length.
+
+--------------------------------------------------------------------------------
+Christian O. Henry,  Pacific Biosciences of California, Inc. - President, CEO & Director    [39]
+--------------------------------------------------------------------------------
+
+          Yes. So one of the things that's actually quite interesting about this technology is because we don't see a lot of molecular damage, there is potential to do some longer read lengths. But it's -- you shouldn't expect this to be a long read sequencer by any stretch. This will be focused on short reads, 150 to 300 bases probably, and that would be -- so that'd be pretty competitive in the market.
+And that's where we plan to start with the products. Perhaps we end up doing a little bit better than that over time. But right now, that's probably too early for us to say. And of course, since we have a long-read technology, we're going to really focus on having our long-read technology be the long-read technology and the short-read technology be the short-read technology.
+
+--------------------------------------------------------------------------------
+Jack Meehan,  Nephron Research LLC - Research Analyst    [40]
+--------------------------------------------------------------------------------
+
+          Great. And just my last question. I was curious if you could weigh in on freedom to operate relative to SBS. This sounds fundamentally different with SBB, but just wanted to confirm whether or not you see any issues relative to some of the core IP that's kept other competitors out of the U.S. market.
+
+--------------------------------------------------------------------------------
+Christian O. Henry,  Pacific Biosciences of California, Inc. - President, CEO & Director    [41]
+--------------------------------------------------------------------------------
+
+          Yes. That's another great question. And of course, in diligence, we spent a lot of time on the FTO and basically the landscape. There's a lot of strong intellectual property around the world for short-read sequencing. And we believe -- we stand by our intellectual property, and we believe that we will be able to launch products and sell those products.
+But of course, intellectual property is always a -- there's always a lot to it. And at this point, based on our analysis, we feel like we have a very strong path forward. But we do respect the intellectual property of others, and there's a lot in this space. And so that's what we've done. So we have done extensive analysis, of course, in order to get to this point. So I'll leave it at that.
+
+--------------------------------------------------------------------------------
+Operator    [42]
+--------------------------------------------------------------------------------
+
+          There are no further responses in the queue at this time.
+
+--------------------------------------------------------------------------------
+Christian O. Henry,  Pacific Biosciences of California, Inc. - President, CEO & Director    [43]
+--------------------------------------------------------------------------------
+
+          Well, I'd like to thank everyone for their time and attention this morning. We're really excited about this opportunity. We appreciate everyone's support, and we look forward to updating you as we make progress over the course of getting this acquisition closed and then the integration and the product development thereafter. Thank you for your time.
+
+--------------------------------------------------------------------------------
+Operator    [44]
+--------------------------------------------------------------------------------
+
+          Ladies and gentlemen, this concludes today's conference. Thank you for your participation, and have a wonderful day. You may all disconnect.
+
+
+
+
+
+
+
+--------------------------------------------------------------------------------
+Definitions
+--------------------------------------------------------------------------------
+PRELIMINARY TRANSCRIPT: "Preliminary Transcript" indicates that the 
+Transcript has been published in near real-time by an experienced 
+professional transcriber.  While the Preliminary Transcript is highly 
+accurate, it has not been edited to ensure the entire transcription 
+represents a verbatim report of the call.
+
+EDITED TRANSCRIPT: "Edited Transcript" indicates that a team of professional 
+editors have listened to the event a second time to confirm that the 
+content of the call has been transcribed accurately and in full.
+
+--------------------------------------------------------------------------------
+Disclaimer
+--------------------------------------------------------------------------------
+Refinitiv reserves the right to make changes to documents, content, or other 
+information on this web site without obligation to notify any person of 
+such changes.
+
+In the conference calls upon which Event Transcripts are based, companies 
+may make projections or other forward-looking statements regarding a variety 
+of items. Such forward-looking statements are based upon current 
+expectations and involve risks and uncertainties. Actual results may differ 
+materially from those stated in any forward-looking statement based on a 
+number of important factors and risks, which are more specifically 
+identified in the companies' most recent SEC filings. Although the companies 
+may indicate and believe that the assumptions underlying the forward-looking 
+statements are reasonable, any of the assumptions could prove inaccurate or 
+incorrect and, therefore, there can be no assurance that the results 
+contemplated in the forward-looking statements will be realized.
+
+THE INFORMATION CONTAINED IN EVENT TRANSCRIPTS IS A TEXTUAL REPRESENTATION
+OF THE APPLICABLE COMPANY'S CONFERENCE CALL AND WHILE EFFORTS ARE MADE TO
+PROVIDE AN ACCURATE TRANSCRIPTION, THERE MAY BE MATERIAL ERRORS, OMISSIONS,
+OR INACCURACIES IN THE REPORTING OF THE SUBSTANCE OF THE CONFERENCE CALLS.
+IN NO WAY DOES REFINITIV OR THE APPLICABLE COMPANY ASSUME ANY RESPONSIBILITY FOR ANY INVESTMENT OR OTHER
+DECISIONS MADE BASED UPON THE INFORMATION PROVIDED ON THIS WEB SITE OR IN
+ANY EVENT TRANSCRIPT. USERS ARE ADVISED TO REVIEW THE APPLICABLE COMPANY'S
+CONFERENCE CALL ITSELF AND THE APPLICABLE COMPANY'S SEC FILINGS BEFORE
+MAKING ANY INVESTMENT OR OTHER DECISIONS.
+--------------------------------------------------------------------------------
+Copyright 2023 Refinitiv. All Rights Reserved.
+--------------------------------------------------------------------------------

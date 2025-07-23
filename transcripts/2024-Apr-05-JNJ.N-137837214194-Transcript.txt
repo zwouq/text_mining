@@ -1,0 +1,329 @@
+
+
+Refinitiv StreetEvents Event Transcript
+E D I T E D   V E R S I O N
+
+Johnson &amp; Johnson to Discuss the Acquisition of Shockwave Medical Inc Call
+APRIL 05, 2024 / 12:30PM GMT
+
+================================================================================
+Corporate Participants
+================================================================================
+
+ * Joaquin Duato
+   Johnson & Johnson - CEO & Chairman
+ * Douglas E. Godshall
+   Shockwave Medical, Inc. - President, CEO & Director
+ * Jessica Moore
+   Johnson & Johnson - VP of IR
+ * Joseph J. Wolk
+   Johnson & Johnson - Executive VP & CFO
+ * Timothy Schmid
+   Johnson & Johnson - Executive VP & Worldwide Chairman of MedTech
+
+================================================================================
+Conference Call Participiants
+================================================================================
+
+ * Danielle Joy Antalffy
+   UBS Investment Bank, Research Division - Analyst
+ * Louise Alesandra Chen
+   Cantor Fitzgerald & Co., Research Division - MD & Senior Research Analyst
+ * Shagun Singh Chadha
+   RBC Capital Markets, Research Division - Research Analyst
+ * Lawrence H. Biegelsen
+   Wells Fargo Securities, LLC, Research Division - Senior Medical Device Equity Research Analyst
+ * Terence C. Flynn
+   Morgan Stanley, Research Division - Equity Analyst
+ * Jayson Tyler Bedford
+   Raymond James & Associates, Inc., Research Division - MD & Senior Medical Supplies and Devices Analyst
+ * Travis Lee Steed
+   BofA Securities, Research Division - MD
+ * Christopher Thomas Schott
+   JPMorgan Chase & Co, Research Division - Senior Analyst
+
+================================================================================
+Presentation
+--------------------------------------------------------------------------------
+Operator    [1]
+--------------------------------------------------------------------------------
+Good morning and welcome to Johnson & Johnson's Investor Conference Call. (Operator Instructions) This call is being recorded. (Operator Instructions)
+I'd now like to turn the conference call over to Johnson & Johnson. You may begin.
+
+--------------------------------------------------------------------------------
+Jessica Moore,  Johnson & Johnson - VP of IR    [2]
+--------------------------------------------------------------------------------
+Thank you, Kevin, and welcome, everyone. This is Jessica Moore, Vice President of Investor Relations for Johnson & Johnson. We appreciate everyone joining us on such short notice to review today's exciting announcement that Johnson & Johnson has entered into a definitive agreement to acquire Shockwave Medical.
+Joining me on today's call from Johnson & Johnson are Joaquin Duato, Chairman and Chief Executive Officer; Tim Schmid, Executive Vice President and Worldwide Chairman of MedTech; and Joe Wolk, Executive Vice President and Chief Financial Officer. We are also pleased to be joined by Doug Godshall, President and Chief Executive Officer of Shockwave Medical.
+Please note that today's presentation and statements from both companies are or may be considered forward-looking statements. Please refer to each company's website for their publicly available SEC filings that identify certain factors which could cause actual results to differ materially from those projected in any forward-looking statements made today. Investors are therefore cautioned not to rely on these forward-looking statements. The companies do not undertake to update any forward-looking statements as a result of new information or future events.
+You can also find today's presentation on the Investor Relations section of the Johnson & Johnson website at investor.jnj.com, following the call.
+Moving to today's agenda. Joaquin will start by providing a high-level overview of the strategic rationale and how the addition of Shockwave further extends Johnson & Johnson MedTech's position in cardiovascular intervention and accelerates its shift into higher growth markets. Doug will then provide a brief overview of Shockwave. Tim will then go into more detail on how Shockwave's clinical profile fits into our MedTech strategy and the growth opportunities we see for the business moving forward. Finally, Joe will cover the financial details and Shockwave's growth potential. We will then open the call to questions for J&J's management.
+As a reminder, we are in our quiet period and will only be answering questions related to this transaction. We expect the call to last up to 45 minutes.
+I'll now turn the call over to Joaquin.
+
+--------------------------------------------------------------------------------
+Joaquin Duato,  Johnson & Johnson - CEO & Chairman    [3]
+--------------------------------------------------------------------------------
+Thanks, Jess, and thank you, everyone, for tuning in. Today, we announced that Johnson & Johnson has entered into a definitive agreement to acquire Shockwave Medical. This is an exciting deal for Johnson & Johnson. With our focus on Innovative Medicine and MedTech, Johnson & Johnson has a long history of tackling cardiovascular disease. The acquisition of Shockwave, with its leading intravascular lithotripsy, or IVL technology, provides a unique opportunity to accelerate our impact in the high-growth market of cardiovascular intervention and is consistent with our strategy of becoming a best-in-class MedTech company.
+Shockwave is a leading first-to-market provider of IVL technology for the treatment of calcified coronary artery disease and peripheral artery disease, two of the highest growth innovation-oriented segments in cardiovascular intervention. Shockwave offers the only commercially available IVL treatment, which is the only technology that can treat both intimal and medial calcification. Since its first product launch in 2017, Shockwave has simply, safely and effectively treated approximately 400,000 patients globally in about 70 countries.
+The proposed acquisition extends the breadth of our capabilities and the depth of our cardiovascular portfolio. In fact, Shockwave's IVL technology is complementary to Abiomed's heart recovery platform.
+The acquisition of Shockwave, together with Abiomed and Laminar, complements Johnson & Johnson's established global leadership position in electrophysiology through Biosense Webster, building a highly differentiated cardiovascular portfolio. When the Shockwave transaction is completed, Johnson & Johnson MedTech will be a category leader in four high-growth cardiovascular segments.
+With our commercial capabilities, cardiovascular expertise and reach and scale, we expect to accelerate the impact of Shockwave's innovative technology and pipeline, helping advance the standard of care for patients with calcified arterial disease around the world. This will accelerate sales growth and be accretive to operating margin for both Johnson & Johnson and Johnson & Johnson MedTech.
+We are energized by this deal. Johnson & Johnson is unique in our industry in that we aim to impact the entire patient pathway in ways no other company can. Today's announcement is another example of that. It reflects what we shared at our December Enterprise Business Review, that Johnson & Johnson will lead the next wave of health innovation; that we are committed to making our MedTech business a best-in-class performer; that we will accelerate growth at the upper range of our MedTech markets through commercial execution, differentiated innovation and by moving into higher-growth markets; and that we will deliver on the responsibilities outlined in our credo.
+The addition of Shockwave is yet another milestone in our work to transform healthcare through breakthrough science and innovative technology. I want to say how much I have enjoyed getting to know Doug and the Shockwave team as we have worked through this process. We are confident in the cultural fit within our companies and believe that our shared patient-centric missions, the strength of Shockwave's current and future portfolio and Johnson & Johnson's capabilities and global scale will enable us to make a profound impact on the treatment of cardiovascular disease.
+And now I will pass the call to Doug. Doug?
+
+--------------------------------------------------------------------------------
+Douglas E. Godshall,  Shockwave Medical, Inc. - President, CEO & Director    [4]
+--------------------------------------------------------------------------------
+Thanks so much, Joaquin. I'm pleased to be here today -- with you today to talk about this transformative moment for Shockwave, our team and the patients we serve.
+Since our founding in 2009, Shockwave has been unrelenting our commitment to make a profound impact on the lives of patients. We're proud of the innovative work we have done to date to address the clinical needs of underserved patients worldwide, and we believe the best is yet to come.
+Some of you may be unfamiliar with Shockwave and intravascular lithotripsy, or IVL. So let me start with a primer on the remarkable technology our team has created. Many of you are likely familiar with extracorporeal lithotripsy, an approach that uses electrohydraulic emitters to deliver acoustic pressure waves in order to break up kidney stones. Our founders conceived of a way to downsize the emitters so they could be placed inside an angioplasty catheter and deliver the acoustic energy directly adjacent to calcified arterial lesions.
+Patients with calcified arteries have long been the most challenging population for interventional physicians to treat. Before IVL, the other options available to physicians were high-pressure balloons and atherectomy catheters. Both of these techniques carry risks, such as causing dissections, which is tearing of the vessel wall; or creating embolic debris which flows downstream during the procedure. Additionally, these approaches often fail to adequately modify the calcium, so the artery is unable to expand fully.
+Our goal with IVL has always been to deliver sufficient acoustic energy to crack the calcium without causing complications. Delivering shockwaves in the familiar form factor of a low-pressure angioplasty catheter has enabled many thousands of physicians globally to simply, safely and predictably treat these heavily calcified lesions that had long been their biggest challenge and frustration.
+Shockwave has revolutionized the treatment of coronary and peripheral artery disease, and our financial results reflect the outstanding capabilities of our teams across the globe to work collaboratively with our customers towards a shared goal of addressing this challenging patient population.
+Our core competencies in the clinical trial and market development and our culture of continuous innovation have fueled a solid pipeline of novel new designs that will expand IVL usage within our existing markets. We also look forward to extending the reach of our IVL platform into additional disease states, including carotid artery and structural heart disease. This robust R&D pipeline includes multiple therapies under development that are projected to meaningfully expand our opportunity over the coming years.
+We also believe our recent acquisition of the Reducer will enable us to create what will be an additional sizable new market with the first device-related solution for another unmet need within the cardiology: Refractory angina.
+In just 2 years, Shockwave's pipeline has quadrupled with 27 development programs underway today. The relentless innovation our R&D team has demonstrated and the obsession with creating better therapies for patients is one of my favorite things about Shockwave. It's special.
+Our agreement with Johnson & Johnson is a testament to the meaningful clinical value of our IVL platform and the significant growth still to come as we continue to advance our rich pipeline of innovative solutions. We are thrilled to become part of Johnson & Johnson and are confident that this is the right decision for our patients, our employees and all our company's stakeholders. As part of a larger, more diverse organization with broad expertise and a core focus on improving patient outcomes, we look forward to further solidifying IVL as the global standard of care for patients with calcified arterial disease. We're excited for our next chapter as part of Johnson & Johnson.
+I'll now turn the call over to Tim. Tim?
+
+--------------------------------------------------------------------------------
+Timothy Schmid,  Johnson & Johnson - Executive VP & Worldwide Chairman of MedTech    [5]
+--------------------------------------------------------------------------------
+Well, thank you so much, Doug. This acquisition clearly supports our declared strategy to shift our portfolio into higher-growth MedTech markets. We really couldn't be more excited to welcome Shockwave Medical to Johnson & Johnson MedTech and bring this innovative technology to more health care teams and more patients around the world. And Doug, I know none of this would have been possible without your particular leadership and the hard work and dedication of the full Shockwave team.
+At Johnson & Johnson MedTech, we have spent more than a century harnessing the power of medical technology and breakthrough innovation to elevate new standards of care. And in recent years, as we have expanded our position in high-growth cardiovascular markets, we have built market leadership positions in electrophysiology through Biosense Webster and heart recovery through Abiomed. And now with the addition of Shockwave, we will be the market leader in four of the largest and highest-growth MedTech markets within cardiovascular intervention.
+As you already heard, cardiovascular disease represents one of the most pressing areas of unmet medical need in healthcare today, and we believe we are uniquely positioned to transform the future of treatment for millions of patients worldwide. And let me reiterate, cardiovascular disease is the leading cause of mortality here in the United States, resulting in 875,000 deaths each year. It also causes poor heart function, heart attacks and reduced quality of life for 26 million patients annually worldwide.
+All forms of cardiovascular disease lead to heart failure, which is the #1 cause of hospitalization for patients over 65 in the United States and the #1 hospital cardiac mortality risk. Moreover, heart disease is the #1 health care cost driver today in the United States. To put it simply, the opportunity to make an impact is significant. And at Johnson & Johnson MedTech, we plan to lead the way.
+And here's how we'll do it. First, Shockwave's complementary clinical fit with Abiomed enhances the opportunity to serve more patients worldwide. With Shockwave's IVL technology and Abiomed's Impella heart pumps, they all play a critical role in complex percutaneous coronary intervention procedures. And to be clear, IVL is used in approximately 30% of high-risk PCI cases that also use Impella today. As we integrate Shockwave, we see numerous opportunities over time to accelerate distribution of these innovative technologies and reach more patients in need with an expanded treatment offering.
+Additionally, as Shockwave continues to advance its robust pipeline, we will leverage Johnson & Johnson's broad global presence and infrastructure to accelerate expansion. Shockwave will benefit from our trusted, well-established relationships with healthcare systems and physicians around the world, in addition to our deep regulatory and market access expertise and professional education capabilities. All of this will open opportunities to penetrate new markets and expand access to these critical treatment options.
+As we look ahead, after close, Shockwave will operate as a business unit within Johnson & Johnson MedTech similar to Abiomed. In addition to his current responsibilities for Abiomed as the Global Head of Heart Recovery, Michael Bodner will assume responsibility for Shockwave. Isaac Zacharias, who has been with Shockwave for 6 years, most recently serving as President and Chief Commercial Officer, will transition to become Worldwide President of Shockwave reporting to Michael. With this, Doug Godshall will transition to serve as a trusted adviser to ensure a smooth transition. I am personally grateful for his partnership, and I look to working closely with Doug, Isaac and the entire Shockwave team in this exciting next chapter.
+With that, let me turn it over to Joe to discuss the financials.
+
+--------------------------------------------------------------------------------
+Joseph J. Wolk,  Johnson & Johnson - Executive VP & CFO    [6]
+--------------------------------------------------------------------------------
+Thank you, Tim, and good morning, everyone. I'm pleased to have the opportunity to walk you through the financial details of the transaction announced today.
+Shockwave is a high-performing business in an underpenetrated category with a strong pipeline and attractive growth and margin profiles. We are confident Johnson & Johnson's global footprint, professional education capabilities, deep regulatory and market access expertise and well-established health system and physician relationships will enable the Shockwave business to achieve the full potential of its differentiated platform.
+As we previously stated, we are disciplined in our approach to inorganic growth, prioritizing acquisitions that fit strategically and present meaningful long-term growth opportunity. Through this transaction, we are adding a commercialized portfolio of technologies in a high-growth market, combined with a robust pipeline. We view this acquisition as a value-creation opportunity that positions us for improved top line and earnings growth over the long term while investing accordingly to capitalize on the value inherent to the Shockwave platform.
+We expect Shockwave to accelerate revenue growth for Johnson & Johnson and MedTech. The IVL market is in the early days of scaling up, as reflected in Shockwave's growth of approximately 50% in 2023. With further U.S. and OUS procedure patient and sustained innovation, we anticipate Shockwave becoming Johnson & Johnson MedTech's 13th priority platform with annual sales of at least $1 billion.
+We are planning for minimal cost synergies, preferring to invest for growth while still delivering operating margin accretion. The same approach has worked very well for us with the Abiomed acquisition.
+We expect to fund the transaction through a combination of cash on hand and debt. Due to expected financing costs, we estimate adjusted earnings per share dilution of approximately $0.10 in 2024 and $0.17 in 2025.
+In terms of the structure of the transaction, Johnson & Johnson will acquire all outstanding shares of Shockwave for $335 per share in cash, totaling an enterprise value of approximately $13.1 billion, inclusive of cash acquired through a merger of Shockwave with wholly owned Johnson & Johnson subsidiary.
+As for the time line, we currently assume the transaction to close by midyear 2024, subject to the receipt of Shockwave's shareholder approval as well as the receipt of applicable regulatory approvals and other customary closing conditions. Once closed, financial results will be reported within Johnson & Johnson MedTech's cardiovascular portfolio previously known as Interventional Solutions.
+The addition of Shockwave enables us to enhance our cardiovascular intervention platform to bring more life-saving innovations to patients in one of the largest and most pressing areas of unmet medical need. We are confident in the strong growth prospects projected for Shockwave as part of Johnson & Johnson MedTech and believe this transaction delivers meaningful value for shareholders of both companies.
+With that, Johnson & Johnson management is now pleased to take questions regarding the transaction. As you know, we are in our quiet period related to first quarter results and cannot comment beyond transaction details. As such, we kindly ask you keep your questions relevant to today's announcement.
+Kevin, would you like to open the line for questions, please?
+
+
+================================================================================
+Questions and Answers
+--------------------------------------------------------------------------------
+Operator    [1]
+--------------------------------------------------------------------------------
+(Operator Instructions) Our first question is coming from Danielle Antalffy from UBS.
+
+--------------------------------------------------------------------------------
+Danielle Joy Antalffy,  UBS Investment Bank, Research Division - Analyst    [2]
+--------------------------------------------------------------------------------
+Congrats to everyone on the deal. I think it makes a ton of strategic sense. Joe, I just wanted to ask one question on the synergy side of things. There's a lot of overlap here. It's literally the same procedure. These devices between Abiomed and Shockwave are being used in the same procedure. So could you elaborate a little bit more on why there aren't more cost synergies here given that overlap? I mean, you're probably not going to need two reps in the operating room, for example. So just a little more color there.
+
+--------------------------------------------------------------------------------
+Joseph J. Wolk,  Johnson & Johnson - Executive VP & CFO    [3]
+--------------------------------------------------------------------------------
+Certainly, Danielle, and thanks for the question. So with respect to synergies, while IVL is used in approximately 30% of high-risk PCI cases that also use Impella today, creating certainly clinical and commercial compatibility, we're not planning for any material financial synergies given both Shockwave and Abiomed are in, I would say, significantly underpenetrated segments, less than 10% today. And we intend to invest for growth.
+This model has served us very well with respect to how we handled Abiomed, and we plan to operate Shockwave as a business unit within Johnson & Johnson MedTech in order to continue to foster that culture of growth and innovation that has been really foundational to their success.
+Additionally, I would say, to Doug and his team's credit, there's very little corporate overhead or public company cost that provide us an opportunity for those types of synergies, but we will certainly look to do those when possible.
+Tim, I don't know if there's anything to add from a commercial perspective or...
+
+--------------------------------------------------------------------------------
+Timothy Schmid,  Johnson & Johnson - Executive VP & Worldwide Chairman of MedTech    [4]
+--------------------------------------------------------------------------------
+Sure, Joe. And Danielle, thank you for the question. What really worked well for us with the acquisition and integration of Abiomed is the continued focus on the technology relevant to their business. And that is our focus here. So we do not have any plans to integrate our selling organizations. We believe we will have more share of voice within the CV community. But our plan is to keep these organizations solely focused on growing the business. As you heard also from Doug earlier, we have a much broader portfolio coming our way with -- in the IVL space, and we will need those dedicated resources to ensure that we can capitalize on the opportunity. Thank you.
+
+--------------------------------------------------------------------------------
+Operator    [5]
+--------------------------------------------------------------------------------
+Our next question today is coming from Larry Biegelsen from Wells Fargo.
+
+--------------------------------------------------------------------------------
+Lawrence H. Biegelsen,  Wells Fargo Securities, LLC, Research Division - Senior Medical Device Equity Research Analyst    [6]
+--------------------------------------------------------------------------------
+Joaquin, congratulations on the deal. Doug and Isaac, I'm sure you're listening in. You guys have really knocked it out of the park, so congratulations and kudos to you.
+Joaquin, you recently committed -- or with this deal, about $30 billion to MedTech M&A with Abiomed, Laminar and now Shockwave. Where are you in creating a best-in-class MedTech business? Is Shockwave the last kind of major piece in the puzzle? Or do you need to add more?
+
+--------------------------------------------------------------------------------
+Joaquin Duato,  Johnson & Johnson - CEO & Chairman    [7]
+--------------------------------------------------------------------------------
+Thank you, Larry, for the question. And yes, look, I believe that you are absolutely right. Shockwave really knocked it out of the park, and they have created a best-in-class company, and hence why I believe this combination between Shockwave and Johnson & Johnson is going to be a winning one.
+For Johnson & Johnson, in our effort to create a best-in-class performer in our MedTech business, this is another step in that direction that enables us to extend our reach in cardiovascular, our presence in high-growth markets and provide an end-to-end solution.
+From that perspective, our M&A strategy and our M&A approach does not change. As you know, we take a well-defined and disciplined approach to capital allocation, and M&A has always been a key component of that. We have the strength of our cash flow and our balance sheet that gives us significant flexibility in the type of transactions that we can consider.
+And we will continue to evaluate M&A opportunities agnostic to the sector in the context of improving the three components that I always refer, Larry. Does it improve the standard of care? Does it enable us to enter into higher-growth markets? And does it provide a compelling financial return? Clearly, in our view, Shockwave checks all the boxes here, plus it does have a high-quality team of people that are very knowledgeable in this space and a great cultural fit with Johnson & Johnson.
+
+--------------------------------------------------------------------------------
+Operator    [8]
+--------------------------------------------------------------------------------
+Our next question is coming from Jayson Bedford from Raymond James.
+
+--------------------------------------------------------------------------------
+Jayson Tyler Bedford,  Raymond James & Associates, Inc., Research Division - MD & Senior Medical Supplies and Devices Analyst    [9]
+--------------------------------------------------------------------------------
+Congrats on the deal. So I just wanted to get back to the potential for selling synergies, not necessarily cost synergies. So the 30% of Impella high-risk PCI cases where Shockwave is used, can you maybe just comment on the trend there? Wondering if this has changed over the years. And just with Shockwave as part of J&J, are you expecting the growth profile of Impella to change at all?
+
+--------------------------------------------------------------------------------
+Timothy Schmid,  Johnson & Johnson - Executive VP & Worldwide Chairman of MedTech    [10]
+--------------------------------------------------------------------------------
+I'm happy to take that question. Firstly, we see continued tremendous momentum and potential specific to high-risk PCI cases, which I believe are the ones that you're referring to. We do think that the marriage of our Impella technology along with the IVL technology from Shockwave creates a more attractive value proposition for Johnson & Johnson in all of those cases.
+That said, we believe that the selling process that's associated with Impella compared to that of the IVL technology in Shockwave are unique and different, requiring specific focus and deep institutional knowledge in those spaces. And so for that reason, we believe that running the organizations separately but in partnership are the best -- is the best possible way of ensuring that we can maximize the opportunity for J&J.
+
+--------------------------------------------------------------------------------
+Operator    [11]
+--------------------------------------------------------------------------------
+Our next question is coming from Chris Schott from JPMorgan.
+
+--------------------------------------------------------------------------------
+Christopher Thomas Schott,  JPMorgan Chase & Co, Research Division - Senior Analyst    [12]
+--------------------------------------------------------------------------------
+Congrats on the deal. Can you just elaborate a little bit more on the ex-U.S. opportunity here? I think about 20% of sales are currently coming ex-U.S. How big of an opportunity is this in J&J's hands? And maybe just how quickly could we expect to see some benefits from J&J's more global footprint to the portfolio here?
+
+--------------------------------------------------------------------------------
+Timothy Schmid,  Johnson & Johnson - Executive VP & Worldwide Chairman of MedTech    [13]
+--------------------------------------------------------------------------------
+Thank you. Similar to Abiomed, in this particular opportunity here at Shockwave, roughly 80% of the existing opportunity sits currently within the U.S. We do think, as we now come to market, as Johnson & Johnson with both of these assets ex-U.S., we have a tremendous opportunity to build on that potential.
+We do believe that it is going to take some time as we build credibility ex-U.S. and build the important reimbursement mechanism that is key to growth in those areas. We have accounted for significant growth outside of the U.S., but in the latter years of the transaction for Shockwave.
+
+--------------------------------------------------------------------------------
+Operator    [14]
+--------------------------------------------------------------------------------
+Next question is coming from Shagun Singh from RBC Capital Markets.
+
+--------------------------------------------------------------------------------
+Shagun Singh Chadha,  RBC Capital Markets, Research Division - Research Analyst    [15]
+--------------------------------------------------------------------------------
+Congratulations on the deal announcement. Just a follow-up on Larry's question. Where do you see portfolio gaps in cardiology? And specifically, how do you see about the TAVR, TMTT space where you don't currently operate?
+And then separately, I was just wondering if you can elaborate on your acquisition strategy of buying more established and mature technologies. Just any comments on how you think about valuation and return metrics as you evaluate potential targets.
+
+--------------------------------------------------------------------------------
+Joaquin Duato,  Johnson & Johnson - CEO & Chairman    [16]
+--------------------------------------------------------------------------------
+Thank you very much. So as I commented before, our approach to M&A doesn't change. We have the financial flexibility to do all types of transactions, and we are agnostic to sector.
+When it comes to the type of transaction, as we have done in the last couple of years, sometimes, we go to established platforms like in this case. And sometimes, we go to earlier technologies like we did with Laminar. So I think we consider both type of transactions, established technologies and also some bets on earlier technologies that may have a significant opportunity for us to create value.
+So as I said, our M&A and our business development strategy doesn't change, and it has been very, very consistent over time, and it remains a key component of how we create value and how we plan to become a best-in-class performer in MedTech.
+
+--------------------------------------------------------------------------------
+Operator    [17]
+--------------------------------------------------------------------------------
+Our next question today is coming from Terence Flynn from Morgan Stanley.
+
+--------------------------------------------------------------------------------
+Terence C. Flynn,  Morgan Stanley, Research Division - Equity Analyst    [18]
+--------------------------------------------------------------------------------
+I was just wondering if you can speak at all to how much of the value of the deal is driven by IVL for the current CAD and PAD markets versus either market expansion opportunities or the pipeline opportunities. As I know, Shockwave has a pretty deep pipeline set across Javelin, E8 and C2.
+
+--------------------------------------------------------------------------------
+Joseph J. Wolk,  Johnson & Johnson - Executive VP & CFO    [19]
+--------------------------------------------------------------------------------
+Thanks, Terence, for the question. Yes, a large portion of that value is driven by the markets that you've mentioned on those opportunities, somewhere between 80% and 90% overall.
+
+--------------------------------------------------------------------------------
+Operator    [20]
+--------------------------------------------------------------------------------
+Next question is coming from Louise Chen from Cantor Fitzgerald.
+
+--------------------------------------------------------------------------------
+Louise Alesandra Chen,  Cantor Fitzgerald & Co., Research Division - MD & Senior Research Analyst    [21]
+--------------------------------------------------------------------------------
+Congratulations on the deal. Just wanted to ask you, in this sort of more challenging regulatory environment, what gives you confidence in a mid-2024 close for the deal?
+
+--------------------------------------------------------------------------------
+Joaquin Duato,  Johnson & Johnson - CEO & Chairman    [22]
+--------------------------------------------------------------------------------
+Thank you. Look, thank you, Louise, for the question. Obviously, we need to allow the process to unfold and the authorities to complete their due diligence. But we are confident that we are well positioned for the timelines that we told you, and we look forward to be able to complete the transaction in that timeline.
+
+--------------------------------------------------------------------------------
+Jessica Moore,  Johnson & Johnson - VP of IR    [23]
+--------------------------------------------------------------------------------
+And thank you, Louise. Kevin, we have time for one last question.
+
+--------------------------------------------------------------------------------
+Operator    [24]
+--------------------------------------------------------------------------------
+Our final question today is coming from Travis Steed from Bank of America.
+
+--------------------------------------------------------------------------------
+Travis Lee Steed,  BofA Securities, Research Division - MD    [25]
+--------------------------------------------------------------------------------
+Congrats, everybody, on the deal. Shockwave had kind of laid out a view of a 25% revenue growth CAGR over the long term. Just kind of curious, the J&J team as you look at the pipeline, international, like how your view of the kind of long-term growth. Do you think there's opportunity to accelerate that? Or that's a fair view of the way to look at the growth trajectory?
+
+--------------------------------------------------------------------------------
+Timothy Schmid,  Johnson & Johnson - Executive VP & Worldwide Chairman of MedTech    [26]
+--------------------------------------------------------------------------------
+Thank you, Travis. The more we have become comfortable with this opportunity, the more confidence we have in the growth profile for Shockwave. If you recall, our conversation at the EBR in the fourth quarter of last year, we committed to growing in the upper range of the markets in which we participated, and we talked about roughly 50% of our portfolio now being in high-growth markets. This acquisition simply adds to our momentum and our confidence in being able to deliver at that range. When you look specific to the Shockwave opportunity, we believe it will add roughly 50 bps of growth to Johnson & Johnson's MedTech growth profile.
+
+--------------------------------------------------------------------------------
+Jessica Moore,  Johnson & Johnson - VP of IR    [27]
+--------------------------------------------------------------------------------
+Thank you, Travis, and thanks to everyone for your questions and your continued interest in our company. We apologize to those that we couldn't get to because of time, but don't hesitate to reach out to the Investor Relations team with any remaining questions that you may have.
+I'll now turn the call back over to Joaquin for some brief closing remarks.
+
+--------------------------------------------------------------------------------
+Joaquin Duato,  Johnson & Johnson - CEO & Chairman    [28]
+--------------------------------------------------------------------------------
+Thank you, Jess, and thank you, everyone, for joining the call today. As I said earlier, we are confident in the cultural fit between our organizations, and we believe that our shared patient-centric missions, the strength of Shockwave's current and future portfolio and Johnson & Johnson's capabilities will enable us to make a significant impact on cardiovascular disease.
+Thank you for the questions and for joining us today.
+
+--------------------------------------------------------------------------------
+Operator    [29]
+--------------------------------------------------------------------------------
+Thank you. This concludes today's Johnson & Johnson's investor conference call. You may now disconnect.
+
+
+
+
+
+
+
+--------------------------------------------------------------------------------
+Definitions
+--------------------------------------------------------------------------------
+PRELIMINARY TRANSCRIPT: "Preliminary Transcript" indicates that the 
+Transcript has been published in near real-time by an experienced 
+professional transcriber.  While the Preliminary Transcript is highly 
+accurate, it has not been edited to ensure the entire transcription 
+represents a verbatim report of the call.
+
+EDITED TRANSCRIPT: "Edited Transcript" indicates that a team of professional 
+editors have listened to the event a second time to confirm that the 
+content of the call has been transcribed accurately and in full.
+
+--------------------------------------------------------------------------------
+Disclaimer
+--------------------------------------------------------------------------------
+Refinitiv reserves the right to make changes to documents, content, or other 
+information on this web site without obligation to notify any person of 
+such changes.
+
+In the conference calls upon which Event Transcripts are based, companies 
+may make projections or other forward-looking statements regarding a variety 
+of items. Such forward-looking statements are based upon current 
+expectations and involve risks and uncertainties. Actual results may differ 
+materially from those stated in any forward-looking statement based on a 
+number of important factors and risks, which are more specifically 
+identified in the companies' most recent SEC filings. Although the companies 
+may indicate and believe that the assumptions underlying the forward-looking 
+statements are reasonable, any of the assumptions could prove inaccurate or 
+incorrect and, therefore, there can be no assurance that the results 
+contemplated in the forward-looking statements will be realized.
+
+THE INFORMATION CONTAINED IN EVENT TRANSCRIPTS IS A TEXTUAL REPRESENTATION
+OF THE APPLICABLE COMPANY'S CONFERENCE CALL AND WHILE EFFORTS ARE MADE TO
+PROVIDE AN ACCURATE TRANSCRIPTION, THERE MAY BE MATERIAL ERRORS, OMISSIONS,
+OR INACCURACIES IN THE REPORTING OF THE SUBSTANCE OF THE CONFERENCE CALLS.
+IN NO WAY DOES REFINITIV OR THE APPLICABLE COMPANY ASSUME ANY RESPONSIBILITY FOR ANY INVESTMENT OR OTHER
+DECISIONS MADE BASED UPON THE INFORMATION PROVIDED ON THIS WEB SITE OR IN
+ANY EVENT TRANSCRIPT. USERS ARE ADVISED TO REVIEW THE APPLICABLE COMPANY'S
+CONFERENCE CALL ITSELF AND THE APPLICABLE COMPANY'S SEC FILINGS BEFORE
+MAKING ANY INVESTMENT OR OTHER DECISIONS.
+--------------------------------------------------------------------------------
+Copyright 2024 Refinitiv. All Rights Reserved.
+--------------------------------------------------------------------------------

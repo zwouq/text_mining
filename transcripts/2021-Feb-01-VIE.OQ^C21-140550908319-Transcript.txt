@@ -1,0 +1,431 @@
+
+
+Refinitiv StreetEvents Event Transcript
+E D I T E D   V E R S I O N
+
+Horizon Therapeutics Public Limited Company, Viela Bio, Inc. - M&amp;A Call
+FEBRUARY 01, 2021 / 1:00PM GMT
+
+================================================================================
+Corporate Participants
+================================================================================
+
+ * Timothy P. Walbert
+   Horizon Therapeutics Public Limited Company - Chairman, President & CEO
+ * Paul W. Hoelscher
+   Horizon Therapeutics Public Limited Company - Executive VP & CFO
+ * Karin Rosen
+   Horizon Therapeutics Public Limited Company - Executive VP of Research & Development and Chief Scientific Officer
+ * Andy Pasternak
+   Horizon Therapeutics Public Limited Company - Executive VP & Chief Strategy Officer
+ * Tina E. Ventura
+   Horizon Therapeutics Public Limited Company - SVP of IR
+
+================================================================================
+Conference Call Participiants
+================================================================================
+
+ * Kenneth Charles Cacciatore
+   Cowen and Company, LLC, Research Division - MD & Senior Research Analyst
+ * Jason Matthew Gerberry
+   BofA Merrill Lynch, Research Division - MD in US Equity Research
+ * Nicholas Carl Rubino
+   Stifel, Nicolaus & Company, Incorporated, Research Division - Associate
+ * David Reed Risinger
+   Morgan Stanley, Research Division - MD in Equity Research and United States Pharmaceuticals Analyst
+ * Dana Carver Flanders
+   Guggenheim Securities, LLC, Research Division - Senior Analyst
+ * David A. Amsellem
+   Piper Sandler & Co., Research Division - MD & Senior Research Analyst
+ * Christopher Thomas Schott
+   JPMorgan Chase & Co, Research Division - Senior Analyst
+
+================================================================================
+Presentation
+--------------------------------------------------------------------------------
+Operator    [1]
+--------------------------------------------------------------------------------
+
+          Good morning and thank you for standing by. Welcome to the Horizon Therapeutics Viela Bio Acquisition Conference Call. (Operator Instructions) As a reminder, today's conference is being recorded.
+I would now like to introduce Ms. Tina Ventura, Senior Vice President of Investor Relations.
+
+--------------------------------------------------------------------------------
+Tina E. Ventura,  Horizon Therapeutics Public Limited Company - SVP of IR    [2]
+--------------------------------------------------------------------------------
+
+          Thank you, Shannon. Good morning, everyone, and thank you for joining us. On the call with me today are Tim Walbert, Chairman, President and Chief Executive Officer; Paul Hoelscher, Executive Vice President, Chief Financial Officer; Andy Pasternak, Executive Vice President, Chief Strategy Officer; Karin Rosen, Executive Vice President, Research and Development, and Chief Scientific Officer; and Liz Thompson, Group Vice President, Clinical Development and External Search.
+Tim will provide an overview of the strategic rationale for our acquisition of Viela Bio and a high-level review of the company, including their biologic medicine, UPLIZNA. Karin will then provide an overview of Viela's pipeline assets and R&D expertise, followed by Paul, who will provide a brief financial overview and transaction detail. After concluding remarks, we'll take your questions. We've also posted a presentation on our website that you can use to follow along with this call.
+As a reminder, during today's call, we will be making certain forward-looking statements, as noted on Slide 3, as well as other factors outlined in our press release announcing the transaction, latest Form 10-Q and any 8-Ks filed with the SEC. You are cautioned not to place undue reliance on these forward-looking statements, and Horizon disclaims any obligation to update such statements.
+In addition, on today's conference call, non-GAAP financial measures will be used. Certain of these non-GAAP financial measures are reconciled with comparable GAAP financial measures in our prior earnings press releases and other filings from today that are available on our investor website at www.horizontherapeutics.com.
+I will now turn the call over to Tim.
+
+--------------------------------------------------------------------------------
+Timothy P. Walbert,  Horizon Therapeutics Public Limited Company - Chairman, President & CEO    [3]
+--------------------------------------------------------------------------------
+
+          Thank you, Tina, and good morning, everyone. We're very pleased this morning to announce our acquisition of Viela Bio, a biotechnology company with a deep, mid-stage biologics pipeline for autoimmune and severe inflammatory diseases, an experienced R&D team and UPLIZNA, a recently approved biologic medicine for a rare disease.
+Before I discuss the benefits of the Viela transaction and how it aligns with our strategy, let me first provide a brief update on TEPEZZA supply. As we first announced on December 17, due to government-mandated COVID-19 vaccine production orders, we are now in a short-term supply disruption with TEPEZZA that we expect could last through the first quarter of this year. We have made significant progress since our initial announcement, completing our first drug product manufacturing lot and increased scale.
+In line with our expectations, last week, we submitted a pre-approval supplement with the data from this first line. We also recently completed the second increased scale drug product manufacturing lot.
+Between these 2 completed lots that are pending FDA approval and the manufacturing capacity currently planned at Catalent, we expect we would have sufficient supply to serve existing patients on therapy and be in a position to initiate treatment for new patients. In fact, if approved by the FDA, these 2 lots completed to date can provide enough supply for all prior TEPEZZA patients to resume and complete their therapy.
+We continue to make progress towards returning TEPEZZA to the market and hope to provide further updates on our fourth quarter earnings call at the end of this month. This progress also reinforced our confidence in moving forward with this acquisition.
+As we've discussed for the last several years, our strategic priority is to build a robust development-stage pipeline to drive the long-term value of Horizon. In May 2017, we began this process with the acquisition of teprotumumab, now TEPEZZA, which at the time was a Phase III-ready candidate for thyroid eye disease. We launched TEPEZZA a year ago after taking it through a very successful Phase III clinical program.
+We also acquired a Phase IIb-ready candidate, HZN-825, last April with the acquisition of Curzion Pharmaceuticals. It is an LPAR 1 antagonist, and we plan to initiate 2 pivotal trials with HZN-825 by the middle of this year, one for rare form of scleroderma and one for interstitial lung disease with the first being IPF.
+The acquisition of Viela significantly accelerates our strategy by adding a portfolio of novel pipeline medicines ranging from Phase I to Phase III in development. It expands the capabilities of our current strong R&D, and it expands our commercial portfolio with UPLIZNA, an on-market biologic for a rare disease.
+Looking at Slide 5. This transaction represents a significant step forward in our transformation to an innovation-driven, high-growth biotech company and gives us tremendous potential to further help patients, their caregivers and physicians by bringing to market medicines that truly serve unmet needs.
+Viela adds a biologics pipeline with 4 candidates currently in 9 development programs. Each of these molecules target central pathways that are implicated in a wide range of autoimmune diseases, providing many avenues for potential growth.
+TEPEZZA and KRYSTEXXA will continue to be key drivers of our near-term growth with combined expected peak annual net sales of more than $4.5 billion. Our plan is for the Viela candidates, along with HZN-825, to be additive to our growth drivers in the second half of the decade and beyond. We believe that 3 currently approved or clinical-stage Viela candidates each represents a more than $1 billion annual net sales opportunity. We intend to invest in expanding the indications being pursued for these candidates in order to realize their full potential.
+The Viela portfolio is also highly complementary to our rare disease business and many of our therapeutic areas of focus, including rheumatology and nephrology. We'll be pursuing global development and commercialization of this portfolio.
+An additional benefit of the acquisition is that we will add additional R&D talent to our team. We are focused on significantly expanding our R&D leadership and scientific talent beginning in 2018 by adding a team with expertise across a broad range of therapeutic area as well as rare diseases.
+Viela will enhance our early-stage translational capabilities as well as development expertise in autoimmune and severe inflammatory diseases. This will allow us to continually innovate beyond what is included in our combined pipeline today.
+Finally, Viela quickly accelerates our investment in R&D. We plan to significantly increase our R&D investment in 2021 into low double digits as a percent of net sales, approaching levels of our profitable biotech peers.
+On Slide 6 is an overview of Viela, which is based in Gaithersburg, Maryland. It was founded in December 2017 through the acquisition of several molecules from the autoimmune and inflammatory disease portfolio of MedImmune, which is the legacy biologics division of AstraZeneca. The majority of the Viela team joined the company from MedImmune, where they have been instrumental in progressing their autoimmune disease portfolio.
+In October 2019, Viela completed initial public offering, and its key accomplishments include the FDA approval and launch of its lead candidate, UPLIZNA, in June of last year.
+Viela has 170 employees with about 60 of them in R&D. This will meaningfully augment our current R&D team of approximately 150 employees. We are committed long term to maintaining and building upon the Viela presence in the Gaithersburg, Maryland area as well.
+Looking at the Viela R&D team, they bring significant talent. They bring extensive experience in early-stage pharmacology research and translational science to develop pipeline candidates with novel mechanisms from preclinical stages into the clinic. In addition, Viela's significant understanding of mechanisms and pathways that drive autoimmune diseases will allow Horizon to continuously innovate to develop new pipeline candidates, a crucial capability that we believe will serve us well in the years ahead. It's not easy to build a team with its capabilities, so bringing in this integrated, high-functioning team sets the stage for continued long-term growth.
+Both Horizon and Viela bring key strength that will help us drive growth now and over the long term: Horizon, with our proven track record of late-stage development and commercial execution; and Viela with its early-stage research capabilities, development experience and a deep pipeline. We will leverage each company's unique strengths to reinforce Horizon's position as an innovation-driven, high-growth biotech, one with even stronger ability to continuously innovate.
+Slide 9 shows the combined pipeline of the 2 companies, with our current Horizon programs in purple and the Viela programs in pink. You can see that Viela adds significant breadth and depth across all stages of clinical development, with 4 candidates currently in 9 development programs.
+In addition, these pipeline candidates are largely in disease areas where Horizon has late-stage development and commercial expertise and are highly complementary to our key therapeutic areas. This acquisition also opens the door to attractive therapeutic areas and rare diseases where Horizon has not historically had a presence.
+Given how well capitalized we are, we intend to explore the full potential of Viela's promising pipeline to maximize the potential of these molecules, including the pursuit of additional indications.
+The Viela pipeline was validated with the FDA approval last June of its first commercial medicine, UPLIZNA. It's a humanized monoclonal antibody indicated for NMOSD, which is a rare, severe, autoimmune disease that attacks the optic nerve, the spinal cord and brain stem. It's a devastating disease where patients experience unpredictable attacks that can lead to permanent disability from blindness and paralysis. It is estimated that approximately 10,000 people in the U.S. are suffering from NMOSD, and UPLIZNA demonstrated strong efficacy, a favorable safety profile and as a convenient dosing regimen.
+Viela is also pursuing 3 additional potential indications for UPLIZNA, which Karin will discuss shortly.
+With our strong set of commercial capabilities, deep experience and resources, we believe Horizon can maximize the potential of UPLIZNA using the comprehensive approach we successfully used with our infused rare disease medicines, TEPEZZA and KRYSTEXXA. This includes our commercialization strategy that supports all stakeholders, including patients, their caregivers, physicians and payers.
+We also see opportunities to develop a robust clinical and medical affair strategy to further educate the physician community on the use of UPLIZNA and drive clinical conviction. UPLIZNA also further diversifies our commercial portfolio. Upon closing, we'll have 12 on-market medicines.
+I'll now turn the call over to Karin.
+
+--------------------------------------------------------------------------------
+Karin Rosen,  Horizon Therapeutics Public Limited Company - Executive VP of Research & Development and Chief Scientific Officer    [4]
+--------------------------------------------------------------------------------
+
+          Thank you, Tim, and good morning, everyone. This acquisition is transformational for the Horizon R&D organization. It expands our pipeline with 4 molecules currently in 9 development programs from Phase I to Phase III. It adds a talented team skilled in the development of medicines that treat autoimmune and inflammatory diseases with important research and translational capabilities that will position us for growth now and in the future.
+With Viela, we are looking forward to building an even stronger R&D organization that maximizes the strength of the combined team. Our future prospects will be amplified by our very similar company cultures, cultures that put patients first, and we will be able to do so much more together for patients in the months and years ahead.
+I will now review the Viela development platform for autoimmune diseases and their pipeline in more detail. Moving to Slide 12.
+Drug development in autoimmune diseases leverages individual compounds across multiple different indications based upon shared biologics and pathophysiological processes. Mediating these central autoimmune pathways has the potential to treat multiple diseases. Viela is focused on understanding these critical pathways that drive autoimmune conditions and then developing molecules that target them.
+This is illustrated on the right side of Slide 12, where the 3 later-stage Viela molecules modulate the central mechanism of innate and adaptive immune responses, which are activated in autoimmune diseases, each acting against distinct targets in these pathways.
+In purple is the autoantibody pathway which UPLIZNA targets. UPLIZNA is a humanized monoclonal antibody that works by binding to CD19, a cell surface molecule broadly expressed throughout the B-cell development, including plasmablast. UPLIZNA depletes B-cells and, importantly, the pathogenic cells that produce autoantibodies.
+Regarding the CD40/CD40 ligand co-stimulatory pathway, several autoimmune diseases are associated with the overactivation of this pathway. This is shown in the orange. CD40 ligand is expressed on activated T-cells and stimulate B-cells by binding with a CD40 receptor. VIB4920 is a fusion protein that binds to CD40 ligand, thereby disrupting this pathway and reducing autoantibody production.
+And finally, with respect to the innate immunity pathway, plasmacytoid dendritic cells, or pDCs, play a critical role in autoimmune signaling, inflammation and associated tissue damage, cytokine production.
+VIB7734 is a human monoclonal antibody that binds to a unique cell surface receptor on pDCs called ILT7, thereby causing pDC depletion. Depleting these cells may interrupt the vicious cycle of inflammation that causes tissue damage in diseases such as lupus, dermatomyositis and the variety of other autoimmune conditions.
+NMOSD is the first indication approved for UPLIZNA, and Viela is also pursuing 3 additional indications with UPLIZNA, as shown on Slide 13.
+Myasthenia gravis, or MG, is a chronic, rare autoimmune neuromuscular disease that affects voluntary muscles, especially those that control the eyes, mouth, throat and limbs. In severe cases, respiratory muscles may be compromised. Viela initiated its Phase III trial in MG in this third quarter of last year to assess the safety and efficacy of UPLIZNA in this disease.
+IgG4-related diseases refers to a group of disorders marked by tumor-like swelling and fibrosis of affected organs such as the pancreas, salivary glands and kidneys. It is primarily treated by rheumatologists, and rheumatology is one of our key therapeutic areas. The Phase III trial underway is assessing whether UPLIZNA can reduce flares in the absence of concomitant steroid treatment. Similar to many other autoimmune diseases, chronic steroid use is the current treatment approach, which unfortunately has a significant and toxic side effect profile.
+UPLIZNA is also being evaluated in a proof-of-concept trial in kidney transplant desensitization. However, given the at-risk patient population studied, this trial is currently paused due to COVID-19.
+Moving to Slide 14 and VIB4920, which is a CD40 ligand antagonist and is being studied by Viela in 3 potential indications: Sjögren's syndrome, kidney transplant rejection and rheumatoid arthritis.
+VIB4920 is in a Phase IIb trial for Sjögren's syndrome, which is the second most common rheumatic disease after rheumatoid arthritis. It is a chronic systemic autoimmune condition that impacts exocrine glands, including the salivary glands and tear glands. Inflammation and destruction of these glands lead to dry eye and dry mouth. In severe cases, the joint, lungs, skin, blood and kidneys may also be affected. There are currently no treatments approved for Sjögren's syndrome.
+In these patients, both CD40 ligand and its receptor, CD40, are overexpressed in inflamed tissues. Targeting these pathways with VIB4920 may reduce inflammation and tissue damage.
+There's also a Phase II trial in active rheumatoid arthritis patients. The primary objectives of this study are to better understand the pharmacodynamic and pharmacokinetic effects of VIB4920 and to further optimize dosing regimen.
+Viela is also conducting a small proof-of-concept study in kidney transplant rejection. The current standard of care to prevent transplant rejection involves a combination of various immunosuppressants and calcineurin inhibitors, the lateral which is associated with kidney toxicity. The objective of this trial is to evaluate if the combination of the immunosuppressant, belatacept, and 4920 can be as effective in preventing transplant rejection while reducing renal toxicity.
+Moving now to VIB7734. This is a human monoclonal antibody that has the potential to become a novel treatment for autoimmune diseases in which pDCs overproduce interferons and other types of cytokines and chemokines. This is one of the most exciting mechanisms we will see in the Viela pipeline.
+Systemic lupus erythematosus, or SLE, is a disease where pDCs play a key role. This is a systemic autoimmune disease where the body's immune system attacks a person's own tissues and organs. Inflammation caused by lupus can affect many different body systems, including joints, skin, kidneys, blood cells, brain, heart and lungs.
+Viela recently decided to move into a Phase II trial in SLE after demonstrating encouraging results from the Phase Ib cutaneous lupus erythematosus trial which was shared at the American College of Rheumatology Medical Meeting in November of last year. The data suggested that 7734 has the potential to meaningfully reduce skin lesions in lupus patients.
+The Phase II trial in SLE is expected to begin in the first half of this year. There remains significant unmet needs with only one biologic approved and with substantial room for improvement in efficacy. VIB7734 is also in Phase I development for COVID-19-related acute lung injury.
+And finally, VIB1116 is expected to move into Phase I development in mid-2021 for autoimmune diseases, and we look forward to exploring the potential of this candidate.
+In conclusion, Viela has built a strong portfolio of candidates, which have the potential to address high unmet needs across autoimmune and severe inflammatory diseases. The Viela pipeline is an excellent fit to Horizon's existing R&D team and focus in biologics, autoimmune diseases, rheumatology and nephrology. Over the coming months, we will deploy the extensive experience of our combined team to pursue the full potential of each of these molecules.
+With that, I will turn the call over to Paul.
+
+--------------------------------------------------------------------------------
+Paul W. Hoelscher,  Horizon Therapeutics Public Limited Company - Executive VP & CFO    [5]
+--------------------------------------------------------------------------------
+
+          Thanks, Karin. As we announced in early January, we ended 2020 in a very strong financial position. Despite the challenging environment with COVID-19, 2020 was a standout year for Horizon. We achieved record full year 2020 net sales and adjusted EBITDA exceeding the high end of our guidance ranges of more than $2.14 billion and $940 million, respectively. This represents year-over-year growth of more than 65% for net sales and more than 95% for adjusted EBITDA.
+This performance exemplifies our strength in commercial execution. We delivered one of the best rare disease medicine launches in history with TEPEZZA, which finished last year with more than $800 million in net sales. KRYSTEXXA also ended the year above our expectations with more than $400 million in net sales. This impressive performance resulted in a 2020 year-end cash balance of $2.08 billion.
+Our cash position is inclusive of the approximately $920 million in net proceeds we raised in our equity offering last August. At that time, we stated it was our priority to use the cash to acquire development-stage medicines, and Viela exemplifies this strategy in action. Beyond Viela, we will continue to evaluate additional acquisitions and licensing opportunities to further bolster our development pipeline.
+Now moving on to discuss the transaction details on Slide 18. Under the terms of the definitive agreement, Horizon will acquire all of Viela's outstanding shares in an all-cash transaction valued at $53 per share. This results in a total acquisition value of $3.05 billion, or $2.67 billion net of Viela's cash and cash equivalents.
+We currently plan to fund the transaction with $1.3 billion of new debt, along with part of our available cash on hand. Following the acquisition of Viela, our pro forma gross leverage ratio is expected to be about 2.8x based on the high end of our 2020 adjusted EBITDA guidance range of greater than $940 million. And we except our gross leverage ratio to be near our target of 2x by the end of 2021.
+We also recently discussed the addition of 4 new programs to the Horizon R&D pipeline, including 2 new KRYSTEXXA trials and 2 HZN-825 pivotal trial starting by midyear. We anticipate that our new Horizon programs, along with continuing R&D and CMC programs, will result in an approximate doubling of R&D dollar spend in 2021.
+In addition, the impact of adding Viela, including plans to further invest in Viela's pipeline programs, is expected to reduce Horizon's adjusted EBITDA by approximately $140 million in 2021. We expect our total R&D investment in 2021, including Viela programs, to increase to the low double digits as a percent of net sales, approaching the level of profitable biotech peers and reinforcing our position as an innovation-driven biotech company. We expect to provide our total company 2021 guidance on our fourth quarter conference call later this month.
+The transaction has been unanimously approved by the Board of Directors of both companies. Stockholders holding 54% of the outstanding shares of Viela common stock have agreed to tender their shares in support of the transaction, and we plan to launch the tender offer within 10 business days. We expect the transaction to close by the end of the first quarter of 2021 subject to customary closing conditions and regulatory approvals.
+I will now turn the call over to Tim for a brief summary.
+
+--------------------------------------------------------------------------------
+Timothy P. Walbert,  Horizon Therapeutics Public Limited Company - Chairman, President & CEO    [6]
+--------------------------------------------------------------------------------
+
+          Thank you, Paul. In summary, the acquisition of Viela reinforces our position as an innovative-driven, high-growth biotech company. Viela adds breadth and depth to our pipeline with 4 pipeline candidates currently in 9 development programs. It also strengthens our R&D capabilities by adding a talented team with early-stage and translational capabilities as well as deep scientific knowledge of autoimmune and severe inflammatory diseases. We believe the Viela portfolio can add more than $3 billion in peak annual net sales.
+Together, we expect to create an even stronger Horizon R&D engine, providing us a greater opportunity to make a significant difference in the lives of more patients as well as generate value for our shareholders. We're more excited than ever about our prospects given today's announcement in combination with the tremendous opportunity going forward with our 2 key growth drivers, TEPEZZA and KRYSTEXXA.
+We will now open the call up to questions.
+
+--------------------------------------------------------------------------------
+Tina E. Ventura,  Horizon Therapeutics Public Limited Company - SVP of IR    [7]
+--------------------------------------------------------------------------------
+
+          Shannon, please go ahead.
+
+
+================================================================================
+Questions and Answers
+--------------------------------------------------------------------------------
+Operator    [1]
+--------------------------------------------------------------------------------
+
+          (Operator Instructions) Our first question comes from Chris Schott with JPMorgan.
+
+--------------------------------------------------------------------------------
+Christopher Thomas Schott,  JPMorgan Chase & Co, Research Division - Senior Analyst    [2]
+--------------------------------------------------------------------------------
+
+          Congrats on the deal. Just 2 for me. I guess, first, bigger picture question. When you think about the rationale of this transaction, how much of this deal was bringing UPLIZNA, if I'm pronouncing that right, on board versus the broader R&D capabilities and platform you're acquiring from the transaction? So I guess how much of this is kind of near-term commercial opportunity versus longer-term kind of platform value?
+And then on UPLIZNA, can you just elaborate a little bit more on the market and competitive landscape for this initial indication, I guess? So how do you see this drug positioning relative to Soliris as well as some other treatment options? I'm trying to get a sense of on that specific asset, how much of the value is this initial indication versus -- I know you've got 3 others that are fairly late in development.
+
+--------------------------------------------------------------------------------
+Timothy P. Walbert,  Horizon Therapeutics Public Limited Company - Chairman, President & CEO    [3]
+--------------------------------------------------------------------------------
+
+          Sure. Thanks, Chris. As we look at the rationale, certainly UPLIZNA being on-market and being off to a good launch here over the last several quarters fits nicely into our commercial portfolio. But as we look at the value, the value of UPLIZNA to achieve over $1 billion is in the significant additional indications that are being pursued in MG and other, in IgG4.
+So we certainly see the platform as being the key long-term driver of value to Horizon with 4920 and 7734 as well as moving 116 further in development. Short term, certainly driving the continued uptake of UPLIZNA is key, but moving the pipeline forward of UPLIZNA and the broader pipeline is where we're going to realize that significant value and achieve what we see as over $3 billion in peak annual sales from the portfolio.
+Andy, do you want to walk through Chris' question around the market?
+
+--------------------------------------------------------------------------------
+Andy Pasternak,  Horizon Therapeutics Public Limited Company - Executive VP & Chief Strategy Officer    [4]
+--------------------------------------------------------------------------------
+
+          Sure. So to put this in a context, I think it's important, Chris, to frame up the 2 kind of paradigms of the market. So there's acute treatment of NMOSD patients. That's when patients flare and high-dose steroids are typically used or they go through plasma exchange. And then there's chronic treatment of using preventative medications to prevent flares.
+Historically, before there were any approved medications, there were a broad variety of immunosuppressants used, azathioprine, MMF, methotrexate, rituximab. And then the first drug was approved for this indication, which was Soliris, in the middle of 2019.
+UPLIZNA was the second drug approved. That was a year later. That was last June. And we do think that UPLIZNA has a very favorable profile overall. It demonstrated high efficacy in the Phase III study, achieving 89% relapse-free rates after 28 weeks. And importantly, that was done without any background therapy.
+It has a favorable dosing profile. So after a loading dose, it's dosed every 6 months. And it's also just a fundamentally different mechanism. So UPLIZNA as an anti-CD19 is a B-cell depleter. Soliris is obviously an inhibitor of the complement cascade. So those are different approaches.
+So patients do cycle through medications in this disease as they do in other similar diseases like MS, and we think that it's important to have multiple treatment options, and we think that UPLIZNA has a very important and relevant role to play.
+
+--------------------------------------------------------------------------------
+Tina E. Ventura,  Horizon Therapeutics Public Limited Company - SVP of IR    [5]
+--------------------------------------------------------------------------------
+
+          Thanks, Andy. Next question, please, Shannon.
+
+--------------------------------------------------------------------------------
+Operator    [6]
+--------------------------------------------------------------------------------
+
+          Our next question comes from David Amsellem with Piper Sandler.
+
+--------------------------------------------------------------------------------
+David A. Amsellem,  Piper Sandler & Co., Research Division - MD & Senior Research Analyst    [7]
+--------------------------------------------------------------------------------
+
+          Continuing with the theme of the treatment landscape for NMOSD, can you just talk about how you envision the role of UPLIZNA evolving going forward in the context of Enspryng and also Soliris being available? How do you -- what advantages do you perceive for UPLIZNA versus the other 2 biologics that are available in the setting?
+And then secondly, do you have color on early uptake for UPLIZNA? How many patients are on treatment thus far and how you're thinking about uptake for 2021?
+
+--------------------------------------------------------------------------------
+Timothy P. Walbert,  Horizon Therapeutics Public Limited Company - Chairman, President & CEO    [8]
+--------------------------------------------------------------------------------
+
+          Sure. Thanks, David. So relative to number of patients, we'll communicate more around progress in the launch of UPLIZNA. I think we've seen good progress. Everything we've seen from the Viela team, good progress throughout the second half of the year and the early phases of launch. But we'll talk more about what our plans are for '21 and beyond commercially with UPLIZNA on our fourth quarter call.
+Relative to your question around the market, Andy, you want to touch on that again?
+
+--------------------------------------------------------------------------------
+Andy Pasternak,  Horizon Therapeutics Public Limited Company - Executive VP & Chief Strategy Officer    [9]
+--------------------------------------------------------------------------------
+
+          Yes, David, just to kind of build on the prior comment, again, UPLIZNA has a unique mechanism of action relative to both Enspryng, which is an anti-IL-6, as well as Soliris, different dosing profiles as well and different profiles in terms of how they were studied.
+So we think that they're -- we think they're all relevant treatments. We think that UPLIZNA absolutely is a relevant option to some and physicians for certain patients who want to approach this disease using B-cell depletion, and UPLIZNA is the only approved medicine that takes that approach.
+
+--------------------------------------------------------------------------------
+Tina E. Ventura,  Horizon Therapeutics Public Limited Company - SVP of IR    [10]
+--------------------------------------------------------------------------------
+
+          Thank you. Shannon, next question, please.
+
+--------------------------------------------------------------------------------
+Operator    [11]
+--------------------------------------------------------------------------------
+
+          Our next question comes from Ken Cacciatore with Cowen and Company.
+
+--------------------------------------------------------------------------------
+Kenneth Charles Cacciatore,  Cowen and Company, LLC, Research Division - MD & Senior Research Analyst    [12]
+--------------------------------------------------------------------------------
+
+          Congratulations to everyone. Just -- I wanted to ask quickly about TEPEZZA before I ask the question about UPLIZNA. Just on TEPEZZA, Tim, can you give some sense if you get this capacity approved and through, is this going to allow you to build some inventory levels back? And then wondering if you could give a little bit of context around how the clinicians are handling some of the patient warehousing. Are you already seeing this in accumulating folks and going to be able to kind of reestablish that treatment once we get you all clear on the additional inventory?
+And then on UPLIZNA, I hate to ask but just trying to figure out how you feel about the consensus $55 million for this year. And I'm just doing an eyeball, about $0.5 billion, about 5 years out. Just any context around those numbers?
+And then lastly, on manufacturing of the products, just getting some questions about whether you're going to have to invest to take manufacturing back in-house from AstraZeneca.
+
+--------------------------------------------------------------------------------
+Timothy P. Walbert,  Horizon Therapeutics Public Limited Company - Chairman, President & CEO    [13]
+--------------------------------------------------------------------------------
+
+          Sure. So I'll kind of start from the back. From a manufacturing standpoint, we have significant inventories on UPLIZNA. So we don't see any near-term issues with that. And certainly, they've been working with AstraZeneca to transfer to alternative manufacturing across the portfolio. And we'll continue those efforts and work closely with both the Viela team and AstraZeneca as that progresses. But we don't see any significant challenges there, and there is sufficient inventory on hand.
+Speaking to UPLIZNA guidance, as I said, we'll address our views on that on our fourth quarter call.
+And getting to TEPEZZA from an inventory standpoint, as we get into the second quarter and beyond and with Catalent, the third-party manufacturer having a high-speed line coming on that would handle the vaccine production, we would see ability to get more regular manufacturing lots and begin to build significant inventory over the second, third quarter and beyond. So we feel confident we'll be able to do so.
+And lastly, Ken, to your comments around interactions with clinicians, with patients that we are in regular communication with the patients who are patient access managers and with -- directly with the physicians to help continue to communicate with them in various means and make sure that we are letting them know each step of the way. We communicated to them when we submitted the application just last week.
+So we have all of these patients in regular communication. And once we get approval to resupply the market, we will quickly move those patients back on to treatment. So we have regular dialogue with the entire existing patient community.
+
+--------------------------------------------------------------------------------
+Tina E. Ventura,  Horizon Therapeutics Public Limited Company - SVP of IR    [14]
+--------------------------------------------------------------------------------
+
+          Thanks, Ken. Shannon, next question, please.
+
+--------------------------------------------------------------------------------
+Operator    [15]
+--------------------------------------------------------------------------------
+
+          Our next question comes from Nick Rubino with Stifel.
+
+--------------------------------------------------------------------------------
+Nicholas Carl Rubino,  Stifel, Nicolaus & Company, Incorporated, Research Division - Associate    [16]
+--------------------------------------------------------------------------------
+
+          This is Nick Rubino on for Annabel. Congrats on an exciting purchase here. First, do you have any post-marketing R&D programs in mind for UPLIZNA, basically to maybe establish a better position against Rituxan since they're both B-cell depleting therapies? And on that, currently, what percentage of UPLIZNA patients are switching from Rituxan?
+And then secondly, you're inheriting a (inaudible) of pretty interesting indications and programs from Viela in addition to your own. Some of these areas are quite crowded. How are you planning on prioritizing the pipeline? And any timeline changes?
+
+--------------------------------------------------------------------------------
+Timothy P. Walbert,  Horizon Therapeutics Public Limited Company - Chairman, President & CEO    [17]
+--------------------------------------------------------------------------------
+
+          So the timelines that have been reviewed by Viela are consistent with our views at this point. Relative to prioritization, as I said, there's 4 medicines or products in development across 9 programs, many indications continuing on for UPLIZNA. And we expect to, one, continue those programs but look at other potential areas to accelerate into new or additional indications with several different medicines in the portfolio.
+Relative to post marketing and looking at UPLIZNA, we will comment more on that as we get to the close. But we have seen both new and patient switching, as you would expect in this market, but we're not going to get into percentages at this point in time.
+
+--------------------------------------------------------------------------------
+Tina E. Ventura,  Horizon Therapeutics Public Limited Company - SVP of IR    [18]
+--------------------------------------------------------------------------------
+
+          Thanks, Nick. Shannon, next question, please.
+
+--------------------------------------------------------------------------------
+Operator    [19]
+--------------------------------------------------------------------------------
+
+          Our next question comes from Jason Gerberry with Bank of America.
+
+--------------------------------------------------------------------------------
+Jason Matthew Gerberry,  BofA Merrill Lynch, Research Division - MD in US Equity Research    [20]
+--------------------------------------------------------------------------------
+
+          I guess just in terms of which pipeline stage opportunities you ascribe the most value, I wonder if you can comment. Was it UPLIZNA MG? Was it 7734 for lupus? Just curious if you can provide any just directional assistance and which pipeline indication you're most excited about.
+And then on UPLIZNA, how helpful is it to have a call-in with the neuro-ophthalmologist with TEPEZZA? There was a mention about getting infusion medications adopted in the NMOSD space. So just kind of curious, commercially, is the neuro-ophthalmologist the primary prescriber here? And is that potentially something you can leverage in the future?
+And then just lastly on TEPEZZA. Did you guys get any communication from FDA after the submission? Just curious what gets you comfortable on the 1-month stability would be sufficient to enable the approval of the process change.
+
+--------------------------------------------------------------------------------
+Timothy P. Walbert,  Horizon Therapeutics Public Limited Company - Chairman, President & CEO    [21]
+--------------------------------------------------------------------------------
+
+          So we've been in regular dialogue with the FDA, both -- as we submitted information. We did on a rolling basis, we submitted data in advance of the final submission and then did the submission. So we've had regular dialogue around what we'd be providing in that submission, and we look forward to the agency reviewing that. I can't really speak beyond that at this point. It's in their hands. And we think there's sufficient data to move forward with the resupply of the market.
+Relative to how we look at the overall pipeline, we see each of the medicines, UPLIZNA, both in NMOSD but also on MG and IgG4 RDE and others, that having $1 billion-plus opportunity as we see the same for 7734 in lupus and other indications, the billion-dollar opportunity, and with 4920, equally, another $1 billion opportunity. So we see each of those 3 platforms as significant opportunities. 116 is still early, but also a very strong scientific team that we believe will generate incremental assets as well.
+So we see the value of the overall pipeline is delivering potentially $3 billion in annual sales. We're excited to move all of them forward over the coming years here.
+
+--------------------------------------------------------------------------------
+Tina E. Ventura,  Horizon Therapeutics Public Limited Company - SVP of IR    [22]
+--------------------------------------------------------------------------------
+
+          Thanks, Jason. Shannon, next question, please.
+
+--------------------------------------------------------------------------------
+Operator    [23]
+--------------------------------------------------------------------------------
+
+          Our next question comes from David Risinger with Morgan Stanley.
+
+--------------------------------------------------------------------------------
+David Reed Risinger,  Morgan Stanley, Research Division - MD in Equity Research and United States Pharmaceuticals Analyst    [24]
+--------------------------------------------------------------------------------
+
+          Let me add my congrats to you, Tim and the team as well. So I have 2 questions, please. First, could you discuss opportunities to commercialize UPLIZNA globally? I know that, that was something that has been considered in the past, but I'm just not sure how Horizon sees that opportunity.
+And then second, if you could just talk about operational integration and how you see the 2 companies being integrated between Chicago and Gaithersburg, Maryland.
+
+--------------------------------------------------------------------------------
+Timothy P. Walbert,  Horizon Therapeutics Public Limited Company - Chairman, President & CEO    [25]
+--------------------------------------------------------------------------------
+
+          Sure. So I'll talk about integration. We've got -- we'll see this as our fourth major facility. We've got R&D team and manufacturing team in South San Francisco. We've got a significant team here in the Chicago land area. We've got a significant manufacturing and finance team in Dublin, and we see this as being a fourth hub of ours. So we'd look to maintain and build upon the great science that's been done in Gaithersburg and use that as an additional hub to build on the autoimmune and inflammatory disease portfolio. So it will remain a key part of our business. We know how to work with multiple different sites as we have over the years, and we're excited to begin working with the team at close.
+So that -- we'll communicate more as we move forward. But our -- this is not a synergy deal. This is all about adding incremental R&D and adding a very successful team of scientists in the Viela team as well as a commercial team that has gotten off UPLIZNA to a strong start.
+Relative to the global opportunity, I know it is license. And Andy, you want to take that? Go ahead.
+
+--------------------------------------------------------------------------------
+Andy Pasternak,  Horizon Therapeutics Public Limited Company - Executive VP & Chief Strategy Officer    [26]
+--------------------------------------------------------------------------------
+
+          Sure, David. So on UPLIZNA -- well, first of all, generally speaking, across all of these candidates, Viela has worldwide rights. UPLIZNA specifically, they have agreed to commercial partnerships for Greater China already with Hansoh and for Japan and a number of other Asian markets with Mitsubishi Tanabe. And in fact, marketing applications have been filed for those regions in the second half of last year. So those are already spoken for, for UPLIZNA.
+In terms of Europe, they -- Viela disclosed that they have been in discussions with potential partners. Obviously, we will evaluate those opportunities relative to us going alone and building out that infrastructure, and we'll update more on that going forward.
+
+--------------------------------------------------------------------------------
+Timothy P. Walbert,  Horizon Therapeutics Public Limited Company - Chairman, President & CEO    [27]
+--------------------------------------------------------------------------------
+
+          Our general view is that with this portfolio with HZN-825, with what we've discussed relative to our plans in Japan and other international markets with TEPEZZA, we are going to look to build a Horizon presence across key markets. We will evaluate current discussions that Phil is having, as Andy mentioned, in Europe, and determine if it's the right time now to build that presence or -- and what that looks like. But we'll communicate that more over time post close.
+
+--------------------------------------------------------------------------------
+Tina E. Ventura,  Horizon Therapeutics Public Limited Company - SVP of IR    [28]
+--------------------------------------------------------------------------------
+
+          Great. Thanks, Dave. And Shannon, we've got time for one more question, please.
+
+--------------------------------------------------------------------------------
+Operator    [29]
+--------------------------------------------------------------------------------
+
+          Our last question is from Dana Flanders with Guggenheim.
+
+--------------------------------------------------------------------------------
+Dana Carver Flanders,  Guggenheim Securities, LLC, Research Division - Senior Analyst    [30]
+--------------------------------------------------------------------------------
+
+          Congratulations on the deal. Maybe just quickly, just on R&D. I know you mentioned you'll be increasing it now to the kind of low double digits. Is that the right kind of run rate you see going forward as you become more of a fully integrated R&D company?
+And then along those lines, do you envision shifting some of the M&A dollars that you've spent historically now on R&D just given you have such a pipeline breadth?
+
+--------------------------------------------------------------------------------
+Timothy P. Walbert,  Horizon Therapeutics Public Limited Company - Chairman, President & CEO    [31]
+--------------------------------------------------------------------------------
+
+          Thanks, Dana. So yes, we expect low double digits in the near term, as Paul reviewed. It's more than doubling in the base Horizon portfolio than adding in the significant R&D being conducted by the Viela team.
+We are going to continue to look at additional R&D acquisitions to continue to build the pipeline. We see significant opportunities in the marketplace, and we will continue to aggressively look to add new medicines over the coming months and years.
+
+--------------------------------------------------------------------------------
+Tina E. Ventura,  Horizon Therapeutics Public Limited Company - SVP of IR    [32]
+--------------------------------------------------------------------------------
+
+          Great. Thanks, Dana. Thank you, Shannon. That concludes our call this morning. A replay of this call and webcast will be available in approximately 2 hours. Thanks for joining us.
+
+--------------------------------------------------------------------------------
+Operator    [33]
+--------------------------------------------------------------------------------
+
+          Ladies and gentlemen, this concludes today's conference call. Thank you for participating. You may now disconnect.
+
+
+
+
+
+
+
+--------------------------------------------------------------------------------
+Definitions
+--------------------------------------------------------------------------------
+PRELIMINARY TRANSCRIPT: "Preliminary Transcript" indicates that the 
+Transcript has been published in near real-time by an experienced 
+professional transcriber.  While the Preliminary Transcript is highly 
+accurate, it has not been edited to ensure the entire transcription 
+represents a verbatim report of the call.
+
+EDITED TRANSCRIPT: "Edited Transcript" indicates that a team of professional 
+editors have listened to the event a second time to confirm that the 
+content of the call has been transcribed accurately and in full.
+
+--------------------------------------------------------------------------------
+Disclaimer
+--------------------------------------------------------------------------------
+Refinitiv reserves the right to make changes to documents, content, or other 
+information on this web site without obligation to notify any person of 
+such changes.
+
+In the conference calls upon which Event Transcripts are based, companies 
+may make projections or other forward-looking statements regarding a variety 
+of items. Such forward-looking statements are based upon current 
+expectations and involve risks and uncertainties. Actual results may differ 
+materially from those stated in any forward-looking statement based on a 
+number of important factors and risks, which are more specifically 
+identified in the companies' most recent SEC filings. Although the companies 
+may indicate and believe that the assumptions underlying the forward-looking 
+statements are reasonable, any of the assumptions could prove inaccurate or 
+incorrect and, therefore, there can be no assurance that the results 
+contemplated in the forward-looking statements will be realized.
+
+THE INFORMATION CONTAINED IN EVENT TRANSCRIPTS IS A TEXTUAL REPRESENTATION
+OF THE APPLICABLE COMPANY'S CONFERENCE CALL AND WHILE EFFORTS ARE MADE TO
+PROVIDE AN ACCURATE TRANSCRIPTION, THERE MAY BE MATERIAL ERRORS, OMISSIONS,
+OR INACCURACIES IN THE REPORTING OF THE SUBSTANCE OF THE CONFERENCE CALLS.
+IN NO WAY DOES REFINITIV OR THE APPLICABLE COMPANY ASSUME ANY RESPONSIBILITY FOR ANY INVESTMENT OR OTHER
+DECISIONS MADE BASED UPON THE INFORMATION PROVIDED ON THIS WEB SITE OR IN
+ANY EVENT TRANSCRIPT. USERS ARE ADVISED TO REVIEW THE APPLICABLE COMPANY'S
+CONFERENCE CALL ITSELF AND THE APPLICABLE COMPANY'S SEC FILINGS BEFORE
+MAKING ANY INVESTMENT OR OTHER DECISIONS.
+--------------------------------------------------------------------------------
+Copyright 2023 Refinitiv. All Rights Reserved.
+--------------------------------------------------------------------------------

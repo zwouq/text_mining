@@ -1,0 +1,404 @@
+
+
+Refinitiv StreetEvents Event Transcript
+E D I T E D   V E R S I O N
+
+Bristol-Myers Squibb Co to Acquire Karuna Therapeutics Inc-M&amp;A Call
+DECEMBER 22, 2023 / 1:00PM GMT
+
+================================================================================
+Corporate Participants
+================================================================================
+
+ * Adam Lenkowsky
+   Bristol-Myers Squibb Company - Executive VP, Chief Commercialization Officer & Head of U.S. Oncology
+ * Timothy Power
+   Bristol-Myers Squibb Company - VP & Head of IR
+ * David V. Elkins
+   Bristol-Myers Squibb Company - Executive VP & CFO
+ * Christopher S. Boerner
+   Bristol-Myers Squibb Company - CEO & Director
+ * Samit Hirawat
+   Bristol-Myers Squibb Company - Executive VP & Chief Medical Officer of Drug Development
+ * Unidentified Company Representative
+    - 
+
+================================================================================
+Conference Call Participiants
+================================================================================
+
+ * Unidentified Analyst
+    - 
+ * Carter Lewis Gould
+   Barclays Bank PLC, Research Division - Senior Analyst
+ * Geoffrey Christopher Meacham
+   BofA Securities, Research Division - MD
+ * David Reed Risinger
+   Leerink Partners LLC - Senior MD & Senior Research Analyst
+ * James John Shin
+   Deutsche Bank AG, Research Division - Research Analyst
+ * Matthew Christopher Phipps
+   William Blair & Company L.L.C., Research Division - Senior Biotechnology Research Analyst
+ * Christopher Thomas Schott
+   JPMorgan Chase & Co, Research Division - Senior Analyst
+
+================================================================================
+Presentation
+--------------------------------------------------------------------------------
+Operator    [1]
+--------------------------------------------------------------------------------
+Welcome to the Bristol-Myers Squibb acquisition of Karuna Therapeutics Conference Call. (Operator Instructions) Please note, this event is being recorded. I would now like to turn the conference over to Tim Power, Vice President of Investor Relations. Please go ahead.
+
+--------------------------------------------------------------------------------
+Timothy Power,  Bristol-Myers Squibb Company - VP & Head of IR    [2]
+--------------------------------------------------------------------------------
+Thank you, and good morning, everyone. Thanks for joining us today to discuss our planned acquisition of Karuna Therapeutics. 
+On the call with me with prepared remarks are Chris Boerner, our Chief Executive Officer; David Elkins, our Chief Financial Officer; Adam Lenkowsky, our Chief Commercialization Officer; and Samit Hirawat, our Chief Medical Officer and Head of Global Drug Development. We're also joined for the Q&A by Robert Plenge, Executive Vice President and Chief Research Officer; and Richard Hargreaves, Senior Vice President, Neuroscience Therapeutic Research Center. 
+As you'll note, we've posted slides to bms.com that you can follow along with for the discussion. But before we get going, I'll read our forward-looking statements. 
+During this call, we'll make statements about the company's future plans and prospects that constitute forward-looking statements. Actual results may differ materially from those indicated by these forward-looking statements as a result of various important factors, including those discussed in the company's SEC filings. These forward-looking statements represent our estimates as of today and should not be relied upon as representing our estimates as of any future date. We specifically disclaim any obligation to update forward-looking statements even if our estimates change. 
+We'll also focus our comments on our non-GAAP financial measures, which are adjusted to exclude certain specified items. Reconciliations of certain non-GAAP financial measures to the most comparable GAAP measures are available at BMS. 
+And now I'll hand over to Chris.
+
+--------------------------------------------------------------------------------
+Christopher S. Boerner,  Bristol-Myers Squibb Company - CEO & Director    [3]
+--------------------------------------------------------------------------------
+Thanks, Tim, and good morning to all of you. I realize that many of you are winding down for the holidays, and we really appreciate you joining us this morning. 
+We're excited to announce our transaction with Karuna Therapeutics. We have a lot of admiration for their talented team and all that they've achieved for patients. 
+Let's go to Slide 4. We having had an opportunity to speak with some of you since I stepped into the CEO role a few weeks ago, you know that I'm focused on strengthening the growth profile of the company, particularly in the back half of the decade. Our plan to do that includes ensuring we make the most of our current pipeline and portfolio, while also using our balance sheet wisely to complement what we already have, create value for shareholders and address significant unmet patient needs. I believe that the transaction we announced today represents another step in achieving that objective. 
+Let's get into the details on Slide 5. With the acquisition of Karuna, we add KarXT, a differentiated antipsychotic with positive Phase III data and significant commercial potential. KarXT has compelling data in schizophrenia and promise across multiple indications. We expect KarXT to launch in a series of indications in the next several years. 
+KarXT has the first novel mechanism in many years to treat schizophrenia. It targets both the M1 and M4 muscarinic receptors and has a differentiated safety and efficacy profile. It is filed in the U.S. for the treatment of schizophrenia in adults, with a PDUFA date in late Q3 of 2024. It is in registrational trials examining use in combination with existing standard of care atypical antipsychotics in schizophrenia and in Alzheimer's patients living with psychosis. 
+As Samit will tell you, we also see a role for this product in other neurologic conditions such as Alzheimer's disease education and Bipolar I disorder. KarXT is well positioned to help millions of patients and their caregivers in a meaningful way. It also represents a very significant commercial opportunity for the company, with multibillion-dollar peak sales opportunities across multiple indications. 
+Importantly, this strengthens our growth outlook through the back half of the decade and beyond. In addition to KarXT, the transaction adds early stage in preclinical assets to our emerging neuroscience pipeline. 
+As I walk through on Slide 6, in addition to bringing great science, Karuna is a clear strategic fit for our company. At our R&D Day in September, we talked about the importance of neuroscience as an emerging fit therapeutic area for BMS. Looking at the pro forma neuro pipeline, you can clearly see this transaction strengthens and diversifies our neuro portfolio. 
+Our current neuroscience pipeline is primarily in the neurodegenerative space, including our anti-tau asset. This transaction adds a neuropsychiatry presence, where BMS has been a leader in the past. This will help us establish a footprint in Alzheimer's, which will benefit us as we continue to develop our newer degenerative pipeline. We will be well positioned to advance the assets in our combined neuro portfolio and bring them to patients. 
+Slide 7 shows how a near-term launch in schizophrenia is just the beginning for KarXT. With the registrational trials already underway and our plans to begin development in additional indications, we are poised to add new indications over time, each with a significant market opportunity that will support BMS' growth. This really underscores the opportunity for value creation. 
+Now let me turn it over to Samit and Adam to walk you through the details. Samit?
+
+--------------------------------------------------------------------------------
+Samit Hirawat,  Bristol-Myers Squibb Company - Executive VP & Chief Medical Officer of Drug Development    [4]
+--------------------------------------------------------------------------------
+Well, thank you, Chris. And now let's turn to Slide 8, where you can see a snapshot of Karuna in its pipeline. Karuna has been focused on innovation in the neurological and psychiatric space. And looking at their pipeline, I'll point out a few things. Number one, KarXT has the potential to treat patients across multiple psychiatric indications, with regulatory filing already achieved for the schizophrenia indication and 2 additional indications ongoing in registration trials. 
+Beyond the registration trials that Karuna is running, we see additional opportunities for KarXT in Bipolar I disorder and Alzheimer's disease agitation. We also plan to develop a long-acting injectable formulation that could further benefit patients with these conditions. 
+Karuna also brings some early-stage opportunities. We can add to our own neuroscience pipeline, as Chris mentioned, that may have benefits in a range of indications across autism, depression, anxiety and many more. 
+Now on Slide 9, we walked through why KarXT is such a meaningful innovation. KarXT is differentiated because Xanomeline targets both the M1 and M4 Muscarinic Receptors. As you know, other muscarinic drugs in development target only the M4 receptor, and we believe the M1 agonism is important, especially for cognitive functions. 
+Additionally, by uniquely blocking the peripheral muscular receptors through the combination with trospium, the central modulation of M1 and M4 through Xanomeline is more targeted to the brain. Trospium thus helps blunt the cholinergic side effects that have limited the benefits of pure muscling activation to date. 
+Importantly, this hypothesis is now validated, with compelling efficacy and safety data demonstrating the benefits in 3 clinical studies in schizophrenia. KarXT is expected to launch in 2024 and has patent protection into the mid-2030s. 
+Let's turn to Slide 10 and talk about why the profile as a monotherapy in schizophrenia is so exciting. KarXT delivers compelling efficacy in schizophrenia with impacts across positive, negative and cognitive symptoms demonstrated here to the PAN score or the total score. 
+Importantly, we don't see the side effects commonly associated with atypical antipsychotics, including no meaningful weight gain, extrapyramidal symptoms, increased production levels, akathisia and sedation. Furthermore, KarXT has shown much lower levels of cholinergic adverse events, such as GI impacts associated with other muscarinic agents or muscular agonists. 
+Based on 3 positive studies in schizophrenia as a monotherapy, KarXT is now filed with the FDA and has a PDUFA date in September of 2024. As I mentioned earlier, we also see significant potential for KarXT in a number of other indications as we review on Slide 11. There is a registrational trial underway, adding KarXT to standard of care atypical antipsychotic in schizophrenia with data expected in 2025. 
+Because KarXT has a different mechanism of action to atypicals, there is good reason to believe it will be complementary to them. This trial has the potential to significantly change the treatment paradigm for patients with schizophrenia and increase the differentiation of KarXT. There is also good reasons to believe in the potential of KarXT in Alzheimer's disease psychosis. There is already compelling data from xanomaline alone in Alzheimer's disease that demonstrated its efficacy in treating Alzheimer's disease-related psychosis. Because KarXT is an agonist that act directly at muscarinic receptors, it may have advantages over positive allosteric modulators or PAMs related mechanisms, that require acelucholine, especially in conditions such as Alzheimer's disease, where there is a deficit in cholinergic neurotransmission. 
+We also believe that the M1 agonism, alongside M4 activity in karXT could uniquely improve cognitive functions. 2 registrational trials are already underway with data expected in 2026. 
+With the addition of trospium, we believe we can reduce the impact of cholinergic adverse events, which had resulted in the discontinuation of Xanomeline as a single agent development in this population. We also plan to take KarXT into development in Alzheimer's disease patients with agitation as the Xanomeline demonstrated promising clinical activity across symptomatology in Alzheimer's disease. 
+Finally, we plan to add Bipolar I disorder on the basis that these patients also need new options and the belief that M1 M4 receptor activation could modulate dopamine mediated manic behaviors in these patients while preserving cognition. 
+So across all of these indications, we are excited about the opportunity to significantly improve the lives of millions of patients. And with that, let me turn it over to Adam. Adam?
+
+--------------------------------------------------------------------------------
+Adam Lenkowsky,  Bristol-Myers Squibb Company - Executive VP, Chief Commercialization Officer & Head of U.S. Oncology    [5]
+--------------------------------------------------------------------------------
+Thank you, Samit. 
+It's clear KarXT has a very differentiated safety and efficacy profile. Now let's just take a step back and remember why that matters. 
+There's a high unmet need for patients with schizophrenia and Alzheimer's disease psychosis, as you can see on Slide 12. This creates a significant market opportunity. There have been no new mechanisms for patients with schizophrenia for many years, in fact, for several decades. 
+There are 4 products, all of which are generic, which make up about 80% of the market, and these include risperdal, Zyprexa, Seroquel and Abilify. While these agents have efficacy and antipsychotic effects, their tolerability and AE profile are challenging for many patients. 
+In fact, roughly 70% of patients don't respond, experience only a partial response and/or have unacceptable side effects. And most patients will cycle through atypical antipsychotics, many through several atypicals within just 6 months of starting therapy. This means that the 1.6 million people treated for schizophrenia in the United States have limited treatment options. 
+Health care providers have been waiting for many years for new treatment options that give broad efficacy without the hallmark side effects of current agents. For Alzheimer's patients living with psychosis, there is no approved treatment. Approximately 40% of the people diagnosed with Alzheimer's disease in the U.S. have psychosis. And this presents a very significant unmet need. 
+The  antipsychotics  are used to treat this condition, they have limited tolerability and efficacy. This makes clear why a drug with the profile of KarXT has the potential to transform so many lives as a potential first-in-class treatment for schizophrenia and our first disease treatment for Alzheimer's disease psychosis. 
+Now on Slide 13, let me show you just why KarXT is such a compelling medicine commercially. When you look across the dimensions of efficacy, these data are better than anything we've seen before. You can clearly see improvements compared to other atypicals with respect to serious side effects that have triggered diabetes, movement disorders, sedation and other serious conditions. And while you do see low-grade nausea and vomiting, we do not see that impacting patient adherence and broadly, these side effects are transient and have been consistent with placebo. 
+In fact, as you can see, it's on par with what we have seen previously with Abilify, and this gives us a lot of confidence in the commercial potential of KarXT. 
+On Slide 14, we plan to outline how we're going to commercialize this asset. Now initially, we expect patients who don't respond or can't tolerate generic atypical to switch to KarXT. And over time, based on the profile, we expect KarXT to be able to move into frontline and ultimately become a new standard of care. 
+Because we remain separate and independent companies today, BMS and Karuna will take steps independently ahead of close to position us to deliver KarXT's significant commercial opportunity in schizophrenia upon FDA approval. We're going to begin doing the groundwork now, so we're prepared to quickly build a neuroscience field force post close. 
+Remember, there are approximately 33,000 psychiatrists, including PAs and NPs, who treat the majority of schizophrenia patients. We have plans to drive trial and strong commercial adoption across a number of treatment settings, including private medical practices, community mental health centers and psychiatric institutions. We also understand the role that caregivers play when treating patients with schizophrenia and will develop robust patient support programs. 
+Karuna has made good progress in sourcing an experienced commercial organization to launch in September 2024, and has already begun conversations with state and national payers, as well as educating psychiatrists on this new mechanism. We know that government payers will play an important role in building access for this product, since this patient population is approximately 70% Medicaid and Medicare. We believe we can reach all states and large payers with our large access and reimbursement organization. We will focus on securing access over time across Medicaid and prescription drug lists as well as Medicare and commercial formularies. 
+Now although we have some work to do, we are confident in our plans to launch KarXT in schizophrenia toward the end of 2024 and expand into additional indications. And based on the unmet need as well as the very encouraging clinical data, KarXT represents a multibillion-dollar peak sales opportunity that should contribute meaningfully to our growth in the back end of the decade and into the 2030s, and will be an important product for patients and for our company. 
+Now let me turn it over to David to close. David?
+
+--------------------------------------------------------------------------------
+David V. Elkins,  Bristol-Myers Squibb Company - Executive VP & CFO    [6]
+--------------------------------------------------------------------------------
+Thanks, Adam. Let's turn to Slide 15. This is an exciting day for BMS and Karuna, and we look forward to welcoming the Karuna Team to BMS. We believe this transaction is compelling, with great science, a strong strategic fit and attractive financials. Karuna is a key transaction as we look to deepen our neuroscience portfolio and drive growth in the second half of the decade. 
+Now let me walk you through some of the specifics on the transaction. BMS has agreed to acquire all outstanding shares of Karuna for $330 per share. This represents a premium of 53% to the closing share price as of December 21. The purchase price is approximately $14 billion or $12.7 billion net of estimated cash acquired. We will fund this transaction primarily through new debt issuance. 
+We're acquiring KarXT, which is a first-in-class asset with significant commercial potential and multiple billion dollar peak sales opportunities, which will drive meaningful long-term growth. KarXT has a PDUFA date in September of next year for schizophrenia, which will bring near-term revenue and has the potential for multiple additional indications, including adjuvant schizophrenia, Alzheimer's disease psychosis, Alzheimer's disease agitation and bipolar disorder. 
+The Karuna pipeline further enhances our early-stage neuroscience portfolio as well. We currently anticipate the transaction to close in the first half of next year, and expect dilution of approximately $0.30 per share in our non-GAAP earnings per share in 2024, primarily driven by financing costs. We expect to offset the additional operating expenses through our continued resource allocation, cost efficiencies and portfolio prioritization. We expect to maintain operating margins above 37%. We will provide formal 2024 guidance as we typically do on our fourth quarter '23 earnings call. 
+This transaction is consistent with our capital allocation priorities and they remain unchanged. Business development continues to be a top priority to further strengthen the long-term growth profile of the company through bolt-on transactions, remain committed to our dividend and returning capital to our shareholders. 
+In summary, this transaction provides significant value creation strengthens our Neuroscience franchise and enhances the growth profile of the company. I'd like to thank all of you for taking part on our call today. And at this point, I'll hand the call back over to Tim and Chris for Q&A.
+
+
+================================================================================
+Questions and Answers
+--------------------------------------------------------------------------------
+Timothy Power,  Bristol-Myers Squibb Company - VP & Head of IR    [1]
+--------------------------------------------------------------------------------
+Great. Thanks very much, Chris. [Andrea], could we go to the first question, please?
+
+--------------------------------------------------------------------------------
+Operator    [2]
+--------------------------------------------------------------------------------
+(Operator Instructions) And our first question will come from Evan Seigerman of BMO Capital Markets.
+
+--------------------------------------------------------------------------------
+Unidentified Analyst,   -     [3]
+--------------------------------------------------------------------------------
+[McMahan] on for Evan. Obviously, with KarXT is not yet approved for schizophrenia, but can you talk about what your expectations may be for a launch, given the impressive data that has already been presented for the emerging trials? Do you think we could expect a bolus of patients switching to KarXT at the start? Or is this likely to be a gradual process as physicians get familiar and comfortable with the drug's profile?
+
+--------------------------------------------------------------------------------
+Christopher S. Boerner,  Bristol-Myers Squibb Company - CEO & Director    [4]
+--------------------------------------------------------------------------------
+Thanks for the question. Adam, do you want to take that?
+
+--------------------------------------------------------------------------------
+Adam Lenkowsky,  Bristol-Myers Squibb Company - Executive VP, Chief Commercialization Officer & Head of U.S. Oncology    [5]
+--------------------------------------------------------------------------------
+Yes. Happy to, Chris. Thanks. So remember, the KarXT, PDUFA date is at the end of Q3, so we'd expect to start to accumulate sales really in early '25. We plan to launch the product immediately upon approval, once the product can be shipped to pharmacies, and we will rapidly try to reach as many payers as we can. We believe we can reach all key states and large payers over the first 6 to 12 months. 
+And so as I talked about, there are about 33,000 psychiatrists. We will build a field organization to support this, and they treat the majority of patients. So we will focus on a number of these key settings, as I spoke to as well. 
+It will take some time to gain access. Remember, the majority of the payers here are Medicaid and Medicare. And so although access varies by state and by channel, it will take time to secure access. 
+As I also mentioned, we would expect our positioning at launch to be after a generic atypical. So after products like olanzapine, risperidone, aripiprazole, or quetiapine. And so we would not expect a bolus to be in place, but we would expect to see rapid switching upon the approval of this product, based on the unique efficacy and side effect profiles that we shared.
+
+--------------------------------------------------------------------------------
+Operator    [6]
+--------------------------------------------------------------------------------
+The next question comes from Cerena Chen of Wells Fargo.
+
+--------------------------------------------------------------------------------
+Unidentified Analyst,   -     [7]
+--------------------------------------------------------------------------------
+This is Cerena on for Mohit. Congrats on this deal. I wanted to ask about the IP and how strong you believe the patents are that are expected to go into the mid-2030s, because it seems like Karuna previously suggested that they might have protection out to 2040.
+
+--------------------------------------------------------------------------------
+Christopher S. Boerner,  Bristol-Myers Squibb Company - CEO & Director    [8]
+--------------------------------------------------------------------------------
+Cerena, it's Chris. I'll take that one. So clearly, as we've evaluated through diligence, the IP estate that Karuna has, we see real innovation that has been put into the combination use of these 2 compounds, and that's represented in the states that they have on their patents. There are a number of patents that protect the innovation and investments in KarXT and our expectation based on all of the diligence that we've done is that this asset will, as we said earlier, have exclusivity in the U.S. through the mid-2030s.
+
+--------------------------------------------------------------------------------
+Timothy Power,  Bristol-Myers Squibb Company - VP & Head of IR    [9]
+--------------------------------------------------------------------------------
+Thanks, Chris. If we go to the next question, please, Andrea.
+
+--------------------------------------------------------------------------------
+Operator    [10]
+--------------------------------------------------------------------------------
+The next question comes from Chris Schott of JPMorgan.
+
+--------------------------------------------------------------------------------
+Christopher Thomas Schott,  JPMorgan Chase & Co, Research Division - Senior Analyst    [11]
+--------------------------------------------------------------------------------
+Can you just elaborate a little bit more on the dilution as we look out to 2025, which I'm assuming would increase versus the partial year in '24? And maybe just when do you expect the deal to become accretive to earnings? 
+And then just maybe a second question for Chris. Just maybe more broadly talk about appetite for M&A after this transaction. I know you've done a smaller repo, you had a deal earlier this year. I'm sorting a sense of like is the company still looking at transactions of kind of the size to continue to build that out your profile? Or should we think about a bit of a pause post this deal?
+
+--------------------------------------------------------------------------------
+Christopher S. Boerner,  Bristol-Myers Squibb Company - CEO & Director    [12]
+--------------------------------------------------------------------------------
+Sure. Thanks, Chris. Maybe I'll take the BD question, and then I'll flip it over to David to talk about dilution and accretion. 
+So look, we have consistently said that the focus that we have as a management team is to improve the growth profile of the company, particularly as we work our way through the losses of LOEs over the course of this decade. 
+The primary focus, of course, for that is going to be to continue to develop and move forward our existing pipeline and ensure we deliver on the commercial potential of the assets that we have on the market. But we've also been clear that business development is going to be a continued area of use of capital for us. The criteria that we're going to use to evaluate deals will be consistent. That is the deals have to be strategic. We believe the deal that we announced today very much is strategic. It has to be financially attractive. We also believe this deal is very attractive financially and adds value for shareholders. And of course, the science has to be compelling. And in addition, we've said that we would focus on those deals that give us an ability to enhance the growth profile for the company. 
+In terms of the types of deals that we're going to be focused on, look, I think that we're not looking to do -- we are not looking to do large transformative deals. We would be looking to do sort of bolt-on size deals that again help us to continue to build out therapeutic areas that we're in or enhance those areas that are emerging. 
+I would also note that in addition to doing acquisitions as we're talking about today, we're going to continue to focus on other forms of engagement with the external environment, including partnerships as we just announced with the system deal. But our commitment to business development as a priority for capital allocation hasn't changed. David?
+
+--------------------------------------------------------------------------------
+David V. Elkins,  Bristol-Myers Squibb Company - Executive VP & CFO    [13]
+--------------------------------------------------------------------------------
+Yes, Chris, thanks for the question. We expect dilution to be about $0.30 in our non-GAAP earnings in 2024. And as I said, this is mainly from the financing of the transaction, assuming we would close in the first half of the year. And we're really focused on continuing to -- on our resource reallocation cost efficiency programs and ruthlessly our portfolio prioritization, which gives us room to invest in transactions like this one is a good example.
+As I said, typically, we provide guidance on our fourth quarter earnings call, and we'll provide more detail there. We're not providing additional details at this time, but we're really encouraged by the significant revenue growth potential in the back half of the decade.
+
+--------------------------------------------------------------------------------
+Timothy Power,  Bristol-Myers Squibb Company - VP & Head of IR    [14]
+--------------------------------------------------------------------------------
+Terrific. Thanks very much, David. Andrea, could we go to the next question, please?
+
+--------------------------------------------------------------------------------
+Operator    [15]
+--------------------------------------------------------------------------------
+The next question comes from Geoff Meacham of Bank of America.
+
+--------------------------------------------------------------------------------
+Geoffrey Christopher Meacham,  BofA Securities, Research Division - MD    [16]
+--------------------------------------------------------------------------------
+Congrats on the deal. I just had a few. So the first is in schizophrenia. Can you guys talk about how you think treatment duration for KarXT could compare to standard of care? I know early, but high switch rates among generics are part of the market dynamic here that Adam talked about.
+Second question is I know the value near term will be on schizophrenia, but what's the relative value that Bristol put on the Alzheimer's indications? They're in the outer years. And by then, I think you could have the [RRA] come into player. I just wasn't sure how you guys are thinking about that.
+
+--------------------------------------------------------------------------------
+Timothy Power,  Bristol-Myers Squibb Company - VP & Head of IR    [17]
+--------------------------------------------------------------------------------
+So I'll let Adam speak to this. I will just say at the outset that we obviously believe that there's significant value in the initial schizophrenia indications. However, one key component of value was, as you know, the Alzheimer's disease psychosis indication and the potential for broader neurologic indications, but I'll let Adam speak to both aspects of that question.
+
+--------------------------------------------------------------------------------
+Adam Lenkowsky,  Bristol-Myers Squibb Company - Executive VP, Chief Commercialization Officer & Head of U.S. Oncology    [18]
+--------------------------------------------------------------------------------
+Yes. Thanks, Geoff, for the question. Just on the first question regarding the duration of treatment compliance and persistency. Clearly, that has been a significant issue for patients treated with schizophrenia, that's largely due to the limitations of the current assets that or in the market and particularly some of the significant side effects that Samit and I had outlined. That's a major cause of discontinuation as well as lack of efficacy. 
+As I shared, based on what we see from this asset, this unsurpassed efficacy in PAN scores, effect sizes as well as the ability to deliver a product with low levels of weight gain, prolactin increases, somnolence. This could lead to increases in the restoration of treatment. 
+The second piece is around how we valued this transaction and how we parse out each of the different indications. And I really see this as kind of 3 separate chapters. We're excited about the opportunity first in schizophrenia, because this is the first new mechanism in decades. And then when we look at moving into the middle of the decade, the opportunity for adjuvant schizophrenia also very significant. There's nothing approved in that space, and we can clearly see the opportunity that KarXT can have, on top of generic atypicals to boost to boost the efficacy of these products. So this certainly can be a standard of care in that in schizophrenia patients. 
+Now as it relates to Alzheimer's psychosis, we said this is the area where we see the most significant number of patients and 40% of patients are treated with Alzheimer's have psychosis the United States. So this presents a very significant need. We believe that KarXT will be the first product approved in this space. We have 2 Phase III studies ongoing today, and this will represent a very significant and meaningful increase for the brand in the back end of the decade and into the 2030s.
+
+--------------------------------------------------------------------------------
+Timothy Power,  Bristol-Myers Squibb Company - VP & Head of IR    [19]
+--------------------------------------------------------------------------------
+Thanks, Adam.
+
+--------------------------------------------------------------------------------
+Operator    [20]
+--------------------------------------------------------------------------------
+The next question comes from Carter Gould of Barclays.
+
+--------------------------------------------------------------------------------
+Carter Lewis Gould,  Barclays Bank PLC, Research Division - Senior Analyst    [21]
+--------------------------------------------------------------------------------
+I was hoping to get your thoughts on how you guys are thinking about the opportunity in Europe, while the karXT or the rest of the portfolio? And then also your confidence on the long-acting injectable, given sort of the dual mechanism of action in play and whatever diligence you did on that front as part of the deal.
+
+--------------------------------------------------------------------------------
+Unidentified Company Representative,   -     [22]
+--------------------------------------------------------------------------------
+Thanks for the question, Carter. Adam, do you want to take Europe and then Samit, you can pick up on LAI.
+
+--------------------------------------------------------------------------------
+Adam Lenkowsky,  Bristol-Myers Squibb Company - Executive VP, Chief Commercialization Officer & Head of U.S. Oncology    [23]
+--------------------------------------------------------------------------------
+Yes. So the first question is around the opportunity for geographic expansion into Europe. Now the studies were not done in Europe initially for schizophrenia, and so we believe that the initial indication will largely be a U.S.-specific opportunity. 
+That said, as we move into the additional indications that Samit referenced, whether it be at (inaudible) schizophrenia, but more -- probably more completely into Alzheimer's disease-related psychosis, bipolar, Alzheimer's agitation, there are opportunities for us to expand geographically.
+
+--------------------------------------------------------------------------------
+Samit Hirawat,  Bristol-Myers Squibb Company - Executive VP & Chief Medical Officer of Drug Development    [24]
+--------------------------------------------------------------------------------
+Yes. And thank you, Adam. And just to talk about the long-acting injectable, we are highly confident in terms of being able to bring it to the patients as a long-acting injectable formulation and our teams are already working on it. There are several ways of thinking about it in terms of dual chamber injections and other ways. So we are highly confident and we'll be talking more about in the coming time.
+
+--------------------------------------------------------------------------------
+Christopher S. Boerner,  Bristol-Myers Squibb Company - CEO & Director    [25]
+--------------------------------------------------------------------------------
+Carter, maybe I would just add one quick thing, which is that as we thought about the valuation of this opportunity, we, of course, factored in how we thought about geographic expansion that Adam referenced as well as the IRA implications that were part of Geoff's question. Tim?
+
+--------------------------------------------------------------------------------
+Timothy Power,  Bristol-Myers Squibb Company - VP & Head of IR    [26]
+--------------------------------------------------------------------------------
+Great. Thanks, Chris.
+
+--------------------------------------------------------------------------------
+Operator    [27]
+--------------------------------------------------------------------------------
+The next question comes from Matthew Phipps of William Blair.
+
+--------------------------------------------------------------------------------
+Matthew Christopher Phipps,  William Blair & Company L.L.C., Research Division - Senior Biotechnology Research Analyst    [28]
+--------------------------------------------------------------------------------
+Do you all expect the additional ambulatory blood pressure study to be submitted as part of the ongoing review, which could trigger a major amendment? And any thoughts on any potential adcom for the current review?
+
+--------------------------------------------------------------------------------
+Christopher S. Boerner,  Bristol-Myers Squibb Company - CEO & Director    [29]
+--------------------------------------------------------------------------------
+Samit, do you want to take that?
+
+--------------------------------------------------------------------------------
+Samit Hirawat,  Bristol-Myers Squibb Company - Executive VP & Chief Medical Officer of Drug Development    [30]
+--------------------------------------------------------------------------------
+Sure. Thank you. As you know, the data have been submitted and the file has been validated by the FDA with a PDUFA date crafted. So within that, there is no adcom that is expected as we know. 
+Secondly, of course, not going into the specifics of any of the details of the studies and data to be submitted, but there is a 120-day update that is going to be submitted, with which, as is routine, additional safety data will be submitted. So the blood pressure study will be part of that, and that does not trigger usually a major amendment.
+
+--------------------------------------------------------------------------------
+Timothy Power,  Bristol-Myers Squibb Company - VP & Head of IR    [31]
+--------------------------------------------------------------------------------
+Thank you, Samit
+
+--------------------------------------------------------------------------------
+Operator    [32]
+--------------------------------------------------------------------------------
+The next question comes from David Risinger of Leerink Partners.
+
+--------------------------------------------------------------------------------
+David Reed Risinger,  Leerink Partners LLC - Senior MD & Senior Research Analyst    [33]
+--------------------------------------------------------------------------------
+My congrats as well. So I have 2 questions, please. First, could you provide some more color on the deal process when you started engaging with Karuna and how you ended up securing the transaction? And then second, could you discuss your diligence on KarXT's efficacy and safety profile versus competing M1 M4 Muscarinic agonists in development?
+
+--------------------------------------------------------------------------------
+Christopher S. Boerner,  Bristol-Myers Squibb Company - CEO & Director    [34]
+--------------------------------------------------------------------------------
+Thanks for the question, David. I'll take the process question and then I'll turn it over to Samit to speak to the second half of your question. 
+So we've been engaging with the Karuna team for a number of months. Over that time, we've certainly gotten to like the science. We've been impressed with the quality of the people there. We were particularly, of course, intrigued by the quality of the data that we were seeing on KarXT as a first-in-class asset with significant potential. Obviously, it's an important asset and is that it's the first advance in many years in schizophrenia. But beyond that, we were very intrigued by the opportunity in Alzheimer disease psychosis and potentially a broader set of neurologic indications, given our earlier portfolio in neurodegenerative disease. So that was really the origins of how we began engaging with Karuna. 
+And of course, all deals have their own process and timing associated with them in terms of when they came together. But we felt that during those discussions, we reached a point where we feel great about the potential for the asset. And even though it's early, we were intrigued by the early pipeline. And we engaged in a more fulsome discussion and that led to the transaction that we announced today. 
+Samit, do you want to pick up the second part of the question?
+
+--------------------------------------------------------------------------------
+Samit Hirawat,  Bristol-Myers Squibb Company - Executive VP & Chief Medical Officer of Drug Development    [35]
+--------------------------------------------------------------------------------
+Yes. Thank you. Thank you, Chris, and thanks, David, for the question. We've certainly engaged deeply with the scientists at Karuna to really do the diligence on efficacy and safety. There are a few things that I would say. Number one, they are pretty brilliantly combined Xanomeline with trospium, so that you could preserve the central nervous system agonism that you see with Xanomeline for the M1 and M4 receptor agonist, where ezinomaline directly stimulates an has an agonistic effect on the muscular receptors, whereas trospium blocks the peripheral cholinergic effect, so there are no cholinergic side effects, as Adam talked about earlier through the slide as well. And that really provides a differentiated safety profile for this molecule.
+The second thing I would say is that it's very critical from our perspective to have that direct Muscarinic agonism because then you don't require acetylcholine. And that absence of acetylcholine in Alzheimer's disease becomes important, because if you can have a direct stimulation of the M1 and M4 receptors then there is a higher likelihood. And we've seen that in the clinical studies that have already been published with xanomeline alone of the positive outcomes for patients with Alzheimer's disease. 
+So overall, very satisfied with the efficacy, very satisfied with the differentiated safety profile. And that's why we are also confident in terms of the adjunctive study that is ongoing for the combinability with the atypical antipsychotics.
+
+--------------------------------------------------------------------------------
+Christopher S. Boerner,  Bristol-Myers Squibb Company - CEO & Director    [36]
+--------------------------------------------------------------------------------
+And David, just to close out on the first part of your question, you'll obviously see the details of the transaction when the SEC filings occur as well. 
+Tim, do you want to go to the next question?
+
+--------------------------------------------------------------------------------
+Timothy Power,  Bristol-Myers Squibb Company - VP & Head of IR    [37]
+--------------------------------------------------------------------------------
+Sure. Thanks, Chris. Yes. I think Andrea, we've got time for one last question.
+
+--------------------------------------------------------------------------------
+Operator    [38]
+--------------------------------------------------------------------------------
+The next question comes from James Shin of Deutsche Bank.
+
+--------------------------------------------------------------------------------
+James John Shin,  Deutsche Bank AG, Research Division - Research Analyst    [39]
+--------------------------------------------------------------------------------
+Happy holidays. Just one more. Does this deal largely address BMY's needs for neuroscience? And does this now sort of shift or move up other disease areas the company is now looking for?
+
+--------------------------------------------------------------------------------
+Christopher S. Boerner,  Bristol-Myers Squibb Company - CEO & Director    [40]
+--------------------------------------------------------------------------------
+Thanks for the question, James, and happy holidays to you as well. Look, as we said at our R&D Day back in September, neuroscience is a fifth therapeutic area for us. We obviously have multiple agents that are moving into development, including our Phase II ready anti-tau asset. In fact, you look really across multiple disease areas we have over 20 active programs that are in discovery, and this deal clearly accelerates our entry into this particular exciting area. 
+What I would say is that we're going to continue to think about business development really across our entire portfolio in terms of using it as an opportunity, where it's appropriate, where it makes strategic sense, where the financials are attracted to continue to build depth in therapeutic areas where we have a very large presence today, to continue to build additional capabilities in emerging therapeutic areas, much like the rationale for the transaction today and to continue to also look for platforms in areas that make sense for Bristol-Myers Squibb to engage in and potentially can help us grow this business over the course of the decade. So that's how we'll continue to think about business development and that will be true for neuroscience as well. 
+So I think that's the last question that we have time for. What I would say is that, again, thank you all for joining us. I hope you all have a very nice holiday break. Thanks for your time, and it's obviously an exciting day for Bristol-Myers Squibb and for patients. And please, of course, follow up with our IR team if you have any more questions. And again, happy holidays to all of you and your families. Thanks a lot.
+
+--------------------------------------------------------------------------------
+Operator    [41]
+--------------------------------------------------------------------------------
+The conference has now concluded. Thank you for attending today's presentation, and you may now disconnect.
+
+
+
+
+
+
+
+--------------------------------------------------------------------------------
+Definitions
+--------------------------------------------------------------------------------
+PRELIMINARY TRANSCRIPT: "Preliminary Transcript" indicates that the 
+Transcript has been published in near real-time by an experienced 
+professional transcriber.  While the Preliminary Transcript is highly 
+accurate, it has not been edited to ensure the entire transcription 
+represents a verbatim report of the call.
+
+EDITED TRANSCRIPT: "Edited Transcript" indicates that a team of professional 
+editors have listened to the event a second time to confirm that the 
+content of the call has been transcribed accurately and in full.
+
+--------------------------------------------------------------------------------
+Disclaimer
+--------------------------------------------------------------------------------
+Refinitiv reserves the right to make changes to documents, content, or other 
+information on this web site without obligation to notify any person of 
+such changes.
+
+In the conference calls upon which Event Transcripts are based, companies 
+may make projections or other forward-looking statements regarding a variety 
+of items. Such forward-looking statements are based upon current 
+expectations and involve risks and uncertainties. Actual results may differ 
+materially from those stated in any forward-looking statement based on a 
+number of important factors and risks, which are more specifically 
+identified in the companies' most recent SEC filings. Although the companies 
+may indicate and believe that the assumptions underlying the forward-looking 
+statements are reasonable, any of the assumptions could prove inaccurate or 
+incorrect and, therefore, there can be no assurance that the results 
+contemplated in the forward-looking statements will be realized.
+
+THE INFORMATION CONTAINED IN EVENT TRANSCRIPTS IS A TEXTUAL REPRESENTATION
+OF THE APPLICABLE COMPANY'S CONFERENCE CALL AND WHILE EFFORTS ARE MADE TO
+PROVIDE AN ACCURATE TRANSCRIPTION, THERE MAY BE MATERIAL ERRORS, OMISSIONS,
+OR INACCURACIES IN THE REPORTING OF THE SUBSTANCE OF THE CONFERENCE CALLS.
+IN NO WAY DOES REFINITIV OR THE APPLICABLE COMPANY ASSUME ANY RESPONSIBILITY FOR ANY INVESTMENT OR OTHER
+DECISIONS MADE BASED UPON THE INFORMATION PROVIDED ON THIS WEB SITE OR IN
+ANY EVENT TRANSCRIPT. USERS ARE ADVISED TO REVIEW THE APPLICABLE COMPANY'S
+CONFERENCE CALL ITSELF AND THE APPLICABLE COMPANY'S SEC FILINGS BEFORE
+MAKING ANY INVESTMENT OR OTHER DECISIONS.
+--------------------------------------------------------------------------------
+Copyright 2023 Refinitiv. All Rights Reserved.
+--------------------------------------------------------------------------------

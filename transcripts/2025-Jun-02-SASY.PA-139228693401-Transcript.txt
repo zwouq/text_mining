@@ -1,0 +1,321 @@
+
+
+LSEG StreetEvents Event Transcript
+E D I T E D  V E R S I O N
+
+Sanofi SA to Acquire Blueprint Medicines Corp Call
+June 02, 2025 / 6:30AM UTC
+
+================================================================================
+Corporate Participants
+================================================================================
+
+ * Thomas Larsen
+   Sanofi SA - Head of Investor Relations
+ * Paul Hudson
+   Sanofi SA - Chief Executive Officer, Executive Director, Member of the Executive Committee
+ * Brian Foard
+   Sanofi SA - Head of the Specialty Medicine Entity, Member of the Executive Committee
+ * Francois-Xavier Roger
+   Sanofi SA - Chief Financial Officer, Member of the Executive Committee
+ * Houman Ashrafian
+   Sanofi SA - Executive Vice President, Head of Research and Development, Member of the Executive Committee
+
+================================================================================
+Conference Call Participants
+================================================================================
+
+ * Operator
+   
+ * Luisa Hector
+   Bernberg - Analyst
+ * Matthew Weston
+   UBS - Analyst
+ * Richard Vosser
+   JPMorgan - Analyst
+ * James Quigley
+   Goldman Sachs - Analyst
+ * Emmanuel Papadakis
+   Deutsche Bank - Analyst
+ * Peter Verdu
+   BNP - Analyst
+ * Jaime Escribano
+   Santander - Analyst
+
+================================================================================
+presentation
+--------------------------------------------------------------------------------
+Thomas Larsen, Sanofi SA - Head of Investor Relations    [1]
+--------------------------------------------------------------------------------
+Good morning, everyone. This is Thomas Kudsk Larsen from the Sanofi IR team. Thank you for joining us today to discuss Sanofi's proposed acquisition of Blueprint Medicines that significantly strengthens our position in rare diseases and which represents a major step forward in our commitment to patients with rare and often debilitating diseases like mastocytosis.
+We plan to spend between 30 and 45 minutes today depending on the number of questions. As usual, you can find the slides on sanofi.com.
+Please turn to slides 3 and 4. Here we have the usual forward-looking statements and a new slide specifically for today. We would like to remind you that information presented in this call contains forward-looking statements, which are subject to substantial risks and uncertainties that may cause actual results to differ materially. We encourage you to read both disclaimers in our presentation.
+In addition, we refer you to our 2024 Form 20-F on file with the US SEC and our French registration document for a description of these risk factors. With this, I'll hand you over to our CEO, Paul.
+--------------------------------------------------------------------------------
+Paul Hudson, Sanofi SA - Chief Executive Officer, Executive Director, Member of the Executive Committee    [2]
+--------------------------------------------------------------------------------
+Well, thanks, Thomas, and let me also welcome everyone. On our side, we have Brian, Francois and Houman to present and help with the Q&A.
+On slide 5, let me outline the four key pillars of this acquisition. First, we're significantly expanding our rare disease portfolio through Blueprint's AYVAKIT, the only approved therapy for both advanced and indolent systemic mastocytosis.
+Second, we're gaining mid-stage pipeline, including elenestinib in registrational life cycle management development in mastocytosis and BLU-808 in immunology. Third, this acquisition brings us an established presence among key specialist physicians, complementing our own growing presence and pipeline in immunology.
+And fourth, this acquisition will be immediately accretive to our gross margin, with positive impacts on business operating income and EPS expected after 2026.
+Before I hand over to Brian, I would also like to welcome the Blueprint colleagues to Sanofi as we look forward to working with you on advancing your unique knowledge of rare diseases, specifically mastocytosis and immunology.
+Let me hand over to Brian to cover more details.
+--------------------------------------------------------------------------------
+Brian Foard, Sanofi SA - Head of the Specialty Medicine Entity, Member of the Executive Committee    [3]
+--------------------------------------------------------------------------------
+Thanks, Paul. The growth trajectory of AYVAKIT has been impressive, with sales reaching nearly $479 million in 2024, representing substantial growth over 2023. Q1 2025 was $149 million, a great base for continued fast growth in 2025, supporting the indications Blueprint already has in the marketplace.
+This growth is driven by more patients being treated and is a strong foundation for the future. This success demonstrates both the significant unmet need in mastocytosis and Blueprint's excellent commercial execution.
+Looking forward, elenestinib represents a potential next-generation treatment, while BLU-808 offers exciting potential in immunology indications. This portfolio gives us a clear leadership position in mastocytosis treatment and optionality in immunology.
+As we move to the next slide, slide 7, let's take a moment to better understand mastocytosis, a rare and debilitating disease that is highly symptomatic. It's caused by a mutation that leads to over-activation of mast cells, resulting in a range of allergic symptoms. It is very well-defined biology and amenable to a companion diagnostic. Our focus at Sanofi already is driven through our rare diseases and in immunology.
+AYVAKIT is the first and only approved medicine that treats the root cause of both advanced and indolent forms of systemic mastocytosis. Data suggests that there are approximately 25,000 diagnosed patients with systemic mastocytosis in the US alone, representing a significant opportunity for growth with increased disease awareness and diagnosis, both in the US and as AYVAKIT is launched outside of the US for ISM.
+Now let me hand over to Francois for the financials.
+--------------------------------------------------------------------------------
+Francois-Xavier Roger, Sanofi SA - Chief Financial Officer, Member of the Executive Committee    [4]
+--------------------------------------------------------------------------------
+Thank you, Brian, for your review. Turning to the transaction details. We are offering $129 per share in cash, valuing Blueprint at $9.1 billion. Additionally, shareholders will receive contingent value rights worth up to $6 per share tied to specific clinical trials and regulatory milestones for BLU-808.
+The transaction will be financed through a combination of available cash and new debt. The proposed transaction is subject to customary closing conditions and is expected to close in the third quarter of 2025.
+Moving to the next slide. This acquisition aligns perfectly with our capital allocation strategy. We remain committed to our dividend policy, having increased our dividend for 30 consecutive years.
+The Blueprint acquisition, along with our recent acquisitions in immunology and neurology, demonstrate our focus on strategic M&A to complement our organic investments. Importantly, we retain significant capacity for further business development, particularly in early-stage medicines and vaccines across our core disease areas.
+To summarize, this acquisition of Blueprint Medicines significantly strengthened our position in rare diseases, particularly in systemic mastocytosis. We are gaining an attractive pipeline, including elenestinib and BLU-808 and the fast-growing approved medicine in AYVAKIT as well as an established presence among key specialist physicians as a great platform for Sanofi's own and growing pipeline in immunology.
+This transaction represents an effective redeployment of capital with immediate accretion to our gross margin and expected positive impacts on business operating income and EPS after 2026. Let me now hand back to Paul for Q&A.
+
+================================================================================
+q-and-a
+--------------------------------------------------------------------------------
+Paul Hudson, Sanofi SA - Chief Executive Officer, Executive Director, Member of the Executive Committee    [1]
+--------------------------------------------------------------------------------
+Well, thank you, Francois. We'll now open the floor for questions. I will not ask to limit to one as that strategy has never worked for me. (Event Instructions) Marie will announce the next person in line.
+--------------------------------------------------------------------------------
+Operator,     [2]
+--------------------------------------------------------------------------------
+Luisa Hector, Berenberg.
+--------------------------------------------------------------------------------
+Luisa Hector, Bernberg - Analyst    [3]
+--------------------------------------------------------------------------------
+Good morning. Thank you very much for the call and nice deal. I'll try and keep it to one question. Can you say a little bit more about what you have assumed in your valuation here? You have the lead product on the market. Is that really about the indications that are on label now? Have you assumed further indications in any pipeline? Thank you.
+--------------------------------------------------------------------------------
+Paul Hudson, Sanofi SA - Chief Executive Officer, Executive Director, Member of the Executive Committee    [4]
+--------------------------------------------------------------------------------
+Okay. Francois, maybe to kick off with the valuation of the deal with some headlines. And Brian, you may talk about the indication.
+--------------------------------------------------------------------------------
+Francois-Xavier Roger, Sanofi SA - Chief Financial Officer, Member of the Executive Committee    [5]
+--------------------------------------------------------------------------------
+Yes. The valuation, Luisa, thank you for the question. So you have seen the company was an independent company and they have made their own guidance as well. So we feel totally comfortable with what they have done. Obviously, we have run our own model and assumed a certain number of synergies as well. But globally, we are comfortable with whatever Blueprint had published in the past.
+--------------------------------------------------------------------------------
+Paul Hudson, Sanofi SA - Chief Executive Officer, Executive Director, Member of the Executive Committee    [6]
+--------------------------------------------------------------------------------
+Okay. So Brian, would you like to add something?
+--------------------------------------------------------------------------------
+Brian Foard, Sanofi SA - Head of the Specialty Medicine Entity, Member of the Executive Committee    [7]
+--------------------------------------------------------------------------------
+Yeah, I think, Luisa, a great question. And I think as you look at this company, it's quite impressive what they've done already. But as we've looked at them, we saw both in their lead asset that's on the marketplace, of course, this is just getting started, it's very early into the launch phase, so we've seen from our valuation we looked at the potential of that asset over a long period of time.
+And that first has to start with it's a really extremely low advanced therapy penetration into the marketplace thus far. So in this deal, we looked at the growth potential for that asset, first and foremost, number one. We looked at the follow-on asset in elenestinib and the potential for differentiation there, but sustainability, long-term leadership sustainability in ISM, of course.
+And then, of course, we looked at their -- the 808 as well. We looked at that asset in immunology indication. So those were the, by and large, how we thought about this deal longer term.
+--------------------------------------------------------------------------------
+Paul Hudson, Sanofi SA - Chief Executive Officer, Executive Director, Member of the Executive Committee    [8]
+--------------------------------------------------------------------------------
+Okay, thank you. Thank you, Luisa and Brian. Next question, please.
+--------------------------------------------------------------------------------
+Operator,     [9]
+--------------------------------------------------------------------------------
+Matthew Weston, UBS.
+--------------------------------------------------------------------------------
+Matthew Weston, UBS - Analyst    [10]
+--------------------------------------------------------------------------------
+Thank you. I guess, trying to put the transaction in numbers to understand the valuation that you're comfortable paying. Brian just flagged the whole rationale being the sustainable benefit of the franchise in mastocytosis. So can you give us a peak sales potential that you see for that sustainable mastocytosis franchise going forward?
+And then also on BLU-808, can we understand whether you see potential in a larger breadth of indications than Blueprint was currently prosecuting or whether or not you see it limited to the two indications that they currently have it in?
+--------------------------------------------------------------------------------
+Paul Hudson, Sanofi SA - Chief Executive Officer, Executive Director, Member of the Executive Committee    [11]
+--------------------------------------------------------------------------------
+So thank you, Matthew. It's a bit early to get into sharing peak year sales projections. We're just, of course, announcing the signing. Francois mentioned that Blueprint themselves had published some projections. We have worked in many different scenarios.
+You'll appreciate we are very competent in rare diseases, perhaps one of the absolute best. We're ambitious for that. It's too early for us to share the numbers. In terms of the longevity of the franchise, there is an expectation, modest, that we can move from AYVAKIT to elenestinib and that's a very reasonable assumption.
+As for 808, it's early. I mean it's one of those things that scientifically could be very compelling. But I don't need to remind anybody, particularly our own people in-house, that there are many things that can happen between an early medicine getting to market or not. But you'd appreciate that we liked all of the assets, but some have a different level of risk.
+--------------------------------------------------------------------------------
+Operator,     [12]
+--------------------------------------------------------------------------------
+Richard Vosser, JPMorgan.
+--------------------------------------------------------------------------------
+Richard Vosser, JPMorgan - Analyst    [13]
+--------------------------------------------------------------------------------
+Thanks for taking my question. You mentioned synergies. How should we think about the level of synergies relative to Blueprint's OpEx? Could we anticipate most of their SG&A being saved? Some thoughts there?
+And just on the duration of AYVAKIT. It looks like the patents go to 2034, but there's a crystalline patent to 2040. So should we be thinking about 2040? And I'm assuming that with orphan drug, there's no direct negotiation issues. But if you could just confirm that, that would be useful. Thanks very much.
+--------------------------------------------------------------------------------
+Brian Foard, Sanofi SA - Head of the Specialty Medicine Entity, Member of the Executive Committee    [14]
+--------------------------------------------------------------------------------
+Well, first and foremost, Richard, thank you so much for your question. I'll start with the second one that we won't really comment right now at this particular point on IP. But I will go back to -- I want to go back to your first part of your question was, as we said, I think if you look at the success of Blueprint, this is why we looked at these folks and why at the end of the day we're actually doing this deal, it's -- if you think about where they are today, their call points uniquely fit us perfectly.
+So think about our pipeline that is being built right now with amlitelimab, with lunsekimig, with TL1A, the call points for those assets are going to be dermatologists, allergists, GIs which is exactly where Blueprint is today. So it is going to be a natural build around these individuals.
+So right now, we're not thinking about the synergies of this. Right now, we're thinking about the opportunity for growth beyond what Blueprint has already done, and as we grow our pipeline, which is going to be extremely synergistic to the call points that they are already in place with.
+--------------------------------------------------------------------------------
+Paul Hudson, Sanofi SA - Chief Executive Officer, Executive Director, Member of the Executive Committee    [15]
+--------------------------------------------------------------------------------
+Yeah. And maybe I could add, Brian, that actually they've done an incredible job.
+--------------------------------------------------------------------------------
+Brian Foard, Sanofi SA - Head of the Specialty Medicine Entity, Member of the Executive Committee    [16]
+--------------------------------------------------------------------------------
+Yeah.
+--------------------------------------------------------------------------------
+Paul Hudson, Sanofi SA - Chief Executive Officer, Executive Director, Member of the Executive Committee    [17]
+--------------------------------------------------------------------------------
+I think we bring a global reach in rare that is pretty much unparalleled. I think we're looking forward to learning from them in some areas and we're also looking forward to adding to it. So of course, way too early. We'll get into the planning jointly with them, and we want to learn from them to do the very best job.
+I think you all appreciate that in rare and specialty, and in particular, rare, we're not talking about large organizations. We're talking about meaningful roles, avoiding duplication, making sure that people want to be part of the project. And I think we're excited about that.
+We'll sit down with them and we'll work through that. They have a really impressive team. So we'll get to them a little bit better and decide from there.
+--------------------------------------------------------------------------------
+Operator,     [18]
+--------------------------------------------------------------------------------
+James Quigley, Goldman Sachs.
+--------------------------------------------------------------------------------
+James Quigley, Goldman Sachs - Analyst    [19]
+--------------------------------------------------------------------------------
+Hello, can you hear me okay? Apologies about that. Just one quick question from my side. In terms of the CVR, could you give us a little bit more details on what clinical milestones are that have to be hit to hit both the $2 and $4 CVR?
+And second of all, just a quick one on timing as well. I think some of the impression I got previously was that maybe you're more focused on earlier-stage deals as opposed to commercial-stage deals. Obviously, relative -- you wouldn't be looking at deals in terms of itepekimab and the timing there. But can you give us an overview of what this now means for your M&A strategy and where the focus would be from here as well. Thank you.
+--------------------------------------------------------------------------------
+Paul Hudson, Sanofi SA - Chief Executive Officer, Executive Director, Member of the Executive Committee    [20]
+--------------------------------------------------------------------------------
+Okay, I think I got most of that, and I think it's actually a good moment just be very clear with everybody. Those that are close to how these things work know that they are a long time in the making. And so this has been going on long before the itepekimab update of last week, first thing.
+Secondly, I don't think we're commenting on the CVR milestones and where they are. But I think both sides are comfortable that we did something that was appropriate for value creation on our side and respect to the legacy of what they built on their side. I think we're comfortable with that. Was there another part of the question?
+--------------------------------------------------------------------------------
+Francois-Xavier Roger, Sanofi SA - Chief Financial Officer, Member of the Executive Committee    [21]
+--------------------------------------------------------------------------------
+Future update.
+--------------------------------------------------------------------------------
+Paul Hudson, Sanofi SA - Chief Executive Officer, Executive Director, Member of the Executive Committee    [22]
+--------------------------------------------------------------------------------
+Yeah. And on the deals, we sound a bit like a broken record sometimes, don't we, which is I think the things that we've said, a large amount of times is $2 billion to $5 billion, remain opportunistic. Over the last year or so, because we wanted to be clear with people, we said we'll keep it single digit if it's something that's a little bit more exciting for us, but is within our TAs, we said we wouldn't rush to go and spend high single-digit away from where we needed to be. So we try to stay very disciplined on that.
+The question on the early-stage preclinical, you've seen some little bits and pieces that we've done recently. You'll see more up ahead because we have a great belief in our mid-late-stage pipeline. Let's be candid, we had a few bumps, but we are still seeing very clear paths forward, the things we announced earlier this year.
+But I still think we are a little bit underweight in first-in-class, best-in-class preclinical Phase 1. You'll still see us doing that. So I think you should -- that nothing really changed for us. I think that's consistent with what we said and how we feel, which is the best way to be.
+--------------------------------------------------------------------------------
+Francois-Xavier Roger, Sanofi SA - Chief Financial Officer, Member of the Executive Committee    [23]
+--------------------------------------------------------------------------------
+And maybe to complement -- Francois speaking, maybe to complement what Paul said as well. As you know, we had a very low level of debt anyway just a few weeks ago, we were even with net cash positive situation. Even after this transaction and the few transactions that we announced earlier this year, we will still be left with a net debt-to-EBITDA ratio post-Blueprint acquisition of around 1 in terms of net debt-to-EBITDA.
+That gives us flexibility even to go further, obviously, given that we can go significantly further, even meeting our objective of retaining our AA rating. And we will remain disciplined anyway. The point is not to just go and make acquisition for the sake of making acquisition, but it's about making sure that we find relevant acquisition from a strategic point of view, from a scientific point of view having differentiated assets, and from a financial point of view with proper returns for our shareholders.
+--------------------------------------------------------------------------------
+Paul Hudson, Sanofi SA - Chief Executive Officer, Executive Director, Member of the Executive Committee    [24]
+--------------------------------------------------------------------------------
+Yeah, Francois, well said. Actually the rate-limiting step given -- I look back over the last five years, Principia was perhaps one of our biggest acquisitions, it's a while ago now. The rate-limiting step for us has always been the right science with the right fit and the right growth potential and opportunity for us. We've been very disciplined on that.
+In fact, Francois conducted a review not long after he joined the company to go back and look at how we've allocated capital and did we make sense with what we did now that we can look back with hindsight. And of course, he wasn't involved in any of these things and he gave us a thumbs up that we're good custodians of how we deploy and we feel exactly the same going into this.
+--------------------------------------------------------------------------------
+Francois-Xavier Roger, Sanofi SA - Chief Financial Officer, Member of the Executive Committee    [25]
+--------------------------------------------------------------------------------
+So to give more color, to be more specific, if you look at what Sanofi has done over the last 10 years, Sanofi has invested 40 , 4-0, EUR40 billion in M&A and BD, out of which we have lost, sorry, for that only, if I can say, only 10%, EUR4 billion which is not a lot, essentially, by the way, almost entirely in oncology. Hence, I mean the decisions that have been made recently regarding oncology. And the remaining EUR36 billion have created a lot of value.
+And Paul was mentioning Principia, it's public information. We bought it $3 billion. If we look at the value of this acquisition, it was probably 3 to 4 times by now and probably even more in the future. So I think that Sanofi has proven to be very disciplined in terms of M&A and BD strategy, providing good returns to its shareholders.
+--------------------------------------------------------------------------------
+Operator,     [26]
+--------------------------------------------------------------------------------
+Emmanuel Papadakis, Deutsche Bank
+--------------------------------------------------------------------------------
+Emmanuel Papadakis, Deutsche Bank - Analyst    [27]
+--------------------------------------------------------------------------------
+Marie, bonjour, thank you for taking the question. So perhaps a couple, if I could. It sounds like 808 was a reasonably significant component of the value proposition. Could you just talk a little bit about which indications, if any, you're most interested in? Clearly, some of those do, to an extent, overlap with your existing assets or pipeline portfolio. And then just a quick follow-up on that comment on oncology.
+Blueprint does obviously have a significant early-stage oncology efforts. Could you just talk about -- you haven't mentioned that, but could you just talk about the extent to which, if any, that played a role in your interest in the acquisition? And what it signals about your future intent in returning to that space? Thank you.
+--------------------------------------------------------------------------------
+Houman Ashrafian, Sanofi SA - Executive Vice President, Head of Research and Development, Member of the Executive Committee    [28]
+--------------------------------------------------------------------------------
+Manuel, good morning and thank you for the question. It's a bit early to comment in any detail about 808. Suffice it to say that over the last 10 years, there's been a recrudescence of interest in mast cell biology both in wild-type form and in the mutated D816V variant. And we will be looking broadly, as Brian has commented, in multiple organ areas as we move forward. It matches what's now known about mast cell.
+And to your oncology comment, it's really important to say that we're excited about the Blueprint team joining us and us working together, as Paul has said, learning from them and sharing insights around the biology, not only of the mast cells, but oncology. Remember, we have a creditable early oncology program and our internal team are looking forward to working in multiple areas with Blueprint, including degraders. Thanks for the question.
+--------------------------------------------------------------------------------
+Paul Hudson, Sanofi SA - Chief Executive Officer, Executive Director, Member of the Executive Committee    [29]
+--------------------------------------------------------------------------------
+Yeah, and you did also mention about where we apportioned the value. And the key driver is the lead asset, approved asset, that's growing significantly and kudos again to Blueprint team. Elenestinib and running our opportunity to grow through the 30s is a big deal, as you'd appreciate.
+And I think -- I don't -- we're not going to talk about the relative weightings of where we deployed the capital in the deal. But 808 is early. It could be exciting. But of course, like any asset at that stage, there's risk, so you should imagine proportionately less value in that.
+--------------------------------------------------------------------------------
+Operator,     [30]
+--------------------------------------------------------------------------------
+Peter Verdult, BNP.
+--------------------------------------------------------------------------------
+Peter Verdu, BNP - Analyst    [31]
+--------------------------------------------------------------------------------
+Yeah, morning, Pete Verdult from BNP. And three quick questions. Firstly, Houman or Paul. In terms of Trump administration proposals to price control rare disease assets that have more than one indication, how concerning is that to you as it relates to the whole rare disease portfolio?
+Two, for Francois. You talked about flexibility and comfort being 1 times post the deal. Could I push you in terms of where would you be uncomfortable in terms of leverage? Is it 2 times, 3 times, just some sort of idea of firepower and capacity.
+And then lastly, Paul, just speaking to investors, there's a lot of focus on being able to navigate the Dupixent LOE. I think people are very comfortable with tolebrutinib, $2 billion to $3 billion. It obviously goes to the sidelines.
+So just there's the perception of rising binary risk around the year-end readout for amlitelimab. So I just would like to -- your latest thoughts and confidence that, that profile that you're seeking for amlitelimab will be reached? Thank you.
+--------------------------------------------------------------------------------
+Paul Hudson, Sanofi SA - Chief Executive Officer, Executive Director, Member of the Executive Committee    [32]
+--------------------------------------------------------------------------------
+Brian?
+--------------------------------------------------------------------------------
+Brian Foard, Sanofi SA - Head of the Specialty Medicine Entity, Member of the Executive Committee    [33]
+--------------------------------------------------------------------------------
+Yeah, I think the first question, Peter, as you mentioned, is in reference to the current administration and reference around price. Look, we work with all administrations around the world. We've been doing this for a very, very long time. We'll see how this particular situation plays out. But we feel like we're in one of the best positions, I think, as it relates to our peers, as it relates to price around the world.
+Specifically as it relates to the rare diseases, again, this is an area where we have deep subject matter expertise. But again, administration by administration brings on new sets of challenges, and we'll work through them day by day. But we feel like we're in a very good position as it relates to price.
+--------------------------------------------------------------------------------
+Paul Hudson, Sanofi SA - Chief Executive Officer, Executive Director, Member of the Executive Committee    [34]
+--------------------------------------------------------------------------------
+Thank you. Francois, any comments from you?
+--------------------------------------------------------------------------------
+Francois-Xavier Roger, Sanofi SA - Chief Financial Officer, Member of the Executive Committee    [35]
+--------------------------------------------------------------------------------
+Yeah. Yes, on the rating, as an indication because it's not up to us to decide, it's up to the rating agencies. But to retain our AA rating, we cannot really exceed the 2 as a net debt-to-EBITDA ratio. I just want to make sure that this is not a guidance, but it is an indication.
+--------------------------------------------------------------------------------
+Paul Hudson, Sanofi SA - Chief Executive Officer, Executive Director, Member of the Executive Committee    [36]
+--------------------------------------------------------------------------------
+Okay. Thank you. And your last point, Peter, it's quite interesting really for us because I said that we've had a bit of a bumpy year in terms of some of the readouts. And what I mean by that is we looked at the amlitelimab data in asthma, we know we have a medicine, we know we'll go forward, but we didn't meet the primary endpoint. It didn't change for us our expectations, frankly.
+Same with oral TNF, we never intended to develop the asset to win in psoriasis. It was all about going there to get a safety readout first before we went on to RA. And that's a bit more interesting, and that's later this year.
+For itepekimab -- but still on track by the way. But itepekimab, frankly, it's a bit of a confounder only because we've been in this situation before and many of us have in the industry. And so we'll spend a bit more time going much deeper into what we think is the driver in AERIFY-2. We have some early thoughts. We'll do that with our partners, Regeneron.
+And we'll see if we have a path forward or whether we need to do a little bit more work. It's too early to call it and it's too early, I think, to use your words, to put it on the sidelines. The last thing would be the amli read out.
+I have to say, irrespective of the other things, which are all fabulous, amlitelimab in AD is the thing that is perhaps one of the biggest value drivers this year in terms of readouts, no surprise. So we look forward to that expectedly and we'll see where we get to.
+So I recognize that the year has been, as I said, bumpy, but actually the underlying sentiment, internally at least, is on track to do what we need to get done, and we look forward to the annual readout later this year.
+--------------------------------------------------------------------------------
+Operator,     [37]
+--------------------------------------------------------------------------------
+Jaime Escribano.
+--------------------------------------------------------------------------------
+Jaime Escribano, Santander - Analyst    [38]
+--------------------------------------------------------------------------------
+Hello, hi, can you hear me?
+--------------------------------------------------------------------------------
+Operator,     [39]
+--------------------------------------------------------------------------------
+Yes.
+--------------------------------------------------------------------------------
+Jaime Escribano, Santander - Analyst    [40]
+--------------------------------------------------------------------------------
+Yeah, Marie, thank you. Yeah, no, question was to clarify the patent cliff for the main product of Blueprint. So is it 2040 or is it more 2034? Because the product was launched in 2021, so just to make sure what's the visibility on earnings we'll have.
+And the second question would be, we read Blueprint pointing to $2 billion peak sales. The question would be, what would be the minimum that you would like to see on this product in order to consider this to be a good deal? Of course, then you have the other two compounds in the pipeline, but just to have a sense on your thresholds. Thank you very much.
+--------------------------------------------------------------------------------
+Paul Hudson, Sanofi SA - Chief Executive Officer, Executive Director, Member of the Executive Committee    [41]
+--------------------------------------------------------------------------------
+Okay. So Brian, maybe some fast thoughts from you.
+--------------------------------------------------------------------------------
+Brian Foard, Sanofi SA - Head of the Specialty Medicine Entity, Member of the Executive Committee    [42]
+--------------------------------------------------------------------------------
+Yeah, I'll say, again, as we said before, we won't comment fully on IP other than to say that we're extremely comfortable with the IP based upon what we've seen so far, but we'll comment on it in more details at close as it relates to the IP of the asset -- the lead asset with AYVAKIT.
+As it relates to peak sales, again, we mentioned it, Blueprint has put out some peak sales guidance, if you will. That's all public. We are not validating those peak sales here on this particular call. We'll give a bit more detail, I think, at close as well as it relates to peak sales.
+But again, as I said it, first and foremost, it all goes back to the potential we see here is the significant growth potential that we see as it relates to significant amount of patients undiagnosed, an incredible therapy that's already on the marketplace, follow-on asset that actually could extend our leadership in that particular space over a long period of time, and again, potential follow-on assets in 808.
+--------------------------------------------------------------------------------
+Paul Hudson, Sanofi SA - Chief Executive Officer, Executive Director, Member of the Executive Committee    [43]
+--------------------------------------------------------------------------------
+I think that covered it through. I'm not sure there's much more to add. Operator, any more questions?
+--------------------------------------------------------------------------------
+Operator,     [44]
+--------------------------------------------------------------------------------
+Any further questions?
+--------------------------------------------------------------------------------
+Paul Hudson, Sanofi SA - Chief Executive Officer, Executive Director, Member of the Executive Committee    [45]
+--------------------------------------------------------------------------------
+Well, thank you all for your attention. We're excited about the future of Sanofi in rare diseases with the addition of Blueprint Medicines, and look forward to updating you on our progress over the coming months. With that, we'll end the call. Thank you.
+
+
+
+
+
+
+--------------------------------------------------------------------------------
+Definitions
+--------------------------------------------------------------------------------
+Preliminary Transcript: "Preliminary Transcript" indicates that the 
+Transcript has been published in near real-time by an experienced 
+professional transcriber.  While the Preliminary Transcript is highly 
+accurate, it has not been edited to ensure the entire transcription 
+represents a verbatim report of the call.
+
+EDITED TRANSCRIPT: "Edited Transcript" indicates that a team of professional 
+editors have listened to the event a second time to confirm that the 
+content of the call has been transcribed accurately and in full.
+
+--------------------------------------------------------------------------------
+Disclaimer
+--------------------------------------------------------------------------------
+THE LONDON STOCK EXCHANGE GROUP AND ITS AFFILIATES (COLLECTIVELY, "LSEG") RESERVES THE RIGHT TO MAKE CHANGES TO DOCUMENTS, CONTENT, OR OTHER INFORMATION ON THIS WEB SITE WITHOUT OBLIGATION TO NOTIFY ANY PERSON OF SUCH CHANGES. NO CONTENT MAY BE MODIFIED, REVERSE ENGINEERED, REPRODUCED, OR DISTRIBUTED IN ANY FORM BY ANY MEANS, OR STORED IN A DATABASE OR RETRIEVAL SYSTEM, WITHOUT THE PRIOR WRITTEN PERMISSION OF LSEG. THE CONTENT SHALL NOT BE USED FOR ANY UNLAWFUL OR UNAUTHORIZED PURPOSES. LSEG DOES NOT GUARANTEE THE ACCURACY, COMPLETENESS, TIMELINESS, OR AVAILABILITY OF THE CONTENT. LSEG IS NOT RESPONSIBLE FOR ANY ERRORS OR OMISSIONS, REGARDLESS OF THE CAUSE, FOR THE RESULTS OBTAINED FROM THE USE OF THE CONTENT. IN NO EVENT SHALL LSEG BE LIABLE TO ANY PARTY FOR ANY DIRECT, INDIRECT, INCIDENTAL, EXEMPLARY, COMPENSATORY, PUNITIVE, SPECIAL, OR CONSEQUENTIAL DAMAGES, COSTS, EXPENSES, LEGAL FEES, OR LOSSES (INCLUDING, WITHOUT LIMITATION, LOST INCOME OR LOST PROFITS AND OPPORTUNITY COSTS OR LOSSES CAUSED BY NEGLIGENCE) IN CONNECTION WITH ANY USE OF THE CONTENT EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGES.
+--------------------------------------------------------------------------------
+Copyright 2025 LSEG. All Rights Reserved.
+--------------------------------------------------------------------------------

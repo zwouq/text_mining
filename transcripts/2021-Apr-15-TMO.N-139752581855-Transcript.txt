@@ -1,0 +1,390 @@
+
+
+Refinitiv StreetEvents Event Transcript
+E D I T E D   V E R S I O N
+
+Thermo Fisher Scientific Inc to Acquire PPD Inc - Conference Call
+APRIL 15, 2021 / 12:30PM GMT
+
+================================================================================
+Corporate Participants
+================================================================================
+
+ * Stephen Williamson
+   Thermo Fisher Scientific Inc. - Senior VP & CFO
+ * Rafael Tejada
+   Thermo Fisher Scientific Inc. - VP of IR
+ * Marc N. Casper
+   Thermo Fisher Scientific Inc. - Chairman, President & CEO
+
+================================================================================
+Conference Call Participiants
+================================================================================
+
+ * Jack Meehan
+   Nephron Research LLC - Research Analyst
+ * Derik De Bruin
+   BofA Securities, Research Division - MD of Equity Research
+ * Daniel Gregory Brennan
+   UBS Investment Bank, Research Division - Senior Equity Research Analyst of Healthcare Life Sciences
+ * Tycho W. Peterson
+   JPMorgan Chase & Co, Research Division - Senior Analyst
+ * Vijay Muniyappa Kumar
+   Evercore ISI Institutional Equities, Research Division - MD
+ * Daniel Anthony Arias
+   Stifel, Nicolaus & Company, Incorporated, Research Division - MD & Senior Analyst
+ * Doug Schenkel
+   Cowen and Company, LLC, Research Division - MD & Senior Research Analyst
+
+================================================================================
+Presentation
+--------------------------------------------------------------------------------
+Operator    [1]
+--------------------------------------------------------------------------------
+Good morning, ladies and gentlemen, and welcome to today's conference call and webcast to discuss Thermo Fisher Scientific's acquisition of PPD. I would like to introduce our moderator for the call, Mr. Rafael Tejada, Vice President, Investor Relations. Mr. Tejada, you may begin the call.
+
+--------------------------------------------------------------------------------
+Rafael Tejada,  Thermo Fisher Scientific Inc. - VP of IR    [2]
+--------------------------------------------------------------------------------
+Thank you, and good morning, everyone. Welcome to our conference call to discuss Thermo Fisher's acquisition of PPD, which we announced earlier today. On the call with me today is Marc Casper, our Chairman, President and Chief Executive Officer; and Stephen Williamson, our Senior Vice President and Chief Financial Officer. You'll find a brief presentation deck in the Investors section of our website, thermofisher.com, under the section titled Webcasts and Presentations. We'll walk through that deck on the call this morning, and after prepared comments, we'll open it up for Q&A.
+Please note this call is being webcast live and will be archived under the Investors section of our website, thermofisher.com, under the heading Webcasts and Presentations.
+Before we get started, let me briefly cover our safe harbor language, which you can see on Slide 2. Various remarks that we may make about Thermo Fisher's future expectations, plans and prospects, including with respect to PPD and the proposed acquisition, constitute forward-looking statements that involve a number of risks and uncertainties. Actual results may differ materially from those indicated by these forward-looking statements as a result of various important factors, including risks and uncertainties related to the proposed transaction, its timing, benefits and impacts as well as those factors discussed in Thermo Fisher and PPD's most recent annual reports and current reports, which are on file with the SEC and available on our respective websites.
+While we may like to update forward-looking statements at some point in the future, we specifically disclaim any obligation to do so even if our estimates change. Therefore, you should not rely on these forward-looking statements as representing our views as of any date subsequent to today.
+Also during the call, we will be referring to certain financial measures not prepared in accordance with generally accepted accounting principles, or GAAP. We believe that the use of non-GAAP measures helps investors to gain a better understanding of our core operating results and future prospects, consistent with how management measures and forecasts the company's performance, especially when comparing such results to previous periods or forecasts.
+With that, turning to Slide 3 of the presentation, I'll now hand over the call to Marc.
+
+--------------------------------------------------------------------------------
+Marc N. Casper,  Thermo Fisher Scientific Inc. - Chairman, President & CEO    [3]
+--------------------------------------------------------------------------------
+Thanks, Raf. Good morning, and thanks for joining us today. This is truly an exciting day for Thermo Fisher Scientific. I'm very pleased to announce our agreement to acquire PPD for $17.4 billion, plus the assumption of $3.5 billion of net debt. This transaction is another great example of how we create value for our customers and our shareholders through our proven capital deployment approach.
+In terms of the highlights of the transaction, as many of you know, pharma and biotech is our largest and fastest-growing end market and the capabilities PPD will bring to Thermo Fisher are a natural extension of our value proposition for these customers. Our pharma and biotech customers will benefit from an expanded portfolio that will help them with their drug development process.
+From a financial perspective, the transaction is compelling and will be immediately and significantly accretive to adjusted earnings per share with an excellent return profile and is expected to close by year-end.
+Many of you know us very well, but let me remind you of our selection criteria for M&A. First, a transaction needs to be clearly valued by our customers. Second, the deal has to enhance the company strategically. And third, it needs to create shareholder value. The acquisition of PPD meets these criteria extremely well as you can see on the summary of the strategic rationale outlined on the next page, Slide 4.
+The clinical research services industry is an attractive high-growth industry, and this acquisition establishes us as a global leader. PPD has invested significantly in its capabilities to establish its leading position and is a natural extension for Thermo Fisher as it will strengthen our offering to pharma and biotech customers, our largest and fastest-growing end market.
+As you know, Thermo Fisher is a trusted partner to pharma and biotech customers, and this transaction will bring meaningful benefits to our customers. We have strong relationships with those customers and a deep understanding of their needs and emerging trends. By adding these highly complementary services to our portfolio, we will be able to further advance our strategic partnership as our customers work to bring a scientific idea to an approved medicine.
+Longer term, the combination's extensive capabilities for the company and our expertise in serving these customers will enable new solutions that will open up opportunities for us to help our pharma and biotech customers reduce the time and cost of the drug development process. Finally, this transaction will create shareholder value given the natural fit of PPD with Thermo Fisher and the substantial synergies that we'll be able to generate.
+Turning to Slide 5. For those of you who may be less familiar with the space, clinical research organizations manage the clinical trial process by providing key services and expertise during the various clinical phases of drug development in order to bring safe and effective medicines to the patients that need them.
+In Phase I through Phase III, clinical research organizations bring expertise to various aspects of a clinical trial, including study design, trial management, patient recruitment, investigator training and clinical lab services. These studies ultimately help customers determine whether an investigational medicine is safe and effective and ready for submission to regulators for approval.
+Then once the medicine is approved, clinical research organizations conduct post-clinical studies to look at the effects of an approved medicine over time and to ensure ongoing safety and efficacy along with regulatory support for additional indications. So clinical research organizations play an important and valuable role for both pharma and biotech customers, efficiently managing a very complex process.
+Turning to Slide 6. Clinical research organizations participate in a $50 billion global industry, which is growing strong mid-single digits. This market growth is driven by several key factors. First, tailwinds are driven from the strong pace of scientific advancements and robust funding for pharma and biotech. Second, the pharmaceutical customers are consolidating their work with fewer trusted partners. That's clearly one of the takeaways from COVID, was to reassess the strength of your partner network. Third, a higher percentage of these trials are coming from biotech customers which rely on clinical research organizations to a larger extent than pharma given limited internal capabilities. And finally, clinical trials are increasing in complexity, requiring more specialized capabilities which clinical research organizations provide. All of this sets up very positive market growth dynamics for clinical research services, and PPD is a global leader in this industry.
+Some quick highlights of the business are outlined on Slide 7. I'm very impressed with what the PPD team has built over the last 35 years. They have an excellent reputation and a very strong team. PPD has invested significantly in its capabilities and is a leading global player, providing services to both emerging biotech customers and to all of the top pharma customers around the world.
+Generating $4.7 billion in fiscal year 2020 in terms of revenue, with a 15% adjusted operating margin, PPD offers customers both clinical development and laboratory services. In clinical development, PPD offers full-service clinical trials management services, which include trial feasibility, investigator recruitment, clinical trial monitoring, project management and biostatistical services. This segment makes up 81% of their total revenue. The laboratory services segment offers highly specialized lab capabilities to support clinical trials.
+PPD has an excellent reputation for quality and innovation. It's also worth adding that PPD has established an impressive network of capabilities around the world. This has allowed them to build a strong global business, with 165 facilities in almost 50 countries in which they operate.
+And like us, the PPD team is intensely focused on customer needs. In the last 5 years alone, their team has supported more than 400 drug approvals. I'm looking forward to joining PPD's CEO, David Simmons, to connect virtually with all of the PPD colleagues very soon. And I certainly can't wait to welcome the more than 26,000 talented colleagues to Thermo Fisher following the transaction close.
+Moving on to Slide 8. So with that as an introduction to the clinical services industry and PPD's leading capabilities, let's turn to a Thermo Fisher lens for context. As you know, Thermo Fisher is a leading supplier to the high-growth pharma and biotech industry, supporting research and development, clinical trials and production. And today, it represents about 40% of our revenue. We perform very well in serving these customers, meaningfully gaining share and averaging 10% organic growth over the past decade. PPD will increase our position further in serving these customers.
+Turning to Slide 9. Let me tell you why we and our customers will be excited by the combination. As I mentioned earlier, the transaction will enable us to support our customer's journey, from a scientific idea to a medicine, in new and exciting ways. We already provide our customers with leading support and researching new ideas to enable scientific discovery and then ultimately, the development and manufacturing of drug products.
+PPD will expand our capabilities for the phase in between, assessing safety, efficacy and health care outcomes for those potential medicines by providing clinical trial management throughout the drug development process. This will further enhance our value proposition to pharma and biotech customers, providing them with a comprehensive offering and expertise across their business and allowing them to more efficiently access these services, all of which are key enablers of their innovation, productivity and ultimately, their success throughout the drug development process.
+By joining Thermo Fisher, PPD will have additional access to key decision-makers and will benefit from our trusted partner status with our pharma and biotech customers. And longer term, we will plan to continue investing in and connecting these capabilities to further help our customers accelerate their innovation and drive their productivity. Together, we're creating a world-class offering of highly complementary products and services throughout the drug development and production life cycle that's underpinned by industry-leading resources, expertise and access. So there's really a lot to be excited about here.
+Let me now turn it over to Stephen to take you through the opportunity this creates from a financial perspective.
+
+--------------------------------------------------------------------------------
+Stephen Williamson,  Thermo Fisher Scientific Inc. - Senior VP & CFO    [4]
+--------------------------------------------------------------------------------
+Thanks, Marc. Turning to Slide 10. We have a definitive agreement to acquire PPD for $47.50 per share in cash, which represents a total cash consideration of $17.4 billion, and we will assume approximately $3.5 billion of net debt. The price represents a premium of approximately 24% to the unaffected closing price of PPD's common stock on the NASDAQ as of Tuesday, April 13.
+The transaction is expected to be immediately and significantly accretive to adjusted EPS, adding $1.40 in the first 12 months following close and quickly ramping to over $2 per share. We expect to generate significant synergies in this transaction, achieving $125 million of total synergies by year 3 following the close. To break that down, we expect $75 million in cost synergies and we expect about $50 million of adjusted operating income benefit from revenue-related synergies.
+Cost synergies will come from eliminating redundant public company costs and the deployment of our PPI Business System to drive productivity and sourcing benefits. As I'm sure you are aware, we have a long track record of efficiently and effectively integrating businesses, capturing cost synergies at the same time as accelerating the business' top line. We will follow that proven PPI Business System playbook for this transaction.
+In terms of revenue synergies, as Marc outlined in his remarks, the combination of Thermo Fisher's resources and capabilities as a leading supplier to the pharma and biotech industry will provide PPD with access to our deep industry relationships, including key decision-makers across our customers, to increase opportunities for PPD and Thermo Fisher with both new and existing customers.
+We expect this to result in $150 million in revenue synergies, that will contribute $50 million in adjusted operating income benefits by year 3 following the close, with many more opportunities to generate additional benefits for customers for many years to come.
+Through the use of our proven PPI Business System, we'll be able to add to PPD's already strong growth profile, such as the deal will be accretive to Thermo Fisher's long-term organic growth profile. Similar to past transactions, we'll have the ability to drive attractive tax efficiencies as we integrate PPD into our operations. We expect to bring their effective tax rates in line with ours at close.
+So in summary for this slide, the acquisition of PPD is very financially compelling. We have a proven track record for successful M&A. This transaction is great for our customers, will deliver attractive financial benefits and will create further value for our shareholders.
+Moving on to Slide 11, I would now like to review some of the key transaction details. In terms of financing, to complement cash on hand, we have a bridge facility in place for a portion of the purchase price. We intend to fund the acquisition with a mix of new debt and available cash.
+From a leverage standpoint, assuming no further capital deployments in 2021, we expect a pro forma leverage ratio at below 3x total debt to combined adjusted EBITDA at the closing date. A very strong balance sheet underpinned by strong cash generation will allow for rapid repayment of debt, so the balance sheet remains in great shape.
+On the path to completion, there are no additional shareholder votes required for this transaction. In addition to the unanimous approval of the PPD Board, we've already obtained approval from PPD shareholders, with shareholders owning in aggregate approximately 60% of the outstanding shares of common stock of PPD, delivering approval by written consent.
+The transaction is subject to customary closing conditions, including the receipt of applicable regulatory approvals. We expect the transaction to close by the end of 2021, and at which point, PPD will become part of Thermo Fisher's Laboratory Products and Services Segment.
+Leading up to close, we'll be preparing for the integration of PPD into our company, following our proven integration planning strategy to facilitate a smooth and seamless transition.
+So moving to Slide 12. I would like to conclude by echoing Marc's excitement about the transaction and the benefits we expect to deliver. This acquisition is classic Thermo Fisher. PPD is a great business in a growing industry. And our PPI Business System and proven growth strategy, together with PPD, will continue to outpace market growth.
+With that, I'll turn the call back over to Raf for Q&A.
+
+--------------------------------------------------------------------------------
+Rafael Tejada,  Thermo Fisher Scientific Inc. - VP of IR    [5]
+--------------------------------------------------------------------------------
+Thanks, Stephen. Some of you may not have been able to see the slides. We are e-mailing and posting them shortly. And as a reminder for everyone, Thermo Fisher will release its financial results for the first quarter 2021 before the market opens on Thursday, April 29, 2021 and will hold a conference call on the same day at 8:30 a.m. Eastern Time. We'll take questions on the first quarter at that time. Operator, we're ready to open it up for questions.
+
+
+================================================================================
+Questions and Answers
+--------------------------------------------------------------------------------
+Operator    [1]
+--------------------------------------------------------------------------------
+(Operator Instructions) The first question comes from Jack Meehan of Nephron Research.
+
+--------------------------------------------------------------------------------
+Jack Meehan,  Nephron Research LLC - Research Analyst    [2]
+--------------------------------------------------------------------------------
+And congratulations on the deal to both teams. Marc, in the past, you said you weren't interested in entering the CRO space. The world's obviously changed a lot in the last year. Can you walk us through your thinking around why now is the right time?
+
+--------------------------------------------------------------------------------
+Marc N. Casper,  Thermo Fisher Scientific Inc. - Chairman, President & CEO    [3]
+--------------------------------------------------------------------------------
+Yes, Jack, great question. And when I think about the clinical research industry, obviously, an industry that plays a very important role in serving the pharma and biotech customer base, high impact, good growth characteristics, and over time, a couple of things have changed that make it just an incredibly compelling combination and move for Thermo Fisher Scientific.
+The first thing is as our portfolio of capabilities has expanded over the last decade, our customers really have incredibly deep relationships with us. And if I think of, even me personally, just say, now the executive teams are talking about what's on their minds, they're telling us what the emerging trends are. And they want to have fewer trusted partners that deliver day in and day out. And this is an important activity to develop a medicine and very clear that our customers are excited about our ability to do more for them. So that's kind of the -- what's changed over time. And I'm not surprised that in 2016 or '17 or '18, where I may have said, less of an interest. The world is very different 5 years later about how our customers perceive us based on that track record of really delivering day in and day out for more than a decade and serving them.
+The second thing that's happened and is COVID-related, customers are rethinking who let them down and who did a good job in supporting them on the important work they're doing. And that's for every industry. And if you go through the pharma and biotech, if I synthesize that, they're looking for the companies that really stepped up and could navigate all of the complexities that COVID brought. And Thermo Fisher Scientific did an incredibly strong job in supporting all aspects of the important work they're doing, everything from keeping their facilities open, to making sure that they're developing cutting-edge medicines. And if you look at PPD's performance during the course of COVID, they did a really exceptional job of ensuring that clinical trials continued on. And that combination is super compelling in a world where customers want to make sure that they're consolidating their activities with fewer entrusted suppliers.
+
+--------------------------------------------------------------------------------
+Jack Meehan,  Nephron Research LLC - Research Analyst    [4]
+--------------------------------------------------------------------------------
+Great. And I agree. Second, how do you feel about your ability to scale PPD? The company has a big backlog of work with blue-chip clients, but there's also a lot of competition for top talent in the market. What ways do you think Thermo Fisher can help accelerate PPD's burn rate?
+
+--------------------------------------------------------------------------------
+Marc N. Casper,  Thermo Fisher Scientific Inc. - Chairman, President & CEO    [5]
+--------------------------------------------------------------------------------
+Jack, thanks for the question. So it's exciting. The business has a strong backlog of work ahead of it that bodes well for quite some time in terms of activity and growth. And PPD has built an exceptional team. And when you think about what we're doing here, is we're taking this business, we're making it part of Thermo Fisher Scientific, but for day in and day out, it's going to be exactly the same for the colleagues, no distraction. And over time, we're going to bring more capabilities to help our colleagues be even more competitive in serving the customers.
+PPD has done a nice job of scaling the organization. Obviously, Thermo Fisher also has a lot of experience about scaling from a talent perspective. If you think about, we added roughly 10,000 people last year during the pandemic to respond to the pandemic and we have great talent capabilities as well, and that the combined companies should do a great job of continuing to grow a very strong talent base.
+
+--------------------------------------------------------------------------------
+Operator    [6]
+--------------------------------------------------------------------------------
+Your next question comes from Derik De Bruin of Bank of America.
+
+--------------------------------------------------------------------------------
+Derik De Bruin,  BofA Securities, Research Division - MD of Equity Research    [7]
+--------------------------------------------------------------------------------
+And congratulations on the transaction. So a couple of questions. I think the first one is we basically got to the same maths on the accretion. I just think, Stephen, a couple of questions. The $1.40 that you're looking at, it's like what are you making in terms of assumptions on the underlying Thermo EPS? I mean it's $1.40 created off of what? And obviously, there are some questions on the tax rate. I mean there's a number of proposals going around. I mean what are you doing -- what are you making for -- what are you looking at in terms of assumptions on tax rates? So those are some of the basic questions that I'll start with.
+
+--------------------------------------------------------------------------------
+Stephen Williamson,  Thermo Fisher Scientific Inc. - Senior VP & CFO    [8]
+--------------------------------------------------------------------------------
+Yes. So Derik, just assuming that this closes at the end of the year, so it's basically accretion in 2022 from 2021. So it's from -- for this business, is 0 in the coming year and then the $1.40 in '22, is how we're thinking about the accretion. In terms of tax, we've got a proven methodology to bring in acquisitions and take advantage of power structures, the attributes of the acquired company. We've done this in all our acquisitions, and we expect it to be at or below the company tax rates at close.
+We factored in -- once we were thinking about this deal, we were factoring in various possibilities around tax reform in the U.S. and just -- and we're constantly looking at changes in the tax legislation that could happen around the world. And we've got a very talented team that's got -- that's put us in a very competitive position with our tax and cash position. And we expect to maintain that competitive position going forward as things change in the landscape around tax legislation across the world.
+
+--------------------------------------------------------------------------------
+Derik De Bruin,  BofA Securities, Research Division - MD of Equity Research    [9]
+--------------------------------------------------------------------------------
+Great. Appreciate that. I want to -- I appreciate that it's $1.40 accretive off of this year because it was 0. I understand that. I think the question being is like, obviously, as the COVID revenues start to roll off and you start to see the impacts of the margin from some of those higher-margin products coming off, I think it's more of a question on looking at what the base is and sort of thinking about 2022 and just sort of your thoughts on that one. So I think that's really the core of that. Are you -- and I'm thinking of it that way. And can you shed any sort of light on how to think about this from the COVID margins coming off and recovered business coming off and just thinking about it in terms of that perspective?
+
+--------------------------------------------------------------------------------
+Marc N. Casper,  Thermo Fisher Scientific Inc. - Chairman, President & CEO    [10]
+--------------------------------------------------------------------------------
+So -- I think you asked me this question on the first -- in January.
+
+--------------------------------------------------------------------------------
+Derik De Bruin,  BofA Securities, Research Division - MD of Equity Research    [11]
+--------------------------------------------------------------------------------
+It's the #1 question I'm getting from clients, Marc. I'm always doing what I'm asked.
+
+--------------------------------------------------------------------------------
+Marc N. Casper,  Thermo Fisher Scientific Inc. - Chairman, President & CEO    [12]
+--------------------------------------------------------------------------------
+I know. I'm not complaining. I told you it was a valid question. I said it's not a different one, but there's nothing invalid about it. The way that I think about it is we're excited about the prospects for 2021. And if you think about how we did in 2020, we came out with guidance that thought about a very exciting year. And we also are very excited about the long-term future.
+If you -- as I said, in the past, if you think about in March of 2020, a little over a year ago, if you would have thought Thermo Fisher would have delivered more than 25% organic growth, that kind of growth in earnings and all those things, I think most people would say, no, that's not a likely scenario. We did an exceptional job, and this management team will do an exceptional job of creating shareholder value, managing through all of the future opportunities we have. And I couldn't be more excited about our prospects. And it's nice to say a great strategic acquisition that's going to be really appreciated by our customers and differentiate the company strategically, that's going to add another $1.40 to our earnings in 2022, that's pretty cool. So thank you, Derik.
+
+--------------------------------------------------------------------------------
+Operator    [13]
+--------------------------------------------------------------------------------
+Your next question comes from Doug Schenkel of Cowen.
+
+--------------------------------------------------------------------------------
+Doug Schenkel,  Cowen and Company, LLC, Research Division - MD & Senior Research Analyst    [14]
+--------------------------------------------------------------------------------
+Let me just kind of throw out my 3 questions, and I'll get back and listen. I believe cost synergies only represent around 5% of PPD OpEx. This is lower than what we've seen from you yet, generally speaking, in the past, on deals. Can you elaborate on why you're not assuming more meaningful cost synergies with PPD given the customer geographic overlap? So that's one. The second one is this seemingly puts you in a position where you are going to be competing with existing customers. Can you quantify that dynamic and outline how you're going to manage that? And then third, you indicated you expect the deal to close towards year-end. Given the lack of overlap in your businesses, that seems like you're contemplating a somewhat lengthy regulatory review. Can you just talk about that?
+
+--------------------------------------------------------------------------------
+Marc N. Casper,  Thermo Fisher Scientific Inc. - Chairman, President & CEO    [15]
+--------------------------------------------------------------------------------
+Thanks, Doug. Good morning. So in terms of the 3 topics, on the cost synergy side here, it's a very complementary business. This is -- there are some very obvious cost synergies that come out, which is there's obviously the overlapping public company costs. And there are tremendous benefits from the PPI Business System about driving efficiencies within the business. And having had the chance to really delve into the business in detail, there are things that we will bring that will make the business more efficient, and I mean, that's on sourcing and that's on how the businesses run.
+But when you think about it, this is a people business, right? And it's not about the reduction of jobs. It's actually about creating accelerated growth. And the synergies here on the revenue side are very substantial in -- by year 3, but they grow very meaningfully from there. So actually, that translates into a very high-growth business long-term. So I feel good about the synergies. And I want all of our colleagues to be -- to just be excited about what the future holds and not to be distracted by a big number, but rather to say I get what we're doing, and for me, it's business as usual.
+In terms of competing with customers, it's our job to make sure that we're supporting our customers that compete with PPD. It's a very small proportion of our revenue. But we'll go out and we'll earn that business, and we'll make it very rational for those customers to want to continue to work with us closely, grow the relationship. And what I can say, from my experience of 4 years ago, when we added to our pharma services capabilities and I got that exact same question, and I fast-forward to the other CDMO industry participants, they're doing meaningfully more work with us today than they were then.
+Why is that? because we've done a great job supporting them through the process. We've gone out and we said we want to earn new business every day, and we'll do that here as well, right? So that's our job. And then towards the end of the year, when we think about the process, we feel like that is a -- there's a number of jurisdictions that we have to file in. And we think using simplicity by year-end is a good assumption, and there are scenarios, obviously, that could come in earlier than that. And in the normal course, as we go through that process, we'll get you updated if there's any change in timing. But I think, from a modeling standpoint, if you assume 12/31, that's probably the simplest way of doing it, and we'll refine that over time.
+
+--------------------------------------------------------------------------------
+Operator    [16]
+--------------------------------------------------------------------------------
+Your next question comes from Tycho Peterson of JPMorgan.
+
+--------------------------------------------------------------------------------
+Tycho W. Peterson,  JPMorgan Chase & Co, Research Division - Senior Analyst    [17]
+--------------------------------------------------------------------------------
+And congrats on the deal. Marc, if I go back to the Patheon deal, one of the big points there was you had minimal customer overlap. Obviously, that's not going to be the case with PPD. But I'm just curious, can you just talk to customer overlap with Thermo today. And then can you provide a little bit more color on the $50 million of revenue synergies, where you see that coming from?
+
+--------------------------------------------------------------------------------
+Marc N. Casper,  Thermo Fisher Scientific Inc. - Chairman, President & CEO    [18]
+--------------------------------------------------------------------------------
+Yes. So in terms -- when you say the customer overlap, do you mean competitor of PPD, or do you mean the customer base? I want to make sure I understand it, Tycho.
+
+--------------------------------------------------------------------------------
+Tycho W. Peterson,  JPMorgan Chase & Co, Research Division - Senior Analyst    [19]
+--------------------------------------------------------------------------------
+Your customer base. Customer base.
+
+--------------------------------------------------------------------------------
+Marc N. Casper,  Thermo Fisher Scientific Inc. - Chairman, President & CEO    [20]
+--------------------------------------------------------------------------------
+So the customers, yes. So you have -- same thing in the -- in our pharma services businesses, there's a tremendous overlap. And Thermo Fisher serves every single biotech and pharmaceutical company in some fashion. So it's a question of what's the strength of those relationships that you can build upon. And the combination here is super exciting because based on the trusted partnership status that Thermo Fisher has earned over many years and the very strong relationships that PPD brings as well, that's going to create really new opportunities. And interestingly enough, over time, I think the capabilities are actually going to allow us to have offerings that shorten the time to bring medicines to market and reduce the cost. And that's really phenomenal for society from the first standpoint and then certainly for the customer base and for us as well. So that's the customer angle on it. And what was the second question again, Tycho?
+
+--------------------------------------------------------------------------------
+Tycho W. Peterson,  JPMorgan Chase & Co, Research Division - Senior Analyst    [21]
+--------------------------------------------------------------------------------
+Yes. Is the revenue synergies, the $50 million, where do you see that really coming from?
+
+--------------------------------------------------------------------------------
+Marc N. Casper,  Thermo Fisher Scientific Inc. - Chairman, President & CEO    [22]
+--------------------------------------------------------------------------------
+Yes. So from the revenue synergies, part of it comes from the -- expanding the existing share of wallet at existing customers and improving the win rate for the PPD business, so leveraging those relationships. If I look back on some of the historical transactions that we've done, we've been able to accelerate the growth of the businesses we've acquired pretty dramatically. And so we're excited about that opportunity, to be able -- for this business to be able to continue to grow above market rate. So that's one main category.
+I think there are some other ones along the same spirit. But if you think about China, where PPD has a nice position in serving the multinationals, we do that as well, but we also have an exquisitely large position in serving the innovative Chinese companies as they have aspirations to bring medicines outside of China. And I think that's actually a really interesting growth opportunity as well. So that would be another type of example that you would see from a revenue synergy perspective.
+
+--------------------------------------------------------------------------------
+Tycho W. Peterson,  JPMorgan Chase & Co, Research Division - Senior Analyst    [23]
+--------------------------------------------------------------------------------
+Okay. And then the second question on -- going back to the scalability dynamic, the Street has PPD growing about 8% once the COVID tailwind is stayed. I'm just curious, do you see a path to bring that into double digits or even mid-teens growth? And I know you've always said you don't enter markets if you can't be #1 or 2, so how do you think about the path to get there? And I think we're all going to get questions as to whether you have interest in preclinical as well, so I'm curious if you could touch on that, too.
+
+--------------------------------------------------------------------------------
+Marc N. Casper,  Thermo Fisher Scientific Inc. - Chairman, President & CEO    [24]
+--------------------------------------------------------------------------------
+Sure. So in terms of the growth rate, our view is, is that PPD should be a sustainable high single-digit growth business, is how we think about it. And then obviously, our aspirations don't stop there, but that's, I think, is good from a planning perspective. And in terms of expansion of the served offering even further than where PPD was, we're excited about the transaction today. So we're not -- we're excited about the clinical services offering and capabilities they have. We think that's the logical addition. And right now, that's all we're focused on. Thanks, Tycho.
+
+--------------------------------------------------------------------------------
+Operator    [25]
+--------------------------------------------------------------------------------
+Your next question comes from Dan Brennan of UBS.
+
+--------------------------------------------------------------------------------
+Daniel Gregory Brennan,  UBS Investment Bank, Research Division - Senior Equity Research Analyst of Healthcare Life Sciences    [26]
+--------------------------------------------------------------------------------
+And congrats on the deal. I guess first question would just be on retention. Just can you walk us through PPD's management and what's the plan there? And then related to that, obviously, the CRA industry is very tight. There's a lot of movement. And I'm just wondering what your policy is or kind of what your plan is to retain PPD CRAs during the process of integrating the deal.
+
+--------------------------------------------------------------------------------
+Marc N. Casper,  Thermo Fisher Scientific Inc. - Chairman, President & CEO    [27]
+--------------------------------------------------------------------------------
+Yes. So Dan, thanks for the question. So we're going to have this business run by the great team that exists at PPD, right? And I know that David Simmons' plan is to the help with the transition, and we're going to work through all of the details of the rest of that. But this is a high-performing team that's done a really nice job of building the business. And we're going to have quite a number of executives from PPD join Thermo Fisher Scientific, and we're super excited about that.
+And if you look at our history, right, our senior executive team has come from the businesses we acquired, right, where there is Fisher Scientific, Life Technologies, Patheon, Thermo Electron, all the different major components of the company, that's where the senior executives have come from. And we can't wait to welcome that team and all of the colleagues. So one of the things that's different about maybe this type of transaction for the colleagues that are delivering the work day in and day out at PPD, their job is going to be exactly as it is today, right, post-close. There's not an integration with job changes, those things, just do a great job serving customers.
+Over time, together, we'll be able to have even more compelling offering for the customers, and that's a super cool opportunity for all of us, to participating and using the vernacular that PPD is about, bending the time and cost curves to bring out medicines. And the combined company is so uniquely positioned to do that. I think it's phenomenal from a career perspective for all involved. So hopefully, Dan, that gives you a good perspective on it.
+
+--------------------------------------------------------------------------------
+Daniel Gregory Brennan,  UBS Investment Bank, Research Division - Senior Equity Research Analyst of Healthcare Life Sciences    [28]
+--------------------------------------------------------------------------------
+Great, Marc. And then this you've already touched upon a few times, but I was hoping maybe to just get one more comment on it. In terms of the pull from your customers wanting to deal with like one vendor across a variety of products, like we heard you talk about that in the past with Patheon, but we haven't really heard about it as much. And in a lot of tools, companies will say that customers just want to buy best-of-breed products and there's less about bundling. Could you just elaborate a little bit on how much of this deal is really the time is now, when customers are really asking for this, versus Thermo Fisher is really pushing this idea?
+
+--------------------------------------------------------------------------------
+Marc N. Casper,  Thermo Fisher Scientific Inc. - Chairman, President & CEO    [29]
+--------------------------------------------------------------------------------
+So the way that I think about our business, right, is the individual pieces of the business, the individual business units, if you will. When a customer is choosing, I'm going to buy this instrument versus that instrument, this -- pharma services capabilities versus company x' pharma services capabilities, we have to be a rational choice, that in respect of everything else Thermo Fisher does, that that's a logical decision. And being part of Thermo Fisher actually makes it even better. So that's the philosophy.
+So then you get down to the practical side, and you look at our individual business lines, all of our major business lines are going faster than the competition. They are all gaining market share, right? And you see that across the portfolio, right? So there's one, what's the philosophy, but it's not about bundling, right? It's about trusted status of doing a great job. When something doesn't go right, that the first thing that the Thermo Fisher executive representative, whomever, says, "How can I help you to solve it," right, there's a mindset about customer success that is so incredibly deeply ingrained in this company. That's what actually creates the aura that I want to do more business with you, and therefore, customers are choosing to do more business. And they inform us about where they're going and what they want to do and why. And as I said earlier, this is really a unique time for us to expand our capabilities.
+
+--------------------------------------------------------------------------------
+Daniel Gregory Brennan,  UBS Investment Bank, Research Division - Senior Equity Research Analyst of Healthcare Life Sciences    [30]
+--------------------------------------------------------------------------------
+Great. And go Jets.
+
+--------------------------------------------------------------------------------
+Marc N. Casper,  Thermo Fisher Scientific Inc. - Chairman, President & CEO    [31]
+--------------------------------------------------------------------------------
+Exactly. This might be the year for them to get to 500.
+
+--------------------------------------------------------------------------------
+Operator    [32]
+--------------------------------------------------------------------------------
+Your next question comes from Vijay Kumar of Evercore.
+
+--------------------------------------------------------------------------------
+Vijay Muniyappa Kumar,  Evercore ISI Institutional Equities, Research Division - MD    [33]
+--------------------------------------------------------------------------------
+A couple of quick financial questions. One, was this a competitive process, Marc? And on the debt, it looks like maybe above $5 billion-ish of the financing is going to be debt. Are those assumptions correct? I'm curious on the competitive process.
+
+--------------------------------------------------------------------------------
+Marc N. Casper,  Thermo Fisher Scientific Inc. - Chairman, President & CEO    [34]
+--------------------------------------------------------------------------------
+Yes. So in terms of the process for this transaction, and that's all going to come out, I think, in documentation shortly. I actually don't know the exact time frame. So some more will come out on that when the various documents are filed. This is -- was a super-friendly transaction with 2 companies, saw the strategic logic and are excited that this is good for our customers. It's good for our colleagues. And it's good for our respective shareholders. So it's really quite compelling. And Stephen, do you want to talk about the financing?
+
+--------------------------------------------------------------------------------
+Stephen Williamson,  Thermo Fisher Scientific Inc. - Senior VP & CFO    [35]
+--------------------------------------------------------------------------------
+Yes. So on the debt, to cover the $17.4 billion cash purchase price, it's a slightly higher level of debt than you articulated there, it depends on the level of cash generation during the year. Just a quick reminder, since the end of the year, we did pay down $2.6 billion of debt in early January that was announced at the end of last year. And we've done some M&A with -- to make sure and a couple of other deals and then the $2 billion of buybacks in Q1. So a slightly higher level of debt than you articulated there, but we're in good shape in terms of the debt financing as we think about plans for that going forward.
+
+--------------------------------------------------------------------------------
+Vijay Muniyappa Kumar,  Evercore ISI Institutional Equities, Research Division - MD    [36]
+--------------------------------------------------------------------------------
+That's helpful. And just on the revenue synergies, I think I saw the $150 million of revenues translate into $50 million of operating profit. That's a low-30s operating margins. Curious if there's some mix change going on because I think PPD is running in the mid- to high teens range.
+
+--------------------------------------------------------------------------------
+Stephen Williamson,  Thermo Fisher Scientific Inc. - Senior VP & CFO    [37]
+--------------------------------------------------------------------------------
+Well, it's a combination of synergies across PPD itself as well as across Thermo Fisher. So it's kind of the synergies in both areas as we think about the revenue opportunities here.
+
+--------------------------------------------------------------------------------
+Vijay Muniyappa Kumar,  Evercore ISI Institutional Equities, Research Division - MD    [38]
+--------------------------------------------------------------------------------
+I see. Congrats.
+
+--------------------------------------------------------------------------------
+Stephen Williamson,  Thermo Fisher Scientific Inc. - Senior VP & CFO    [39]
+--------------------------------------------------------------------------------
+Thank you, Vijay.
+
+--------------------------------------------------------------------------------
+Marc N. Casper,  Thermo Fisher Scientific Inc. - Chairman, President & CEO    [40]
+--------------------------------------------------------------------------------
+Thanks, Vijay.
+
+--------------------------------------------------------------------------------
+Operator    [41]
+--------------------------------------------------------------------------------
+Your final question comes from Dan Arias of Stifel.
+
+--------------------------------------------------------------------------------
+Daniel Anthony Arias,  Stifel, Nicolaus & Company, Incorporated, Research Division - MD & Senior Analyst    [42]
+--------------------------------------------------------------------------------
+And congrats. Marc, to this point that you made, I think, before Tycho's question, and just thinking about driving value in the combination and reaching your targets, can you maybe just touch on where you've kind of gotten the best education on how to integrate a CDMO, CRO business based on the Patheon experience and whether maybe there's sort of anything that you would say like getting up the learning curve has allowed for recognition maybe faster than the time line that you had the first time around? Or is it kind of take it as it goes?
+
+--------------------------------------------------------------------------------
+Marc N. Casper,  Thermo Fisher Scientific Inc. - Chairman, President & CEO    [43]
+--------------------------------------------------------------------------------
+Yes. So our pharma services business has obviously performed meaningfully better than the strong expectations that we outlined in 2017. And in fact, we've been able to continue to expand our share and expand our capabilities over the last 4 years. And that's all driven by the phenomenal colleagues that joined us and complemented the existing team at Thermo Fisher back then in 2017. So I think the first lesson learned is one that we've been applying for many years, which is we couldn't be more excited for the colleagues from PPD to join us for the expertise that they bring, for their passion about the work they're doing and their customer success. And that, over time, we'll open up new capabilities for the combined company to help our customers be successful. So that's how we think about it. And don't distract our teams, let them do their job, do a great job with happy customers, happy customers who want to do more work with companies. And we create that success cycle, which we will, that will open up new opportunities for Thermo Fisher.
+So it's really, in a way, quite straightforward. And we're excited about taking a very strong performing business, growing it at a high rate, doing a great job for our customers and along the way, creating very meaningful shareholder value. And I believe, fundamentally, it will open up even more opportunities for the company long-term as well. So thank you for the question.
+So let me turn here to wrapping up the call. I want to thank everyone. As I think you got a sense, we've admired PPD's leading capabilities and its mission-driven culture for quite some time. And we really look forward to welcoming their talented team to Thermo Fisher upon the close of the transaction. Like us, PPD prides itself on deep industry relationships and its reputation for quality and service. And together, we'll enhance our offering, we'll create important benefits for our customers, and we'll deliver further value for our shareholders.
+With that, I'm looking forward to speaking to many of you again at our earnings call, which is on April 29. Thanks, everyone.
+
+--------------------------------------------------------------------------------
+Operator    [44]
+--------------------------------------------------------------------------------
+This concludes today's conference call. Thank you for your participation. You may now disconnect.
+
+
+
+
+
+
+
+--------------------------------------------------------------------------------
+Definitions
+--------------------------------------------------------------------------------
+PRELIMINARY TRANSCRIPT: "Preliminary Transcript" indicates that the 
+Transcript has been published in near real-time by an experienced 
+professional transcriber.  While the Preliminary Transcript is highly 
+accurate, it has not been edited to ensure the entire transcription 
+represents a verbatim report of the call.
+
+EDITED TRANSCRIPT: "Edited Transcript" indicates that a team of professional 
+editors have listened to the event a second time to confirm that the 
+content of the call has been transcribed accurately and in full.
+
+--------------------------------------------------------------------------------
+Disclaimer
+--------------------------------------------------------------------------------
+Refinitiv reserves the right to make changes to documents, content, or other 
+information on this web site without obligation to notify any person of 
+such changes.
+
+In the conference calls upon which Event Transcripts are based, companies 
+may make projections or other forward-looking statements regarding a variety 
+of items. Such forward-looking statements are based upon current 
+expectations and involve risks and uncertainties. Actual results may differ 
+materially from those stated in any forward-looking statement based on a 
+number of important factors and risks, which are more specifically 
+identified in the companies' most recent SEC filings. Although the companies 
+may indicate and believe that the assumptions underlying the forward-looking 
+statements are reasonable, any of the assumptions could prove inaccurate or 
+incorrect and, therefore, there can be no assurance that the results 
+contemplated in the forward-looking statements will be realized.
+
+THE INFORMATION CONTAINED IN EVENT TRANSCRIPTS IS A TEXTUAL REPRESENTATION
+OF THE APPLICABLE COMPANY'S CONFERENCE CALL AND WHILE EFFORTS ARE MADE TO
+PROVIDE AN ACCURATE TRANSCRIPTION, THERE MAY BE MATERIAL ERRORS, OMISSIONS,
+OR INACCURACIES IN THE REPORTING OF THE SUBSTANCE OF THE CONFERENCE CALLS.
+IN NO WAY DOES REFINITIV OR THE APPLICABLE COMPANY ASSUME ANY RESPONSIBILITY FOR ANY INVESTMENT OR OTHER
+DECISIONS MADE BASED UPON THE INFORMATION PROVIDED ON THIS WEB SITE OR IN
+ANY EVENT TRANSCRIPT. USERS ARE ADVISED TO REVIEW THE APPLICABLE COMPANY'S
+CONFERENCE CALL ITSELF AND THE APPLICABLE COMPANY'S SEC FILINGS BEFORE
+MAKING ANY INVESTMENT OR OTHER DECISIONS.
+--------------------------------------------------------------------------------
+Copyright 2021 Refinitiv. All Rights Reserved.
+--------------------------------------------------------------------------------

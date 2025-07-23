@@ -1,0 +1,502 @@
+
+
+Refinitiv StreetEvents Event Transcript
+E D I T E D   V E R S I O N
+
+Acasti Pharma Inc Planned Acquisition of Grace Therapeutics Inc Call
+AUGUST 04, 2021 / 5:00PM GMT
+
+================================================================================
+Corporate Participants
+================================================================================
+
+ * Janelle D'Alvise
+   Acasti Pharma Inc. - President, CEO, Corporate Secretary & Director
+ * Brian D. Ford
+   Acasti Pharma Inc. - CFO
+
+================================================================================
+Conference Call Participiants
+================================================================================
+
+ * David K. Waldman
+   Crescendo Communications, LLC - President & CEO
+
+================================================================================
+Presentation
+--------------------------------------------------------------------------------
+Operator    [1]
+--------------------------------------------------------------------------------
+
+          Good day, ladies and gentlemen, and welcome to the Acasti Pharma Business Update Conference Call. (Operator Instructions) At this time, it is my pleasure to turn the floor over to your host, David Waldman, Investor Relations. Sir, the floor is yours.
+
+--------------------------------------------------------------------------------
+David K. Waldman,  Crescendo Communications, LLC - President & CEO    [2]
+--------------------------------------------------------------------------------
+
+          Thank you. Good afternoon, everyone, and welcome to this investor conference call to discuss Acasti's proposed acquisition of Grace Therapeutics. On the call with us from Acasti are Jan D' Alvise, President and CEO; Pierre Lemieux, Chief Operating Officer, Chief Scientific Officer and Co-Founder; and Brian Ford, Chief Financial Officer. Also joining us from the Grace team are George Kottayil, Co-Founder and CEO; and Prashant Kohli, Vice President of Commercial Operations. 
+I'd also like to remind everyone that statements on this conference call that are not statements of historical or current fact constitute forward-looking information within the meaning of Canadian securities laws and forward looking statements within the meaning of the U.S. Private Securities Litigation Reform Act of 1995, the Securities Act of 1933 and the Securities Exchange Act of 1934. Such forward-looking statements involve known and unknown risks, uncertainties and other unknown factors that could cause the actual results of Acasti, Grace and the combined company to be materially different from historical results or from any future results expressed or implied by such forward-looking statements. 
+In addition to statements which explicitly describe such risks and uncertainties, readers are urged to consider statements labeled with the terms believes, belief, expects, intends, anticipates, potential, should, may, will, plans, continue, targeted or other similar expressions to be uncertain and forward-looking. Listeners are cautioned not to place undue reliance on these forward-looking statements, which speak only as of the date of this conference call. 
+Forward-looking statements during this conference call may include, but are not limited to, the expected timetable for completing the proposed acquisition of Grace and benefits to Acasti the proposed acquisition of Grace; future product development plans and projected timelines for the initiation and completion of preclinical and clinical trials; the potential for the results of ongoing preclinical or clinical trials and the efficiency of drug candidates; the potential market opportunities and value of drug candidates; other statements regarding future product development and regulatory strategies, including with respect to specific indications; the combined company's plans, objectives and future opportunities; future financial performance and operating results; sufficiency of capital resources to fund operating requirements; and any other statements regarding Acasti's and Grace's future expectations, beliefs, plans, objectives, financial conditions, assumptions or other future events or performance. 
+The forward-looking statements contained in this conference call are expressly qualified in their entirety by this cautionary statement. The cautionary statements regarding forward-looking statements in Acasti's registration statement on Form S-4 related to the proposed merger, including the prospectus and proxy statement included therein; the cautionary note regarding forward-looking information section contained in Acasti's latest annual on Form 10-K; and most recent management's discussion and analysis, which are available on SEDAR at www.sedar.com, on EDGAR at www.sec.gov, and on the Investors section of Acasti's website at www.acastipharma.com. 
+All forward-looking statements in this conference call are made as the date of this conference call. Acasti does not undertake to update any such forward-looking statements, whether as a result of new information, future events or otherwise, except as required by law. The forward-looking statements contained herein are also subject generally to assumptions and risks and uncertainties that are described from time to time in Acasti's public securities filings with the Securities and Exchange Commission, and the Canadian Securities Commission, including Acasti's registration statement on Form S-4 relating to the proposed merger, including the prospectus and proxy statement included therein, its latest annual report on Form 10-K and most recent MD&A. 
+In addition, any forward-looking statements represent Acasti's views as of today and should not be relied upon as representing our views of any subsequent date. While Acasti might update forward-looking statements at some point in the future, unless legally required under applicable securities laws, Acasti specifically disclaims any obligation to do so. 
+I'd now like to turn the call over to Jan D' Alvise. Please go ahead, Jan.
+
+--------------------------------------------------------------------------------
+Janelle D'Alvise,  Acasti Pharma Inc. - President, CEO, Corporate Secretary & Director    [3]
+--------------------------------------------------------------------------------
+
+          Thanks so much, David, and I'd like to welcome everyone on the call today to discuss what we believe is an exciting new direction for Acasti and our shareholders. On May 7, we announced the signing of a definitive agreement to acquire Grace Therapeutics in an all-stock transaction. And now as we get closer to our Annual Shareholder Meeting to be held on August 26, we thought it would be helpful to review the key attributes of the transaction and share what we see as the key benefits for our shareholders and ultimately for the patients who will benefit most from the medicines that we plan to develop. 
+I'll provide an overview of the Grace product pipeline in today's call, and I'll plan to highlight our near-term development plans and key milestones. Finally, we'll wrap up by answering the numerous questions that we've received from shareholders ahead of today's call. 
+So let me get started by saying how excited we are about the planned acquisition which both the Grace and Acasti teams believe will be truly transformative for the newly combined company and for our shareholders. We believe this transaction will create new and exciting opportunities for us in sizable markets with substantial unmet medical needs. We believe that the successful development of Grace's pipeline drugs could provide new treatment options for patients who are suffering from rare diseases and their physicians and families who support and care for them. 
+So Grace is a rare and orphan disease specialty pharmaceutical company that has developed novel drug delivery technologies. Grace is applying these technologies to already approved and marketed pharmaceutical compounds with proven safety profiles and clinical efficacy, often for indications different from the ones that Grace is pursuing. Grace's technologies enable them to customize the formulation of these marketed drugs in new ways that have the potential to address significant unmet medical needs by achieving faster onset of action, enhanced efficacy, reduced side effects and more convenient drug delivery, all which can help to increase compliance and improve patient outcomes. 
+The proposed acquisition of Grace represents a unique opportunity for Acasti and our shareholders to build a new late-stage specialty pharma company focused on rare diseases by combining Acasti's drug development, manufacturing and commercialization expertise along with our strong balance sheet and with Grace's chemistry expertise, drug delivery technologies and their deep clinical and preclinical product pipeline. Based on the valuation set in the merger agreement, Acasti shareholders will own on a pro forma basis, not less than 55%, but expected to be as high as 58% of the common shares. And Grace's stockholders will own between 42% and 45% of common shares. In each case, calculated on a fully diluted basis and after cash and working capital adjustments are made at closing. 
+Now following the merger and based on management's current forecast, we expect to have more than $60 million in cash on our balance sheet at closing, which should provide at least 2 years of operating runway. This cash should enable us to achieve meaningful value catalysts, including the completion of the clinical development and filing of a new drug application, or NDA, for Grace's lead clinical asset, GTX-104, as well as advancing other drug candidates in the pipeline to additional key value-enhancing milestones. 
+The first 3 products in Grace's clinical pipeline have already received orphan drug designation from the FDA. And if approved, will give us access to addressable markets in the United States that are currently valued at more than $2 billion. The market opportunities in Europe and Asia are also attractive with significant additional revenue potential. We expect to address these international markets through future marketing and distribution partnerships that we plan to put in place as our drugs complete clinical trials and get closer to market approval. 
+Rare diseases represent an attractive area for drug development as getting an orphan drug designation from the FDA provides 7 years of marketing exclusivity post launch in the United States, provided that the appropriate conditions are met at approval. And in our case, exclusivity could potentially be extended well beyond those 7 years based on Grace's large and growing patent portfolio, which we expect will provide exclusivity beyond 2036. In addition to extended market exclusivity, a focus on developing orphan drugs can bring other benefits. They typically require smaller, shorter and less expensive clinical trials to obtain regulatory approval and usually a much smaller, more targeted commercial infrastructure is required to address these markets. Orphan drug indications also typically benefit from a more favorable pricing and reimbursement environment as this is a way for the government to attract investment in rare disease conditions where there are limited or currently no approved therapies. 
+In the case of the first 3 products in Grace's pipeline, each chemical entity is currently approved for different indications from what Grace is pursuing, with the exception of GTX-104, which will provide a different and potentially improved delivery method for nimodipine, a drug commonly used to treat patients with subarachnoid hemorrhage. And I'll tell you more about GTX-104 in just a few minutes. 
+These marketed drugs all have safety profiles that are well known and well understood. And in each case, the Grace team has leveraged their chemistry and drug delivery expertise to reformulate these compounds in novel ways that we believe could enhance efficacy and/or safety. This approach could give us the ability to use the Section 505(b)(2) regulatory pathway under the Federal Food, Drug and Cosmetic Act for clinical development and approval. This states that if sufficient support of a product safety and efficacy already exists, either through previous FDA experience or sufficiently within the scientific literature, some of the preclinical and clinical studies that might otherwise be required of an NCE drug candidate could actually be waived. Consequently, this regulatory pathway is commonly utilized when repurposing existing compounds, and the resulting less complex development programs can significantly reduce time to market as well as cost and risk. These accelerated programs for the first 3 drug candidates in Grace's pipeline create the opportunity for near-term milestones that we believe can be achieved over the next 6 to 12 months. I plan to highlight those key milestones as I briefly describe each of Grace's 3 most advanced clinical programs and our current development plans and timelines. 
+So with that as an introduction, I'll start by telling you more about GTX-104, which is an intravenous or IV formulation of nimodipine designed to treat subarachnoid hemorrhage, otherwise known as SAH. So SAH is a condition that causes acute bleeding in the brain due to a ruptured aneurysm. It's estimated to affect about 50,000 patients each year in the United States alone. SAH typically requires immediate surgery, and on average about 2 weeks in a neurointensive care unit to try to prevent death and reduce the risk of long-term disability. Consequently, SAH is very expensive to treat. And third-party market research study conducted for Grace estimated that the average inpatient hospital cost is about $250,000. Nimodipine is currently available in the United States only in an oral dosage form. So many of these patients are unconscious and they have a hard time swallowing during their hospital stay. So GTX-104 as an IV infusion could be a much more convenient and efficient way to deliver nimodipine. And importantly, it could potentially provide physicians with a more effective tool for hypotension management. 
+GTX-104 was previously evaluated by Grace in a randomized safety and dose-ranging study in over 80 healthy subjects designed to assess pharmacokinetics, bioavailability and safety of GTX-104 administered via an IV infusion as compared to oral nimodipine. The results of this study were highly encouraging as no serious adverse events were reported and the incidence of nonserious adverse events was much lower for GTX-104 as compared to the nimodipine delivered orally. These positive results support the next step in clinical development, which is now to conduct a small PK bridging study in about 60 patients. We expect to start this study this fall shortly after our proposed acquisition of Grace closes, and we expect to report results in the second quarter of 2022. The goal of this study is to achieve blood levels with our GTX-104 IV nimodipine formulation that are comparable to the oral form of the drug that is in-routine use today. Positive results would likely advance us directly into a Phase III clinical safety trial for SAH in about 100 patients. 
+Now provided we see a similar safety profile to oral nimodipine upon completion of the Phase III study, we could then expect to proceed with filing an NDA using the orphan drug designation and the 505(b)(2) pathway. So we believe that GTX-104 could represent an important advancement in the care of patients with SAH. Approximately 70% of them either die or require dependent care for the rest of their lives. And of the 70%, about half die within 1 month of experiencing the brain hemorrhage. While physicians have been using oral nimodipine for decades, it comes with serious dose-limiting side effects such as hypotension and poor absorption. In fact, only about 13% of nimodipine is actually absorbed when delivered orally. Additionally, oral nimodipine must be dosed frequently, approximately every 4 hours or so. 
+So this IV formulation of nimodipine allows for continuous therapy and therefore, gives physicians the ability to tightly control the administration to achieve better blood pressure control. This advantage is really important as GTX-104 could help to reduce the incidence of vasospasm, which requires immediate, aggressive and costly intervention and can lead to worse outcomes for the patient. The IV formulation of GTX-104 also eliminates the difficulties experienced by the nursing staff in having to deliver oral nimodipine via nasogastric tube to an unconscious patient who can't swallow, and it may also reduce drug-drug interactions that are occasionally seen with oral nimodipine. 
+With a total estimated addressable market of approximately $300 million in the United States alone, following FDA approval, we believe we can bring GTX-104 to market very quickly with a relatively small and focused sales force as our target customers will be the roughly 400 major stroke centers in the United States. This strategy simplifies and reduces our commercialization costs and could shorten the revenue ramp with our first marketed drug. Opportunistically, we also plan to evaluate licensing partnerships for both the United States and major ex-U.S. markets. 
+The second drug in Grace's clinical pipeline is GTX-102, which is an oral mucosal betamethasone spray for the treatment of ataxia-telangiectasia, also known as A-T. Now A-T is a complex genetic neurodegenerative orphan disorder, usually diagnosed in young children. Children with A-T begin to experience balance and coordination problems as toddlers. They become wheelchair bound and then often develop compromised immune systems as they get older, putting them at an increased risk of respiratory infections and cancers, including lymphomas, leukemia and brain cancer. Unfortunately, no FDA-approved treatment exists today for A-T, and these patients typically die in their 20s from complications of lung disease or cancer. 
+Looking ahead, GTX-102 would follow a clinical development plan that is very similar to GTX-104 as we expect to utilize the 505(b)(2) pathway for regulatory approval. Based on input that Grace has already received from the FDA, the next step in our development plan would be to conduct a pharmacokinetic bridging study comparing blood levels of GTX-102 with oral betamethasone. Assuming this trial is successful, we would then forward quickly to conduct a confirmatory Phase III safety and efficacy trial in patients with A-T. 
+This expedited development path for GTX-102 is really important because  while current treatment options help to alleviate symptoms in some of these patients, they only seem to do so for a short period of time. Previous trials of oral betamethasone conducted in Italy have shown the potential to provide significant clinical benefit by decreasing the symptoms of A-T with minimal adverse events. So based on this data, we believe that a decrease in symptoms is possible with GTX-102 and could lead to fewer complications, which may in turn prolong these patients' lives and at the same time, improve their quality of life. So our hope and the goal of this program is to show that GTX-102 could potentially provide a better solution for this devastating condition that currently has no known cure or treatment to help slow disease progression and improve the lives of these children and their families. 
+A-T is estimated to affect about 4,300 patients per year in the United States alone, representing an estimated addressable market of approximately $150 million. About half of these patients who have been diagnosed with A-T in the United States are currently being treated at the Johns Hopkins Medical Center, which is the world's leading center of excellence for A-T. Grace has been collaborating with the clinical thought leaders at Johns Hopkins for several years, and they have indicated a strong interest in participating in our clinical efficacy and safety trial. Again, assuming a successful clinical program outcome, we believe we can rapidly penetrate the A-T market with a small targeted sales force and a focused patient support and advocacy strategy. 
+So finally, the third clinical stage product in the Grace pipeline is GTX-101, which is a topical bio-adhesive, film-forming bupivacaine spray for post herpetic neuralgia or otherwise known as PHN. PHN is caused by the varicella-zoster virus, which is the same virus that causes chickenpox. This virus can reactivate decades after the initial infection to cause what is commonly known as shingles. GTX-101 is intended to be administered to patients after the blisters or the rash associated with shingles have healed to treat the severe and often difficult to manage neuralgia or nerve pain that's often associated with the disease. This nerve pain can become quite debilitating, and it may persist for many months or even years. The multiple issues associated with chronic pain are well documented in terms of quality of life and emotional well-being. In fact, PHN is the #1 cause of intractable debilitating pain in the elderly, and it has been identified as the leading cause of suicide in chronic pain patients over the age of 70. 
+The current treatments for PHN include lidocaine patches that can be difficult to apply to the skin and very difficult to remain in place. And the onset of action can take up to a week or more post application.  Oral gabapentin is an antiepileptic, anticonvulsant that it's also frequently used to treat PHN, but it can cause uncomfortable side effects such as dizziness, sleepiness and water retention. Both these treatments are often found to be unsatisfactory because of the poor management of pain. Consequently, to get adequate pain relief, patients often progress to the use of stronger pain medications, such as opioids, which can come with a significant risk of psychological and physical addiction. So we believe GTX-101 could solve these significant problems. It will be packaged in a convenient spray bottle. And when applied, it forms a thin bio-adhesive film of bupivacaine on the patient's skin. 
+Phase I single-dose clinical studies have already been completed by Grace, and they've shown that GTX-101 may provide potentially faster onset of action, sustained pain relief for up to 8 hours with possibly lower dosing and increased convenience when compared to the lidocaine patch. Importantly, patients using GTX-101 will not develop physical dependence. And therefore, it could be opioid sparing providing a key advantage to patients and the health care system. We're highly encouraged by this data, and we are currently planning additional preclinical and clinical dose-ranging studies in 2022 as an important next step towards regulatory approval. 
+PHN affects about 150,000 patients per year in the United States, representing a total addressable market of approximately $400 million for PHN pain alone. In addition to helping patients suffering from PHN, the opportunity in the broader pain market is significant. Grace's market research indicates that there could also be opportunity to tap into the larger U.S. market for non-PHN pain, which is currently estimated at $1.2 billion. So you can see why we're so excited about GTX-101, and we plan to do everything possible to accelerate its development. 
+Now while I focus my comments today on Grace's 3 leading assets, it's important to mention that the transaction will also provide Acasti with a large pipeline of additional preclinical drug candidates based on Grace's novel drug delivery and formulation technologies. Post-merger, we plan to more fully address or assess the market potential and the clinical, regulatory and manufacturing plans required to develop and commercialize each of these assets. We then plan to prioritize them for future clinical development to maximize value for shareholders. I look forward to sharing more about Grace's impressive pipeline and our development plans in the months to come. 
+A key aspect of drug commercialization is manufacturing and scale up. Grace has already done a great job of establishing a network of third-party contract manufacturers, or CMOs, who are making the active pharmaceutical ingredients as well as the finished drug products for clinical use. Outsourcing to separate CMOs was a very smart strategy in Grace's part, as it helps to mitigate the risk of a single manufacturing location for all products. Based on the extensive diligence conducted by Acasti to date, we also believe that the manufacturing processes for GTX-104, 102 and 101 are all well advanced and have relatively low risk remaining as we begin to plan the scale-up for larger clinical trials, and if successful, eventually commercial launch and global commercialization. 
+I should also mention that Grace has done an excellent job protecting their intellectual property and know-how.  Grace's extensive patent estate includes more than 40 granted and pending patents around the world, including 4 issued U.S. patents and 7 additional filed U.S. patent applications. These patents include both composition of matter and method of use claims, which we believe will provide long-term protection and extend exclusivity beyond the 7 years that is granted through the FDA's orphan drug designation. In fact, many of these patents and patent applications will have terms that extend well beyond 2036 with planned additional patents still to be filed. 
+The acquisition of Grace would not only bring an exciting pipeline to Acasti, but we would also be getting a highly skilled management team and staff with skills in many cases that are complementary to our own. As I've mentioned, Grace brings significant experience in drug formulation and drug delivery research. And they will be additive to the strong team that we've assembled over the last 10 years at Acasti. Grace's team has collectively been involved in the clinical development, approval and commercial launch of several successfully marketed drugs at other companies. And we believe their skills will synergize well with Acasti's expertise in running large-scale clinical trials, commercial scale manufacturing, product commercialization as well as with the depth of our experience in finance, corporate and business development. 
+Finally, many of you have been asking about the status of CaPre and our plans for our Phase III asset. Despite not meeting the primary endpoint in our TRILOGY 1 and TRILOGY 2 trials, and as we have previously disclosed, the triglyceride reduction that was seen for CaPre was one of the highest seen among previously conducted hypertriglyceridemia studies, particularly in the large subset of patients on statins. Consequently, we have received strong interest and continue to evaluate a variety of strategic options for CaPre. While we can't provide additional details at this time, CaPre remains an important focus of management and our Board, and we promise to provide additional information as soon as practical. 
+So in closing, I'd like to emphasize again how enthusiastic we are about this proposed acquisition of Grace and the bright future it can create for Acasti. We therefore strongly encourage all of our shareholders to vote in favor of the transaction at our upcoming shareholder meeting on August 26. You should already have received the proxy materials electronically by mail or through your broker to vote your shares. Please, please take the time to follow the link provided in the proxy materials at investorvote.com and enter your control number or you can send it back by mail. It we will only take you a few minutes, but it is so important that all of our shareholders vote so that we can secure the required quorum for the shareholder approval for the transaction. And of course, if you have any questions, please don't hesitate to contact our Investor Relations team at Crescendo. Their Number is (212) 671-1021, or you can call our proxy solicitors at D.F. King & Company. And their toll-free number is 1 (800) 884-4725. 
+And finally, I would like to thank all of our shareholders for your patience and support during this lengthy but productive transition process. We remain as encouraged as ever about the outlook for our company, and we believe the Grace transaction has the potential to create significant value for all of our shareholders in the future. 
+That concludes our prepared remarks, and I'll now turn the call over to David.
+
+
+================================================================================
+Questions and Answers
+--------------------------------------------------------------------------------
+David K. Waldman,  Crescendo Communications, LLC - President & CEO    [1]
+--------------------------------------------------------------------------------
+
+          Thank you, Jan. The company received many questions from investors for today's call. and we thank you all for your interest, feedback and continued support to shareholders. Many of these questions were repetitive, and so on today's call, we will be addressing the most frequently asked questions. (Operator Instructions) 
+Additionally, the company has received multiple questions seeking information about things that have not been disclosed by the company or that are forward-looking as well as several questions regarding share price fluctuations and the trading activities of the company's shares. As a matter of policy and regulatory compliance, the company does not offer interim operational or financial updates, forward-looking guidance or capital market strategies nor does Acasti comment on the future performance of the company's shares in the market. 
+With that, the first set of questions comes from Leland Gershell, the biopharma analyst at Oppenheimer. 
+First, in terms of GTX-104. What is the nanoparticle [cell] composed of?
+
+--------------------------------------------------------------------------------
+Janelle D'Alvise,  Acasti Pharma Inc. - President, CEO, Corporate Secretary & Director    [2]
+--------------------------------------------------------------------------------
+
+          Thanks very much, Leland, for that question. The nano [mycell] is comprised primarily of the non-ionic surfactant polysorbate 80. And as most of you in the industry know, polysorbate 80 is an excipient that is commonly used to stabilize aqueous formulations of medications for parenteral administration.
+
+--------------------------------------------------------------------------------
+David K. Waldman,  Crescendo Communications, LLC - President & CEO    [3]
+--------------------------------------------------------------------------------
+
+          The next question, in what animal were the PK data shown derived?
+
+--------------------------------------------------------------------------------
+Janelle D'Alvise,  Acasti Pharma Inc. - President, CEO, Corporate Secretary & Director    [4]
+--------------------------------------------------------------------------------
+
+          Yes, thanks. The PK data were derived using a rat model.
+
+--------------------------------------------------------------------------------
+David K. Waldman,  Crescendo Communications, LLC - President & CEO    [5]
+--------------------------------------------------------------------------------
+
+          His next question, how many subjects do you expect to be needed for the Phase III safety study?
+
+--------------------------------------------------------------------------------
+Janelle D'Alvise,  Acasti Pharma Inc. - President, CEO, Corporate Secretary & Director    [6]
+--------------------------------------------------------------------------------
+
+          Yes. As I mentioned earlier and based on preliminary discussions with the FDA today, we believe about 100 patients will be adequate for this study. But that will, of course, need to be confirmed by the FDA once we have our final protocol drafted.
+
+--------------------------------------------------------------------------------
+David K. Waldman,  Crescendo Communications, LLC - President & CEO    [7]
+--------------------------------------------------------------------------------
+
+          The next question, with respect to current nimodipine use, to what extent could GTX-104 expand the scope of this pharmacotherapy in SAH?
+
+--------------------------------------------------------------------------------
+Janelle D'Alvise,  Acasti Pharma Inc. - President, CEO, Corporate Secretary & Director    [8]
+--------------------------------------------------------------------------------
+
+          Yes. This is a great question. And again, it's another reason why we are so excited about the potential for GTX-104.  We believe that GTX-104 could really benefit a majority of the patients with SAH, who are unconscious when admitted to the hospital. And consequently, they're not able to swallow a large capsule. Additionally, and very importantly, we believe that nimodipine blood levels achieved with an IV infusion are expected to be more consistent when compared to oral nimodipine.  This could give patients or physicians the ability to more tightly control the administration of the nimodipine, to achieve better blood pressure control. And this is what's really critically important. So GTX-104 could really help to reduce the incidence of vasospasm, which requires immediate and aggressive, and as I mentioned earlier, very costly intervention, and we think could also lead to worse outcomes for the patients.
+
+--------------------------------------------------------------------------------
+David K. Waldman,  Crescendo Communications, LLC - President & CEO    [9]
+--------------------------------------------------------------------------------
+
+          His next question, where would you expect to price GTX-104 in the U.S.?
+
+--------------------------------------------------------------------------------
+Janelle D'Alvise,  Acasti Pharma Inc. - President, CEO, Corporate Secretary & Director    [10]
+--------------------------------------------------------------------------------
+
+          Yes. So generic oral nimodipine is currently priced at around $500 a day. And we know that, in general, IV products are typically priced higher than oral products. So we would expect that the price of GTX-104 could probably be set at a premium, probably a modest premium over the liquid nimodipine currently on the market. So ultimately, it's important to keep in mind that the pricing will depend on the results of our clinical studies and the perceived benefits of the IV over the oral.
+
+--------------------------------------------------------------------------------
+David K. Waldman,  Crescendo Communications, LLC - President & CEO    [11]
+--------------------------------------------------------------------------------
+
+          The next question, would the pharmacoeconomic studies be needed to support market access, or would the advantages to current standard of care stand on their own?
+
+--------------------------------------------------------------------------------
+Janelle D'Alvise,  Acasti Pharma Inc. - President, CEO, Corporate Secretary & Director    [12]
+--------------------------------------------------------------------------------
+
+          Yes, this is a great question. And we're actually planning to include some important pharmacoeconomic endpoints in our Phase III safety study so that we can begin to quantify the cost benefit impact of GTX-104 IV therapy over oral nimodipine, which is currently the standard of care. So depending on the outcome, we may also decide to conduct a larger follow-on pharmacoeconomic study post-approval. But that decision will be made once we see our Phase III results.
+
+--------------------------------------------------------------------------------
+David K. Waldman,  Crescendo Communications, LLC - President & CEO    [13]
+--------------------------------------------------------------------------------
+
+          His next question, do you have an outlook on what would be needed for EU approval?
+
+--------------------------------------------------------------------------------
+Janelle D'Alvise,  Acasti Pharma Inc. - President, CEO, Corporate Secretary & Director    [14]
+--------------------------------------------------------------------------------
+
+          Yes. We believe that a small clinical study in SAH patients may be required. But again, this will need to be confirmed with the EMA or the European regulatory agency. So we would do that as we get closer.
+
+--------------------------------------------------------------------------------
+David K. Waldman,  Crescendo Communications, LLC - President & CEO    [15]
+--------------------------------------------------------------------------------
+
+          The next set of questions from Mr. Gershell involve GTX-102. The first question, are steroids currently used to manage A-T? And if so, to what extent? Is there support for this approach apart from the [ZINOLI] data?
+
+--------------------------------------------------------------------------------
+Janelle D'Alvise,  Acasti Pharma Inc. - President, CEO, Corporate Secretary & Director    [16]
+--------------------------------------------------------------------------------
+
+          Yes, definitely. The steroids are currently being used in some cases to help manage these patients. Keep in mind, it's an oral capsule. In fact, several investigators have utilized oral betamethasone in Europe. And based on their experience, it appears to be very promising. And this has been also reported in the published literature.
+
+--------------------------------------------------------------------------------
+David K. Waldman,  Crescendo Communications, LLC - President & CEO    [17]
+--------------------------------------------------------------------------------
+
+          The next question was, no therapies approved by the FDA. This indication may be new regulatory ground. What endpoints and how long a treatment duration would expect to be needed for the Phase III? And would ICARS be a putative primary end point?
+
+--------------------------------------------------------------------------------
+Janelle D'Alvise,  Acasti Pharma Inc. - President, CEO, Corporate Secretary & Director    [18]
+--------------------------------------------------------------------------------
+
+          Yes, that's another good question. We expect that the treatment duration of the study will be about 6 months. And yes, based on discussions to date with the FDA, we expect that the standard ICARS scoring system would be the primary endpoint.
+
+--------------------------------------------------------------------------------
+David K. Waldman,  Crescendo Communications, LLC - President & CEO    [19]
+--------------------------------------------------------------------------------
+
+          The next set of questions revolve around GTX-101. Given cheap generic anesthetic patches, how will you position this product in the marketplace?
+
+--------------------------------------------------------------------------------
+Janelle D'Alvise,  Acasti Pharma Inc. - President, CEO, Corporate Secretary & Director    [20]
+--------------------------------------------------------------------------------
+
+          Yes. We hope to demonstrate superior clinical outcomes in -- both in terms of faster onset of action and longer-lasting analgesic effects over the standard of care. In addition, the ease of use of GTX-101 spray and the better aesthetic appeal over the patch could be strong market differentiator. And as I stated earlier, PHN pain can be very debilitating, especially in seniors who are disproportionately affected by it. So we believe GTX-101 has potential to transform PHN treatment and become the new standard of care.
+
+--------------------------------------------------------------------------------
+David K. Waldman,  Crescendo Communications, LLC - President & CEO    [21]
+--------------------------------------------------------------------------------
+
+          Next question, what is your expected market exclusivity?
+
+--------------------------------------------------------------------------------
+Janelle D'Alvise,  Acasti Pharma Inc. - President, CEO, Corporate Secretary & Director    [22]
+--------------------------------------------------------------------------------
+
+          Yes. Again, as mentioned earlier, we expect to see 7 years of market exclusivity based on our orphan designation. And then we have additional patents that should extend our exclusivity well beyond 2036.
+
+--------------------------------------------------------------------------------
+David K. Waldman,  Crescendo Communications, LLC - President & CEO    [23]
+--------------------------------------------------------------------------------
+
+          Great. Thank you, Leland, for your questions. Now I'll turn the call to questions that were submitted by shareholders ahead of today's meeting. 
+The first question goes to Jan, what was the process that you went through to select Grace?
+
+--------------------------------------------------------------------------------
+Janelle D'Alvise,  Acasti Pharma Inc. - President, CEO, Corporate Secretary & Director    [24]
+--------------------------------------------------------------------------------
+
+          Yes. Thanks for that question. And it gets at some of the key reasons we made the decision to acquire Grace. With the tremendous support of our bankers at Oppenheimer, we pursued a thorough strategic process to evaluate a wide range of value-creating alternatives. Through this rigorous process, more than 100 companies were screened by Oppenheimer, and we conducted diligence on more than 20 companies in total. We ultimately selected Grace primarily based on the strength of their technology platforms and IP, the market opportunity, the potential for expedited clinical development and commercialization of their first 3 assets as well as their scientific talent, which, as I mentioned earlier, are highly synergistic with Acasti's expertise. This positions us well to build a portfolio of innovative therapeutics that we believe will address significant unmet medical needs in these target orphan indications.
+
+--------------------------------------------------------------------------------
+David K. Waldman,  Crescendo Communications, LLC - President & CEO    [25]
+--------------------------------------------------------------------------------
+
+          Our next question, when does Acasti expect to commence Phase III trials for Grace's products?
+
+--------------------------------------------------------------------------------
+Janelle D'Alvise,  Acasti Pharma Inc. - President, CEO, Corporate Secretary & Director    [26]
+--------------------------------------------------------------------------------
+
+          Well, we expect to begin Phase III enrollment for GTX-104, which again is the IV formulation of nimodipine in the second half of next year. And in the first half of 2023 for GTX-102, which again is the oral spray form of betamethasone for treating children with A-T. I should also mention that very importantly, we expect to complete additional near-term milestones in the form of smaller but very important pivotal pharmacokinetic studies for GTX-104 in the first half of '22 and in the second half of next year for GTX-102.
+
+--------------------------------------------------------------------------------
+David K. Waldman,  Crescendo Communications, LLC - President & CEO    [27]
+--------------------------------------------------------------------------------
+
+          Our next question, upon approval, what is the go-to-market strategy? Would you be looking to partner? Or what kind of sales organization would you need to put in place?
+
+--------------------------------------------------------------------------------
+Janelle D'Alvise,  Acasti Pharma Inc. - President, CEO, Corporate Secretary & Director    [28]
+--------------------------------------------------------------------------------
+
+          Yes. Thanks for this question. And I think I touched on this earlier. As GTX-104 and 102 complete their clinical development programs, our current plan is to build a small and focused commercial organization in the United States to market and sell these drugs upon FDA approval. We believe that treatment centers and medical specialists who manage these patients are fairly concentrated geographically and therefore, fairly easy to reach. This allows us to cost effectively promote these products with a small commercial team following approval. In contrast, with GTX-101, we will be targeting a larger primary care and pain specialist market. So we'll likely see commercial partnerships in the United States and in other major countries to fully exploit the market potential of that drug.
+
+--------------------------------------------------------------------------------
+David K. Waldman,  Crescendo Communications, LLC - President & CEO    [29]
+--------------------------------------------------------------------------------
+
+          Our next question, when do you expect to close the merger?
+
+--------------------------------------------------------------------------------
+Janelle D'Alvise,  Acasti Pharma Inc. - President, CEO, Corporate Secretary & Director    [30]
+--------------------------------------------------------------------------------
+
+          So as we previously announced, the special shareholder meeting to approve the transaction will occur on August 26. And the post transaction should close very shortly after we receive approval from Acasti shareholders, subject to any stock exchange approvals, as well as satisfaction of other closing conditions that are specified in the definitive merger agreement. These conditions should be met within a few business days of the shareholder meeting assuming that we're able to reach a quorum and that we get a positive vote in favor of the transaction. So again, I'd like to take this opportunity to say how extremely important it is that our shareholders vote for this transaction, and we thank you in advance for your participation and support.
+
+--------------------------------------------------------------------------------
+David K. Waldman,  Crescendo Communications, LLC - President & CEO    [31]
+--------------------------------------------------------------------------------
+
+          Our next question, will Grace shareholders be locked up after the merger?
+
+--------------------------------------------------------------------------------
+Janelle D'Alvise,  Acasti Pharma Inc. - President, CEO, Corporate Secretary & Director    [32]
+--------------------------------------------------------------------------------
+
+          Yes, definitely. They will be locked up for 12 months, subject to certain customary exceptions. And again, I would refer shareholders to the prospectus and proxy statement related to the merger if you would like more details on this.
+
+--------------------------------------------------------------------------------
+David K. Waldman,  Crescendo Communications, LLC - President & CEO    [33]
+--------------------------------------------------------------------------------
+
+          Our next question, how much of the combined companies will Acasti shareholders own after the merger?
+
+--------------------------------------------------------------------------------
+Janelle D'Alvise,  Acasti Pharma Inc. - President, CEO, Corporate Secretary & Director    [34]
+--------------------------------------------------------------------------------
+
+          Yes. Thanks for this question. I'll turn this one over to Brian, our Chief Financial Officer. Brian, can you take that?
+
+--------------------------------------------------------------------------------
+Brian D. Ford,  Acasti Pharma Inc. - CFO    [35]
+--------------------------------------------------------------------------------
+
+          Yes. Thank you, Jan. With regard to the shareholder composition after the merger is complete, Acasti's shareholders on a pro forma basis after the transaction would not own less than 55%, but are expected to own as much as 58% of the company's common shares. Grace's securityholders would own between 42% and 45% of the company's common shares subject to adjustments in favor of a Acasti based on each company's capitalization, net cash balance and as that is set forth in the definitive merger agreement and with more details available in the prospectus and proxy statement related to the merger.
+
+--------------------------------------------------------------------------------
+David K. Waldman,  Crescendo Communications, LLC - President & CEO    [36]
+--------------------------------------------------------------------------------
+
+          Our next question, how was the exchange ratio for Grace stockholders determined?
+
+--------------------------------------------------------------------------------
+Brian D. Ford,  Acasti Pharma Inc. - CFO    [37]
+--------------------------------------------------------------------------------
+
+          David, I'll take this one as well. The equity exchange ratio is calculated using a formula intended to allocate Grace's existing shareholders and ownership percentage of Acasti post-closing and as adjusted based on changes to cash and capitalization for each entity at the time of the merger. More details are available in the prospectus and proxy statement related to the merger. As previously mentioned, Acasti shareholders on a pro forma basis would own at least 55%, but that's expected to be as high as 58% of the common -- of the company's common shares, and Grace's securityholders would own 42% to 45%. The final exchange ratio will vary a little depending on the net cash and capitalization for each company at the effective date of the transaction.
+
+--------------------------------------------------------------------------------
+David K. Waldman,  Crescendo Communications, LLC - President & CEO    [38]
+--------------------------------------------------------------------------------
+
+          Our next question, can you say more about how the valuation of Grace and the combined company was determined?
+
+--------------------------------------------------------------------------------
+Janelle D'Alvise,  Acasti Pharma Inc. - President, CEO, Corporate Secretary & Director    [39]
+--------------------------------------------------------------------------------
+
+          Yes. Sure, David. I'll take this one. So I'd like to first direct shareholders to the section of the prospectus and proxy statement that describes the merger transaction and emphasize the depth and breadth of analysis that was conducted by the company as part of our diligence process as well as by Oppenheimer to support their fairness opinion. Acasti management conducted a deep dive diligence activities that focused on the development programs and IP for Grace's first 3 products as well as the market potential for these products, including conducting in-depth interviews with leading physician thought leaders to validate the market opportunity and the unmet medical needs that could be addressed by Grace's products. 
+Oppenheimer utilized management's product and market diligence and supplemented it with an analysis of other publicly traded specialty pharma companies. They also looked at a range of recent specialty pharma transactions as well as a discounted cash flow analysis to conclude in each case that the value being ascribed to Grace in this transaction and the percentage of the resulting company that will be held by Acasti shareholders are well supported by these different analytical approaches that were considered by Oppenheimer in delivering their fairness opinion and by our Board in approving the transaction. Therefore, we believe this proposed acquisition represents a very attractive deal for our shareholders. And that with a successfully completed transaction, both companies will be worth more together than as of sum of their parts since there are great synergies between the 2 companies that will bring the potential for significant value going forward.
+
+--------------------------------------------------------------------------------
+David K. Waldman,  Crescendo Communications, LLC - President & CEO    [40]
+--------------------------------------------------------------------------------
+
+          Great. Our next question is related to the proxy. What is the rationale behind the proposed amendments to the equity incentive plan?
+
+--------------------------------------------------------------------------------
+Brian D. Ford,  Acasti Pharma Inc. - CFO    [41]
+--------------------------------------------------------------------------------
+
+          David, I can take that question. The equity incentive plan proposals are standard proposals that are typically put forward to shareholders on an annual basis and are not directly related to the Grace transaction. The central element of the proposals related to our equity incentive plans is that their size will now be limited to 10% of our issued and outstanding shares from time to time. Keep in mind that in the past several years, our pool was limited to a fixed amount of 15% of our issued and outstanding shares at the time of approval by shareholders. So this proposal will bring our plan more in line with what is generally considered to be the market standard approach for equity incentive plans. I should also mention that our plans are subject to other insider participation and ancillary limits to comply with the applicable securities line stock exchange requirements.
+
+--------------------------------------------------------------------------------
+David K. Waldman,  Crescendo Communications, LLC - President & CEO    [42]
+--------------------------------------------------------------------------------
+
+          Our next question, how does Acasti plan to deploy the $60 million of cash on hand across the various programs?
+
+--------------------------------------------------------------------------------
+Janelle D'Alvise,  Acasti Pharma Inc. - President, CEO, Corporate Secretary & Director    [43]
+--------------------------------------------------------------------------------
+
+          Thanks, David. I'll take that question. And at this time, I should really say that it's difficult to precisely estimate the cost and the time required to develop these products. Factors that could affect both the eventual cost and timing of these programs include the final design of the clinical study programs and protocols as finally authorized by the FDA; of course, the pace at which we are able to enroll patients; the time it takes to complete the clinical trials; the timing of market approvals; and the timing of the various activities that will be required to scale up manufacturing. With all that being said, we currently project that our cash on hand will provide at least 2 years of operating runway and enable us to complete the development and file an NDA for GTX-104. It will also enable us to significantly advance clinical development of GTX-102 and GTX-101 and advance other drug candidates to key milestones.
+
+--------------------------------------------------------------------------------
+David K. Waldman,  Crescendo Communications, LLC - President & CEO    [44]
+--------------------------------------------------------------------------------
+
+          Our next question, does Acasti plan to raise additional capital?
+
+--------------------------------------------------------------------------------
+Janelle D'Alvise,  Acasti Pharma Inc. - President, CEO, Corporate Secretary & Director    [45]
+--------------------------------------------------------------------------------
+
+          Given that we expect to have at least 2 years of capital at closing, we currently have no plans for any material capital raise. But as always, we'll continue to be opportunistic if market conditions and the potential to create shareholder value warrant.
+
+--------------------------------------------------------------------------------
+David K. Waldman,  Crescendo Communications, LLC - President & CEO    [46]
+--------------------------------------------------------------------------------
+
+          Grace shows $13 million of liabilities. Will Acasti be responsible for paying off all of that Grace debt?
+
+--------------------------------------------------------------------------------
+Brian D. Ford,  Acasti Pharma Inc. - CFO    [47]
+--------------------------------------------------------------------------------
+
+          No. And let me clarify how that will work. A majority of these liabilities, roughly $10 million are in the form of convertible debt and will be converted into Grace shares prior to the share exchange, and therefore are already accounted for in the share exchange ratio. Other components of the Grace debt will also be converted into shares of Grace prior to the transaction. Note that for any cash deficiency or accounts payable beyond that and that remain on the books and [RSC] and by Acasti, there will be an adjustment in favor of current Acasti shareholders to reduce the shares issued to Grace to account for the liability to see them in an equitable manner.
+
+--------------------------------------------------------------------------------
+David K. Waldman,  Crescendo Communications, LLC - President & CEO    [48]
+--------------------------------------------------------------------------------
+
+          Our next question, what is the status of discussions with NASDAQ to maintain Acasti's listing? Will there be a reverse split? If so, when and what is the expected share ratio?
+
+--------------------------------------------------------------------------------
+Brian D. Ford,  Acasti Pharma Inc. - CFO    [49]
+--------------------------------------------------------------------------------
+
+          I know that there has been some confusion on this topic, and I'm happy to try and clarify the situation. Acasti has been in close contact with NASDAQ to ensure that the steps to regain compliance with its minimum bid price requirements are being appropriately taken. We intend to affect a reverse split only if it is required to regain compliance with the $1 minimum price rule, and then we would affect it in connection with the closing of the transaction following the August 26 shareholder meeting. Again, it would only be done if it's absolutely necessary to regain compliance with the minimum bid price rule in connection with the transaction. And if so, the share consolidation would likely be in a 1:6 to 1:8 ratio or range.
+
+--------------------------------------------------------------------------------
+David K. Waldman,  Crescendo Communications, LLC - President & CEO    [50]
+--------------------------------------------------------------------------------
+
+          Thank you, Brian. That's very helpful. Jan, this question comes back to you. What is the company's position regarding the shareholder lawsuits that have been filed regarding the transaction?
+
+--------------------------------------------------------------------------------
+Janelle D'Alvise,  Acasti Pharma Inc. - President, CEO, Corporate Secretary & Director    [51]
+--------------------------------------------------------------------------------
+
+          Yes. Thanks for that question. We strongly believe that the allegations in these complaints are frivolous and without merit, and we plan to vigorously defend against them. The complaints generally allege that our public disclosures pertaining to the transaction amid material facts purportedly in violation of applicable security laws, which, frankly, we believe, is clearly not the case if anybody takes the time to thoroughly read through our very extensive and comprehensive disclosures. Unfortunately, these types of frivolous lawsuits are common in the United States and are expected with any merger or acquisition transaction. And as I stated earlier, we believe that our transaction with Grace represents a very good deal for our shareholders. And again, we plan to vigorously defend against these claims. So if anybody would like more additional information on these complaints, we refer you to our public disclosures on this topic, and we will continue to keep our shareholders informed as practical.
+
+--------------------------------------------------------------------------------
+David K. Waldman,  Crescendo Communications, LLC - President & CEO    [52]
+--------------------------------------------------------------------------------
+
+          Our next question, what are the company's plans for CaPre? And are you considering conducting additional trials for the compound?
+
+--------------------------------------------------------------------------------
+Janelle D'Alvise,  Acasti Pharma Inc. - President, CEO, Corporate Secretary & Director    [53]
+--------------------------------------------------------------------------------
+
+          No. And as we've stated previously, we don't plan to proceed with an NDA filing nor do we plan to conduct any additional clinical trials for CaPre. However, as I mentioned earlier, we have received strong interest and continue to evaluate several strategic options for our CaPre asset. And again, we'll keep everyone informed and apprised as things develop.
+
+--------------------------------------------------------------------------------
+David K. Waldman,  Crescendo Communications, LLC - President & CEO    [54]
+--------------------------------------------------------------------------------
+
+          Great. Jan, here are some general questions that we received. First, what are the benefits of gaining orphan drug status?
+
+--------------------------------------------------------------------------------
+Janelle D'Alvise,  Acasti Pharma Inc. - President, CEO, Corporate Secretary & Director    [55]
+--------------------------------------------------------------------------------
+
+          I really appreciate this question as it was one of the many key factors in our decision to acquire Grace. I touched on a lot of this before, but again, maybe to summarize, there are many benefits for a drug candidate that has received orphan drug designation from the FDA. The first is 7 years of marketing exclusivity once the product has received NDA approval. And we could also receive a significant federal tax credit for up to 50% of the expenses occurred in conducting clinical research within the United States. 
+Another nice benefit is that the FDA grants a waiver of their Prescription Drug User Fee Act or PDUFA fee for orphan drugs for which the average cost in 2020 was approximately $3 million. So this could be a significant cost savings to us in the future. Finally, as an incentive to encourage pharma companies to make investments in treatments and cures for rare diseases, a drug that's been granted orphan status can often be priced significantly higher than more widely prescribed drugs. The data shows that orphan drugs are approximately 25x more expensive than nonorphan drugs. And the average annual orphan drug cost rose from about $7,000 per year in 1997 to more than $185,000 per year in 2017. So today, 88% of orphan drugs cost more than $10,000 per year per patient. And in 2017, 7 out of the 10 best-selling drugs were actually for orphan indications. So a lot of benefits.
+
+--------------------------------------------------------------------------------
+David K. Waldman,  Crescendo Communications, LLC - President & CEO    [56]
+--------------------------------------------------------------------------------
+
+          Great. And our final question, can you clarify what is the 505(b)(2) development pathway?
+
+--------------------------------------------------------------------------------
+Janelle D'Alvise,  Acasti Pharma Inc. - President, CEO, Corporate Secretary & Director    [57]
+--------------------------------------------------------------------------------
+
+          Yes, sure. And I'll keep this brief. The Section 505(b)(2) regulatory pathway under the Federal Food, Drug and Cosmetic Act can provide for a lower cost, lower risk and potentially faster path to regulatory approval than the more common 505(b)(1) or new chemical entity pathway. Under Section 505(b)(2), a sufficient support of a product safety and efficacy exists either through previous FDA experience or if it can be sufficiently established within the scientific literature, the FDA may eliminate the need to conduct some of the preclinical and clinical studies that an NCE candidate might otherwise require.
+
+--------------------------------------------------------------------------------
+David K. Waldman,  Crescendo Communications, LLC - President & CEO    [58]
+--------------------------------------------------------------------------------
+
+          Great. Thank you, Jan and Brian. This concludes the Q&A portion of our call, and I return it to Jan D' Alvise for closing remarks.
+
+--------------------------------------------------------------------------------
+Janelle D'Alvise,  Acasti Pharma Inc. - President, CEO, Corporate Secretary & Director    [59]
+--------------------------------------------------------------------------------
+
+          Thank you, David. Once again, I'd like to thank everyone for joining us on the call today. And I would especially like to thank our shareholders for your support and patience through this transition period. We truly believe this acquisition of Grace can be transformative for Acasti, and we could not be more excited. We remain highly encouraged by the outlook for our overall business prospects, and we look forward to providing further updates to shareholders on our strategic processes as it relates both to the Grace acquisition as well as our plans for CaPre. 
+Should you desire more information, we encourage you to visit our website and review the documents posted there, including the FAQ document and our filings with securities regulators. And finally, when you receive your proxy materials, please take the time to vote your shares. It's extremely important that we get the necessary votes to meet our quorum requirement and get the deal approved. It will only take you a few minutes to go online and vote or send back your votes by mail. 
+So with that, that concludes our call for today. Again, I thank you very much for listening in, and we look forward to providing further updates as soon as possible. Have a good day.
+
+--------------------------------------------------------------------------------
+Operator    [60]
+--------------------------------------------------------------------------------
+
+          Thank you. This concludes today's conference call. We thank you for your participation. You may disconnect your lines at this time, and have a great day.
+
+
+
+
+
+
+
+--------------------------------------------------------------------------------
+Definitions
+--------------------------------------------------------------------------------
+PRELIMINARY TRANSCRIPT: "Preliminary Transcript" indicates that the 
+Transcript has been published in near real-time by an experienced 
+professional transcriber.  While the Preliminary Transcript is highly 
+accurate, it has not been edited to ensure the entire transcription 
+represents a verbatim report of the call.
+
+EDITED TRANSCRIPT: "Edited Transcript" indicates that a team of professional 
+editors have listened to the event a second time to confirm that the 
+content of the call has been transcribed accurately and in full.
+
+--------------------------------------------------------------------------------
+Disclaimer
+--------------------------------------------------------------------------------
+Refinitiv reserves the right to make changes to documents, content, or other 
+information on this web site without obligation to notify any person of 
+such changes.
+
+In the conference calls upon which Event Transcripts are based, companies 
+may make projections or other forward-looking statements regarding a variety 
+of items. Such forward-looking statements are based upon current 
+expectations and involve risks and uncertainties. Actual results may differ 
+materially from those stated in any forward-looking statement based on a 
+number of important factors and risks, which are more specifically 
+identified in the companies' most recent SEC filings. Although the companies 
+may indicate and believe that the assumptions underlying the forward-looking 
+statements are reasonable, any of the assumptions could prove inaccurate or 
+incorrect and, therefore, there can be no assurance that the results 
+contemplated in the forward-looking statements will be realized.
+
+THE INFORMATION CONTAINED IN EVENT TRANSCRIPTS IS A TEXTUAL REPRESENTATION
+OF THE APPLICABLE COMPANY'S CONFERENCE CALL AND WHILE EFFORTS ARE MADE TO
+PROVIDE AN ACCURATE TRANSCRIPTION, THERE MAY BE MATERIAL ERRORS, OMISSIONS,
+OR INACCURACIES IN THE REPORTING OF THE SUBSTANCE OF THE CONFERENCE CALLS.
+IN NO WAY DOES REFINITIV OR THE APPLICABLE COMPANY ASSUME ANY RESPONSIBILITY FOR ANY INVESTMENT OR OTHER
+DECISIONS MADE BASED UPON THE INFORMATION PROVIDED ON THIS WEB SITE OR IN
+ANY EVENT TRANSCRIPT. USERS ARE ADVISED TO REVIEW THE APPLICABLE COMPANY'S
+CONFERENCE CALL ITSELF AND THE APPLICABLE COMPANY'S SEC FILINGS BEFORE
+MAKING ANY INVESTMENT OR OTHER DECISIONS.
+--------------------------------------------------------------------------------
+Copyright 2023 Refinitiv. All Rights Reserved.
+--------------------------------------------------------------------------------

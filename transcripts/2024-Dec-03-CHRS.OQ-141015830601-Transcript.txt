@@ -1,0 +1,308 @@
+
+
+LSEG StreetEvents Event Transcript
+E D I T E D  V E R S I O N
+
+Coherus BioSciences Inc To Discuss UDENYCA Divestiture
+December 03, 2024 / 1:00PM UTC
+
+================================================================================
+Corporate Participants
+================================================================================
+
+ * Jodi Sievers
+   Coherus BioSciences Inc - Vice President, Investor Relations & Corporate Communications
+ * Dennis Lanfear
+   Coherus BioSciences Inc - Chairman of the Board, President, Chief Executive Officer
+ * Bryan McMichael
+   Coherus BioSciences Inc - Chief Financial Officer
+ * Rosh Dias
+   Coherus BioSciences Inc - Chief Medical Officer
+ * Paul Reider
+   Coherus BioSciences Inc - Chief Commercial Officer
+ * Theresa Lavallee
+   Coherus BioSciences Inc - Chief Development Officer
+
+================================================================================
+Conference Call Participants
+================================================================================
+
+ * Operator
+   
+ * Michael Nedelcovych
+   TD Cowen - Analyst
+ * Douglas Tsao
+   H.C. Wainwright & Co., LLC - Analyst
+ * Reena Patel
+   Citi - Analyst
+ * Brian Cheng
+   JPMorgan - Analyst
+
+================================================================================
+presentation
+--------------------------------------------------------------------------------
+Operator,     [1]
+--------------------------------------------------------------------------------
+Good day, and thank you for standing by. Welcome to the Coherus BioSciences conference call to discuss UDENYCA divestiture. (Operator Instructions) Please be advised that today's conference is being recorded.
+I would now like to hand the conference over to speaker today, Jodi Sievers, Head of Investor Relations for Coherus. Please go ahead.
+--------------------------------------------------------------------------------
+Jodi Sievers, Coherus BioSciences Inc - Vice President, Investor Relations & Corporate Communications    [2]
+--------------------------------------------------------------------------------
+Thank you, Shannon. Good morning, and thank you for joining us today. Earlier today, we issued a press release announcing the divestiture of our UDENYCA franchise to Intas Pharmaceuticals in a transaction valued up to $558 million.
+Joining me today to discuss the announcement are Denny Lanfear, Chief Executive Officer of Coherus; Dr. Rosh Dias, Chief Medical Officer; Paul Reider, Chief Commercial Officer; Bryan McMichael, Chief Financial Officer; and Dr. Theresa LaVallee, Chief Development Officer.
+I would like to remind you that today's call includes forward-looking statements regarding Coherus's current expectations about future events. These statements include but are not limited to the following: statements regarding how we will use proceeds from the divestiture, projections of future growth and expenses, whether we will receive any earnout payments, and whether the closing of the divestiture will occur in a timely manner or at all.
+All of these forward-looking statements involve substantial risks and uncertainties that are beyond our control and can cause actual results, performance, or achievements to differ from those implied by the forward-looking statements.
+These statements are not guarantees of true performance and are subject to substantial risks and uncertainties, including risks and uncertainties about our ability to complete the divestiture on a timely basis or at all and risks and uncertainties inherent in the clinical development process that are discussed in our press release that we issued today as well as the documents that we filed with the SEC from time to time, including the proxy statement of Coherus, which will be mailed or otherwise disseminated to Coherus stockholders when it becomes available.
+Forward-looking statements provided on the call today are made as of this date, and we undertake no duty to update or revise any forward-looking statements.
+With that, Denny, I'll now turn the call over to you.
+--------------------------------------------------------------------------------
+Dennis Lanfear, Coherus BioSciences Inc - Chairman of the Board, President, Chief Executive Officer    [3]
+--------------------------------------------------------------------------------
+Thank you, Jodi. Good morning, everyone, and thank you for joining us on our call. Let me first walk through the details of the transaction and why it's consistent with our overarching strategy.
+As we disclosed earlier today, Coherus is divesting the UDENYCA franchise to Intus in consideration for an upfront cash payment of $483.4 million plus $75 million in sales-based milestone payments. Intus will receive all global rights to the UDENYCA family of commercial products, including the UDENYCA pre-filled syringe, the UDENYCA autoinjector, and UDENYCA ONBODY.
+Let me describe for you the rationale for the transaction. This transaction presents the successful completion of our long-term strategy to focus our commercial and R&D resources on immunooncology on our PD-1, LOQTORZI; and novel combinations of LOQTORZI with a number of agents.
+As you know, since in-licensing our LOQTORZI in early 2021 from Junshi, we have pursued an overarching strategy to enhance long-term shareholder value by leveraging our biosimilar business to build a highly competitive and sustainable innovative (inaudible) franchise. After closing the Surface Oncology acquisition just over a year ago and then divesting in YUSIMRY, this divestiture is the definitive step in that direction.
+Secondly, this transaction allows us to monetize and redeploy the significant value we have created with our UDENYCA franchise to maximize the opportunity ahead for our IO portfolio. The UDENYCA ONBODY is highly competitively positioned, raising the brand (inaudible) and a catalyst for greater sales.
+But to realize the franchise's maximum long term value, a larger, more global organization with multiple biosimilar products in the portfolio is required. There's perhaps greater value in UDENYCA in such hands than in our own.
+Third, we must maximize the IO opportunity because that is how we will both deliver increased patient survival benefits in tough cancers and drive significant value for our shareholders. This means continuing to build the commercial momentum with LOQTORZI in nasopharyngeal cancer as well as advance our differentiated and diversified pipeline of immunotherapies across a number of single-agent, combination, mid-stage clinical studies in areas of high unmet need, including HCC, HNSCC, lung, and gastric cancers.
+With regard to that, LOQTORZI represents a triple value driver to Coherus, first, with our NPC commercial indications where we are well on our way to being the standard of care and favorably positioned; second, LOQTORZI in combination with our internal pipeline assets; and then third, via capital-efficient external partnerships for additional label expansion opportunities, particularly late-stage registration studies such as those already underway.
+Now regarding combinations, our differentiated and diversified portfolio includes antibody immunotherapy (inaudible) Casdozokitug as well as CHS-114, our highly selective CCR8 cytolytic antibody focused on enhancing the innate and adaptive immune responses to enable a robust immunological response and improving outcomes, extending patient survival.
+We have global rights to these products. And given the exciting emerging clinical data for these programs in their respective tumor types, we also see the potential for ex-US partnerships and the opportunity to offset develop costs while monetizing ex-US territory rights.
+As we proceed along our strategic trajectory, we will also continue delivering on our key objectives which are to, first, drive top-line growth with our commercial products; second, control and reduce our operating expenses; third, improve our capital structure.
+As you have seen, we have delivered on each of these objectives throughout 2024 and, on last month's earning call, we updated you on solid progress. Going forward, we will continue with the same focus that you have seen before and we'll report to you our progress as we have before.
+So now back to today's announcement. As a result of the UDENYCA transactions, we will have significantly improved our capital structure as we pay down significant majority of our debt, reduce interest payments, and align our operational footprint with our strategic focus. Looking ahead, we'll begin to see important data readouts for our pipeline in the second half of this year with (technical difficulty) building through 2026.
+Let me now turn it over to our Chief Financial Officer, Bryan McMichael to discuss that further. Bryan?
+--------------------------------------------------------------------------------
+Bryan McMichael, Coherus BioSciences Inc - Chief Financial Officer    [4]
+--------------------------------------------------------------------------------
+Thank you, Denny. Let me briefly review for you the balance sheet implications of the divestiture transaction. As we announced, the sale price of UDENYCA franchise is up to $558 million, including an upfront payment of $483.4 million which is subject to an adjustment if the amount of inventory transfer at close is less rejected cap which we don't expect to occur.
+There are two sales-based milestones of $37.5 million each which, if achieved, would be payable within the first five and seven quarters after close, respectively.
+Let me make two very positive points which I believe are important to highlight. First, the transaction is in the efficient use of our accrued net operating losses which were previously not deemed realizable to offset substantially all of US federal income taxes related to the divestiture. We estimate that we will pay less than $3 million in such taxes on the transaction.
+Secondly, the transaction will facilitate a substantial reduction in our debt which frankly has been burdensome. Consider that at the beginning of 2024, Coherus had $480 million in debt across two instruments, a senior secured facility of $250 million with effective maturity in October '25 and a convertible note instrument of $230 million with the maturity in April 2026.
+Our debt servicing costs were high, representing an annualized cash interest burden of approximately $38 million. We previously paid off the senior secured facility of $250 million. And following close of this transaction, we plan to initiate a process to repay in its entirety the $230 million convertible notes.
+Following these deleveraging transactions, Coherus's only debt term loan will be the $38.7 million secured -- senior secured term loan not due until May 2029.
+I will summarize the projected improvements in our balance sheet by pointing out that our total convertible notes and term loan will have been decreased from $480 million to $38.7 million, a return of 92%. And our annual cash debt servicing costs on these obligations will have been reduced from about $38 million to about $5 million, a reduction of about 87%.
+I would further note that at closing, we will pay about $50 million to buy out the royalty of UDENYCA net sales. In accordance with [rev] purchase sale agreement they commenced in May. The royalty on LOQTORZI sales remains on the balance sheet and represents about an $11 million liability.
+With respect to sales and cash, as we said on our earnings call, we plan to provide an updated Q4 2024 sales projection and Q1 2025 cash projection in early 2025. However, I can say that our current post-transaction projections exceed two years of cash past key data readouts in 2026 and we will be very thoughtful about expenditures.
+With that, let me turn it over to Rosh to briefly summarize our product pipeline and combination development strategy. Rosh?
+--------------------------------------------------------------------------------
+Rosh Dias, Coherus BioSciences Inc - Chief Medical Officer    [5]
+--------------------------------------------------------------------------------
+Thank you. Bryan. Today, I'll provide you with a recent meaningful update of the NCCN guidelines for nasopharyngeal carcinoma and a quick snapshot of our combination-based clinical programs combining toripalimab with a number of [items] where eight studies are proceeding across early, mid-, and late-stage development.
+Let me start with nasopharyngeal carcinoma where we launched LOQTORZI earlier this year. I'm happy to report that last week, an NCCN NPC guidelines revision was released, and LOQTORZI is now listed as the only preferred regimen for the treatment of advanced NPC both in first line as the only category on preferred regimen as well as second line and beyond.
+Both chemotherapy alone and chemotherapy in combination with other off-label PD-1s have now been downgraded and moved to non-preferred status. These changes are reflective of the strength of LOQTORZI's data and label in NPC. So this is excellent news for patients.
+As we have discussed previously, our overarching development strategy focused on combinations with LOQTORZI. First, with external partnerships with late-stage development compounds, registration-enabling studies where we provide drug do not share costs. These include with the INOVIO vaccine in head and neck cancer and Jushi's multi-national global study with BTLA and LOQTORZI in small cell lung cancer.
+Secondly, we're pursuing combinations of our internal, competitively well positioned clinical-stage pipeline assets for LOQTORZI. With casdozokitug, our first in class IL-27-targeting antibody, we're focused in two therapeutic areas, lung and liver.
+In non-small lung cancer, our ongoing study continues to recruit in advanced disease. In HCC, our study-evaluating casdozokitug, toripalimab, and bevacizumab is on track to open in the next few weeks, building on the triplet combination data showing an overall response rate of 38% and three complete responses in first-line HCC, an increase in ORR, and a deepening of responses compared to prior data cuts.
+Regarding CHS-114, our CCR8 cytolytic antibody is being combined with toripalimab in two therapeutic areas: first, head and neck cancer; and secondly, gastric cancer. In head and neck squamous cell carcinoma, a tumor type that's complementary to our existing LOQTORZI indication in NPC, we're proceeding with both monotherapy dose expansion and combination dose escalation with toripalimab. And we'll be moving shortly into further dose optimization.
+In gastric cancer, our second-line study remains on track to initiate in quarter one of 2025 building on the principal data presented at ASCO this year with LaNova's CCR8 antibody in combination with toripalimab. Given the selectivity and potency of our own CCR8, we believe the CHS-114 toripalimab combination represents a high value opportunity.
+Let me now hand the call over to Paul Reider, our Chief Commercial Officer. Paul?
+--------------------------------------------------------------------------------
+Paul Reider, Coherus BioSciences Inc - Chief Commercial Officer    [6]
+--------------------------------------------------------------------------------
+Thank you, Rosh. Good morning, everyone. Let me start with UDENYCA. I'm pleased to report that resupply to the market is now well underway. We are now generating sales for the fourth quarter as we replenish the distribution channel and coordinate with customers to resume UDENYCA prescribing in their respective practices.
+Customer response has been very positive, and we remain confident that customers will resume UDENYCA prescribing in Q4 with demand and market share acceleration in Q1 and throughout 2025 as UDENYCA franchise remains in a strong competitive position, given its three presentations as well as strong payer coverage which will likely get even better in 2025. We'll provide additional revenue update in January as we better understand the pace of customer adoption dynamics.
+Regarding LOQTORZI, the NPC launch continues to progress according to plan. Rosh just described for you some favorable NCCN guidelines changes that further strengthen our overarching strategy to establish LOQTORZI as the new standard of care for eligible NPC patients and better position LOQTORZI as the preferred regimen.
+NPC represents an approximately 150 million to 200 million market opportunity. And we reiterate our belief that LOQTORZI will follow a steady revenue ramp in the near term, fueled by new patient acquisition with sustained growth over time which will be driven by duration of treatment.
+80% of the long term value is from early-line continuing patients. Given adoption and duration dynamics, you continue to estimate that it will take three to four years for the market potential to fully materialize.
+Lastly, let me comment on the overall impact on the commercial team with this divestiture. As the UDENYCA divestiture process unfolds, we'll remain focused on two key commercial priorities: first, to maintain business continuity with both our UDENYCA and LOQTORZI customers and ensure that patients continue to access our products without disruption; and second, to ensure that post transaction, we maintain an appropriately sized commercial team, fully enable continued momentum of our LOQTORZI launch, and reach maximum commercial opportunity for LOQTORZI as quickly as possible.
+With that, turn the call back over to Denny for closing remarks.
+--------------------------------------------------------------------------------
+Dennis Lanfear, Coherus BioSciences Inc - Chairman of the Board, President, Chief Executive Officer    [7]
+--------------------------------------------------------------------------------
+Thank you, Paul. As we have outlined here on today's call, we remain tightly focused on our overarching strategy to enhance long-term shareholder value by building a highly competitive and sustainable innovative oncology franchise with products that extend patient survival. We are now well positioned for success and look forward to updating you on our progress.
+Operator. Will I be able to take questions?
+
+================================================================================
+q-and-a
+--------------------------------------------------------------------------------
+Operator,     [1]
+--------------------------------------------------------------------------------
+Thank you. (Operator Instructions) Kripa Devarakonda, Truist Securities.
+--------------------------------------------------------------------------------
+Unidentified Participant,     [2]
+--------------------------------------------------------------------------------
+Hi, good morning. This is Bill on for Kripa. Congratulations on the good news. We're wondering, which of the three programs do you consider the lowest hanging fruit and probably the fastest path to market?
+--------------------------------------------------------------------------------
+Dennis Lanfear, Coherus BioSciences Inc - Chairman of the Board, President, Chief Executive Officer    [3]
+--------------------------------------------------------------------------------
+Thanks for your question, Bill. I have our Chief Development Officer, Therese LaVallee on the line for that. Therese, do you want to answer Bill's question with regard to the low-hanging fruit?
+--------------------------------------------------------------------------------
+Theresa Lavallee, Coherus BioSciences Inc - Chief Development Officer    [4]
+--------------------------------------------------------------------------------
+Yeah. I mean, I think that I would rate the entire portfolio there with exciting proof-of-concept studies underway. So with the casdozokitug, as Rosh mentioned, we've seen activity in first-line HCC, and we'll continue to update final data cuts there.
+The tori-bev-casdozokitug Phase 2 randomized study is open, and we'll continue to see that progress. We're also incredibly excited about head and neck and gastric cancer for CCR8, with data presented last year at ASCO showing proof of concept with toripalimab plus a competitor CCR8 antibody. So I think you'll continue to see the progression of the pipeline with two promising pipeline assets to advance toripalimab.
+--------------------------------------------------------------------------------
+Dennis Lanfear, Coherus BioSciences Inc - Chairman of the Board, President, Chief Executive Officer    [5]
+--------------------------------------------------------------------------------
+Thank you, Bill.
+--------------------------------------------------------------------------------
+Operator,     [6]
+--------------------------------------------------------------------------------
+Thank you. Michael Nedelcovych, TD Cowen.
+--------------------------------------------------------------------------------
+Michael Nedelcovych, TD Cowen - Analyst    [7]
+--------------------------------------------------------------------------------
+Thank you for the questions. I have a couple. First, apologies, I missed it. But what UDENYCA royalties are you now entitled to?
+And as it relates to the milestone payments, what do you think is the probability of receiving those? And what is the likely timing of those payments?
+And then as it relates to pipeline, in your release, you cite key data readouts in 2026. I know you've laid out general development plans for various pipeline candidates. But what do you view as the most important read out that we should anticipate in that year specifically?
+--------------------------------------------------------------------------------
+Dennis Lanfear, Coherus BioSciences Inc - Chairman of the Board, President, Chief Executive Officer    [8]
+--------------------------------------------------------------------------------
+Great. So let me take the -- I'll let Theresa handle the pipeline 2026 read out lastly. But first of all, there is a royalty associated with UDENYCA that will be paid off with this transaction. And that amounts to about $54 million to pay off in the resolution of that royalty. So in the context of divesting UDENYCA, we also paid that royalty off which included that amount.
+With respect to the future of milestones, which are $75 million. And those are split into two pieces, both about $37.5 and two tranches associated with two levels of four quarter running sales, one five quarters out post close, one seven quarters of pots close. We feel very confident about that, actually.
+UDENYCA is very, very, very competitively positioned in the market. Particularly, the ONBODY device has seen very strong adoption, very high customer satisfaction and strong patient benefit and really it's done very well, in particular with the NOM-340B segment.
+So we feel we feel very confident about those royalties. They are of course to be realized in the future, but they're there because we think that we can hit them. And then lastly with respect to the pipeline and the readout to 2026, perhaps, Rosh, do you want to take a shot at that for Michael?
+--------------------------------------------------------------------------------
+Rosh Dias, Coherus BioSciences Inc - Chief Medical Officer    [9]
+--------------------------------------------------------------------------------
+Yeah, absolutely. Thanks Michael. So we outlined the programs. We have two programs with casdozo, we have two programs with CHS-114, both in combination with toripalimab. We anticipate data in quarter one 2026 for the plan studies, particularly in terms of CHS-114.
+So head and neck, we'll be moving into a dose expansion and dose optimization study, which we'll report in the first half of 2026. And then secondly, our gastric cancer study, which we anticipate starting in the first quarter of next year, again, that will be a global study that we'll report some initial data in the first half of 2026 as well.
+So those are the two key data sets that we'll be reporting then. And then of course, we have the ongoing programs also with casdozo which will report ongoing data as we move forward with the respective trials.
+--------------------------------------------------------------------------------
+Dennis Lanfear, Coherus BioSciences Inc - Chairman of the Board, President, Chief Executive Officer    [10]
+--------------------------------------------------------------------------------
+Thank you for your questions, Michael.
+--------------------------------------------------------------------------------
+Michael Nedelcovych, TD Cowen - Analyst    [11]
+--------------------------------------------------------------------------------
+Thank you.
+--------------------------------------------------------------------------------
+Operator,     [12]
+--------------------------------------------------------------------------------
+Thank you. Douglas Tsao, HC Wainwright.
+--------------------------------------------------------------------------------
+Douglas Tsao, H.C. Wainwright & Co., LLC - Analyst    [13]
+--------------------------------------------------------------------------------
+Hi, good morning. Thanks for taking the questions. I guess the first one, I'm just curious to get much more -- greater flexibility you do have from a balance sheet standpoint. Does it change your approach to R&D in any way?
+Obviously, you've been focused in the near term, we're doing a lot of partnerships because that was very cash efficient. And does that shift in any way and you focus on some of new indications with your existing portfolio of agents? Thank you.
+--------------------------------------------------------------------------------
+Dennis Lanfear, Coherus BioSciences Inc - Chairman of the Board, President, Chief Executive Officer    [14]
+--------------------------------------------------------------------------------
+Thanks, Doug. No, I think that we have a very thoughtful of a way that we approach R&D. First of all, with combination studies, we have two registration studies in which toripalimab, LOQTORZI, is being used. And we simply supply drug, we don't pay clinical costs. And I think that's quite favorable for us.
+And our strategy, of course, is to advance our own products such as casdozokitud again and our CCR-8 [worthy more with Tropem]. Those will be on our own dime. However, as pointed out in my remarks, we do foresee ex-US licensing of those assets which we have global rights.
+So we can do ex-US licensing, in which those partners could be expected to pay both upfront and additional royalties and contribute to clinical costs. So that's our strategy for spreading the clinical cost globally across two or three different territories.
+And then lastly, we also have some early stage of focus with tropalimab with various agents. And that product is -- I should say those projects are just getting going now. But overall, no, I think that our clinical development strategy is very coherent and it's going to stay exactly as it was.
+--------------------------------------------------------------------------------
+Douglas Tsao, H.C. Wainwright & Co., LLC - Analyst    [15]
+--------------------------------------------------------------------------------
+And just as a follow up, I'm just curious. From a commercial standpoint, does the divestiture allow you to focus more resources on the LOQTORZI launch? And does that greater attention perhaps help you get up the launch curve a little faster? Thank you.
+--------------------------------------------------------------------------------
+Dennis Lanfear, Coherus BioSciences Inc - Chairman of the Board, President, Chief Executive Officer    [16]
+--------------------------------------------------------------------------------
+That's a great question, Doug. Let me have Paul Reider, our Chief Commercial Officer, address that particular one for you. Paul?
+--------------------------------------------------------------------------------
+Paul Reider, Coherus BioSciences Inc - Chief Commercial Officer    [17]
+--------------------------------------------------------------------------------
+Yeah. Thanks for your question, Doug. Yeah, no question, we'll be able to pish transaction, be able to focus now all of our commercial resources against LOQTORZI in NPC.
+The team presently sold both UDENYCA and LOQTORZI. And so as we get post close and with the final footprint, we'll be able to now dedicate entire resources both in the personal promotion side along with our digital efforts to driving the LOQTORZI ramp.
+So I think that in combination with the NCCN guidelines really enable us now, going into 2025, with real strong momentum. So we're making great progress with the LOQTORZI launch. It's going very well. And so I think this will continue to help us accelerate that --
+--------------------------------------------------------------------------------
+Dennis Lanfear, Coherus BioSciences Inc - Chairman of the Board, President, Chief Executive Officer    [18]
+--------------------------------------------------------------------------------
+Thanks, Paul. Doug. I think the revision in the NCCN guideline is worth noting just once again from Dr. Dias. Because I think that really positions us as standard of care for NPC. Rosh, can you just recap briefly what the changes are with the guidelines?
+--------------------------------------------------------------------------------
+Rosh Dias, Coherus BioSciences Inc - Chief Medical Officer    [19]
+--------------------------------------------------------------------------------
+Absolutely. Doug, thanks for the question. So as I mentioned last week, there was a revision that was released which really is very reflective of the strength of the data with LOQTORZI and also the label itself. And there were a couple of key changes.
+So basically, we are now the only preferred agents for the treatment of NPC. There's been downgrading of chemotherapy alone into other recommended regimens, so non-preferred. And also similarly, other off-label PD-1s in conjunction with chemotherapy has also been downgraded to other recommended regimens. So, again, very reflective of the strength of the data and the fact that we are the only approved FDA approved therapy for NPC.
+--------------------------------------------------------------------------------
+Dennis Lanfear, Coherus BioSciences Inc - Chairman of the Board, President, Chief Executive Officer    [20]
+--------------------------------------------------------------------------------
+So I think they raised a great point. Paul's team is welcome to sharpen their focus with respect to NPC.
+--------------------------------------------------------------------------------
+Douglas Tsao, H.C. Wainwright & Co., LLC - Analyst    [21]
+--------------------------------------------------------------------------------
+And just a final point on the NCCN guidelines. I mean, does this help from an access standpoint in terms of just really putting the onus on accounts to make sure that they have locked towards the on formula area?
+--------------------------------------------------------------------------------
+Paul Reider, Coherus BioSciences Inc - Chief Commercial Officer    [22]
+--------------------------------------------------------------------------------
+Well, no question, Doug; absolutely. Any time there's a change in NCCN guidelines, that enables the opportunity of our field team to discuss these changes with providers.
+And importantly, what we'll be endeavoring to do now over the next quarters or two will be to work with the accounts to translate those NCCN guideline changes into their individual account order sets and pathways to ensure that those are reflective of the NCCN guidelines in which LOQTORZI plus chemo is the preferred first line treatment for appropriate patients in the early recurrent stage or first-line metastatic or that LOQTORZI monotherapy is the first line or is the treatment for patients with second line plus.
+So that's how we'll be, endeavoring now to translate the NCCN changes into the account-level pathways and of course, working with payers and other stakeholders as well.
+--------------------------------------------------------------------------------
+Operator,     [23]
+--------------------------------------------------------------------------------
+Reena Patel, Citi.
+--------------------------------------------------------------------------------
+Reena Patel, Citi - Analyst    [24]
+--------------------------------------------------------------------------------
+Hi. Thanks for taking my question. I just wanted to ask if you could give any more color on how competitive the bidding process was for the UDENYCA sale. I'm wondering how long the process might have took and if the packaging capacity issue from a few months ago was causing any sort of delay or pushing out the sale.
+--------------------------------------------------------------------------------
+Dennis Lanfear, Coherus BioSciences Inc - Chairman of the Board, President, Chief Executive Officer    [25]
+--------------------------------------------------------------------------------
+Alright, thank you for your question. Yeah, I think you raised a very good point. The supply interruption issue occurred mid process. And so that was somewhat problematic to address, but I would just make two key points.
+The first point is that the UDENYCA franchise, with the ONBODY and the autoinjector and so forth, clearly built very, very strong momentum through 2024. I think you saw the Q3 results were just really outstanding, 30% increase in share and so on.
+And so, I think that the participants in the process we well-aware that this was an interim blip with respect to the UDENYCA. Although overall, we did complete this particular juncture, it did -- I would be frank with you that it did require a bit of choreography. But I think in the end, the strength of the franchise and the strength of the UDENYCA brand carried the day.
+--------------------------------------------------------------------------------
+Reena Patel, Citi - Analyst    [26]
+--------------------------------------------------------------------------------
+Great. Thanks for taking my question and congrats on the news.
+--------------------------------------------------------------------------------
+Operator,     [27]
+--------------------------------------------------------------------------------
+Thank you. Brian Cheng, JPMorgan.
+--------------------------------------------------------------------------------
+Brian Cheng, JPMorgan - Analyst    [28]
+--------------------------------------------------------------------------------
+Good morning. Thanks for taking our questions. I guess just to follow up on the last question, just curious if you can give a better sense of the timing of the divestiture decision. Why does it make sense now to do a deal as we're starting to see a ramp up in your ONBODY uptick? And we have a couple follow ups. Thank you.
+--------------------------------------------------------------------------------
+Dennis Lanfear, Coherus BioSciences Inc - Chairman of the Board, President, Chief Executive Officer    [29]
+--------------------------------------------------------------------------------
+Hi, Brian. I think that very clearly, as I indicated in my remarks, UDENYCA was on an upward trajectory. And I think that it's had significant share increase. And I think it was the opportune time for a larger team, global team and -- with more biosimilars really to take this product to the next level.
+When you look at a product, UDENYCA, you have to realize that your product may have higher value in the hands of someone else with greater resources in a larger company than with us. Small companies in my view are very, very proficient at innovation. That's a well-tread path in biopharma.
+So we're going to focus on innovation and delivering patient survival benefit. And I'm very, very proud to be an early pioneer in the biosimilar space. But I think it's an appropriate time for us to complete the strategic art for us with our strategy.
+--------------------------------------------------------------------------------
+Brian Cheng, JPMorgan - Analyst    [30]
+--------------------------------------------------------------------------------
+And just on the modeling side, how much of a SG&A cost saving could we expect after the transaction? As we start thinking through 2025, quarter by quarter, can you walk us through how much saving we could expect throughout the year?
+--------------------------------------------------------------------------------
+Dennis Lanfear, Coherus BioSciences Inc - Chairman of the Board, President, Chief Executive Officer    [31]
+--------------------------------------------------------------------------------
+Yeah. Brian, we're currently working on that model. There's a number of things that we're going to talk about in early January, such as revenue results and cash and so on. So we would just ask for your patience a little bit. Paul goes ahead with the resupply efforts and we do a few more things, but we'll be prepared to talk about that sometime in the first two weeks of January.
+--------------------------------------------------------------------------------
+Brian Cheng, JPMorgan - Analyst    [32]
+--------------------------------------------------------------------------------
+Great. Thank you.
+--------------------------------------------------------------------------------
+Dennis Lanfear, Coherus BioSciences Inc - Chairman of the Board, President, Chief Executive Officer    [33]
+--------------------------------------------------------------------------------
+Thank you, Brian.
+--------------------------------------------------------------------------------
+Operator,     [34]
+--------------------------------------------------------------------------------
+And I'm currently showing further questions at this time. I'd like to hand the call back over to Denny Lanfear for closing remarks.
+--------------------------------------------------------------------------------
+Dennis Lanfear, Coherus BioSciences Inc - Chairman of the Board, President, Chief Executive Officer    [35]
+--------------------------------------------------------------------------------
+Thank you, operator, and thank you all for joining us today on the call. I just want to point out that members of our team will be participating in the Citi conference today in Miami where our Chief Development Officer, Dr. Theresa LaVallee, will be sitting on a panel discussing novel mechanisms in oncology and where we'll also be conducting one-on-one meetings with conference participants. Have a great day. Thank you.
+--------------------------------------------------------------------------------
+Operator,     [36]
+--------------------------------------------------------------------------------
+This concludes the conference call. Thank you for your participation. You may now disconnect.
+
+
+
+
+
+
+--------------------------------------------------------------------------------
+Definitions
+--------------------------------------------------------------------------------
+Preliminary Transcript: "Preliminary Transcript" indicates that the 
+Transcript has been published in near real-time by an experienced 
+professional transcriber.  While the Preliminary Transcript is highly 
+accurate, it has not been edited to ensure the entire transcription 
+represents a verbatim report of the call.
+
+EDITED TRANSCRIPT: "Edited Transcript" indicates that a team of professional 
+editors have listened to the event a second time to confirm that the 
+content of the call has been transcribed accurately and in full.
+
+--------------------------------------------------------------------------------
+Disclaimer
+--------------------------------------------------------------------------------
+THE LONDON STOCK EXCHANGE GROUP AND ITS AFFILIATES (COLLECTIVELY, "LSEG") RESERVES THE RIGHT TO MAKE CHANGES TO DOCUMENTS, CONTENT, OR OTHER INFORMATION ON THIS WEB SITE WITHOUT OBLIGATION TO NOTIFY ANY PERSON OF SUCH CHANGES. NO CONTENT MAY BE MODIFIED, REVERSE ENGINEERED, REPRODUCED, OR DISTRIBUTED IN ANY FORM BY ANY MEANS, OR STORED IN A DATABASE OR RETRIEVAL SYSTEM, WITHOUT THE PRIOR WRITTEN PERMISSION OF LSEG. THE CONTENT SHALL NOT BE USED FOR ANY UNLAWFUL OR UNAUTHORIZED PURPOSES. LSEG DOES NOT GUARANTEE THE ACCURACY, COMPLETENESS, TIMELINESS, OR AVAILABILITY OF THE CONTENT. LSEG IS NOT RESPONSIBLE FOR ANY ERRORS OR OMISSIONS, REGARDLESS OF THE CAUSE, FOR THE RESULTS OBTAINED FROM THE USE OF THE CONTENT. IN NO EVENT SHALL LSEG BE LIABLE TO ANY PARTY FOR ANY DIRECT, INDIRECT, INCIDENTAL, EXEMPLARY, COMPENSATORY, PUNITIVE, SPECIAL, OR CONSEQUENTIAL DAMAGES, COSTS, EXPENSES, LEGAL FEES, OR LOSSES (INCLUDING, WITHOUT LIMITATION, LOST INCOME OR LOST PROFITS AND OPPORTUNITY COSTS OR LOSSES CAUSED BY NEGLIGENCE) IN CONNECTION WITH ANY USE OF THE CONTENT EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGES.
+--------------------------------------------------------------------------------
+Copyright 2024 LSEG. All Rights Reserved.
+--------------------------------------------------------------------------------

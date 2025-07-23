@@ -1,0 +1,273 @@
+
+
+Refinitiv StreetEvents Event Transcript
+E D I T E D   V E R S I O N
+
+Ironwood Pharmaceuticals Inc Acquires VectivBio Holding AG Call
+MAY 22, 2023 / 12:30PM GMT
+
+================================================================================
+Corporate Participants
+================================================================================
+
+ * Andrew Davis
+   Ironwood Pharmaceuticals, Inc. - Senior VP & Chief Business Officer
+ * Michael Shetzline
+   Ironwood Pharmaceuticals, Inc. - Chief Medical Officer, Senior VP and Head of Research & Drug Development
+ * Thomas A. McCourt
+   Ironwood Pharmaceuticals, Inc. - CEO & Director
+ * Sravan Kumar Emany
+   Ironwood Pharmaceuticals, Inc. - Senior VP, Principal Financial Officer & CFO
+
+================================================================================
+Conference Call Participiants
+================================================================================
+
+ * Timothy Chiang
+   Capital One Securities, Inc., Research Division - Research Analyst
+ * Boris Peaker
+   TD Cowen, Research Division - MD & Senior Research Analyst
+ * David A. Amsellem
+   Piper Sandler & Co., Research Division - MD & Senior Research Analyst
+
+================================================================================
+Presentation
+--------------------------------------------------------------------------------
+Operator    [1]
+--------------------------------------------------------------------------------
+Ladies and gentlemen, good morning. My name is Abby, and I will be your conference operator today. At this time, I would like to welcome everyone to the Ironwood announces acquisition of VectivBio Conference Call. Today's conference is being recorded. (Operator Instructions) Thank you. And I will now turn the conference over to Tom McCourt, Chief Executive Officer. You may begin.
+
+--------------------------------------------------------------------------------
+Thomas A. McCourt,  Ironwood Pharmaceuticals, Inc. - CEO & Director    [2]
+--------------------------------------------------------------------------------
+Thanks, Abby, and good morning or good afternoon, everyone. I'm Tom McCourt, Chief Executive Officer of Ironwood Pharmaceuticals, and I'm delighted that you've joined us today as we take you through this exciting announcement in our agreement to acquire VectivBio.  
+Before I continue, please take a moment to review our safe harbor statement on Slide 2. Joining me today are Sravan Emany, Ironwood's Chief Financial Officer; Mike Shetzline, our Chief Medical Officer; Andrew Davis, our Chief Business Officer; and following our remarks, we will open the call with a question-and-answer session. As was highlighted in our press release issued earlier this morning, Ironwood is entering into a definitive agreement to acquire VectivBio, which on close of the transaction, will expand our GI portfolio and further strengthen our position to become the leading GI health care company.  
+VectivBio is a Switzerland-based clinical stage biopharmaceutical company. We've been long admiring VectivBio because of their focus on developing treatments for severe rare conditions with high unmet medical need, including short bowel syndrome with intestinal failure. This acquisition fits squarely within our previously defined strategic framework, and we believe it represents a critical step for Ironwood to achieve our vision and deliver value to our patients and shareholders.  
+There are several reasons we believe that this is the right transaction for Ironwood today. The addition of VectivBio establishes Ironwood as a fully integrated biopharma with a leading commercial product in LINZESS and a strong pipeline for future growth with several key development milestones over the next 12 months. 
+VectivBio's lead asset, Apraglutide, is a potential best-in-class GLP-2 analog that we believe is highly differentiated and have successfully developed and approved, poised to become the standard of care in the treatment of short bowel syndrome with intestinal failure. A disease which there is considerable unmet medical need.  
+We have high conviction for apraglutide's clinical program based on the mechanism of action, the enhanced potency, the extended half-life the unique convenience of weekly dosing and the compelling data to date. We believe Ironwood is best positioned to maximize the potential value of Apraglutide for patients and shareholders by leveraging our expertise in clinical development, regulatory, medical affairs and commercial execution. As evidenced, by the blockbuster success we've had with LINZESS.  
+Short bowel syndrome with intestinal failure is primarily treated by gastroenterologists where we have a strong network that we've built over the past decade. We believe that there will be a significant opportunity to drive significant operating leverage through Ironwood's existing commercial capabilities to support the potential commercial launch if approved. Finally, we believe the acquisition creates an attractive financial profile in the long term with Apraglutide providing a significant catalyst to extend Ironwood's growth horizon and the potential to deliver sustained profits and cash through the 2030s.  
+On Slide 5, you can see the expanded development portfolio created through this acquisition. We have several exciting clinical data and regulatory milestones expected this year. First, we have an upcoming June PDUFA date for the potential LINZESS functional constipation indication in children and adolescents, ages 6 to 17 years old. Second, we expect early data from CNP-104 for the potential treatment of primary biliary cholangitis in the second half of the year. And finally, with Apraglutide, we expect the top line Phase III readout by the end of the year for the potential treatment of short bowel syndrome with intestinal failures.  
+We're particularly excited about our pipeline that now includes multiple highly innovative clinical stage assets, including Apraglutide and CNP-104. We believe both have the potential to address a significant unmet medical need and is successfully developed and approved, can redefine standard of care for patients suffering from short bowel syndrome with intestinal failure as well as PBC, respectively.  
+Now I'll turn it over to Mike.
+
+--------------------------------------------------------------------------------
+Michael Shetzline,  Ironwood Pharmaceuticals, Inc. - Chief Medical Officer, Senior VP and Head of Research & Drug Development    [3]
+--------------------------------------------------------------------------------
+Thanks, Tom. I'm excited to talk to you about a potential new standard of care for patients suffering from shortfall syndrome with intestinal failure. SBS-IF is a severe organ failure condition where the small bowel is not able to keep up with the fluid and nutritional requirements of the body, which may require a lifelong parenteral support. SBS-IF associated with increased mortality, significant morbidity, high economic burden and reduced quality of life. Patients with the most severe SBS-IF may require parenteral support infusions for up to 10 to 15 hours per day, often 7 days a week.  
+This condition impacts approximately 18,000 adult patients across the United States, Europe and Japan. There's a considerable need in this patient population for therapeutic options that ideally aim to help provide enteral autonomy. Enteral autonomy is getting the patient back to the state where the small bowel is able to keep up with their metabolic needs and the patient no longer requires parenteral support.  
+Moving to Slide 8. There are 3 key reasons why we believe that Apraglutide has the potential to be best-in-class and the new standard of care in SBS-IF. First, Apraglutide with GLP-2 analog designed for enhanced potency, selectivity and to be longer-acting versus other GLP-2s. Second, the ongoing Phase III study has been designed to evaluate efficacy in both SBS-IF patient populations, stoma and colon and continuity. Third, Apraglutide has the potential for differentiated convenience of weekly dosing versus other GLP-2 therapies.  
+In summary, we have a high level of conviction in apraglutide's clinical program based on its mechanism of action, it's designed for enhanced potency, selectivity and extended half-life as well as well as compelling data to date. We're looking forward to the top line results of the STARS III  Phase III (sic) [STARS Phase III] expected by the end of this year.  
+With that, I'll now turn the presentation back to Tom.
+
+--------------------------------------------------------------------------------
+Thomas A. McCourt,  Ironwood Pharmaceuticals, Inc. - CEO & Director    [4]
+--------------------------------------------------------------------------------
+Thanks, Mike. I'd like to spend a few minutes framing the Apraglutide commercial opportunity in short bowel syndrome with intestinal failure. As I mentioned earlier, we believe Apraglutide has the potential to achieve $1 billion in peak net sales and significantly expand the treated patients in SBS with intestinal failure, based on this unique product profile Mike just outlined.  
+For reference, Gattex, the first-generation GLP-2 is the SBS with intestinal failure -- is indicated for a intestinal failure reported roughly $750 million in net sales in 2022. We believe the potential to address the Stomas  and colon in continuity population combined with the convenient once-weekly dosing presents the opportunity to potentially decrease the days on parenteral support and achieve greater sales success versus other GLP-2s. And there is the potential to expand use outside the United States as Ironwood retains the optionality for ex-U.S. commercial strategy moving forward.  
+Slide 11 shows many similarities between Apraglutide and Ironwood GI portfolio today. We believe Ironwood is the right company to continue to lead Apraglutide through to development and potential approval. Ironwood as a leading commercial, regulatory and clinical development capabilities, given our significant focus and expertise in GI and our deep relationships across the GI community. This acquisition has the potential to enhance our GI portfolio, which now includes a blockbuster marketed product in LINZESS, which continues to deliver impressive demand growth, a Phase II asset in CNP-104 and upon close of the transaction, a Phase III clinical asset in Apraglutide.  
+We believe all 3 of these assets represent opportunities that have the potential to advance standard of care for GI patients and position us well for future growth.  
+I now would like to turn the call over to Sravan, who's going to review the transaction details in financials.
+
+--------------------------------------------------------------------------------
+Sravan Kumar Emany,  Ironwood Pharmaceuticals, Inc. - Senior VP, Principal Financial Officer & CFO    [5]
+--------------------------------------------------------------------------------
+Thanks, Tom. The addition of VectivBio and the commercial launch potential for  Apraglutide provides additional near-term revenue potential with the line of sight for Ironwood to replace revenues attributable to LINZESS by its 2029 patent expiration and it provides long-term revenue and profit growth potential through the 2030s. We believe that Apraglutide, if approved, has the potential to reach $1 billion in net sales in short bowel syndrome with intestinal failure and represents a highly synergistic opportunity with our existing commercial capabilities in GI. Apraglutide and CNP-104 provide Ironwood with 2 exciting assets for the treatment of rare GI diseases with potential for combined peak net sales of greater than $1.5 billion.  
+Now on Slide 14, I'll review the key transaction terms. Pursuant to the terms of the transaction agreement, Ironwood will commence a tender offer to acquire all outstanding shares of VectivBio for $17 per share in cash, which represents aggregate consideration approximately $1 billion. In conjunction with this transaction, Ironwood will have access to a new $500 million 4-year revolving credit facility. We expect to fund this transaction through a combination of cash on hand and drawn funds on the new facility. We anticipate this transaction will close in the second half of 2023, subject to satisfaction of all closing conditions, including HSR approval and the valid tender of at least 80% of all VectivBio shares. We expect to provide updated full year 2023 adjusted EBITDA guidance upon closing of the transaction.
+Moving forward, we continue to maintain our focus on generating sustained profits and meaningful cash flows while potentially extending our growth horizon through the 2030s. Ironwood expects to generate greater than $175 million in operating cash flows each year on a pro forma basis ahead of a potential Apraglutide commercial launch. We expect the transaction to be accretive to earnings per share beginning in 2026, and we expect adjusted EBITDA to return to greater than $250 million by the end of 2025.  
+Additionally, we anticipate being able to realize significant operating leverage with the addition of Apraglutide and the overlap of Ironwood's existing commercial and development capabilities in GI. Ironwood anticipates total net debt to EBITDA of roughly 3x at closing. And we expect cash flows from LINZESS will support a rapid delevering to below 2x total net debt to EBITDA, ahead of a potential Apraglutide commercial launch in 2025. 
+Moving forward, we will continue to prioritize investments to maximize the value of LINZESS, progress Apraglutide and CNP-104 towards commercialization and manage our capital structure through debt paydown, while maintaining the flexibility to evaluate additional opportunities for capital deployment. 
+To wrap up, today's announcement is an exciting step forward as we continue to strengthen our position to become the leading GI health care company. It represents an opportunity to accelerate Ironwood's growth well beyond LINZESS LOE  while providing innovative treatments for GI patients. We believe that Ironwood is best positioned to maximize the full potential of Apraglutide because of our GI expertise and capabilities. Both CNP-104 and Apraglutide represent exciting opportunities with the potential to deliver significant value to patients, physicians and shareholders. 
+We look forward to collaborating with the talented and hard-working VectivBio team. Together, we can advance important research and clinical development in serious rare GI diseases and develop Apraglutide met to address unmet needs in short bowel syndrome with intestinal failure. Our shared expertise, passion and promising pipelines will greatly expand the reach of our public health contributions and the impact we can make on patient lives and create value for all our stakeholders. 
+Operator, you may now open up the line for questions.
+
+
+================================================================================
+Questions and Answers
+--------------------------------------------------------------------------------
+Operator    [1]
+--------------------------------------------------------------------------------
+(Operator Instructions) We will take our first question from David Amsellem with Piper Sandler.
+
+--------------------------------------------------------------------------------
+David A. Amsellem,  Piper Sandler & Co., Research Division - MD & Senior Research Analyst    [2]
+--------------------------------------------------------------------------------
+Quite transformative. So a couple of questions. First, as you were vetting Apraglutide, how are you thinking about the competitive landscape particularly wanted to pick your brain on glepaglutide and also the GLP-1 [Lanreotide] ? And how are you thinking about those agents vis-a-vis APRA. So that's number one. And then number two, understood that GATTEX certainly has its limitations, but in the not-too-distant future, it is going to lose exclusivity. So I guess with that in mind, how are you thinking about pricing and help us understand your assumptions here? Maybe it's too soon to ask, but for her to give it a shot.
+
+--------------------------------------------------------------------------------
+Sravan Kumar Emany,  Ironwood Pharmaceuticals, Inc. - Senior VP, Principal Financial Officer & CFO    [3]
+--------------------------------------------------------------------------------
+Thanks, David. And I'll let Tom answer the first part of the question, and then Andrew Davis will answer the second part.
+
+--------------------------------------------------------------------------------
+Thomas A. McCourt,  Ironwood Pharmaceuticals, Inc. - CEO & Director    [4]
+--------------------------------------------------------------------------------
+Thanks, Sravan. Obviously, this is a tremendous opportunity for us. I think you're very familiar with short bowel syndrome with intestinal failure. This is a very debilitating disease, while Gattex was certainly a step forward, as you mentioned, there's a lot of limitations with regard to daily dosing, it's potency, its effect across the spectrum of patients. And when we looked at Apraglutide, we clearly see this as a potential best-in-class agent has clearly enhanced potency, the once-weekly dosing versus daily dosing is a tremendous advancement. And of course, the clinical data we've seen to date with regard to its efficacy is really quite stunning. So I think when I look at that profile versus the other GLP-2s, it clearly stands out on its own. And I think we're very excited to move forward with it. As far as some of our thoughts as far as go-to-market strategy and pricing, I'm going to have Andrew maybe address that, Andrew?
+
+--------------------------------------------------------------------------------
+Andrew Davis,  Ironwood Pharmaceuticals, Inc. - Senior VP & Chief Business Officer    [5]
+--------------------------------------------------------------------------------
+Yes, thanks. So I think it is a little early for us to comment or guide on pricing at this point. We closed or signed this late last night, but I think we'll provide an update on that as we roll forward with our commercial activities going forward.
+
+--------------------------------------------------------------------------------
+David A. Amsellem,  Piper Sandler & Co., Research Division - MD & Senior Research Analyst    [6]
+--------------------------------------------------------------------------------
+Okay. That's helpful. If I may just sneak in a quick follow-up. Just for my own edification regarding the market. Are you thinking over the commercial life of the product, that this is going to be just a product that will be used just on patients on parenteral support or are there patients with short vol who are not on parenteral support, where this could also be an audience over time?
+
+--------------------------------------------------------------------------------
+Michael Shetzline,  Ironwood Pharmaceuticals, Inc. - Chief Medical Officer, Senior VP and Head of Research & Drug Development    [7]
+--------------------------------------------------------------------------------
+Yes. Thanks, David. It's a good question. The main mechanism of action, as you know, for the GLP-2 class rests in restoring sort of the gut lining or the epithelium that provides the enhanced absorptive capacity, which gives the main clinical benefit, which is enhanced fluid absorption and nutrient absorption. So from that capacity, it really does fit best with patients requiring parenteral support because parental support is when you have to take nutrients and fluid that you can't get orally by another route, the parenteral route or IV. 
+So I think it lends itself best for that. There certainly are a subgroup of patients with short bowel syndrome who don't necessarily need parenteral support but I think the more relevant cohort is the patient population who don't require greater than 3 days per week of parenteral sport. There is a group of short bowel syndrome intestinal failure patients who only need 1 or 2 days a week. They're not currently in the Phase II program, to be clear, but they are a relevant population in terms of requiring parenteral support, who would be, I think, a group that we should think very strongly about the utility of a once-weekly therapy for that patient population.
+
+--------------------------------------------------------------------------------
+Operator    [8]
+--------------------------------------------------------------------------------
+We will take our next question from Tim Chiang with Capital One Securities.
+
+--------------------------------------------------------------------------------
+Timothy Chiang,  Capital One Securities, Inc., Research Division - Research Analyst    [9]
+--------------------------------------------------------------------------------
+Could you talk a little bit about the differences with Apraglutide, especially in the CIC treatment population, it seems like the company had shown some positive data in just that subpopulation. And could you talk a little bit about the significance of that?
+
+--------------------------------------------------------------------------------
+Sravan Kumar Emany,  Ironwood Pharmaceuticals, Inc. - Senior VP, Principal Financial Officer & CFO    [10]
+--------------------------------------------------------------------------------
+Yes. Mike, why don't you respond out to.
+
+--------------------------------------------------------------------------------
+Michael Shetzline,  Ironwood Pharmaceuticals, Inc. - Chief Medical Officer, Senior VP and Head of Research & Drug Development    [11]
+--------------------------------------------------------------------------------
+Sure, sure. It is a really important question because, as you know, historically, the relevance is that the GLP-2s as they've moved through commercial use and obviously, we're talking about GATTEX in the setting. The clinical development program really didn't show a benefit in the colon and continuity population. The primary benefit was derived from the stoma population. And the reason for that is, is that primary output was really parenteral support volume and based on urinary output. And the Vectiv development team really did a great job, I think, in terms of the development program design to really tease that out and work with that to look at how to better address the colon and continuity population because it is different physiologically, it's different. 
+We know factually that the colon sits there primarily to absorb fluid. It certainly does other activities, don't give you on, but the colon does, in some ways, function as a big nephron and absorb fluid. So they clearly have a different way of managing fluid in a good way for patients who need parenteral support but have a colon. And their deficit is primarily around nutrients, not necessarily volume. So what the development team of Vectiv did was they instituted a unique with the coloning algorithm that allows those patients to be managed differently through the clinical trial. 
+Still urinary output is a key factor in determining the parenteral support volumes but the other aspects of their physiology are also taken into consideration including their nutrient status [clerk] intake, A stool form and frequency in those entities. So in the STARS Phase III, they actually instituted that design to better tease out the clinical benefit in colon and continuity patients. So we think that's a huge advantage and likely potentially differentiating and leading us potentially to this best-in-class standard of care for short bowel syndrome with intestinal failure. 
+The study you're alluding to the nutrition study has already demonstrated a very robust clinical benefit in colon and continuity patients. And it really is the first approach in that regard for a weekly therapy to demonstrate this level of clinical benefit in colon and continuity patients?
+
+--------------------------------------------------------------------------------
+Timothy Chiang,  Capital One Securities, Inc., Research Division - Research Analyst    [12]
+--------------------------------------------------------------------------------
+And Mike, maybe just one follow-up on APRA. Obviously, there's slightly different PK profile with APRA versus the existing products on the market. Can you talk a little bit about the significance of that and also the half-life?
+
+--------------------------------------------------------------------------------
+Michael Shetzline,  Ironwood Pharmaceuticals, Inc. - Chief Medical Officer, Senior VP and Head of Research & Drug Development    [13]
+--------------------------------------------------------------------------------
+What profile? Sorry, I missed the PK/PD, sorry. Thanks for the clarification. Yes, I think the key real physiology or pharmacology behind APRA , Apraglutide is the fact that it is a more potent and more selective GLP-2. This really allows for this extended half-life it provides its extended half-life and then gives us the opportunity or provide Vectiv, obviously, on the front end, the opportunity for weekly dosing. 
+So it is, and it's been looked at in preclinical studies quite extensively comparing to the other GLP-2 agents, and it really does have very robust superiority in terms of at the preclinical level on selectivity and potency.
+
+--------------------------------------------------------------------------------
+Thomas A. McCourt,  Ironwood Pharmaceuticals, Inc. - CEO & Director    [14]
+--------------------------------------------------------------------------------
+Mike, maybe you can comment on the contrast of the half-life of Apraglutide versus inorganic .
+
+--------------------------------------------------------------------------------
+Michael Shetzline,  Ironwood Pharmaceuticals, Inc. - Chief Medical Officer, Senior VP and Head of Research & Drug Development    [15]
+--------------------------------------------------------------------------------
+Yes, sure. So the native peptide right, the thing in the body is really half-life is on the order of minutes. Gattex obviously made strides in that regard by having a half-life of a couple of hours. That's why it had to have a daily dosing. But Apraglutide really gets into the spectrum of a 70-hour half-life, which provides for the weekly opportunity from a convenience perspective.
+
+--------------------------------------------------------------------------------
+Timothy Chiang,  Capital One Securities, Inc., Research Division - Research Analyst    [16]
+--------------------------------------------------------------------------------
+Okay. No, that's very helpful. Do you think that there would be any difference in side effects at all versus telopeptide with APRA?
+
+--------------------------------------------------------------------------------
+Michael Shetzline,  Ironwood Pharmaceuticals, Inc. - Chief Medical Officer, Senior VP and Head of Research & Drug Development    [17]
+--------------------------------------------------------------------------------
+Yes. So today, obviously, we're following safety quite closely. We know the safety, obviously, from a class. There's been a lot of data out from the other GLP 2s including GATTEX. We certainly don't see any reason to be concerned from a safety perspective. I think the potency part is what gives us the opportunity to have a lot of exposure throughout the week on the receptors from an agonist perspective to provide the epithelial reconstitution of the regrowth necessary to improve the absorptive capability of small valve. So we think that's actually leading more on the enhanced efficacy provision throughout the week.
+
+--------------------------------------------------------------------------------
+Operator    [18]
+--------------------------------------------------------------------------------
+(Operator Instructions) And we will take our next question from Boris Peaker with Cowen.
+
+--------------------------------------------------------------------------------
+Boris Peaker,  TD Cowen, Research Division - MD & Senior Research Analyst    [19]
+--------------------------------------------------------------------------------
+My first question is on the pivotal study readout later this year for Apraglutide, what do you need to see in that data to support your $1 billion in peak sales thesis?
+
+--------------------------------------------------------------------------------
+Sravan Kumar Emany,  Ironwood Pharmaceuticals, Inc. - Senior VP, Principal Financial Officer & CFO    [20]
+--------------------------------------------------------------------------------
+Yes. Mike, why don't you.
+
+--------------------------------------------------------------------------------
+Michael Shetzline,  Ironwood Pharmaceuticals, Inc. - Chief Medical Officer, Senior VP and Head of Research & Drug Development    [21]
+--------------------------------------------------------------------------------
+Yes. So I think the key feature, obviously, is the benefit in weekly parenteral support. I think that's the linchpin. Obviously, it's been the regulatory-approved endpoint. It's certainly the endpoint that VectivBio worked with the agencies to agree upon. I think that's the main outcome. I think the nuances which provide an upside here and a unique feature for best-in-class reside around some of the other key endpoints that the Vectiv team has built into the clinical program. And they really include the ability to look at stoma and CIC patients uniquely. And again, you know the 24-week is the primary end point that's obviously built in individually from the stoma patients. But critically, they're looking deeply at the colon and continuity benefit. 
+And as I mentioned earlier, using that weaning algorithm, there certainly is a reason to believe that can demonstrate improved outcomes in colon and continuity. But also very importantly, there's an aspect to the design, including the statistical analysis that we'll try to tease out the benefit from the -- for the colon and continuity patients around enteral autonomy and that's actually taking those patients and weaning them completely off parenteral support. That has happened, and we know that GLP-2s can achieve that. I think with the extended half-life and enhanced potency as well as the clinical trial design, that's a unique opportunity for Apraglutide and the Vectiv team really has championed that approach.
+
+--------------------------------------------------------------------------------
+Thomas A. McCourt,  Ironwood Pharmaceuticals, Inc. - CEO & Director    [22]
+--------------------------------------------------------------------------------
+Yes. First, just a couple of initial thoughts as we've done, obviously, a big deal of market research on this as well as through our due diligence. A couple of things. What we do see with Gattex is there's a rapid -- very low adherence rate over a year or 2-year period of time, roughly 50% discontinue within 12 months, almost 70% a year or 2. And as what's driving that is really the lack of clinical benefit, one, with this broader population. So obviously, having more effective agent on a broader population, obviously, is going to drive growth. 
+I think the other thing that we fully expect is greater adherence. Now there's certainly challenges with daily injections versus a once-week injection. But I think what's going to really drive it is the overall efficacy of the drug. And I think that's what we're hoping to see and fully expect to see out of the clinical trial and the unique design.
+
+--------------------------------------------------------------------------------
+Michael Shetzline,  Ironwood Pharmaceuticals, Inc. - Chief Medical Officer, Senior VP and Head of Research & Drug Development    [23]
+--------------------------------------------------------------------------------
+Yes. And just to add to what Tom just said, that's the key feature of this enhanced opportunity around the CIC efficacy because that will play into the primary endpoint for the total population.
+
+--------------------------------------------------------------------------------
+Boris Peaker,  TD Cowen, Research Division - MD & Senior Research Analyst    [24]
+--------------------------------------------------------------------------------
+Your -- so just a quick follow-up. Your $1 billion sales potential does that assume that some of these patients are weaned off parenteral support in study? Or is that just upside that's not critical to your assumption?
+
+--------------------------------------------------------------------------------
+Thomas A. McCourt,  Ironwood Pharmaceuticals, Inc. - CEO & Director    [25]
+--------------------------------------------------------------------------------
+I mean, as far as we're looking at it,what is it going to take to penetrate the market. Based on all the adoption work we've done with prescribers they really like the broad application. And it's certainly the weaning algorithm is obviously very attractive to say we can actually get people off parenteral nutrition, but also just the raw convenience of managing these patients, which is really, really difficult to manage these patients. And it has obviously a high morbidity and mortality. So as I go back to our real premise on why we love this agent, it's really about this whole clinical profile, starting with potency and certainly convenience. But also, as was mentioned earlier, the strength of the clinical data to date, which obviously is going to be somewhat -- it's going to be predictive of what we hope to see in the Phase III trial later this year.
+
+--------------------------------------------------------------------------------
+Operator    [26]
+--------------------------------------------------------------------------------
+And ladies and gentlemen, this concludes today's conference call, and we thank you for your participation. You may now disconnect.
+
+
+
+
+
+
+
+--------------------------------------------------------------------------------
+Definitions
+--------------------------------------------------------------------------------
+PRELIMINARY TRANSCRIPT: "Preliminary Transcript" indicates that the 
+Transcript has been published in near real-time by an experienced 
+professional transcriber.  While the Preliminary Transcript is highly 
+accurate, it has not been edited to ensure the entire transcription 
+represents a verbatim report of the call.
+
+EDITED TRANSCRIPT: "Edited Transcript" indicates that a team of professional 
+editors have listened to the event a second time to confirm that the 
+content of the call has been transcribed accurately and in full.
+
+--------------------------------------------------------------------------------
+Disclaimer
+--------------------------------------------------------------------------------
+Refinitiv reserves the right to make changes to documents, content, or other 
+information on this web site without obligation to notify any person of 
+such changes.
+
+In the conference calls upon which Event Transcripts are based, companies 
+may make projections or other forward-looking statements regarding a variety 
+of items. Such forward-looking statements are based upon current 
+expectations and involve risks and uncertainties. Actual results may differ 
+materially from those stated in any forward-looking statement based on a 
+number of important factors and risks, which are more specifically 
+identified in the companies' most recent SEC filings. Although the companies 
+may indicate and believe that the assumptions underlying the forward-looking 
+statements are reasonable, any of the assumptions could prove inaccurate or 
+incorrect and, therefore, there can be no assurance that the results 
+contemplated in the forward-looking statements will be realized.
+
+THE INFORMATION CONTAINED IN EVENT TRANSCRIPTS IS A TEXTUAL REPRESENTATION
+OF THE APPLICABLE COMPANY'S CONFERENCE CALL AND WHILE EFFORTS ARE MADE TO
+PROVIDE AN ACCURATE TRANSCRIPTION, THERE MAY BE MATERIAL ERRORS, OMISSIONS,
+OR INACCURACIES IN THE REPORTING OF THE SUBSTANCE OF THE CONFERENCE CALLS.
+IN NO WAY DOES REFINITIV OR THE APPLICABLE COMPANY ASSUME ANY RESPONSIBILITY FOR ANY INVESTMENT OR OTHER
+DECISIONS MADE BASED UPON THE INFORMATION PROVIDED ON THIS WEB SITE OR IN
+ANY EVENT TRANSCRIPT. USERS ARE ADVISED TO REVIEW THE APPLICABLE COMPANY'S
+CONFERENCE CALL ITSELF AND THE APPLICABLE COMPANY'S SEC FILINGS BEFORE
+MAKING ANY INVESTMENT OR OTHER DECISIONS.
+--------------------------------------------------------------------------------
+Copyright 2023 Refinitiv. All Rights Reserved.
+--------------------------------------------------------------------------------

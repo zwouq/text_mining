@@ -1,0 +1,435 @@
+
+
+Refinitiv StreetEvents Event Transcript
+E D I T E D   V E R S I O N
+
+Merck &amp; Co Inc Acquisition of Prometheus Biosciences- M&amp;A Call
+APRIL 17, 2023 / 12:00PM GMT
+
+================================================================================
+Corporate Participants
+================================================================================
+
+ * Chirfi Guindo
+   Merck & Co., Inc. - Senior VP & CMO for Merck Human Health
+ * Robert M. Davis
+   Merck & Co., Inc. - Chairman, President & CEO
+ * Aileen Pangan
+   Merck & Co., Inc. - VP, Late-Stage Immunology
+ * Peter Dannenbaum
+   Merck & Co., Inc. - VP of IR
+ * Eliav Barr
+   Merck & Co., Inc. - Chief Medical Officer & Head of Global Clinical Development of Merck Research Laboratories
+ * Dean Y. Li
+   Merck & Co., Inc. - Executive VP & President of Merck Research Laboratories
+ * Caroline Litchfield
+   Merck & Co., Inc. - Executive VP & CFO
+
+================================================================================
+Conference Call Participiants
+================================================================================
+
+ * Louise Alesandra Chen
+   Cantor Fitzgerald & Co., Research Division - Senior Research Analyst & MD
+ * Geoffrey Christopher Meacham
+   BofA Securities, Research Division - Research Analyst
+ * Chris Shibutani
+   Goldman Sachs Group, Inc., Research Division - Research Analyst
+ * Mara Goldstein
+   Mizuho Securities USA LLC, Research Division - MD of Equity Research Department
+ * Umer Raffat
+   Evercore ISI Institutional Equities, Research Division - Senior MD & Senior Analyst of Equity Research
+ * Mohit Bansal
+   Wells Fargo Securities, LLC, Research Division - Senior Equity Analyst
+ * Trung Chuong Huynh
+   Crédit Suisse AG, Research Division - Research Analyst
+ * Andrew Simon Baum
+   Citigroup Inc., Research Division - Global Head of Healthcare Research and MD
+ * Colin Nigel Bristow
+   UBS Investment Bank, Research Division - Analyst
+ * Adam Jolly
+   Wolfe Research LLC - 
+
+================================================================================
+Presentation
+--------------------------------------------------------------------------------
+Operator    [1]
+--------------------------------------------------------------------------------
+Thank you for standing by. Welcome to the Merck & Company Investor Event announcing the acquisition of Prometheus Biosciences, Inc. (Operator Instructions). This call is being recorded. If you have any objections, you may disconnect at this time.
+I would now like to turn the call over to Mr. Peter Dannenbaum, Vice President, Investor Relations. Sir, you may begin.
+
+--------------------------------------------------------------------------------
+Peter Dannenbaum,  Merck & Co., Inc. - VP of IR    [2]
+--------------------------------------------------------------------------------
+Thank you, Michelle. Good morning, everyone. Welcome to Merck's investor call highlighting the announced acquisition of Prometheus Biosciences. Our agenda this morning includes Rob Davis, Merck's Chairman and Chief Executive Officer, who will lead off our presentation. Rob will be followed by Dr. Dean Li, President of Merck Research Labs; Dr. Eliav Barr, our Chief Medical Officer and Head of Global Clinical Development; Chirfi Guindo, Chief Marketing Officer of Human Health; and Caroline Litchfield, Chief Financial Officer. Q&A will follow.
+Before we get started, we would like to remind you that some of the statements that we make during today's call may be considered forward-looking statements within the meaning of the safe harbor provision of the United States Private Securities Litigation Reform Act of 1995. Such statements are made based on the current beliefs of Merck's management and are subject to significant risks and uncertainties.
+If our underlying assumptions prove inaccurate or uncertainties materialize, actual results may differ materially from those set forth in the forward-looking statements. Our SEC filings, including Item 1A and the 2022 10-K, identify certain risk factors and cautionary statements that could cause the company's actual results to differ materially from those projected in any of our forward-looking statements made this morning. Merck undertakes no obligation to publicly update any forward-looking statements. The slide deck being used for today's call has now been posted to our website. With that, I'll turn the call over to Rob.
+
+--------------------------------------------------------------------------------
+Robert M. Davis,  Merck & Co., Inc. - Chairman, President & CEO    [3]
+--------------------------------------------------------------------------------
+Great. Thanks, Peter, and good morning, everyone. Merck has made tremendous progress toward our strategic priorities. We've made significant advancements across our broad pipeline, executing on our goal of bringing forth innovations that address unmet patient needs. We've achieved commercial success and very strong financial performance, and we've enhanced our internal efforts with significant business development, bringing in several novel late-stage compounds that augment to complement our pipeline.
+We've come a long way in a short period of time and remain committed to doing more. So today, I'm very pleased to speak to you about the acquisition of Prometheus Biosciences. This transaction is another example of our company decisively in compelling science and value aligned. Prometheus brings us to potential first new class and best-in-class late-stage immunology treatment with the opportunity to positively impact the significant needs of patients who suffer from these debilitating diseases.
+Immunology is an important area of significant unmet medical need and we're very pleased to be taking a major step forward complementing our existing programs and accelerating our presence. This transaction adds further diversity to our overall portfolio and is an important building block as we strengthen the sustainable innovation engine that will drive our long-term success. Prometheus lead candidate is PRA-023, which works via a novel mechanism of action and has demonstrated strong proof-of-concept results in ulcerative colitis and Crohn's disease. PRA-023 has the potential to be a foundational treatment and transform standard of care for these patients including through a precision medicine approach. Dean and Eliav will speak more about the strength of the science and clinical progress achieved to date as well as our plans to advance this candidate toward approval.
+Given the substantial unmet need in a large patient population globally, should Phase III trials be successful. We believe PRA-023 has multibillion dollar peak sales potential and can be a significant driver of revenue growth through the next decade. We are confident this transaction has the potential to create meaningful long-term value for patients and, in turn, for shareholders. We are well positioned financially to complete this transaction while maintaining our ability to pursue additional business development opportunities.
+More broadly for Merck, we will continue to bring in the best external science that builds upon and complements our strong and growing internal research pipeline. We are excited to bring in the strong science and talented people of Prometheus to Merck. This adds to our growing list of important recent business development transactions and collaborations, including Kolon, Imago, Moderna, Orion and Acceleron. We remain highly focused on delivering innovative medicines and vaccines that address important unmet needs through our expansive internal research efforts as well as via business development and on sustaining our success over the long term.
+With that, let me turn the call over to Dean.
+
+--------------------------------------------------------------------------------
+Dean Y. Li,  Merck & Co., Inc. - Executive VP & President of Merck Research Laboratories    [4]
+--------------------------------------------------------------------------------
+Thank you, Rob. Good morning, everyone. It is great to be here with you this morning to speak about the announcement. Our R&D strategy starts with our unwavering focus on translating breakthrough science into medicines and vaccines that save and improve lives. This is centered around the patient and anchored on innovation with novel mechanisms that provide the opportunity to potentially transform the standard of care. We are excited by the expertise and technology that Prometheus brings and the potential for Merck to further advance the sign to improve outcomes for patients with immune-mediated inflammatory diseases.
+We see tremendous value in bringing our two companies together to further augment and accelerate our research efforts in immunology, a therapeutic area which, despite the availability of multiple treatment options, has significant need for additional innovation. Furthermore, we are always seeking opportunities to leverage precision medicine and biomarkers where applicable to improve patient selection and outcomes. Together, we have a unique opportunity to make a difference in treating these devastating diseases.
+As Rob noted, inflammatory bowel disease remains an area of significant unmet medical need. Ulcerative colitis and Crohn's disease, the two main forms of IBD can be debilitating and severely impacts the quality of life for patients. Patients are at an elevated risk of colon cancer, which continues to increase with the extent and duration of disease. A majority of patients we do see who experienced active disease in a given year will have a recurrence the following year. The current treatment paradigm often involves patients having to cycle through therapies due to suboptimal responses and poor tolerability.
+Patients with serious disease can be frequently hospitalized and ultimately for those with severe disease, who have exhausted therapeutic options, surgery is the only option. We need to do better for these patients. And that is why we are excited by the potential to provide a novel treatment option with Prometheus' anti-TL1a antibody. Work conducted by Prometheus Founder, Dr. Stephen TarganLab at Cedars-Sinai, was instrumental delucidating the role of TL1A in inflammation and fibrosis and identifying his therapeutic potential through his pioneering work conducting analysis of a comprehensive biobank of IBD tissue samples.
+Further genomic and preclinical studies reinforce the role of TL1A in development and pathogenesis of additional immune-related conditions. This work also points to the opportunity to use a genetic biomarker to identify those patients most likely to respond to PRA-023. This contrasts with [colon] therapies and enables the development of a risk stratification approach. This is potentially transformational in treating patients with certain immune-mediated diseases. We look forward to further expanding on the compelling work accomplished by the talented Prometheus team and I want to emphasize the important strength that will help Merck enhance and accelerate our immunology presence.
+We have deep expertise in clinical development and the ability to scale globally. We also have extensive experience with a proven track record of developing and implementing precision medicine strategies. And finally, and perhaps most importantly, we have an extremely talented and motivated team dedicated to utilizing Merck's expansive capabilities to advance important new therapies. I am confident that as one company, we will be able to leverage our strength and better serve patients.
+With that, I'll turn the call over to Eliav who will provide a deeper look into the clinical profile of Prometheus' pipeline.
+
+--------------------------------------------------------------------------------
+Eliav Barr,  Merck & Co., Inc. - Chief Medical Officer & Head of Global Clinical Development of Merck Research Laboratories    [5]
+--------------------------------------------------------------------------------
+Thank you, Dean. Today is a very exciting day for Merck. As you have heard from Rob and Dean, Prometheus offers compelling science with novel therapeutic and diagnostic products as we look forward to build on the important work that they have accomplished.
+Starting with the TL1A target. Now tumor necrosis factor like ligand 1a, TL1A, a circulating protein and its receptor DR 3 have been implicated as central mediators of the abnormal inflammation and fibrosis that characterizes many autoimmune diseases. There is high expression of TL1A in patients with these diseases, particularly in ulcerative colitis and Crohn's disease. Stimulation of DR 3 by TL1A results in proliferation of anti-cell T-cells, many of which express inflammatory cytokines. This stimulation also induces fibroblast proliferation, which can cause scarring and strictures in affected portions of intestinal tract. PRA-023, the lead compound of Prometheus is an IgG1 humanized monoclonal antibody that has been shown to block TL1A, preventing stimulation of the DR3 receptor. PRA-023 is therefore a potential first-in-class late-stage clinical candidate with a unique dual mechanism of action. It is anti-inflammatory and it is anti-fibrotic. With these properties, PRA-023 has the potential to substantially improve outcomes for patients with ulcerative colitis, Crohn's disease and other immune-mediated inflammatory diseases. The Phase II data for PRA-023 demonstrated remarkable efficacy across patient segments in ulcerative colitis and Crohn's disease. PRA-023a also had a favorable safety and tolerability profile.
+As Dean noted, Prometheus has used precision medicine to identify a proprietary biomarker that may identify patients who may benefit even further from treatment with the drug.
+I'll now review the results of the Phase II program that has gotten us and the field so excited about PRA-023. The first, the study design for the Phase II agonist trial in ulcerative colitis. Now this was a 12-week double-blind, placebo-controlled randomized study to evaluate the efficacy and safety of PRA-023 in patients with moderate to severely active ulcerative colitis.
+The goal of the study was to determine whether PRA-023 could induce remission of ulcerative colitis signs and symptoms in patients with moderately or severely active disease, including those who failed prior therapy with biologics. A total of 135 patients were randomized 1:1 to either PRA-023 or placebo-administered IV. The primary endpoint was clinical remission, a treatment with 12, using a standard measurement, which is the three component modified Mayo score. Secondary endpoints included measures of inflammation, symptoms and patient-reported outcomes. Cohort 2, which is ongoing, is evaluating efficacy in the biomarker-positive patient population. The study met its primary endpoint and secondary endpoints, including endoscopic improvement and clinical response in patients with active ulcerative colitis. After adjusting for placebo response, patients who received PRA-023 experienced an absolute 25% improvement in the protocol-defined primary endpoint and improvement in secondary endpoints, including an absolute 30.8% increase in the proportion of patients needing endoscopic improvement and an absolute 43.8% improvement in patients experienced a clinical response.
+Importantly, with an eye to the profiles of currently available treatment, no safety concerns were identified. Next to the [APOLLO] CD study. which was a Phase IIa single-arm, open-label study designed to evaluate the safety, efficacy and pharmacokinetics of PRA-023 in patients with moderate to severely active Crohn's disease. The primary outcome measures included safety and tolerability as well as endoscopic improvement at week 12. There were several secondary outcome measures, including clinical remission, clinical response, endoscopic and clinical improvement as well as biomarker-mediated clinical improvement. Now this trial enrolled a highly refractory patient population with 71% of patients previously treated with at least one biologic therapy and 53% previously treated with two or more biologic therapies.
+Given that the study evaluated highly refractory patients with severe signs and symptoms, all patients received active drug and efficacy was assessed against historical controls. So now we can look at the results. Of the patients who received PRA-023 on a placebo-adjusted basis using historical controls at 12 weeks, 14% of patients achieved the primary endpoint of endoscopic response and 33% of patients achieved the secondary endpoint of clinical remission. And again, no safety concerns were identified.
+Now to put the results in ulcerative colitis and Crohn's disease in perspective, we have provided a side-by-side display of the placebo-adjusted clinical remission rates for existing therapy compared to PRA-023's Phase II results in both diseases. Of course, cross-trial comparison should be done with caution, but it's important to note that the trials in this slide were generally comparable to the study design of the ARTEMIS PRA-023 study.
+Now in this side-by-side comparison, PRA-023's Phase II efficacy compares very favorably to the efficacy leading -- of leading approved agents across both diseases. PRA-023 appears comparable to upadacitinib or RINVOQ, which is one of the most potent anti-IBD agent developed to date. Of note, PRA-023 to date has a differentiated favorable safety profile when compared to the JAK inhibitors such as upadacitinib, which has a black box warning due to potentially fatal cardiovascular events, thrombosis and malignancies.
+Next, I wanted to highlight data that will provide insight into how a precision-based approach has the potential to transform the treatment of ulcerative colitis.
+Now an interim analysis was performed on the Artemis UC study to evaluate the effectiveness of PRA-023 in the biomarker-positive subpopulation. Although limited patient numbers, data from the subset of 32 patients from the ARTEMIS study in ulcerative colitis demonstrated a placebo-adjusted clinical remission rate of 37.5%, which is a striking 1.5 fold or 12.5% absolute improvement compared with the placebo adjusted remission rate of 25% for all comers. These are unprecedented results and the prevalence of biomarker positivity was approximately 24%. So the optional use of this biomarker can provide physicians with added confidence in ensuring that acutely ill patients are getting the right drug at the right time. An expansion cohort of the ARTEMIS trial in ulcerative colitis, which is statistically powered to further assess the treatment effect of PRA-023 in this biomarker-positive patient population will continue to enroll, and we look forward to gathering further insights from these data in the second quarter of this year.
+Given Merck's strong track record and steadfast commitment to using precision medicine to inform and develop treatment strategies in the immuno-oncology space, I'm excited and confident in our ability to build and execute on the great foundations set by Prometheus. More importantly, this work will potentially lead to better outcomes for patients.
+Now I also wanted to provide insights into the continued progress across the development program for PRA-023. We have the ongoing maintenance portion of the Phase II ARTEMIS study in UC as well as the APOLLO study in Crohn's disease. While it is still early, we are encouraged by the responses we are seeing to date in that -- those phases of the study.
+Next, I want to highlight the recent end of Phase II meeting with the FDA. We're encouraged by the productive discussions, which have taken place with the FDA, and we look forward to initiating our Phase III development program. Now with the addition of Prometheus pipeline, Merck has built a robust immunology clinical development program with the potential to make a substantial impact in this area of high unmet medical need. As mentioned, the completion of the Phase II -- following the completion of the Phase II studies for PRA-023, we look forward to initiating the Phase III development program late this year or early 2024.
+We also plan to share data from PRA-052, an anti-CD30 ligand monoclonal antibody in Phase I studies, once available. And finally, we continue to advance MK-6194, an engineered IL-2 mutant fused to a protein backbone, which is expected to enter Phase II later this year in vitiligo, alopecia areata, systemic lupus erythematosus and atopic dermatitis.
+Now beyond the clinical stage pipeline, we have multiple candidates in preclinical development across our combined pipeline which we expect to enter the clinic in the coming years. Lastly, we are excited by the potential of the Prometheus 360 data sciences platform, which enables a key link between genetics and biology to enable precision drug discovery and patient stratification. This will help us better inform how we target the right subset of patients who can benefit the most from certain treatments.
+In closing, it's worth noting that our deep knowledge of immuno-oncology has led to important insights into the immune system. Therefore, 2 years ago, we separated immunology as a therapeutic area of focus in discovery research. And with this commitment, we have diligently brought in key scientific talent who have vast experience in immunology. Aileen Pangan, Vice President of Late-Stage Immunology, who is with us for a Q&A session is an example of the key talent that we have attracted. Aileen has joined our company over a year ago. She led the team that brought forth upadacitinib or RINVOQ. She along with others, brings a wealth of knowledge and invaluable expertise to Merck. We are proud of the capabilities and expertise we have built across our organization and we look forward to the addition of Prometheus, which will complement and accelerate our efforts in immunology. So with that, I'll turn the call over to Chirfi to provide a commercial overview.
+
+--------------------------------------------------------------------------------
+Chirfi Guindo,  Merck & Co., Inc. - Senior VP & CMO for Merck Human Health    [6]
+--------------------------------------------------------------------------------
+Thank you, Eliav. Turning now to the commercial prospects of the transaction. As Dean described, there is a significant remaining unmet need in inflammatory bowel disease, a chronic and disabling condition impacting approximately 2 million patients in the United States, of which nearly 1 million have moderate to severe disease. If no available cure, many of these patients face relapses and disease progression, making this a hugely devastating diagnosis that substantially impacts an individual's quality of life.
+Today, treatment for inflammatory bowel disease is focused on delaying disease progression, managing symptoms and reducing hospitalization. Unfortunately, existing therapies work only in a fraction of patients with a high percentage becoming unresponsive to therapy. As a result, patients typically cycle through multiple treatment classes and physicians do not have an effective way to identify who will best respond to each therapy. In severe cases, patients face significant complications such as hospitalization due to flare ups and may require surgery.
+In addition, prolonged disease increases risk of colon cancer. Given this paradigm, patients not only face mental stress and physical strain, but also social and economic burden with high cumulative costs over time. Patients, key opinion leaders and payers recognize the need for additional and improved treatment options in this space. We believe that PRA-023 has the opportunity to potentially transform the standard of care based on the compelling evidence from the Phase II clinical trials, including potential best-in-class efficacy and safety.
+In addition, by utilizing a precision medicine approach, it is possible to identify those patients who can most benefit from this treatment. Given the unmet need in large patient population, immunology is a substantial and growing commercial market, expected to reach $140 billion by 2028. Together, ulcerative colitis and Crohn's disease represent approximately $23 billion in 2022 and is expected to grow to approximately $28 billion by 2028, the introduction of therapeutic options.
+We believe PRA-023 has the potential to become a foundational therapy in both UC and CD, and see multibillion-dollar peak sales opportunity in each of these indications. In addition, we aim to broaden the reach of PRA-023 to have more patients by pursuing additional indications of time. In the United States, patent exclusivity for PRA-023 extends into the 2040s. This treatment has the potential to become a significant growth driver for Merck well into the next decade. To conclude, we are excited to build on the substantial progress that Prometheus has made to date, and we plan to leverage Merck's global scale and strong commercial capabilities to accelerate and expand access to this potentially transformative treatment for the patients -- for the benefit of patients.
+With that, I'll turn the call over to Caroline to highlight the financial aspects of the transaction.
+
+--------------------------------------------------------------------------------
+Caroline Litchfield,  Merck & Co., Inc. - Executive VP & CFO    [7]
+--------------------------------------------------------------------------------
+Thank you, Chirfi. As Rob said, Merck has executed exceptionally well and is in a strong financial position allowing us to announce the acquisition of Prometheus while retaining significant capacity to pursue our capital allocation priorities, including future business development should additional attractive opportunities arise.
+Given the substantial unmet need in a large patient population and the potential of PRA-023 to transform patient care, we believe this compound has multibillion-dollar peak revenue potential and that it can be a significant driver of growth for Merck through the next decade.
+Prometheus will also increase our portfolio and pipeline diversification, accelerating our efforts in an important disease area. We are confident that this transaction has the potential to create meaningful value for the patients and shareholders.
+Turning to the financial details of this transaction. Merck has agreed to acquire all outstanding shares of Prometheus Biosciences to $200 per share. This results in a total transaction value of approximately $10.8 billion or $10.3 billion net of approximately $650 million of cash and investments on Prometheus' balance sheet as well as other transaction-related items.
+We have the flexibility to finance the transaction through cash on hand, commercial paper or opportunistic new debt issuance, and we expect no impact to our credit rating. We anticipate the transaction will close in the third quarter of this year subject to Prometheus shareholder approval and regulatory approvals. We believe this transaction will negatively impact EPS by approximately $0.25 in the first 12 months roughly 1/3 of which represents investment to advance pipeline assets, and the remainder is the assumed cost offinancing. In addition, we expect the transaction to be accounted for as an asset acquisition, which will therefore result in a charge recorded to this year's research and development expense of approximately $10.3 billion or approximately $4 per share. The impact of this charge will be reflected in both our GAAP and non-GAAP results.
+Our balanced approach to capital allocation remains intact. We will use our strong balance sheet and growing cash flow to continue prioritizing investment in our rich portfolio and pipeline. We remain committed to funding and growing our dividend over time and we preserve the ability within our strong investment-grade credit rating to pursue additional value-enhancing and innovation-driven business development transactions, which remains an important priority.
+In addition, we intend to execute modest share repurchases this year. Thank you for your attention. I will now turn the call back to Peter.
+
+--------------------------------------------------------------------------------
+Peter Dannenbaum,  Merck & Co., Inc. - VP of IR    [8]
+--------------------------------------------------------------------------------
+Thank you, Caroline. Michelle, we are now ready to start the Q&A portion of the call. And as a reminder, as Eliav said, Dr. Aileen Pangan, head of our late-stage immunology is with us for this portion of the call. And I'd like to request that analysts limit themselves to one or two questions, please. Thank you.
+
+
+================================================================================
+Questions and Answers
+--------------------------------------------------------------------------------
+Operator    [1]
+--------------------------------------------------------------------------------
+(Operator Instructions) One moment for the first question. Trung Huynh from Credit Suisse.
+
+--------------------------------------------------------------------------------
+Trung Chuong Huynh,  Crédit Suisse AG, Research Division - Research Analyst    [2]
+--------------------------------------------------------------------------------
+So on PRA-023, you mentioned it has anti-inflammatory and anti-fibrotic mechanism. Can you perhaps talk about the other immune-related disease opportunities that you mentioned? I can see on the slides, SSC-ILD. Is there anything else? And potentially what could the chance of these indications be?
+And then my second question is just on the UC data we saw in December. If you have a look at the placebo arm, the rate was very low. Perhaps, can you talk about what got you comfortable with the data here? And when you look at it versus peers, it seems to be extremely low.
+
+--------------------------------------------------------------------------------
+Dean Y. Li,  Merck & Co., Inc. - Executive VP & President of Merck Research Laboratories    [3]
+--------------------------------------------------------------------------------
+Thank you very much. This is Dean. I'll just take a first swipe at the indication sort of question, and then I'll Eliav and Aileen to speak about some of the more detailed questions. Whenever you have an immune mediator, whether it's TNF or IL-23 or in this case, TL1A, the number of places that you can place that indication is quite large. And really what focused the attention of Prometheus and of us was the use of their biomarker and biomarker database to sort of focus where they would go. Would there be other indications outside of those that you've discussed? Potentially, but the focus has been where the data and where the association were first made. And then with that, I'd like to turn it over to Eliav and then potentially to Aileen, Eliav.
+
+--------------------------------------------------------------------------------
+Eliav Barr,  Merck & Co., Inc. - Chief Medical Officer & Head of Global Clinical Development of Merck Research Laboratories    [4]
+--------------------------------------------------------------------------------
+Just adding on to the indication. As you may recall, Prometheus had noted that they would be revealing a fourth indication towards the end of this year, and we look forward to working with them and being able to look at that fourth indication, but that's coming. With respect to the clinical trial, Aileen Pangan who actually ran many of these studies can tell us a little bit about that.
+
+--------------------------------------------------------------------------------
+Aileen Pangan,  Merck & Co., Inc. - VP, Late-Stage Immunology    [5]
+--------------------------------------------------------------------------------
+When we rate from the ulcerative colitis study. It's actually indicative of the fact that Prometheus, based on their expertise and knowledge of this field have gone to the expert clinical sites that have found the right patients and design the study such that you are not getting a whole lot of extraneous noise. If you will recall, many years ago, we released the Phase IIb study of upadacitinib, where the placebo rate in 2b is actually 0%, so in many immunology studies, a high placebo rate is something that are you. And so when we see placebo rates that are low like this, particularly in IBD, it tells us that they got the right patient population to test the efficacy of the drug.
+
+--------------------------------------------------------------------------------
+Operator    [6]
+--------------------------------------------------------------------------------
+Mohit Bansal from Wells Fargo.
+
+--------------------------------------------------------------------------------
+Mohit Bansal,  Wells Fargo Securities, LLC, Research Division - Senior Equity Analyst    [7]
+--------------------------------------------------------------------------------
+Congrats on the deal. A couple of questions from my side. So you talked about biomarker-based approach. So in Phase III, do you expect to test that hypothesis as an option? Or do you think that could be the go-to strategy in Phase III and maybe have a really strong benefit among those patients. And then the second part of the question is more of a clarification question. What is the maintenance schedule for PRA-023? Is it every 4 weeks? Or is it longer than that?
+
+--------------------------------------------------------------------------------
+Dean Y. Li,  Merck & Co., Inc. - Executive VP & President of Merck Research Laboratories    [8]
+--------------------------------------------------------------------------------
+Yes. Thank you very much for that question about the biomarker. I just would just emphasize that it's very important that we talk about biomarkers that there's oftentimes a lot of discussions about biomarkers and what biomarkers to use. But really, the critical thing is, can you place them in your clinical trials? Can you do the regulatory rigor that you need? And can you create a network so that upon commercial launch, you -- those biomarkers are real. They are easily addressable and accessible. And I just want to recall back our understanding of how to do that for immuno-oncology led the way for PD-L1, TMB, MSI and others. So we're very confident in our capability to be able to accelerate biomarkers.
+In specific related to your question, if you look at the data, what's actually quite interesting is that there is quite strong efficacy in all comers. When you take the biomarker that has been shown in the Phase II, what you see is in the biomarker positive, you see a level of response that is -- that hasn't been seen for other treatments, which is very encouraging, but I would also highlight that in the companion -- I'm sorry, in the biomarker-negative patient population, if you look at those responses, those responses are quite strong. But in terms of the clinical trial and how to think through those, sort of issues. I'd like to ask Eliav if you wanted to add any other comments.
+
+--------------------------------------------------------------------------------
+Eliav Barr,  Merck & Co., Inc. - Chief Medical Officer & Head of Global Clinical Development of Merck Research Laboratories    [9]
+--------------------------------------------------------------------------------
+Yes. First, just to your second question, in the Phase II program, it was every 4 weeks in maintenance, and we're looking at the design of the Phase III study now. Just to add, we believe the biomarker population to be there to add confidence for physicians who are -- especially those who are facing a very severely ill patient, we think that, that would help them increase their confidence in using the drug when they have the biomarker-positive population. The Phase III program, of course, will be doing an all-comers analysis, but certainly, the study will be sufficiently powered to enable us to determine the implications of biomarker positivity on the overall efficacy of the drug. I would again note that on those who are biomarker negative, the efficacy of PRA-023 was really quite good, in fact, comparable to some of the best agents out there.
+
+--------------------------------------------------------------------------------
+Operator    [10]
+--------------------------------------------------------------------------------
+Andrew Baum from Citi.
+
+--------------------------------------------------------------------------------
+Andrew Simon Baum,  Citigroup Inc., Research Division - Global Head of Healthcare Research and MD    [11]
+--------------------------------------------------------------------------------
+A couple of questions. Firstly, just pushing on your comments on the IL-2 mutein that you acquired through Pandion. Obviously, Nektar and (inaudible) have had disappointing data with their really quite similar approach. So I'm assuming expectations have been lowered, but you did highlight expectations to go into the next stage of development. I'm just curious how those two data points have influenced your expectation for the compound?
+And then secondly, on the biomarker -- could you talk to whether the possibility and the appetite exists for opening a basket trial in order to explore subgroups simultaneously across different autoimmune indications for TL1A blockade. Thank you.
+
+--------------------------------------------------------------------------------
+Dean Y. Li,  Merck & Co., Inc. - Executive VP & President of Merck Research Laboratories    [12]
+--------------------------------------------------------------------------------
+Yes. So let me -- this is Dean. Let me just answer the question about the IL-2 mutein. The field evolves very quickly. There are a number of companies who are advancing IL-2 muteins in the field. I would remark that, that interest in doing it is based on real-world clinical practice as of now using IL-2, not the mutein, but IL-2 in relationship to a series of autoimmune diseases. So that -- what the field is seeking to do is try to make a mutein that can be more easily deployed but to follow that clear physiologic signal that has already been established in clinical medicine.
+When you think about the Nektar molecule, we study the Nektar molecule quite closely. We have studied both their IL-2 alpha and their IL-2 beta gamma. I don't want to get into the details of how their molecule is formed, but I would say that we do look at the data of other people. We also understand how our molecule is differentiated. And we try to take the lessons from other people's clinical trials in a way that's balanced understanding where they succeed and fail, but also understanding the precision of the way that these molecules are designed are reasonably different that would allow us to continue to have excitement to move our IL-2 mutant in the indications that Eliav had spoken briefly about. But I just wanted to turn it to Eliav, or is there anything that you would like to add from a clinical standpoint?
+
+--------------------------------------------------------------------------------
+Eliav Barr,  Merck & Co., Inc. - Chief Medical Officer & Head of Global Clinical Development of Merck Research Laboratories    [13]
+--------------------------------------------------------------------------------
+No, I think you've covered it. IL-2, muteins and IL-2 targeting agents are different. And we chose the Pandion compound for a specific reason. And that's why we're excited about it. So -- and by the way, our Phase Ib program continues to validate our excitement.
+
+--------------------------------------------------------------------------------
+Dean Y. Li,  Merck & Co., Inc. - Executive VP & President of Merck Research Laboratories    [14]
+--------------------------------------------------------------------------------
+And Eliav, did you want to briefly talk about the potential of a basket in the future?
+
+--------------------------------------------------------------------------------
+Eliav Barr,  Merck & Co., Inc. - Chief Medical Officer & Head of Global Clinical Development of Merck Research Laboratories    [15]
+--------------------------------------------------------------------------------
+Yes. I think as you know, Merck pioneered this concept of the of the TL1A basket -- of the biomarker defined basket in immuno-oncology. This is -- these are early days. But this is one of the reasons why we're so excited about Prometheus. The fact that they have this extraordinary biomarker database and already having already identified a very important biomarker for ulcerative colitis, really will serve to change the way in which immunologists think about their patients and think about these diseases. And we have done that revolution in immuno-oncology and anticipate similar things in the immunology space.
+
+--------------------------------------------------------------------------------
+Operator    [16]
+--------------------------------------------------------------------------------
+Geoff Meacham from Bank of America.
+
+--------------------------------------------------------------------------------
+Geoffrey Christopher Meacham,  BofA Securities, Research Division - Research Analyst    [17]
+--------------------------------------------------------------------------------
+For the question. Just have two quick ones. Rob, there's been a clear investor focus obviously on BD that diversifies oncology and Prometheus and Acceleron addresses this. And so the question is should we look to I&I and cardio kind of as a foundation for future deals? Or is there still a desire to expand that therapeutic area? And then real quick for Dean or Eliav, how much of the 023 opportunity, how much of the value do you place on maintenance versus induction?
+
+--------------------------------------------------------------------------------
+Robert M. Davis,  Merck & Co., Inc. - Chairman, President & CEO    [18]
+--------------------------------------------------------------------------------
+Great. Thanks for the question. So as we think about from a business development perspective, what we need to do, I think we've been consistent in that the science will drive us to the best opportunity. And clearly, in this case, we saw great science matching an unmet need and in line with value. And so we move no different than we did with the Acceleron deal. So as we sit here today, given both these foundational deals today, what we're announcing with Prometheus and then obviously in immunology and then in cardiovascular with Acceleron, we do believe that we are in a position to have a robust pipeline in both immunology and cardiovascular. But as we think about business development, it will take -- the science will lead us. We continue to be very excited about oncology as well and want to lead in oncology well into the next decade. So I would say we're not driven by the therapeutic area. We're driven by the science, but it is definitely taking us to these focus areas, and we're excited about what we have both through the BD and through our internal pipeline. So these will be 3 areas of investment, but I'm not limiting it to just those.
+
+--------------------------------------------------------------------------------
+Dean Y. Li,  Merck & Co., Inc. - Executive VP & President of Merck Research Laboratories    [19]
+--------------------------------------------------------------------------------
+I would just answer your question about induction and maintenance. And maybe I'll ask Aileen or Eliav to make a comment as well. But if you're a patient, you don't value induction over maintenance. You value induction because you have a hot colon and you need it to be cooled down. And so induction is very important. But if you can't maintain it, I'd rather not be cycling off these medicines as well. So when you ask me about the value, the value to the patient, I think, is substantial in both. Eliav or Aileen.
+
+--------------------------------------------------------------------------------
+Eliav Barr,  Merck & Co., Inc. - Chief Medical Officer & Head of Global Clinical Development of Merck Research Laboratories    [20]
+--------------------------------------------------------------------------------
+I think that you've answered it very well. Thanks, Dean.
+
+--------------------------------------------------------------------------------
+Operator    [21]
+--------------------------------------------------------------------------------
+Mara Goldstein from Mizuho.
+
+--------------------------------------------------------------------------------
+Mara Goldstein,  Mizuho Securities USA LLC, Research Division - MD of Equity Research Department    [22]
+--------------------------------------------------------------------------------
+I wanted to just ask a question on the PRA-023 trials and just some of the differences you've observed in clinical remission and the topic improvement in those endpoints and whether those differentials match are within line of expectations as it relates to previous trials. So if you could just speak to those differences? And then I'm just curious overall around the potential for diagnostic and how you think it diagnostic could be introduced into this market?
+
+--------------------------------------------------------------------------------
+Dean Y. Li,  Merck & Co., Inc. - Executive VP & President of Merck Research Laboratories    [23]
+--------------------------------------------------------------------------------
+Yes. So why don't I just turn that directly to Eliav and Aileen in relationship to the trials and the differences and also the implementation of these diagnostics, as Eliav has pointed out, what we're hoping to do is do what we did for immuno-oncology and cancer in relationship to biomarkers and introduce that concept into immunology and into that field. Eliav and Aileen?
+
+--------------------------------------------------------------------------------
+Eliav Barr,  Merck & Co., Inc. - Chief Medical Officer & Head of Global Clinical Development of Merck Research Laboratories    [24]
+--------------------------------------------------------------------------------
+So I'll ask Aileen to comment on the consistency of the results across endpoints.
+
+--------------------------------------------------------------------------------
+Aileen Pangan,  Merck & Co., Inc. - VP, Late-Stage Immunology    [25]
+--------------------------------------------------------------------------------
+Thank you, Eliav. When we were looking closely at this asset, that was definitely one of the things we wanted to further understand. Is there a consistency and how they are looking at efficacy of this drug using the various endpoints. And based on the data that we've seen and what was presented at the recently concluded [echo meeting]is that there is consistency between clinical endpoint, endoscopic endpoint, a histologic endpoint from a directionality point of view. And that was definitely encouraging for us.
+
+--------------------------------------------------------------------------------
+Eliav Barr,  Merck & Co., Inc. - Chief Medical Officer & Head of Global Clinical Development of Merck Research Laboratories    [26]
+--------------------------------------------------------------------------------
+Right. I mean, I think that was actually quite an important part of the story because we were able to see whether in UC or in Crohn's that all measures were improved. It was really driven by one element and that profound benefit that we've seen was really quite similar across endpoints. Now you asked about how one would deploy a biomarker and as Dean noted, of course, we've done that before. This biomarker is not a complex one. It can be very easily acquired from the patient without having to do anything invasive. And we're able to -- we'll be able to very quickly put it into a format that will enable laboratories to use this in a pretty simple way. And so I think that this will be a very important part of the armamentarium for the use of this drug. I think immunologists are looking for better answers for treating their patients. The current circumstance of cycling on and off based on experience or trial and error probably does -- isn't particularly satisfying, not to the physician and certainly not to the patient.
+And so the ability to enrich for a population that might benefit from PRA-023 will really help in increasing the confidence of physicians to use this product. But again, this would be a complementary approach. Physicians do not need to use the biomarker because there's efficacy regardless of whether the biomarker is positive or negative. It's just that in the positive patients, the results to date have been just exceptional and unheard of.
+
+--------------------------------------------------------------------------------
+Operator    [27]
+--------------------------------------------------------------------------------
+Chris Shibutani from Goldman Sachs.
+
+--------------------------------------------------------------------------------
+Chris Shibutani,  Goldman Sachs Group, Inc., Research Division - Research Analyst    [28]
+--------------------------------------------------------------------------------
+Congratulations on the deal. Two questions, if I could. On the TL-1 mechanism, antifibrotic is often one of the things brought to the forefront. So far, with this mechanism across the assets you've acquired in competitors, we've seen shorter-term induction data. Do you have a hypothesis about how you feel the maintenance data will evolve? And also along with antifibrotic line, do you have a hypothesis or do you think this could be more successful in Crohn's disease, which seems to be arguably an area of greater unmet need because fewer treatment options.
+And then a second follow-up would be program plans and timelines. You note the potential to be first in class. If I could just clarify, Phase III program starts. I think you have in your slides ulcerative colitis starting in early 2024 that we reflect back to what Prometheus has said. I think they had pegged in general a 2023 start for that. And I think they also had plans to start a Crohn's disease registrational Phase III program this year. If you could comment there since I did not notice if I missed it, your plans with a Phase III in Crohn's.
+
+--------------------------------------------------------------------------------
+Dean Y. Li,  Merck & Co., Inc. - Executive VP & President of Merck Research Laboratories    [29]
+--------------------------------------------------------------------------------
+Thank you very much for the questions. I'll just first go to a high level and relationship to this pathway. I mean, this pathway Initially, there were a whole bunch of GWAS or genome-wide associations published in 2008, 2011. There are many different pathways that were identified. And it was really Steve Targin, who's actually focused on a certain TL1A ahaplitide and its increased expression. And through their studies, they did gain of function, loss of function antibody. They recognize not only did it have a potential role in inflammation but in terms of fibrosis as well. And that sort of view of whether that preclinical evidence of affecting not just inflammation but also fibrosis is something that makes us very interested in this mechanism and could potentially bear out, especially in longer-term studies with patients with ulcerative colitis or Crohn's disease in this pathway. I would highlight that one of the interest of Prometheus is to begin to test the role of TL1A in a situation where there's a little bit even more fibrosis than the difference of ulcerative colitis and Crohn's disease, and that was in their scleroderma-related interstitial lung disease. So we'll see that as it plays out using a spectrum of diseases, not just ulcerative colitis and Crohn's, but other diseases. But in relationship to some of the other questions, Eliav and Aileen, did you want to touch on them?
+
+--------------------------------------------------------------------------------
+Eliav Barr,  Merck & Co., Inc. - Chief Medical Officer & Head of Global Clinical Development of Merck Research Laboratories    [30]
+--------------------------------------------------------------------------------
+Sure. So just to be clear, first of all, the Prometheus had a very productive meeting with the FDA at an end of Phase II setting. And this is a really important element of our confidence and timelines. And so we anticipate that we can start the study either late this year or early next year. And the study designs, I think, are going to be well in hand with a little further back and forth with the agencies as we refine things. So I think that, that's really great. We also are very excited to get started with the Crohn's disease program, and we will start that in due course. We anticipate, again, having to discuss that with FDA at an end of Phase II meeting. But again, the results of the Crohn's disease study are pretty clear and pretty striking. So we are very confident in that as well.
+
+--------------------------------------------------------------------------------
+Operator    [31]
+--------------------------------------------------------------------------------
+Louise Chen from Cantor.
+
+--------------------------------------------------------------------------------
+Louise Alesandra Chen,  Cantor Fitzgerald & Co., Research Division - Senior Research Analyst & MD    [32]
+--------------------------------------------------------------------------------
+First question, I wanted to ask you was about the inflammatory bowel disease space. It's getting increasingly crowded. So how do you plan to disrupt this landscape? And then second question is, do you plan to build out your IBD franchise with internal development or more complementary acquisitions?
+
+--------------------------------------------------------------------------------
+Chirfi Guindo,  Merck & Co., Inc. - Senior VP & CMO for Merck Human Health    [33]
+--------------------------------------------------------------------------------
+Thank you for the question, Louise. This is Chirfi. This is obviously a very unsatisfied market as we just have been highlighting. It's a large market that is a dire need for new innovation. We believe that we can compete effectively in this space based on a number of factors. First, this is a first in  class. As we mentioned, anti-inflammatory and anti-fibrotic effect. PRA-023 offers basically a RINVOQ like efficacy and TDO-like safety, right, which is really best there is out there. And then the precision medicine approach really gives us an opportunity to differentiate and identify the patients early on, potentially as first biologic to be initiated post diagnosis. So we believe based on all of these factors and our ability to execute, we've demonstrated in the case of KEYTRUDA, that we will be able to compete to win in this space. Let me also add that we have experience in this space in Europe through our collaboration with JNJ with REMICADE and SIMPONI, where we were able to really execute effectively and generate multibillion-dollar revenue in the European environment over a number of years in IBD.
+
+--------------------------------------------------------------------------------
+Robert M. Davis,  Merck & Co., Inc. - Chairman, President & CEO    [34]
+--------------------------------------------------------------------------------
+on that point, it's really going to be both. We do have a very robust internal pipeline. Dean can comment if he'd like. But then we also, as we've said, we'll look for bringing in the best external science, including further moves in immunology if we see them. So we're looking to do both. And as I said in my prepared comments, we're going to fully invest behind immunology as an area of importance for this company.
+
+--------------------------------------------------------------------------------
+Operator    [35]
+--------------------------------------------------------------------------------
+Colin Bristow with UBS.
+
+--------------------------------------------------------------------------------
+Colin Nigel Bristow,  UBS Investment Bank, Research Division - Analyst    [36]
+--------------------------------------------------------------------------------
+Congrats on the deal. So maybe can you talk about how you 023 is differentiated versus the other TL1As-- and just kind of within this, could you talk about the data set you had access to during the diligence process, which obviously not in the public domain, but gave you additional confidence in the deal or the valuation and then on the valuation side, can you talk about what was factored in here in your base case in terms of indications, peak sales, et cetera?
+
+--------------------------------------------------------------------------------
+Dean Y. Li,  Merck & Co., Inc. - Executive VP & President of Merck Research Laboratories    [37]
+--------------------------------------------------------------------------------
+So let me take a shot from the scientific standpoint, and I'll also ask Eliav to speak about the data sets I just want to be a little bit cautious of us making any direct comparisons between the Prometheus asset and other people's assets in the TL1A space. I would just say is the data sets that we saw in the allcomers were striking to us. The fact that they had a biomarker that was prespecified and was part of that movement such that one is no longer retrospectively sort of looking at the biomarker, but prospectively defining it and getting the data they had is very important to us. And then the other point of view is, in some sense, you have a little bit of an internal control. It's not exactly an internal control, but the fact that we have ulcerative colitis in a blinded study, the results that we have. And then the expectation is you would expect something that had that important impact in ulcerative colitis would have some impact in Crohn's disease and the fact that we had data in hand in relationship to Crohn's disease for Prometheus creates more advantage of looking at how fast we can move this compound in the inflammatory bile disease but the readout from the Crohn's disease gives you even more confidence of the ulcerative colitis data as well, but is there any other data that you would want to highlight, Eliav?
+
+--------------------------------------------------------------------------------
+Eliav Barr,  Merck & Co., Inc. - Chief Medical Officer & Head of Global Clinical Development of Merck Research Laboratories    [38]
+--------------------------------------------------------------------------------
+Sure. I would just point out that we looked at individual patient data. I mean we when we do diligence, we look at everything and -- with a fine-tooth comb. We also, of course, look at the publicly available data externally. And one thing to consider is that we know that we had an end of Phase II meeting, and we've not heard from any other companies at least publicly disclosed an end of Phase II meeting with FDA and so I think that they -- that we were struck by the quality of data -- we looked very intently at all of the parameters. We had two studies, not one that were strongly positive -- and so we considered that this product was really excellent and had a superb opportunity to really impact patients with IBD.
+
+--------------------------------------------------------------------------------
+Caroline Litchfield,  Merck & Co., Inc. - Executive VP & CFO    [39]
+--------------------------------------------------------------------------------
+Colin, this is Caroline. So addressing the valuation, we have been balanced and disciplined in our valuation of Prometheus. The major driver of that value is PRA-023. And I hope you've heard the team's excitement on our opportunity if the study continues successfully to have significant impact for patients and it represent a multibillion-dollar opportunity in ulcerative colitis, also to represent a multibillion-dollar opportunity in Crohn's disease. There could be the potential for other indications, and we see the platform as providing the opportunity to accelerating our discovery efforts in immunology. So the totality of the valuation is weighted towards PRA-023, but we think we've got significant opportunity to create value for patients and shareholders.
+
+--------------------------------------------------------------------------------
+Operator    [40]
+--------------------------------------------------------------------------------
+Tim Anderson with Wolfe Research.
+
+--------------------------------------------------------------------------------
+Adam Jolly,  Wolfe Research LLC -     [41]
+--------------------------------------------------------------------------------
+This is Adam on the line for Tim. Could you comment on whether doing this deal rules out the possibility that Merck does any other share buybacks in 2023? Some investors have seen that in the absence of large M&A, cash might be spent on buybacks, a midsized target like Prometheus rule that out?
+
+--------------------------------------------------------------------------------
+Caroline Litchfield,  Merck & Co., Inc. - Executive VP & CFO    [42]
+--------------------------------------------------------------------------------
+Adam, this is Caroline. So as I described in our prepared remarks, and as we've stated previously, our company's capital allocation priorities are, first and foremost, to invest in our business, the rich opportunities that we have with our own portfolio and to augment that portfolio with smart value-creating science-driven business development. That will remain our priority, but we will return excess cash to our shareholders via share buyback to the extent there is. We will continue the modest level of share buybacks this year, as we indicated after the last sales and earnings call.
+
+--------------------------------------------------------------------------------
+Operator    [43]
+--------------------------------------------------------------------------------
+Umer Raffat from Evercore.
+
+--------------------------------------------------------------------------------
+Umer Raffat,  Evercore ISI Institutional Equities, Research Division - Senior MD & Senior Analyst of Equity Research    [44]
+--------------------------------------------------------------------------------
+Rob, I think one of your bigger achievements during your tenure than the price discipline in BD. So I realize you set the bar very high, but I have to ask, the price being paid for Prometheus is basically the same ballpark as Acceleron, but very different than what [Roivant] paid for the Pfizer TL1A, I'm just curious to hear your thoughts overall. And Dean, is this a real biomarker? And will you continue forward with the same selection of SNPs because the way Prometheus reported that UC biomarker data was very odd. I've never seen pooled across drug and placebo. So I'm curious how you're thinking about all that.
+
+--------------------------------------------------------------------------------
+Robert M. Davis,  Merck & Co., Inc. - Chairman, President & CEO    [45]
+--------------------------------------------------------------------------------
+Yes. No Umer, thanks for the question. I think as I appreciate you've commented I believe we have shown good discipline through our business development and how we think about value. What today should tell you is the confidence we have in this asset. This was us really looking at what we saw the potential to be here which Caroline outlined, Dean has outlined, I will tell you, we see meaningful positive NPV potential at the price we paid. And we think it was a full and fair value for this asset. But assuming success of the drug, we see this as a meaningful opportunity, providing growth in a period where we know that it's going to be important for the company and addressing what is continuing to be an important unmet need. So as we look at this, this is the confidence that our scientific team has in this asset after studying it deeply and over a period of time and the position we have in immunology. So I see this as the same discipline, you're just seeing us putting value where we see and have confidence that, that value should go.
+
+--------------------------------------------------------------------------------
+Dean Y. Li,  Merck & Co., Inc. - Executive VP & President of Merck Research Laboratories    [46]
+--------------------------------------------------------------------------------
+I would just emphasize that one of the value proposition is clearly in TL1A, but it's also related to your other question, which is how do you advance a biomarker in a field that has not had Biomarkers. Rheumatologists, gastroenterologists have not had the ability to do biomarker-driven strategies in general. And it has been a little bit of clinical experience and cycling.
+In relationship to the ulcerative colitis, there is a series of SNFs related to the biomarker. There is an algorithm around that. We also believe that some permutation of that could be also effective in Crohn's disease. I also wonder, and this is not proven, I also wonder whether their database may actually be just how to do biomarker, not just for future targets and future molecules, but it may be able to begin to risk stratify some of the current drugs that are in the cycling that may be very important for us as we want to position TL1A and other things in the Prometheus pipeline and other things in our pipeline in relationship to how physicians should cycle not just these new pathways and new targets and new molecules, but also the ones that are already out there.
+
+--------------------------------------------------------------------------------
+Peter Dannenbaum,  Merck & Co., Inc. - VP of IR    [47]
+--------------------------------------------------------------------------------
+Great. Thank you, Umer, and thank you all for the great questions. I understand some of our upfront remarks were a little difficult to understand. So we're going to look to post those remarks to our website as soon as we can. And please reach out to the IR team if you have any follow-up questions today. Thank you all very much.
+
+--------------------------------------------------------------------------------
+Operator    [48]
+--------------------------------------------------------------------------------
+This concludes today's conference call. You may go ahead and disconnect at this time.
+
+
+
+
+
+
+
+--------------------------------------------------------------------------------
+Definitions
+--------------------------------------------------------------------------------
+PRELIMINARY TRANSCRIPT: "Preliminary Transcript" indicates that the 
+Transcript has been published in near real-time by an experienced 
+professional transcriber.  While the Preliminary Transcript is highly 
+accurate, it has not been edited to ensure the entire transcription 
+represents a verbatim report of the call.
+
+EDITED TRANSCRIPT: "Edited Transcript" indicates that a team of professional 
+editors have listened to the event a second time to confirm that the 
+content of the call has been transcribed accurately and in full.
+
+--------------------------------------------------------------------------------
+Disclaimer
+--------------------------------------------------------------------------------
+Refinitiv reserves the right to make changes to documents, content, or other 
+information on this web site without obligation to notify any person of 
+such changes.
+
+In the conference calls upon which Event Transcripts are based, companies 
+may make projections or other forward-looking statements regarding a variety 
+of items. Such forward-looking statements are based upon current 
+expectations and involve risks and uncertainties. Actual results may differ 
+materially from those stated in any forward-looking statement based on a 
+number of important factors and risks, which are more specifically 
+identified in the companies' most recent SEC filings. Although the companies 
+may indicate and believe that the assumptions underlying the forward-looking 
+statements are reasonable, any of the assumptions could prove inaccurate or 
+incorrect and, therefore, there can be no assurance that the results 
+contemplated in the forward-looking statements will be realized.
+
+THE INFORMATION CONTAINED IN EVENT TRANSCRIPTS IS A TEXTUAL REPRESENTATION
+OF THE APPLICABLE COMPANY'S CONFERENCE CALL AND WHILE EFFORTS ARE MADE TO
+PROVIDE AN ACCURATE TRANSCRIPTION, THERE MAY BE MATERIAL ERRORS, OMISSIONS,
+OR INACCURACIES IN THE REPORTING OF THE SUBSTANCE OF THE CONFERENCE CALLS.
+IN NO WAY DOES REFINITIV OR THE APPLICABLE COMPANY ASSUME ANY RESPONSIBILITY FOR ANY INVESTMENT OR OTHER
+DECISIONS MADE BASED UPON THE INFORMATION PROVIDED ON THIS WEB SITE OR IN
+ANY EVENT TRANSCRIPT. USERS ARE ADVISED TO REVIEW THE APPLICABLE COMPANY'S
+CONFERENCE CALL ITSELF AND THE APPLICABLE COMPANY'S SEC FILINGS BEFORE
+MAKING ANY INVESTMENT OR OTHER DECISIONS.
+--------------------------------------------------------------------------------
+Copyright 2023 Refinitiv. All Rights Reserved.
+--------------------------------------------------------------------------------

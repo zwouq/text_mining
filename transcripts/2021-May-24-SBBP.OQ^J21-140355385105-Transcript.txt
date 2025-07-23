@@ -1,0 +1,476 @@
+
+
+Refinitiv StreetEvents Event Transcript
+E D I T E D   V E R S I O N
+
+Xeris Pharmaceuticals Inc Acquisition of Strongbridge Biopharma Plc - M&amp;A Call
+MAY 24, 2021 / 12:30PM GMT
+
+================================================================================
+Corporate Participants
+================================================================================
+
+ * John H. Johnson
+   Strongbridge Biopharma plc - CEO & Director
+ * Richard S. Kollender
+   Strongbridge Biopharma plc - President & CFO
+ * Paul R. Edick
+   Xeris Pharmaceuticals, Inc. - Chairman & CEO
+ * Fredric Cohen
+   Strongbridge Biopharma plc - Chief Medical Officer
+ * Allison Wey
+   Xeris Pharmaceuticals, Inc. - SVP of IR & Corporate Communications
+
+================================================================================
+Conference Call Participiants
+================================================================================
+
+ * Christopher Lawrence Howerton
+   Jefferies LLC, Research Division - Equity Analyst
+ * Robin Thai Garner Kalley
+   Craig-Hallum Capital Group LLC, Research Division - Senior Research Analyst
+ * Zachary Sachar
+   Piper Sandler & Co., Research Division - Research Analyst
+ * Jonathan Patrick Wolleben
+   JMP Securities LLC, Research Division - VP & Equity Research Analyst
+ * Annabel Eva Samimy
+   Stifel, Nicolaus & Company, Incorporated, Research Division - MD
+ * Daniel James Busby
+   RBC Capital Markets, Research Division - Assistant VP
+ * Difei Yang
+   Mizuho Securities USA LLC, Research Division - Executive Director of Americas Research
+ * Yichuan Yan
+   Oppenheimer & Co. Inc., Research Division - Associate
+
+================================================================================
+Presentation
+--------------------------------------------------------------------------------
+Operator    [1]
+--------------------------------------------------------------------------------
+Good day, and thank you for standing by. Welcome to today's call to discuss Xeris acquisition of Strongbridge Conference Call. 
+(Operator Instructions) Please be advised today's conference is being recorded. (Operator Instructions) I would now like to hand the conference over to your speaker today. Allison Wey, Senior Vice President of Investor Relations and Corporate Communications of Xeris. Please go ahead.
+
+--------------------------------------------------------------------------------
+Allison Wey,  Xeris Pharmaceuticals, Inc. - SVP of IR & Corporate Communications    [2]
+--------------------------------------------------------------------------------
+Thank you, Mary, and good morning. Welcome to our conference call to discuss Xeris' acquisition of Strongbridge, which we announced earlier this morning. 
+Before we begin, I need to provide certain cautionary remarks about forward-looking statements. Except for historical information, the matters discussed in the teleconference may contain forward-looking statements within the meaning of the Private Securities Litigation Reform Act of 1995 including projections, estimates and descriptions of future events. Any such statements are based on current expectations and current economic conditions and are subject to risks and uncertainties that may cause actual results to differ materially from results anticipated in these forward-looking statements. 
+In this regard, we direct listeners to the cautionary statements contained in our Form 10-Ks, 10-Qs and other periodic reports filed with the U.S. SEC. The joint press release announcing the transaction includes important disclosures that apply to this call. 
+Please also note this call does not constitute an offer to sell or to buy or the solicitation of any offer to buy or sell any securities nor shall there be any sale of securities in any jurisdiction in which such offer, solicitation or sale would be unlawful prior to the registration or qualification under the securities law of any such jurisdiction. No offering of securities shall be made except by means of prospectus meeting the requirements of Section 10 of the Securities Act of 1933. 
+In connection with the proposed transaction, Xeris and Strongbridge intend to file a registration statement on Form S-4 with the SEC, which will include a joint proxy statement and a prospectus. Xeris and Strongbridge will file other documents regarding the proposed transaction with the SEC. Before making any voting or investment decisions, investors and security holders of Xeris and Strongbridge are urged to carefully read the entire registration statement and proxy statement prospectus when they become available as well as any amendments or supplements to these documents because they will contain important information about the proposed transaction. 
+The proposed acquisition of Xeris is governed by the Irish Takeover rules. Under those rules, material new information or significant new opinions, which have not already been made publicly -- announced may not be given on this call. This is also not permitted on this call to give any forward-looking information, including profit forecast or synergy statements that have not been included in public announcements by Xeris or Strongbridge and in particular, in their joint announcement earlier today under Rule 2.5 of the Irish Takeover rules. 
+On the call today are Paul Edick, Chairman and CEO of Xeris; and John Johnson, CEO of Strongbridge. After the prepared remarks, we'll open up for Q&A, and Paul and John will be joined by additional executives from both teams. Please limit yourself to one question and one follow-up. With that, I'll turn the call over to Paul Edick, Chairman and CEO of Xeris.
+
+--------------------------------------------------------------------------------
+Paul R. Edick,  Xeris Pharmaceuticals, Inc. - Chairman & CEO    [3]
+--------------------------------------------------------------------------------
+Thank you, Allison, and good morning, everyone. Welcome to the conference call. We are very excited to discuss this combination today. We think it's an important day for both Xeris and Strongbridge as companies. We believe it's an important day for the patients and caregivers that we serve and the health care providers that we serve on a daily basis and an important day for our investors. 
+Before starting, I want to thank the teams on both sides, for all the hard work, long hours and dedication to getting this deal done. It truly has been a remarkable effort by everyone involved. So the combination of Xeris and Strongbridge, we believe is highly complementary. We believe it builds on the critical mass or builds critical mass needed for accelerated growth of the portfolio and pipeline of both companies. Increases our financial strength, creates an impressive combined portfolio of assets and importantly, avoids duplicative infrastructure, especially on the commercial side. 
+Bottom line is, we don't believe there's any head scratchers here. So what I'm going to do is I'm going to go into some relatively considerable detail on each of those points. I do want to warn everyone ahead of time when we've changed slides, there will be some delay, and we'll try to remind you which slide we're on as we go through. 
+So I'm on Slide #6. As I said, the combination of Xeris and Strongbridge will result in a specialty-focused innovative leader in both endocrinology and rare diseases. First and foremost, we'll have diversified and increased revenue growth. Stronger revenue base with growing commercial assets in both Gvoke, which we'll talk about more as we go through and KEVEYIS, which John will talk about as we go through the presentation. 
+Both products are competing in markets with large addressable potential and the opportunity for the rapid launch of RECORLEV, once it's approved -- if approved by the FDA, through the Xeris experienced endocrinology sales force will give us a much more enhanced and commercially successful launch; secondly, the specialized commercial platform. The combined company will have a robust endocrinology and rare disease focused commercial infrastructure, including fully operational patient and provider teams, ready and able to bring benefits to the products for a wide range of our patients and for unmet needs; third and very importantly, the advanced and expanded pipeline, -- portfolio and pipeline of both marketed drugs and soon to be marketed drugs as well as additional assets that we can build with our technology platform, which we'll talk about at some length later on. 
+The company will also have a strengthened strategic and financial profile, scalable platform for continued development of specialist and rare disease oriented products, consolidation of our commercial stage and late stage products portfolios and enhanced commercial infrastructure, as I mentioned. Very importantly, the company's -- combined company will also have combined synergies of approximately $50 million by avoiding both G&A and other infrastructure costs. 
+Ultimately, we'll be better positioned to meet the needs of patients and drive long-term growth. 
+On Page 7, you can see as you get to that slide, it's all in the press release. I'm going to give a couple of the key highlights. It's an all-stock transaction, value Strongbridge at approximately $267 million. The Strongbridge shareholders will also receive several contingent value rights, worth up to an additional $1. The ownership percentage at closing will be approximately 60-40 Xeris and Strongbridge, and John, you'll be hearing from today and Garheng Kong will be joining the Board of the new combined company. Importantly, there are also several investors that have already expressed support for this transaction. 
+Moving to Slide #8. Give you a couple of seconds to catch up. For those of you who don't know Xeris, I want to talk a little bit about who we are as a company and what we do. We're focused on ready-to-use injectable and infusible drug formulations. We have 2 technologies. We'll talk about them a little bit later as well, but XeriSol and XeriJect. We're able to take drugs that are not stable or not soluble and turn them into stable, soluble products. We'll talk about the lead product that is already on the market. We're competing in attractive markets with our current and future products. And we've got a proven endocrinology sales team that's already calling on the doctors that we're going to be calling on one Strongbridge's drug RECORLEV is available. 
+I want to turn it over to John for a couple of seconds to talk about Strongbridge and make some opening comments.
+
+--------------------------------------------------------------------------------
+John H. Johnson,  Strongbridge Biopharma plc - CEO & Director    [4]
+--------------------------------------------------------------------------------
+Thanks, Paul, and good morning, everyone. Before I begin, I just want to reiterate that it's a pleasure to be with you all today to discuss this transformational combination that we believe will drive the next phase of Strongbridge's growth. We look forward to working closely with the Xeris team to unlock the potential value of our combined assets while providing our shareholders with the opportunity to participate in the success of the combined company. 
+As Paul said, these 2 businesses are complementary. What Strongbridge does in this combination is bolt-on to Xeris, a rare disease drug development and commercial infrastructure. We have experience launching and growing rare disease drugs, and we've been delivering strong revenue growth and strong product contribution margin growth with KEVEYIS today. 
+As we move forward, we look forward to using that experience and that infrastructure to launch RECORLEV alongside of Xeris with our large endocrinology footprint. There is clear alignment between the 2 companies. We have significant opportunity to build an even faster-growing biopharmaceutical company. And now let's take a little bit more time to talk about the 2 brands that lead the way here on Slide 9.
+
+--------------------------------------------------------------------------------
+Paul R. Edick,  Xeris Pharmaceuticals, Inc. - Chairman & CEO    [5]
+--------------------------------------------------------------------------------
+Thanks, John. When you look at the brands that the company already has in the marketplace, Xeris is currently marketing Gvoke in both the HypoPen and the prefilled syringe versions that was developed using our proprietary technology, it is indicated for severe hypoglycemia in patients with diabetes who are on insulin and has an addressable market of in the neighborhood of $4 billion. Very substantial and something that we can accelerate the growth through this combination. And John, a little bit about KEVEYIS?
+
+--------------------------------------------------------------------------------
+John H. Johnson,  Strongbridge Biopharma plc - CEO & Director    [6]
+--------------------------------------------------------------------------------
+KEVEYIS is Strongbridge's first commercially available product. It is the first and only FDA-approved therapy for primary periodic paralysis. This is a severe condition. And certainly, many of these patients when they have an attack, appear in emergency rooms. And what we heard from both patients and physicians alike during the pandemic was just how important a role this product is playing in these patients' lives. 
+This market is approximately $500 million in the U.S. We are seeing fast growth. We are seeing positive contribution margin. But this is really just the beginning for these 2 companies. Let's take a more in-depth look here on the next slide at the compelling opportunity that endocrinology offers, both the Xeris team as well as a Strongbridge team as we prepare to enter the market with RECORLEV. Paul?
+
+--------------------------------------------------------------------------------
+Paul R. Edick,  Xeris Pharmaceuticals, Inc. - Chairman & CEO    [7]
+--------------------------------------------------------------------------------
+Thanks, John. On Slide 10, I want to dive a little deeper into Gvoke and how we're growing market share. As I noted earlier, GVOKE is the first ready-to-use liquid stable glucagon to treat severe hypoglycemia, an extremely common problem among insulin taking persons with diabetes. Essentially, if you're on insulin, you are at risk for severe hypoglycemia. And there's 6.8 million people in the United States on insulin, and currently, only about 10% of them have glucagon handy or available. Even though the ADA and other medical societies have said that if you are on insulin or at risk for severe hypoglycemia, you should have glucagon handy. 
+In fact, 9 out of 10 individuals who have diabetes and take insulin, say they have experienced symptoms of severe hypoglycemia because of low blood sugar. It's an urgent situation and currently up until the Gvoke, the primary mode of rescue was the emergency room. Given its ease of use, its role in addressing the real need among the growing population, we're confident in our ability to drive Gvoke's continued growth well into the future. And John, a little bit more about the RECORLEV opportunity in endocrinology.
+
+--------------------------------------------------------------------------------
+John H. Johnson,  Strongbridge Biopharma plc - CEO & Director    [8]
+--------------------------------------------------------------------------------
+Thanks, Paul. Before I speak about RECORLEV, I want to emphasize that the team here at Strongbridge did a significant diligence, not only on Xeris, but in particular, Gvoke. We funded independent market research, where we took the time to really listen to endocrinologists about their view of Gvoke, the opportunity in front of it and the need for this important product in patients taking insulin. We walked away excited. 
+We heard clearly from the physicians that as they get to see reps because some had not seen a Xeris rep yet, but they will be adopting this product. And for us, as we looked at it coming out of the pandemic, certainly, our expectation is that the product will continue to grow and grow rapidly. 
+We've dovetailed nicely into RECORLEV, we have a significant commercial opportunity in front of us with this product. I'll talk a little bit about that now and then also where we're at. We project, and we have given guidance that we expect RECORLEV to achieve peak net sales of approximately $250 million to $350 million annually. We know that this is a large, well-defined rare disease population, but importantly, about 3,200 of the 8,000 pharma -- patients who are treated with prescription therapy are not well controlled. And about 70% of this population are women who have significant side effects to some of the other medications that affect their quality of life. We've heard clearly from them and from their physicians that RECORLEV will play an important role, if approved. 
+We did significant market research and continue to do it with RECORLEV. What we know is that endocrinologists, both in the academic setting as well as out in the community indicate a high likelihood to prescribe the product if it is approved. And I think it's important to point out while there are pituitary centers that many of these patients will get referred into. There is a very strong and growing base of community endocrinologists that treat Cushing's patients and have indicated that they will prescribe RECORLEV. And this is where it's such a good fit with the sales footprint that Xeris has. 
+We know that this area has been profitable for other companies. It is large though and for a smaller company like ourselves to go outside of the pituitary centers would be tough. We know that with the new footprint with Xeris, that we'll be able to get out that marketplace and get at it much more rapidly than we could ever get at it by ourselves. 
+So during our diligence, we also became interested in the platform technologies and excited about them that Xeris has, and as we turn now to Slide 12, Paul will touch on those 2 platforms.
+
+--------------------------------------------------------------------------------
+Paul R. Edick,  Xeris Pharmaceuticals, Inc. - Chairman & CEO    [9]
+--------------------------------------------------------------------------------
+Thanks, John. Just a couple of words to echo John's sentiment. We believe that we're already calling on the various centers that are going to be important for RECORLEV, and those relationships are already being built. As John said, we're going to be very well positioned to launch RECORLEV quickly and successfully. From a technology perspective, Xeris was built on the premise that we can make drugs better. We have 2 distinct technologies, as I mentioned, one we call XeriSol, which is suited primarily for small molecules, peptides, and XeriJect, which is for large molecules, monoclonals, et cetera. 
+With XeriSol, we can change drugs and make them more soluble. More stable in solution, and Gvoke is just the first example of that, where we took a drug that required reconstitution was unstable in a very short period of time and turn it into a liquid stable product, that's stable at room temperature for 2 years. We put it in an auto-injector or prefilled syringe. So that it's easier to use for patients and self-administration and emergency has really become an alternative for patients that never existed historically. 
+From a XeriJect perspective, we are developing and working with companies on a system that will allow delivery of large molecules in prefilled syringes or other convenient administrative put ups and no longer require IV administration. So very significant. And we can put our products in a variety of different tools, such as auto injectors, syringes, multi-dose pens, pumps, et cetera. So very significant in terms of what we can potentially bring to the combination over time. 
+And that leads directly into -- when you look at the combination of these 2 companies, and I'm on Slide 13. Very seldom will you see a pipeline and a portfolio -- portfolio and the pipeline of a company at the stage that our two companies are at, combining in a way that has such a robust opportunity, both now and well into the future. 
+You see few marketed products in Gvoke and KEVEYIS, a soon to be marketed Ogluo, which is our glucagon in Europe and the RECORLEV NDA currently under review. And then beyond that, there is a portfolio of Phase II and Phase I assets coming out of our technology and from Strongbridge that really bode well for future indications, future uses and future opportunities for the company. 
+In particular, additional uses of liquid stable glucagon. Now that there is a liquid stable version, it's very -- it has great utility in a number of different potential indications, several of which we're working on currently. And we have some products that we've developed that we're going to be focused on out-licensing from our technology. I want to turn it over to John to talk a little bit about the commercial opportunity that he started on a couple of minutes later on Slide 14.
+
+--------------------------------------------------------------------------------
+John H. Johnson,  Strongbridge Biopharma plc - CEO & Director    [10]
+--------------------------------------------------------------------------------
+Thanks, Paul. And as you look at Slide 14, when it comes up, when we look at the opportunity to combine with Xeris, what we loved really was a fit, not just the commercial piece that we've talked about thus far, but also the culture part of it. 
+Certainly, Rich Kollender, our CFO; and myself, as we interacted with the Xeris' team, always walked away impressed by the people, the culture, their approach, and how we discuss the possible combination and what that could mean. We know that this combined company will have a very strong presence in endocrinology as well as rare disease. We have 2 experienced commercial teams, patient advocacy infrastructure, patient services, which is so important in the rare disease segment. And certainly, that has been an ongoing strength of Strongbridge. 
+But if we step back for a second, any time that Rich and I go to an investor conference, without fail, we'll get at least once and sometimes multiple times a day, an investor saying to us that you smaller companies with 1 product or 2 products need to get together in order to create more fundamental value for investors. And if you think about those challenges that a company like ours is faced, is when do you add additional resources, when do you train them, how do you get at disease paid education in front of it, how much do you invest, when do you invest? Especially with the uncertainty that oftentimes comes, with an FDA approval and time to launch and product labeling. 
+The great thing about this combination is we have a footprint and endocrinology with relationships in the most important offices that with a push of the button, we can sent out the training materials, get them up and going, have them at a meeting, get them ready to do disease state education, combine them with the team that we have of our rare disease reps and patient services team and really go out and successfully launch RECORLEV. 
+We believe that this is going to turbocharge the launch of RECORLEV. And that at the core, is really around the value that we think. The fundamental value that we believe can be achieved by putting these 2 companies together. And the fact that our culture fits so well is just the icing on the cake for us. So with that, I'd like to turn it over to Paul to talk a little bit about how this fundamental value is created on Slide 6 -- 15, I'm sorry.
+
+--------------------------------------------------------------------------------
+Paul R. Edick,  Xeris Pharmaceuticals, Inc. - Chairman & CEO    [11]
+--------------------------------------------------------------------------------
+So I'll let people to catch up a little bit. There's very little that I can add to what John said. The fundamentals of this combination, we believe, are going to be extremely attractive for investors. When you look at it just on the snapshot of the first quarter, both companies have products that are growing and growing fast, even in a pandemic. And as I said, and I'm sure John has said many times on many calls, we've been all working virtually. Yet working virtually, we're growing our key assets rapidly. 
+And that bodes extremely well, especially on the Xeris side with Gvoke, going into the second half of the year, going in back-to-school, the accelerated potential for growth and then being ready to drop in, plug-and-play, RECORLEV in our experienced field organization, which at that time, will be over 100 people in the field calling on endocrinologists. You can't ask for a better picture. And top that off with the fact that the combined companies, as John mentioned, not building all of that infrastructure for the launch of RECORLEV, we can realize significant synergies by 2022. 
+And all of that on Slide 16, might feel like a minor point, but it's very significant. All of that, the combined companies are going to be underpinned by an intellectual property estate that is very significant and very strong for a company at this stage. The Xeris patent goes to 2036 and recently issued patents for RECORLEV is going to take it out to 2040. So the sustained potential opportunity of the core business as well as what we can bring out of the laboratory, using our technologies to add into our portfolio and our pipeline and eventually put into our combined sales organizations. 
+So take a breath, all. On Slide 17, you'll see the road map to close. This combination has been unanimously approved by both boards of directors. There's -- we will be putting together an integration planning team. We've already started looking at how the companies are going to complement each other. Obviously, it's subject to approval by our respective investors, which we hope to happen by the end of the third quarter. And we expect that we can close the combination and be well on our way by the beginning of the fourth quarter of this year. So with that being said, in everything that we've talked about so far, before we get to questions, I want to reiterate why we're here today, why we're so excited about this combination. 
+Bringing this company -- these 2 companies together will create an innovative leader in both endocrinology and rare disease. We'll have an expanded development pipeline, stronger revenue base, two growing commercial assets and near-term potential for a third important asset in endocrinology, a scalable platform for continued development and consolidation, a specialized commercial platform that is significant and up and running in the space already and significant potential synergies by putting the 2 companies together, both in terms of overlap and cost avoidance. 
+So with that, I'll turn it over to John for any closing comments.
+
+--------------------------------------------------------------------------------
+John H. Johnson,  Strongbridge Biopharma plc - CEO & Director    [12]
+--------------------------------------------------------------------------------
+We're very excited about this transformational step that we're beginning to take today. This combination in our minds has a clear pathway to success and value creation. We have a shared vision with the team at Xeris, and we're excited to make it a reality and have an even greater impact on the patients that we serve. And with that, operator, we will open it up for questions.
+
+
+================================================================================
+Questions and Answers
+--------------------------------------------------------------------------------
+Operator    [1]
+--------------------------------------------------------------------------------
+(Operator Instructions) Your first question is from Annabel Samimy with Stifel.
+
+--------------------------------------------------------------------------------
+Annabel Eva Samimy,  Stifel, Nicolaus & Company, Incorporated, Research Division - MD    [2]
+--------------------------------------------------------------------------------
+I was curious about the potential peak sales of RECORLEV. You said it was around $250 million to $350 million in peak sales. With the Xeris infrastructure and a potential broader sales presence, do you think that you can push beyond that? I think you've been wanting to position this as potentially a frontline therapy for Cushing's syndrome and some of the treatments out there right now for Cushing's syndrome are well above 500. So just curious about the potential there.
+
+--------------------------------------------------------------------------------
+John H. Johnson,  Strongbridge Biopharma plc - CEO & Director    [3]
+--------------------------------------------------------------------------------
+Thanks, Annabel. We certainly are excited about this. As you know from our calls with you, there really are the academic centers in the community. And certainly, when you look at Korlym, you see a lot of growth there. We know that this is going to certainly help the uptake and turbocharge to launch. We're not going to give any new guidance based upon the combination. We do know that the synergies are significant, so we're going to be able to fund not only the growth of RECORLEV, but also Gvoke and the balance of the pipeline. As time goes on, certainly, Paul and team will give you updates on their views of RECORLEV and how it's going. But today, we're not going to be able to give you any additional insight into that. But there's no doubt in my mind that this is the right stuff to maximize RECORLEV.
+
+--------------------------------------------------------------------------------
+Paul R. Edick,  Xeris Pharmaceuticals, Inc. - Chairman & CEO    [4]
+--------------------------------------------------------------------------------
+And Annabel, the only thing I would add to what John said is, what it gives us more than anything else is a fast start. And like John said, we're not going to give additional guidance, but we're going to hit the ground running. That's one of the most important things about this combination relative to RECORLEV.
+
+--------------------------------------------------------------------------------
+Annabel Eva Samimy,  Stifel, Nicolaus & Company, Incorporated, Research Division - MD    [5]
+--------------------------------------------------------------------------------
+I guess, if I could ask a follow-up on that, I guess, as it relates to the CVR and the launch milestone, 40 and 80 seemed like relatively low hurdles. Can you talk a little bit about the value of that CVR relative to what you think the potential of that product could be?
+
+--------------------------------------------------------------------------------
+John H. Johnson,  Strongbridge Biopharma plc - CEO & Director    [6]
+--------------------------------------------------------------------------------
+Yes. Certainly, Annabel, we think that, that CVR is very achievable. We're not going to give any guidance on RECORLEV today for the launch. But certainly, as we assess the deal, we believe that's very achievable. And certainly, as you look at Isturisa and the uptake that they have. I think that gives us confidence in the fact that we believe, and certainly, our Board believes that those are achievable.
+
+--------------------------------------------------------------------------------
+Operator    [7]
+--------------------------------------------------------------------------------
+Our next question is from Christopher Howerton from Jefferies.
+
+--------------------------------------------------------------------------------
+Christopher Lawrence Howerton,  Jefferies LLC, Research Division - Equity Analyst    [8]
+--------------------------------------------------------------------------------
+Congratulations on a really exciting transaction. I guess the -- I don't know if you'll be able to answer this question, but I was curious on the $50 million in synergy. If that included kind of current infrastructure that is existing within both of the entities? Or if some of that synergy is potential spend that would have been made against RECORLEV by the Strongbridge team as a separate entity? And then I guess the second question I have is that is something I ask Rich all the time, so I'm sure he'll be expecting it is just what is the expectations that Xeris has with respect to the life cycle management of KEVEYIS?
+
+--------------------------------------------------------------------------------
+Paul R. Edick,  Xeris Pharmaceuticals, Inc. - Chairman & CEO    [9]
+--------------------------------------------------------------------------------
+So this is Paul. I'll take the first piece. The answer to your question on the $50 million is, yes, it's in both. There is some overlap between the 2 companies, especially G&A and headquarters and back office, et cetera. But very importantly, as John said very eloquently in our talk, not having to build a commercial organization to launch RECORLEV, having a plug-and-play opportunity to put it into the Xeris endocrinology sales force, which you may not have listened to our -- 1 of our previous calls. That sales force, we're currently expanding ahead of back-to-school. It's going to be close to 110 people by the time we have the opportunity to potentially launch RECORLEV. So the ability to avoid building that in Strongbridge is an important part of the $50 million. And I'll turn it over to John on the life cycle question because he's probably gotten it frequently?
+
+--------------------------------------------------------------------------------
+John H. Johnson,  Strongbridge Biopharma plc - CEO & Director    [10]
+--------------------------------------------------------------------------------
+Yes. I'll just touch too, Chris, on the cost avoidance. You can certainly get at the pituitary centers with a relatively strong number of reps. But if you really want to maximize the opportunity at Cushing, you have to get out in the community, especially those large community endo offices that Xeris has relationships in. And so we avoid those costs. As you know from our prior discussions, we were evaluating exactly what that was going to take, how quickly we would be able to do it and managing that along with our financial profile, and this really allows us to just turbocharge launch and accelerate it. Rich, I'll have him comment here on the KEVEYIS life cycle. Rich?
+
+--------------------------------------------------------------------------------
+Richard S. Kollender,  Strongbridge Biopharma plc - President & CFO    [11]
+--------------------------------------------------------------------------------
+Chris, thanks so much for the question. Yes, as you can imagine, as a combined company, we're going to continue all efforts to move our KEVEYIS  patent straight forward with the USPTO as well as through the appeals process that's currently underway. We continue to remain optimistic that we'll have more news to share with the market in the back half of this coming year relative to that estate. And we continue to feel strongly about the strategy that we followed there. It's not dissimilar from the strategy that we followed with RECORLEV. And you can see, based on our announcement a few weeks ago, we were successful on that strategy with RECORLEV. So to the extent we can have some ran through there, we remain optimistic on our chance for KEVEYIS.
+
+--------------------------------------------------------------------------------
+Christopher Lawrence Howerton,  Jefferies LLC, Research Division - Equity Analyst    [12]
+--------------------------------------------------------------------------------
+I know you said 1 question and 1 follow-up, but if you'll take another one, I would appreciate it.
+
+--------------------------------------------------------------------------------
+John H. Johnson,  Strongbridge Biopharma plc - CEO & Director    [13]
+--------------------------------------------------------------------------------
+Sure.
+
+--------------------------------------------------------------------------------
+Christopher Lawrence Howerton,  Jefferies LLC, Research Division - Equity Analyst    [14]
+--------------------------------------------------------------------------------
+Okay. Well, great. I guess the thing that popped to my mind was what is the planned distribution model. Obviously, I'm familiar with kind of the current infrastructure for KEVEYIS and some of the plans that were made for Cushing's. So is it going to be a specialty pharmacy distribution with the pandemic and telemedicine becoming more prevalent? What is the view of the combined company on at home delivery and that kind of distribution?
+
+--------------------------------------------------------------------------------
+John H. Johnson,  Strongbridge Biopharma plc - CEO & Director    [15]
+--------------------------------------------------------------------------------
+Yes, our current thinking, Chris, is that we'll maintain the specialty pharmacy approach that we've taken here in rare disease. There's always the distribution piece, but there's also helping ensure access in the patient services that ties in with that, as you know. So at this point in time, certainly, at the launch, we'll continue with the specialty approach for RECORLEV, and Xeris certainly has a much broader distribution profile, which could be leveraged downstream.
+
+--------------------------------------------------------------------------------
+Paul R. Edick,  Xeris Pharmaceuticals, Inc. - Chairman & CEO    [16]
+--------------------------------------------------------------------------------
+Yes. I would agree with that. John, the -- more and more, we're seeing our product in both mainstream and specialty as well. So they're very complementary.
+
+--------------------------------------------------------------------------------
+Christopher Lawrence Howerton,  Jefferies LLC, Research Division - Equity Analyst    [17]
+--------------------------------------------------------------------------------
+Okay. Well, very good. And I'll offer my congratulations again.
+
+--------------------------------------------------------------------------------
+Operator    [18]
+--------------------------------------------------------------------------------
+Next question is from Daniel Busby from RBC.
+
+--------------------------------------------------------------------------------
+Daniel James Busby,  RBC Capital Markets, Research Division - Assistant VP    [19]
+--------------------------------------------------------------------------------
+Two questions. First, Paul, can you talk a little bit more about the genesis for this deal? This acquisition triggered by any recent developments within Xeris? Or was it more opportunistic in nature? And how do you make sure this doesn't become a distraction for the Gvoke launch? And second, with respect to leveraging the XeriSol and XeriJect technology platforms within Strongbridge's pipeline, have you identified any specific applications or programs that you can talk about at this juncture?
+
+--------------------------------------------------------------------------------
+Paul R. Edick,  Xeris Pharmaceuticals, Inc. - Chairman & CEO    [20]
+--------------------------------------------------------------------------------
+So I'll take them in reverse order, Dan. Thank you very much. From a technology perspective, there's nothing that we want to talk about right now that we're looking at. As you know, there's -- we can go in a number of directions. What this does for us it puts us squarely into specialty, neuromuscular, rare disease, and endocrinology. And we continue to look at opportunities to bring products forward in using our technology. As we get to Phase II with anything, then we'll be disclosing more, but right now, it's early. In terms of distraction, our reps are heads down focused on Gvoke. 
+Our entire organization is really focused, as we talked about on our call a week-or-so ago. We're adding to the field force. We're adding targets. We're getting ready for what we hope to be a robust back-to-school. So no distractions there. And when you look at potential integration from a commercial perspective, getting ready for RECORLEV is the standing organization we already have. And it's getting deeper into those endocrinology offices and enhancing those relationships. 
+From a Genesis perspective, as John said, we all hear constantly why are all of you little 1- or 2-product companies building all your own commercial infrastructure? Why aren't you guys getting together? And John and I got on the phone and said, "Hey, let's have a conversation because there is some real potential synergies here and very complementary organizations in very complementary therapeutic approaches." And it just made a ton of sense from the very first conversation we had.
+
+--------------------------------------------------------------------------------
+Operator    [21]
+--------------------------------------------------------------------------------
+Next question is from Hartaj Singh with Oppenheimer.
+
+--------------------------------------------------------------------------------
+Yichuan Yan,  Oppenheimer & Co. Inc., Research Division - Associate    [22]
+--------------------------------------------------------------------------------
+This is Jackie Yan for Hartaj. Congrats on the deal. A question for John. Just again on KEVEYIS, if you could talk about the potential synergy on the legal patent attorney set executing IP strategy on KEVEYSIS. I'd also like to know your confidence in time lines online in the CVR. And lastly, I just wanted to make sure we should still expect an update on KEVEYIS IP in the second half of this year?
+
+--------------------------------------------------------------------------------
+John H. Johnson,  Strongbridge Biopharma plc - CEO & Director    [23]
+--------------------------------------------------------------------------------
+You broke up a little bit on our end. What was the first question again, I'm sorry?
+
+--------------------------------------------------------------------------------
+Yichuan Yan,  Oppenheimer & Co. Inc., Research Division - Associate    [24]
+--------------------------------------------------------------------------------
+Yes. The first part of my question is, just wondering if you could talk about the potential synergy on the legal or the patent attorney side executing IP strategies on KEVEYIS? That's the first part.
+
+--------------------------------------------------------------------------------
+John H. Johnson,  Strongbridge Biopharma plc - CEO & Director    [25]
+--------------------------------------------------------------------------------
+What I would say to that certainly is that Xeris has done a wonderful job of wrapping in intellectual property around their inventions. Certainly, they had a chance to take a look at our IP estate. I'm sure that they have some ideas. We won't be disclosing any plans today. We've continued to guide towards the end of this year to hear more about the KEVEYIS IP in particular, and we'll be giving you an update at that point. Was there anything that I missed?
+
+--------------------------------------------------------------------------------
+Yichuan Yan,  Oppenheimer & Co. Inc., Research Division - Associate    [26]
+--------------------------------------------------------------------------------
+No. I think that's helpful. I just want to make sure you -- we should still expect an update towards the second half of this year regarding KEVEYIS IP, like -- sort of like a press release or?
+
+--------------------------------------------------------------------------------
+Richard S. Kollender,  Strongbridge Biopharma plc - President & CFO    [27]
+--------------------------------------------------------------------------------
+Whether or not it will be through a press release or some other means on an earnings call or something like that to be determined. But our time line remains consistent with what we've just articulated that we would expect to be back with some information in the second half this year.
+
+--------------------------------------------------------------------------------
+Operator    [28]
+--------------------------------------------------------------------------------
+Our next question is from Jon Wolleben with JMP Securities.
+
+--------------------------------------------------------------------------------
+Jonathan Patrick Wolleben,  JMP Securities LLC, Research Division - VP & Equity Research Analyst    [29]
+--------------------------------------------------------------------------------
+Congrats on the deal. Just a follow-up on the RECORLEV launch. You mentioned the 110 sales reps and the 50 inside sales. I'm wondering if you have an idea of how much is -- how many people are going to be allocated to the RECORLEV launch. And then just trying to understand if there's any more complications or hurdles to closing the deal given the Irish takeover laws. If you could walk us through any additional kind of timing or continue to because of that?
+
+--------------------------------------------------------------------------------
+John H. Johnson,  Strongbridge Biopharma plc - CEO & Director    [30]
+--------------------------------------------------------------------------------
+Go ahead, Paul.
+
+--------------------------------------------------------------------------------
+Paul R. Edick,  Xeris Pharmaceuticals, Inc. - Chairman & CEO    [31]
+--------------------------------------------------------------------------------
+I was just going to -- let me start, John, and then you can finish. The Irish takeover rules, we've addressed effectively. We don't -- I don't see any bumps in the road in the future relative to that, and John can comment further. And on the launch, you're right, we're going to have a very robust and experienced endocrinology organization, both inside and outside. And we'll be more than able to cover all of the centers and go out into the community. Whether or not we allocate -- put RECORLEV in every single 1 of those reps territories there might not be the potential in some, but we have the capability to cover everything that's necessary and then some. John, go ahead.
+
+--------------------------------------------------------------------------------
+John H. Johnson,  Strongbridge Biopharma plc - CEO & Director    [32]
+--------------------------------------------------------------------------------
+Yes. And what I would say is when you look at these community endocrinology clinics, oftentimes working in office and having the ability to have a discussion with the staff around any patients they may have with Cushing's disease in the practice. And who they should specifically target will help dictate during that profiling, where the Xeris resources would be used. 
+We do know that we will be hitting the pituitary centers with excellent coverage, both reach and frequency. And then the community is a bit more on understanding the profiling. As it relates to the Irish piece, I would just echo what Paul said. We are following the takeover rules to the letter. And you will see continued shareholder communication from us in the weeks ahead.
+
+--------------------------------------------------------------------------------
+Operator    [33]
+--------------------------------------------------------------------------------
+Our next question is from is Difei Yang with Mizuho Securities.
+
+--------------------------------------------------------------------------------
+Difei Yang,  Mizuho Securities USA LLC, Research Division - Executive Director of Americas Research    [34]
+--------------------------------------------------------------------------------
+So one question and one follow-up. The first question is on Strongbridge, commercial infrastructure. Would you remind us how many -- what's the size of the sales force? And what's the size of internal supportive structure? And then the follow-up question is on KEVEYIS is whether there is an end of filing pending?
+
+--------------------------------------------------------------------------------
+John H. Johnson,  Strongbridge Biopharma plc - CEO & Director    [35]
+--------------------------------------------------------------------------------
+So as it relates to the commercial infrastructure today, we have 17 reps out in the field, 3 managers, we have about 30 total in that. I think it's important to remember, we also have patient services, which is such an important component of rare diseases and something that we believe we do particularly well. And so all of those folks will be leveraged going forward. They will remain as part of the combined entity. We've been really pleased with their performance. 
+They've demonstrated strong growth here with KEVEYIS. We continue to refine our patient services model and specialty distribution model with great success during the pandemic and really created relationships with both providers and patients to help them through such a difficult time. And so that'll be a part of it, and that will be the bolt-on piece to Xeris that we talked about before. And as it relates to the second question, I'll have Rich just address that.
+
+--------------------------------------------------------------------------------
+Richard S. Kollender,  Strongbridge Biopharma plc - President & CFO    [36]
+--------------------------------------------------------------------------------
+Yes. Just briefly, at this moment, we're not aware of any end of filings for KEVEYIS, for dichlorphenamide.
+
+--------------------------------------------------------------------------------
+Paul R. Edick,  Xeris Pharmaceuticals, Inc. - Chairman & CEO    [37]
+--------------------------------------------------------------------------------
+And to say, I just want to make sure that we're clear, the bolt-on sales organization that John was referring to is currently 100% dedicated and focused on KEVEYIS. The RECORLEV product will go into our endocrinology sales force.
+
+--------------------------------------------------------------------------------
+Operator    [38]
+--------------------------------------------------------------------------------
+The next question is from David Amsellem from Piper Sander.
+
+--------------------------------------------------------------------------------
+Zachary Sachar,  Piper Sandler & Co., Research Division - Research Analyst    [39]
+--------------------------------------------------------------------------------
+This is Zach on for David. Congrats on the transaction. Would you mind just speaking broadly on the role you envision for RECORLEV as the Cushing's disease market evolves with the emergence of new treatments. Like for example, Novartis' oral product launch last year, EGFR inhibitors are being studied now in this condition. So just more color on the Cushing's disease market going forward would be helpful.
+
+--------------------------------------------------------------------------------
+John H. Johnson,  Strongbridge Biopharma plc - CEO & Director    [40]
+--------------------------------------------------------------------------------
+Sure. We'll have Dr. Fred Cohen, our Chief Medical Officer of Strongbridge address that. Fred?
+
+--------------------------------------------------------------------------------
+Fredric Cohen,  Strongbridge Biopharma plc - Chief Medical Officer    [41]
+--------------------------------------------------------------------------------
+Thanks for the question. Yes. So there's no doubt that these newer therapies that are being developed are contributing to better treatment for Cushing's. Patients are not satisfied with the existing therapies for the most part, and we're seeing increasing use of branded drugs that have been well studied encroaching on these older generic drugs that have been used off-label for decades. 
+Isturisa from Novartis originally now, it's Recordati being the latest example. So you know, Isturisa works through inhibition of cortisol synthesis by inhibiting a specific enzyme. RECORLEV acts through also that same enzyme but also inhibits other upstream enzymes to cortisol synthesis inhibition, resulting in a different phenotype of different pharmacological profile. 
+There are some other drugs that are farther back in development. At this point, none of those drugs, short of RECORLEV, which is the sort of predecessor or rather the progeny, if you will, of Korlym. None of those has strong Phase II data at this point. So it's difficult to say where things will shake out. 
+You mentioned specifically EGFR receptors, antagonists, those drugs are being reserved for patients with carcinoma -- pituitary carcinoma, which is extremely rare in Cushing's disease. They're also reserved for patients that don't have carcinoma, but which have invasive -- dural invasive corticotropinomas that are large and can be treated effectively otherwise, as needed. So they're using EGFR receptors antagonist off-label for those conditions. For the most part, none of those EGFR antagonists are being studied on label. In other words, there's no active INDs that I'm aware of using that technology nor do I expect any. 
+The toxicological profile of that class of drugs is really not competitive with the profiles, the safety profiles of these other classes in development, including that of RECORLEV, in my judgment. I don't see those being major players. I do, however, see continued expansion for drugs such as RECORLEV for Isturisa and perhaps in the future, in the next maybe 3 to 4 years for relacorilant.
+
+--------------------------------------------------------------------------------
+Operator    [42]
+--------------------------------------------------------------------------------
+Your last question is from Robin Garner from Craig-Hallum.
+
+--------------------------------------------------------------------------------
+Robin Thai Garner Kalley,  Craig-Hallum Capital Group LLC, Research Division - Senior Research Analyst    [43]
+--------------------------------------------------------------------------------
+Congratulations on the transaction. 2 questions for you. The first, were there any precedent transactions that guided the structure of this one?
+
+--------------------------------------------------------------------------------
+Paul R. Edick,  Xeris Pharmaceuticals, Inc. - Chairman & CEO    [44]
+--------------------------------------------------------------------------------
+Not really. We tried to structure this to be as beneficial to the investors as possible with long-term opportunity for significant upside. And it's reflective of where the 2 companies are in terms of our growth today and the potential for the future, especially when you look at our combined portfolio.
+
+--------------------------------------------------------------------------------
+Robin Thai Garner Kalley,  Craig-Hallum Capital Group LLC, Research Division - Senior Research Analyst    [45]
+--------------------------------------------------------------------------------
+Okay. And then my last question is, how does the Eris team think about the rare disease space and how the combined company can best make use of the existing rare disease sales force at Strongbridge?
+
+--------------------------------------------------------------------------------
+Paul R. Edick,  Xeris Pharmaceuticals, Inc. - Chairman & CEO    [46]
+--------------------------------------------------------------------------------
+Yes. Like I said in my comments, and John in his, this really does move the combined organization into specialty and rare disease. We like the neuromuscular space. We are not going to talk about anything that we've looked at, but we're looking at all the different things that our technology could potentially do in the space. So it's exciting for us because it really does provide an incremental piece of focus that we can leverage over time. And we've got 2 different technologies we can potentially bring to bear.
+
+--------------------------------------------------------------------------------
+John H. Johnson,  Strongbridge Biopharma plc - CEO & Director    [47]
+--------------------------------------------------------------------------------
+And at the end of the day, Robin, we truly believe it unlocks some fundamental value. And we've certainly heard investors talk about how moves like this would make a lot of sense in this space. And when we looked at Xeris, it was a perfect fit for us to try to unlock that fundamental value. So thank you so much for the question.
+
+--------------------------------------------------------------------------------
+Robin Thai Garner Kalley,  Craig-Hallum Capital Group LLC, Research Division - Senior Research Analyst    [48]
+--------------------------------------------------------------------------------
+Thank you and congratulations.
+
+--------------------------------------------------------------------------------
+Operator    [49]
+--------------------------------------------------------------------------------
+There are no further questions at this time. Now I'll turn the call back over to Paul Edick.
+
+--------------------------------------------------------------------------------
+Paul R. Edick,  Xeris Pharmaceuticals, Inc. - Chairman & CEO    [50]
+--------------------------------------------------------------------------------
+Okay. Thank you very much, operator. Thanks to everyone who is listening in. We look forward to building a very exciting company, thanks to the Strongbridge team and the Xeris team for getting this combination together. We're very excited about the potential in the short-term and in the future, and we're looking forward to it. So thank you very much. John, anything else?
+
+--------------------------------------------------------------------------------
+John H. Johnson,  Strongbridge Biopharma plc - CEO & Director    [51]
+--------------------------------------------------------------------------------
+No. I would just say that we're really excited here, Paul as well, and we look forward to unlocking the fundamental value, and we're ready to get to work to create a great company.
+
+--------------------------------------------------------------------------------
+Paul R. Edick,  Xeris Pharmaceuticals, Inc. - Chairman & CEO    [52]
+--------------------------------------------------------------------------------
+Sounds good. Thank you.
+
+--------------------------------------------------------------------------------
+John H. Johnson,  Strongbridge Biopharma plc - CEO & Director    [53]
+--------------------------------------------------------------------------------
+Thank you.
+
+--------------------------------------------------------------------------------
+Operator    [54]
+--------------------------------------------------------------------------------
+This concludes today's conference call. Thank you for participating. You now disconnect.
+
+
+
+
+
+
+
+--------------------------------------------------------------------------------
+Definitions
+--------------------------------------------------------------------------------
+PRELIMINARY TRANSCRIPT: "Preliminary Transcript" indicates that the 
+Transcript has been published in near real-time by an experienced 
+professional transcriber.  While the Preliminary Transcript is highly 
+accurate, it has not been edited to ensure the entire transcription 
+represents a verbatim report of the call.
+
+EDITED TRANSCRIPT: "Edited Transcript" indicates that a team of professional 
+editors have listened to the event a second time to confirm that the 
+content of the call has been transcribed accurately and in full.
+
+--------------------------------------------------------------------------------
+Disclaimer
+--------------------------------------------------------------------------------
+Refinitiv reserves the right to make changes to documents, content, or other 
+information on this web site without obligation to notify any person of 
+such changes.
+
+In the conference calls upon which Event Transcripts are based, companies 
+may make projections or other forward-looking statements regarding a variety 
+of items. Such forward-looking statements are based upon current 
+expectations and involve risks and uncertainties. Actual results may differ 
+materially from those stated in any forward-looking statement based on a 
+number of important factors and risks, which are more specifically 
+identified in the companies' most recent SEC filings. Although the companies 
+may indicate and believe that the assumptions underlying the forward-looking 
+statements are reasonable, any of the assumptions could prove inaccurate or 
+incorrect and, therefore, there can be no assurance that the results 
+contemplated in the forward-looking statements will be realized.
+
+THE INFORMATION CONTAINED IN EVENT TRANSCRIPTS IS A TEXTUAL REPRESENTATION
+OF THE APPLICABLE COMPANY'S CONFERENCE CALL AND WHILE EFFORTS ARE MADE TO
+PROVIDE AN ACCURATE TRANSCRIPTION, THERE MAY BE MATERIAL ERRORS, OMISSIONS,
+OR INACCURACIES IN THE REPORTING OF THE SUBSTANCE OF THE CONFERENCE CALLS.
+IN NO WAY DOES REFINITIV OR THE APPLICABLE COMPANY ASSUME ANY RESPONSIBILITY FOR ANY INVESTMENT OR OTHER
+DECISIONS MADE BASED UPON THE INFORMATION PROVIDED ON THIS WEB SITE OR IN
+ANY EVENT TRANSCRIPT. USERS ARE ADVISED TO REVIEW THE APPLICABLE COMPANY'S
+CONFERENCE CALL ITSELF AND THE APPLICABLE COMPANY'S SEC FILINGS BEFORE
+MAKING ANY INVESTMENT OR OTHER DECISIONS.
+--------------------------------------------------------------------------------
+Copyright 2021 Refinitiv. All Rights Reserved.
+--------------------------------------------------------------------------------

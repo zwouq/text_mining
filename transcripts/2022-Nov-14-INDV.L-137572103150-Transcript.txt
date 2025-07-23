@@ -1,0 +1,256 @@
+
+
+Refinitiv StreetEvents Event Transcript
+E D I T E D   V E R S I O N
+
+Indivior PLC to Acquire Opiant Pharmaceuticals Inc Call
+NOVEMBER 14, 2022 / 1:00PM GMT
+
+================================================================================
+Corporate Participants
+================================================================================
+
+ * Ryan Preblick
+   Indivior PLC - CFO & Executive Director
+ * Mark Crossley
+   Indivior PLC - CEO & Executive Director
+ * Christian Heidbreder
+   Indivior PLC - Chief Scientific Officer
+
+================================================================================
+Conference Call Participiants
+================================================================================
+
+ * Paul Cuddon
+   Numis Securities Limited, Research Division - Director for Healthcare Equity Research
+ * Carl Edward Byrnes
+   Northland Capital Markets, Research Division - MD & Senior Research Analyst
+ * James Alexander Stewart Vane-Tempest
+   Jefferies LLC, Research Division - Senior Equity Analyst
+ * Max Stephen Herrmann
+   Stifel, Nicolaus & Company, Incorporated, Research Division - Head of European Healthcare Equity Research & MD
+
+================================================================================
+Presentation
+--------------------------------------------------------------------------------
+Operator    [1]
+--------------------------------------------------------------------------------
+Good day, and thank you for standing by. Welcome to the Indivior Acquisition of Opiant Pharmaceuticals Conference Call. (Operator Instructions) 
+Please be advised that today's conference is being recorded. I would now like to hand the conference over to your speaker today, Mark Crossley, CEO. Please go ahead.
+
+--------------------------------------------------------------------------------
+Mark Crossley,  Indivior PLC - CEO & Executive Director    [2]
+--------------------------------------------------------------------------------
+Thank you, Sandra, and good morning, and good afternoon, everyone. Thank you for joining us on such short notice to discuss an exciting development for our company. I'm joined by Ryan Preblick, our Chief Financial Officer; and Christian Heidbreder, our Chief Scientific Officer. 
+I'll briefly cover the highlights of the transaction we announced today, and then Ryan will cover off the financial aspects and closing conditions, after which we'll open it up for questions and answers. I'd ask that you each please read in full the information on Pages 2 and 3 of the presentation as it is important.
+Earlier today, we announced a definitive agreement to acquire Opiant Pharmaceuticals, a leader in the development of treatments for drug overdose and substance use disorders, for an upfront amount of approximately $145 million in cash, equivalent to $20 a share, plus contingent value rights, worth up to $8 per share, subject to the achievement of certain commercial milestones.
+Both boards have unanimously approved the transaction. Based in California, Opiant is best known for its contribution to the development of the formulation of NARCAN nasal spray, the market-leading treatment for known or suspected opioid overdose, which was approved in 2015 and out-licensed.
+Opiant does not sell NARCAN nasal spray. Opiant has subsequently sought to develop an improvement to treat known or suspected opioid overdose with its investigational pipeline asset, OPNT003. We believe that this nasal nalmefene treatment has the potential to become the new standard of care in opioid overdose treatment and the promise of this asset is what brought Opiant to our attention.
+In particular, OPNT003 is potentially a more relevant solution for combating the significant increase in opioid overdose deaths caused by illicit powerful synthetic opioids such as fentanyl. As many of you have probably seen in the media, these illegal synthetic opioids are the leading cause of overdose deaths in the U.S. 
+Beyond this, Opiant has also has several early-stage pipeline medicines which complement the key areas of substance use disorder and overdose that we're interested in, including alcohol use disorder for cravings and acute cannabinoid overdose. The Board and my team strongly believe that the addition of Opiant to Indivior is both strategically and financially compelling. 
+First, it will strengthen and extend our leadership position in addiction treatment and science. In particular, OPNT003, if approved, would combine with our existing portfolio of opioid use disorder treatments to create a powerful continuum of care that furthers our patient-focused vision and mission. 
+Second, it provides a near-term and relatively derisk growth opportunity in a space we know well. Based on the clinical advantages we see, we believe OPNT003 has the potential to deliver annual net revenue in the range of $150 million to $250 million, together with an attractive margin profile. 
+This, in turn, would contribute to the acquisition being additive to net revenue post launch and earnings accretive after the second full year of launch. Third, bringing on board the Opiant team will further bolster Indivior's commercial and scientific capabilities, allowing us to maximize the opportunities we see for both of our marketed portfolio and for our expanded pipeline.
+Expanding on the rationale. This slide sets out the powerful addiction treatment and science platform that would be created by combining Indivior and Opiant. The attractive combined portfolio of marketed and investigational treatments would have the potential to address some of the most urgent and growing needs in the addiction disease space, including opioid use disorder, alcohol use disorder and cannabis use disorder. 
+This portfolio of treatments would be supported by proven addiction focused commercial capabilities. We would immediately seek to leverage our complementary areas of expertise. In Indivior's case, accessing organized health systems, including target opportunities in large hospital systems, government health care systems and the justice system. And in Opiant's case, their expertise in the public sector, chiefly law enforcement and first responders. Lastly, we're bringing together powerful addiction science, development and advocacy capabilities. 
+For Indivior, this would strengthen our capabilities in new formulation and nasal drug development and our complementary advocacy approach would further support our drive for social change to destigmatize opioid use disorder and to have it recognized as a chronic relapsing disease to further open access to treatment. 
+I want to now turn to why we're so excited by OPNT003. To do this, I need to remind you that the landscape of opioid use disorder has changed dramatically with the rising misuse of powerful illegal synthetic opioids such as fentanyl. These highly potent illegal opioids are cheap to manufacture and are rapidly displacing heroin.
+They're also extremely dangerous characterized by our rapid onset and brain penetration. They can be 40 to 50x more potent than heroin, leading to respiratory depression at far lower doses and they have a prolonged effect. As a consequence, illegal synthetic opioids are driving the rapid rise in reported overdose deaths in the United States since the onset of COVID. 
+In the most recent recorded 12-month period, synthetics accounted for almost 90% of the approximately 78,000 reported opioid-related overdose deaths. OPNT003 is an investigational opioid overdose reversal agent that is designed to be used by non-health care individuals delivered intranasally and has the potential to impact the crisis.
+Observations for multiple studies reinforce its potential for rapid onset and long duration of action. It is based on the high affinity mu-opioid receptor antagonist nalmefene rather than the current standard naloxone and was developed for a rapid onset of action using the Intravail formulation technology. With its unique pharmacokinetic and pharmacodynamic profile, we believe that treatment with OPNT003 well, if approved, result in fast, strong and long-lasting reduction in respiratory depression caused by overdose.
+So let's turn to why there's such a significant market opportunity for OPNT003. The short answer is that the current standard of care naloxone, given either as NARCAN nasal spray or a generic alternative, may not have the potency or duration of action to adequately address overdoses caused by illicit synthetic opioids like fentanyl. The relatively short half-life of naloxone can complicate the management of overdose with long-lived illicit synthetic opioids.
+This, in turn, means that the multiple sequential treatments may be necessary to save the patient from overdose due to the increased prevalence of these synthetic opioids. As the quote on this slide from a senior official in Birmingham, Alabama Fire & Rescue, says, most of the crews are having to use 2, 3, 4 NARCAN per patient, just to get them breathing again. This growing challenge has also led the National Institute of Health to call for stronger longer-lasting opioid receptor antagonists. 
+This slide shows comparison of the pharmacokinetic data between OPNT003 and nasal naloxone including, on the right-hand side, data from OPNT003 PK studies. The key takeaway from the data are that OPNT003 has a fivefold higher affinity for the new opioid receptors is able to reach higher plasma concentrations and to do so more rapidly and importantly, has a substantially longer half-life of 11 hours versus around two hours for naloxone. 
+This potentially makes OPNT003 a much more relevant option for overdoses caused by long live synthetic illegal opioids like fentanyl. The key development activities for OPNT003 were funded by NIDA and the Biomedical Advanced Research and Development Authority, or BARDA, in light of the urgent need for new alternative treatment approach to overdoses from synthetic opioids.
+This need was further recognized in November 2021 when the FDA granted a fast-track designation to Opiant for OPNT003. Opiant initiated a rolling NDA submission in May of this year. This process allows the serial submission of completed NDA sections for review by the FDA rather than waiting until every section is completed before the entire NDA submitted. 
+Opiant is utilizing the 505(b)(2) pathway and expects to complete its submission by the end of 2022. Commercial planning for launch is already well underway. Opiant already has strong expertise in the immediate addressable sectors, namely public interest customers, including law enforcement, first responders and community programs. These sectors are well funded from the government and from various opioid settlements that have occurred. There's also longer-term potential for retail customers, including pharmacists and physicians.
+Of course, as part of Indivior, we'll be leveraging our overall expertise across organized health systems in the justice system. With OPNT003, as part of our OUD treatment arsenal, we'll envision a continuum of care centered on patient recovery. Addiction is a chronic and relapsing disease. And while SUBLOCADE can help break the cycle of addiction by delivered sustained therapeutic levels of buprenorphine, OPNT003 can potentially serve in the event of overdose. 
+Of course, psychosocial counseling remains at the center of a healthy and full recovery. On my final slide, I'd also like to briefly touch on OPNT002 for alcohol drinking and cravings. This is the second most advanced asset in Opiant's pipeline and potentially represents a promising approach to alcohol abuse, which remains significantly undertreated by medication.
+Opiant is a nasal spray formulation of naltrexone that is designed to deliver rapid onset of treatment. For those less familiar with this disease space, naltrexone is already indicated for alcohol use disorder in the form of a monthly long-acting injectable.
+OPNT002 is currently in Phase II, the top line study anticipated in mid-2023. The concept behind OPNT002 is to use as needed when a patient anticipates drinking or is craving alcohol. As you can see here, the Phase I PK data are compelling. More to come, but potentially an exciting opportunity to address an important unmet need as alcohol abuse is by far the world's largest substance use disorder.
+With that, I'll turn it over to Ryan to briefly discuss the terms and financials of the transaction.
+
+--------------------------------------------------------------------------------
+Ryan Preblick,  Indivior PLC - CFO & Executive Director    [3]
+--------------------------------------------------------------------------------
+Thanks, Mark, and good morning and good afternoon, everyone. As Mark mentioned earlier, we have entered into a definitive agreement to acquire Opiant for upfront consideration of $20 per share in cash or approximately $145 million. We will fund the transaction with cash on the balance sheet.
+In addition, Opiant shareholders are eligible to receive contingent value rights with a maximum potential payout of $8 in cash for each all of share owned if 003 achieves certain commercial milestones.
+We would pay $2 per share in each instance that 003 achieves net revenue thresholds of $225 million, $300 million and $325 million during any fourth consecutive quarter period prior to the seventh anniversary of the U.S. commercial launch. The fourth CVR would pay $2 if 003 exceeds net revenue of $250 million in any fourth consecutive quarter period prior to the third anniversary of the U.S. commercial launch. 
+If all four payments are made, this would result in an additional total cash cost to Indivior of an additional approximately $68 million. In terms of closing, we expect the transaction to be completed in the first quarter of 2023. This is, of course, subject to approval by a majority of Opiant shareholders. and to other customary closing conditions, including U.S. antitrust clearance and clearance by the committee on foreign investment in the United States.
+Following close, our plans would be to launch 003 in the ensuing months after FDA approval. The key tenet of the transaction that Mark outlined is diversification of growth in our contemplated commercialization strategy, including some incremental costs, which have been assumed in our models. We will update the market on our expectations following the closing of the transaction.
+Currently, we are not outlining a time frame for achieving the potential annual net revenue of $150 million to $250 million we expect for 003. However, as Mark has detailed, we strongly believe that the growing market need for rescue treatments like 003, combined with its differentiation versus current marketing offerings, make our net revenue expectations achievable in the medium term. With that, I'll turn it back over to Mark for closing comments.
+
+--------------------------------------------------------------------------------
+Mark Crossley,  Indivior PLC - CEO & Executive Director    [4]
+--------------------------------------------------------------------------------
+Thanks, Ryan, and thanks to everyone for joining us again. We're excited about this opportunity for Indivior shareholders and the potential for value creation by creating an unrivaled addiction treatment platform to help patients across the entire continuum of care. With that, we're happy with any questions.
+
+
+================================================================================
+Questions and Answers
+--------------------------------------------------------------------------------
+Operator    [1]
+--------------------------------------------------------------------------------
+(Operator Instructions) We'll take the first question. It comes the line of Paul Cuddon from Numis.
+
+--------------------------------------------------------------------------------
+Paul Cuddon,  Numis Securities Limited, Research Division - Director for Healthcare Equity Research    [2]
+--------------------------------------------------------------------------------
+Congratulations on the deal. I just got one question really. And just the additional funding that's expected to come in to kind of opioid treatment in the sort of months and years to come and balance between rescue medication and sort of more SUBLOCADE treatment.
+So if you could just outline kind of where you expect your kind of $150 million to $250 million to come from? Is that sort of market growth in rescue medication or capturing market share from NARCAN?
+
+--------------------------------------------------------------------------------
+Mark Crossley,  Indivior PLC - CEO & Executive Director    [3]
+--------------------------------------------------------------------------------
+Thanks, Paul. I appreciate the question. And I think one of the clear things here is opioid epidemic is truly a bipartisan issue in which there is significant funding available both from the government as well as from these resolutions with regards to the opioid MDL. 
+That funding is being brought into the disease space across evidence-based treatment overdose rescue as well as prevention and education. And we think that's important to be quite well rounded there. As we look at the $150 million to $250 million of peak net revenue sales, obviously, there'll be a combination, as you'd expect, of market share due to the potential profile, if approved, of OPNT003 as well as some factor of continued market growth.
+
+--------------------------------------------------------------------------------
+Paul Cuddon,  Numis Securities Limited, Research Division - Director for Healthcare Equity Research    [4]
+--------------------------------------------------------------------------------
+And just secondly, any potential synergies with SUBLOCADE in any of these new additional channels that you might be selling this into in the future?
+
+--------------------------------------------------------------------------------
+Mark Crossley,  Indivior PLC - CEO & Executive Director    [5]
+--------------------------------------------------------------------------------
+I think this is really a complementary combination of the two companies. First, from a scientific standpoint, we have great technology with regards to our long-acting injectables film and tablet business. Opiant has great nasal delivery technology and a really strong heritage there.
+On the go-to-market models, obviously, we have our organized health system strategy which we've been focusing on and has been delivering strong continued growth on SUBLOCADE. And that focuses on the regional medical centers, criminal justice systems and the Veterans Administration hospitals, while Opiant has been focused more on the public health area with the first responders and police. So I think the two of those will be very complementary on the entire continuum of care.
+
+--------------------------------------------------------------------------------
+Operator    [6]
+--------------------------------------------------------------------------------
+We'll now take the next question. It comes from the line of Max Herrmann from Stifel.
+
+--------------------------------------------------------------------------------
+Max Stephen Herrmann,  Stifel, Nicolaus & Company, Incorporated, Research Division - Head of European Healthcare Equity Research & MD    [7]
+--------------------------------------------------------------------------------
+I have a couple of questions on the deal announcement this morning. A couple of questions, actually. One is just drilling a little bit more detail into what Opiant has done in terms of the commercial execution of a potential launch in terms -- you talk about them having capabilities in first responders, emergency services and such. 
+What have they actually put in place that you can leverage in terms of the launch and what needs still to be done ahead of a potential approval to make sure that, that is an effective launch? And how does that kind of compare with the sort of NARCAN? What NARCAN -- or [emergent] has built out the NARCAN?
+That's the first question. The second question is related to SUBLOCADE use in emergency sort of rescue medication. I know you talked historically about the potential for its use in E&R kind of emergency room settings where a patient may have at the moment being let sort of back into the community, having had a respiratory depression, but then obviously potentially abusing a gain and relapsing without any intervention between that period. So I wonder whether you've made any progress with regards to SUBLOCADE in any setting?
+
+--------------------------------------------------------------------------------
+Mark Crossley,  Indivior PLC - CEO & Executive Director    [8]
+--------------------------------------------------------------------------------
+I think I'll probably take the first question, Max, and then hand off to Christian with regards to some of the emergency medical sort of potential.
+With regards to Opiant commercial execution, I think they're in the process of building out their launch, obviously, building capabilities and scale but they have a team on board already that have experience very relevant experience in the space and expertise that we think will be extremely valuable as we look to make this potentially the standard of care for overdose of opioids. So we're excited to have those members potentially join the team at close. 
+Christian, thoughts with regards to SUBLOCADE in the emergency room?
+
+--------------------------------------------------------------------------------
+Christian Heidbreder,  Indivior PLC - Chief Scientific Officer    [9]
+--------------------------------------------------------------------------------
+Yes, certainly. So we are launching a series of studies looking at initiation of treatment for opioid use disorder in the emergency department with SUBLOCADE. So the studies that are currently ongoing are real-world evidence studies showing hopefully, that rapid initiation of treatment with SUBLOCADE in the emergency department is allowing us to keep patients in treatment from the very beginning of the continuum of care, if you wish.
+So these studies are currently ongoing. There will be several interim analysis on all these studies over the next three or four years. So that's our current plan.
+
+--------------------------------------------------------------------------------
+Mark Crossley,  Indivior PLC - CEO & Executive Director    [10]
+--------------------------------------------------------------------------------
+Thanks, Christian. Thanks, Max.
+
+--------------------------------------------------------------------------------
+Max Stephen Herrmann,  Stifel, Nicolaus & Company, Incorporated, Research Division - Head of European Healthcare Equity Research & MD    [11]
+--------------------------------------------------------------------------------
+Just maybe just have a follow-up in terms of the relevant team in place that you talked about. Are these guys who've actually had experience with the NARCAN launch or (inaudible) or any of the other sort of nasal cone or rescue medication experiences?
+
+--------------------------------------------------------------------------------
+Mark Crossley,  Indivior PLC - CEO & Executive Director    [12]
+--------------------------------------------------------------------------------
+No. I think Opiant has brought on board a number of people that helped with the initial launch of NARCAN. So very relevant experience in this disease space and a huge contributor to creating the current standard of care that's out there.
+
+--------------------------------------------------------------------------------
+Operator    [13]
+--------------------------------------------------------------------------------
+We will now take the next question. It comes James Vane-Tempest from Jefferies.
+
+--------------------------------------------------------------------------------
+James Alexander Stewart Vane-Tempest,  Jefferies LLC, Research Division - Senior Equity Analyst    [14]
+--------------------------------------------------------------------------------
+So two, if I may, please. First one, I guess, Opiant, I guess, has been public, as sort of known in the market as an asset kind of in the space. So I'm kind of curious what, I guess, shifted your focus to acquire this asset now? I guess you probably could have done that some time ago, if you wanted to. 
+Second question is, as we think about incorporating into Indivior, you've already got a lot of infrastructure. So how much extra investment do you need to make? And how should we think about contribution margins per se?
+
+--------------------------------------------------------------------------------
+Mark Crossley,  Indivior PLC - CEO & Executive Director    [15]
+--------------------------------------------------------------------------------
+Certainly, James. As it pertains to Opiant, obviously, we've had our eye on Opiant for some time, admiring the science from afar, and thought that now is the perfect time given everything that's going on in the disease space and the approach to potential approval and launch to bring it in and combine it with Indivior to optimize the asset and optimize its impact for patients in the disease space. 
+So we're excited about this opportunity. When it comes into incorporating this into Indivior, into synergies and things like that, I think the key here is this is a very complementary asset with different call points. So this is about the growth that it offers to Indivior. The value it offers our shareholders because of the diversification and the increase in net revenue. This is not about synergies.
+
+--------------------------------------------------------------------------------
+Operator    [16]
+--------------------------------------------------------------------------------
+We will now take the next question. It comes from the line of Carl Byrnes from Northland Capital Markets.
+
+--------------------------------------------------------------------------------
+Carl Edward Byrnes,  Northland Capital Markets, Research Division - MD & Senior Research Analyst    [17]
+--------------------------------------------------------------------------------
+Congratulations on the announcement. Obviously, this is a very nice complementary fit. I know you've touched on this, but I'm wondering if you might be able to outline a little bit more with what staffing you expect either existing or to be added to support the launch of OPNT003, both in the public interest in the retail segments. And then we would obviously include on a pro forma basis from what Opiant brings to the table and what Indivior brings to the table.
+
+--------------------------------------------------------------------------------
+Mark Crossley,  Indivior PLC - CEO & Executive Director    [18]
+--------------------------------------------------------------------------------
+Thanks, Carl. Nice to meet you, and I appreciate you joining the call. Listen, I think from a staffing standpoint, obviously, in the public interest, we'll have to staff up to reach that call platform. And that will, as Ryan indicated in his comments, result in some incremental operating expense with regards to building to that launch.
+When it comes to the exact guidance of this, I think we'll wait until the deal closes to provide that exact insight. And so I think that will be the appropriate time.
+
+--------------------------------------------------------------------------------
+Operator    [19]
+--------------------------------------------------------------------------------
+I would like to hand back the call over to Mark Crossley for final remarks.
+
+--------------------------------------------------------------------------------
+Mark Crossley,  Indivior PLC - CEO & Executive Director    [20]
+--------------------------------------------------------------------------------
+Thank you, Sandra. And with no more questions, I'd like to thank everyone for their continued support in Indivior. We are truly excited about this transaction and its strong strategic fit, potential to deliver value for shareholders and its impact on substance use disorder. We look forward to seeing everyone at our CMD Day, December 7, in New York City. Thank you.
+
+--------------------------------------------------------------------------------
+Operator    [21]
+--------------------------------------------------------------------------------
+That does conclude our conference for today. Thank you for participating. You may all disconnect.
+
+
+
+
+
+
+
+--------------------------------------------------------------------------------
+Definitions
+--------------------------------------------------------------------------------
+PRELIMINARY TRANSCRIPT: "Preliminary Transcript" indicates that the 
+Transcript has been published in near real-time by an experienced 
+professional transcriber.  While the Preliminary Transcript is highly 
+accurate, it has not been edited to ensure the entire transcription 
+represents a verbatim report of the call.
+
+EDITED TRANSCRIPT: "Edited Transcript" indicates that a team of professional 
+editors have listened to the event a second time to confirm that the 
+content of the call has been transcribed accurately and in full.
+
+--------------------------------------------------------------------------------
+Disclaimer
+--------------------------------------------------------------------------------
+Refinitiv reserves the right to make changes to documents, content, or other 
+information on this web site without obligation to notify any person of 
+such changes.
+
+In the conference calls upon which Event Transcripts are based, companies 
+may make projections or other forward-looking statements regarding a variety 
+of items. Such forward-looking statements are based upon current 
+expectations and involve risks and uncertainties. Actual results may differ 
+materially from those stated in any forward-looking statement based on a 
+number of important factors and risks, which are more specifically 
+identified in the companies' most recent SEC filings. Although the companies 
+may indicate and believe that the assumptions underlying the forward-looking 
+statements are reasonable, any of the assumptions could prove inaccurate or 
+incorrect and, therefore, there can be no assurance that the results 
+contemplated in the forward-looking statements will be realized.
+
+THE INFORMATION CONTAINED IN EVENT TRANSCRIPTS IS A TEXTUAL REPRESENTATION
+OF THE APPLICABLE COMPANY'S CONFERENCE CALL AND WHILE EFFORTS ARE MADE TO
+PROVIDE AN ACCURATE TRANSCRIPTION, THERE MAY BE MATERIAL ERRORS, OMISSIONS,
+OR INACCURACIES IN THE REPORTING OF THE SUBSTANCE OF THE CONFERENCE CALLS.
+IN NO WAY DOES REFINITIV OR THE APPLICABLE COMPANY ASSUME ANY RESPONSIBILITY FOR ANY INVESTMENT OR OTHER
+DECISIONS MADE BASED UPON THE INFORMATION PROVIDED ON THIS WEB SITE OR IN
+ANY EVENT TRANSCRIPT. USERS ARE ADVISED TO REVIEW THE APPLICABLE COMPANY'S
+CONFERENCE CALL ITSELF AND THE APPLICABLE COMPANY'S SEC FILINGS BEFORE
+MAKING ANY INVESTMENT OR OTHER DECISIONS.
+--------------------------------------------------------------------------------
+Copyright 2022 Refinitiv. All Rights Reserved.
+--------------------------------------------------------------------------------

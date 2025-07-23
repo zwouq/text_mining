@@ -1,0 +1,392 @@
+
+
+Refinitiv StreetEvents Event Transcript
+E D I T E D   V E R S I O N
+
+Pyxis Oncology Inc To Acquire Apexigen Inc Call
+MAY 24, 2023 / 1:00PM GMT
+
+================================================================================
+Corporate Participants
+================================================================================
+
+ * Xiaodong Yang
+   Apexigen, Inc. - CEO & Director
+ * Lara S. Sullivan
+   Pyxis Oncology, Inc. - CEO, President & Director
+ * Pamela Yanchik Connealy
+   Pyxis Oncology, Inc. - CFO & COO
+
+================================================================================
+Conference Call Participiants
+================================================================================
+
+ * Tsan-Yu Hsieh
+   William Blair & Company L.L.C., Research Division - Senior Research Analyst
+ * Unidentified Analyst
+    - 
+ * Brandon Carney
+    - 
+ * Charles Anthony Butler
+   EF Hutton, Research Division - Senior MD
+ * Samuel Evan Slutsky
+   LifeSci Capital, LLC, Research Division - Senior Research Analyst
+ * Aydin Huseynov
+   Ladenburg Thalmann & Co. Inc., Research Division - MD of Biotechnology Equity Research
+
+================================================================================
+Presentation
+--------------------------------------------------------------------------------
+Operator    [1]
+--------------------------------------------------------------------------------
+Good day, and thank you for standing by. Welcome to the Pyxis Oncology Corporate Update Conference Call. (Operator Instructions) Please be advised that today's conference is being recorded. 
+I would now like to hand the conference over to your speaker today, Lara Sullivan, CEO. Please go ahead.
+
+--------------------------------------------------------------------------------
+Lara S. Sullivan,  Pyxis Oncology, Inc. - CEO, President & Director    [2]
+--------------------------------------------------------------------------------
+Thank you. Good morning, and thank you for joining us today. My name is Lara Sullivan, and I'm the CEO of Pyxis Oncology. Thank you for joining us to discuss Pyxis Oncology's acquisition of Apexigen and the tremendous value we believe it can create for patients and investors. Joining me on today's call is Dr. Xiaodong Yang, Founder and CEO of Apexigen, and Pam Connealy, CFO and COO of Pyxis Oncology. 
+Next slide, please. Please note that today's presentation includes forward-looking statements. We encourage you to review these statements, which are available on our website. 
+Moving to Slide 2. I'm pleased to tell you why we are excited about our acquisition of Apexigen. This transaction is complementary to Pyxis Oncology in 3 ways. First, we are acquiring an antibody discovery platform that can provide a backbone to use with our internal stacked antibody drug conjugate or ADC toolkit, which was licensed from Pfizer. This commercially and clinically validated antibody creation engine called APXiMAB, can be used to accelerate our own internal ADC initiative. With the addition of APXiMAB, Pyxis Oncology is uniquely positioned at the forefront of ADC innovation with an unmatched end-to-end capability for creating next-generation ADC candidates. 
+Second, this acquisition brings us a promising immuno-oncology clinical asset in sotigalimab or SOTIGA, which may have broad potential utility across multiple oncology indications. SOTIGA is, in our view, a potentially best and first-in-class Phase II CD40 agonist that has demonstrated compelling efficacy and a favorable tolerability profile. Clinical results presented to date show that SOTIGA drives rapid, deep and durable responses in patients with a variety of difficult-to-treat solid tumors, including those relapsed or refractory to other immunotherapies. We look forward to seeing updated duration of response and progression-free survival or PFS data in patients with dedifferentiated liposarcoma, or DD LPS, a tumor with few viable treatment options at the upcoming ASCO this June. 
+Third, from a financial perspective, this is an excellent deal. APXiMAB generates an annual royalty stream, which totaled approximately $4 million in 2022 and has the potential to increase as the assets advance through their own clinical and commercial pathways. This acquisition is structured as an all-stock transaction, which is, in our view, reasonably valued at approximately $15 million. It leverages our team's decades of oncology clinical development experience and the IO heritage upon which Pyxis Oncology was initially founded. Importantly, while maintaining our cash runway into the first half of 2025 and keeping our PYX-201 and 106 programs on track. 
+Let's turn to Slide 3. Pyxis Oncology's acquisition of Apexigen is structured as an all-stock transaction, which is expected to close in mid-2023. In total, Pyxis will issue approximately 4 million shares for a total valuation of approximately $15 million. Pyxis shareholders will own 90% of the combined company upon closing. The Pyxis Oncology executive team will lead the organization and as mentioned, we continue to expect our cash balance to provide runway into the first half of 2025 while the combined entity will continue to be eligible for royalty streams and potential milestone payments from APXiMAB license agreements previously arranged by Apexigen. Closing is subject to standard regulatory approvals and customary conditions, including approval by a majority of Apexigen outstanding common shareholders. 
+Turning now to Slide 4. The FACT platform we licensed from Pfizer equips Pyxis to develop next-generation ADCs with improved plasma stability, better potency and improved tumor permeability due to optimized payloads, improved linker technology and site-specific conjugation chemistry. Adding the APXiMAB platform to our toolkit will enhance our ability to generate novel antibodies against the library of targets with high affinity and unique binding epitope. With these 2 platforms, Pyxis Oncology is uniquely positioned with an end-to-end system for creating novel next-generation ADCs. 
+Moving now to Slide 5. We intend to leverage the APXiMAB platform to generate antibodies to use as the backbone of our ADC generation platform. With proprietary cell lines and humanization technology, APXiMAB can create diverse rabbit-derived antibodies. The advantages of this platform include a higher likelihood of identifying a candidate for any given target, finding the best antibody for a particular use and creating antibodies with high specificity and affinity. 
+Turning now to Slide 6. I'd like to share the story of a patient who participated in the Phase II Melanoma study. This is a 54-year-old patient with melanoma who was initially treated with surgery and radiation, followed by treatment with ipilimumab or ipi and nivolumab or nivo. After 3 cycles of combination treatment, the patient had to stop ipi due to poor tolerability. The patient remained on nivo maintenance and after 10 months, developed rapid progression of metastatic disease at multiple sites, including the liver. The prognosis was poor, and this individual has limited effective treatment options available. Discussions with the patient's caregivers mentioned hospice as a possible next step. This patient enrolled in the Phase II trial evaluating SOTIGA in combination with nivo. 
+Please turn to Slide 7. Soon after beginning treatment, this patient responded, just 2 months after starting therapy. The patient was able to tolerate the combination of SOTIGA + nivo even though the patient had previously not been able to tolerate ipi. This individual completed 15 cycles of SOTIGA + nivo and achieved a partial response, including resolution of all lesions. The response lasted for 25-plus months on study following the conclusion of treatment, and this response was maintained for nearly an additional 2 years after study completion based on investigator observation. Clearly, this patient has had a rapid, deep and durable response to SOTIGA therapy. We believe this experience illustrates the incredible potential for SOTIGA, and we are excited about the possibilities it may offer for patients. 
+Moving now to Slide 8. SOTIGA is a CD40 agonist antibody. CD40 is a cell surface receptor that plays an important role in the control and regulation of the immune system's ability to mount antitumor immune responses. Targeting the CD40 pathway is a promising approach that may be able to efficiently initiate, stimulate and reactivate T-cell responses. CD40 activation may generate both innate and adaptive immune activity across dendritic cells, macrophages and T-cells, leading to broad and powerful antitumor immune responses that may synergize with existing approaches and potentially help to overcome checkpoint inhibitor resistance. 
+Please turn to Slide 9. SOTIGA was rationally designed to be differentiated and best-in-class with 2 key modifications to increase potency and tolerability compared to other CD40 agonists. First, SOTIGA binds with high affinity to the native CD40 ligand binding domain to closely mimic natural CD40 ligand signaling, which may lead to higher potency. This enables SOTIGA to uniquely activate dendritic cells, which are the most important antigen presenting cells and to stimulate robust production of the cytokine IL-12, which activates naive T-cells more effectively than other CD40 agonists. 
+Second, the Fc region of the antibody was designed to maximize activity through receptor clustering and improve tolerability by reducing immune cell effector function. Importantly, the goals of these design features are being demonstrated by the emerging differentiated clinical profile. 
+Next slide, please. Phase II data demonstrates the activity and prolonged responses of the combination of SOTIGA + nivo generated in melanoma patients who are refractory to anti-PD-L1. This study enrolled patients with relapsed or refractory metastatic melanoma who had confirmed progressive disease on anti-PD-1 treatment. Approximately 1/4 of these patients had also received prior anti-CTLA-4 therapy. Results showed strong activity in this difficult-to-treat group of patients with a 15.2% partial response or PR rate, and a 30.3% stable disease or SD rate. Importantly, responses were rapid, deep and durable and the combination of SOTIGA + nivo was very well tolerated. 
+Now turning to Slide 11. Tolerability is important and can be very differentiating, particularly for therapeutics that are part of a combination regimen and for more fragile treatment experienced patients who often struggle to remain on therapy. The safety profile of SOTIGA in combination with nivo in patients with melanoma was in line with expectations for each drug independently. Reported grade 3 or greater related treatment-emergent adverse events consisted of increases of alanine aminotransferase in 2 patients, an increase of aspartate aminotransferase also in 2 patients. In this and other previously reported studies in which SOTIGA was administered in combination with an anti-PD-1 or chemotherapy in patients with melanoma or esophageal GEJ cancers, no additive or synergistic toxicities were observed. 
+Next, on Slide 12. Although immune checkpoint inhibitors are among the most recently approved options for patients with melanoma, unfortunately, the majority of patients, 60% to 70% do not respond to treatment. For those who do respond, 20% to 30% will eventually relapse. The result of these dynamics is a growing population of second line and later patients who are immune checkpoint inhibitor refractory or resistant. This group, for whom no other good treatment options exist, numbers approximately 9,000 plus today in the U.S. There is no approved standard of care for melanoma patients who have failed both anti-PD-1 and anti-CTLA-4 therapy. Based on the emerging clinical data, we believe SOTIGA has the potential to change the treatment paradigm for metastatic melanoma. 
+Please turn now to Slide 13. The Results from an ongoing investigator-initiated Phase II trial of SOTIGA plus doxorubicin showed meaningful clinical benefit with robust durable responses and a high rate of durable disease control across multiple liposarcoma subtype. These results suggest that SOTIGA may have value in this setting, particularly in certain subtypes of liposarcoma. In a subset of 10 DD LPS patients, the interim medium PFS was 12.45 months. This initial result is more than double the historical median PFS of less than 5 months for these patients. The 10 DD LPS patients enrolled in this cohort were heavily pretreated, in some cases with other IO therapies. We are encouraged by these results and look forward to seeing updated duration in PFS data from the 10 DD LPS patient cohort at this year's upcoming ASCO Annual Meeting in June. 
+Now moving to Slide 14. Liposarcomas are a rare tumor type, affecting approximately 3,000 patients per year in the United States. There have been a few new treatment options introduced for these patients in recent years, and the current standard of care is doxorubicin chemotherapy. DD LPS is an aggressive subtype of liposarcoma with an incidence of about 300 patients per year with high levels of recurrence and metastasis. It is often radiation and chemotherapy insensitive and responses to first-line doxorubicin chemotherapy are typically less than 15% with a median PFS of just 2 to 5 months. Patients are limited in the number of doxorubicin cycles they can receive due to cumulative cardiotoxicity. Clearly, there is a significant need for new treatment options in this setting and importantly, SOTIGA has received orphan drug designation in soft tissue sarcoma, which may enable a fast-to-patient development approach. 
+Please turn to Slide 15. In summary, SOTIGA may be a best and first-in-class CD40 agonist, and we are excited about the potential it offers for patients. Emerging clinical data show that SOTIGA drives rapid, deep and durable responses in patients with a variety of difficult-to-treat solid tumors, including those relapsed or refractory to other immunotherapies. We believe this strong activity, combined with a favorable tolerability profile, may position SOTIGA to be the backbone of many combination therapy regimens. We look forward to quickly advancing this innovative candidate for patients who currently have limited treatment options and believe we may have an opportunity to implement a faster to patient approach with SOTIGA, particularly in the DD LPS setting. 
+Beyond melanoma and liposarcoma, we believe SOTIGA may have applicability across a variety of tumor types, given its powerful mechanism of action, potential for synergy with other therapies and favorable tolerability profile. We may look for opportunities to work with partners to drive development of SOTIGA in additional tumor types. 
+Moving now to Slide 16. Following this transaction close, Pyxis Oncology will have a pipeline focused on ADC and IO-based approaches to solid tumors that is balanced across modalities, stages of development and risk. Two of our pipeline candidates have received orphan drug designation. For SOTIGA and second-line melanoma, we plan to begin a Phase II dose finding study in 2024. In DD LPS, we look forward to seeing more data at ASCO, and we plan to expand the ongoing study to add an additional cohort of 10 patients to inform next steps in this indication. 
+Our Phase I trial of PYX-201, our ADC targeting EDB fibronectin is off to a great start. PYX-201 is a novel ADC license from Pfizer that targets extra Domain B or EDB of fibronectin. We continue to expect to see preliminary data from this study, including biomarker results and potential early signs of clinical activity in early 2024. 
+PYX-106 is a fully human immunotherapy antibody candidate that blocks activity of siglec-15, an immune suppressor expressed across a broad range of tumors. Our clinical trial incorporates a biomarker analysis that will provide meaningful insights into potential patient populations that may benefit from PYX-106 and lay the foundation for future studies. We remain on track to see preliminary data from this Phase I trial, including biomarker results and potential early signs of clinical activity in the late 2023 time frame. 
+Finally, we can use the commercially and clinically validated APXiMAB platform, which will enable production of novel antibodies in combination with our proprietary FAC ADC platform from Pfizer to generate a steady stream of development candidates going forward. 
+Please turn to Slide 17. The Pyxis Oncology executive team is extremely experienced across both pharma and biotech. Each of our executives is passionate about building companies and creating value for patients and shareholders. We have the experience to execute across all corporate functions and understand the processes necessary for success in business development, portfolio management and company and product acquisitions. 
+I'm pleased that Xiaodong Yang, Founder and CEO of Apexigen, will join Pyxis Oncology to support the R&D transition activities. This team is well positioned to lead the combined organization and deliver our programs for patients. 
+Now moving to Slide 18. Our organization is comprised of highly experienced drug developers, and we have deliberately assembled a team across all levels with extensive backgrounds in oncology. We believe that putting great science into the hands of an experienced team is the fastest route to value creation for both shareholders and patients. We know what successful drug development looks like having participated in more than 150 drug approvals and launches over the course of our careers across both pharma and biotech before joining Pyxis. The breadth and depth of our team's oncology experience and the pharma trained biotech seasoned approach we've employed to build our organization, both uniquely differentiate Pyxis from its biotech peers. 
+Please turn now to Slide 19. At Pyxis Oncology, our goal is to liberate science to improve and extend the lives of patients with cancer. We employ a multi-modality approach to innovation across immuno-oncology, ADCs and adjacent approaches and are interested in the best science regardless of whether it is sourced internally or externally. Our programs have multiple potential clinical and data catalysts over the next 12 to 18 months. Our team is uniquely experienced to deliver on our pipeline, and we have a strong balance sheet that will provide runway into the first half of 2025. 
+We will be at the Jefferies Conference in New York City in early June and hope to see many of you there. Thank you for joining us today. We are excited about the transformative potential of this transaction for Pyxis Oncology, and we appreciate your interest. 
+Now we'll move to Q&A. Operator, can you please provide instructions for participants to ask questions?
+
+
+================================================================================
+Questions and Answers
+--------------------------------------------------------------------------------
+Operator    [1]
+--------------------------------------------------------------------------------
+(Operator Instructions) Our first question comes on the line of Yuan Zhi from B. Riley.
+
+--------------------------------------------------------------------------------
+Brandon Carney,   -     [2]
+--------------------------------------------------------------------------------
+This is Brandon Carney on for Yuan. Congratulations on the acquisition. 
+I guess, first of all, for FTS for the SOTIGA data, I'm just wondering [if] the data compares to the data being generated by next-gen CTLA based regimens, which was highlighted at the recent CTOS conference and may also be showcased at the upcoming ASCO alongside SOTIGA data set?
+
+--------------------------------------------------------------------------------
+Lara S. Sullivan,  Pyxis Oncology, Inc. - CEO, President & Director    [3]
+--------------------------------------------------------------------------------
+Yes. Thank you very much for your interest and for the question. I'll ask Xiaodong to respond to that, please.
+
+--------------------------------------------------------------------------------
+Xiaodong Yang,  Apexigen, Inc. - CEO & Director    [4]
+--------------------------------------------------------------------------------
+I'm sorry, I missed first part of your question. Can you repeat -- a comparison with which data?
+
+--------------------------------------------------------------------------------
+Brandon Carney,   -     [5]
+--------------------------------------------------------------------------------
+Yes, just the next-gen CTLA for like (inaudible) data that was highlighted at CTOS and I believe we have other CTLA data coming up at ASCO that should be presented alongside the SOTIGA data set.
+
+--------------------------------------------------------------------------------
+Xiaodong Yang,  Apexigen, Inc. - CEO & Director    [6]
+--------------------------------------------------------------------------------
+From which indication? Sorry, I'm not too familiar with the new generation CTLA-4 data. Which indication?
+
+--------------------------------------------------------------------------------
+Brandon Carney,   -     [7]
+--------------------------------------------------------------------------------
+Yes. They presented sarcoma data at CTOS, I think we saw a 46% response rate, 69% DCR. Just wondering if you've had a chance to maybe look at that and then how SOTIGA might compare to that data set?
+
+--------------------------------------------------------------------------------
+Xiaodong Yang,  Apexigen, Inc. - CEO & Director    [8]
+--------------------------------------------------------------------------------
+Yes. So currently, we will review the data more carefully about the new CTLA-4 antibody in sarcoma. I think in our case, we have a very well-defined mechanism of action for combining SOTIGA with doxorubicin. As you know very well, doxorubicin is a well-known immunogenic chemotherapy. So the idea -- the rationale for combining SOTIGA with doxorubicin is that doxorubicin can generate immunogenic tumor death and tumor antigen release. Then you come with SOTIGA which can act with APC to lead to T-cell activation eventually leading to a more effective antitumor response. 
+As you probably know very well for sarcoma, the approval endpoint is the PFS and overall survival. And we will provide more updates on the liposarcoma and also on the efficacy data on the all 3 subtypes of soft tissue sarcoma in the ASCO meeting, I think, in early June. So you will see the data, we can compare our updated data with the other new CTLA-4 antibody data. So we can see where we are the differences, what may be the different line of therapies or different combinations.
+
+--------------------------------------------------------------------------------
+Brandon Carney,   -     [9]
+--------------------------------------------------------------------------------
+Okay. Maybe also just wanted to ask on potential registration-enabling study. Do you think it will be in melanoma or [STS] or is it too soon to sell right now? And in that kind of study, how would you manage liver enzyme signals?
+
+--------------------------------------------------------------------------------
+Lara S. Sullivan,  Pyxis Oncology, Inc. - CEO, President & Director    [10]
+--------------------------------------------------------------------------------
+Yes. So thank you for that question. We are actually going to be sort of working together with Xiaodong and his team to define the next steps on the path forward on the asset. So at this juncture today, we're not commenting on what the regulatory strategy will be, but we do commit to come back to the Street, to the analyst, investors on that later this summer following the transaction close.
+
+--------------------------------------------------------------------------------
+Operator    [11]
+--------------------------------------------------------------------------------
+Our next question comes from the line of Andy Hsieh from William Blair.
+
+--------------------------------------------------------------------------------
+Tsan-Yu Hsieh,  William Blair & Company L.L.C., Research Division - Senior Research Analyst    [12]
+--------------------------------------------------------------------------------
+So regarding the CD40 agonist program, I'm just curious if there are any plans for biomarkers or any investigational biomarkers that could help you identify patients who otherwise might benefit the most, just to enrich the signal there a little bit? 
+And my second question has to do with potential synergy with your ADCs and antibodies in-house. Are there any scientific rationale to look at combinations there? I know Xiaodong, you basically talked about immunogenic cell death, which is kind of a hot topic for the ADC field these days. Just curious about your thoughts there.
+
+--------------------------------------------------------------------------------
+Lara S. Sullivan,  Pyxis Oncology, Inc. - CEO, President & Director    [13]
+--------------------------------------------------------------------------------
+Sure. So in terms of the first question with respect to biomarker strategy, we do have a strong translational capability within Pyxis already. We see kind of the integration of our capabilities and the capabilities that Xiaodong has built to be very complementary. So again, we're going to be really putting heads together over the next few weeks or months to best define the optimal path forward for all elements of the development approach for the asset. So Andy, we'll come back to you further on the biomarker strategy as we do that work together. 
+Secondly, in terms of the synergy with the ADC, the FACT platform that we had licensed in from Pfizer, as you know, Xiaodong is been quite successful in building this antibody platform within Apexigen as well as antibody work that he's done in past lives. And we're particularly enthusiastic now about the ability to have antibody creation owned within the combined entity that fits in quite nicely with the conjugation chemistry, the linkers, the payloads that we brought over from Pfizer. 
+Xiaodong, I don't know if you want to comment any further about kind of your enthusiasm around the integration of the 2 platforms?
+
+--------------------------------------------------------------------------------
+Xiaodong Yang,  Apexigen, Inc. - CEO & Director    [14]
+--------------------------------------------------------------------------------
+Sure. I think, Lara, you illustrated the potential and also the rationale for a potential combination of ADC approach we saw -- see before the agonist. I think, quite honestly, one of the rationale and motivation for the business combination is the combination of the ADC platform that Pyxis has developed and the first candidate is PYX-201. I think that's a perfect combination with SOTIGA because the potential release of 2 antigens after the ADC, killing tumor cells or tumor [stroma]. I think we have a huge potential to explore that PYX-201 finished Phase I, we can immediately start the combination of SOTIGA with 201, that's kind of my thinking about. Of course, we will discuss together with Lara and our team to make sure that these -- we can actually implement a combination trial in the future.
+
+--------------------------------------------------------------------------------
+Operator    [15]
+--------------------------------------------------------------------------------
+Our next question comes from the line of Sam Slutsky from LifeSci Capital.
+
+--------------------------------------------------------------------------------
+Samuel Evan Slutsky,  LifeSci Capital, LLC, Research Division - Senior Research Analyst    [16]
+--------------------------------------------------------------------------------
+A couple for me. I guess, in terms of making new ADCs via Apexigen's antibody platform and then your ADC tech, what might those time lines look like in terms of when we might see new targets coming to the pipeline as we hear about them, et cetera?
+
+--------------------------------------------------------------------------------
+Lara S. Sullivan,  Pyxis Oncology, Inc. - CEO, President & Director    [17]
+--------------------------------------------------------------------------------
+Yes. Thanks, Sam. It's always great to connect with you. We are pretty enthusiastic given the advanced nature of the antibody platform that Xiaodong is bringing over that will be able to impact in a positive way the time lines for us to create new ADCs. Right now, we don't want to give specific guidance yet on the time lines around kind of the next wave of the pipeline. But as we come back post the transaction close, we'll make sure to provide guidance around our thoughts on the ADC creation engine as well as SOTIGA.
+
+--------------------------------------------------------------------------------
+Samuel Evan Slutsky,  LifeSci Capital, LLC, Research Division - Senior Research Analyst    [18]
+--------------------------------------------------------------------------------
+And then for the royalty streams on the out-licensed assets, the partnered ones. Can you just remind me what those terms look like across the pipeline?
+
+--------------------------------------------------------------------------------
+Lara S. Sullivan,  Pyxis Oncology, Inc. - CEO, President & Director    [19]
+--------------------------------------------------------------------------------
+Sure. Pam or Xiaodong, do you want to comment on that?
+
+--------------------------------------------------------------------------------
+Xiaodong Yang,  Apexigen, Inc. - CEO & Director    [20]
+--------------------------------------------------------------------------------
+Pam, do you want to?
+
+--------------------------------------------------------------------------------
+Pamela Yanchik Connealy,  Pyxis Oncology, Inc. - CFO & COO    [21]
+--------------------------------------------------------------------------------
+Yes, I'm happy to take it. So the company today received royalties from Novartis for their Beovu that was commercialized back in 2019. Today, they get about 1% royalty on worldwide net sales, and it goes into perpetuity. So right now, between 2020 and 2022, they've averaged about $2 million a year for a total of $6.2 million. 
+The other license agreements have kind of 3% on the [Sincere] collaboration, annual sales below CNY 100 million and then [4] for anything above. So again, just kind of your typical royalty streams coming out of the other 3 opportunities there. But that is part of -- as Lara mentioned in the call, that is really the third leg of the stool of why this was a meaningful acquisition for us is to be able to get these royalty streams in as well along with the platform and the CD40 asset.
+
+--------------------------------------------------------------------------------
+Samuel Evan Slutsky,  LifeSci Capital, LLC, Research Division - Senior Research Analyst    [22]
+--------------------------------------------------------------------------------
+And then just last question for me. For the 10 patients with dedifferentiated liposarcoma that are presented on. Were those patients naive to prior doxorubicin or what was their private treatment status?
+
+--------------------------------------------------------------------------------
+Lara S. Sullivan,  Pyxis Oncology, Inc. - CEO, President & Director    [23]
+--------------------------------------------------------------------------------
+Xiaodong, do you want to comment on that?
+
+--------------------------------------------------------------------------------
+Xiaodong Yang,  Apexigen, Inc. - CEO & Director    [24]
+--------------------------------------------------------------------------------
+Yes. It's a mix, I think, formally half-half. Half of them are treatment-naive patients, half of them receive multiple (inaudible) therapy up to 6-round of (inaudible) therapy.
+
+--------------------------------------------------------------------------------
+Operator    [25]
+--------------------------------------------------------------------------------
+Our next question comes from the line of Charles Tony Butler from EF Hutton Group.
+
+--------------------------------------------------------------------------------
+Charles Anthony Butler,  EF Hutton, Research Division - Senior MD    [26]
+--------------------------------------------------------------------------------
+So Lara, and maybe Xiaodong this question, may be a tad unfair except that I want to focus on the DD LPS patient group with SOTIGA. The additional extension of 10 patients will occur -- I guess I'm asking maybe how rapidly post-close that you may be able to enroll those patients. And I say this because the PFS was extraordinarily positive on certainly the first 10 especially given the competitive landscape. And as you know, the milademetan trial failed most recently. So certainly, not only given the PFS, but certainly seeing an additional 10 patients would I guess, lead to a perfectly rational registrational trial post that. So I don't know if you wanted to expand a little bit on that time.
+
+--------------------------------------------------------------------------------
+Lara S. Sullivan,  Pyxis Oncology, Inc. - CEO, President & Director    [27]
+--------------------------------------------------------------------------------
+Yes. Thanks, Tony. I appreciate the question. So we, at Pyxis, have built a fully skilled and capable clinical organization as we progressed into the clinic now having dosed our first patient in 201 and the imminent dosing with 106. So our team is ready to go as we absorb SOTIGA and the assets from Apexigen. 
+To your point, I think the patient interest and the unmet need is there. The infrastructure is there on our side, the relationships with the KOLs and the PIs are in place from the Apexigen side. So really, all the elements are in place, and we are sort of going forward as appropriate within kind of SEC guidelines of how we're able to work together during this interim period prior to the close. So we don't intend to have anything slow down, but we are very careful about continuing to operate as independent entities until the close. 
+So I think we'll be providing, again, further guidance on the specifics around the time lines after the close. That being said, I just want to provide reassurance that all the elements that are in place that enable sort of swift execution are there on both sides.
+
+--------------------------------------------------------------------------------
+Operator    [28]
+--------------------------------------------------------------------------------
+(Operator Instructions) Our next question comes from the line of Aydin Huseynov from Ladenburg.
+
+--------------------------------------------------------------------------------
+Aydin Huseynov,  Ladenburg Thalmann & Co. Inc., Research Division - MD of Biotechnology Equity Research    [29]
+--------------------------------------------------------------------------------
+Congratulations with the deal. So what I have is regarding the agent activity of SOTIGA, provide any comments and your thoughts about potential signals from single-agent activity or in any cancer type. Or maybe you could comment on single agent activity of the other CD40 agents that you may cite as an example.
+
+--------------------------------------------------------------------------------
+Lara S. Sullivan,  Pyxis Oncology, Inc. - CEO, President & Director    [30]
+--------------------------------------------------------------------------------
+Yes. Xiaodong, would you like to take that?
+
+--------------------------------------------------------------------------------
+Xiaodong Yang,  Apexigen, Inc. - CEO & Director    [31]
+--------------------------------------------------------------------------------
+Sure. And yes, so for sotigalimab, we have ongoing Phase II trial evaluating sotigalimab as a monotherapy in immunotherapy-naive patients -- naive melanoma patients. So far, we have seen 2 patients had a complete response over 1 year and we are about to finish this study and we'll present data in the near future. 
+Regarding other CD40 agonist antibody, because the change of standard of care for different indications, it has been very challenging to do a single agent activity trials, but it has been reported the Roche antibody when it was developed by Pfizer had a show 27% response rate, again, in immunotherapy naive melanoma patients that was reported a few years ago. And I don't recall I have seen any other CD40 agonist antibody have shown they have some single-agent activity, but it's not a trial that many of these cases actually is data that's in the dose escalation Phase I trial.
+
+--------------------------------------------------------------------------------
+Aydin Huseynov,  Ladenburg Thalmann & Co. Inc., Research Division - MD of Biotechnology Equity Research    [32]
+--------------------------------------------------------------------------------
+Understood. And generally speaking, do you think CD40 agents would first come to the market as a single agent drug or that would be a combination trial? I'm just thinking of general regulatory path for all CD40 agents, not necessarily just yours.
+
+--------------------------------------------------------------------------------
+Xiaodong Yang,  Apexigen, Inc. - CEO & Director    [33]
+--------------------------------------------------------------------------------
+Lara, do you want me to take? Or you want me to start?
+
+--------------------------------------------------------------------------------
+Lara S. Sullivan,  Pyxis Oncology, Inc. - CEO, President & Director    [34]
+--------------------------------------------------------------------------------
+Yes. I think -- why don't you go ahead?
+
+--------------------------------------------------------------------------------
+Xiaodong Yang,  Apexigen, Inc. - CEO & Director    [35]
+--------------------------------------------------------------------------------
+Yes. I think based on the change of landscape of standard of care for almost all solid tumor indications, it's going to be very challenging to do a single agent Phase III trials. I think it has to be a combination. Even in the first line or even the last line. I mean in last one, you can do a single agent trial, but I think -- my thinking is that for most of the CD40 agonists, probably the most productive Phase III development strategy is going to be a combination with the standard of care.
+
+--------------------------------------------------------------------------------
+Aydin Huseynov,  Ladenburg Thalmann & Co. Inc., Research Division - MD of Biotechnology Equity Research    [36]
+--------------------------------------------------------------------------------
+Okay. Okay. Understood. All right. One on liposarcoma data, so you have a pretty encouraging data at PFS, 12.5 months. Could you remind us what was the 95% confidence interval in prior doxorubicin, which is standard of care trial? So what's -- just to try to sort of see how it compares to the combination.
+
+--------------------------------------------------------------------------------
+Xiaodong Yang,  Apexigen, Inc. - CEO & Director    [37]
+--------------------------------------------------------------------------------
+Yes, I do have the number. Maybe I'll give you later on. It's on top of mind, but I'll find that information, provide it to you later.
+
+--------------------------------------------------------------------------------
+Aydin Huseynov,  Ladenburg Thalmann & Co. Inc., Research Division - MD of Biotechnology Equity Research    [38]
+--------------------------------------------------------------------------------
+And one last one monetization -- sorry, on royalties. So the question is, have you thought about monetization, the royalties for Beovu, for -- with [AMD]indication? And if you do think about it, how much would you value that potential monetization deal?
+
+--------------------------------------------------------------------------------
+Lara S. Sullivan,  Pyxis Oncology, Inc. - CEO, President & Director    [39]
+--------------------------------------------------------------------------------
+Yes. So we are certainly open to considering all forms of business development transactions as well as ways to increase the cash balance of the company. So royalty monetization is something we do think about, at the macro level across the pipeline, not just for this asset. But obviously, these royalty streams are in place right now. So it's something we're continuing to evaluate to monitor. I think that it's premature for us to provide any sort of guidance or speculation around what the value of that could be. But having that optionality with respect to receiving the royalties as well as potentially monetizing them is certainly helpful from our cash management and financing strategy.
+
+--------------------------------------------------------------------------------
+Operator    [40]
+--------------------------------------------------------------------------------
+Our next question comes from the line of Eun Yang from Jefferies.
+
+--------------------------------------------------------------------------------
+Unidentified Analyst,   -     [41]
+--------------------------------------------------------------------------------
+This is [Mella] on for Eun. I was wondering if you could please provide some guidance on how we should think about on how OpEx is expected to increase from the deal?
+
+--------------------------------------------------------------------------------
+Lara S. Sullivan,  Pyxis Oncology, Inc. - CEO, President & Director    [42]
+--------------------------------------------------------------------------------
+I'm sorry, I missed the middle part of the question. How -- what is expected to increase?
+
+--------------------------------------------------------------------------------
+Unidentified Analyst,   -     [43]
+--------------------------------------------------------------------------------
+On how OpEx is expected to increase from the deal?
+
+--------------------------------------------------------------------------------
+Lara S. Sullivan,  Pyxis Oncology, Inc. - CEO, President & Director    [44]
+--------------------------------------------------------------------------------
+Okay. Pam, do you want to comment on that?
+
+--------------------------------------------------------------------------------
+Pamela Yanchik Connealy,  Pyxis Oncology, Inc. - CFO & COO    [45]
+--------------------------------------------------------------------------------
+I'm sorry, I still couldn't hear.
+
+--------------------------------------------------------------------------------
+Lara S. Sullivan,  Pyxis Oncology, Inc. - CEO, President & Director    [46]
+--------------------------------------------------------------------------------
+The question was to comment on how OpEx may increase as a result of the deal.
+
+--------------------------------------------------------------------------------
+Pamela Yanchik Connealy,  Pyxis Oncology, Inc. - CFO & COO    [47]
+--------------------------------------------------------------------------------
+Yes. Great. Thanks for the question, and good to see you on the call. We don't expect operating expenses to increase in any significant way. We have a very scalable infrastructure both on the G&A side as well as within R&D to be able to support this anti-CD40 asset coming in. So we don't expect any real appreciable increase in operating expenses. 
+The Apexigen team has done a great job of already getting clinical materials ready for even Phase III. So that expense has already been undertaken. So we feel very confident in our ability to absorb this asset and with the current team in place.
+
+--------------------------------------------------------------------------------
+Operator    [48]
+--------------------------------------------------------------------------------
+At this time, I would now like to turn the conference back over to Lara Sullivan for closing remarks.
+
+--------------------------------------------------------------------------------
+Lara S. Sullivan,  Pyxis Oncology, Inc. - CEO, President & Director    [49]
+--------------------------------------------------------------------------------
+Perfect. Thank you. Thanks to all who participated in the conference today and for your questions. We very much appreciate your interest in the combined company going forward. We're excited about the potential to support patients, both with the current clinical pipeline that we have, and the potential future pipeline that we'll be building by bringing our capabilities together. 
+So thank you. And we're also happy to take any one-to-one follow-up meetings as interest dictate. So we look forward to continuing to share the story with you, and I hope you have a great rest of your day.
+
+--------------------------------------------------------------------------------
+Operator    [50]
+--------------------------------------------------------------------------------
+This concludes today's conference call. Thank you for participating. You may now disconnect.
+
+
+
+
+
+
+
+--------------------------------------------------------------------------------
+Definitions
+--------------------------------------------------------------------------------
+PRELIMINARY TRANSCRIPT: "Preliminary Transcript" indicates that the 
+Transcript has been published in near real-time by an experienced 
+professional transcriber.  While the Preliminary Transcript is highly 
+accurate, it has not been edited to ensure the entire transcription 
+represents a verbatim report of the call.
+
+EDITED TRANSCRIPT: "Edited Transcript" indicates that a team of professional 
+editors have listened to the event a second time to confirm that the 
+content of the call has been transcribed accurately and in full.
+
+--------------------------------------------------------------------------------
+Disclaimer
+--------------------------------------------------------------------------------
+Refinitiv reserves the right to make changes to documents, content, or other 
+information on this web site without obligation to notify any person of 
+such changes.
+
+In the conference calls upon which Event Transcripts are based, companies 
+may make projections or other forward-looking statements regarding a variety 
+of items. Such forward-looking statements are based upon current 
+expectations and involve risks and uncertainties. Actual results may differ 
+materially from those stated in any forward-looking statement based on a 
+number of important factors and risks, which are more specifically 
+identified in the companies' most recent SEC filings. Although the companies 
+may indicate and believe that the assumptions underlying the forward-looking 
+statements are reasonable, any of the assumptions could prove inaccurate or 
+incorrect and, therefore, there can be no assurance that the results 
+contemplated in the forward-looking statements will be realized.
+
+THE INFORMATION CONTAINED IN EVENT TRANSCRIPTS IS A TEXTUAL REPRESENTATION
+OF THE APPLICABLE COMPANY'S CONFERENCE CALL AND WHILE EFFORTS ARE MADE TO
+PROVIDE AN ACCURATE TRANSCRIPTION, THERE MAY BE MATERIAL ERRORS, OMISSIONS,
+OR INACCURACIES IN THE REPORTING OF THE SUBSTANCE OF THE CONFERENCE CALLS.
+IN NO WAY DOES REFINITIV OR THE APPLICABLE COMPANY ASSUME ANY RESPONSIBILITY FOR ANY INVESTMENT OR OTHER
+DECISIONS MADE BASED UPON THE INFORMATION PROVIDED ON THIS WEB SITE OR IN
+ANY EVENT TRANSCRIPT. USERS ARE ADVISED TO REVIEW THE APPLICABLE COMPANY'S
+CONFERENCE CALL ITSELF AND THE APPLICABLE COMPANY'S SEC FILINGS BEFORE
+MAKING ANY INVESTMENT OR OTHER DECISIONS.
+--------------------------------------------------------------------------------
+Copyright 2023 Refinitiv. All Rights Reserved.
+--------------------------------------------------------------------------------

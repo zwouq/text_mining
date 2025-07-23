@@ -1,0 +1,582 @@
+
+
+Refinitiv StreetEvents Event Transcript
+E D I T E D   V E R S I O N
+
+Axsome Therapeutics Inc to Discuss the Acquisition of Sunosi from Jazz Pharmaceuticals PLC- Conference Call
+MARCH 28, 2022 / 12:00PM GMT
+
+================================================================================
+Corporate Participants
+================================================================================
+
+ * Herriot Tabuteau
+   Axsome Therapeutics, Inc. - Founder, Chairman, CEO & President
+ * Lori Englebert
+   Axsome Therapeutics, Inc. - SVP of Commercial & Business Development
+ * Nick Pizzie
+   Axsome Therapeutics, Inc. - CFO
+ * Mark L. Jacobson
+   Axsome Therapeutics, Inc. - COO & Secretary
+ * Amanda Jones
+   Axsome Therapeutics, Inc. - SVP of Clinical Development
+
+================================================================================
+Conference Call Participiants
+================================================================================
+
+ * Christopher Lawrence Howerton
+   Jefferies LLC, Research Division - Equity Analyst
+ * Robert Cummins Hazlett
+   BTIG, LLC, Research Division - MD & Biotechnology Equity Research Analyst
+ * Jason Matthew Gerberry
+   BofA Securities, Research Division - MD in US Equity Research
+ * Marc Harold Goodman
+   SVB Leerink LLC, Research Division - Senior MD of Neuroscience & Senior Research Analyst
+ * Unidentified Analyst
+    - 
+ * Joon So Lee
+   Truist Securities, Inc., Research Division - VP
+ * Myles Robert Minter
+   William Blair & Company L.L.C., Research Division - Analyst
+ * Yatin Suneja
+   Guggenheim Securities, LLC, Research Division - MD & Senior Biotechnology Analyst
+ * Gospel M. Enyindah-Asonye
+   Morgan Stanley, Research Division - Research Associate
+ * Joseph John-Charles Thome
+   Cowen and Company, LLC, Research Division - VP of Healthcare
+ * Vamil Kishore Divan
+   Mizuho Securities USA LLC, Research Division - MD
+ * Charles Cliff Duncan
+   Cantor Fitzgerald & Co., Research Division - Senior Analyst
+
+================================================================================
+Presentation
+--------------------------------------------------------------------------------
+Operator    [1]
+--------------------------------------------------------------------------------
+Good morning, and welcome to the Axsome Therapeutics conference call. (Operator Instructions) As a reminder, today's conference call is being recorded, and an accompanying presentation is available on the company's website. I would now like to turn the conference over to your host, Mark Jacobson, Chief Operating Officer at Axsome Therapeutics. Please go ahead.
+
+--------------------------------------------------------------------------------
+Mark L. Jacobson,  Axsome Therapeutics, Inc. - COO & Secretary    [2]
+--------------------------------------------------------------------------------
+Thank you, operator. Good morning, and thank you all for joining us on today's conference call. 
+During today's call, we will be making certain forward-looking statements. These statements may include statements regarding, among other things, the efficacy, safety and intended utilization of our investigational agents, our clinical and nonclinical plans, our plans to present or report additional data, the anticipated conduct and the source of future clinical trials, regulatory plans, future research and development plans, commercial plans and possible intended use of cash and investments. These forward-looking statements are based on current information, assumptions and expectations that are subject to change and involve risks and uncertainties that may cause actual results to differ materially from those contained in the forward-looking statements. 
+These and other risks are described in our periodic filings made with the Securities and Exchange Commission, including our quarterly and annual reports. You are cautioned not to place undue reliance on these forward-looking statements, which are only made as of today's date, and the company disclaims any obligation to update such statements. 
+Joining me on the call today are Dr. Herriot Tabuteau, Chief Executive Officer; Nick Pizzie, Chief Financial Officer; Lori Englebert, Senior Vice President of Commercial and Business Development; and Dr. Amanda Jones, Senior Vice President of Clinical Development. Herriot will first provide a general overview. Lori will then provide commercial commentary, and finally, Nick will review details of the transaction. We will then open the line for questions. Questions will be taken in the order they are received. And with that, I will turn the call over to Herriot.
+
+--------------------------------------------------------------------------------
+Herriot Tabuteau,  Axsome Therapeutics, Inc. - Founder, Chairman, CEO & President    [3]
+--------------------------------------------------------------------------------
+Thank you, Mark. Good morning, everyone. We are pleased to announce that we have entered into a definitive agreement to acquire Sunosi from Jazz Pharmaceuticals. Sunosi is a dual-acting dopamine and norepinephrine reuptake inhibitor, or DNRI, approved to improve wakefulness in adult patients with excessive daytime steadiness, or EDS, due to narcolepsy or obstructive sleep apnea, or OSA. 
+The addition of Sunosi to our portfolio will immediately transform Axsome into a global commercial entity, expand our leadership in neuroscience and accelerate our mission to deliver potentially life-changing medicines to people living with serious CNS conditions. Sunosi has excellent strategic fit with our current portfolio, which includes our 2 lead product candidates, AXS-05 for the treatment of major depressive this quarter and AXS-07 for the acute treatment of migraine. Both of these product candidates are currently ongoing active NDA reviews. 
+Before discussing the Sunosi acquisition further, let me first provide a brief update on the status of these NDAs. Starting with the AXS-05 NDA for major depressive disorder. At the end of last year, we submitted a response to the FDA addressing the previously disclosed deficiencies related to analytical methods in the chemistry, manufacturing and control section of the NDA. Based on very recent feedback from the FDA, we believe that these deficiencies have now been resolved. To date, we have not been made aware of any of the deficiencies related to the AXS-05 NDA by the FDA. Review of the NDA for AXS-07 for the acute treatment of migraine is ongoing, and the PDUFA date remains April 30. 
+With the pending potential FDA actions on these 2 NDAs. The addition of Sunosi positions Axsome to potentially make 3 important new medicines available in 2022 to patients living with serious CNS disorders. Sunosi has high clinical and commercial potential and therefore, makes a strong addition to our late-stage pipeline. Its high potential is based on its differentiated mechanism of action, strong efficacy profile in the current indication, potential for new high-value indications and anticipated long patent expiry. Overall, we estimate peak revenue potential of greater than $1 billion for Sunosi based on further growth in the current indication and potential new high-value indications in psychiatry and neurology. 
+Sunosi is highly synergistic with our existing portfolio, given that the primary prescriber targets for AXS-05 and AXS-07, psychiatrists and neurologists, have significant overlap with high-potential Sunosi prescribers. This overlap is relevant not only for the currently approved indication for Sunosi but also for potential future indications. Sunosi is anticipated to deliver substantial shareholder value as it will be immediately revenue generating upon closing and as it is expected to be substantially accretive over time. 
+I will now turn the call over to Lori, who will provide further details on Sunosi's growth potential and strategic fit.
+
+--------------------------------------------------------------------------------
+Lori Englebert,  Axsome Therapeutics, Inc. - SVP of Commercial & Business Development    [4]
+--------------------------------------------------------------------------------
+Thank you, Herriot. The commercial team is thrilled to accelerate our time lines of becoming a global commercial entity with the acquisition of Sunosi. The well-timed addition to our portfolio is highly complementary to our planned potential launches in major depressive disorder with AXS-05 and migraine with AXS-07.
+Sunosi is the first and only FDA-approved dual-acting DNRI to treat EDS in adults with narcolepsy or OSA. EDS associated with narcolepsy or OSA is a serious condition that is associated with impaired neurocognitive function and can have effects on attention, memory and executive functioning. 
+Narcolepsy is an orphan condition that affects close to 200,000 people in the U.S., all of whom experience EDS. OSA on the other hand, is a highly prevalent condition that affects an estimated 22 million U.S. adults, 12 million of whom are diagnosed. An estimated 65% of OSA patients experience EDS despite the use of continuous positive airway pressure, or CPAP. 
+Sunosi was launched in 2019 in the U.S. and in 2020 in the EU. The initial growth trajectory was negatively impacted by the pandemic restrictions, which were enforced within 6 months of launch. Despite this headwind, Sunosi net sales grew 104% year-over-year in 2021. The product enjoys broad payer access with more than 90% of lives covered. Patent expiries for Sunosi extend to 2040, providing a long runway for value creation. Axsome is well positioned to drive additional growth of the product off a solid base established by Jazz in the marketplace. 
+We believe Sunosi has substantial revenue potential based on potential growth in the current indication and the potential for new indications. The potential for growth in the current indication is underscored by Sunosi's well-established and clinically meaningful efficacy, consistent positive feedback from patients and prescribers and the extremely low current drug treatment rate for EDS associated with OSA. Axsome intends to explore potential new high-value neuroscience indications for Sunosi and plans to discuss those in more detail in the future.
+Overall, we estimate potential peak revenue for Sunosi of more than $1 billion based on current and potential future indications. Promotional efforts on Sunosi, combined with our near-term planned potential launches for AXS-05 in major depressive disorder and AXS-07 in migraine, allow for a highly complementary sales force effort. 40% of the current prescriber base for wake-promoting agents is made up of neurologists and psychiatrists, our primary targets for AXS-05 and AXS-07. 
+The high overlap is due to the high comorbidity of EDS in depression and migraine patients. Depression and migraine patients have among the highest prevalence of clinically significant EDS, ranging from 37% to 50%. 
+Importantly, we will use our first-in-class Digital Centric Commercialization or DCC platform to further leverage Axsome's therapeutic focus and increase reach to key Sunosi prescriber groups. Our DCC platform was designed and developed using the most advanced systems and sophisticated tools available to optimize physician targeting and engagement and promotional spend. DCC deploys technology with the goal of meeting customers where and how they want to be engaged with the right content at the right time in an effective and efficient manner. We believe that DCC is a meaningful shift away from the traditional one-size-fits-all approach to promotional efforts and look forward to using it with Sunosi. 
+We are excited to bring this high-potential product into our commercial portfolio and get started helping patients with CNS disorders receive the therapies they need. I will now turn it over to Nick, who will review the transaction parameters.
+
+--------------------------------------------------------------------------------
+Nick Pizzie,  Axsome Therapeutics, Inc. - CFO    [5]
+--------------------------------------------------------------------------------
+Thank you, Lori, and good morning, everyone. I will now give an overview of the terms and anticipated timing of close of the transaction. Upon closing of the transaction, Axsome will acquire rights to develop and commercialize Sunosi worldwide except for certain Asian territories for all current and potential future indications. Axsome will pay Jazz Pharmaceuticals $53 million at close, which is subject to customary closing conditions, including the expiration or termination of the Hart-Scott-Rodino waiting period. Additionally, Axsome will pay a high single-digit royalty for the current indication and a mid-single-digit royalty for any future indications that the company may develop and commercialize on U.S. net sales. No royalties are due to Jazz on any ex U.S. net sales. 
+Axsome will assume Jazz's royalty and milestone commitments to SK Biopharma and Aerial Biopharma, which are single-digit tiered royalties along with up to $165 million in revenue milestones and $1 million in development milestones. The transaction will be funded through our $300 million term loan facility with Hercules Capital. Axsome will begin to immediately recognize revenue once the transaction has been closed. We expect to generate a small loss in 2022 as we transition the product into Axsome's operations and to be breakeven in 2023. We expect the product to be significantly accretive to our operating plan thereafter. 
+We anticipate no change to our current cash runway guidance as a result of this transaction which is into 2024 based on pro forma year-end cash, along with the remaining committed capital from our $300 million term loan facility. The closing of the transaction will be bifurcated between the U.S. and ex U.S. We expect the U.S. transaction to close in the second quarter of 2022 and the close of the ex U.S. transaction to occur within 60 days following the U.S. transaction closing date. 
+I will now turn the call back to Herriot.
+
+--------------------------------------------------------------------------------
+Herriot Tabuteau,  Axsome Therapeutics, Inc. - Founder, Chairman, CEO & President    [6]
+--------------------------------------------------------------------------------
+Thank you, Nick. In summary, the acquisition immediately transforms Axsome into a global commercial entity upon closing and accelerates our growth as a premier biopharmaceutical company focused on delivering potentially life-changing medicines to people living with serious CNS conditions. 
+Sunosi is highly synergistic with our existing neuroscience portfolio, has the potential for rapid development in new high-value indications and is anticipated to deliver substantial shareholder value. 
+I will now turn the call back to Mark to lead the Q&A discussion.
+
+
+================================================================================
+Questions and Answers
+--------------------------------------------------------------------------------
+Mark L. Jacobson,  Axsome Therapeutics, Inc. - COO & Secretary    [1]
+--------------------------------------------------------------------------------
+Thank you, Herriot. Operator, may we please have our first question?
+
+--------------------------------------------------------------------------------
+Operator    [2]
+--------------------------------------------------------------------------------
+(Operator Instructions) And our first question comes from Charles Duncan at Cantor Fitzgerald.
+
+--------------------------------------------------------------------------------
+Charles Cliff Duncan,  Cantor Fitzgerald & Co., Research Division - Senior Analyst    [3]
+--------------------------------------------------------------------------------
+Herriot and team, congratulations on this transaction, looks to be a pretty interesting one from a strategic standpoint.
+So I had a quick question, though, regarding how you value this asset. And then also wanted to follow up on the current treatment landscape. So what was the key kind of input in terms of valuing the asset? And then could you help us understand how you feel there's a market inefficiency with regard to the use of Sunosi in the treatment landscape for narcolepsy?
+
+--------------------------------------------------------------------------------
+Herriot Tabuteau,  Axsome Therapeutics, Inc. - Founder, Chairman, CEO & President    [4]
+--------------------------------------------------------------------------------
+So thanks, Charles. In looking at the potential value of Sunosi, one of the things that struck us is what is known to psychiatrists and neurologists, which is the high level of comorbidity between EDS and also some psychiatric conditions and neurological conditions. And interestingly enough, the highest prevalence of EDS that is clinically relevant is in patients, firstly with depression and secondly in patients with migraine. So it is an excellent strategic fit with our 2 lead assets, AXS-05 for MDD and AXS-07 for migraine. 
+So you can see just on the surface from just looking at the disease comorbidities, this is a transaction which makes sense for patients as well as for our planned commercialization this year of our 2 lead assets. And the other interesting aspect of Sunosi from a marketing perspective is given the call points, and I mentioned psychiatry and neurology, I should also mention, by the way, a future call point, which is sleep medicine with our AXS-12 product candidate which is being developed in narcolepsy. 
+The interesting aspect of commercializing a product like Sunosi is that it's almost tailor-made for our Digital Centric Commercialization platform, which allows us to make sure that we efficiently target the prescribers for Sunosi. So hopefully, that gives you a sense of how we were thinking about value, and that's value with just the current indication. 
+And the other important point for us, and this was an important point for the transaction, an important point of the rationale is the potential for future indications. And those future indications will be also complementary to our therapeutic focus. 
+And in terms of the treatment landscape, you mentioned a market inefficiency. One could call it a market inefficiency. The other way to look at it is a market underpenetration. This is a massive market with more than 40 million patients who have OSA, 12 million of whom are diagnosed, but it's got a very low drug treatment rate as I'm sure Lori will comment to a little bit later. So there is this clinical need and there is also a need for patient and physician education, which would translate into potential significant value creation just in that indication.
+
+--------------------------------------------------------------------------------
+Charles Cliff Duncan,  Cantor Fitzgerald & Co., Research Division - Senior Analyst    [5]
+--------------------------------------------------------------------------------
+Very, very good. Can I ask one quick follow-up, and that is -- you brought it up, new indications. Lori alluded to this. And as a DNRI mechanism, I can imagine some possible ones, but could you provide us a color on perhaps your favorite one that you're considering? And more importantly, perhaps when you might talk about new indications for this particular agent?
+
+--------------------------------------------------------------------------------
+Herriot Tabuteau,  Axsome Therapeutics, Inc. - Founder, Chairman, CEO & President    [6]
+--------------------------------------------------------------------------------
+Yes. I'll let Amanda comment on that.
+
+--------------------------------------------------------------------------------
+Amanda Jones,  Axsome Therapeutics, Inc. - SVP of Clinical Development    [7]
+--------------------------------------------------------------------------------
+Sure. Thanks for the question. So as you point out, there is a lot of potential indications, which is why we are pretty excited about the product. So we're currently kind of going through and determining which indication would be best suited, and we look forward to providing some more details on that when the deal closes.
+
+--------------------------------------------------------------------------------
+Operator    [8]
+--------------------------------------------------------------------------------
+The next question comes from Jason Gerberry at Bank of America.
+
+--------------------------------------------------------------------------------
+Jason Matthew Gerberry,  BofA Securities, Research Division - MD in US Equity Research    [9]
+--------------------------------------------------------------------------------
+Just a couple for me. Can you just frame your understanding of the payer landscape for Sunosi? Like what proportion of the market is like a [single generic step edit] versus [multi-generic step edit]? And in the past, Jazz had framed OSA as really kind of the big opportunity here to drive sales growth, which would require outreach to pulmonologists. I don't think I heard much about pulmonology, but do you still see that as a core prescriber target? And does that kind of require some expanded outreach? 
+And then just last one for me is just on the patent situation. I know that -- I mean, Jazz had historically said early 2030s. Based on the initial method of use, IP with some patent term extension. So just curious, the quality of the 24 patent and how confident you are that you can have a franchise runway all the way out to 2040.
+
+--------------------------------------------------------------------------------
+Herriot Tabuteau,  Axsome Therapeutics, Inc. - Founder, Chairman, CEO & President    [10]
+--------------------------------------------------------------------------------
+So yes, so Lori, after you answer the commercial questions, I'll comment on the patent question.
+
+--------------------------------------------------------------------------------
+Lori Englebert,  Axsome Therapeutics, Inc. - SVP of Commercial & Business Development    [11]
+--------------------------------------------------------------------------------
+Sure. So thanks, Jason, for the question. So for the payer landscape, as I mentioned in my remarks, right now, Sunosi enjoys a 90% coverage, which is pretty fantastic from a coverage standpoint. In terms of steps, about half of the payers require single step and there is a portion that do not require step at all. 
+I think what is important for us to really focus on around OSA, right now, the split for Sunosi with OSA patients versus narcolepsy is 70% of the patients are being prescribed for EDS and OSA and probably the other 30% in narcolepsy. OSA is an extremely promising market given what Herriot just mentioned about a low diagnosis in drug treatment rate. And the reason we believe that we will continue to grow that market is sales reps will come over in the transaction. And we are incredibly impressed by the caliber of talent that the Jazz team has. And we intend to extend offers to many of the roles for the sales, marketing and medical affairs team that we can facilitate a seamless transaction, continue that consistency of message and really leverage the foundation that Jazz laid with outreach.
+
+--------------------------------------------------------------------------------
+Herriot Tabuteau,  Axsome Therapeutics, Inc. - Founder, Chairman, CEO & President    [12]
+--------------------------------------------------------------------------------
+Great. And with regards to the patents, the patents they go out to 2040, as you can imagine, looking at the intellectual property portfolio was an important part of our due diligence. And we feel pretty strongly that this is a very strong patent portfolio. So the patent, the longest expiry currently goes out to 2040. However, there are other patents that go out to 2037 and 2038. These are some of the more recent patents, which are very specific to the label. In other words, how the drug is dosed in certain patient populations. So that's a very strong rationale for intellectual property. 
+And the other important aspect of the patent protection is that we do anticipate that there will be additional IP generated to protect Sunosi. So all in all, a great starting place with regards to patent exclusivity and one with a clear line of sight to strengthening.
+
+--------------------------------------------------------------------------------
+Operator    [13]
+--------------------------------------------------------------------------------
+The next question comes from Ram Selvaraju H.C. Wainwright.
+
+--------------------------------------------------------------------------------
+Unidentified Analyst,   -     [14]
+--------------------------------------------------------------------------------
+This is (inaudible) representing Ram at H.C. Wainwright. Firstly, we just wanted to get the perspective and rationale from Jazz's side. We're wondering why Jazz decided to sell Sunosi now, why at such a low price, given its long-term blockbuster potential? And why sell to Axsome, a competitor in narcolepsy? And is Jazz planning to exit narcolepsy entirely?
+
+--------------------------------------------------------------------------------
+Herriot Tabuteau,  Axsome Therapeutics, Inc. - Founder, Chairman, CEO & President    [15]
+--------------------------------------------------------------------------------
+So thank you for the question. So the rationale from Jazz's perspective, as they have stated, is, one, that they see significant value in Sunosi, not just in the current indication, but also in future indications. I think one of the things that attracted them to Axon, as they stated, is our track record of clinical development, which provides us a promising foundation to explore these additional indications. 
+And with regards to the price, the -- we won't comment on economics except to point out that there is a significant royalty component that goes back to Jazz on future sales. So this is a way for maximizing the value of Sunosi to all parties.
+
+--------------------------------------------------------------------------------
+Unidentified Analyst,   -     [16]
+--------------------------------------------------------------------------------
+Okay. Very good. Just shifting to commercial and marketing elements. We were wondering if there's any commercial infrastructure slated to the company, Sunosi, and how this might be helpful to Axsome with your other neurology-focused drugs, namely AXS-05 and AXS-07? And if Axsome is planning to do anything different with respect to marketing Sunosi compared to what Jazz was doing.
+
+--------------------------------------------------------------------------------
+Amanda Jones,  Axsome Therapeutics, Inc. - SVP of Clinical Development    [17]
+--------------------------------------------------------------------------------
+Thanks for the question. So as I mentioned previously, part of the transaction is that we will extend offers to have Sunosi sales, marketing and medical affairs employees to come over to the Axsome team. Really, this is really to make sure -- again, to just make sure that there is a seamless transition and really to maintain that institutional knowledge that they all have.
+We do not intend to do anything different from our sales force. We -- nothing has changed from that standpoint. We do see Sunosi being highly complementary. We believe that we will maintain exactly what we've always planned for AXS-05 and AXS-07. And with the addition of Sunosi, we will leverage the synergies that come along with the complementary [call point].
+
+--------------------------------------------------------------------------------
+Unidentified Analyst,   -     [18]
+--------------------------------------------------------------------------------
+Okay. Excellent. And just shifting to a clinical perspective, and you mentioned complementary. Just drilling down a little bit further, how might Sunosi and AXS-12 prove complementary? Could they be prescribed to the same patients on a routine basis? And do you plan to study the 2 drugs, Sunosi and AXS-12, in combination studies?
+
+--------------------------------------------------------------------------------
+Herriot Tabuteau,  Axsome Therapeutics, Inc. - Founder, Chairman, CEO & President    [19]
+--------------------------------------------------------------------------------
+So Amanda, would you like to answer that question?
+
+--------------------------------------------------------------------------------
+Amanda Jones,  Axsome Therapeutics, Inc. - SVP of Clinical Development    [20]
+--------------------------------------------------------------------------------
+Yes. So we -- I mean, we believe that the 2 products are definitely complementary in the sense of AXS-12 being developed for cataplexy primarily and Sunosi being developed primarily for excessive daytime sleepiness.
+
+--------------------------------------------------------------------------------
+Unidentified Analyst,   -     [21]
+--------------------------------------------------------------------------------
+Okay. And if I can squeeze a final financial question. And we're wondering how long it might take Axsome to achieve blockbuster status and how cash flow negative Sunosi is likely to be this year and a prediction of annualized revenue run rate to be accretive to Axsome. And if you foresee needing further additional capital beyond the Hercules facility.
+
+--------------------------------------------------------------------------------
+Herriot Tabuteau,  Axsome Therapeutics, Inc. - Founder, Chairman, CEO & President    [22]
+--------------------------------------------------------------------------------
+Sure. I'll lead off with the question about how long we will -- how long we think that it will take for Sunosi to reach blockbuster potential. 
+So we will be providing more information once the deal closes with regards to what we expect for the product to do. And we have indicated that we do believe that with growth in the current indication as well as future indications that peak sales potential are greater than $1 billion for the product. 
+One of the things that is interesting about Sunosi is being a marketed product, developing additional indications can be done more quickly. So we fully intend to leverage that status, if you will. And with regards to the other questions, I'll turn it over to Nick.
+
+--------------------------------------------------------------------------------
+Nick Pizzie,  Axsome Therapeutics, Inc. - CFO    [23]
+--------------------------------------------------------------------------------
+Sure. Thanks, Herriot. Once we close the U.S. transaction in the second quarter, we'll be able to share more information with you related to the financial impact. However, what we can share today is that we expect to generate a small loss in the stub period of 2022 as we transition Sunosi into Axsome's operations. We do expect to be breakeven in 2023, and we expect the product to be significantly accretive to our operating plan thereafter.
+
+--------------------------------------------------------------------------------
+Operator    [24]
+--------------------------------------------------------------------------------
+The next question comes from Yatin Suneja at Guggenheim Partners.
+
+--------------------------------------------------------------------------------
+Yatin Suneja,  Guggenheim Securities, LLC, Research Division - MD & Senior Biotechnology Analyst    [25]
+--------------------------------------------------------------------------------
+A couple for me. I think in your comments, you mentioned that you have had maybe some interaction with the FDA regarding AXS-05 and you have addressed the deficiency. Can you elaborate a little bit there? Was it -- like when was this interaction? And then have you entered into labeling discussion or at what point do you anticipate going into labeling discussion? Then I have another question on today's transaction as well.
+
+--------------------------------------------------------------------------------
+Herriot Tabuteau,  Axsome Therapeutics, Inc. - Founder, Chairman, CEO & President    [26]
+--------------------------------------------------------------------------------
+Thank you, Yatin, for the questions. With regard to AXS-12, what we said was that -- I'm sorry, with regards to AXS-05, what we said was that this is some very recent communications, which we got from the FDA. So you can interpret that the way you want. But yes, we have been having interactions with the agency with regards to the response to the CMC questions and based on the very recent interactions with the FDA, where it's very clear to us that this deficiency is now resolved. 
+And with regards to labeling discussions, what we've said is that we believe that, that would be a very important thing to discuss with the Street and to inform the Street on and that still remains the case. So as soon as we enter into labeling discussions, we will make you aware. And I think those were your 2 questions.
+
+--------------------------------------------------------------------------------
+Yatin Suneja,  Guggenheim Securities, LLC, Research Division - MD & Senior Biotechnology Analyst    [27]
+--------------------------------------------------------------------------------
+Yes. Yes. I have another one on the Sunosi transaction. So can you just talk about like currently, like how is the product being used? Like how much sales there is in, let's say, in narcolepsy patient versus OSA because some of the feedback that we had gotten from KOLs is that, especially for narcolepsy, the drug competes with Effexor, which is in itself very effective and relatively cheap. And Sunosi, it's expensive relative to a generic [margin], right? So just help us understand currently how the market dynamics are. And is OSA the bigger market, and that's what you are in the market for?
+
+--------------------------------------------------------------------------------
+Lori Englebert,  Axsome Therapeutics, Inc. - SVP of Commercial & Business Development    [28]
+--------------------------------------------------------------------------------
+Sure. Thanks for the question. So I'll take that in 2 parts, right? So given the indications being EDS and narcolepsy and EDS and OSA, I'll answer the narcolepsy point of view first and then I'll switch over to the OSA portion. So as I mentioned previously, the current split in patients between the 2 indications is about 70% OSA and 30% narcolepsy. 
+In the narcolepsy market, 100% of patients who have narcolepsy have excessive daytime sleepiness. And so that patient population, given that it is an orphan designation, the prevalence of the condition is very small. So the number of patients who actually have narcolepsy is relatively small compared to the OSA market, and I'll talk about that shortly. 
+The narcolepsy market still continues to be heavily underdiagnosed and undertreated. Only about 25% of patients who have narcolepsy actually are being treated for any of the conditions, whether that be EDS or EDS and cataplexy. The current market in EDS -- I mean, in narcolepsy right now, from a patient share standpoint, Sunosi has about 15% patient share in narcolepsy. So they're doing quite well compared to some of the larger products on the market. 
+In terms of OSA, OSA is a much larger market. So compared to 200,000 prevalent patients with narcolepsy, OSA has about 22 million patients who have OSA and what we believe there is that it is a highly underdiagnosed population and also an extremely undertreated population. So the opportunity there, as Herriot mentioned in some of his earlier remarks, remains great from -- in terms of physician education as well as patient education. 
+Right now, in the EDS and OSA market, there's only, really, 2 ways to treat and that is either from a traditional stimulant or a wake-promoting agent. And in the wake-promoting agent, Sunosi is the only branded therapeutic option available.
+
+--------------------------------------------------------------------------------
+Yatin Suneja,  Guggenheim Securities, LLC, Research Division - MD & Senior Biotechnology Analyst    [29]
+--------------------------------------------------------------------------------
+Got it. Very helpful. And I just have one final follow-up question. This is on 05, going back again on the FDA traction. Well, the question is are there or is there any -- are you aware of anything that sort of precludes you from going into the labeling discussion? I remember the first letter -- or the form that you get, FDA had mentioned that it precludes and then after that FDA did not believe those deficiency the CMC would preclude you to go into labeling discussion. But at this point, is there anything that either you are aware of FDA has said to you that precludes you from going into labeling?
+
+--------------------------------------------------------------------------------
+Herriot Tabuteau,  Axsome Therapeutics, Inc. - Founder, Chairman, CEO & President    [30]
+--------------------------------------------------------------------------------
+We are not aware of anything that would preclude us from moving forward.
+
+--------------------------------------------------------------------------------
+Operator    [31]
+--------------------------------------------------------------------------------
+The next question comes from Joon Lee at Truist Securities.
+
+--------------------------------------------------------------------------------
+Joon So Lee,  Truist Securities, Inc., Research Division - VP    [32]
+--------------------------------------------------------------------------------
+Congrats on the great deal. Just following up on the previous question. When would you start labeling discussion for AXS-05?
+
+--------------------------------------------------------------------------------
+Herriot Tabuteau,  Axsome Therapeutics, Inc. - Founder, Chairman, CEO & President    [33]
+--------------------------------------------------------------------------------
+Thanks for the question. That is up to the FDA. So that -- unfortunately, we do not control the cadence of their review. However, what we do know is that currently, we have not been made aware of any other deficiencies and the one deficiency that we have been made aware of, which is CMC, we believe, has now been resolved.
+
+--------------------------------------------------------------------------------
+Joon So Lee,  Truist Securities, Inc., Research Division - VP    [34]
+--------------------------------------------------------------------------------
+Perfect. Okay. And then just on the Sunosi deal. On first pass, having dopamine activity in addition to norepinephrine activity would suggest that Sunosi would have a more broad profile than AXS-12 which only has norepinephrine effects, and Sunosi doesn't explicitly have cataplexy on label, but wouldn't it also have beneficial effects on cataplexy based on its mechanism of action? Not sure why Sunosi would have any less benefit in cataplexy compared to AXS-05 -- AXS-12. So I would love to hear your thoughts on that.
+
+--------------------------------------------------------------------------------
+Herriot Tabuteau,  Axsome Therapeutics, Inc. - Founder, Chairman, CEO & President    [35]
+--------------------------------------------------------------------------------
+So interestingly enough, a lot of lot of animal work has been done looking at the dopamine pathway, the norepinephrine pathway and the serotonin pathway as it relates to the cataplexy. And it does appear that selectivity for norepinephrine is important in treating cataplexy. So in other words, being broad is not necessarily better. Now that's the preclinical work. 
+And in the clinical work, it's been shown very clearly that solriamfetol, SUNOSI, has no effect on cataplexy.
+
+--------------------------------------------------------------------------------
+Operator    [36]
+--------------------------------------------------------------------------------
+The next question comes from Joseph Thome at Cowen and Co.
+
+--------------------------------------------------------------------------------
+Joseph John-Charles Thome,  Cowen and Company, LLC, Research Division - VP of Healthcare    [37]
+--------------------------------------------------------------------------------
+Maybe first question on Sunosi, in those payers that do not require a step-through therapy, are physicians actually using Sunosi first-line ahead of Provigil individual generics? And maybe what proportion of patients do not respond to Provigil individual that would be essentially ready to take then SUNOSI?
+
+--------------------------------------------------------------------------------
+Lori Englebert,  Axsome Therapeutics, Inc. - SVP of Commercial & Business Development    [38]
+--------------------------------------------------------------------------------
+Joseph, thanks for the question. So it's a little bit early for us to comment on your first question. So at close, we'll be in a position to provide more details around that. 
+In terms of what the percentage of patients, we do know that about 50% of patients failed first-line therapy for EDS and OSA.
+
+--------------------------------------------------------------------------------
+Joseph John-Charles Thome,  Cowen and Company, LLC, Research Division - VP of Healthcare    [39]
+--------------------------------------------------------------------------------
+Perfect. And then maybe just on the ex U.S. opportunity. I think historically, you'd indicated that maybe ex U.S. wasn't a particular focus for AXS-05 and AXS-07. How are you thinking about the ex U.S. opportunity for -- would that be something that you would do yourself? Or would you look to try and, I guess, license or partner that out?
+
+--------------------------------------------------------------------------------
+Lori Englebert,  Axsome Therapeutics, Inc. - SVP of Commercial & Business Development    [40]
+--------------------------------------------------------------------------------
+Go ahead, go ahead.
+
+--------------------------------------------------------------------------------
+Herriot Tabuteau,  Axsome Therapeutics, Inc. - Founder, Chairman, CEO & President    [41]
+--------------------------------------------------------------------------------
+So one of the interesting aspects of the Sunosi transaction is that SUNOSI is approved and is being marketed in Europe. So this is a global franchise. And we'll have more to say about our plans with regards to the product in Europe and with regards to the rest of our pipeline, subsequent to this transaction once we close.
+
+--------------------------------------------------------------------------------
+Joseph John-Charles Thome,  Cowen and Company, LLC, Research Division - VP of Healthcare    [42]
+--------------------------------------------------------------------------------
+Okay. Perfect. And maybe just one last quick one. I mean, given that there is, I guess, complementary, there's really no risk that you developing AXS-12 would prevent the closing of the Sunosi transaction. Is that correct?
+
+--------------------------------------------------------------------------------
+Herriot Tabuteau,  Axsome Therapeutics, Inc. - Founder, Chairman, CEO & President    [43]
+--------------------------------------------------------------------------------
+Yes. We don't believe so. So AXS-12, the primary indication is cataplexy in patients who have narcolepsy and whereas Sunosi is approved for EDS.
+
+--------------------------------------------------------------------------------
+Operator    [44]
+--------------------------------------------------------------------------------
+The next question comes from Vamil Divan at Mizuho Securities.
+
+--------------------------------------------------------------------------------
+Vamil Kishore Divan,  Mizuho Securities USA LLC, Research Division - MD    [45]
+--------------------------------------------------------------------------------
+Great. So maybe a couple of follow-up on earlier comments and then one new question. So just in terms of the sales that I know you mentioned that you will give more details after the deal closes. But you're talking about sort of peak sales of over $1 billion. Can you just maybe talk about how much you think is from the current indication? And then what do you think is sort of contingent on getting new indications approved for the product? 
+And then my second question is sort of -- this is for Herriot, just around the timing of this, it's interesting because as you mentioned, you may have 3 products now in the next sort of few weeks or a month or 2. And just kind of how you thinking about focusing the sales force, usually we see a little bit more of a sequentially where you're launching one then you launch another and you launch another to have sort of 2 potentially new launches and then integrating this deal into the company at the same time. How are you just thinking about keeping people focused and not losing sight of the potential of each of the 3 individual assets? 
+And then my last question, maybe just you touched on 05 in the labeling discussions around that. Can you just talk about 07, you're about a month away from the PDUFA date there. So I'm just curious if you can comment on if you start labeling discussions or would you let us know when you do, if you have not so far.
+
+--------------------------------------------------------------------------------
+Herriot Tabuteau,  Axsome Therapeutics, Inc. - Founder, Chairman, CEO & President    [46]
+--------------------------------------------------------------------------------
+Great. So a lot of questions there. With regards to the peak sales potential and how that breaks out between the current indication and the new indications, we will be providing you more information on that once the transaction closes. 
+We do think that there is the potential to move very quickly with regards to new indications for Sunosi. So we do have very specific thoughts around that, which are maturing, and we look forward to providing you an update. And at that point in time, it will be appropriate to start giving you some details about the potential breakdown between the growth in the current indication, which we view as significant as well as the potential for the product in new indications. 
+I'll answer the 07 question before turning it over to Lori to talk about commercialization and your question with regards to focus. So for the 07 NDA, so the PDUFA date is April 30, as you know. So we are coming up upon that. And the review is ongoing. 
+And we -- with regards to commenting on labeling discussions, historically, we have not commented on the back and forth during our NDA reviews. We have made an exception with AXS-05, given the unusual situation there with the PDUFA date having [lapsed]. So the next update that we provide with regards to AXS-07, hopefully, will be an FDA action.
+
+--------------------------------------------------------------------------------
+Lori Englebert,  Axsome Therapeutics, Inc. - SVP of Commercial & Business Development    [47]
+--------------------------------------------------------------------------------
+Thanks. So it is -- it goes without saying, we are not losing sight of the potential for AXS-05 and AXS-07 and on top of the fact that everything we're talking about here with Sunosi. So it is incredibly important for us to maintain focus on each respective product. There will be certain commercial functions, which will solely focus on their products. And in terms of promotion, we do plan to keep the sales forces focused, but we will leverage call points if there's a synergistic opportunity.
+
+--------------------------------------------------------------------------------
+Operator    [48]
+--------------------------------------------------------------------------------
+The next question comes from Vikram Purohit at Morgan Stanley.
+
+--------------------------------------------------------------------------------
+Gospel M. Enyindah-Asonye,  Morgan Stanley, Research Division - Research Associate    [49]
+--------------------------------------------------------------------------------
+This is Gospel on for Vikram. I was wondering now what are the company's projection for Sunosi and its currently labeled indication of EDS? And do you plan to provide yearly sales guidance moving forward? Additionally, could you help us understand the opportunity from a top-down perspective, including the addressable patient population, the percent of patients you estimate are currently receiving Sunosi and how you think uptick could go?
+
+--------------------------------------------------------------------------------
+Herriot Tabuteau,  Axsome Therapeutics, Inc. - Founder, Chairman, CEO & President    [50]
+--------------------------------------------------------------------------------
+So thank you for the question. So with regards to providing sales guidance, that is something that we can do and we will do after the transaction closes. So prior to the transaction closing, it will be premature and inappropriate for us to provide guidance on the current indication. 
+What we can point you to is that last year, the product did grow 104% year-over-year. So pretty -- very strong growth there despite the headwind when the product was launched, which had to do with COVID restrictions. 
+And with regards to the patient population, again, we'll be able to provide more granularity in terms of the penetration into the current patient population. But maybe Lori can provide some top line view of what our current assessment is.
+
+--------------------------------------------------------------------------------
+Lori Englebert,  Axsome Therapeutics, Inc. - SVP of Commercial & Business Development    [51]
+--------------------------------------------------------------------------------
+Sure. I can -- happy to answer a couple of different ways. So in terms of narcolepsy, the prevalence of the condition is around 200,000 patients. But obviously, as I mentioned previously, the amount of patients that are actually diagnosed and drug treated is much, much lower than that, about 25%. And of those patients who are currently on therapy, Sunosi patient share in the narcolepsy area is 15% -- or approximately 15%.
+On the OSA side, obviously, a much larger patient population. Again, the prevalence of the condition is about 22 million patients. And as we've mentioned previously, significantly underdiagnosed and really severely undertreated. In the patient population of patients currently on therapy, Sunosi has about 2% patient share in OSA.
+
+--------------------------------------------------------------------------------
+Operator    [52]
+--------------------------------------------------------------------------------
+The next question comes from Chris Howerton at Jefferies.
+
+--------------------------------------------------------------------------------
+Christopher Lawrence Howerton,  Jefferies LLC, Research Division - Equity Analyst    [53]
+--------------------------------------------------------------------------------
+Excellent. A lot of rich discussion already. So I guess for me, maybe 2 quick questions and then a clarification, if I can. So first, for Sunosi, how are you guys considering pricing, given the pretty big difference population sizes? And I think previous commentary, let's say, of Jazz's focus in narcolepsy versus perhaps a different freedom that you guys can have in terms of thinking about the commercial opportunity and pricing power. So that would be one question.
+The second question that I would have is that obviously, I appreciate that some of the sales members from Jazz are anticipating to come over with the transaction. But I guess what I'm curious is when are you going to be able to tell us more about your DCC in terms of how does that work, what is the number of reps that you plan to have and exactly how is that a secret sauce basically?
+And then the final question in terms of a clarification is that I think in the press release, you detailed or gave some information about the different royalties that may be owed. Are there any milestones, either development or commercial, that you can disclose?
+
+--------------------------------------------------------------------------------
+Herriot Tabuteau,  Axsome Therapeutics, Inc. - Founder, Chairman, CEO & President    [54]
+--------------------------------------------------------------------------------
+Okay. So Lori will take the commercial questions, and then Nick will discuss the royalties.
+
+--------------------------------------------------------------------------------
+Lori Englebert,  Axsome Therapeutics, Inc. - SVP of Commercial & Business Development    [55]
+--------------------------------------------------------------------------------
+Chris, thanks for the question. It's a bit premature for us to discuss anything related to pricing. Pricing is obviously our (inaudible) for the product, and we will obviously do our own evaluation, but the pricing seems rather appropriate to us at this point. But again, it's premature for us to comment on anything prior to the close. 
+In terms of sales members and DCC, obviously, given comments around maintaining focus for each sales force and then leveraging the complementary call points, but then also highly utilizing the DCC platform. Once we close on this deal as well as potential further actions on 05 and 07, we'll be in a much better position to give you more information.
+
+--------------------------------------------------------------------------------
+Herriot Tabuteau,  Axsome Therapeutics, Inc. - Founder, Chairman, CEO & President    [56]
+--------------------------------------------------------------------------------
+Yes. And Chris, related to the sales milestones, you are correct. There are up to $165 million in revenue milestones. There's also $1 million in the development milestone that we are assuming that we pass through from Jazz from Aerial as well as SK.
+
+--------------------------------------------------------------------------------
+Operator    [57]
+--------------------------------------------------------------------------------
+We have time for a few additional questions with the next one coming from Bert Hazlett at BTIG.
+
+--------------------------------------------------------------------------------
+Robert Cummins Hazlett,  BTIG, LLC, Research Division - MD & Biotechnology Equity Research Analyst    [58]
+--------------------------------------------------------------------------------
+Just one more with regard to the potential additional indications. Could you just describe the status of the additional indications as they exist now? Are they preclinical? Have you done more work in the clinic or has more work been done in the clinic? And then I just have 1 or 2 on DCC.
+
+--------------------------------------------------------------------------------
+Herriot Tabuteau,  Axsome Therapeutics, Inc. - Founder, Chairman, CEO & President    [59]
+--------------------------------------------------------------------------------
+So Bert, thank you for the question. As Amanda commented on before, we will be providing more information on new indications and potential new indications once the transaction closes.
+
+--------------------------------------------------------------------------------
+Robert Cummins Hazlett,  BTIG, LLC, Research Division - MD & Biotechnology Equity Research Analyst    [60]
+--------------------------------------------------------------------------------
+Okay. Then with regard to the DCC platform, is there any contemplated change in headcount with this transaction? Obviously, you're bringing people over, but then more broadly, with an indication like OSA, where it's significantly underdiagnosed and undertreated, how does the DCC platform really effect change in that type of circumstance, your general thoughts?
+
+--------------------------------------------------------------------------------
+Lori Englebert,  Axsome Therapeutics, Inc. - SVP of Commercial & Business Development    [61]
+--------------------------------------------------------------------------------
+Thanks. Yes, Bert, it's a really, really great question. So no, there is no plan to change in terms of headcount. And as I mentioned before, no changes to 05 and 07 plans for sales forces. And to answer your question for -- around DCC and the unmet need, there are a lot of ways to tackle that. One is using the DCC platform to really optimize any marketing efforts that we put forth around helping patients understand their disease and potentially from a disease awareness standpoint, helping them -- prompt them to go and get treated, but then also from an HCP standpoint, we will be able to really ensure that our messages are hitting the right positions to have the highest probability of effecting change.
+
+--------------------------------------------------------------------------------
+Herriot Tabuteau,  Axsome Therapeutics, Inc. - Founder, Chairman, CEO & President    [62]
+--------------------------------------------------------------------------------
+And then just to add to that, the -- we've alluded to this before. But one of the interesting aspects of EDS is the comorbidity with depression and with migraine. It's very stark. The highest prevalence of clinically significant EDS is, in fact, in those 2 patient populations. And we'll be using our DCC platform to target psychiatrists as well as neurologists. 
+And so that interplay amongst those specialties, so psychiatry, neurology and then eventually, sleep medicine with AXS-12, DCC will allow us to coordinate all of those different sales efforts to make sure that we target the patients with EDS.
+
+--------------------------------------------------------------------------------
+Operator    [63]
+--------------------------------------------------------------------------------
+The next question comes from Myles Minter at William Blair.
+
+--------------------------------------------------------------------------------
+Myles Robert Minter,  William Blair & Company L.L.C., Research Division - Analyst    [64]
+--------------------------------------------------------------------------------
+Just do you have a sense on how many of these patients with ODS comorbid with EDS actually received CPAP or have tried it for a month because I know that that's pretty unique to the Sunosi label? I'm just wondering like if there's not a lot of patients that have been diagnosed but they've got to step through CPAP, how much of a barrier would that be to a patient?
+
+--------------------------------------------------------------------------------
+Lori Englebert,  Axsome Therapeutics, Inc. - SVP of Commercial & Business Development    [65]
+--------------------------------------------------------------------------------
+Myles, yes, so obviously, this part of the label to be treated with the CPAP if you're being prescribed for EDS and OSA. What we see through claims data is that the majority of patients do actually try the CPAP and is also highly dependent upon the payer plan in terms of look-back period and when they actually use the CPAP, right?
+
+--------------------------------------------------------------------------------
+Myles Robert Minter,  William Blair & Company L.L.C., Research Division - Analyst    [66]
+--------------------------------------------------------------------------------
+Can you define the percentage of what that majority is?
+
+--------------------------------------------------------------------------------
+Lori Englebert,  Axsome Therapeutics, Inc. - SVP of Commercial & Business Development    [67]
+--------------------------------------------------------------------------------
+I think the majority being over 65%.
+
+--------------------------------------------------------------------------------
+Myles Robert Minter,  William Blair & Company L.L.C., Research Division - Analyst    [68]
+--------------------------------------------------------------------------------
+Okay. And final one for me was just with the mention of maybe additional indications to do with psychiatry and neurology. Again, just the limitations on the safety of this product with psychiatric symptoms like I know it's not going to be something like psychosis or bipolar disorder. And have you done any work to suggest that those additional indications that you might need to push dose and maybe some of those cardiovascular risk factors might come back into play for safety of this product?
+
+--------------------------------------------------------------------------------
+Herriot Tabuteau,  Axsome Therapeutics, Inc. - Founder, Chairman, CEO & President    [69]
+--------------------------------------------------------------------------------
+So we'll have more to say on additional potential future indications once the transaction closes. What's the -- we can -- what we can comment on is Sunosi is incredibly well tolerated and also has a broad range of efficacy. So the dose goes down to 37.5 milligrams and it goes up to 150 milligrams and the efficacy in EDS in both narcolepsy as well as OSA is very strong in those ranges.
+
+--------------------------------------------------------------------------------
+Operator    [70]
+--------------------------------------------------------------------------------
+We have time for one more question coming from Marc Goodman at SVB Leerink.
+
+--------------------------------------------------------------------------------
+Marc Harold Goodman,  SVB Leerink LLC, Research Division - Senior MD of Neuroscience & Senior Research Analyst    [71]
+--------------------------------------------------------------------------------
+Herriot, a couple of questions. You mentioned $1 billion and it didn't sound like you wanted to give us a sense of how you're thinking about getting to the $1 billion, but I was hoping maybe you could just give us a little more color because we have no idea how many additional indications you're talking about and how meaningful those are relative to just the base indication. 
+So is there any way you could just tell us like is this base indication what you have right now that you're acquiring? Does that make up a meaningful part of the $1 billion? How important is OUS versus U.S. in that? Maybe just give us a little more color. 
+And then when you acquire this asset, what should we be expecting gross to nets are as we forecast the product?
+
+--------------------------------------------------------------------------------
+Herriot Tabuteau,  Axsome Therapeutics, Inc. - Founder, Chairman, CEO & President    [72]
+--------------------------------------------------------------------------------
+Sure. I'll -- so with regards to the gross to net question, so Lori will take that. And with regards to the sales potential, we think that there's a lot of room for potential growth in the base indication alone. And these high-value indications that we are considering for the product, the additional indications, because they're such high value, you actually don't need more than one really to get to that more than $1 billion peak potential. 
+And the -- and by the way, that peak potential estimate is basically the U.S. So we're not even taking into account OUS.
+
+--------------------------------------------------------------------------------
+Lori Englebert,  Axsome Therapeutics, Inc. - SVP of Commercial & Business Development    [73]
+--------------------------------------------------------------------------------
+Marc, regarding the gross to net, we'll be in a position to really discuss this in more detail once we close the transaction. But we do not expect this to be inconsistent with anything you would model for product at this life cycle.
+
+--------------------------------------------------------------------------------
+Marc Harold Goodman,  SVB Leerink LLC, Research Division - Senior MD of Neuroscience & Senior Research Analyst    [74]
+--------------------------------------------------------------------------------
+So in the 40s?
+
+--------------------------------------------------------------------------------
+Lori Englebert,  Axsome Therapeutics, Inc. - SVP of Commercial & Business Development    [75]
+--------------------------------------------------------------------------------
+I agree that your assessment is fairly close. (inaudible)
+
+--------------------------------------------------------------------------------
+Operator    [76]
+--------------------------------------------------------------------------------
+This concludes the Q&A. I will now hand back to Axsome's CEO, for any closing remarks.
+
+--------------------------------------------------------------------------------
+Herriot Tabuteau,  Axsome Therapeutics, Inc. - Founder, Chairman, CEO & President    [77]
+--------------------------------------------------------------------------------
+Well, thank you again for joining us today on the call. 2022 is shaping up to be an eventful year for Axsome with the acceleration of the transformation of the company into a commercial entity. We look forward to the FDA decisions on AXS-05 in MDD and AXS-07 in migraine. We, therefore, have the opportunity to commercialize 3 new products this year. In addition, the rest of our pipeline continues to advance with Phase III trials for AXS-12 in patients with narcolepsy and AXS-05 in patients with Alzheimer's disease agitation as well as the anticipated NDA filing of AXS-14 in fibromyalgia next year. We look forward to keeping you updated on our progress. Have a great day.
+
+--------------------------------------------------------------------------------
+Operator    [78]
+--------------------------------------------------------------------------------
+This concludes today's conference call. Thank you for joining. You may now disconnect your lines.
+
+
+
+
+
+
+
+--------------------------------------------------------------------------------
+Definitions
+--------------------------------------------------------------------------------
+PRELIMINARY TRANSCRIPT: "Preliminary Transcript" indicates that the 
+Transcript has been published in near real-time by an experienced 
+professional transcriber.  While the Preliminary Transcript is highly 
+accurate, it has not been edited to ensure the entire transcription 
+represents a verbatim report of the call.
+
+EDITED TRANSCRIPT: "Edited Transcript" indicates that a team of professional 
+editors have listened to the event a second time to confirm that the 
+content of the call has been transcribed accurately and in full.
+
+--------------------------------------------------------------------------------
+Disclaimer
+--------------------------------------------------------------------------------
+Refinitiv reserves the right to make changes to documents, content, or other 
+information on this web site without obligation to notify any person of 
+such changes.
+
+In the conference calls upon which Event Transcripts are based, companies 
+may make projections or other forward-looking statements regarding a variety 
+of items. Such forward-looking statements are based upon current 
+expectations and involve risks and uncertainties. Actual results may differ 
+materially from those stated in any forward-looking statement based on a 
+number of important factors and risks, which are more specifically 
+identified in the companies' most recent SEC filings. Although the companies 
+may indicate and believe that the assumptions underlying the forward-looking 
+statements are reasonable, any of the assumptions could prove inaccurate or 
+incorrect and, therefore, there can be no assurance that the results 
+contemplated in the forward-looking statements will be realized.
+
+THE INFORMATION CONTAINED IN EVENT TRANSCRIPTS IS A TEXTUAL REPRESENTATION
+OF THE APPLICABLE COMPANY'S CONFERENCE CALL AND WHILE EFFORTS ARE MADE TO
+PROVIDE AN ACCURATE TRANSCRIPTION, THERE MAY BE MATERIAL ERRORS, OMISSIONS,
+OR INACCURACIES IN THE REPORTING OF THE SUBSTANCE OF THE CONFERENCE CALLS.
+IN NO WAY DOES REFINITIV OR THE APPLICABLE COMPANY ASSUME ANY RESPONSIBILITY FOR ANY INVESTMENT OR OTHER
+DECISIONS MADE BASED UPON THE INFORMATION PROVIDED ON THIS WEB SITE OR IN
+ANY EVENT TRANSCRIPT. USERS ARE ADVISED TO REVIEW THE APPLICABLE COMPANY'S
+CONFERENCE CALL ITSELF AND THE APPLICABLE COMPANY'S SEC FILINGS BEFORE
+MAKING ANY INVESTMENT OR OTHER DECISIONS.
+--------------------------------------------------------------------------------
+Copyright 2022 Refinitiv. All Rights Reserved.
+--------------------------------------------------------------------------------

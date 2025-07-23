@@ -1,0 +1,491 @@
+
+
+Refinitiv StreetEvents Event Transcript
+E D I T E D   V E R S I O N
+
+Pharming Group NV and Orchard Therapeutics PLC Announce Collaboration to Develop and Commercialize Ex Vivo Autologous HSC Gene Therapy for Hereditary Angioedema Call
+JULY 01, 2021 / 12:00PM GMT
+
+================================================================================
+Corporate Participants
+================================================================================
+
+ * Sijmen de Vries
+   Pharming Group N.V. - CEO & Executive Director
+ * Bobby Gaspar
+   Orchard Therapeutics plc - CEO, Member of Scientific Advisory Board & Executive Director
+ * Anurag Relan
+   Pharming Group N.V. - Chief Medical Officer
+
+================================================================================
+Conference Call Participiants
+================================================================================
+
+ * Tessa Thomas Romero
+   JPMorgan Chase & Co, Research Division - Associate
+ * Xiaozhou Fan
+   Barclays Bank PLC, Research Division - Research Analyst
+ * David Timothy Hoang
+   SMBC Nikko Securities America, Inc., Research Division - Research Analyst
+ * Brendan Mychal Smith
+   Cowen and Company, LLC, Research Division - Research Analyst
+ * Christian Glennie
+   Stifel, Nicolaus & Company, Incorporated, Research Division - Analyst
+ * Joseph Pantginis
+   H.C. Wainwright & Co, LLC, Research Division - MD of Equity Research & Senior Healthcare Analyst
+ * Dae Gon Ha
+   Stifel, Nicolaus & Company, Incorporated, Research Division - Research Analyst
+ * Zhiqi He
+   Oppenheimer & Co. Inc., Research Division - Associate
+ * Graig Suvannavejh
+   Goldman Sachs Group, Inc., Research Division - Executive Director & Senior Equity Research Analyst
+
+================================================================================
+Presentation
+--------------------------------------------------------------------------------
+Operator    [1]
+--------------------------------------------------------------------------------
+Welcome, everyone, to today's joint analyst call, Orchard Therapeutics and Pharming Group. My name is Simona, and I will be your coordinator today. (Operator Instructions)
+I will now hand you over to your host, Sijmen de Vries, Chief Executive Officer of Pharming Group, to begin. Sijmen, please go ahead.
+
+--------------------------------------------------------------------------------
+Sijmen de Vries,  Pharming Group N.V. - CEO & Executive Director    [2]
+--------------------------------------------------------------------------------
+Thank you very much. Ladies and gentlemen, good afternoon to this joint analyst call. And before I will be saying something, I would like to point out to the next slide, the forward-looking statement slide because we will be making some forward-looking statements about our future plans and development plans, clinical results and other future conditions. And I would like to refer to our website for further information into the SEC statements.
+That brings me to introducing my colleagues here today. If everything is correct, you should see some beautiful pictures now of Dr. Anurag Relan, our new Chief Medical Officer; my colleague, Dr. Bobby Gaspar, the CEO of Orchard Therapeutics, who will be speaking to you as well after my short introduction.
+And then it is briefly, an overview of Pharming Group as a company. We are, of course, a long-existing company already, listed on the Amsterdam Stock Exchange and on the Nasdaq, and we're specializing in rare and ultra-rare disease development and commercialization. And our marketed lead product, RUCONEST, the recombinant human C1 esterase inhibitor, was developed using our unique technology platform. And we started this, all this research about 20 years ago. So we have a deep understanding and we have a lot of experience in the hereditary angioedema field.
+The product is approved for the treatment of acute attacks in patients with hereditary angioedema. And we have established, in the meanwhile, a full-sized commercial infrastructure in the U.S. where we sell RUCONEST ourselves and in the European Union. And we have some partnerships in Latin America, Korea and Israel.
+We're also working on clinical trials and follow-on indications, and we are already in-licensed in a late-stage compound recently for another disease, leniolisib for activated phosphoinositide 3-kinase delta syndrome as part of our growth strategy.
+And then gets to the next slide. You will see our 3-pillar strategy for growth, and that's the reason why we are here today. Because on the right-hand side, I was just referring to the fact that we have recently in-licensed leniolisib for the treatment of APDS, which is the part where we're doing -- where we're very active in the market to try to leverage our commercialization structure, infrastructure with compounds that we can launch and sell within a window of 2 to 3 years' time, to fill the gap in our pipeline and to accelerate the growth of the company in the short to medium term.
+And leniolisib is a product that is -- has just completed the enrollment in its final pivotal trial and where we're aiming to hopefully get an -- first approval by end of next year. So that truly meets that expectations. We're hunting for more products there. We're very active in that market.
+In the middle, you see there the expanding indications of the C1 inhibitor. Of course, that's the active compound in RUCONEST where we are engaged in several trials for -- to explore the virtues of recombinant C1 esterase inhibitor, which is the middle pillar here, and where we are working on additional opportunities to use our transgenic manufacturing technology, most notably alpha-glucosidase for Pompe as enzyme replacement therapy.
+And then finally, on the left-hand side, why we are here today, is because we're not only fully commercializing RUCONEST and maximizing the sales over the coming years, but we have also figured that where we were driven by innovation 20 years ago, we are still very much driven by innovation today. And we have been making statements to the patient organization that we are committed to try to find a cure for hereditary angioedema.
+That is the reason why we are here today, of course, because we have now, in this unique collaboration today, found a partner in Orchard Therapeutics, where we believe that we can work together over the coming years to bring this, hopefully, to a reality. Early days, of course, but there is, of course, this promise on the horizon for this new opportunity.
+And that said, I would like to then hand over to my colleague, Dr. Anurag Relan, to talk a little bit about the unmet medical needs and the disease, hereditary angioedema. Anurag, over to you please.
+
+--------------------------------------------------------------------------------
+Anurag Relan,  Pharming Group N.V. - Chief Medical Officer    [3]
+--------------------------------------------------------------------------------
+Thank you, Sijmen. So I want to talk a little bit today about hereditary angioedema. And as many of you know, HAE is caused by deficiency of a plasma protein called C1 inhibitor. This deficiency results in these uncontrolled, unpredictable attacks or swelling in various parts of the body. Patients currently use medication to treat these attacks as well as prevent such attacks, and RUCONEST is approved for the treatment of these attacks.
+Over time, though, what we've seen is that with new treatments that offer better attack reduction rates, we see increasing use of prophylaxis because patients want normal lives and they want to be completely attack-free. And these new drugs that include drugs that block the kallikrein pathway or the bradykinin receptor antagonist, they are quite effective. However, C1 inhibitor levels are unchanged, and they remain low with the -- despite the use of these new therapies. And as such, we find that about half of patients, according to the published data, continue to experience breakthrough attacks and some quite frequently despite the use of these new prophylactic agents and still need to use regular breakthrough medication. So we continue to believe that there is a significant need here in HAE to help these patients achieve this ultimate goal of being completely attack-free.
+And with that, I'll turn over to Dr. Bobby Gaspar, CEO of Orchard.
+
+--------------------------------------------------------------------------------
+Bobby Gaspar,  Orchard Therapeutics plc - CEO, Member of Scientific Advisory Board & Executive Director    [4]
+--------------------------------------------------------------------------------
+Thank you, Sijmen. Thank you, Anurag. Good afternoon and good morning to everyone participating.
+If we go to Slide 7. Guiding into our prepared remarks, I would like to remind everyone that during this call, I'll be making forward-looking statements. Actual events and results could differ materially from those expressed or implied by any forward-looking statements as a result of various risk factors and uncertainties outlined on this slide and in our most recent SEC filings.
+Go to the next slide. For those not familiar, Orchard Therapeutics is a global gene therapy leader dedicated to transforming the lives of people affected by severe diseases through the development of innovative, potentially curative gene therapy. Our ex vivo autologous gene therapy approach harnesses the power of genetically modified blood stem cells, and we seek to correct the underlying core of this disease in a single administration.
+Next slide. So let's take some time to better understand what hematopoietic stem cell or HSC gene therapy is. In the HSC gene therapy approach Orchard specializes in, we firstly start by collecting a patient's own hematopoietic stem cells, and we can do this either from the bone marrow or from mobilized peripheral blood. And we then select and purify those stem cells. Then we insert a functional or working copy of the gene into the genome of the patient's own HSCs using a lentiviral vector so that once engrafted, every time the cell replicates, that functional copy of the gene is passed on. Then the patient is conditioned to receive new treatment. And finally, we infuse through a vein gene-corrected hematopoietic stem cells back into the patient. This approach, as we've seen in multiple other diseases, has the potential to offer stable, ongoing production of gene-corrected HSCs.
+Let's go to the next slide. As our HSC gene therapy platform approach (inaudible) to the treatment of HAE, the newly disclosed program, OTL-105, offers a potentially highly differentiated modality by using the blood system to increase the levels of C1 inhibitor in the serum to prevent HAE attacks.
+Now hematopoietic stem cells are responsible for sustained production of all blood cells and has 3 characteristics that make them ideal as a gene therapy approach for the
+(technical difficulty) 
+Firstly, these cells are
+(technical difficulty)
+Secondly, they give rise to multiple cell types in the bloodstream. And finally, they're able to -- they enable the secretion of C1 inhibitor enzymes into the serum.
+Importantly, across our portfolio, HSC gene therapy has already shown -- has already been shown to secrete specific enzymes, such as the ARSA enzyme in MLD, IDUA enzyme in MPS-I, the ADA enzyme. And we could secrete those enzymes at normal or super normal level. And if we can do that, we can also do the same for other proteins or factors.
+Indeed, in our preclinical studies, we've already shown the secretion of C1 inhibitor. We've already seen and shown the secretion of C1 inhibitor from HSCs and their progeny. But OTL-105 is designed to insert one or more functional copies of the SERPING1 gene into patient's HSCs, which are then transplanted into that individual to potentially restore functional levels of C1 inhibitor.
+We go to the next slide. Looking broadly across our portfolio, we've observed clinical efficacy, safety and durability across multiple indications and therapeutic areas in clinical settings to date. Our platform approach has been further validated by the recent EMA approval of Libmeldy, an HSC gene therapy indicated for the treatment of early-onset metachromatic leukodystrophy, or MLD. We've treated more than 160 patients across 6 indications with our HSC gene therapy platform approach and possess more than 10 years of follow-up data in the earliest treated of these patients. And this large and extensive body of research gives us the confidence to grow and expand into other indications such as HAE.
+And if we go to the next slide. And as we shared at our R&D Day last November, Orchard Therapeutics intends to unlock the full potential of our HSC gene therapy platform approach. With the approval of Libmeldy in December 2020, along with several other late-stage programs progressing in our pipeline, we're building unparalleled capability and expertise in the development, manufacture and commercial infrastructure to create significant near-term value for the patients and communities that we serve. But we also see tremendous potential for HSC gene therapy in larger indications, which we intend to continue exploring through partnership opportunities like this, based on disease expertise and commercial footprint.
+Today's announcement aligns with this strategy as Pharming has 2 decades of clinical and commercial experience in HAE with RUCONEST. And we look forward to working together to bring this potentially transformative therapy forward for the HAE community.
+And next slide, just to look at our partnership overview. Together, Orchard and Pharming are combining our respective expertise and experience to develop a best-in-class HAE gene therapy with the potential to provide lifelong prophylaxis following a single administration.
+Under the terms of the collaboration, Pharming has been granted worldwide rights to OTL-105 and will be responsible for clinical development, regulatory filing and commercialization of the investigational gene therapy, including associated costs. Orchard would lead the completion of the IND-enabling studies and oversee manufacturing of OTL-105 during preclinical and clinical development, which will be funded by Pharming. Orchard will receive an upfront payment of $17.5 million comprising $10 million of cash and a $7.5 million equity investment from Pharming at a premium to Orchard's recent share price.
+Orchard is also eligible to receive up to $189.5 million in development, regulatory and sales milestones as well as mid-single to low double-digit royalty payments on future worldwide sales. This collaboration highlights the broader potential of Orchard's HSC gene therapy approach in new and larger indications and reinforces Pharming's long-standing commitment to the HAE community.
+So with that, let's have the operator open the line for questions.
+
+
+================================================================================
+Questions and Answers
+--------------------------------------------------------------------------------
+Operator    [1]
+--------------------------------------------------------------------------------
+(Operator Instructions) Our first question is from Gena Wang of Barclays.
+
+--------------------------------------------------------------------------------
+Xiaozhou Fan,  Barclays Bank PLC, Research Division - Research Analyst    [2]
+--------------------------------------------------------------------------------
+This is Sheldon on for Gena. So first of all, just -- could you just share your thoughts on the relative advantage of expressing C1 inhibitor versus the other approaches in the field that are mainly for knocking down or knocking out category? So why would you choose C1 inhibitor?
+
+--------------------------------------------------------------------------------
+Sijmen de Vries,  Pharming Group N.V. - CEO & Executive Director    [3]
+--------------------------------------------------------------------------------
+Maybe, Anurag, you want to talk a little bit about C1 inhibitor versus other approaches for HAE?
+
+--------------------------------------------------------------------------------
+Anurag Relan,  Pharming Group N.V. - Chief Medical Officer    [4]
+--------------------------------------------------------------------------------
+Sure. So I think as we know, hereditary angioedema is caused by a deficiency of C1 inhibitor. And so it's quite logical and shown in clinical trials that if you increase C1 inhibitor levels, you can both treat an attack as well as prevent attacks. So this is a quite natural and physiologic approach to treating the disease, is to restore hopefully normal levels of C1 inhibitor in these patients. And that's really the goal with this approach is to restore functional levels that fully correct HAE as opposed to other approaches that attempt to disrupt only one of the pathways that C1 inhibitor is involved in.
+
+--------------------------------------------------------------------------------
+Xiaozhou Fan,  Barclays Bank PLC, Research Division - Research Analyst    [5]
+--------------------------------------------------------------------------------
+As a quick follow-up, can you talk about what additional pathway that C1 inhibitor will impact versus kallikrein? We know that there are relatively -- one is more upstream and the other one is relatively more downstream. So is there any additional targets that C1 inhibitor can affect that can provide you a differentiating advantage?
+
+--------------------------------------------------------------------------------
+Anurag Relan,  Pharming Group N.V. - Chief Medical Officer    [6]
+--------------------------------------------------------------------------------
+Sure. So C1 inhibitor is actually a multifunctional protease inhibitor, inhibits numerous proteases. And among those are kallikrein, but it also inhibits factor -- activated factor XII, it inhibits C1r, C1s, and numerous other proteases. And these are involved in the -- as well as the contact system where the kallikrein is involved, but also in the complement system and the fibrinolytic and coagulation cascades. So it's involved in numerous other pathways besides just its involvement in the blockage of kallikrein.
+
+--------------------------------------------------------------------------------
+Operator    [7]
+--------------------------------------------------------------------------------
+Our next question comes from Dae Gon Ha of Stifel.
+
+--------------------------------------------------------------------------------
+Dae Gon Ha,  Stifel, Nicolaus & Company, Incorporated, Research Division - Research Analyst    [8]
+--------------------------------------------------------------------------------
+I just wanted to ask about the competitive dynamics to the Pharming team. This field seems to be burgeoning with not only multiple modalities, but also multiple routes of administration with the (inaudible) of an oral prophylaxis drug from BioCryst. So I've heard some, I guess, commentary around trial enrollment challenges as well as the end points that's evolving as more agents come to the fore. So I guess, Anurag or anyone from the Pharming team, can you just (inaudible) bit of dynamics on how you see the lentiviral approach fitting into the overall landscape? And then I've got a follow-up.
+
+--------------------------------------------------------------------------------
+Sijmen de Vries,  Pharming Group N.V. - CEO & Executive Director    [9]
+--------------------------------------------------------------------------------
+Sure. Maybe I'll start commenting a little bit about the -- Sijmen here, about the competitive landscape. Indeed, you've seen many new entrants over the last few years. We also came relatively late to the market with RUCONEST. What we do see continuously in HAE is that prophylactic therapies, for instance, have improved significantly over the years. And I think at the moment, the bradykinin/kallikrein inhibition long-acting monoclonal antibody is considered to be some sort of a gold standard.
+However, there's still about 50% going to publish data of patients who are not fully controlled and have varying degrees of breakthrough attacks. There's also a significant portion of patients who still take twice-a-week, very painful and long-lasting subcutaneous injections of plasma-derived C1 inhibitor, enormous volumes, 6 and 4 millimeters twice a week to actually deal with their prophylaxis and then also still have breakthrough attacks to varying degrees.
+So there is a considerable unmet medical need that's also not dealt with by new oral therapies that we see. For instance, you mentioned the recent introduction of an oral prophylactic therapy. That also, according to published data, has a significant breakthrough rate of the attacks. So therefore, the unmet medical need remains and, therefore, we see a lot of upside and a lot of potential to bring a therapy that is potentially curative for the disease.
+Because that's the ultimate goal, obviously, where patients do not want to live anymore with the genetic disease like this, but can actually live a normal life without having to worry about prophylaxis, without having to worry about breakthrough medication because that is a constant burden that these patients are living under. Even when they're well controlled on their prophylaxis, they still have their treatment plans, they still always have their breakthrough medication at hand because this is a very unpredictable and nasty disease that can show up at any time. Because do not forget, it's stress-related and, therefore, it's very unpredictable.
+So bringing a total new modality here with a total different -- with a jump forward from all these approaches -- because there's no variety in approaches actually in development at the moment. It's all oral bradykinin/kallikrein inhibition or bradykinin/kallikrein inhibition or any other way. Therefore, we think this is a very important step forward towards bringing these patients a life that is really without the disease.
+Maybe, Anurag, you can comment a little bit on the question about the clinical trials going on in the market. Do you know anything about that?
+
+--------------------------------------------------------------------------------
+Anurag Relan,  Pharming Group N.V. - Chief Medical Officer    [10]
+--------------------------------------------------------------------------------
+Sure. And I mean I think, Sijmen, you summarized very well the issues related to the current therapies: number one, the breakthrough attack rates; and number two, the treatment burden. And what we've seen is, because of that, patients and physicians are still interested in participating in clinical trials. And I think moving forward, this offer -- this hope to have a normal life is really what's going to drive that enrollment and that participation.
+
+--------------------------------------------------------------------------------
+Dae Gon Ha,  Stifel, Nicolaus & Company, Incorporated, Research Division - Research Analyst    [11]
+--------------------------------------------------------------------------------
+Okay. I wanted to shift gears and ask a little bit about the nontoxic conditioning regimen that was highlighted in the press release this morning. I guess busulfan has been the most predominantly used for lentiviral, I guess, [pre-administration] of the treated cells. Can you at least provide a little bit of color? I don't know if you're -- if there are proprietary reasons to what or how much you can disclose of that. But what can you share at this time of the nontoxic? Are we talking no adverse events or just lower dose of busulfan or a mixture of different condition (inaudible) toxic? Any (inaudible) there?
+
+--------------------------------------------------------------------------------
+Sijmen de Vries,  Pharming Group N.V. - CEO & Executive Director    [12]
+--------------------------------------------------------------------------------
+Bobby, you want to take that one?
+
+--------------------------------------------------------------------------------
+Bobby Gaspar,  Orchard Therapeutics plc - CEO, Member of Scientific Advisory Board & Executive Director    [13]
+--------------------------------------------------------------------------------
+Yes, thank you. Yes, thanks for the question. So the use of a nontoxic conditioning regime I think is very important. And Orchard, for other programs, we've been investigating this very extensively and have talked to a number of partners about nontoxic conditioning regimes that are moving away from standard chemotherapy agents, such as busulfan.
+So there are a number of options in this area. There are a number of companies that are developing this. A number of these are based on nontoxic monoclonal antibody-based regimes that are focused on depleting stem cells through using monoclonal antibodies directed at specific markers on those stem cells. Some of these are in clinic already and showing promise in certain diseases.
+So I think this field is moving very fast. And we will be looking at the use of that even in our preclinical studies to see if we can achieve the relevant level of C1 inhibitor in the preclinical studies using a nontoxic conditioning regime. And of course, that is then the kind of the precursor to being able to do this in the clinical trials. And we think it is very important to be able to -- for conditions like HAE to use conditioning regimes with lower associated clinical risks.
+
+--------------------------------------------------------------------------------
+Operator    [14]
+--------------------------------------------------------------------------------
+Our next question is from Joe Pantginis of H.C. Wainwright.
+
+--------------------------------------------------------------------------------
+Joseph Pantginis,  H.C. Wainwright & Co, LLC, Research Division - MD of Equity Research & Senior Healthcare Analyst    [15]
+--------------------------------------------------------------------------------
+Very exciting announcement. I'm really taking a step forward here with regard to what the -- a, what you think the potential clinical program might look like. And then also the second part of my question is, what do you anticipate the vein-to-vein time looking like? And any additional efficiencies that you'd like to incorporate into the program? And what any additional manufacturing needs might be?
+
+--------------------------------------------------------------------------------
+Sijmen de Vries,  Pharming Group N.V. - CEO & Executive Director    [16]
+--------------------------------------------------------------------------------
+Bobby, would you like to take this question from Joe?
+
+--------------------------------------------------------------------------------
+Bobby Gaspar,  Orchard Therapeutics plc - CEO, Member of Scientific Advisory Board & Executive Director    [17]
+--------------------------------------------------------------------------------
+Yes, sure. And so I won't comment on the clinical development. And maybe I'll hand that back to Anurag, but we could start with what the kind of the production of the product and the vein-to-vein time looks like.
+So what we do -- and we have an awful lot of experience in this area of treating different diseases with HSC gene therapy. Essentially, we take the patient's own blood stem cells. We purify those cells. The patient can usually come into a hospital and have that done almost on an outpatient -- have that done on an outpatient basis. The cells are taken. They're taken to a manufacturing site. There, we introduce a working copy of the gene into those cells. The cells are -- the gene-modified cells are then frozen down. We do quality control around those cells, and then the cells go back to the hospital site where the patient receives conditioning. And then the cells are infused into a vein, and then they kind of find their way to the bone marrow and start to then produce the factor.
+Now the whole process takes about 4 weeks. So the patient comes in, has their -- cells are taken. They can go home again at that point. And about 4 weeks later, they come back, receive their conditioning and then have the cells infused. So that's the kind of time frame over which that is done.
+So certainly, your second point of question was about manufacturing. So Orchard, again, has huge experience in manufacturing of the various different aspects of these gene therapy products. So this involves making clinical-grade, commercial-grade lentiviral vector, which we've done for other programs, and also being able to correct these cells in the appropriate accredited conditions. And again, we've been able to do this. So we'll be following similar patterns as far as that is concerned.
+So I'll hand it over to Anurag because I think there was a -- the first part of the question is about clinical trial development.
+
+--------------------------------------------------------------------------------
+Sijmen de Vries,  Pharming Group N.V. - CEO & Executive Director    [18]
+--------------------------------------------------------------------------------
+Yes.
+
+--------------------------------------------------------------------------------
+Anurag Relan,  Pharming Group N.V. - Chief Medical Officer    [19]
+--------------------------------------------------------------------------------
+Thanks for the questions. So given where we are right now in the stage of the program, our clinical plans are not final, and we haven't had regulatory discussions yet. But what we do -- what we can say is that there are established end points in the field of HAE prophylaxis, and we know they are clinically relevant end points. And mainly, it's actually a very simple end point. How many attacks do these patients have? And simply counting those attacks over time is well established in the field of prophylaxis and hereditary angioedema that we can feel confident that that's really -- the goal is to reduce and hopefully completely eliminate attacks in these patients.
+How we do those comparisons, whether we do those among patients or within a patient, all of those things will be worked out as we progress along the program and have the appropriate regulatory discussions. But I think you can imagine what the end points will look like in the clinical development plan.
+
+--------------------------------------------------------------------------------
+Operator    [20]
+--------------------------------------------------------------------------------
+Our next question is from Christian Glennie of Stifel.
+
+--------------------------------------------------------------------------------
+Christian Glennie,  Stifel, Nicolaus & Company, Incorporated, Research Division - Analyst    [21]
+--------------------------------------------------------------------------------
+First one then. Wonder if you could just compare and contrast a little bit your HSC approach versus a more standard adenovirus approach in therapy. I know BioMarin's got a candidate looking at going to clinic I think fairly soon. Just to compare and contrast the relative merits of the 2 approaches. They're also looking to deliver the SERPING1 gene to deliver -- to generate C1 inhibitor. So just interested in any thoughts there and compare and contrast the 2 approaches as it may be relevant to HAE.
+
+--------------------------------------------------------------------------------
+Sijmen de Vries,  Pharming Group N.V. - CEO & Executive Director    [22]
+--------------------------------------------------------------------------------
+Bobby, you want to take that question?
+
+--------------------------------------------------------------------------------
+Bobby Gaspar,  Orchard Therapeutics plc - CEO, Member of Scientific Advisory Board & Executive Director    [23]
+--------------------------------------------------------------------------------
+Yes. And of course, we know -- thank you for that question. And we are obviously aware of other approaches, gene therapy approaches, especially using AAV. And so -- and to a certain extent, the AAV approach, a bit like for hemophilia, there have been issues around the ability to sustain the appropriate levels. So there has been a falloff or diminishment of the levels of production of protein using AAV. And that is due to the fact that when you're using AAV, you don't integrate -- get integration into the genome. And it means that as cells divide, that genetic information is not passed on, and that's why you get this kind of dilution.
+And you also have to remember that for C1 inhibitor, there is a significant increase in the amount of protein that needs to be produced in comparison to what the amount of protein that you have to produce for factor VIII or factor IX.
+So if there are difficulties in producing the amount of factor VIII and factor IX, there may be difficulties in producing that level of C1 inhibitor using an AAV approach. And as I said, the durability is still to be established.
+Using our HSC gene therapy approach, we know that we can produce levels of enzyme in -- for MLD, for MPS-I and other storage diseases at normal or even super normal levels. And so that is -- we've been able to do that, and we've been able to follow patients for many, many years with the same levels of normal and super normal expression.
+So we're very confident about stability of expression from our HSC gene therapy approach. And that is about the fact that we're integrating the gene into the genome of target cells, so every time that cell divides, that genetic information has been passed on.
+And so I think from an efficacy perspective, from a durability perspective, we feel confident that the HSC gene therapy approach can offer something that the AAV approach cannot. And clearly, from a safety perspective as well, we have a huge amount of safety data on our platform across multiple different diseases, patients follow up for many, many years. We have seen some toxicities associated with AAV when you try and increase the amount of vector particles that are infused systemically. So -- and again, obviously, people will take a view on the different approaches, but I think those are the advantages that HSC gene therapy has.
+
+--------------------------------------------------------------------------------
+Christian Glennie,  Stifel, Nicolaus & Company, Incorporated, Research Division - Analyst    [24]
+--------------------------------------------------------------------------------
+I guess that's very helpful. The follow-up then is a quick thought on potential timing for entering clinic or IND studies, and then more strategically, the rationale. I mean why partner with Pharming at this point in time? I mean presuming you could also have decided to take this through into clinic and into mid-stage trials, for example, and then licensed it, for example. What's the decision on licensing at this point?
+
+--------------------------------------------------------------------------------
+Sijmen de Vries,  Pharming Group N.V. - CEO & Executive Director    [25]
+--------------------------------------------------------------------------------
+My question to you, Bobby.
+
+--------------------------------------------------------------------------------
+Bobby Gaspar,  Orchard Therapeutics plc - CEO, Member of Scientific Advisory Board & Executive Director    [26]
+--------------------------------------------------------------------------------
+Thank you very much. So yes, so listen, we've started our preclinical studies. We're going to be entering into in vivo proof-of-concept studies in relevant disease models. So I think from where we stand at the moment, over the next couple of years, we are planning to do the necessary proof-of-concept and IND-enabling studies to be able to enter in the clinic. And as soon as we kind of have more clarity and time lines on that, then we can -- but I'd say that's the kind of general time frame that we're looking at. And we'll be working very closely with Pharming with respect to what needs to be done before we can get into a first-in-man study.
+I think on the partnership front, Orchard has, say, a portfolio of indications that we are developing gene therapy for. As we've talked about at our last R&D Day, we're also looking at certain neurodegenerative conditions for larger forms of dementia. We're looking at Crohn's disease. And we have a kind of research pipeline that is looking at the use of HSC gene therapy for a whole series of wider applications.
+This was one of the programs that we felt was particularly interesting, where we thought an HSC gene therapy could have a distinct advantage. But of course, we're not experts in this area. We don't have the clinical expertise. We don't have the commercial expertise. And we do think that strategically for certain programs, we would like to partner with experts in the field. And Pharming is clearly one of the few experts in this area, have an approved product, have a commercial infrastructure, has dedication to the patient community to bring this forward. And so they are an excellent partner for us. And so I think together with their expertise and our HSC gene therapy experience, it makes a very powerful combination.
+
+--------------------------------------------------------------------------------
+Operator    [27]
+--------------------------------------------------------------------------------
+Our next question is from Kevin DeGeeter of Oppenheimer.
+
+--------------------------------------------------------------------------------
+Zhiqi He,  Oppenheimer & Co. Inc., Research Division - Associate    [28]
+--------------------------------------------------------------------------------
+This is Zhiqi on behalf of Kevin DeGeeter. Just wanted to -- maybe you can provide some guidance on the addressable patient population. Is there a -- like an optimal age of dosing? Or do the patients have to be identified as certain genotypes to be eligible for gene therapy?
+
+--------------------------------------------------------------------------------
+Sijmen de Vries,  Pharming Group N.V. - CEO & Executive Director    [29]
+--------------------------------------------------------------------------------
+Again, Bobby, for you, please.
+
+--------------------------------------------------------------------------------
+Bobby Gaspar,  Orchard Therapeutics plc - CEO, Member of Scientific Advisory Board & Executive Director    [30]
+--------------------------------------------------------------------------------
+Yes. So I mean -- so we are looking at patients with mutation in the SERPING1 gene. So that is the gene that we will be expressing from the gene-modified HSCs, and this gives rise to the C1 inhibitor expression. So it is indicated for patients with mutations in SERPING1, which -- and Anurag can comment. I mean this is the majority of patients with HAE or the vast majority of patients with HAE.
+In terms of the patient population in terms of age, our HSC gene therapy has been used in -- from infants all the way through to adult. So from where we are now, we don't think that this is -- needs to be confined to any specific age range but can be used for the whole breadth of patients with SERPING1-mutated HAE.
+
+--------------------------------------------------------------------------------
+Operator    [31]
+--------------------------------------------------------------------------------
+Our next question comes from Graig Suvannavejh of Goldman Sachs.
+
+--------------------------------------------------------------------------------
+Graig Suvannavejh,  Goldman Sachs Group, Inc., Research Division - Executive Director & Senior Equity Research Analyst    [32]
+--------------------------------------------------------------------------------
+Congratulations to both companies on the deal. I just wanted to learn a little bit more about the SERPING1 gene target or gene of interest. It's a relatively new gene for me. And I just want to understand a little bit better about expression in the body. And as I've come across some of the academic literature, there does seem to be some body of evidence that points to a potential role of the gene in certain cancers. And so if you could just address whether there are potential on-target or off-target toxicity that we should be looking for or be aware of as the clinical development of this program progresses.
+
+--------------------------------------------------------------------------------
+Sijmen de Vries,  Pharming Group N.V. - CEO & Executive Director    [33]
+--------------------------------------------------------------------------------
+Anurag, would you like to venture on that one first?
+
+--------------------------------------------------------------------------------
+Anurag Relan,  Pharming Group N.V. - Chief Medical Officer    [34]
+--------------------------------------------------------------------------------
+Sure. And it's an interesting question, but we do have a lot of knowledge about C1 inhibitor. It's a protein that's been discovered decades ago. It's involved in numerous inflammatory cascades, as I mentioned earlier. And we also know a lot about the condition itself, hereditary angioedema.
+And these patients, despite missing this protein, their main phenotype seems to be limited to these attacks. I say limited, but it's -- given that it is a serious and severe debilitating disease, but they don't seem to be predisposed towards other conditions and other problems because of this missing protein. So we think that by replacing this missing protein and trying to achieve normalization of their functional activity in the serum, that we can address the underlying condition and really not have any issues related to off-target effects. Does that answer your question?
+
+--------------------------------------------------------------------------------
+Graig Suvannavejh,  Goldman Sachs Group, Inc., Research Division - Executive Director & Senior Equity Research Analyst    [35]
+--------------------------------------------------------------------------------
+It does.
+
+--------------------------------------------------------------------------------
+Operator    [36]
+--------------------------------------------------------------------------------
+Our next question is from Tessa Romero from JPMorgan.
+
+--------------------------------------------------------------------------------
+Tessa Thomas Romero,  JPMorgan Chase & Co, Research Division - Associate    [37]
+--------------------------------------------------------------------------------
+You talked about 50% of the patients using new prophylaxis treatment still having these breakthrough events. My question is what portion of the HAE patient population do you think could be good candidates for HSC gene therapy? And have you gathered any physician feedback on this point?
+
+--------------------------------------------------------------------------------
+Sijmen de Vries,  Pharming Group N.V. - CEO & Executive Director    [38]
+--------------------------------------------------------------------------------
+Yes. Okay. Maybe I'll start off with that. Yes, we talked about a considerable, approximately 50% of patients still having these breakthroughs. I would say that in the beginning, of course, I suggest that -- suppose that people suffering the highest frequency of attacks will be the keenest to get to this therapy once approved.
+Now when you, of course, bring a therapy, and let's just assume that therapy works as we hope it will work, that it will be a one-off treatment to basically provide a lasting effect, then I suppose that when you have such a genetic disease, and we were already talking about it earlier in the conversation, how much these patients still are burdened by the disease or by the threat of having these unpredictable attacks, gradually more and more people will start being interested, of course, in receiving such a therapy that could give that lasting effect and a carefree life without having to think about medication, medication plans.
+So initially, of course, like always with these things, it's probably the most severely affected patients that would be interested. But gradually, I think, given the nature and the devastating nature of the disease and the unpredictable nature of the disease, I think all HAE patients that suffer from these attacks will be interested in getting this -- the therapy, especially if we, of course, succeed.
+And this is where we're aiming for. Like Bobby was also explaining, that will be -- this therapy will be associated with a nontoxic conditioning regimen, which makes the burden of the therapy significantly less. That means that it will be accepted. We have no doubt about the acceptability of the therapy as such.
+Anurag, would you like to give some further comments on that?
+
+--------------------------------------------------------------------------------
+Anurag Relan,  Pharming Group N.V. - Chief Medical Officer    [39]
+--------------------------------------------------------------------------------
+Yes. I think you summarized it well, and I'll come back to a couple of points we made earlier. There's not only these -- the breakthrough attacks themselves, but there's the treatment burden. So as Sijmen referred to, for example, there's still a significant portion of patients who are using twice-weekly subcutaneous C1 inhibitor injections. And on top of that, some of those patients need breakthrough therapy treatments. So there is a portion of patients that have not only these attacks, but this treatment burden for these attacks, along with the unpredictable aspect where you're worried about another event happening.
+So again, I think that's probably where you'll see the most interest initially. But as we progress and hopefully offer those patients something meaningful in terms of elimination of their attacks, I think you -- the potential to get much broader uptake is there.
+
+--------------------------------------------------------------------------------
+Tessa Thomas Romero,  JPMorgan Chase & Co, Research Division - Associate    [40]
+--------------------------------------------------------------------------------
+Great. Just a quick one. Are you able to give us the breakdown of how the development, regulatory and sales milestones will split out?
+
+--------------------------------------------------------------------------------
+Sijmen de Vries,  Pharming Group N.V. - CEO & Executive Director    [41]
+--------------------------------------------------------------------------------
+They are not disclosed, no. Sorry there. But it's probably fairly typical to what you can expect from a deal in this stage of development of a compound. You can also see it on how it is divided between the upfront and the total number of milestones but also on the royalty percentages. Nothing atypical about it.
+
+--------------------------------------------------------------------------------
+Operator    [42]
+--------------------------------------------------------------------------------
+The next question is from David Hoang of SMBC Nikko.
+
+--------------------------------------------------------------------------------
+David Timothy Hoang,  SMBC Nikko Securities America, Inc., Research Division - Research Analyst    [43]
+--------------------------------------------------------------------------------
+Congrats on today's deal. So I just had a couple of quick ones. For those of us that are maybe a little bit less familiar with HAE and its biology, can you talk a little bit about the long-term outcomes with these patients on current therapies? Is there any -- are there any impacts on long-term survival and long-term mortality and morbidity?
+
+--------------------------------------------------------------------------------
+Sijmen de Vries,  Pharming Group N.V. - CEO & Executive Director    [44]
+--------------------------------------------------------------------------------
+This is a lifelong disease, right? This is -- if you have a good -- nowadays, if you have a good treatment plan and you are precise on your medication so that you always treat yourself at the first sign of the attacks, then you can manage this disease pretty well, apart from the fact that you continue to live with this and you continuously have to medicate yourself and it's extremely expensive. Let's not forget that.
+So the mortality is relatively low. It still happens though that patients end up that are unable to medicate themselves because they all medicate at home, they all take decisions themselves at home when they feel an attack coming because most of the attacks have prodromes.
+So -- but if they don't, are not careful enough or are in surroundings where they can't treat themselves and they end up in hospitals in an intensive care unit and they come in with a swelling and they can't be communicating properly anymore, that's a very dangerous -- potentially dangerous situation where the intensive care doctors that are not familiar with the -- necessarily familiar with hereditary angioedema misdiagnose the patients. And then accidents still happen that patients die on intensive care because they're not given -- they're not being able to communicate that they need their medication or they're not given their medication because the treating physician has made a different diagnosis. And that's very tragic, obviously.
+In countries, of course, where there's not so much medication available, these accidents happen more often. But generally speaking, this disease can be managed, I'm saying here, at the expense of a lot of treatment burden, a lot of costs by these patients. Does it give you any insights in it so far? Or would you like to have more?
+
+--------------------------------------------------------------------------------
+David Timothy Hoang,  SMBC Nikko Securities America, Inc., Research Division - Research Analyst    [45]
+--------------------------------------------------------------------------------
+Yes, that was really helpful. Maybe just a follow-up question there, if I may. In terms of the -- you mentioned high costs. What's sort of the annual cost burden for typical patients that we're looking at and which you might be able to offset with a onetime gene therapy?
+
+--------------------------------------------------------------------------------
+Sijmen de Vries,  Pharming Group N.V. - CEO & Executive Director    [46]
+--------------------------------------------------------------------------------
+Yes. Typical pricing for prophylactic therapies is around -- in the U.S., around $500,000 a year. Plus on top of that, cost for the treatment of the attacks, which is for -- per attack between, let's say, $10,000 and $15,000 per attack that you want to treat. So there's considerable costs associated with treating patients that have high-frequency attacks or use prophylaxis, and in addition to prophylaxis, have to use the breakthrough attacks. Does that answer your question properly?
+
+--------------------------------------------------------------------------------
+David Timothy Hoang,  SMBC Nikko Securities America, Inc., Research Division - Research Analyst    [47]
+--------------------------------------------------------------------------------
+Yes, that does.
+
+--------------------------------------------------------------------------------
+Operator    [48]
+--------------------------------------------------------------------------------
+Our next question is from Yaron Werber of Cowen.
+
+--------------------------------------------------------------------------------
+Brendan Mychal Smith,  Cowen and Company, LLC, Research Division - Research Analyst    [49]
+--------------------------------------------------------------------------------
+This is Brendan on for Yaron. Just really quickly, I wanted to see if you can maybe give us a little more granularity on some of the key like preclinical data here that you think will be important specifically for an HSCG approach in this space. I know you're limited in terms of visibility on timing. But just to get a sense of what you're really focusing on for the IND-enabling studies, given that it's a brand-new modality here and what you think are the most important components to show.
+And then just really quickly, while we have the Pharming team here, given their presence and experience in the acute space, this is kind of piggybacking on some of the market opportunity questions earlier here. Do you all see kind of an opportunity to convert any of those maybe 30% to 40% of HAE patients who opt for acute-only treatment? Or should we kind of think of this as pretty largely within that 50% to 70% looking for prophy?
+
+--------------------------------------------------------------------------------
+Sijmen de Vries,  Pharming Group N.V. - CEO & Executive Director    [50]
+--------------------------------------------------------------------------------
+Okay. Maybe I'll take the first -- the last bit first. I think eventually, we're looking at all hereditary angioedema patients. I would think that, of course, when you take prophylaxis and you still have breakthrough attacks, you have a considerable burden of treatment. So therefore, you'd probably be interested in looking at this treatment. But I'm also thinking about if you treat yourself acutely and then you could be very interested.
+But the other important thing is, from time to time, these patients end up -- if you don't manage the disease well, don't have access to the medication, you end up in the intensive care units and barely survive attacks. And those patients will be very motivated, of course, to never have the experience again.
+And we know this from very frequent conversations with these patients. This is a community that is very closely knit and that is -- it's a stress-related disease. So therefore, once you have had that, you never want to have that experience again. And some people have had multiples of these experiences. So there will be a big variety of patients who will be interested in this disease. I would say, hardly anybody accept it, of course, provided we deliver what we are aiming for. That goes without saying.
+And don't underestimate also, I would say, not only cost for the medication but also the cost for regular hospitalizations on the intensive care unit, and of course, the burden of not being able to live a productive, normal life because otherwise, we should not forget, these people are normal, healthy people that just have this genetic defect. And if they can manage to live a free-of-attack life, then they can be totally -- live a totally different productive life rather than being handicapped by this unpredictable disease that strikes at any moment.
+You want to comment on some of the preclinical stuff, Bobby?
+
+--------------------------------------------------------------------------------
+Bobby Gaspar,  Orchard Therapeutics plc - CEO, Member of Scientific Advisory Board & Executive Director    [51]
+--------------------------------------------------------------------------------
+Yes. Thanks, Sijmen. Yes. So yes. So we've got a plan of how we're going to progress the preclinical studies. I'd say we've started this already. We've generated vectors that carry the SERPING1 gene. We've been able to transduce human CD34+ cells. We've been able to show production, secretion of the C1 inhibitor protein already.
+We will show proof-of-concept in relevant murine model. So there is a murine model of the disease which has vascular leak, which is one of the pathophysiological aspects of the condition. And we can assay whether the expression of C1 inhibitor prevents that vascular leak. So there is, as I say, a relevant model that we can go into.
+As far as the kind of IND-enabling studies, before HSC gene therapy, there is a relatively well-trodden path for the kind of studies that need to be done before you enter into the clinic. And with our experience and the fact that we've taken this into multiple different diseases, I think we are confident about the kind of studies that we need to do.
+For example, in an in-vitro setting, you need to ensure that the expression of the gene, the C1 inhibitor in hematopoietic stem cells doesn't affect the commitment or the development of HSCs into other lineages. And I'd say, that's a kind of standard experiment that we are used to doing, and we don't anticipate that this will necessarily be the case. But that's the kind of standard assay and experiment that will need to be done.
+And then you do in vivo in murine toxicology and biodistribution studies. And again, there's a pretty standard format for doing those kind of studies. So this is what we're planning to do within the preclinical development. And I'd say, Orchard has a lot of experience in that area.
+
+--------------------------------------------------------------------------------
+Operator    [52]
+--------------------------------------------------------------------------------
+We currently have no further questions, so I will hand back over to Sijmen.
+
+--------------------------------------------------------------------------------
+Sijmen de Vries,  Pharming Group N.V. - CEO & Executive Director    [53]
+--------------------------------------------------------------------------------
+Thank you very much. Yes, I would like to express my thanks for you, for all your questions and your interest in this important step forward.
+When we set out to our commitment to try to find a cure for hereditary angioedema, we scanned the horizon and we scanned the field extensively, and we looked at a lot of opportunities. And we were very pleased that we came across Orchard Therapeutics, which not only have a proven platform in their ex vivo HSC gene therapy platform, but also we were very pleasantly surprised that they already have a candidate, OTL-105, that already demonstrated the high levels of SERPING1 gene expression and already has proven to be able to produce functional C1 inhibitor protein.
+So we were very pleased with that. So that is not only a concept that we were buying into but a real product in the making already that was there at Orchard. Hence, why it was not very difficult to find common ground between our 2 companies and to come to a collaboration that we hope will bring this curative therapy to the hereditary angioedema population, which we are living with for already most of 2 decades and which we will hope we can serve many more decades to come.
+So those were a couple of statements that I would like to make. Anurag, Bobby, would you like to make some final closing statements as well?
+
+--------------------------------------------------------------------------------
+Bobby Gaspar,  Orchard Therapeutics plc - CEO, Member of Scientific Advisory Board & Executive Director    [54]
+--------------------------------------------------------------------------------
+Yes. Thank you very much, Sijmen, and thank you for those comments. So yes, I will echo Sijmen's comments. I think this is a very exciting partnership for us at Orchard. We've always believed that the HSC gene therapy approach has the potential to really bring life-changing treatments for patients with all forms of genetic diseases. And it has been incredibly rewarding for us to see this happen in diseases like MLD where we have an approval with EMA and other immune disorders. So that has been our mission all along.
+We've also, as we've talked about, wanted to use this approach for other wider applications and in patient populations where larger numbers of individuals are affected, and that was part of our evolving strategy as a company. We focused on OTL-105 and SERPING1 because, again, we felt there was a high level of unmet need, where there were still limitations in the current therapies, and where there was an opportunity to offer a potentially curative therapy through HSC gene therapy, which is why we started that program.
+And then to be able to partner with an expert like Pharming, who has a deep knowledge of the disease, who works very closely with the patient community and are looking for a similar outcome for patients has been very satisfying. So I hope this is the -- I believe this is the start of a great partnership and a relationship to bring something very important to the patient community. So thank you.
+
+--------------------------------------------------------------------------------
+Sijmen de Vries,  Pharming Group N.V. - CEO & Executive Director    [55]
+--------------------------------------------------------------------------------
+Thanks, Bobby. Anurag, anything to add from your side?
+
+--------------------------------------------------------------------------------
+Anurag Relan,  Pharming Group N.V. - Chief Medical Officer    [56]
+--------------------------------------------------------------------------------
+Yes. Yes. Thanks for the questions today. And I've been involved in hereditary angioedema for more than 15 years. I've seen an incredible evolution of the care for these patients with new products. And likewise, I'm really excited now about the prospect of trying to develop a cure for these patients. So I'm really looking forward to this partnership and what this will bring.
+
+--------------------------------------------------------------------------------
+Sijmen de Vries,  Pharming Group N.V. - CEO & Executive Director    [57]
+--------------------------------------------------------------------------------
+Thank you very much. And this concludes the joint analyst call from Orchard Therapeutics and Pharming. Thank you very much for your attention. Goodbye.
+
+--------------------------------------------------------------------------------
+Bobby Gaspar,  Orchard Therapeutics plc - CEO, Member of Scientific Advisory Board & Executive Director    [58]
+--------------------------------------------------------------------------------
+Thank you. Thank you very much.
+
+--------------------------------------------------------------------------------
+Anurag Relan,  Pharming Group N.V. - Chief Medical Officer    [59]
+--------------------------------------------------------------------------------
+Thank you.
+
+--------------------------------------------------------------------------------
+Operator    [60]
+--------------------------------------------------------------------------------
+This concludes today's call. Thank you all for joining. Have a great rest of your day. You may now disconnect your lines.
+
+
+
+
+
+
+
+--------------------------------------------------------------------------------
+Definitions
+--------------------------------------------------------------------------------
+PRELIMINARY TRANSCRIPT: "Preliminary Transcript" indicates that the 
+Transcript has been published in near real-time by an experienced 
+professional transcriber.  While the Preliminary Transcript is highly 
+accurate, it has not been edited to ensure the entire transcription 
+represents a verbatim report of the call.
+
+EDITED TRANSCRIPT: "Edited Transcript" indicates that a team of professional 
+editors have listened to the event a second time to confirm that the 
+content of the call has been transcribed accurately and in full.
+
+--------------------------------------------------------------------------------
+Disclaimer
+--------------------------------------------------------------------------------
+Refinitiv reserves the right to make changes to documents, content, or other 
+information on this web site without obligation to notify any person of 
+such changes.
+
+In the conference calls upon which Event Transcripts are based, companies 
+may make projections or other forward-looking statements regarding a variety 
+of items. Such forward-looking statements are based upon current 
+expectations and involve risks and uncertainties. Actual results may differ 
+materially from those stated in any forward-looking statement based on a 
+number of important factors and risks, which are more specifically 
+identified in the companies' most recent SEC filings. Although the companies 
+may indicate and believe that the assumptions underlying the forward-looking 
+statements are reasonable, any of the assumptions could prove inaccurate or 
+incorrect and, therefore, there can be no assurance that the results 
+contemplated in the forward-looking statements will be realized.
+
+THE INFORMATION CONTAINED IN EVENT TRANSCRIPTS IS A TEXTUAL REPRESENTATION
+OF THE APPLICABLE COMPANY'S CONFERENCE CALL AND WHILE EFFORTS ARE MADE TO
+PROVIDE AN ACCURATE TRANSCRIPTION, THERE MAY BE MATERIAL ERRORS, OMISSIONS,
+OR INACCURACIES IN THE REPORTING OF THE SUBSTANCE OF THE CONFERENCE CALLS.
+IN NO WAY DOES REFINITIV OR THE APPLICABLE COMPANY ASSUME ANY RESPONSIBILITY FOR ANY INVESTMENT OR OTHER
+DECISIONS MADE BASED UPON THE INFORMATION PROVIDED ON THIS WEB SITE OR IN
+ANY EVENT TRANSCRIPT. USERS ARE ADVISED TO REVIEW THE APPLICABLE COMPANY'S
+CONFERENCE CALL ITSELF AND THE APPLICABLE COMPANY'S SEC FILINGS BEFORE
+MAKING ANY INVESTMENT OR OTHER DECISIONS.
+--------------------------------------------------------------------------------
+Copyright 2021 Refinitiv. All Rights Reserved.
+--------------------------------------------------------------------------------

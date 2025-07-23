@@ -1,0 +1,411 @@
+
+
+Refinitiv StreetEvents Event Transcript
+E D I T E D   V E R S I O N
+
+Castle Biosciences Inc To Acquire Cernostics Inc Call
+OCTOBER 19, 2021 / 11:30AM GMT
+
+================================================================================
+Corporate Participants
+================================================================================
+
+ * Derek J. Maetzold
+   Castle Biosciences, Inc. - Founder, CEO, President & Director
+ * Michael J. Hoerres
+   Cernostics, Inc. - CEO, President & Director
+
+================================================================================
+Conference Call Participiants
+================================================================================
+
+ * Puneet Souda
+   SVB Leerink LLC, Research Division - MD of Life Science Tools & Diagnostics and Senior Research Analyst
+ * Kyle Alexander Mikson
+   Canaccord Genuity Corp., Research Division - Analyst
+ * Catherine Walden Ramsey Schulte
+   Robert W. Baird & Co. Incorporated, Research Division - Senior Research Analyst 
+ * Thomas Flaten
+   Lake Street Capital Markets, LLC, Research Division - Senior Research Analyst
+ * Sung Ji Nam
+   BTIG, LLC, Research Division - MD and Life Science & Diagnostic Tools Analyst
+
+================================================================================
+Presentation
+--------------------------------------------------------------------------------
+Operator    [1]
+--------------------------------------------------------------------------------
+Hello, and welcome to the Castle Biosciences Acquisition Webcast Call. My name is Lauren, and I will be coordinating your call today. (Operator Instructions)
+I will now hand you over to your host, Derek Maetzold, CEO of Castle Biosciences to begin. Derek, please go ahead.
+
+--------------------------------------------------------------------------------
+Derek J. Maetzold,  Castle Biosciences, Inc. - Founder, CEO, President & Director    [2]
+--------------------------------------------------------------------------------
+Thank you, Lauren. Good morning, everybody. On the call with me this morning is Frank Stokes, Castle Biosciences Chief Financial Officer; and Mike Hoerres, Cernostics' Chief Executive Officer; and this is Derek Maetzold, the President and CEO of Castle Biosciences. We appreciate you joining our call this morning for what we find as a very exciting announcement. 
+We are pleased this morning to announce the signing of a definitive agreement to acquire Cernostics. Cernostics is a Pittsburgh, Pennsylvania, diagnostic laboratory that works in the field of spatial biology and biologically aware AI and machine learning. Their lead product is the TissueCypher test for use in patients diagnosed with Barrett’s esophagus. We've been evaluating a number of opportunities in fields outside of dermatology that look like dermatology and to which we can apply our executional playbook. That is a commercial channel where we believe that there are a number of opportunities of unmet clinical needs that could be addressed with advanced diagnostic tests so that we could enter with an initial test, build volume and our reputation and then drop an additional test to leverage our commercial channel investment.
+Additionally, we have been overlaying requirements that an acquisition would have a high likelihood of providing meaningful revenue in the '23 to '27 time period and beyond. This would mean, of course, that the initial product would have significant clinical evidence at the time of acquisition, payments for Medicare and perhaps coverage from some commercial payers so that we could spend 2022, building our commercial experience and drive hard into 2023. Cernostics'  TissueCypher and the gastroenterology call point achieved our criteria in all points, and we will be entering a market that will add approximately $1 billion to our U.S. TAM. As such, we are pleased that we are able to reach a definitive agreement with Cernostics. The transaction is expected to close by year-end, subject to the achievement of customer closing conditions.
+With that, let's introduce you to the Cernostics, the issues facing gastroenterologists and patients diagnosed with Barrett’s esophagus and the TissueCypher test. We are excited about our second 2021 acquisition opportunity, the first being the acquisition of the Myriad myPath Melanoma laboratory and the myPath Melanoma Test, which closed in late May 2021.
+Next slide. Okay. As shown on this slide, please note that this presentation contains forward-looking statements, which involve risks and uncertainties that could cause our actual results to differ materially from those in the forward-looking statements. We refer you to the risks set forth in our quarterly reports on Form 10-Q for the quarter June 30, 2021 and in our other SEC -- and in our other filings with the SEC. 
+Next slide. So why is this a good fit for Castle? The first product, TissueCypher for Barrett's esophagus addresses a significant unmet clinical need in a market that has similar customer base to dermatology, has a high level of evidence and 6 validation and performance studies already published and received reimbursement for Medicare. 
+We will be focusing the next couple of months on building out a GI-focused commercial and medical team that we expect to hit the ground running at the turn of the calendar year. With TissueCypher, we expect to replicate our commercial success in dermatology, and as such, we expect TissueCypher to be a meaningful revenue contributor in 2023 and beyond. 
+In addition to the near-term opportunity in Barrett's esophagus, let's talk quickly about the synergy between Castle's and Cernostics' R&D teams, but we have built a strong R&D team at Castle that focuses on development and validation of RNA-based gene expression profile tests that harness advanced AI and machine learning techniques. Cernostics has focused on spatial biology and AI. Cernostics' second platform of spatial biology provides us, we believe, with additional scientific expertise that will drive additional products not only in the GI space but the dermatology space as well. 
+Next slide. So with the expected acquisition of Cernostics, what we can tell you about our product line expectations for revenue accrual as it relates to our dermatology and pending gastrointestinal franchises, note that I've left off DecisionDx-UM, our test for UV melanoma, off of this slide due to what we believe is 80% to 85% market penetration. And we do not believe that DecisionDx-UM will contribute much to our growth story going forward. But it is an important product for the patients that it serves and for Castle's overall revenue. 
+Now let's look at how we are exiting 2021. We have Medicare coverage for both DecisionDx melanoma and myPath Melanoma and have received initial commercial payments for the latter. Of course, we should also note that we have Medicare coverage and broad commercial coverage and payments for our DecisionDx-UM test. So we have 3 proprietary tests with varying levels of Medicare and commercial coverage as of today. And looking at 2022, we will enter the year in just 2.5 short months with reimbursement or payment from Medicare for DecisionDx-Melanoma, myPath Melanoma, DecisionDx-UM and now TissueCypher for Barrett's esophagus, and all 4 received payments from commercial payers. We hope to exit the year with an LCD for both our DecisionDx-SCC test and our DiffDx-Melanoma test. This means that in the span of 14 months, we could go from having 3 tests reimbursed by Medicare to 6 tests. 
+And finally, we believe that the pipeline programs for both Castle and Cernostics will begin to generate additional tests in the dermatological and gastrointestinal markets around 2025. Thus with the acquisition of Cernostics, it provides us with the opportunity to add an additional $1 billion in U.S.-only TAM today and to grow that investment with additional products in the 2025 time period. This provides us with confidence in both our midterm and long-term revenue growth strategies.
+Next slide. Now let's turn a little to Cernostics, their story and the need in Barrett's esophagus for better risk stratification that will inform and improve treatment plan decisions. So let's talk about spatial biology as I see it. Many of us are uncomfortable with limitations of qualitative and the subjective nature of pathology reads and IHC or other techniques identify relative levels of protein expression in a given specimen. I'm comfortable because of both identification or standing variability as well as the subjectivity that all that matters is a gross or total amount of protein expression versus where that protein may be expressed. And it is these kinds of limitations that have spanned the advanced diagnostics industry. While many of us have focused at the RNA level in terms of exploiting AI and the advancement of diagnostics, Cernostics has focused on spatial biology. We, at Castle, really like this space for future growth. This is an exciting long-term opportunity that Cernostics brings to us. 
+But in the medium term, let's talk about the summary of Cernostics. They pioneered a first-to-market test that informs risk stratification in the majority of patients diagnosed with Barrett's esophagus. This is important as the treatment plan decisions are based upon the risk stratification estimates. Assuming a mature reimbursement rate that is near the current Medicare reimbursed rate, then we estimate that this current market could add just shy of $1 billion in U.S.-only TAM. Along the way of developing and validating the TissueCypher test, Cernostics has done an excellent job in gathering U.S. leaders in GI to guide and support their validation approach. These relationships in and of themselves are excellent assets that we hope to continue to learn from. 
+Next slide. So a quick snapshot of the transaction and transition details. Total deal value is $80 million, with $30 million upfront. Based upon current time lines, we expect the deal to close prior to year-end 2021. We expect the leadership, and hopefully, nearly all employees to transition over to Castle. From a commercial perspective, Cernostics recently hired their first Head of Sales. In fact, he started earlier this month. He will transition over to Castle, and we are in the midst of hiring 13 to 15 outside sales representatives and support of medical science liaisons, internal sales associates and other supportive personnel to support the launch of TissueCypher just after the turn of the calendar year. 
+Next. Okay. I discussed most of this slide earlier in this discussion. What's important to communicate here is that there are 6 peer-reviewed publications that support the clinical validation and performance of TissueCypher in providing risk stratification insight in the management of Barrett's esophagus. This is a great setup for us to focus on commercial execution.
+So let's walk now through the patient journey of a patient who ends up being diagnosed with Barrett's esophagus. I'll have you turn to the upper left-hand part of the slide. Essentially, patients present to a gastroenterologist or a GI doc with severe GERD symptoms. They've likely been treated with proton pump inhibitors or other palliative care therapies, but they're so severe and so concerning that they worked their way into a gastroenterologist, and he or she decides that we need to rule in or rule out Barrett's esophagus, perhaps esophageal cancer or essentially just GERD or other less concerning diseases. 
+So they perform an upper endoscopy. Now the results, just to go and put them into 4 buckets, are as follows: on the upper row, they might just have GERD or some other disease abnormality but not Barrett's esophagus and not esophageal cancer. On the bottom row, they might have esophageal cancer. Esophageal cancer results in surgical resection, radiation and other therapeutics as a treatment mortality. Going one up from the bottom, they may also be diagnosed with what's called Barrett's esophagus with high-grade dysplasia or HGD. There's about 16,000 endoscopies per year to identify high-grade dysplasia. The typical treatment for these patients is EET and approximately a follow-up or surveil of endoscopy about -- on an annual basis going forward. The middle bucket, in deep blue with the orange outline is where TissueCypher fits in, and this happens to be where most of the patients are located and where the need for more clarity or more certainty around risk stratification occurs. 
+In this middle bucket, there are around 384,000 endoscopies per year of patients who are diagnosed with that endoscopy as having Barrett's esophagus. And they're graded as either having non-dysplastic or abbreviate is ND Barrett's esophagus, indefinite for dysplasia or IND or they're graded as having low-grade dysplasia or LGD. These patients have a variable approach to their treatment plan. some patients may get EET or endoscopic eradication therapy or some may not. Some may go on to having repeat endoscopies one time a year or depending on the perceived risk that patient actually having that Barrett's esophagus progress, they may be actually on a more limited repeat endoscopy than perhaps once every 3 to 5 years. That's the patient group, those 384,000 patients who are diagnosed with Barrett's esophagus have either non-dysplastic indefinite for dysplasia or low-grade dysplasia that the TissueCypher test was designed to assist in helping to inform a more appropriate treatment plan. 
+Next slide, please. So just to kind of do a flyover. So what is the issue with current rating systems? Well, the reality of it is that they are limited in predicting which patients will actually progress to high-grade dysplasia or esophageal adenocarcinoma and which patients will not. For example, the previous slide walked us through the diagnosis to risk stratification approach to treatment plans for patients diagnosed with Barrett's esophagus. The first and unfortunate limitation of pathology grading system today is inter-variability and the grading of Barrett's esophagus, not only in terms of inter-variability from an observer standpoint but also between and among experts. So we both have inter-variability from a community pathology to expert pathology read as well as expert pathology to expert pathology. This is part of the underlying root cause, we believe, of why it's difficult to use pathology to go ahead and appropriately assign a risk stratification risk for patients diagnosed with this condition. 
+Additionally, upwards of 25% of patients who are diagnosed with high-grade dysplasia have, what we call, prevalent high-grade dysplasia. What does that mean? It means, for example, they had an endoscopy on January 1, 2021. It came back as saying, yes, you had Barrett's esophagus. Maybe it was greater as being low grade or maybe was greater as being indefinite for dysplasia or maybe non-dysplastic or no dysplasia, but it was not seen as being a high-grade dysplasia. Those patients who undergo a repeat endoscopy 1 year later, say, for this example, January 1, 2022, 25% of them will end up having high-grade dysplasia. That's a significant amount of variability, again, in patients who were missed perhaps or in which the actual Barrett's esophagus was that aggressive was growing that quickly in the course of a 12-month time period. 
+We also understand that patients who are supposed to not progress, those with non-dysplastic Barrett’s esophagus, actually do progress during surveillance intervals. So we have a lot of variability here, a lot of subjectivity, a lot of concern about, can we get to a better risk stratification tool. And that's essentially why TissueCypher was developed, and that's essentially what TissueCypher does. 
+Next slide, please. In other words, TissueCypher should improve identification of non-dysplastic endoscopies who may progress to cancer, indefinite for dysplasia and Barrett's esophagus who may never progress as well as low-grade dysplasia of patients with Barrett's esophagus who may also never progress. As demonstrated in the performance studies and a major analysis presented earlier this spring, this risk stratification is independent of and superior to pathology grading. These facts are what attracted us, Castle Biosciences, to the decision to acquire Cernostics and the TissueCypher platform. 
+Next slide, please. So let's discuss a little data. This slide presents data from a study that evaluated patients with nondysplastic Barrett's esophagus. These are patients that are expected to do well, not really progress to high-grade dysplasia or esophageal adenocarcinoma but who want to undergo repeat endoscopies every 3 years or so. And by the way, the patients are concerned about progression all the time. So let's look at the middle 2 groups on the slide, comparing the accuracy of expert versus community pathologists. 
+The numbers look fairly close at 1, 5 and 10 years with a 5-year likelihood of progressing to EAC at 1.9% or 2.3%. That sounds pretty close and pretty good, doesn't it? But the problem is that these are population-based numbers. And due to the large population of patients, some patients are clearly undergraded relative to the risk of progression to esophageal adenocarcinoma. 
+If we apply TissueCypher data to these same patients, what you see now is that patients with high-risk TissueCypher test results have nearly a 16% probability of developing esophageal adenocarcinoma versus roughly a 2% chance for export or community-based pathology alone. Now I don't know how you view this change, but a sevenfold increase in the risk of progression to EAC is clinically meaningful to the patient and to their treating gastroenterologist.
+On the other hand, a reduction in approximately from approximately 2% to 1.3% for the remaining patients provides additional surety that periodic, maybe every 3 to 5 years, repeat endoscopy for surveillance monitoring is appropriate. This data is really powerful in general. And given that 90% of the intended use population falls in this nondysplastic group, this is very important commercially as well.
+Next slide, please. So let's wrap up our brief overview, so we can take some questions. The acquisition of Cernostics and TissueCypher provides Castle with a nearly $1 billion expansion of our U.S.-only TAM, an extremely well-validated test with 6 clinical validation and performance studies already published, reimbursement from Medicare at an established rate of $2,513, published data showing that more than 50% of the time, changes in clinical management are driven by TissueCypher test results. And we get the benefit of adding spatial biology as an important expertise to the Castle R&D engine. 
+In closing, this is a great day for patients, for Castle and Cernostics employees and for Castle shareholders. We look forward to executing the Castle playbook to educate clinicians on a new test that will enable more appropriate, more informed treatment plan decisions for patients diagnosed with non-dysplastic, indefinite for dysplasia or low-grade dysplasia Barrett's esophagus. 
+Next slide. And with that, operator, we are free to take questions.
+
+
+================================================================================
+Questions and Answers
+--------------------------------------------------------------------------------
+Operator    [1]
+--------------------------------------------------------------------------------
+(Operator Instructions) Our first question comes from Kyle Mikson from Canaccord Genuity.
+
+--------------------------------------------------------------------------------
+Kyle Alexander Mikson,  Canaccord Genuity Corp., Research Division - Analyst    [2]
+--------------------------------------------------------------------------------
+Congrats on this acquisition today. So I wanted to start with just kind of going over the landscape here. There's obviously a number of kind of novel diagnostics for BE and for other conditions related to esophageal cancer using NGS, esophageal cancer, et cetera. So why is spatial the right approach for this? Like, yes, how did you kind of think about the other methods out there that you're going through it? And maybe you could just talk about some of the synergies that spatial will provide in the rest of the platform, too, on the derm side maybe. That would be helpful as well.
+
+--------------------------------------------------------------------------------
+Derek J. Maetzold,  Castle Biosciences, Inc. - Founder, CEO, President & Director    [3]
+--------------------------------------------------------------------------------
+Okay. I'll answer a couple of those questions, but not all, if that's okay. First of all, I would have to separate out some of these newer techniques that are looking to try and assist in a diagnosis of Barrett's esophagus. And I would separate that from tools such as TissueCypher, which are used in patients already diagnosed with Barrett's esophagus, but you're trying to get a much better handle on progression or risk stratification.
+My understanding is that some of those newer devices, I guess, you would call them that are assisting pathologists and diagnosing have not yet produced data that actually shows what it can do from a prediction of outcome perspective. So that's what we found to be attractive here. Because we aren't competing or looking to compete at least today in the diagnostic space of the work up to Barrett's esophagus, but rather just those 384,000 patients who are diagnosed each year, with Barrett's esophagus that meets inherent use of this test. Does that make sense, Kyle?
+
+--------------------------------------------------------------------------------
+Kyle Alexander Mikson,  Canaccord Genuity Corp., Research Division - Analyst    [4]
+--------------------------------------------------------------------------------
+Yes, Derek, that was great. Just one more question on this. So there was a CAC meeting last week, titled molecular testing for risk stratification of upper GI cancer. Just was wondering what the effect could be on Cernostics and TissueCypher and maybe how this will kind of affect guidelines in the future?
+
+--------------------------------------------------------------------------------
+Derek J. Maetzold,  Castle Biosciences, Inc. - Founder, CEO, President & Director    [5]
+--------------------------------------------------------------------------------
+Yes. So we had a chance to listen in on that CAC meeting last week. It was a little incoherent in terms of what the objectives were. Our take was that most of the interest of looking at these devices for diagnoses and perhaps wondering if those were screening techniques, in which case they would, of course, be evaluated as an NCD, not a local LCD. As it relates to TissueCypher specifically, keep in mind that as a Pittsburgh, Pennsylvania, laboratory Cernostics is overseen by Novitas, which is not part of the MolDx program, which is the conference call that you referenced last week.
+
+--------------------------------------------------------------------------------
+Kyle Alexander Mikson,  Canaccord Genuity Corp., Research Division - Analyst    [6]
+--------------------------------------------------------------------------------
+Okay. That's helpful. One last question. Just like on the technology, could you talk about the markers for TissueCypher, just wondering if that's RNA or proteins? And then how is the tissue sample taken and from where?
+
+--------------------------------------------------------------------------------
+Derek J. Maetzold,  Castle Biosciences, Inc. - Founder, CEO, President & Director    [7]
+--------------------------------------------------------------------------------
+So I'll talk about the second question. And Mike, if you want to respond to the first question in terms of the biomarkers that are looked at, that would be great. From where is the tissue sample taken? So actually similar to our dermatology tests, we aren't changing a thing in terms of the patient journey. So what we're using is the residual biopsies from the endoscopy that was performed to kind of rule in or rule out Barrett's disease. So similar to cutaneous melanoma, where a dermatologist takes a skin biopsy, he goes to pathologists in formalin, they make a diagnosis and they order perhaps our DecisionDx-Melanoma test for understanding risk stratification and future treatment plans. 
+In the case of Barrett's esophagus, these are patients with severe GERD symptoms who undergo an endoscopic biopsy procedure. Those biopsy specimens are then evaluated for the presence of Barrett's, and we would just take slices or sections from those leftover, the residual biopsy specimens. So no additional novel technique or work that would, one, require an additional intervention for a patient as a workup; and two, no additional time in the endoscopy suite from a GI perspective. And Mike, do you want to comment on the biomarkers and some of their functions?
+
+--------------------------------------------------------------------------------
+Michael J. Hoerres,  Cernostics, Inc. - CEO, President & Director    [8]
+--------------------------------------------------------------------------------
+Yes, certainly. Thank you, Derek. Yes. So the TissueCypher Barrett's esophagus assay evaluates the protein expression of 9 specific protein biomarkers and morphology from, as Derek said, pinch biopsies of the esophagus. And those markers include tumor-specific markers, p15, p16. They include immune specific markers, so we're evaluating the role of the immune system and helping us to understand which of these patients are going to progress and which ones will not. We also looked at a variety of other physiologic functions, including angiogenesis within the pinch biopsies. So it's all about extracting more meaningful information from these precious pinch biopsies that are obtained by the GI doctor when they do these upper GI endoscopies. And we can then deliver actionable information based on the evaluation of that in our spatial biology platform.
+
+--------------------------------------------------------------------------------
+Operator    [9]
+--------------------------------------------------------------------------------
+Our next question comes from Puneet Souda from SVB Leerink.
+
+--------------------------------------------------------------------------------
+Puneet Souda,  SVB Leerink LLC, Research Division - MD of Life Science Tools & Diagnostics and Senior Research Analyst    [10]
+--------------------------------------------------------------------------------
+And my first question is really, you have obviously done well in cancer right now -- within cancer, particularly. Why GI? You talked a little bit about it. But I just wanted to get more clarity why GI is an area of expansion? And how are you thinking about further test there? Or is this sort of one-off test or should we think of GI as another expansionary arm of the company? And then on the revenue and volume today, I was wondering if you can provide anything on commercially, what TissueCypher is doing and what it could contribute in terms of -- potentially on the volume side and on the rep side? That's my first question.
+
+--------------------------------------------------------------------------------
+Derek J. Maetzold,  Castle Biosciences, Inc. - Founder, CEO, President & Director    [11]
+--------------------------------------------------------------------------------
+Excellent questions, Puneet. So why GI or how does GI maybe compare or how is it dissimilar or similar to dermatology? We've been evaluating for a while a number of opportunities that would hopefully be -- reach our criteria for movement forward and Cernostics is one of those. And we believe that over time, we will be able to kind of take the first chapter out of our dermatology playbook, help commercialize TissueCypher effectively and successfully in the next couple of years and then look at bringing in or developing additional gastroenterology-related advanced diagnostic test to again end up 3, 4 years from now, 2, 3, 4, 5 years from now with 2, 3 or 4 tests in the bag so that we can really leverage our commercial channel in gastroenterology as we have done in dermatology. So we see quite a few parallels there, Puneet. 
+Cernostics began receiving routine Medicare payments earlier this year. There -- the test is included in a current billing article that goes effective, I guess, this November 8 or 9 -- 8 of this year. And here too for Mike, who you heard earlier has been the chief cook and bottle-washer, including lead and only salesperson. So they are starting from a very small base. So volume and revenue this year is not material. 
+As we work our way into providing guidance for 2022, we'll provide some updates to that. But for the time being, assume 2021 revenue is not material in terms of kind of a forecast. It really is starting from a 20% of the body in the field trying to generate customers to roll -- end up with hopefully 13 to 15 sales representatives plus associated MSLs and ISAs around the turn of the calendar year. So we expect next year to really be building appropriate use and education on our test to the GI community.
+
+--------------------------------------------------------------------------------
+Puneet Souda,  SVB Leerink LLC, Research Division - MD of Life Science Tools & Diagnostics and Senior Research Analyst    [12]
+--------------------------------------------------------------------------------
+Okay. That's helpful. And then on the $2,500 reimbursement from Medicare, that looks really good. But in terms of stability of that reimbursement, how should we think about that remaining the same? And maybe a question on -- since you've had an ADLT for DecisionDx, wondering if the ADLT is a route you're going to pursue here?
+
+--------------------------------------------------------------------------------
+Derek J. Maetzold,  Castle Biosciences, Inc. - Founder, CEO, President & Director    [13]
+--------------------------------------------------------------------------------
+That's an excellent question, Puneet. From our evaluation on the outside, it looks like Cernostics or the TissueCypher test for Barrett's esophagus would meet ADLT criteria. So that's something that we will go and evaluate here of whether or not we want to go ahead and go that route. TissueCypher is already on the CLFS schedule. So we'll just have to evaluate what's best for patients here, what's best for the combined companies going forward, but it is something that we'll be evaluating.
+
+--------------------------------------------------------------------------------
+Puneet Souda,  SVB Leerink LLC, Research Division - MD of Life Science Tools & Diagnostics and Senior Research Analyst    [14]
+--------------------------------------------------------------------------------
+Okay. And then one last question for -- maybe for Mike as well. Can you -- I didn't see in the deck in terms of the performance of the assay sensitivity, specificity or NPV, PPV that you can talk about that? And how does that compare to the current standard of care? It seemed like the current standards of care was somewhat vague and sort of physician dependent, but just wanted to understand how do you compare that to the assay metrics? And then lastly, we have seen some of the competitors who have studies ongoing or had studies ongoing specifically in liquid biopsy to look at classifier assays for GI tract, including Barrett's esophagus. So wondering if you expect any competitive positioning from liquid biopsy.
+
+--------------------------------------------------------------------------------
+Michael J. Hoerres,  Cernostics, Inc. - CEO, President & Director    [15]
+--------------------------------------------------------------------------------
+Yes. Sounds good. Derek, do you want me to grab that?
+
+--------------------------------------------------------------------------------
+Derek J. Maetzold,  Castle Biosciences, Inc. - Founder, CEO, President & Director    [16]
+--------------------------------------------------------------------------------
+Yes. I'll maybe give a response here, and then you can correct what I say, if that's okay.
+
+--------------------------------------------------------------------------------
+Michael J. Hoerres,  Cernostics, Inc. - CEO, President & Director    [17]
+--------------------------------------------------------------------------------
+Sure.
+
+--------------------------------------------------------------------------------
+Derek J. Maetzold,  Castle Biosciences, Inc. - Founder, CEO, President & Director    [18]
+--------------------------------------------------------------------------------
+So maybe last one first. So my impression here, Puneet, is that workaround that may include NGS work or other -- or using some of the invasive products, some of the brush products or the sponge products to try and extract cells from the esophagus are primarily going to be focused on looking for diagnosis of Barrett's, do we see enough ablation characters here. 
+Now to our knowledge, there are not clinical trials or data banks where you have 5 or 10 years' worth of data of bank cells that have been secured in the same manner. And so our expectation here is that to develop tests going forward using those specimen collection techniques is going to largely depend on prospective studies since you don't see people around the world actually doing brush techniques 10, 15, 20 years ago. You can get a good longitudinal base of care out of there. And Mike, do you want to kind of correct that or answer the rest?
+
+--------------------------------------------------------------------------------
+Michael J. Hoerres,  Cernostics, Inc. - CEO, President & Director    [19]
+--------------------------------------------------------------------------------
+No, I think that's very accurate. And just in terms of performance of the test, I think just to be clear, this is a prognostic test. So it's predicting future progression to high-grade dysplasia, esophageal cancer in patients with Barrett's. And we typically speak in terms of hazard ratio. So across multiple studies, as Derek said, 6 published validation utility studies, performance has been very consistent. The most recent pooled analysis done presented at DDW by our colleagues at Mayo Clinic demonstrated that TissueCypher's high risk score has a hazard ratio in that pooled analysis and non-dysplastic patients have 7 to 8. And that's at least a twofold increase over standard of care in nondysplastic.
+And just to point out the comparison to what is the standard of care. That would be histologic evaluation of those biopsies. And in nondysplastic patients, in the sense, the sensitivity there is 0%. Pathology by itself cannot stratify non-dysplastic patients. TissueCypher does a very good job of identifying a percentage of those patients that are high risk that progress at a rate that is 5 to 10x more than standard non-dysplastic patients. That's why the community is so excited about this particular product and how it can add to the armamentarium of what GI docs have when they're trying to evaluate their non-dysplastic patients in particular. 
+The test also has a very high negative predictive value. The data there on a population-adjusted basis is about 98%. The majority of these Barrett's patients do not progress to cancer. So there's a big interest in the community to understand which patients can forego unnecessary treatments and potentially extend surveillance intervals, providing some cost savings. And again, TissueCypher's very high negative predictive value provides a great advantage there for helping to stratify the very low-risk patients. So hopefully, that gives you some context on performance.
+
+--------------------------------------------------------------------------------
+Operator    [20]
+--------------------------------------------------------------------------------
+Our next question comes from Catherine Schulte from Baird.
+
+--------------------------------------------------------------------------------
+Catherine Walden Ramsey Schulte,  Robert W. Baird & Co. Incorporated, Research Division - Senior Research Analyst     [21]
+--------------------------------------------------------------------------------
+Congrats on the acquisition. Just thinking about the overall strategy of the company, whether it's in dermatology or now GI, primarily focused on the risk stratification side of the cancer care continuum? And do you have interest in getting into other areas, whether it's early detection (technical difficulty) monitoring over time, particularly as you expand outside derm?
+
+--------------------------------------------------------------------------------
+Derek J. Maetzold,  Castle Biosciences, Inc. - Founder, CEO, President & Director    [22]
+--------------------------------------------------------------------------------
+You cut out there for a second. Early detection or monitoring is what you said? Outside of dermatology you mean as a target to go after in terms of the patient journey or specialty?
+
+--------------------------------------------------------------------------------
+Catherine Walden Ramsey Schulte,  Robert W. Baird & Co. Incorporated, Research Division - Senior Research Analyst     [23]
+--------------------------------------------------------------------------------
+Just thinking about your broader strategy, especially as you expand outside of derm.
+
+--------------------------------------------------------------------------------
+Derek J. Maetzold,  Castle Biosciences, Inc. - Founder, CEO, President & Director    [24]
+--------------------------------------------------------------------------------
+Yes. Okay. So we would prefer, as a company, not to go into late-stage oncology testing. That's why we've stayed in risk stratification, largely speaking or in the case of our myPath Melanoma and DiffDx assisting and providing certainty around an uncertain diagnosis of melanoma. And we have not moved upstream into screening, per se. Now that being said, our one pipeline program that we've announced so far in dermatology is really focused on trying to identify and validate a gene expression profile signature, which I think will have multiple algorithms to it, by the way, or test that will help a dermatologist to appreciate upfront, which biologic agent for psoriasis or atopic dermatitis is likely to work or is not likely to work in a patient diagnosed with 1 of those 2 conditions is going on systemic therapy. 
+So we see opportunities to move into areas that will, again, help adjust short-term treatment plan decisions, post diagnosis like a patient who moves from mild-to-moderate psoriasis and goes on a systemic therapy and making sure they have the right opportunity there. That may lead us into some monitoring opportunities that are nearer term as opposed to monitoring activities that are 3, 4, 5 years out. I don't think we'll move in that space in the near term, Catherine.
+
+--------------------------------------------------------------------------------
+Catherine Walden Ramsey Schulte,  Robert W. Baird & Co. Incorporated, Research Division - Senior Research Analyst     [25]
+--------------------------------------------------------------------------------
+Okay. Got it. And then you talked about 13 to 15 hires to support the initial launch. Where do you think that GI sales force needs to go over time? And how do you think about the tiers of expanding that team in the future?
+
+--------------------------------------------------------------------------------
+Derek J. Maetzold,  Castle Biosciences, Inc. - Founder, CEO, President & Director    [26]
+--------------------------------------------------------------------------------
+Yes. I think we've -- we're going to kind of build out this 13- to 15-person group, train them well over the holidays and kind of watch and monitor and also watch and monitor how we are progressing with commercial payers as well over the course of 2022. I -- and also in the context of how soon do we think we can identify a second product or a second test in the GI division, I think that will dictate do we go from 15 to 30, 32 and kind of follow our dermatology playbook a year, 1.5 years from now. I think we'll kind of see how the market is reacting to having its first sort of full-time field force in their educating, and we'll make kind of quick calls in terms of how fast to go ahead and scale up on an upside standpoint. 
+I guess you would say, "Well, if the audience of gastroenterologists that are clinically active in endoscopies is similar in the number of customers to say melanoma is between dermatology and surgeons, maybe the 60 is where one might get to over a period of time." But we need to get a proof of concept here about how reactive the marketplace is, how responsive and I think grow in a measured fashion until we're very, very comfortable with additional investment paying good yield back.
+
+--------------------------------------------------------------------------------
+Catherine Walden Ramsey Schulte,  Robert W. Baird & Co. Incorporated, Research Division - Senior Research Analyst     [27]
+--------------------------------------------------------------------------------
+Okay. Very helpful. And I guess, lastly, can you just remind us what's the mix of Medicare patients in the addressable market here? And how do you think about the path to private payer coverage or guideline inclusion?
+
+--------------------------------------------------------------------------------
+Derek J. Maetzold,  Castle Biosciences, Inc. - Founder, CEO, President & Director    [28]
+--------------------------------------------------------------------------------
+We think about 35% of patients are 65 years in the age and older. So a little -- kind of similar to melanoma. I guess you would say maybe a year or 2 younger mean average age. Mike's team has already been successful in garnering some coverage with commercial payers, and there seems to be interest here in saying, "Hey, if you can go ahead and quickly stave off repeat annual endoscopies or even EET therapy in patients that don't need it, that's fantastic." Similarly, though, if you can identify high-risk patients who are being missed by histopathology and could benefit from endoscopic eradication therapy, you can go and slow down the development of high-grade dysplasia or esophageal adenocarcinoma, which have huge near-term costs to a health care plan. 
+So we're bullish, I guess, that what Mike has shown us so far can be repeated in terms of commercial coverage. I still think it takes time, as it always does. But he's already moved forward in a couple of nice areas here. So we'll kind of keep people posted in the middle of next year about how that progress is coming along.
+
+--------------------------------------------------------------------------------
+Operator    [29]
+--------------------------------------------------------------------------------
+Our next question comes from Sung Ji Nam from BTIG.
+
+--------------------------------------------------------------------------------
+Sung Ji Nam,  BTIG, LLC, Research Division - MD and Life Science & Diagnostic Tools Analyst    [30]
+--------------------------------------------------------------------------------
+Congrats on the transaction. Could you talk about what's the addressable market in terms of the number of physicians GI, I guess, physicians? Is there a segment within that channel that you're initially targeting? Or how should we think about that?
+
+--------------------------------------------------------------------------------
+Derek J. Maetzold,  Castle Biosciences, Inc. - Founder, CEO, President & Director    [31]
+--------------------------------------------------------------------------------
+Yes. So maybe I'll answer this, and Mike can correct me here. We think there's roughly what 12,000, 13,000 -- about 12,000 clinically active gastroenterologists who are heavy in the endoscopy suite. And that's almost every gastroenterologist who's doing GI suite work. There is a small group of cardiothoracic surgeons that also -- dabble is the wrong word, just a small type group of cardiothoracic surgeons that will also be customers, but they are located in areas where it's pretty easy to go ahead and see them as doing endoscopic biopsies and ablation therapy in patients with esophageal cancer and are doing diagnostic endoscopic biopsies in patients with GERD. 
+So that's kind of the audience I think in terms of prescribers or potential appropriate users. Now within the gastroenterology group, there's also a small group of -- I'm going to get their specialty backwards here so, but I would call them sort of endoscopically focused GI. And those individuals are the ones which are usually doing EET therapy within a GI practice. But we believe based upon current market research that any gastroenterologist who's active in an endoscopy suite should be educated on the value of TissueCypher regarding risk stratification in their patients. 
+So I would say that there might have been a little bit of a heavier group of people, maybe those endoscopic GIs who might be a little more heavier in terms of volume, but the reality is that almost every gastroenterologist who does colonoscopy also does endoscopies and they're probably targets of Castle's as appropriate. So similar in size and nature to the dermatology call point we have.
+
+--------------------------------------------------------------------------------
+Michael J. Hoerres,  Cernostics, Inc. - CEO, President & Director    [32]
+--------------------------------------------------------------------------------
+Yes. And Derek, maybe I'll just add a little color there, if I could. So I think your numbers are right. There's about 12,000 to 13,000 GI docs across the United States. We estimate 1,000 to 2,000 cardiothoracic surgeons. And that group is interesting. These are -- when we say cardiothoracic surgeons, these are the surgeons doing GERD procedures. So -- do procedures for chronic reflux. They often manage many Barrett's patients in their practice. And those individuals -- and then within the GI group, there's about 10% of the overall GI market, what we refer to as Barrettologists. These are the doctors who are often referral centers for advanced Barrett’s cases doing advanced interventions, including endoscopic eradication therapies. 
+Those 2 groups will be highly interested in TissueCypher and its ability to identify high-risk Barrett's patients otherwise missed by standard of care. This gives them a tool that they don't have today for identifying these high-risk patients that potentially need intervention. The remainder of the GI space also will be very interested in TissueCypher. As Derek indicated, these individuals are doing standard surveillance on Barrett's cases. They likely will not be doing ablations or other endoscopic eradication therapies for high-risk cases. They often refer them elsewhere. 
+But nonetheless, they need to understand what's the true risk of progression in those patients. And TissueCypher gives them a tool that they simply don't have today for better understanding that risk. So it's a wide-open greenfield opportunity across the GI space for how TissueCypher can really make a difference for these physicians and the patients that they manage.
+
+--------------------------------------------------------------------------------
+Sung Ji Nam,  BTIG, LLC, Research Division - MD and Life Science & Diagnostic Tools Analyst    [33]
+--------------------------------------------------------------------------------
+Got you. That's very helpful. And then for Cernostics, for the spatial biology technology platform, are you using a specific technology platform there? Is it proprietary to Cernostics? I'm just trying to get a better sense of what the underlying technology platform is.
+
+--------------------------------------------------------------------------------
+Michael J. Hoerres,  Cernostics, Inc. - CEO, President & Director    [34]
+--------------------------------------------------------------------------------
+Absolutely. So the fundamental technology platform that Cernostics has is a digital whole-slide imaging software platform that allows us to extract thousands or millions of pieces of information from tissue biopsies. It's based on doing multiplexed immunofluorescence, but the software tools behind it, the AI behind it, is a series of computer vision algorithms and tools for understanding protein expression from multiplex immunofluorescence based images and understanding that expression in the context of cell-based objects and tissue structure-based objects within the biopsies themselves. 
+So the platform can have broad applicability to anywhere you would want to evaluate a tissue biopsy. The software platform is a great discovery tool for extracting discovery data that can be used in mind for developing precision medicine tests in a variety of clinical indications. So that's part of our vision how we see the platform being used. Spatial biology is really exploding there. Many off-the-shelf sort of box companies, life science tool companies that have very interesting spatial biology technology platforms. The biochemistry behind what we do is based on multiplex immunofluorescence, but it's really the software that we've developed internally, which is what we'll leverage for not only our Barrett's test but follow-on indications as well.
+
+--------------------------------------------------------------------------------
+Sung Ji Nam,  BTIG, LLC, Research Division - MD and Life Science & Diagnostic Tools Analyst    [35]
+--------------------------------------------------------------------------------
+Got you. And then finally from me, just, Derek, when you talk about synergies with the existing -- with the Castle product portfolio and pipeline; in terms of spatial biology, are you -- is it largely for the products under development? Or are there ways to further enhance your existing DecisionDx melanoma or SCC or DiffDX using spatial biology?
+
+--------------------------------------------------------------------------------
+Derek J. Maetzold,  Castle Biosciences, Inc. - Founder, CEO, President & Director    [36]
+--------------------------------------------------------------------------------
+I'll answer that opaquely, if you don't mind. So I think that largely speaking, we see an ability to harness for future products that might end up actually being follow-on or adjunctive tests or recurrent tests, but that remains to be seen here. But we've -- we're excited to go and be exploring the opportunities there.
+
+--------------------------------------------------------------------------------
+Operator    [37]
+--------------------------------------------------------------------------------
+Our next question comes from Thomas Flaten from Lake Street Capital Markets.
+
+--------------------------------------------------------------------------------
+Thomas Flaten,  Lake Street Capital Markets, LLC, Research Division - Senior Research Analyst    [38]
+--------------------------------------------------------------------------------
+Just to follow up on that last response. Maybe, Mike, if you could comment on any work you've done with your platform in disease states outside of GI. Has there been any work done there?
+
+--------------------------------------------------------------------------------
+Michael J. Hoerres,  Cernostics, Inc. - CEO, President & Director    [39]
+--------------------------------------------------------------------------------
+Yes. So I will tell you, as really an earlier-stage company in Pittsburgh, we've pretty much focused like a laser on developing the science and evidence around our first indication of Barrett’s test. So that's been our primary objective. That said, we've identified a number of really interesting opportunities in the GI space. We've initiated 1 pilot study. For competitive reasons, I think I'm going to hold off sharing kind of where we're at there. But we see a number of really great opportunities within GI -- up and down the GI track where our platform could play a great role in improving care and decision-making. So we're going to work with Derek and his R&D team in the coming months to further frame out and develop a game plan on where we're going to spend our time and attention and look forward to doing that. Derek, I don't know if you want to add some additional color on, on that piece.
+
+--------------------------------------------------------------------------------
+Derek J. Maetzold,  Castle Biosciences, Inc. - Founder, CEO, President & Director    [40]
+--------------------------------------------------------------------------------
+No, I think it's good, if that makes sense. Yes.
+
+--------------------------------------------------------------------------------
+Thomas Flaten,  Lake Street Capital Markets, LLC, Research Division - Senior Research Analyst    [41]
+--------------------------------------------------------------------------------
+And then if I could reflect back on the response to an earlier question about referral patterns. Obviously, there's that 10% of the market you identified the Barrett's specialists where this test would be -- it would be easily deployed because that's really their bread and butter. But how important is it from an adoption perspective to get out to the broader community to get them to refer consistent with the results you're able to deliver as opposed to making the decision on whatever criteria they have now? I'm just wondering which would be the bigger driver to have a better referral pattern or to get into those Barrett's specialists as an upfront, given that you're starting with a really small sales force.
+
+--------------------------------------------------------------------------------
+Michael J. Hoerres,  Cernostics, Inc. - CEO, President & Director    [42]
+--------------------------------------------------------------------------------
+Yes....
+
+--------------------------------------------------------------------------------
+Derek J. Maetzold,  Castle Biosciences, Inc. - Founder, CEO, President & Director    [43]
+--------------------------------------------------------------------------------
+We see them both as...
+
+--------------------------------------------------------------------------------
+Michael J. Hoerres,  Cernostics, Inc. - CEO, President & Director    [44]
+--------------------------------------------------------------------------------
+Well, our -- go ahead.
+
+--------------------------------------------------------------------------------
+Derek J. Maetzold,  Castle Biosciences, Inc. - Founder, CEO, President & Director    [45]
+--------------------------------------------------------------------------------
+So our market research and leading up to the acquisition would make both of them early targets. I think it remains to be seen where the volume comes from. My reading of the market today that we performed is that while there's sort of highly focused endoscopist might seem like the low-hanging fruit in terms of having a higher patient load. We're looking for patients who are really being newly diagnosed as opposed to always being out 2, 3, 4, 5 years in a repeat endoscopy. So I think we'll kind of use the first half of next year to validate an approach. But my belief is that we turn the corner in '23 or '24 that we'll find that the majority of appropriate orders for TissueCypher for Barrett’s will be coming from the run-of-the-mill gastroenterologists as opposed to being led by the endoscopy specialists.
+
+--------------------------------------------------------------------------------
+Thomas Flaten,  Lake Street Capital Markets, LLC, Research Division - Senior Research Analyst    [46]
+--------------------------------------------------------------------------------
+Got it. And then just one quick final one. I wanted to clarify on the deal terms. So the $50 million earn-out or milestone payments, if those do not occur in 2022, does that opportunity evaporate? Or how should we think about that?
+
+--------------------------------------------------------------------------------
+Derek J. Maetzold,  Castle Biosciences, Inc. - Founder, CEO, President & Director    [47]
+--------------------------------------------------------------------------------
+You mean will we owe -- will they go ahead and move into '23 or '24 milestones?
+
+--------------------------------------------------------------------------------
+Thomas Flaten,  Lake Street Capital Markets, LLC, Research Division - Senior Research Analyst    [48]
+--------------------------------------------------------------------------------
+Yes. Yes.
+
+--------------------------------------------------------------------------------
+Derek J. Maetzold,  Castle Biosciences, Inc. - Founder, CEO, President & Director    [49]
+--------------------------------------------------------------------------------
+No, no. They would -- those milestones would not be paid to Cernostics.
+
+--------------------------------------------------------------------------------
+Thomas Flaten,  Lake Street Capital Markets, LLC, Research Division - Senior Research Analyst    [50]
+--------------------------------------------------------------------------------
+Okay. If they're not achieved in '22?
+
+--------------------------------------------------------------------------------
+Derek J. Maetzold,  Castle Biosciences, Inc. - Founder, CEO, President & Director    [51]
+--------------------------------------------------------------------------------
+Correct.
+
+--------------------------------------------------------------------------------
+Operator    [52]
+--------------------------------------------------------------------------------
+We currently have no further questions. I will now hand back over to Derek for any closing remarks.
+
+--------------------------------------------------------------------------------
+Derek J. Maetzold,  Castle Biosciences, Inc. - Founder, CEO, President & Director    [53]
+--------------------------------------------------------------------------------
+Okay. Thank you, Lauren. Again, good morning. We appreciate you being around your e-mail and your phone this morning. Cernostics in announcing the signing of the definitive agreement to acquire Cernostics and the TissueCypher assay represents another important step forward to Castle Biosciences as we move into '22 and '23 and '24. I hope that we've done a solid job with you in reviewing what we found attractive here about tucking in Cernostics and expanding into a second specialty group here with very similar needs and demands. And we wish you a good day. We look forward to speaking to you at earnings time.
+
+--------------------------------------------------------------------------------
+Operator    [54]
+--------------------------------------------------------------------------------
+This concludes today's call. Thank you for joining, and I hope you have a lovely rest of your day. You may now disconnect your lines.
+
+
+
+
+
+
+
+--------------------------------------------------------------------------------
+Definitions
+--------------------------------------------------------------------------------
+PRELIMINARY TRANSCRIPT: "Preliminary Transcript" indicates that the 
+Transcript has been published in near real-time by an experienced 
+professional transcriber.  While the Preliminary Transcript is highly 
+accurate, it has not been edited to ensure the entire transcription 
+represents a verbatim report of the call.
+
+EDITED TRANSCRIPT: "Edited Transcript" indicates that a team of professional 
+editors have listened to the event a second time to confirm that the 
+content of the call has been transcribed accurately and in full.
+
+--------------------------------------------------------------------------------
+Disclaimer
+--------------------------------------------------------------------------------
+Refinitiv reserves the right to make changes to documents, content, or other 
+information on this web site without obligation to notify any person of 
+such changes.
+
+In the conference calls upon which Event Transcripts are based, companies 
+may make projections or other forward-looking statements regarding a variety 
+of items. Such forward-looking statements are based upon current 
+expectations and involve risks and uncertainties. Actual results may differ 
+materially from those stated in any forward-looking statement based on a 
+number of important factors and risks, which are more specifically 
+identified in the companies' most recent SEC filings. Although the companies 
+may indicate and believe that the assumptions underlying the forward-looking 
+statements are reasonable, any of the assumptions could prove inaccurate or 
+incorrect and, therefore, there can be no assurance that the results 
+contemplated in the forward-looking statements will be realized.
+
+THE INFORMATION CONTAINED IN EVENT TRANSCRIPTS IS A TEXTUAL REPRESENTATION
+OF THE APPLICABLE COMPANY'S CONFERENCE CALL AND WHILE EFFORTS ARE MADE TO
+PROVIDE AN ACCURATE TRANSCRIPTION, THERE MAY BE MATERIAL ERRORS, OMISSIONS,
+OR INACCURACIES IN THE REPORTING OF THE SUBSTANCE OF THE CONFERENCE CALLS.
+IN NO WAY DOES REFINITIV OR THE APPLICABLE COMPANY ASSUME ANY RESPONSIBILITY FOR ANY INVESTMENT OR OTHER
+DECISIONS MADE BASED UPON THE INFORMATION PROVIDED ON THIS WEB SITE OR IN
+ANY EVENT TRANSCRIPT. USERS ARE ADVISED TO REVIEW THE APPLICABLE COMPANY'S
+CONFERENCE CALL ITSELF AND THE APPLICABLE COMPANY'S SEC FILINGS BEFORE
+MAKING ANY INVESTMENT OR OTHER DECISIONS.
+--------------------------------------------------------------------------------
+Copyright 2021 Refinitiv. All Rights Reserved.
+--------------------------------------------------------------------------------

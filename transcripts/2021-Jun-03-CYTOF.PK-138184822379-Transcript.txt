@@ -1,0 +1,242 @@
+
+
+Refinitiv StreetEvents Event Transcript
+E D I T E D   V E R S I O N
+
+Auris Medical Holding Ltd Acquires RNA Therapeutics Company - M&amp;A Call
+JUNE 03, 2021 / 12:00PM GMT
+
+================================================================================
+Corporate Participants
+================================================================================
+
+ * Thomas Meyer
+   Auris Medical Holding Ltd. - Founder, Chairman, CEO & MD
+ * Samuel A. Wickline
+   Auris Medical Holding Ltd. - Chief Scientific Officer
+
+================================================================================
+Conference Call Participiants
+================================================================================
+
+ * Andrew Scott
+    - 
+ * Unidentified Analyst
+    - 
+ * Unidentified Participant
+    - 
+
+================================================================================
+Presentation
+--------------------------------------------------------------------------------
+Operator    [1]
+--------------------------------------------------------------------------------
+Thank you. Good morning, and welcome to Auris Medical's conference call. On today's call, Thomas Meyer, Auris Medical's Chairman and Chief Executive Officer; and Dr. Samuel Wickline, Auris Medical's new Chief Scientific Officer will present and discuss the company's acquisition of Trasir Therapeutics as well as their related plan for a strategic repositioning of the company. The accompanying slides can be found on our website in the Investors section. 
+Earlier today, Auris Medical issued a news release related to these topics. The release is available on the company's website, aurismedical.com, and have been filed with the SEC. 
+During today's call,  Auris Medical will be making forward-looking statements within the meaning of the Private Securities Litigation Reform Act of 1995. This includes statements that address future operating, financial or business performance or the company's strategies or expectations. Forward-looking statements are based on management's current expectations and beliefs and involve significant risks and uncertainties that could cause actual results, developments and business decisions to differ materially from those contemplated by these statements. These risks and uncertainties include, but are not limited to, the timing and conduct of the company's clinical trials, the clinical activity of its product candidates, the timing of like hood of regulatory filings and approvals, the company's intellectual property position and its financial position as well as those described in the Risk Factors section in the company's annual report on Form 20-F and future filings with the Securities and Exchange Commission. 
+In addition, any forward-looking statements represent Auris Medical's views only as of today and should not be relied upon as representing the company's views as of any subsequent date. While the company may elect to update these forward-looking statements at some point in the future, it specifically disclaims any obligation to do so even if its use change. 
+With that, I hand the call over to Thomas Meyer.
+
+--------------------------------------------------------------------------------
+Thomas Meyer,  Auris Medical Holding Ltd. - Founder, Chairman, CEO & MD    [2]
+--------------------------------------------------------------------------------
+Thank you, Johanna. Hello, everyone, and thank you for taking the time to join our conference call dedicated to the company's strategic expansion into the field of RNA therapeutics as well as the related strategic repositioning. I am happy to say that we are very excited about the acquisition of Trasir Therapeutics. We believe that it opens up great opportunities for the company in one of the currently most promising field in medical research. 
+At the same time, we consider the acquisition an important catalyst for sharpening the profile of the company as we are planning to separate our existing business in the medium term. We expect transformation and repositioning to help unlock and create significant shareholder value. 
+During this call, I will first present the Trasir Therapeutics acquisition, the rationale behind it as well as our vision for the business. I will also talk briefly about the current RNA therapeutics landscape. Then Dr. Wickline will discuss current challenges to delivering oligonucleotides effectively into cells and present Trasir's OligoPhore technology, including some results from the research, which he and his colleagues conducted over many years while in academia. 
+Further, he will provide a glimpse of the next steps in the development of the Trasir technology. I will then conclude the presentation with a review of our plans for changes at the corporate level and a brief overview of our expected news flow. Finally, we will open the call for any questions. 
+Moving to Slide 4. I will now present the key elements of the Trasir Therapeutics transaction a bit more in detail. As announced earlier today, we have acquired 100% of the share capital of privately held Trasir Therapeutics Inc. based in Tampa, Florida. The company is a pioneer in extrahepatic oligonucleotide delivery with its principal asset being the OligoPhore technology, which will be presented later in detail by Dr. Wickline. Trasir Therapeutics owns a worldwide exclusive license from Washington University, where the technology was originally developed and patented. The transaction was carried out as a triangular merger between our current U.S. subsidiary, Auris Medical Inc, and Trasir Therapeutics with Auris Medical Holding being involved as the parent company. 
+The purchase price comprises 0.77 million common shares of the acquiring company that is Auris Medical. The assumption of certain selling shareholders cash outlays as well as future share-based payment contingent on reaching a specific development milestone. This transaction closed this week on June 1. 
+On to Slide 5. The acquisition of Trasir Therapeutics is the result of a strategy review process which we initiated and announced back in September last year. 
+Our Board of Directors came to the conclusion that we had to change the strategic direction of the company. When looking at our pipeline of programs, we felt that we had great prospects. AM-125 nasal spray for treating vertigo in Phase II with the U.S. being a large untapped opportunity for this type of product. AM-301/Bentrio, a drug free nasal spray for protecting against airborne viruses such as coronavirus and allergens with the prospect of a market launch already in Q2 2021. AM-101 and some early-stage projects for treatment of tinnitus, a very large opportunity worldwide in view of the complete lack of treatments. AM-111 for treating acute hearing loss, another white spot in medicine, benefiting from orphan drug status. 
+On the other hand, we felt that this great development pipeline was underappreciated by investors, which clearly impacted also our ability to raise capital at reasonable conditions. We lacked critical mass. Hence, the launch of a strategy review process. The positive market reaction to the announcement of our SARS coronavirus 2 data with 301 in early December last year showed that investors do appreciate new projects. 
+At the same time, it was not enough for reaching that critical mass. We rebuild a number of opportunities, including reverse mergers, acquisitions, spin-offs and so on. In the end, we decided to move forward with the Trasir Therapeutics opportunity, following some thorough due diligence. We see in Trasir the potential to make a big difference for patients, for the company and for its shareholders. 
+First of all, there is strong signs the OligoPhore platform is truly innovative and allows for a clear differentiation. Second, the OligoPhore platform addresses some key challenges in oligonucleotide delivery which are holding back the great potential of RNA therapeutics. So we believe that it has disruptive potential. Third, this addresses a large and fast-growing market. The global market for RNA therapeutics has been greater than $1 billion already in 2020. Fourth, thanks to the fantastic success with mRNA-based vaccines, many investors have become familiar with RNA delivery technology. And fifth, there are some synergies in what we do, what we have done here in peptides and cell penetrating concepts through our AM-111 development program. 
+On the other side, Trasir Therapeutics was built from academia, has great data, yet lack the capacity and means to move their programs further. Therefore, Dr. Wickline and his colleagues were looking for a partner to translate their cutting-edge science into therapeutics. And so we met. 
+On to Slide 6. With the acquisition of Trasir Therapeutics, we aim to become a leading company developing oligonucleotides for extrahepatic therapeutic targets. For this, we are in the process of initiating preclinical development of the first pipeline program, which we carry on the project code AM-401. It will target most likely an indication in oncology and/or in rare disease. The assessment of various options based on the extensive work of Dr. Wickline and colleagues will be concluded shortly. We are aiming for an IND submission in late 2022, depending on the actual indication that we will pick. In parallel, we intend to explore further potential applications of the OligoPhore platform for the delivery of various types of nucleic acids, be it siRNA, mRNA or gene editing constructs as versatility is one of the beauties of the managed duties of this platform. In this context, we intend to leverage the platform's potential also through strategic partnering. 
+On to Slide 7. As already mentioned and also evidenced by the great number of companies shown on this slide, the field of RNA therapeutics has become very active in recent years. I remember very well the initial euphoria in the first decade of this century, which then gave way to a long dry spell due to multiple challenges, not the least in delivery. The whole field started to take off for real with the FDA approval for the first siRNA therapeutic by Alnylam in 2018. Since then, 3 more RNA-based therapies have reached the market one by Alnylam in 2019, one by Sarepta in the same year and one by Novartis in 2020. And the mRNA vaccines provided, just in the past 12 months, another large boost bringing with it an unprecedented level of investment into the space. Last but not least, there is gene editing, which represents yet another high potential medical breakthrough. 
+On to Slide 8. We are very delighted and honored that Dr. Samuel Wickline, the founder and majority shareholder of Trasir Therapeutics, has agreed to serve as our new CSO. Through the merger, he has also become one of our largest individual shareholders. Dr. Wickline can look back on a very productive and distinguished career in academia. Up to the sale of Trasir, he was the Director of the Health Heart Institute, Chair in Cardiovascular Medicine, Professor of Cardiovascular Sciences, Molecular Physiology and Pharmacology, and Medical Engineering at the University of South Florida. He had moved there in 2016 after having worked for many years at WashU, St. Louis, as a professor of medicine, physics, biomedical engineering and cell biology and physiology. His work has been funded continuously for more than 30 years by NIH, totaling almost $50 million. He has been a prolific writer, authoring or co-authoring more than 300 research papers. And also prolific inventor, holding more than 50 issued or filed U.S. patent applications. Last but not least, he founded 2 more biotech start-ups. 
+Now let's hear more about his work in his own words. I'm very pleased to hand the call over to Dr. Wickline, and we're moving with that on to Slide #9.
+
+--------------------------------------------------------------------------------
+Samuel A. Wickline,  Auris Medical Holding Ltd. - Chief Scientific Officer    [3]
+--------------------------------------------------------------------------------
+Okay. Thank you, Thomas. Good morning to all. So the basic technology that I'm going to describe briefly for oligonucleotide delivery was developed over a number of years under long-term support from the National Institutes of Health while I was at Washington University in St. Louis. Many of the subsequent experimental preclinical applications that have been published are the result of extensive and ongoing collaborations with colleagues at Washington University and other academic centers in the United States. 
+Importantly, our collaborators have been able to master and implement this technology quickly in their own labs with only very modest input from our group. In this slide, we list the most prevalent options for delivering oligonucleotide therapeutics. These are viral based vectors, lipid, antiparticles and ligand conjugated nucleic acids. Although each delivery system here exhibits promising features for intravascular applications and cellular transfection, it is clear that robust oligonucleotide delivery remains the key rate limiting step for unlocking the potential of RNA therapeutics. For example, viral based delivery vectors suffer from the lack of transduction efficiency and target specificity. Lipid nanoparticles and currently available ligand conjugates using GalNac technology preferentially target the liver and many have suboptimal therapeutic indexes. 
+Now moving to Slide 10. We have validated a unique approach that utilizes a custom-design 21 amino acid peptide that rapidly condenses peptide and nucleotide components into a polyplex with a size, charge and other physical features that allow it to escape hepatic clearance. The basic rules for the design of this peptide are adapted from the behavior of the large class of membrane inserting or membrane penetrating peptides that are abundant in nature. We have added our own ideas from physical chemistry to arrive at a structure that exhibits some of the following features: stability. The siRNA is complexed in a nanoparticle polyplex format and is only released inside of cells after endosomal uptake and not in the circulation. Extra hepatic delivery. It's not sequestered in the liver but will readily permeate inflamed pathological tissues. Endosomal escape. We have coopted the natural cellular process of endosomal specifications disassemble the polyplex, which is followed by full release of siRNA into the cytoplasm. Selectivity. The polyplex silences molecular targets in diseased tissues only. Safety. No cellular or adaptive immune responsivity to nanoparticle components or siRNA after multiple serial doses has been observed in mice and no organ toxicities observed after serial dosing. 
+In Greek, phore, P-H-O-R-E, means an agent, a bear, or a producer of a specific thing. With our peptide polyplex technology, we have a safe and effective agent or bearer delivering nucleic acid payloads into the cell. Hence the name, OligoPhore. 
+Let's go to Slide 11. The preparation of polyplex formulations is relatively straightforward. The peptide carrier rapidly condenses nucleotides within minutes by mixing at a predefined ratio. The interaction between oligonucleotide and peptide is initially electrostatic, but importantly, an exothermic process of strong hydrogen bonding takes place between the histidine and nucleic acids to markedly stabilize the polyplex. A thin coating of albumin or polyronic acid, is used to further stabilize the system. 
+Now to Slide 12. Once the polyplex is formed, it can be injected IV or intraperitoneally or by any other route that reaches the circulation. It readily escapes the leaky vasculature of various pathologies and has taken up avidly by cells that are capable of macro pinocytosis for big drinking, such as cancer cells or macrophages. However, we have also transfected endothelium, smooth muscle and other cell types. Once in the endosome, the natural process of a certification breaks the strong bonds between the RNA and the peptide to disassemble the polyplex. The release peptide interacts with the endosomal membrane to permeabilize it and release the RNA into the cytoplasm. The peptide itself is then diluted quickly and broken down, causing no unintended damage to the cell membrane itself. 
+On to Slide 13. Our OligoPhore technology has been tested in numerous standard miring models. You'll see here a list of potential clinical applications. All of these results have been published in peer-reviewed journals. Most of these have been developed in collaboration with other laboratories against targets of interest to our colleagues for these various diseases. We are especially familiar with multiplex targeting of the NF kappa B pathways in many diseases using siRNAs in combination on a single nanoparticle since NF kappa B is involved as a driver in almost all inflammatory pathologies. 
+Now on to Slide 14. Here are 2 examples of potential oncology applications. In the first, on the left, the ETV-2 transcription factor is targeted with siRNA in an implanted lung cancer model. ETV-2 is active in embryologic development and is necessary for blood vessel growth in utero. It is reexpressed in cancers and leads to angiogenesis, which promotes tumor growth and metastasis. Here, the anti ETV-2 siRNA serves as a safe anti-angiogenic agent that dramatically slows tumor growth even after the cancer is established. 
+The second tumor to the right is pancreatic cancer. Here, knockdown of mutant KRAS also dramatically slows the growth of implanted pancreatic tumors by at least 80% after serial dosing. Notice in the right panel that the fluorescently labeled polyplex has readily enter the tumor mass but not the normal uninvolved pancreas in this spontaneous pancreas tumor model. This is important because it is thought that the dense stroma of pancreatic tumors limits access to chemotherapy agents to serve as an Achilles' heel of therapy. Yet, our agents enter and are quite effective. 
+Now on to Slide 15. In this slide, we show the ability of the very same OligoPhore peptide to condense messenger RNA into a polyplex that is transfected after systemic injection. The first ex vivo example targets human cartilage removed from a patient with osteoarthritis who underwent arthroscopy. The messenger RNA polyplexes are created with the same formulation process only now using a different ratio of peptide to RNA to account for the different sizes and charges of the components. In these living human cartilages, incubation with WNT 16 messenger RNA polyplexes results in deep cartilage penetration, chondrocyte uptake and abundant expression of WNT 16 protein in the treated group. This down regulates the production of inflammatory beta catenin as shown and WNT 3-A, which is not shown here. To the right, injured femoral arteries and mice undergo smooth muscle proliferation and intima media thickening and vessel obstruction, which serves as a nice model of what happens in coronary artery angioplasty that requires a stent to prevent restenosis. In this case, the use of a messenger RNA against a cell cycle stimulator, p27, when delivered to smooth muscle cells, prevents proliferation and intermediate thickening and vessel obstruction as compared against the nonfunctional mRNA here labeled niRFP. 
+On to Slide 16. Here, we briefly review the product development that will focus first on siRNA applications. We are now in the process of selecting a lead therapeutic indication that will most likely be an oncology and/or orphan drug indications and be based on some of the preclinical work that was carried out by Trasir and by outside laboratories. 
+We will simultaneously advance our promising research on systemic messenger RNA delivery and other potential payloads. As already mentioned, our OligoPhore platform is very versatile and not limited to siRNA alone. We will rapidly converge on critical manufacturing and scale up processes that should enable pivotal non-human primate toxicology studies in view of the planned IND submission towards the end of 2022. And to accomplish these goals as quickly as possible, our team of in-house experts will be complemented by a network of consultants and CROs in the EU and U.S. 
+With this, I now turn the call back to Thomas.
+
+--------------------------------------------------------------------------------
+Thomas Meyer,  Auris Medical Holding Ltd. - Founder, Chairman, CEO & MD    [4]
+--------------------------------------------------------------------------------
+Thank you, Sam. I trust that you can share now our excitement about the Trasir technology. The acquisition of Trasir Therapeutics is the starting point for a strategic repositioning under which we intend to focus on the development of RNA therapeutics and become a so-called pure play. When you look at our current portfolio, you will notice that it is a really diverse, stretching from OTC to Rx therapeutics from systemic delivery to local delivery from established indications to new frontiers. This is too much complexity for a company of our size and doesn't provide for optimum development outcomes and financial returns. This is why we are planning to spin off or divest our existing assets in neurotology, rhinology and allergology. We expect this to happen within the next 12 to 18 months. But we are not in a hurry. 
+In the meantime, there will be some important milestones for the existing business. For example, the launch of our ventrionasal spray, or the readout from the Phase II trial with AM-125 in vertigo. We expect the transformation of the company to unlock and create significant shareholder value, and that we'll be able to address here different parts of the investor universe than in the past. 
+On to Slide 18. To reflect the company's strategic repositioning, the Board of Directors of Auris Medical Holdings Limited, so the parent company, intends to call an extraordinary general meeting of shareholders to propose to change the corporate name to Altamira Therapeutics Limited. 
+Now you know that we already have a subsidiary, Altamira Medica, which is actually developing the AM-301 ventrionasal spray. So this is now a new member in the Altamira family. Now actually, Altamira Therapeutics, which stands for RNA, it will be also the name for the parent company. Upon approval of the proposed name change, the company's shares will start trading under the ticker symbol C-Y-T-O, CYTO, the words root for cell in Greek instead of EARS. While I know many investors love EARS, and so do I, but okay, it's now the time for transformation. And CYTO, that will be the ticker symbol here to go. The general meeting will be called most likely for July 2021. 
+On to Slide 19. In addition, the Board intends to propose the election of Margrit Schwarz, PhD MBA as an additional board member. Margrit brings with her 25 years of experience in drug discovery and development across multiple indications and modalities, acquired in a global biopharmaceutical industry with companies like Amgen, Boehringer Ingelheim, Roche, Genevant and in international academic research settings. 
+On to Slide 20. Well, I'm coming to a brief outlook. As you can see from this table, there will be quite some news flow between now and next year. So we will be definitely quite busy. Internally, we call the strategy review project, metamorphosis. The transformation of Auris Medical has started with the acquisition of Trasir Therapeutics. So we look forward to saying very soon, hello Altamira Therapeutics. We have a very exciting journey ahead of us, and we very much look forward to that. 
+With this, I would now I'd like to turn the call back to the operator, who will open the line for questions.
+
+
+================================================================================
+Questions and Answers
+--------------------------------------------------------------------------------
+Operator    [1]
+--------------------------------------------------------------------------------
+(Operator Instructions) Your first question today comes from the line of [Aetna Vesna] from [Randwick Consulting].
+
+--------------------------------------------------------------------------------
+Unidentified Analyst,   -     [2]
+--------------------------------------------------------------------------------
+I would like to incline about the future of your nasal spray as a remedy or rather is it protection against corona, COVID-19, precisely.
+
+--------------------------------------------------------------------------------
+Thomas Meyer,  Auris Medical Holding Ltd. - Founder, Chairman, CEO & MD    [3]
+--------------------------------------------------------------------------------
+Yes. Thank you very much for this question. So yes, the AM-301 nasal spray is getting very close here to the launch in the first European market as per previous guidance. We plan to broaden the launch then in subsequent quarters to additional markets. We have preparations here pretty well advanced for submitting a 510(k) request to the FDA, so to bring it to the U.S. And we recently announced that we want to start clinical evaluation in acute COVID-19 in India, where there is currently a very significant flare-up in infection rates. So this is the current status. 
+Now we feel that the product has quite an interesting potential here in the market. It's drug free, preservative-free it protects not only against one single virus or virus type, but various ones and also against allergens. And so we see here a very nice potential for franchise in OTC that we are now building up and as part here of the repositioning of the company. We will see. As mentioned, we may do a spin-off of assets here to shareholders that may include in -- through one entry or there may be some other options that we will take. But we are very excited about this program and look forward here to the next milestones and the results. So we are also very busy with that one.
+
+--------------------------------------------------------------------------------
+Unidentified Analyst,   -     [4]
+--------------------------------------------------------------------------------
+Right. Could I have a follow-up question?
+
+--------------------------------------------------------------------------------
+Thomas Meyer,  Auris Medical Holding Ltd. - Founder, Chairman, CEO & MD    [5]
+--------------------------------------------------------------------------------
+Yes, please.
+
+--------------------------------------------------------------------------------
+Unidentified Analyst,   -     [6]
+--------------------------------------------------------------------------------
+For the 510(k) registration with the FDA, does that include -- is that a registration as a medical device or as a therapeutic?
+
+--------------------------------------------------------------------------------
+Thomas Meyer,  Auris Medical Holding Ltd. - Founder, Chairman, CEO & MD    [7]
+--------------------------------------------------------------------------------
+No. 510(k) is reserved for medical devices.
+
+--------------------------------------------------------------------------------
+Unidentified Analyst,   -     [8]
+--------------------------------------------------------------------------------
+I thought so, yes. And then how do you plan to market this? Could you give some more color on your ideas of franchising that?
+
+--------------------------------------------------------------------------------
+Thomas Meyer,  Auris Medical Holding Ltd. - Founder, Chairman, CEO & MD    [9]
+--------------------------------------------------------------------------------
+Well, I mean, there will be a combination here of various channels that we'll be using. So we will inform about that. We will use online channels, off line channels, pharmacies, various things, distributors. But yes, that will come. But -- okay. So I hope I could answer your questions, and maybe we can move on here to the next one in the line and maybe some question. Thank you very much. Maybe some question also about today's announcement regarding Trasir.
+
+--------------------------------------------------------------------------------
+Operator    [10]
+--------------------------------------------------------------------------------
+The next question is from the line of [Gary Adolf], self-employed.
+
+--------------------------------------------------------------------------------
+Unidentified Participant,   -     [11]
+--------------------------------------------------------------------------------
+Congratulations on the wonderful news. I sort of have a different type of question. How did you get to meet Dr. Wickline? And how did this great partnership form? I'm sort of interested in the history. And I also have a follow-up question.
+
+--------------------------------------------------------------------------------
+Thomas Meyer,  Auris Medical Holding Ltd. - Founder, Chairman, CEO & MD    [12]
+--------------------------------------------------------------------------------
+Yes. So as often in life, there is a pure coincidence or luck that is involved. So I was introduced by someone in the banking industry to Trasir Therapeutics and Dr. Wickline. And I can say, we hit it right from the very beginning. That was a very good meeting. And so this very quickly took on here its own pace, and I'm very happy that we could move this year to the finish line.
+
+--------------------------------------------------------------------------------
+Unidentified Participant,   -     [13]
+--------------------------------------------------------------------------------
+And in your opening statements, you mentioned the AM-401 targeting, I think, 2022 filing IND. Can you talk a little bit about the global opportunity with AM-401, specifically in Europe?
+
+--------------------------------------------------------------------------------
+Thomas Meyer,  Auris Medical Holding Ltd. - Founder, Chairman, CEO & MD    [14]
+--------------------------------------------------------------------------------
+Well, there is going to be a very significant opportunity. Now as you know, the RNA therapeutics market is evolving quite rapidly. And we believe that actually the OligoPhore technology here will be a very important part to make this potentially even bigger. So the strategy here is really to focus first on one target indication, move that through an IND into clinical proof of concept. In parallel, of course, we will continue here with other projects. But we are not going in parallel here with various projects, but rather to have a clear focus and to go fast with a high-quality package that we can submit to the FDA. Obviously, we will also take this to Europe where there is a similarly large opportunity.
+
+--------------------------------------------------------------------------------
+Operator    [15]
+--------------------------------------------------------------------------------
+The next question is from the line of Andrew Scott from ThinkEquity.
+
+--------------------------------------------------------------------------------
+Andrew Scott,   -     [16]
+--------------------------------------------------------------------------------
+I have a question for Thomas and then Dr. Wickline. Thomas, what attracted you to this technology? And then the question for Dr. Wickline is landscape has a lot of RNA technology companies out there. What distinguishes your platform from, say, some of the others?
+
+--------------------------------------------------------------------------------
+Thomas Meyer,  Auris Medical Holding Ltd. - Founder, Chairman, CEO & MD    [17]
+--------------------------------------------------------------------------------
+Yes. Thank you, Andrew. Well, I guess, here, it was really a combination of fantastic technology that had been somehow under the radar. Let's put it that way. I mean it has been out there. It got published and everything. But it was really here on, let's say, it was ready actually to get translated. And so it was exactly at the right time. I mean we were seeking to reposition the company. We have been doing here projects, and we have been pioneers in other fields. So here, great technology, cell penetrating peptide. This is something that we have been doing for quite some time. Well, not for RNA delivery, but for delivering a classic peptide inside the cell. So it was really a great combination. And then I mean, Dr. Wickline here has a fantastic track record. Very impressive. The -- all the work that he has done together with his collaborators and colleagues over many years. And so it's a fantastic opportunity for us here to take this within Auris Medical or the new Altamira Therapeutics and pick the ball and carry it forward. And fortunately, Dr. Wickline is part here of the team. So that's great. We are really excited about that.
+
+--------------------------------------------------------------------------------
+Samuel A. Wickline,  Auris Medical Holding Ltd. - Chief Scientific Officer    [18]
+--------------------------------------------------------------------------------
+Yes. Andrew, this is Sam Wickline. So the differentiating factors are several. First of all, we were most interested in trying to figure out how to develop a system that would go to tissues besides the liver. And as you know, RNA delivery is extraordinarily complicated. There are a large number of steps that have to take place in order for you to get RNA from the circulatory system into the cell and to engage the risk complex so that it can, in the case of siRNA, essentially destroy the messenger. Our technology is peptide based. There have been other peptide systems, of course. But when we considered using peptides, it was based on a long history of our interest in membrane inserting and membrane penetrating peptides. And so we  developed a technology that ultimately combined all the necessary functionality in this peptide once it was complex with RNA, in order to deliver it to a cell, have it taken up by the endosome, get out of the endosome, disassemble the particle and then release the siRNA. All of these steps have to be done in  order and have to be done efficiently in order to make this work. And I think this peptide system allows that to happen. 
+Moreover, perhaps most interestingly and fortuitously, it's really easy to adopt this technology. We've taught many people how to do this in a day. It can be done in any lab by simply mixing the 2 components, and we've empirically figured out how to develop those ratios for siRNA, mRNA or any other RNA structures. And so it's the ease of uptake formulation and adoption that makes this really a nice platform for any number of laboratories to use.
+
+--------------------------------------------------------------------------------
+Operator    [19]
+--------------------------------------------------------------------------------
+(Operator Instructions) No further questions at this time, so I'll hand back to the speakers.
+
+--------------------------------------------------------------------------------
+Thomas Meyer,  Auris Medical Holding Ltd. - Founder, Chairman, CEO & MD    [20]
+--------------------------------------------------------------------------------
+Yes. Thank you very much, operator, and thanks to everyone for joining the call today and your interest in Auris Medical. So as always, take care of your ears, take care of your noses. And well, have a great day. And stay tuned for more news from Auris Medical. Thank you. Goodbye.
+
+
+
+
+
+
+
+--------------------------------------------------------------------------------
+Definitions
+--------------------------------------------------------------------------------
+PRELIMINARY TRANSCRIPT: "Preliminary Transcript" indicates that the 
+Transcript has been published in near real-time by an experienced 
+professional transcriber.  While the Preliminary Transcript is highly 
+accurate, it has not been edited to ensure the entire transcription 
+represents a verbatim report of the call.
+
+EDITED TRANSCRIPT: "Edited Transcript" indicates that a team of professional 
+editors have listened to the event a second time to confirm that the 
+content of the call has been transcribed accurately and in full.
+
+--------------------------------------------------------------------------------
+Disclaimer
+--------------------------------------------------------------------------------
+Refinitiv reserves the right to make changes to documents, content, or other 
+information on this web site without obligation to notify any person of 
+such changes.
+
+In the conference calls upon which Event Transcripts are based, companies 
+may make projections or other forward-looking statements regarding a variety 
+of items. Such forward-looking statements are based upon current 
+expectations and involve risks and uncertainties. Actual results may differ 
+materially from those stated in any forward-looking statement based on a 
+number of important factors and risks, which are more specifically 
+identified in the companies' most recent SEC filings. Although the companies 
+may indicate and believe that the assumptions underlying the forward-looking 
+statements are reasonable, any of the assumptions could prove inaccurate or 
+incorrect and, therefore, there can be no assurance that the results 
+contemplated in the forward-looking statements will be realized.
+
+THE INFORMATION CONTAINED IN EVENT TRANSCRIPTS IS A TEXTUAL REPRESENTATION
+OF THE APPLICABLE COMPANY'S CONFERENCE CALL AND WHILE EFFORTS ARE MADE TO
+PROVIDE AN ACCURATE TRANSCRIPTION, THERE MAY BE MATERIAL ERRORS, OMISSIONS,
+OR INACCURACIES IN THE REPORTING OF THE SUBSTANCE OF THE CONFERENCE CALLS.
+IN NO WAY DOES REFINITIV OR THE APPLICABLE COMPANY ASSUME ANY RESPONSIBILITY FOR ANY INVESTMENT OR OTHER
+DECISIONS MADE BASED UPON THE INFORMATION PROVIDED ON THIS WEB SITE OR IN
+ANY EVENT TRANSCRIPT. USERS ARE ADVISED TO REVIEW THE APPLICABLE COMPANY'S
+CONFERENCE CALL ITSELF AND THE APPLICABLE COMPANY'S SEC FILINGS BEFORE
+MAKING ANY INVESTMENT OR OTHER DECISIONS.
+--------------------------------------------------------------------------------
+Copyright 2021 Refinitiv. All Rights Reserved.
+--------------------------------------------------------------------------------

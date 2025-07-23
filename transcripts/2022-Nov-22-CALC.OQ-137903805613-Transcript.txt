@@ -1,0 +1,128 @@
+
+
+Refinitiv StreetEvents Event Transcript
+E D I T E D   V E R S I O N
+
+Graybug Vision Inc And CalciMedica Inc Enter Into Definitive Merger Agreement Call
+NOVEMBER 22, 2022 / 1:00PM GMT
+
+================================================================================
+Corporate Participants
+================================================================================
+
+ * Rachel Leheny
+   CalciMedica, Inc. - CEO
+ * Fred Geurard
+   Graybug Vision, Inc. - CEO
+
+================================================================================
+Presentation
+--------------------------------------------------------------------------------
+Operator    [1]
+--------------------------------------------------------------------------------
+Ladies and gentlemen, thank you for standing by, and welcome to the Graybug and CalciMedica merger announcement conference call. I would now like to turn the call over to Fred Geurard, Chief Executive Officer of Graybug.
+
+--------------------------------------------------------------------------------
+Fred Geurard,  Graybug Vision, Inc. - CEO    [2]
+--------------------------------------------------------------------------------
+Thank you for joining us today. I'm Fred Geurard, Chief Executive Officer of Graybug Vision. And I am joined by Rachel Leheny, Chief Executive Officer of CalciMedica. Yesterday after market close, we announced the proposed merger between our two companies. Today, we are pleased to discuss our plans with you, share our excitement about this important and transformative business combination, and describe the value proposition for current and future shareholders.
+Please note that in this presentation, we will be making forward-looking statements. Please refer to the slides for purposes of the safe harbor provision under the Private Securities Litigation Reform Act of 1995. These statements reflect management's intentions, beliefs, and expectations about the proposed merger with CalciMedica: the strategy, competition, products, operating plans, and performance of the combined company.
+All forward-looking statements included in this presentation are made as of the date hereof, based on information currently available to Graybug and CalciMedica are subject to various risks and uncertainties, and actual results could differ materially from those anticipated in the forward-looking statements. Except as required by law, we assume no obligation to update any such forward-looking statements after the date of this presentation or to conform these forward-looking statements to actual results.
+After an extensive review of strategic [alternative], Graybug's Board of Directors and leadership team believed the proposed merger with CalciMedica represents the best potential value creation opportunity for Graybug's shareholders. CalciMedica is a clinical stage biopharmaceutical company focused on the development of first-in-class therapies for life-threatening inflammatory diseases. The company's lead product candidate, Auxora, expects clinical milestones in the next 12 months, including a Phase 2b readout in the second half of next year in its lead indication, acute pancreatitis. There are currently no approved therapies for any of the indications being pursued by CalciMedica.
+Moving to an overview of the transaction, the ownership split of the combined company at closing will be approximately 71% for CalciMedica's shareholders and 29% for Graybug's shareholders, subject to adjustments based on Graybug's net cash at closing. The combined company anticipates having a net cash balance of approximately $35 million. This cash balance will provide a runway into the second half of 2024, which is expected to be 9 to 12 months beyond the anticipated Phase 2b trial readout in acute pancreatitis.
+The combined company will be led by Rachel Leheny as a CEO, and existing members of CalciMedica as leadership team. The Board composition of the combined company will consist of seven Board members, five selected by CalciMedica and two selected by Graybug. We expect the closing to happen in the first quarter of 2023, subject to approval from the respective shareholders.
+CalciMedica's differentiated platform targets calcium-release activated calcium channel inhibition, or CRAC channel inhibition. The lead product candidate, Auxora, is an intravenously administered small molecule CRAC channel inhibitor that was discovered and formulated in our house by CalciMedica and has been studied in four completed efficacy trials in more than 300 patients, demonstrating positive and consistent clinical results and a favorable safety profile. CalciMedica's IP protection is robust with composition of matter protected to 2036, formulation protected until 2038, and method of use protected to 2041.
+Auxora's lead indication is acute pancreatitis or AP. The target population for Auxora are patients with predicted severe AP and persistent systemic inflammatory response syndrome, or AP with SIRS, which has the potential to be a billion-dollar market opportunity in the US alone. There are currently no approved therapies for AP.
+Auxora is also being developed for asparaginase associated pancreatitis, or AAP, a pediatric indication that impacts 7% to 10% of all patients being treated for acute lymphoblastic leukemia that develop AAP as a result of asparaginase treatment. There are currently no approved therapies for the approximately 300 children a year with AAP in the US, and it is estimated that 50% (technical difficulty) children will develop pancreatic necrosis.
+CalciMedica anticipates a Phase 2b readout in the lead acute pancreatitis indication in the second half of 2023, and a Phase 1/2 readout in AAP for the first cohort in the first half of 2023. These highlights form the basis of our excitement for the proposed merger, and it's why we believe this combination represents a unique value-creating opportunity for our shareholders. The focus to develop CalciMedica's pipeline to make meaningful improvements in the standard of care for patients with high unmet need also aligns with Graybug's own values and mission.
+With that, I will turn the call over to Rachel.
+
+--------------------------------------------------------------------------------
+Rachel Leheny,  CalciMedica, Inc. - CEO    [3]
+--------------------------------------------------------------------------------
+Thanks, Fred. Again, welcome everyone. I'm Rachel Leheny, CEO of CalciMedica. I'd like to begin by talking about why we're so excited about CRAC channels as a target for a new class of therapies for immuno-inflammatory diseases of high unmet need. CRAC channels maintain calcium homeostasis in certain cells. They're bound both in the immune system and in a number of organs like the pancreas, lung, kidney, and brain. They were originally identified in T cells where they play a key role in the adaptive immune response. In a disease state where there's an infection, toxin overload or trauma, CRAC channels in the organ tissue cells become hyper activated and allow excess calcium to enter the cell, causing apoptosis and tissue damage.
+Shutting down activated CRAC channels results in a two-pronged benefit by acting on both the immune system and in the organs directly. First, the inhibition reduces the pro-inflammatory response of the immune system. And second, it directly protects organ tissues from injury. It's this two-pronged effect that we believe is one of the key drivers of the efficacy data we have seen in the clinic to date.
+We have already studied Auxora in a number of clinical trials, including four completed Phase 2 trials in acute indications, with two of those trials in our lead indication, acute pancreatitis. Across all four trials, we have included over 300 patients, and Auxora has consistently showed clinical activity and a favorable safety profile, which gives us the confidence in the promise of Auxora and our technology.
+In addition to our Phase 2a data in acute pancreatitis, we are also encouraged by the preliminary observations of an ongoing Phase 1/2 asparaginase-associated pancreatitis, or AAP trial, in pediatric leukemia patients.
+Our largest Phase 2 trial to date was conducted in respiratory failure, where we enrolled over 280 patients with COVID-19 pneumonia. The positive results from this trial not only validate the clinical effects of Auxora and life-threatening inflammatory conditions, but also further de-risk our platform. I will go over the compelling data we've generated to date in a few moments. But first, I'll turn to our pipeline.
+As Fred mentioned, Auxora is being evaluated in multiple clinical trials. Acute pancreatitis is our lead indication. We have an ongoing Phase 2b study called CARPO. We expect a readout of the data from our CARPO trial in late 2023. In addition, we have finished enrolling the first cohort of our Phase 1/2 open-label CRSPA trial in pediatric AAP patients.
+We expect to report initial results in the first half of next year. We also expect to expand this trial to multiple centers and to talk to the FDA to determine the path forward for a potential accelerated approval of Auxora in this indication. We are further exploring other indications for Auxora, including acute kidney injury. We intend to treat patients who already have acute kidney injury, which will be a differentiated approach.
+Finally, we are completing a Phase 2 biomarker and mechanism of action trial with Auxora in COVID-19 ventilated patients. This trial is designed to provide evidence of the immunomodulatory and tissue protective effects of Auxora. Data is expected to be published in early 2023. Auxora has the potential to address high unmet medical needs in large markets with no currently approved therapies.
+In each case, the current standard of care for patients is supportive or palliative treatments. Disease progressions puts stress on hospitals and the medical system with long hospital stays, often weeks and months, long-term complications, and even mortality. We'll discuss the patient journey and target population for each of these indications in detail in a bit. We are excited about the market opportunity for our pipeline as Auxora has the potential to become a much needed therapy for significant patient population.
+Before we discuss our clinical results to date, we want to tell you a bit more about acute pancreatitis. There are roughly 275,000 patients hospitalized for acute pancreatitis each year in the United States alone. Our target market is about 40% of these patients, or roughly 100,000 per year, who are diagnosed with SIRS or systemic inflammation. These patients are the most likely to progress to severe pancreatitis, which can lead to infection and life-threatening organ failure.
+On this slide, we show you the journey for a patient with acute pancreatitis. Patients present to the emergency room with stomach pain so severe that they often cannot stand up straight. They cannot eat without pain or vomiting. Upon hospital admission, patients receive supportive therapy, including fluid, IV or liquid nutrition, and antibiotics to avoid infection. In certain cases, minimally invasive therapy may be needed for local complications. Upon admission, patients are also screened for SIRS. And again, roughly 40% of these patients are likely to suffer from SIRS.
+As mentioned earlier, these patients are the most likely to develop severe disease. And for some of these patients, the disease may become life-threatening. Auxora is designed to be used as a once-daily oral infusion in the first three days of hospital admissions, and it is being studied to stop the progression to severe pancreatitis.
+One key treatment goal is to get patients to tolerate solid food more rapidly. Eating solid food is an indication that the pancreas is functioning and that the patient may be ready for discharge. This translates into fewer days in the hospital or ICU, which provides a strong pharmacoeconomic argument for Auxora. Adoption of Auxora may be further driven by reductions in organ failure and reductions in pancreatic necrosis.
+This slide illustrates the trial design of our Phase 2a trial for Auxora in acute pancreatitis. In this trial, we evaluated 21 patients, of which 14 were treated with Auxora and 7 were treated with standard of care. We assessed these patients over 90 days. Importantly, we did a CT scan both at entry and when the patients were discharged from the hospital to determine if there was an improvement in the condition of the pancreas over the course of treatment. In the trial, we saw positive results on all primary endpoints. The most striking observation was that after treatment with Auxora, patients tolerated solid food more rapidly than those on standard of care.
+At enrollment, there was only one patient in the treated group and one patient in the standard of care group who were eating. Over time, we [discerned] a divergence. At 72 hours, about half the patients in the treated group were eating compared to only one in the standard of care group. At discharge, nearly all the patients in the treated group were eating as compared to about half the patients in the standard of care group. Importantly, patients who are not eating at discharge are at particular risk of readmission. And with the more rapid recovery of food tolerance, we also observed a decrease in hospital stay of over two days for patients treated with Auxora.
+As I mentioned, CT scans were performed on all patients to evaluate improvement in the CT severity index score or CTSI. This is a measure of the severity of pancreatic inflammation and necrosis. Over the course of a hospital stay, none of the standard care patients with elevated CTSI scores improved. However, over only three to five days, three out of the eight Auxora patients with elevated scores saw improvement. Finally, we saw a 50% greater reduction in persistent inflammation in Auxora-treated patients compared to standard of care. Seeing such measurable improvements in such a short period of time suggests efficacy of Auxora in acute pancreatitis.
+Based on these positive Phase 2a results, we initiated CARPO, our Phase 2b trial that I mentioned earlier. This is a placebo-controlled randomized trial in acute pancreatitis. CARPO has 4 equally weighted arms: three doses of Auxora, and a placebo. Baseline CT scans were obtained for each patient at entry. And then, CT scans were performed at day 30 to observe the potential long-term benefits of Auxora compared to the standard of care.
+The primary endpoint is time to solid food tolerance. Secondary endpoints include time to medically indicated discharge, time in hospital and in the ICU, and readmission rates. We will also conduct a responders analysis to validate the food tolerance endpoint for the FDA. This analysis will correlate food tolerance with patient outcomes such as length of hospital stay. We are planning to review the results from CARPO with the FDA in the first half of 2024.
+Moving now to AAP, we believe that Auxora can also provide significant benefits for children with acute lymphoblastic leukemia or ALL. These patients are being treated with asparaginase as part of their chemotherapeutic regimen. ALL is the most common cancer in children, with an incidence of 3 to 5 per 100,000 children in the United States. While asparaginase is extremely effective and is an important factor in making ALL a curable disease, it is also associated with a number of serious side effects.
+Out of the approximately 3,000 children in the United States treated annually for ALL, about 7% to 10% will develop asparaginase-associated pancreatitis, which is actually a particularly aggressive form of pancreatitis. Over half of the children with AAP are expected to develop a pancreatic pseudocyst or pancreatic necrosis, potentially life-threatening condition. If a child gets pancreatic necrosis, that child can no longer be treated with asparaginase for their leukemia, and they have lifelong problems like chronic pancreatitis.
+We are currently working with academic investigators to run CRSPA, an open-label Phase 1/2 proof of concept trial in AAP. Preliminary observations are encouraging, with all patients who received four daily infusions of Auxora showing rapid resolution of food tolerance and pain. In the first half of next year, we will announce data from this study. We will also be expanding the study to additional centers and plan to meet with the FDA to discuss path forward for potential accelerated approval of Auxora in this indication.
+I would also like to share data from our clinical trial CARDEA, which studied over 280 severe COVID-19 pneumonia patients. While the purpose of target was to test Auxora in COVID-19, we also looked at the occurrence of acute kidney injury in this patient population, as AKI is a relatively frequent [sequelae] of COVID. We observed a 40% reduction in reported AKI in patients treated with Auxora compared with the placebo group patients. We further measured angiopoietin-1 and angiopoietin-2 levels in these patients, as these are biomarkers for vascular endothelial cell function. Increased Ang-1 is a signal that vascular integrity is being maintained, while increased Ang-2 suggests there is endothelial inflammation and malfunction.
+What we discerned in CARDEA was that in the treated patients, Ang-1 went up and Ang-2 went down. This result suggests a potential application for Auxora for acute kidney injury where endothelial cell function is compromised. Further results from CARDEA are illustrated on this slide. Importantly, compared to placebo, Auxora showed a statistically significant 56% reduction in mortality at day 30 in these severe COVID-19 pneumonia patients, as well as a 33% relative risk reduction in the need for ventilators at day 60, and a more than two-day reduction in median hospital stay. We are currently evaluating further opportunities for Auxora in viral pneumonia respiratory failure.
+These data from this large placebo-controlled trial give us further confidence that our proprietary technology targeting the inhibition of CRAC channels designed to modulate the immune response, as well as protect against tissue cell injury, has the potential to provide therapeutic benefits in life-threatening inflammatory diseases for which there are currently no approved therapies.
+In summary, our lead product candidate, Auxora, for acute pancreatitis, has the potential to address the high unmet medical needs of patients with both AP and AAP. Our current Phase 2b trial of Auxora, CARPO, is underway in AP. And cohort one of our Phase 1/2 trial in AAP, or CRSPA, has been completed.
+Next year, we anticipate the readout from our Phase 2b CARPO AP trial in the second half of 2023. We also expect data from our Phase 1/2 AAP trial as well as a meeting with the FDA for this program in the first half of 2023. As a result of this transaction, we expect to have sufficient runway into the second half of 2024, which funds the company beyond several meaningful clinical milestones that will happen in the next 12 to 18 months.
+To conclude, I would like to leave you with four key points. We at CalciMedica are leading the development of a potential first-in-class therapy for life-threatening acute inflammatory diseases for which there are currently no available therapies. Auxora has demonstrated positive and consistent clinical trial results and a favorable safety profile and four completed efficacy clinical trials.
+Our lead indication in acute pancreatitis is very attractive and represents a potential billion-dollar opportunity in the United States alone. We have multiple near-term clinical readouts which represent key value inflection points over the next 12 to 18 months. As a result of this merger, the combined company will have a strong balance sheet with cash runway into the second half of 2024.
+Fred and I appreciate the opportunity to share with you what is a pivotal moment for both of our companies and a deal that has the potential to be attractive for shareholders, and, most importantly, life-changing for many patients suffering from these serious acute illnesses. We look forward to providing you with updates on our progress in the coming months.
+Thank you.
+
+--------------------------------------------------------------------------------
+Operator    [4]
+--------------------------------------------------------------------------------
+This concludes today's presentation. You may now disconnect.
+
+
+
+
+
+
+
+--------------------------------------------------------------------------------
+Definitions
+--------------------------------------------------------------------------------
+PRELIMINARY TRANSCRIPT: "Preliminary Transcript" indicates that the 
+Transcript has been published in near real-time by an experienced 
+professional transcriber.  While the Preliminary Transcript is highly 
+accurate, it has not been edited to ensure the entire transcription 
+represents a verbatim report of the call.
+
+EDITED TRANSCRIPT: "Edited Transcript" indicates that a team of professional 
+editors have listened to the event a second time to confirm that the 
+content of the call has been transcribed accurately and in full.
+
+--------------------------------------------------------------------------------
+Disclaimer
+--------------------------------------------------------------------------------
+Refinitiv reserves the right to make changes to documents, content, or other 
+information on this web site without obligation to notify any person of 
+such changes.
+
+In the conference calls upon which Event Transcripts are based, companies 
+may make projections or other forward-looking statements regarding a variety 
+of items. Such forward-looking statements are based upon current 
+expectations and involve risks and uncertainties. Actual results may differ 
+materially from those stated in any forward-looking statement based on a 
+number of important factors and risks, which are more specifically 
+identified in the companies' most recent SEC filings. Although the companies 
+may indicate and believe that the assumptions underlying the forward-looking 
+statements are reasonable, any of the assumptions could prove inaccurate or 
+incorrect and, therefore, there can be no assurance that the results 
+contemplated in the forward-looking statements will be realized.
+
+THE INFORMATION CONTAINED IN EVENT TRANSCRIPTS IS A TEXTUAL REPRESENTATION
+OF THE APPLICABLE COMPANY'S CONFERENCE CALL AND WHILE EFFORTS ARE MADE TO
+PROVIDE AN ACCURATE TRANSCRIPTION, THERE MAY BE MATERIAL ERRORS, OMISSIONS,
+OR INACCURACIES IN THE REPORTING OF THE SUBSTANCE OF THE CONFERENCE CALLS.
+IN NO WAY DOES REFINITIV OR THE APPLICABLE COMPANY ASSUME ANY RESPONSIBILITY FOR ANY INVESTMENT OR OTHER
+DECISIONS MADE BASED UPON THE INFORMATION PROVIDED ON THIS WEB SITE OR IN
+ANY EVENT TRANSCRIPT. USERS ARE ADVISED TO REVIEW THE APPLICABLE COMPANY'S
+CONFERENCE CALL ITSELF AND THE APPLICABLE COMPANY'S SEC FILINGS BEFORE
+MAKING ANY INVESTMENT OR OTHER DECISIONS.
+--------------------------------------------------------------------------------
+Copyright 2023 Refinitiv. All Rights Reserved.
+--------------------------------------------------------------------------------

@@ -1,0 +1,474 @@
+
+
+Refinitiv StreetEvents Event Transcript
+E D I T E D   V E R S I O N
+
+Illumina Inc Acquires Grail Inc Call
+AUGUST 18, 2021 / 9:30PM GMT
+
+================================================================================
+Corporate Participants
+================================================================================
+
+ * Charles E. Dadswell
+   Illumina, Inc. - Senior VP, General Counsel & Secretary
+ * Hans Edgar Bishop
+   GRAIL, Inc. - CEO & Director
+ * Brian Blanchett
+    - 
+ * Francis A. deSouza
+   Illumina, Inc. - CEO & Director
+ * Sam A. Samad
+   Illumina, Inc. - CFO
+
+================================================================================
+Conference Call Participiants
+================================================================================
+
+ * Jack Meehan
+   Nephron Research LLC - Research Analyst
+ * Derik De Bruin
+   BofA Securities, Research Division - MD of Equity Research
+ * Tejas Rajeev Savant
+   Morgan Stanley, Research Division - Equity Analyst
+ * John Newton Sourbeer
+   UBS Investment Bank, Research Division - Equity Research Associate
+ * Puneet Souda
+   SVB Leerink LLC, Research Division - MD of Life Science Tools & Diagnostics and Senior Research Analyst
+ * Catherine Walden Ramsey Schulte
+   Robert W. Baird & Co. Incorporated, Research Division - Senior Research Analyst
+ * Tycho W. Peterson
+   JPMorgan Chase & Co, Research Division - Senior Analyst
+ * Patrick Bernard Donnelly
+   Citigroup Inc., Research Division - Senior Analyst
+ * Doug Schenkel
+   Cowen and Company, LLC, Research Division - MD & Senior Research Analyst
+ * Sung Ji Nam
+   BTIG, LLC, Research Division - MD and Life Science & Diagnostic Tools Analyst
+
+================================================================================
+Presentation
+--------------------------------------------------------------------------------
+Operator    [1]
+--------------------------------------------------------------------------------
+
+          Good day, and thank you for standing by. Welcome to the Illumina investor conference call. (Operator Instructions) I now like to hand the conference over to your speaker today, Mr. Brian Blanchett for introductory remarks.
+
+--------------------------------------------------------------------------------
+Brian Blanchett,   -     [2]
+--------------------------------------------------------------------------------
+
+          Good afternoon, everyone, and thank you for joining on such short notice to discuss our acquisition of GRAIL. If you've not had a chance to review today's press release, it can be found in the Investor Relations section of our website at illumina.com.
+Participating for Illumina today will be Francis deSouza, President and Chief Executive Officer; Sam Samad, Chief Financial Officer; and Charles Dadswell, General Counsel. We are also pleased to welcome Hans Bishop, GRAIL's Chief Executive Officer. Each leader will share some remarks and then we will open the call for some questions.
+This call is being recorded, and the audio portion will be archived in the Investors section of our website. It is our intent that all forward-looking statements made during today's call will be protected under Private Securities Litigation Reform Act of 1995. Forward-looking statements are subject to risks and uncertainties. Actual events or results may differ materially from those projected or discussed. All forward-looking statements are based upon current available information, and Illumina assumes no obligation to update these statements.
+To better understand the risks and uncertainties that could cause actual results to differ, we refer you to the documents that Illumina files with the Securities and Exchange Commission, including Illumina's most recent Forms 10-Q and 10-K. With that, I now turn the call over to Francis.
+
+--------------------------------------------------------------------------------
+Francis A. deSouza,  Illumina, Inc. - CEO & Director    [3]
+--------------------------------------------------------------------------------
+
+          Thanks, Brian. Good afternoon, everyone, and thank you for joining us on such short notice. Today, we announced that we have reacquired GRAIL. While GRAIL is now a wholly-owned subsidiary of Illumina, we will hold GRAIL separate and independent until the European Commission finishes its review. We made the decision to acquire GRAIL and hold it separate until we received regulatory approval, because it's becoming clear that we will most likely not have a decision from the regulators before the agreement expires in December. The stakes here are high, because simply put, this deal saves lives, and we feel a moral obligation to ensure that the deal has a full review.
+Cancer kills 10 million people annually worldwide and 600,000 people in the U.S. Detecting cancer earlier saves lives. But today, the majority of cancers are found too late when outcomes are often fatal. Current guideline-recommended screenings are critical. But in the U.S., they cover only 5 cancers and only screen for a single cancer at a time. And cancers responsible for nearly 71% of cancer deaths have no recommended early detection screening.
+GRAIL's revolutionary Galleri test has the potential to reduce cancer mortality, detecting more than 50 cancers across all stages, 45 of which don't have any recommended screening in the U.S. And because it can be cheaper and more effective to treat an early-stage cancer than a late-stage cancer, GRAIL's test can result in enormous savings in the health care system.
+Right now, GRAIL's multi-cancer early detection test is available in the U.S. to those able to pay $950 out of pocket. We want to provide the financial support, expertise, and scale to get it widely distributed and covered by insurers. We estimate that with Illumina's acceleration, the Galleri test can conservatively save 10,000 additional lives in the U.S. and additional lives in the EU over the next 9 years.
+Reuniting Illumina and GRAIL is the fastest way to make this test available to everyone, everywhere. We will continue to work with the regulatory bodies in the EU and the U.S. on this acquisition. In Europe, we are in a Phase 2 review with the European Commission, and we'll we likely receive a decision in Q1. In addition, we are challenging the EU's jurisdiction to review the merger of these 2 American companies because GRAIL has no existing or firm plans for business in Europe, and we look forward to receiving a decision from the General Court of the European Union in early 2022.
+As proof of our commitment to, and respect for, the EC process, we will hold GRAIL separate and independent with no integration of operations until the EC review is completed. There is no impediment to closing in the U.S. We will continue to work with the FTC on their administrative review of this deal and any associated legal processes.
+Illumina scientists first discovered the potential to detect cancer from genomic signals in blood in 2013. We recognized the enormous potential this could have to save lives, and staffed a team to work on it immediately. We spun GRAIL out in 2016 to raise almost $2 billion for the necessary large clinical studies. The GRAIL team, many of them former Illumina employees, succeeded beyond our expectations and commercially launched the Galleri test in June this year. Reuniting GRAIL with Illumina now is the fastest way to make this test globally available and accessible.
+After integration, we will leverage Illumina's capabilities to make this test available in doctors' offices everywhere, covered by insurance. For example, GRAIL will benefit from Illumina's scale in procurement and manufacturing, large-scale genomic testing labs, commercial reach across 140 countries and expertise in market access that has helped get coverage of genomic testing for over 1 billion people around the world. These capabilities will expedite scaling and coverage of the test.
+This deal has the potential to not only benefit thousands of people, but also benefit the industry as a whole. Our vertical acquisition of GRAIL is pro-competitive and will accelerate the development of all types of early cancer detection tests. GRAIL and Illumina are not competitors and have no overlap in product offerings. We have shown that our entry into clinical testing markets like NIPT and cancer therapy selection has been pro-competitive. After we entered NIPT, for example, the number of providers increased, costs decrease, prices dropped, and reimbursement expanded. Most importantly, more families benefited from this technology. We plan to do the same thing in the multi-cancer early detection space.
+Our business model is successful when the industry as a whole expands. We want to increase the number of companies running genetic tests, ours and others. We have a track record of supporting competitors and selling sequencers to enable them. To that end, Illumina has made an open offer available on our website, contractually committing to continue to make all our products available to every oncology customer on the same timeline and at the same price as GRAIL. We remain committed to a fair and open cancer diagnostics marketplace.
+As always, Illumina will continue to innovate in the field of genomics and develop new life-changing innovations and technologies like those that created GRAIL years ago. Now I'll turn the call over to Chuck.
+
+--------------------------------------------------------------------------------
+Charles E. Dadswell,  Illumina, Inc. - Senior VP, General Counsel & Secretary    [4]
+--------------------------------------------------------------------------------
+
+          Thanks, Francis. While we respect the legal process in both the U.S. and the European Union, all companies, including Illumina, should be entitled to a timely, fair and predictable process for potential acquisitions to be assessed on the merits of the deal. As Francis mentioned, there is no legal impediment to closing in the U.S. The FTC withdrew its request in federal court for an injunction to prevent the closing. The FTC administrative trial is scheduled to begin August 24 and we expect it to take several weeks with a decision likely issuing in Q1 2022. We look forward to presenting our case during the FTC trial, showing that this acquisition is pro-competitive and life saving.
+Moving to Europe. On April 29, 2021, Illumina filed a complaint in the General Court of the European Union to annul the European Commission's review of the GRAIL acquisition because neither the European Commission nor any European member state has jurisdiction to review this acquisition between 2 American companies. The General Court has granted Illumina's request to have the case heard on an expedited basis. A hearing date has not been set. However, we anticipate a hearing this fall with a decision by the end of the year or early in 2022.
+We will continue to work with the European Commission during the pendency of our court challenge and, as in the U.S. process, we will present substantial evidence demonstrating that this acquisition is pro-competitive and should be approved.
+The European Commission initiated its Phase 2 review on July 22, 2021, and we anticipate Phase 2 being completed in early Q1 2022. While the European Commission reviews the acquisition, Illumina and GRAIL decided that moving forward is in the best interest of patients, shareholders and public health. Illumina is committed to cooperating with the European Commission's investigation until a final decision is reached and is holding GRAIL separate to respect the European Commission's review.
+Under the hold separate agreement, Illumina and GRAIL will each continue to operate as independent legal entities, and Illumina has committed not to integrate GRAIL until completion of the process ongoing in Europe. We will abide by any outcome ultimately reached by the legal process.
+And now I'll turn the call over to Sam.
+
+--------------------------------------------------------------------------------
+Sam A. Samad,  Illumina, Inc. - CFO    [5]
+--------------------------------------------------------------------------------
+
+          Thank you, Chuck. I'm very excited about the future that GRAIL and Illumina can create together. And I will now highlight a few financial details regarding the acquisition. As a reminder, the merger consideration for GRAIL included stock and cash. In addition, GRAIL shareholders were given the option to elect either a contingent value right or additional shares of Illumina.
+Excluding Illumina's ownership and including other adjustments, we plan to issue approximately 9.8 million shares and deploy approximately $3.5 billion in cash as part of this acquisition. About half the GRAIL shareholders elected to receive contingent value rights.
+In addition, GRAIL's cash balance is approximately $500 million after accounting for some transaction-related costs. Please note that more details on the transaction consideration can be found in today's press release.
+Going forward and starting on our Q3 earnings call, we intend to provide full segment financial reporting for our core business and separately for GRAIL. We will also provide consolidated financial reporting for Illumina, Inc.
+As we indicated on our Q2 earnings call, our core business is incredibly strong, and we are very confident in the Q3 and full year 2021 guidance we provided as it relates to our core Illumina business, excluding GRAIL.
+We are not providing P&L guidance for GRAIL at this time but intend to do so at a later date. From a cash funding standpoint for GRAIL, the $35 million continuation payments we had been previously providing them up until closing represent a rough approximation of GRAIL's expected monthly operating cash needs for the rest of 2021. And we expect this number to increase in 2022.
+I will now invite Hans Bishop, the CEO of GRAIL, to say a few words before Francis shares his final comments.
+
+--------------------------------------------------------------------------------
+Hans Edgar Bishop,  GRAIL, Inc. - CEO & Director    [6]
+--------------------------------------------------------------------------------
+
+          Thank you, Sam. I'd like to reiterate how excited I am that Illumina has now acquired GRAIL. We at GRAIL are a mission-based company with a goal of finding cancer early when it can be cured. Joining forces with Illumina is a huge boost for our mission. It will enable us to achieve scale faster, ultimately preventing more late-stage cancers with the potential to save many more lives, both here in the U.S. and around the world.
+This is an incredibly exciting time at GRAIL. Having just commercially launched our Galleri test earlier this year, we're already finding early-stage cancers that otherwise would have been missed. We expect adoption to continue increasing and look forward to leveraging Illumina's expertise to expedite regulatory approval and drive broader adoption.
+With that, I'll hand the call back over to Francis for his final comments.
+
+--------------------------------------------------------------------------------
+Francis A. deSouza,  Illumina, Inc. - CEO & Director    [7]
+--------------------------------------------------------------------------------
+
+          Thanks, Hans. From helping fight the COVID pandemic to matching cancer patients to therapies, our mandate is to save lives and transform health care by harnessing the power of genomics. Our acquisition of GRAIL supports this mandate and is driven by our belief that life-saving cancer detection tests should be available to as many people as possible as quickly as possible.
+Illumina and GRAIL are a powerful combination. We envision a future where people around the world can access the Galleri test as part of their normal annual physical examination. Just as now you're able to be tested for early-stage diabetes and high cholesterol, you will soon be able to receive multi-cancer early screening from a simple blood draw in your doctor's office. This will be nothing short of transformational for human health.
+Now I'll invite the operator to open for Q&A.
+
+
+================================================================================
+Questions and Answers
+--------------------------------------------------------------------------------
+Operator    [1]
+--------------------------------------------------------------------------------
+
+          (Operator Instructions) And your first question comes from the line of Doug Schenkel with Cowen.
+
+--------------------------------------------------------------------------------
+Doug Schenkel,  Cowen and Company, LLC, Research Division - MD & Senior Research Analyst    [2]
+--------------------------------------------------------------------------------
+
+          Acknowledging that merger regulatory matters are not my strongest area of expertise, this on the surface seems like a pretty aggressive approach. And simply put, in your prepared remarks, I didn't hear anything that suggested you've heard that the FTC will not ultimately attempt to block this transaction. So to be to the point as much as possible, has the FTC agreed to stand down?
+
+--------------------------------------------------------------------------------
+Francis A. deSouza,  Illumina, Inc. - CEO & Director    [3]
+--------------------------------------------------------------------------------
+
+          So thanks for your question, Doug. The reason we took the step today, and it's really 2 parts of the step we took today. First, we acquired GRAIL and 2, we kept separate is because we feel the stakes in this deal are so high. Specifically, that over 10,000 lives could be saved by the acceleration that Illumina provides the GRAIL test and making it accessible to everyone. So the stakes here are so high that we want to make sure this deal gets a full review.
+And as we pointed out, the decisions we're expecting from the review come in Q1. And so it would come after the deal timed out on December 20. And so what this step does is it makes sure that the deal gets the full review and that we get to a decision from the 2 European actions that are in play, but it also respects the European regulatory process, because it keeps GRAIL separate. And so we won't do any integration until then.
+In terms of the FTC, there is no impediment for us to closing the deal here in the U.S. right now. We are going to continue to work with the FTC on their administrative process and any follow-on process from that. But there is no hurdle for us crossing right now. So again, what we wanted to do is make sure this deal got a review that it deserves, frankly, based on its merits. And as we said, as always, we will abide with any outcome from the legal process.
+
+--------------------------------------------------------------------------------
+Doug Schenkel,  Cowen and Company, LLC, Research Division - MD & Senior Research Analyst    [4]
+--------------------------------------------------------------------------------
+
+          Okay. Helpful, Francis, but again, to be direct, that's not really my question. My question is, has the FTC said that you can move forward and you're in the clear? And I'm -- based on your answer, I'm guessing the answer is no. So recognizing there is still FTC risk here, how do you assess: a, the risk that the FTC comes back; b, the risk that you're further damaging your relationship with the U.S. government and specifically the FTC, which could impact future strategic endeavors, which have been an area of difficulty for you over the last few years; and c, the risk that you are not just holding back GRAIL but causing distraction and wasted efforts that are ultimately not in the best interest of Illumina shareholders.
+
+--------------------------------------------------------------------------------
+Francis A. deSouza,  Illumina, Inc. - CEO & Director    [5]
+--------------------------------------------------------------------------------
+
+          Yes. So to be very specific. The -- there are 2 things that are going on to the FTC. One, the FTC has eliminated the hurdle to closing. So they did have -- we had a temporary restraining order with the FTC that they went to court to petition to remove. So the FTC has said there is no hurdle to closing in the U.S. right now. Also specifically what the FTC has said is there is an administrative review process that starts next week. So that's what the FTC has said to us, and we're still marching down that process. So we are using a -- obviously, the full legal process here in the U.S. And again, we will work with the FTC through that process and abide with any outcome of that process. Availing ourselves of the process shouldn't necessarily damage our relationship with the FTC.
+
+--------------------------------------------------------------------------------
+Operator    [6]
+--------------------------------------------------------------------------------
+
+          And your next question comes from the line of Tycho Peterson with JPMorgan.
+
+--------------------------------------------------------------------------------
+Tycho W. Peterson,  JPMorgan Chase & Co, Research Division - Senior Analyst    [7]
+--------------------------------------------------------------------------------
+
+          Francis, you put out an 8-K this afternoon that the European Commission is going to impose a fine up to 10% of consolidated annual turnover. Can you talk to that aspect? And is there any risk the FTC might do something similar?
+
+--------------------------------------------------------------------------------
+Charles E. Dadswell,  Illumina, Inc. - Senior VP, General Counsel & Secretary    [8]
+--------------------------------------------------------------------------------
+
+          Tycho, this is Charles Dadswell. I'm the General Counsel. So where we stand with the European Union is, first and foremost, we respect the process that's ongoing there. We've challenged the European Union in 2 places. The first one is the regulatory process with DG Competition. We believe that -- and we'll continue to work through that process with the European Commission. We expect, as Francis mentioned, that, that process would end in Q2 of 2020 -- excuse me, Q1 2022.
+The second place that we've challenged them is in the general court in the EU. We've challenged them because we don't think they have jurisdiction over this deal. That case is we don't have a hearing date yet. We expect the hearing date at any time. We expect to have a decision from the general court on whether or not the EU has jurisdiction over this deal sometime in Q1 of '22 as well.
+As far as the fine that you're talking about, we did put that out in our 8-K, that possibility does exist. If at the end of this conclusion, there is a decision and we will respect that decision. That they, in fact, did have jurisdiction over the deal. There's the possibility that they could find us up to 10% of 1 year's revenue as we disclosed.
+
+--------------------------------------------------------------------------------
+Francis A. deSouza,  Illumina, Inc. - CEO & Director    [9]
+--------------------------------------------------------------------------------
+
+          And then in terms of the FTC, again, there is no legal hurdle to us closing in the U.S. from the FTC. And so there's no grounds for a fine from the FTC.
+
+--------------------------------------------------------------------------------
+Tycho W. Peterson,  JPMorgan Chase & Co, Research Division - Senior Analyst    [10]
+--------------------------------------------------------------------------------
+
+          And then Francis, the benefits of closing but not integrating, I'm just curious, I mean, you could -- obviously, you have done a broader distribution agreement with GRAIL to get the product out there more broadly. So what is the real advantage to having closed if you're actually not going to integrate? Or could you have done broader access another way?
+
+--------------------------------------------------------------------------------
+Francis A. deSouza,  Illumina, Inc. - CEO & Director    [11]
+--------------------------------------------------------------------------------
+
+          Yes. The path we're on is such that the decision from the review that's happening in Europe won't happen until Q1. This acquisition contract expires in December of this year. And so the advantage of acquiring GRAIL is to make sure that this deal gets the full review that it deserves from the European Commission. So that's the advantage of acquiring them today. To respect the European process, which we do, we want to make sure that we keep -- we hold the company separate and don't do any integration until we get that decision from the European Commission.
+
+--------------------------------------------------------------------------------
+Tycho W. Peterson,  JPMorgan Chase & Co, Research Division - Senior Analyst    [12]
+--------------------------------------------------------------------------------
+
+          And then last one for Sam. I appreciate you're not going to give P&L guidance, but have your spending assumptions changed at all from when you first announced the deal in terms of how we should be thinking about the burn around GRAIL in the back half of the year?
+
+--------------------------------------------------------------------------------
+Sam A. Samad,  Illumina, Inc. - CFO    [13]
+--------------------------------------------------------------------------------
+
+          No, not necessarily, Tycho. I think we're still in the same ballpark, but we're going to update these estimates. Obviously, a lot of circumstances have changed in terms of timing of the deal and our inability to integrate at this point. But we will update these assumptions. But I would say materially no significant change from when we announced the deal.
+
+--------------------------------------------------------------------------------
+Operator    [14]
+--------------------------------------------------------------------------------
+
+          And your next question comes from the line of Puneet Souda with SVB Leerink.
+
+--------------------------------------------------------------------------------
+Puneet Souda,  SVB Leerink LLC, Research Division - MD of Life Science Tools & Diagnostics and Senior Research Analyst    [15]
+--------------------------------------------------------------------------------
+
+          So my first question is really if the General Court of European Union is positive, I think the path is obviously clear, but if that's not the case down the line and the same applies to FTC in some ways, maybe let me ask you the first question on Europe. Would you be able to sell Galleri as a test in Europe if there were some objections to the deal down the line? And would that impact your market opportunity that you are -- that you have anticipated so far?
+
+--------------------------------------------------------------------------------
+Charles E. Dadswell,  Illumina, Inc. - Senior VP, General Counsel & Secretary    [16]
+--------------------------------------------------------------------------------
+
+          Yes. So let me talk about the process in Europe. There are 2 decisions that we expect to come out from Europe from 2 different bodies in Q1. One is from the general court where we're challenging the jurisdiction of the European Commission to review the deal. And the second one is from the European Commission on the Phase 2 review. If we are successful in either of those, then we are free to integrate GRAIL into Illumina. So we need one of those 2 decisions to be positive and then we're not only closed, but then we can start the integration.
+If we don't prevail in Phase 2, then we'll continue down sort of the legal process in Europe and appeal that decision. Right now, GRAIL has no plans to sell their test in Europe. And even if you look at their sort of 10-year plan, they have no firm plans to launch their product into Europe. After -- if we succeed in acquiring them and integrating, we would accelerate those plans. And we do have in our model some revenue that we get out from Europe from launching the GRAIL test in Europe. This is binary though, either we are able to acquire and merge GRAIL and launch the product globally or not. And so it wouldn't be a case where we wouldn't launch the product in some markets.
+
+--------------------------------------------------------------------------------
+Puneet Souda,  SVB Leerink LLC, Research Division - MD of Life Science Tools & Diagnostics and Senior Research Analyst    [17]
+--------------------------------------------------------------------------------
+
+          Okay. And I think the other major question really here is, this is a test that you're offering today at $950 out of pocket. But we've seen, obviously, with single indication test in past, they will require FDA approval. This is a screening test and very likely required, obviously, Medicare and then USPSTF recommendation support. Given all of that, has your thinking changed at all in terms of the timing of obtaining that? And do you expect -- when should we expect GRAIL to have meaningful revenue, which is very likely going to be after those USPSTF recommendations and guideline inclusions that will ultimately drive the commercial payers to pay for this test?
+
+--------------------------------------------------------------------------------
+Francis A. deSouza,  Illumina, Inc. - CEO & Director    [18]
+--------------------------------------------------------------------------------
+
+          Yes. So let's go through your questions. One, by -- once we are able to integrate GRAIL. We absolutely will leverage the expertise we have in Illumina in a number of areas, but including, as you said, our regulatory expertise and very importantly, our market access team. And so that will accelerate the plan in terms of making the GRAIL test accessible and reimbursed across the 50 states and around the world. From their current plan -- and we shared some of those ideas with you so far.
+Our team has a huge amount of expertise in this area. We have helped deliver reimbursement to over 1 billion people around the world for genomic tests across the categories that we're in today. So our team has good expertise in accelerating reimbursement for genomic tests and we'll leverage that.
+In genomic testing, as you know, whether it's NIPT or cancer therapy selection, even today in the U.S., those are not cleared tests. They are still LDTs. If you look at some of the leading providers in that space. And so getting clearance is not a prerequisite for reimbursement. You can get reimbursement even on LDTs. And we expect that's the path that will probably come to fruition first for the GRAIL test.
+
+--------------------------------------------------------------------------------
+Puneet Souda,  SVB Leerink LLC, Research Division - MD of Life Science Tools & Diagnostics and Senior Research Analyst    [19]
+--------------------------------------------------------------------------------
+
+          Okay. And last one, if I could squeeze in. In terms of the STRIVE trial, you have -- I believe the enrollment is completed there. And in the U.K. NHS trial where you're enrolling, I believe, more than 150,000 patients. Any updates that you can provide on that front? Those are large-scale trials that would be needed in order to gain ultimately major regulatory approvals and reimbursement. And wondering, obviously, one of the key parts of this acquisition was Illumina's presence globally and be able to drive these tests internationally, including in Europe. I'm just wondering, does this impact your position in England, U.K. specifically?
+
+--------------------------------------------------------------------------------
+Francis A. deSouza,  Illumina, Inc. - CEO & Director    [20]
+--------------------------------------------------------------------------------
+
+          So let's talk to those questions, Puneet. We continue to hear from the GRAIL team as they've talked externally, but there is good progress in terms of -- well, obviously, recruiting for the STRIVE trial, as you said, but also with the NHS. And they are planning to have the test in the first phase available to 165,000 people in the U.K. scaling up to 1 million by the 2023, 2024 time frame and then making it available population-wide. That's a historic deal. It's a historic deal in terms of making a test -- this multi-cancer test available to a population. And it's also historic in terms of the scale of that deal.
+So it's really exciting to hear the positive progress coming from the -- from GRAIL with the NHS. We absolutely plan to accelerate the global deployment of GRAIL. That's true across the U.S. and leveraging sort of our capability. But we have -- our commercial team has a presence now in 140 countries. So we place products in 140 countries around the world. That is a commercial presence that we will be leveraging for GRAIL.
+In addition, we have large-scale production labs that run genomic tests. And that's something we can leverage for GRAIL as well. So if you look at their plan today, for the next 5 years, their plan was really as an independent company to be in the U.S., Canada and the U.K. Our plan is to accelerate their entry into Europe but then also more broadly into Asia and Africa and Latin America. And so that's great from obviously a business perspective, but it's also crucial in terms of making this life-saving test available to many, many more people around the world.
+
+--------------------------------------------------------------------------------
+Operator    [21]
+--------------------------------------------------------------------------------
+
+          (Operator Instructions) Your next question comes from the line of Derik De Bruin with Bank of America.
+
+--------------------------------------------------------------------------------
+Derik De Bruin,  BofA Securities, Research Division - MD of Equity Research    [22]
+--------------------------------------------------------------------------------
+
+          So in the event that the -- in the event that you can't close those -- if things don't go your way and you -- can you unwind this? And are you on the hook for the whole $8 billion in that case?
+
+--------------------------------------------------------------------------------
+Francis A. deSouza,  Illumina, Inc. - CEO & Director    [23]
+--------------------------------------------------------------------------------
+
+          So the way it would work is, we'd obviously work through the appeals process, and this would take multiple years, right? So you were talking about 2025-ish and maybe even a little after when we would be required to unwind it if we had to. At that time, the options -- we look at the whole spectrum of options, including an IPO. And so it's completely unrelated to the $8 billion. We paid those shareholders out today. We own GRAIL today. We are the shareholder of GRAIL. And so at that point, we'd look to maybe spin out and take public the GRAIL asset, the early screening test asset. And again, at that point, we'd assess what the best option was, but an IPO seems like a good candidate.
+
+--------------------------------------------------------------------------------
+Derik De Bruin,  BofA Securities, Research Division - MD of Equity Research    [24]
+--------------------------------------------------------------------------------
+
+          A question for Hans, if I may. Hans, have you been successful in doing any deals with independent delivery networks or is it still more concierge focus in terms like this? And just sort of like where are your current commercial opportunities and agreements.
+
+--------------------------------------------------------------------------------
+Francis A. deSouza,  Illumina, Inc. - CEO & Director    [25]
+--------------------------------------------------------------------------------
+
+          Derik, Hans is not on the call. So we'll have to move on.
+
+--------------------------------------------------------------------------------
+Operator    [26]
+--------------------------------------------------------------------------------
+
+          Your next question comes from the line of Tejas Savant with Morgan Stanley.
+
+--------------------------------------------------------------------------------
+Tejas Rajeev Savant,  Morgan Stanley, Research Division - Equity Analyst    [27]
+--------------------------------------------------------------------------------
+
+          So just a 2-parter for Chuck here, if I may. Chuck, as you sort of tried to handicap the possibility of not running afoul of any gun jumping laws and sort of weigh that versus the possibility here that you could have extended the deal deadline beyond December 20? How exactly do you sort of come to this decision? If you can just give us some context and background around that, that would be terrific.
+
+--------------------------------------------------------------------------------
+Charles E. Dadswell,  Illumina, Inc. - Senior VP, General Counsel & Secretary    [28]
+--------------------------------------------------------------------------------
+
+          Yes. Sure. I mean, first and foremost, right, our goal was to make sure that we were respecting the processes that were taking place in both the EU and in the United States. That's the reason that we put the hold separate in place. We knew the deal was going to time out on December 20. And looking at our options in any of those venues, we didn't think that we had the runway to get past the December 20 date. So with the FTC administrative trial, we didn't think we were going to get a judgment from the judge there until after December 20. The case in Luxembourg that we have in front of General Court challenging jurisdiction of the European Commission. We don't have a hearing date, and we don't think that we'll get a decision until probably after the end of the year, which gets us past the time out date on the agreement.
+And then with the European Commission, as we just kind of entered into the Phase 2 process, we looked at that, and we don't think we have any likely chance of getting clearance on through that before December 20 either. So we took this kind of action, but we did it to respect the processes, and that's why we have the hold separate.
+
+--------------------------------------------------------------------------------
+Operator    [29]
+--------------------------------------------------------------------------------
+
+          Your next question comes from the line of Sung Ji Nam with BTIG.
+
+--------------------------------------------------------------------------------
+Sung Ji Nam,  BTIG, LLC, Research Division - MD and Life Science & Diagnostic Tools Analyst    [30]
+--------------------------------------------------------------------------------
+
+          Would you be able to comment on whether the diagnostic aid for cancer test and the MRD test, the time line that you guys have discussed with your initial announcement would still be on track at this point? Or kind of what the new time line might be?
+
+--------------------------------------------------------------------------------
+Francis A. deSouza,  Illumina, Inc. - CEO & Director    [31]
+--------------------------------------------------------------------------------
+
+          Yes, there's no new update on those 2. Both the GRAIL team and us are enormously excited about the potential for GRAIL's approach to MRD, which is tumor independent using the same technology that they use for their screening test. So we think that a really innovative way to do MRD, and we're excited about the opportunity for the GRAIL technology in that space.
+And then similarly, we think that, that serves an important need in the market in terms of helping people who are symptomatic but can't find the cancer. So again, no new update in terms of time lines there, but continue to be enormously excited about the potential to help patients and fill a big market need there.
+
+--------------------------------------------------------------------------------
+Operator    [32]
+--------------------------------------------------------------------------------
+
+          Your next question comes from the line of John Sourbeer with UBS.
+
+--------------------------------------------------------------------------------
+John Newton Sourbeer,  UBS Investment Bank, Research Division - Equity Research Associate    [33]
+--------------------------------------------------------------------------------
+
+          My question, I guess, is for Francis or Chuck. GRAIL has made announcements on entering into the U.K. with the NHS. Have you had any discussions with the CMA there? And my understanding is in the U.K., often the CMA may investigate an acquisition post close and proposed remedies. And is there any update you can provide around that?
+
+--------------------------------------------------------------------------------
+Charles E. Dadswell,  Illumina, Inc. - Senior VP, General Counsel & Secretary    [34]
+--------------------------------------------------------------------------------
+
+          Yes, John, I'll start. So right after we announced the acquisition we got some initial inquiries from CMA. We started a dialogue with them. We went back and forth a couple of times, and they came back to us and said, "yes, we don't have any further questions about what you guys are doing with GRAIL." So that was the whole conversation we had with CMA.
+
+--------------------------------------------------------------------------------
+Operator    [35]
+--------------------------------------------------------------------------------
+
+          And your next question comes from the line of Patrick Donnelly with Citi.
+
+--------------------------------------------------------------------------------
+Patrick Bernard Donnelly,  Citigroup Inc., Research Division - Senior Analyst    [36]
+--------------------------------------------------------------------------------
+
+          Chuck, maybe a follow up on one of the earlier questions, you kind of explored the different options here. I mean, is there a precedent for this kind of closing ahead of the approvals. I guess, when you kind of looked around, are there success stories that maybe you could point us towards or talk about? Just don't recall kind of seeing this before.
+
+--------------------------------------------------------------------------------
+Charles E. Dadswell,  Illumina, Inc. - Senior VP, General Counsel & Secretary    [37]
+--------------------------------------------------------------------------------
+
+          Yes. What I'll say is that first and foremost, again, and we wanted to respect the process that we have ongoing in the European Union. When we looked at the hold separate, we actually used a form of hold separate that is contained on EU's website. This is not something that is completely unprecedented, because we're using their form of the hold separate. So that's kind of the way that we've looked at this.
+
+--------------------------------------------------------------------------------
+Patrick Bernard Donnelly,  Citigroup Inc., Research Division - Senior Analyst    [38]
+--------------------------------------------------------------------------------
+
+          Okay. And then, Sam, maybe just a quick one, and you might have mentioned, but the 10 million shares, just timing around the issuance there. I just want to make sure I'm clear on that.
+
+--------------------------------------------------------------------------------
+Sam A. Samad,  Illumina, Inc. - CFO    [39]
+--------------------------------------------------------------------------------
+
+          Yes. So we will be working through this over the next few days, Patrick. So that's part of the consideration. You can assume that from a dilution standpoint, it will impact our share count for the third quarter and the fourth quarter. Obviously, on a weighted average basis, you have to calculate it.
+
+--------------------------------------------------------------------------------
+Operator    [40]
+--------------------------------------------------------------------------------
+
+          And your next question comes from the line of Catherine Schulte with Baird.
+
+--------------------------------------------------------------------------------
+Catherine Walden Ramsey Schulte,  Robert W. Baird & Co. Incorporated, Research Division - Senior Research Analyst    [41]
+--------------------------------------------------------------------------------
+
+          I guess, just with the FTC, to your point, they did withdraw their request for an injunction and restraining order to prevent the deal from closing. But I believe they did so with the understanding that the EU probe would prevent the deal closure. So it wasn't needed. And they had a dismiss without prejudice, meaning they could file again if the EU investigation ended. So just with that intent behind their dismissal, I'm just curious why you think this won't rub the FTC the wrong way. And are there any actions that they could take in response?
+
+--------------------------------------------------------------------------------
+Charles E. Dadswell,  Illumina, Inc. - Senior VP, General Counsel & Secretary    [42]
+--------------------------------------------------------------------------------
+
+          Yes, Catherine. You've got that exactly right. When the FTC went into court and asked for the motion to dismiss on the PI hearing, that dropped any impediment that we had over closing in the United States. We have the hold separate in place to respect the European process, and we'll continue to work through that process with them, and we'll continue to work through the administrative process with the FTC. We are not sure exactly when that will land, but we think that we will probably get a decision on the FTC case sometime in the first quarter of next year.
+
+--------------------------------------------------------------------------------
+Operator    [43]
+--------------------------------------------------------------------------------
+
+          And your next question comes from the line of Jack Meehan with Nephron Research.
+
+--------------------------------------------------------------------------------
+Jack Meehan,  Nephron Research LLC - Research Analyst    [44]
+--------------------------------------------------------------------------------
+
+          Just curious. What's changed over the last 2 weeks, which is leading you to close the deal today? At the time of earnings, you knew the deal was going to Phase 2 review and you said this was really not having the regulatory review done before the deal expires, but couldn't you just extend the deadline like you did with PacBio?
+
+--------------------------------------------------------------------------------
+Francis A. deSouza,  Illumina, Inc. - CEO & Director    [45]
+--------------------------------------------------------------------------------
+
+          Well, a couple of things I'd say. Let me start with extending the deadline, right? So we had in the contract the ability to extend the deadline from September 20 to December 20, and so that's what we were contemplating the whole time.
+What has happened over the last couple of weeks is as we've entered Phase 2 review in European Commission and with some of the dates moving out, it's now become clear over the last couple of weeks that the decision from the EC is going to come after the December 20 date on both fronts, right?
+So we haven't yet got a date for the case in front of the general -- the European General Court. And so what was likely to have been a Q4 decision is now likely a Q1 decision. Similarly, the Phase 2 review has sort of slipped in the last couple of weeks, and it's now also looking like a Q1 decision. And so that's driving the timing that says in order to make sure that this deal, which, again, has such high stakes in terms of lives saved gets its full review it's necessary for us to acquire the company now, but to respect the process by holding the company separate. And so that's the step we're taking.
+
+--------------------------------------------------------------------------------
+Operator    [46]
+--------------------------------------------------------------------------------
+
+          And you have no further questions at this time. I'll now turn it back to Brian Blanchett for any closing remarks.
+
+--------------------------------------------------------------------------------
+Brian Blanchett,   -     [47]
+--------------------------------------------------------------------------------
+
+          Great. Thank you. As a reminder, a replay of this call will be available on the Investors section of our website as well as through the dial-in instructions contained in today's press release. This concludes our call, and thank you for joining us today.
+
+--------------------------------------------------------------------------------
+Operator    [48]
+--------------------------------------------------------------------------------
+
+          This concludes today's conference call. Thank you for participating, and you may now disconnect.
+
+
+
+
+
+
+
+--------------------------------------------------------------------------------
+Definitions
+--------------------------------------------------------------------------------
+PRELIMINARY TRANSCRIPT: "Preliminary Transcript" indicates that the 
+Transcript has been published in near real-time by an experienced 
+professional transcriber.  While the Preliminary Transcript is highly 
+accurate, it has not been edited to ensure the entire transcription 
+represents a verbatim report of the call.
+
+EDITED TRANSCRIPT: "Edited Transcript" indicates that a team of professional 
+editors have listened to the event a second time to confirm that the 
+content of the call has been transcribed accurately and in full.
+
+--------------------------------------------------------------------------------
+Disclaimer
+--------------------------------------------------------------------------------
+Refinitiv reserves the right to make changes to documents, content, or other 
+information on this web site without obligation to notify any person of 
+such changes.
+
+In the conference calls upon which Event Transcripts are based, companies 
+may make projections or other forward-looking statements regarding a variety 
+of items. Such forward-looking statements are based upon current 
+expectations and involve risks and uncertainties. Actual results may differ 
+materially from those stated in any forward-looking statement based on a 
+number of important factors and risks, which are more specifically 
+identified in the companies' most recent SEC filings. Although the companies 
+may indicate and believe that the assumptions underlying the forward-looking 
+statements are reasonable, any of the assumptions could prove inaccurate or 
+incorrect and, therefore, there can be no assurance that the results 
+contemplated in the forward-looking statements will be realized.
+
+THE INFORMATION CONTAINED IN EVENT TRANSCRIPTS IS A TEXTUAL REPRESENTATION
+OF THE APPLICABLE COMPANY'S CONFERENCE CALL AND WHILE EFFORTS ARE MADE TO
+PROVIDE AN ACCURATE TRANSCRIPTION, THERE MAY BE MATERIAL ERRORS, OMISSIONS,
+OR INACCURACIES IN THE REPORTING OF THE SUBSTANCE OF THE CONFERENCE CALLS.
+IN NO WAY DOES REFINITIV OR THE APPLICABLE COMPANY ASSUME ANY RESPONSIBILITY FOR ANY INVESTMENT OR OTHER
+DECISIONS MADE BASED UPON THE INFORMATION PROVIDED ON THIS WEB SITE OR IN
+ANY EVENT TRANSCRIPT. USERS ARE ADVISED TO REVIEW THE APPLICABLE COMPANY'S
+CONFERENCE CALL ITSELF AND THE APPLICABLE COMPANY'S SEC FILINGS BEFORE
+MAKING ANY INVESTMENT OR OTHER DECISIONS.
+--------------------------------------------------------------------------------
+Copyright 2023 Refinitiv. All Rights Reserved.
+--------------------------------------------------------------------------------

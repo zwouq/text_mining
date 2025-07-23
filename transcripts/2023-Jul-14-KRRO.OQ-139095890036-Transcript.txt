@@ -1,0 +1,149 @@
+
+
+Refinitiv StreetEvents Event Transcript
+E D I T E D  V E R S I O N
+
+Frequency Therapeutics Inc And Korro Bio Inc To Discuss Merger Agreement Call
+July 14, 2023 / 12:30PM UTC
+
+================================================================================
+Corporate Participants
+================================================================================
+
+ * David Lucchino
+   Frequency Therapeutics, Inc. - President, Chief Executive Officer and Co-Founder
+
+================================================================================
+Conference Call Participants
+================================================================================
+
+ * Operator
+   
+ * Ram Aiyar
+   Korro Bio Inc - President, Chief Executive Officer, Director
+ * Vineet Agarwal
+   Korro Bio Inc - Chief Financial Officer, Principal Accounting Officer, Treasurer, Principal Financial Officer 
+
+================================================================================
+presentation
+--------------------------------------------------------------------------------
+Operator,     [1]
+--------------------------------------------------------------------------------
+Good morning. Welcome to today's joint conference call regarding the Korro Bio and Frequency Therapeutics Proposed Merger. At this time, all participants are in a listen-only mode. Please be advised that the call is being recorded.
+Today's discussion and the Company presentation will contain forward-looking statements, based upon the expectation of Frequency Therapeutics and Korro Bio, which includes but are not limited to, statements regarding the expected timing, completion, effects, and potential benefits of the transaction and expectation, plans and prospects for the current -- combined company, including as predicted cash runway.
+Such statements represent Management's judgment and intentions, as of today and involve assumptions, risks, and uncertainties. Frequency and Korro undertake no obligation to update any or revise any forward-looking statements. These slides provide an overview of these forward-looking statements and the risks and uncertainties that could cause actual outcomes and results to differ materially from those contemplated in these forward-looking statements.
+Additional information about the transaction is provided in a current report on Form 8-K that will be filed by Frequency Therapeutics with the Securities and Exchange Commission, and will be available at www.sec.gov and on the Frequency Therapeutics website. Frequency will also file a registration statement on Form S-4, which will include a document that serves as a proxy statement prospectus of Frequency Therapeutics and other documents regarding the proposed transaction.
+These documents will also be available at www.sec.gov and on the Frequency Therapeutics website. Investors and security holders are urged to read these materials when they become available. Risk factors that could cause actual outcomes and results to differ materially from those contemplated are summarized here. Now, I'd like to turn the call over to David Lucchino, Chief Executive Officer of Frequency Therapeutics. Please go ahead.
+--------------------------------------------------------------------------------
+David Lucchino, Frequency Therapeutics, Inc. - President, Chief Executive Officer and Co-Founder    [2]
+--------------------------------------------------------------------------------
+Thank you, Operator. And good morning, everyone. Joining me on today's call are Ram Aiyar, Korro Bio's Chief Executive Officer; and Vineet Agarwal, Korro Bio's Chief Financial Officer.
+This morning, we issued a press release announcing the proposed merger between Frequency Therapeutics and Korro Bio, a privately held RNA editing company focused on the discovery and development of novel genetic medicines and committed to expanding the frontier of genetic medicine. This release is available at frequencytx.com in the Press Release section, under Investors and Media tab.
+As many of you know, Frequency Therapeutics was founded to pioneer a new category in regenerative medicine, build on science that aims to activate progenitor cells to repair or restore cells and tissue.
+Throughout our journey, we have worked to balance a deep commitment to patients with a keen understanding of our responsibility to create value for our shareholders. We've evaluated a number of strategic options that would allow us to fulfill these commitments and responsibilities. We believe that the proposed merger announced this morning provides the best opportunity for Frequency and its stockholders.
+We believe Korro Bio is strongly positioned to transform the landscape of genetic medicine and at our cutting-edge RNA editing platform, known as OPERA has the potential to enable the development of novel therapies across a wide range of indications. Moreover, we believe this transaction will result in a combined entity with a strong cash position backed by an impressive investor syndicate.
+We are confident that Korro's leadership team, their directors and advisors, and that their collective vision and proven track record will enable them to realize the clinical and commercial potential of this platform. I am grateful to our team for their diligence and collaboration that has allowed us to reach this outcome. Now, I turn the call over to Ram Aiyar, Chief Executive Officer of Korro Bio.
+--------------------------------------------------------------------------------
+Ram Aiyar, Korro Bio Inc - President, Chief Executive Officer, Director    [3]
+--------------------------------------------------------------------------------
+Thank you, David. Thanks to everyone for joining us on the call. I'm excited for this opportunity to provide an overview of Korro Bio and share our vision of creating transformative genetic medicines for diseases with high prevalence.
+Our rationale for undertaking the proposed merger and planned concurrent financing announced this morning is grounded in our knowledge that innovating a new therapeutic paradigm is a capital-intensive endeavor. And companies that have succeeded have balanced spending capital, iterating on the platform, and taking programs to the clinic to treat human disease.
+This merger and the planned concurrent financing from $117 million from leading life science investors is expected to provide sufficient capital on the combined companies' balance sheet to be able to demonstrate the potential of our platform and specifically take our lead asset into the clinic and obtain potentially early signals of activity and tolerability. In addition, it will support moving of additional pipeline programs, generating multiple inflection points in the near term.
+During today's call, I'll provide a brief overview of our RNA editing approach, describe our pipeline programs with a primary focus on our lead program in Alpha-1 antitrypsin deficiency, or AATD, and share our upcoming milestones. I'll now turn the call over to Vineet Agarwal, who will review the terms of the proposed merger, as well as the planned concurrent financing.
+--------------------------------------------------------------------------------
+Vineet Agarwal, Korro Bio Inc - Chief Financial Officer, Principal Accounting Officer, Treasurer, Principal Financial Officer     [4]
+--------------------------------------------------------------------------------
+Thanks, Ram. As outlined in the press release issued earlier today the proposed merger is an all-stock transaction. Pre-merger Frequency Therapeutics shareholders are expected to own approximately 8%, and pre-merger Korro Bio equity holders are expected to own approximately 92% of the combined company on a fully diluted basis. In each case, this is after giving effect to the planned concurrent financing of $117 million.
+Under the terms of merger agreement, stockholders of Korro Bio will receive newly issued shares of Frequency Therapeutics common stock, pursuant to a formula set forth in the merger agreement. The percentage of the combined company that Frequency Therapeutics stockholders will own upon the closing of the merger is subject to further adjustments based on the amount of frequencies net cash at the time of closing.
+The merger has been unanimously approved by the Board of Directors of both companies. Korro Bio also [entered space] approximately $117million from the concurrent financing. The financing is co-led by Surveyor Capital, a Citadel company, and Cormorant Asset Management, with participation from other leading life sciences investors. We appreciate their support and confidence in our team, platform, and vision.
+Combined with Korro Bio's anticipated cash on hand at the time of the merger and financing transaction, which is expected to close in the fourth quarter of 2023, the Company expects to have $170 million on its balance sheet, which on a pro forma basis is expected to fund operations into 2026. I will now turn call back to Ram for an overview of our platform and programs.
+--------------------------------------------------------------------------------
+Ram Aiyar, Korro Bio Inc - President, Chief Executive Officer, Director    [5]
+--------------------------------------------------------------------------------
+Thanks, Vineet. On slide seven, in my experience, there are three key aspects to the success of any biotech company, the people, the technology, and the lead asset. We believe we have all of these elements needed for success.
+We have an experienced leadership team that has deep know-how in the development of oligonucleotide-based therapeutics and successfully building novel therapeutic platforms. I'll provide additional details on the team in the next slide.
+Our proprietary RNA editing platform named OPERA is a powerful engine for a generation of innovative oligonucleotide product candidates, capable of precisely editing a single base on RNA, specifically an A to I base edit. The simplicity and elegance of our platform gives us an opportunity to generate a broad portfolio of programs, both in rare, as well as highly prevalent diseases.
+Our lead program is a product candidate to potentially provide a disease-modifying therapy for patients with AAPD. AAPD is a rare genetic disease with a single mutation, with a potential US market opportunity, in excess of $3 billion. With the planned concurrent financing announced today of approximately $170 million from leading life science investors, we believe that the combined company will have a pro forma cash runway to 2026. This we expect to take us through an interim data readout for our first clinical trial in our lead program in AAPD.
+In slide eight, as I noted on the prior slide, having the right people in team is critical for success. We have been able to hire amazing individuals at Korro Bio, starting with our senior leadership team, who bring a diverse set of experience and expertise to bear.
+Between the senior team, we have over 20 INDs filed, over 15 Phase 2 clinical development programs under our belts, and contributed to the approval of multiple drugs currently on the market. In addition, the broader team and culture we have at Korro Bio are critical components for its success, where we share the same vision of generating medicine through a novel platform.
+On slide nine, we believe that our genetic code, let alone a change to a single base in that code, does not define who we are as people and nor should it play such an outsized role in determining our health. Genetic mutations, including single nucleotide variants, implicated in disease have been found to be diverse in nature, and can affect the function of genes and their associated downstream pathways.
+The ability to edit these bases so that they do not cause harm or to engineer a new code that can improve human health, opens the door to precision genetic medicine, with a potential to transform the care and outcomes for people with both rare and highly prevalent diseases.
+While several novel DNA editing approaches offer great promise for the treatment of certain rare diseases, they present significant risks with respect to highly prevalent diseases. These potential limitations have spurred exploration of alternative approaches to genetic medicine development such as RNA editing.
+Slide 10. RNA editing is a natural physiological process that occurs in cells, where a specific single base edit is mediated by an enzyme called adenosine deaminase acting on RNA, or simply ADAR.
+Our RNA editing approach involves co-opting this endogenous editing system via proprietary engineered oligonucleotide to introduce a precise edit to RNA.
+As shown in step one of this slide, we use a non-viral delivery system to introduce a highly optimized oligonucleotide designed to edit a specific adenosine on the target mRNA. This oligonucleotide binds to the target RNA and the double-stranded structure formed is able to recruit the ADAR enzyme, as shown in step two.
+The ADAR enzyme then affects a conversion of a single base of adenosine into an inosine shown here in step three. If the edit is in the coding region, as the edited RNA is translated by the ribosomes to produce protein, the inosine is typically read as a guanosine or a [G. Gene immune] amino acid sequence that is incorporated into a new protein and, thus, changing its function.
+We're applying our cutting-edge technology platform to realize the future of medicine by editing the message encoded in our RNA. We have a massive suite of capabilities and intellectual property that we believe will allow us to do this with incredible precision and efficiency in a broad area of diseases.
+On slide 11, I'll talk about our oligo-based RNA editing approach that provides multiple benefits, compared with DNA editing strategies, which are summarized on this slide, specifically as it pertains to highly prevalent diseases.
+There is a precedent or proof of concept in each of these five clinical parameters for our platform shown here, specificity of editing, efficiency of delivery to target cells in vivo, tolerability, ease of manufacturing, and unprecedented regulatory path for oligo-based therapies.
+In contrast, DNA editing is either known not to meet these criteria, our outstanding question still remains. Based on the stark contrast, we are confident that oligo-based RNA editing will be the gold standard for therapeutic development, as we bring editing to highly prevalent diseases.
+We've amassed a preeminent suite of technologies and capabilities to build our RNA editing platform, or OPERA.
+OPERA relies on the following key components that enable Korro Bio to degenerate its differentiated product candidates, first, a deep understanding of ADAR biology, second, and expertise and all of the nucleotide chemistry, third, a machine learning-based optimization of oligonucleotides and, finally, a fit-for-purpose delivery mechanism.
+Each of these components of our OPERA platform are covered by a substantial intellectual property estate, which we believe is a significant barrier to entry that will allow us to operate broadly in the space with limited competition.
+The versatility of RNA editing, combined with our OPERA platform broadens the therapeutic space significantly. While our approach can be used to repair pathogenic single nucleotide variants, it can also engineer de novo variants and change amino acids on proteins that endow them with desired properties. All this, while preserving their broader functional capabilities.
+We have demonstrated that a single RNA change can disrupt protein-protein interactions, prevent protein aggregation, selectively modulate ion channels, and also activate kinases specifically. These modification approaches can unlock validated target classes that have historically been difficult to drugs, enabling Korro Bio to pursue a broad range of diseases traditionally out of scope for other generic medicines approaches and current traditional drug modalities.
+On slide 14, we show that each of these approaches is being used within our deep pipeline that is fully owned with high-value targets. During today's call, I'm going to focus on the pre-clinical data supporting our lead program in AATD, but information about our other exciting programs will be available on the Form S-4 that will be filed with the SEC, and I look forward to sharing our progress on these programs with you in the future.
+Now, I'll turn to our lead program in AATD in slide 15. AATD is an inherited genetic disorder that can cause severe progressive lung and liver disease, due to a lack of normal Alpha-1 antitrypsin protein, or A1AT, with varying intensity, based on patient genotype and environmental factors.
+Patients often develop chronic obstructive pulmonary disorder, or COPD, in the lungs, and/or cirrhosis of the liver, which can result in liver failure or death. There are an estimated 3.4 million individuals with [deficiency LU] combinations worldwide.
+One of the most common of these single nucleotide variants is disease mutation, corresponding to a change of glutamate 342 to lysine or the E342K mutation. Approximately, 100,000 individuals in the US have this more severe PIZZ genotype.
+There is a single-approved modality augmentation therapy, a once-a-week infusion of pooled human plasma-derived A1AT that is approved for this therapy. It is minimally effective and does not adequately address either the lung or liver manifestations of this disease. Consequently, we believe that the US market for a [therapy, again], improve the existing standard of care, and expand the treated population could be in excess of $3 billion.
+Our AATD candidate is designed to correct the single nucleotide variants that leads to the deficient levels of M-A1AT protein.
+We deliver this proprietary oligonucleotide with a lipid nanoparticle or an LNP-based delivery system from Genevant, which is administered intravenously to restore production of functional A1AT.
+This lipid-based system is delivered to the liver hepatocytes. The oligonucleotide drug product co-ops and naturally occurring ADAR pathway repairing the disease mutation and restoring the production of functional [Alpha-1 adenosine].
+We are focused on restoring A1AT levels to those seen in patients with the MM genotype, who do not have SERPINA1 gene mutations and those with PI and Z genotype who have one normal copy of this gene and one mutated copy.
+We have shown that LNPs can be used in ADAR-mediated editing processes to achieve high editing efficiencies and provide sustained delivery and acceptable tolerability profile. This drug product can also be manufactured at scale sufficiently to serve this large target population.
+We are on track to nominate a development candidate for our AATD program in the second half of 2023, and to submit a regulatory filing in the second half of 2024. On this timeline, we will potentially report data from our first clinical trial in the second half of 2025.
+We believe our approach can potentially provide superior patient benefit, compared with other investigational modalities. As I already noted, RNA-based strategies are manufactured as simple drug products, which is also the case for fusion proteins, but not for DNA editing approaches.
+Our approach is also the only modality to alleviate both lung and liver manifestations of AATD in relevant animal models. It's also the only one with the potential to restore functional A1AT protein levels to, at least, those observed in patients with the heterozygous MZ genotype. This, we believe, may be able to achieve levels near those for people without SERPINA1 mutation.
+Our oligo-based RNA editing approach also offers potential benefits with respect to tolerability, compared with the other modality shown here.
+The next few slides show the proof-of-concept data for our AATD candidate in multiple model systems. This slide shows that we have achieved more than 50% editing of human hepatocyte-like cells with the PIZZ genotype, as well as in primary human hepatocytes from patients with the MZ genotype in vitro.
+On slide 19, we show that we've achieved greater than 60% editing in the PIZ mouse model of AATD, following a single dose of our RNA editing candidate. As a reminder, editing is measured as a number of RNA transcripts edited.
+We believe this is the highest editing efficiency observed across any modality, based on data published to date for AATD. We also show that this level of editing results in increased level of functional A1AT protein where none existed in this animal model.
+Slide 20 shows the potential for our approach to address both the liver and lung manifestations of AATD. These results are from a preclinical in vivo study, in which four groups of mice were given a low dose of our proprietary oligo, and observed in a multi-dose study that lasted up to four weeks.
+We've been able to demonstrate activity lasting above 50% with weekly dosing in this animal model. This also has created an increase in total protein in circulation and a rapid increase in normal protein over the four weeks, up to 20 micromolar. Not only do we see an increase in normal protein, we also see a decrease in liver aggregates with just four weeks of treatment. All of that data was generated with an off-the-shelf MC3 LNP, a similar formulation that has been used in an approved drug product.
+This slide shows the correlation between the editing seen in the PIZ mouse model and editing seen in non-human primates or NHPs using an earlier generation of our AATD targeted oligo.
+Since the human SERPINA1 gene in non-human primates does not harbor the E342K mutation, we are demonstrating that our oligonucleotide can edit within the coding region of the non-human primate gene and translate that editing from preclinical in vivo editing from the PIZ mouse model to non-human primates. This data shows that the evidence seen in PIZ mice translates very well into larger species in non-human primates and builds confidence in the potential translation into humans.
+In slide 22, we showed the results achieved when our proprietary oligo is delivered using the Genevant LNP.
+As shown on the left, this LNP has increased editing efficiency in the PIZ mouse model at a dose of 2 mg per kg, compared with what was observed with a 3 mg per kg dose delivered with the MC3 LNP, which is shown in the inside.
+On the graph on the right, we have demonstrated an increase in normal protein level, comprising up to 85% of the total protein in circulation, up from 0% at baseline.
+We believe that this has the potential of positive disease-modifying effects, as we get into the clinic. We are confident that we have a clear path to demonstrate potential clinical proof of concept for our AATD program in a relatively short period of time.
+As shown here, we've already selected three lead oligos and initiated CMC activities. We intend to nominate a development candidate in the second half of '23, which we expect the testing studies to enable a regulatory filing in the second half of 2024.
+Depending on the evidence of activity and tolerability for our candidates, in its first clinical trial, we plan to pursue expedited regulatory pathways, including potentially requesting Fast Track designation and Breakthrough Therapy designation.
+What I've had the opportunity to share with you today is a brief snapshot of the many ways in which Korro Bio is uniquely positioned to expand the frontiers of genetic medicines. The key things to know about Korro Bio today which I introduced at the start of my remarks, are summarized on this slide here again.
+In closing, I would like to take this opportunity to thank the teams at Korro and Frequency for their diligence and collaboration in structuring a merger that would -- that we believe will truly benefit patients and each company's shareholders. I also thank the syndicate of leading investors who participated in our planned concurrent financing, as well as everyone who has joined us this morning for your time. I look forward to sharing our progress with you in the months ahead.
+--------------------------------------------------------------------------------
+Operator,     [6]
+--------------------------------------------------------------------------------
+This concludes today's call. You may now disconnect.
+
+
+
+
+
+
+--------------------------------------------------------------------------------
+Definitions
+--------------------------------------------------------------------------------
+Preliminary Transcript: "Preliminary Transcript" indicates that the 
+Transcript has been published in near real-time by an experienced 
+professional transcriber.  While the Preliminary Transcript is highly 
+accurate, it has not been edited to ensure the entire transcription 
+represents a verbatim report of the call.
+
+EDITED TRANSCRIPT: "Edited Transcript" indicates that a team of professional 
+editors have listened to the event a second time to confirm that the 
+content of the call has been transcribed accurately and in full.
+
+--------------------------------------------------------------------------------
+Disclaimer
+--------------------------------------------------------------------------------
+The London Stock Exchange Group and its affiliates (collectively, "LSEG") reserves the right to make changes to documents, content, or other information on this web site without obligation to notify any person of such changes. No content may be modified, reverse engineered, reproduced or distributed in any form by any means, or stored in a database or retrieval system, without the prior written permission of LSEG. The content shall not be used for any unlawful or unauthorized purposes. LSEG does not guarantee the accuracy, completeness, timeliness or availability of the content. LSEG is not responsible for any errors or omissions, regardless of the cause, for the results obtained from the use of the content. In no event shall LSEG be liable to any party for any direct, indirect, incidental, exemplary, compensatory, punitive, special or consequential damages, costs, expenses, legal fees, or losses (including, without limitation, lost income or lost profits and opportunity costs or losses caused by negligence) in connection with any use of the content even if advised of the possibility of such damages.
+
+In the conference calls upon which Summaries are based, companies may make projections or other forward-looking statements regarding a variety of items. Such forward-looking statements are based upon current expectations and involve risks and uncertainties. Actual results may differ materially from those stated in any forward-looking statement based on a number of important factors and risks, which are more specifically identified in the companies' most recent SEC filings. Although the companies may indicate and believe that the assumptions underlying the forward-looking statements are reasonable, any of the assumptions could prove inaccurate or incorrect and, therefore, there can be no assurance that the results contemplated in the forward-looking statements will be realized.
+
+LSEG assumes no obligation to update the content following publication in any form or format. The content should not be relied on and is not a substitute for the skill, judgment and experience of the user, its management, employees, advisors and/or clients when making investment and other business decisions. LSEG does not act as a fiduciary or an investment advisor except where registered as such.
+
+THE INFORMATION CONTAINED IN TRANSCRIPT SUMMARIES REFLECTS LSEG'S SUBJECTIVE CONDENSED PARAPHRASE OF THE APPLICABLE COMPANY'S CONFERENCE CALL AND THERE MAY BE MATERIAL ERRORS, OMISSIONS, OR INACCURACIES IN THE REPORTING OF THE SUBSTANCE OF THE CONFERENCE CALLS. IN NO WAY DOES LSEG OR THE APPLICABLE COMPANY ASSUME ANY RESPONSIBILITY FOR ANY INVESTMENT OR OTHER DECISIONS MADE BASED UPON THE INFORMATION PROVIDED ON THIS WEB SITE OR IN ANY SUMMARY. USERS ARE ADVISED TO REVIEW THE APPLICABLE COMPANY'S CONFERENCE CALL ITSELF AND THE APPLICABLE COMPANY'S SEC FILINGS BEFORE MAKING ANY INVESTMENT OR OTHER DECISIONS.
+--------------------------------------------------------------------------------
+Copyright 2024 LSEG. All Rights Reserved.
+--------------------------------------------------------------------------------

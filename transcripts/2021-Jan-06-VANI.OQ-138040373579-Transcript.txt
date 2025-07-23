@@ -1,0 +1,344 @@
+
+
+Refinitiv StreetEvents Event Transcript
+E D I T E D   V E R S I O N
+
+Pixium Vision SA, Second Sight Medical Products, Inc. - M&amp;A Call
+JANUARY 06, 2021 / 4:00PM GMT
+
+================================================================================
+Corporate Participants
+================================================================================
+
+ * Matthew J. Pfeffer
+   Second Sight Medical Products, Inc. - Independent Director
+ * Lloyd Diamond
+   Pixium Vision SA - CEO & Director
+ * Guillaume Renondin
+   Pixium Vision SA - CFO
+ * Jose-Alain Sahel
+   Pixium Vision SA - Chairman of the Scientific & Medical Committee
+
+================================================================================
+Presentation
+--------------------------------------------------------------------------------
+Lloyd Diamond,  Pixium Vision SA - CEO & Director    [1]
+--------------------------------------------------------------------------------
+
+          Hello. Good morning, good evening, everyone. Welcome to this video conference, Pixium Vision and Second Sight. And on behalf of both teams, I'd like to wish you all a happy and healthy 2021.
+Next slide. I would like you to take note of our forward-looking statement provisions and legal disclaimer.
+Next slide. On the call with us today, we have -- I have 3 other colleagues with me, Matt Pfeffer, who is the CEO of Second Sight; Guillaume Renondin, who is the CFO of Pixium Vision; and Professor José-Alain Sahel, who is the distinguished Professor and Chair of the Department of Ophthalmology at the University of Pittsburgh School of Medicine.
+We would like to take the next 30 minutes to present to you more information and detail around the news that we announced this morning, collectively between Pixium Vision and Second Sight. And then at the end of the 30 minutes, we'll be happy to entertain any questions that you can certainly pose by typing them in the question box.
+Next slide. So perhaps a word about the contemplated combination. As you'll ultimately be aware, maybe some of you in the U.S. aren't aware, Pixium Vision is a company that is based here in Paris, and our aim is to create a world of bionic vision for those who have lost their sight, enabling them to regain partial visual perception and greater [autonomy]. Second Sight is based in the U.S. in California on the West Coast, and they develop manufacture market-implantable visual prosthetics to provide artificial vision for blind individuals seeking greater independence, 2 very similar missions.
+And of course, our ambition is to combine both companies. And this ambition, which I'll discuss a bit further on in the presentation, will obviously make more sense to you when you better understand the various components and development projects for both Pixium and Second Sight. But what's important to note here is that the combined entity will continue to trade on NASDAQ. And the financing use of proceeds will fund the combined group's ongoing business for any future additional capital raise that we together undertake.
+Next slide. I'd like to take a moment and mention a word about the synergies between both companies. So if you see there on the left, the column, Pixium Vision, today, we are one product company. Second Sight today is also a one product company, essentially. However, we look at treating different forms of visual diseases. We are primarily focusing with our PRIMA technology on dry age-related macular degeneration. And Second Sight with their Orion technology, which is a cortical implant, is looking at treating other 5 forms of blindness outside of the retina. Hence, the potential for the synergy that I mentioned earlier. The combined entity really has the potential to treat nearly all forms of blindness, both through retinal implant and cortical insights as well.
+At Pixium here in Paris, we maintain an expertise in implant and image capture and processing technology. Second Sight has a strong presence and know-how in artificial intelligence and virtual augmented reality. And together, we believe that by combining the competencies from both companies, we could create a top-notch technology platform, again, that will allow us to address many forms of blindness. The plan, of course, is also to leverage the key of both companies, which together have a very long history in the space of vision technology and implants.
+Next slide, please. So maybe just a word about the structure and the timing of the business combination itself. As I mentioned before, Pixium is a Paris space company. We are currently listed on Euronext Growth in Paris, and Second Sight is currently listed on NASDAQ. The plan is for us actually to transfer our asset into a new combined company that Second Sight will actually maintain here in Paris through the form of what we call a -- not a subsidiary, but rather a permanent establishment. And those assets of Pixium, the employee base, the know-how will reside here in Paris as the permanent establishment of Second Sight.
+The company, Pixium Vision then here in Paris will become a holding company, which on a pre financing basis, will hold 60% of this newly combined entity which is -- which will remain listed on NASDAQ. Following that combination, Orion -- the Orion asset will be spun out in a separate entity of which the new combined Second Sight-Pixium entity will hold 40% pre any financing.
+And so the real plan here is for us to: one, combine the competency and know-how; two, gain access to the NASDAQ listing potential for Pixium; and three, allow the Orion asset to continue to develop as a separate entity for which the combined company will maintain some equity position as well as hold future commercialization rights. This expected combination should close somewhere in late Q1 or early Q2 of 2021.
+Again, I want to maybe reinforce just one message here. And that is that Pixium employees and the know-how around PRIMA and all the work that we've done for our current technology base will continue within the organization of Second Sight. The company will be a holding company that will maintain its listing on Euronext and that Second Sight and the combined company will maintain their listing on the NASDAQ.
+Next. So maybe a word about Pixium Vision. The next slide. As I said, we're a company that's focusing on retinal implantation. We actually have currently implanted 7 patients with our PRIMA system. It is a subretinal implant that is targeting central loss of vision in advanced AMD patients. In those 7 patients, we've demonstrated successful letter reading in the central retinal area. We have already demonstrated the clinical validity and proof-of-concept in dry AMD and we believe that the PRIMA system will become the first therapeutic solution for dry AMD, which is a very large market opportunity of over $1 billion.
+We also received approval in Europe to begin our PRIMAvera pivotal study. We expect to complete implantation during this year. And then with 1 year follow-up, plan on having a readout of that study in 2022. In addition, we will continue the work that we're doing in our feasibility study in the U.S. where we've already implanted 2 patients.
+And I think I'd like to perhaps take a moment now to turn over the meeting to Professor Sahel, who can give you his initial thoughts around the results that we've seen in the PRIMA system and dry AMD. He is the co-founder of the company as well, and has had experience both with Pixium and Second Sight. But Professor Sahel, if you would maybe give some perspective on the results you've seen so far with PRIMA the potential there.
+
+--------------------------------------------------------------------------------
+Jose-Alain Sahel,  Pixium Vision SA - Chairman of the Scientific & Medical Committee    [2]
+--------------------------------------------------------------------------------
+
+          Yes. Thank you, Lloyd. So we have been able to use the PRIMA device that was developed with Daniel Palanker at Stanford in 5 patients in Paris so far and 2 patients in Pittsburgh. And as you know, the PRIMAvera trial is due to start very, very soon. This is tried in patients with advanced age-related macular degeneration, the atrophic form, where there is no central vision. These patients have a total loss of vision in the central part of the retina and the ability to read and to recognize faces. And out of the 5 patients that have been implanted, all of them had retained the vision they had before, and 4 of them have been able actually to read, to recognize letters, to recognize the shapes and objects.
+And currently, we are also testing a combination of peripheral and central vision and interestingly, it's very important, these patients are able to combine the central vision that is regained with a peripheral vision. And the trial in Pittsburgh is progressing despite the COVID situation. So this is also very, very promising. So this technology is proven safe. There was no complication and no loss of vision as compared to previously and improvement of central vision and ability to read. Obviously, this is early days, and it will be confirmed with the PRIMAvera trial across many centers. But this offers the first opportunity for this patient who lost central vision to regain the ability to fixate centrally and to recognize shapes and letters.
+
+--------------------------------------------------------------------------------
+Lloyd Diamond,  Pixium Vision SA - CEO & Director    [3]
+--------------------------------------------------------------------------------
+
+          Thank you very much, Professor Sahel. Next slide.
+
+--------------------------------------------------------------------------------
+Jose-Alain Sahel,  Pixium Vision SA - Chairman of the Scientific & Medical Committee    [4]
+--------------------------------------------------------------------------------
+
+          And I would add that I had the pleasure to be -- we have the first in Europe to use the Second Sight device, the Argus II and part of our registration in Europe and the Forfait Innovation. So a lot of experience with RP, and our hope is that this technology would apply not only to AMD but also to retinitis pigmentosa because these patients are in dire need of a technology and the -- so this is very important for us to see this getting patients as soon as possible.
+
+--------------------------------------------------------------------------------
+Lloyd Diamond,  Pixium Vision SA - CEO & Director    [5]
+--------------------------------------------------------------------------------
+
+          Actually -- thanks, Professor Sahel. And actually, that brings up another interesting point, which I would touch on later in the presentation, but I'll take the opportunity to talk about that now, and Matt certainly can confirm this. One of the really strong aspects of Second Sight is the reputation that they've had with Argus within their customer base, patients that have retinitis pigmentosa as well as the key opinion leader community, the critical community and many of the patient advocacy groups. And it would be a logical progression for us now at this stage with PRIMA to expand outside of AMD and look at expanding into retinitis pigmentosa to sort of pick up where Second Sight left off since they no longer have a retinal implant that is focusing on retinitis pigmentosa. So for us, it's just one more added synergy that we see between the 2 companies.
+Next slide. So I don't want to spend too much time talking about sort of our primary target market. But as Professor Sahel mentioned and as I mentioned previously, we're focusing on the dry form of age-related macular degeneration. It's a huge unmet clinical need. Today, there is no therapy that either is able to slow down, reverse the disease. And once the patients progress to the advanced form, which is geographic atrophy, such as you see in the images on the slide, there's nothing really that we can do for that. And of course, our ambition is to restore that essential vision loss.
+Next slide. If we look at how detrimental vision losses and especially AMD to the patient population and those that are older, we understand that there's a huge impact on quality of life. Comparable to that of dialysis, advanced prostate cancer, severe stroke. So giving these people back the ability to use their central vision also will have a direct impact on their quality of life.
+Next slide. We also understand that this impact in quality of life will support a reimbursement that is -- that actually is able to justify the value of the technology. And again, one other point I'd like to mention here about Second Sight is they have had a tremendous amount of experience in health economic outcome studies and in working with both CMS in the U.S. and third-party payers as well as our governments in Europe in getting acceptable reimbursement for their Argus technology. And we believe that, that know-how will be very helpful as we move forward with PRIMA as well.
+Next slide. Again, we are -- we have a fairly large target market, as I mentioned previously. And we also know that the number of patients within the dry AMD population is growing and those within the advanced stage of disease is also growing as the population continues to age.
+Next slide. So when we think about -- again, this business combination with Second Sight, while we have a very strong presence today in Europe, we're only beginning with Pixium in the U.S. And Second Sight's relationships with key centers, certainly in the U.S. will be beneficial to help us as we move forward in our clinical and commercial programs in the U.S. as well.
+Next slide. So as I stated out -- started out earlier when I stated that it's a huge market opportunity, we believe that the market penetration potential is quite high in AMD. But again, that's only one part of the vision market. Although a very big part and a large unmet need, only one part. And this combination with the Second Sight as well as the ability for Orion to continue its development pathway and then eventually come to market, giving us access to a cortical implant will allow us to even expand the revenue potential in the future.
+Next slide. So I'd like to maybe spend a minute just talking a little bit about the technology, our technology itself. Next slide. For those of you that aren't aware, again, the system itself, similar to our first IRIS system, also similar to the Argus system, PRIMA is a retinal implant that is implanted subretinally, but it also has 2 communicating components outside that the patient must have. One are glasses, with a video camera that's mounted on those as you see in the picture in the center, as well as a pocket processor that actually processes the algorithms, captures images and then send them back to the implant.
+Next slide. What I should mention is that we have a very close partnerships with centers -- top centers in Europe and the U.S. and in the combination with Second Sight, that will also give us a more expanded clinical footprint. What you see here on this slide is actually referencing what I just gated previously in that you have the retinal implant, PRIMA, which is actually on that penny that you see there. That's the size. It is a 2.2 millimeter, 378-micron photovoltaic chip that is placed under the retina. And again, it communicates with the smart glasses and the pocket processor that the patient wears on the outside.
+On the next slide, I'll talk through briefly the 3 steps for the mechanism of action. And then I'll talk about the clinical -- initial clinical results, and then we'll continue to talk more about the business combination.
+Next slide. So it's step 1. We -- the first thing that we do is we do a subretinal implantation. So patient will have the implant implanted in the subretinal space by a retinal surgeon. They have then sent home after about 1.5 hour operation, relatively straightforward for retinal surgeons. The retina will then heal, patient will come back, and we'll be ready for activation of the implant. So the activation and the visual process occurs in 3 steps, similar to other retinal implants, but this is different in that this is a subretinal implant that is wireless, different than the Argus and IRIS system. And also, it's a surgery that's a lot less invasive.
+Basically, what happens is patient then comes back, we switch the system on. And when we switch the system on, the mini camera that's mounted on the glasses that will capture the image of the environment as a video stream and send it to the pocket processor. The pocket computer then will transform the images into a stimulation signal using proprietary algorithms and send that back to the glasses.
+In step 2 then, the glasses will project a laser light a pattern at the back of the eye based on the signal received from the image analysis system, and then the laser will stimulate specific cells of the subretinal implant. Then in the third step, these stimulated implant cells will use the photovoltaic property or the property in the implant that will collect -- convert electric energy into -- sorry, line energy into electric energy, that's what photovoltaic is. It will then transform the energy received from the laser beam into an electrical current or stimulation. And then the electrical current will stimulate the retina leading to optical nerve stimulation and brain interpretation of the stimulus.
+This system, again, focuses on rental degenerative disease. It requires the optic nerve be intact. When we move to Orion, which we will shortly, that system will work even if the optic nerve is not intact. In fact, it takes the eye or the optic nerve out of the equation. Hence, the reason why you need both forms of implants.
+Next slide. Next slide. Yes. Again, Professor Sahel touched on this previously, so I don't want to spend too much time on it. But the initial results that we've gotten out of our French patient cohort by patients here has been quite remarkable. Our 18-month data with our new generation system shows the ability for patients to have up to 7 lines of improvement, which could even translate into their ability to read street signs. This is the first time that we've seen or demonstrated a visual improvement to this level in an advanced dry AMD patient population.
+Next slide. So when we talk about the next development pathway and hence, the timing of this combination between the companies. As I mentioned before, we are currently in the process of recruiting patients for our European PRIMAvera study. It's our Phase III pivotal definitive study for Europe. And we expect them to have approval sometime at the end of 2023, early 2024 based on the pivotal data generated in Europe. At the same time, though, we are beginning our regulatory pathway in the U.S. and then having our presence there and the agreement that we are entering into or have entered into with Second Sight will, of course, help us in the U.S. market as we progress through the regulatory pathway there as well.
+Next slide. And I'd like us actually to advance 3 more slides to Orion. Next one. Yes. So let's talk about Second Sight Medical Products. And to do so, I'd like Matt Pfeffer, CEO of Second Sight, perhaps you can walk us through the next few slides. Talk to us a little bit about Second Sight and the ambition for Orion.
+
+--------------------------------------------------------------------------------
+Matthew J. Pfeffer,  Second Sight Medical Products, Inc. - Independent Director    [6]
+--------------------------------------------------------------------------------
+
+          Okay. I'd like to very much thank you, Lloyd. First, I'm very pleased to be here and that we got this process to this point. We think this combination is really beneficial to both companies. Just a couple of years ago, and for a long history, we're pretty much competitors, but as Second Sight moved out of the retinal implant space, suddenly, our technologies became very complementary. So it's -- this combination is a way to leverage the tremendous strengths that Second Sight's developed in this market and transfer many of them and help Pixium with their development and accelerate that process as well, while also finding a way to separately finance and accelerate their progress of the Orion, which is so complementary to theirs.
+So I want to talk a little bit about Orion. If we can go to what I have in Slide 26. Again, it's very similar to our predecessor product, the retinal implant, the Argus system. It's an implant. But instead of going into the retina, it goes to the cortical lobe of the brain. So it's a way to address really every other form of blindness beyond retinal degeneration. So you could have traumatic eye injury, have no eye at all or have optic nerve disease or all the things that Lloyd mentioned, glaucoma and diabetic retinopathy. All those things are potentially treatable with this product because it goes straight to the brain. And it leverages a lot of the technology from Argus. So we've kind of been down this path before. We know how to do it. We have some 100 patients have been implanted with the Argus device. It works. It works well. It works for a long period of time. People are happy with it, but we wanted to expand that market and we saw this as an excellent way to do that.
+The product has been implanted at an early feasibility study in 6 patients at UCLA and Baylor and have had very promising positive results from those patients. In fact, every bit is as good as the Orion results have been, which gives us great hope that this is definitely approvable device. It uses a system, very much like Argus did or a Pixium device does, pairs of glasses with a built-in TV camera. And then that image is processed through external, I think, like call their pocket computer. It'll be similar to that. But then it's transmitted, again, wirelessly to the implant, which lays on the surface of the cortical lobe of the brain.
+So this is not brain surgery per se, although it was done by a neurosurgeon because it's not penetrating the brain, it's just laying on the surface. But it just generate perceived dots of light which we call phosphenes, I like to think of them as pixels. Nothing like the resolution we're going to get with a Pixium device. But for these people that have this device, that's very much life changing because it allows them to do very important day-to-day things. If we go to the next slide, we can talk a little bit about those results.
+And I think it's important to look at the bottom where we look at the day-to-day processes that people see and have improvements in that are otherwise blind. They can see people walking around. They can see where the sidewalk is. They can see barriers and now walk into them or little things like they can tell the stripe and a solid in the pool table, light and dark laundry or we had 1 patient, give a very emotional discussion about being able to blow out his candles on his birthday cake in the first time in many years. So it's a life-changing device. We think it's very important, and we think this is a great opportunity to focus on that, still leveraging the advantages we have in the retinal space and transferring those advantages takes in more than they can better be taking advantage.
+If we can go to the next slide. Again, we talked about the addressable market. One of the best advantages of the Argus product was that it was in retinitis pigmentosa, works quite well there. But it's a small market. While I mentioned that we had several hundred implantations, and it worked well in that group, we're reaching saturation of the market for the addressable market, at least in the U.S. and we need to expand outwards, which is how the Orion development came along. Obviously, that's a dramatically bigger market and it became suddenly more commercial products. So I'm not going to go belabor this.
+Lloyd mentioned this, and I'll repeat it, I think we have a lot of experience working on reimbursement for a product like this, which I hope we can help Pixium as well within that regard. We did in fact get the highest this far number where reimbursement rate for a product like this ever in excess of 150,000 CMS reimbursement, which is important. I mean it's good to have a product that's approved, but if nobody can pay for it. It doesn't -- you can't do much with it. Here, we've had a lot of experience getting that done. And this is the path we've been down before. So we're quite confident we'll be successful. At the same time, we hope we can leverage that success and that experience with Pixium and help them as well.
+So that's the short version. And with that, I think I will turn it back to Lloyd.
+
+--------------------------------------------------------------------------------
+Lloyd Diamond,  Pixium Vision SA - CEO & Director    [7]
+--------------------------------------------------------------------------------
+
+          Thanks, Matt. Appreciate it. And so before we go into the Q&A, again, Professor Sahel, I think it would be may be helpful for you as the Chair of the department there in Pittsburgh and then all of the work that you've done here really in France as well in raising awareness around blindness and the various technologies that you've been a part of developing over your long career, maybe to sort of give the clinician's view of the potential and importance for the combination of these 2 companies and what it will mean for your patients.
+
+--------------------------------------------------------------------------------
+Jose-Alain Sahel,  Pixium Vision SA - Chairman of the Scientific & Medical Committee    [8]
+--------------------------------------------------------------------------------
+
+          Yes. Well, I think the beauty of the combination is that we are already talking about patients that are desperate for finding anything, patients with advanced age-related macular degeneration. There is currently no treatment that works on patients with retinitis pigmentosa except for a very small group of patients with some mutation, there is no treatment and for patients that lost vision, there is no treatment to restore vision until Argus got approved, and hopefully, we'll get back some prosthesis to these patients. And the same is true for cortical impairment. The patient that lost the optic nerve, there is no way for them to regain vision through the eye directly. The only way is to bypass the eye and to get directly to the brain.
+So the idea of combining the talents and to make sure that all the expertise is brought together to really bring this products or these patients that are in dire need of any solution, it's actually wonderful that companies want to do that because this is something which is so important for public health. There is no solution for many of these patients. The technologies are very complex, but the time is right now for developing this technology for the patient. The success is obtained in the clinical setting by both technologies, the initial results from Orion that are refining the way for bringing back to the patients.
+So it's wonderful to see the synergies. I have been working independently with Second Sight as an investigator, and we have been funding Pixium Vision to really develop this technology for the patient, the synergies to facilitate the delivery to the patient. It's not going to be an easy path, but this is a breakthrough technology. This is a series of breakthrough technologies. And there are a lot of synergies because all the artificial intelligence of the computational approaches of the biomaterials technologies and the way to the rehabilitation.
+We haven't spoken a lot about rehabilitation, but we learned a lot with the Argus II. We learned a lot with the PRIMA on how important it is to train this patient to lose -- to see how we can use this new vision after they have lost their initial vision. So all of this is a lot of synergies that could be implemented. And I'm very enthusiastic. I'm not saying it's going to be an easy path, but this is a very necessary path to build forward. And I think our resources are now collectively integrated to make it happen.
+
+--------------------------------------------------------------------------------
+Lloyd Diamond,  Pixium Vision SA - CEO & Director    [9]
+--------------------------------------------------------------------------------
+
+          Thanks. Appreciate it, Professor Sahel. Okay. So with that being said, I think we'll move to the Q&A now. And we have several questions. I'll just read them out and then I'll ask various of the panel members here to respond to them.
+
+
+================================================================================
+Questions and Answers
+--------------------------------------------------------------------------------
+Lloyd Diamond,  Pixium Vision SA - CEO & Director    [1]
+--------------------------------------------------------------------------------
+
+          Why don't we first start with -- regarding the financing and the transaction. So the first question is -- and Guillaume, I'll put this to you. Do we currently have a commitment for the $25 million fund raise that we mentioned?
+
+--------------------------------------------------------------------------------
+Guillaume Renondin,  Pixium Vision SA - CFO    [2]
+--------------------------------------------------------------------------------
+
+          No, we don't have any commitment for the $25 million fundraiser yet. And so it would be now is the time with -- to find the funds. We have mandated the very famous bank on the U.S. market to help us to find the co-investors. We are looking for co-investors who will be in that venture for a long term.
+
+--------------------------------------------------------------------------------
+Lloyd Diamond,  Pixium Vision SA - CEO & Director    [3]
+--------------------------------------------------------------------------------
+
+          Excellent. Thanks. And then the other question is, will the $25 million be raised together with the NASDAQ listing or before? That's a follow-up.
+
+--------------------------------------------------------------------------------
+Guillaume Renondin,  Pixium Vision SA - CFO    [4]
+--------------------------------------------------------------------------------
+
+          So no, we want to find -- so we want to get the commitment before the listing of NASDAQ, of course, because it will be one of our conditions to do that deal. If we go to the NASDAQ and if we want to go to the U.S., it's just to facilitate fund raising for the financing of their pivotal study and to the market for Pixium Vision.
+
+--------------------------------------------------------------------------------
+Lloyd Diamond,  Pixium Vision SA - CEO & Director    [5]
+--------------------------------------------------------------------------------
+
+          Okay. Excellent. And then there was a follow-up question related to Orion as well. And Matt, this is for you. So the question is, will Orion be traded? Will it be a public-private company? Has that been determined? And I call it Orion. We don't have the name of that spinout. But for purposes of this, it's actually what's called on Orion. So Matt, any thoughts or comments on the Orion spinoff?
+
+--------------------------------------------------------------------------------
+Matthew J. Pfeffer,  Second Sight Medical Products, Inc. - Independent Director    [6]
+--------------------------------------------------------------------------------
+
+          Yes. So yes, the Orion spinoff will have a name, but that's not been determined or at least announced yet. I hope it will be shortly. But initially, it will be a public company because it will necessarily be that. I mean it's going to be created by the distribution of shares to the existing Second Sight stockholders. Now I'm not certain it will remain that. We'll see. I mean many of you know that the Orion technology has largely been funded by a small group of private individuals and that may likely continue and we may -- the funding could come from various sources. But initially, at least, it will be a public company.
+
+--------------------------------------------------------------------------------
+Lloyd Diamond,  Pixium Vision SA - CEO & Director    [7]
+--------------------------------------------------------------------------------
+
+          Okay. Excellent. And then another question around Orion and the new companies, so maybe we can both answer this. It says, "Since Orion is being moved to a new company, how much cost synergies would you expect for the combined operations?"
+First, let me take a stab at this and then Matt, feel free to answer. So as I mentioned in the slide where we put the graphic together around the structure, the operating structure moving forward, Orion will be spun out at the time of the closing of the transaction or within that time frame. With Orion, we'll go the employees that are currently in Second Sight, but we will -- the combined company will hold a 40% safe pre any financing. And so what that means, at least from our perspective, is there will certainly be a sharing of resources between both companies.
+We mentioned the market -- commercial access prowess of Second Sight. We mentioned the top-notch technology development that's occurred here at Pixium with PRIMA and the excellent results we've gotten. So we can see leveraging some synergies there. So I would answer the question that way, unless around sort of cost containment or operating leverage because essentially, Orion becomes a separate company of which the combined company will hold a position in, of course. So I don't know, Matt, if you want to give anything further to that. But...
+
+--------------------------------------------------------------------------------
+Matthew J. Pfeffer,  Second Sight Medical Products, Inc. - Independent Director    [8]
+--------------------------------------------------------------------------------
+
+          Yes. I think you covered it pretty well. I mean obviously, we're in different sites. And the way the Orion technology is developed, it's moved into a rather different market. I mean we're essentially marketing to neurosurgeons that are retinal surgeons now. It's nice to be able to leverage the relationships we have with those retinal surgeons with Pixium, however, and we're pleased that those will continue.
+And I do see some cost savings here and there, but it's more at the upper levels kind of corporate infrastructure as opposed to the research and development and so forth. Ultimately, I think there'll be some savings in commercialization as well, if things go as we expect, Pixium should have their product on the market well ahead of Orion and paved the way for us. And if -- assuming they keep that right and take advantage of it, they'll let that marketing ride as well. And so there'll be some synergies there, but we don't need that infrastructure at the moment. We hope to.
+
+--------------------------------------------------------------------------------
+Lloyd Diamond,  Pixium Vision SA - CEO & Director    [9]
+--------------------------------------------------------------------------------
+
+          Okay. Great. Thanks. And then there's another question, I'll fill it here. Why dry AMD? Can you compare and contrast to retinitis pigmentosa in terms of disease and commercial opportunity?
+So I'll answer the first part of the question around why dry AMD and the commercial opportunity. And then Professor Sahel, I'll ask you if you would comment on comparing AMD and our team in terms of the disease. So concerning the commercial opportunity, as Matt actually said, part of the reason why this has become an excellent opportunity for us to really combine with Second Sight is retinitis pigmentosa is, of course, a terrible disease. It affects younger people than dry AMD, but the incidents and prevalence of retinitis pigmentosa is less than dry AMD probably by a magnitude of 10x.
+So when we look at commercial opportunity, this advanced dry AMD market is in all the entire AMD market, but it's part of a much larger market, which is called dry AMD today for which there is no clinical solution. So we think it's -- it actually is an excellent opportunity for Pixium in that we are focusing our dry AMD, large unmet need. The market opportunity is 10x that of RP. But that being said, once we begin to penetrate the market for dry AMD, there's nothing that says we couldn't address other retinal degenerative diseases of which RP is one of them. So that's why the commercial opportunity focus, dry AMD because it's just a much larger potential.
+Regarding the second part of the question, compare and contrast RP in terms of disease with AMD, Professor Sahel, maybe you can talk through some of the intricacies of that.
+
+--------------------------------------------------------------------------------
+Jose-Alain Sahel,  Pixium Vision SA - Chairman of the Scientific & Medical Committee    [10]
+--------------------------------------------------------------------------------
+
+          Yes. I don't want to get into too many details. But clearly, in both disease, in RP, in retinitis pigmentosa and age-related macular degeneration, the atrophic form. There is a loss of photoreceptors for different reasons that patients are losing this ability to transform the light into electrical signal. And the goal is to replace photoreceptors. So any technology that can bypass the photoreceptors, replace them and transduce light into electrical signal is welcome. So the technologies are actually both targeting these type of patients. And I'm not talking in terms of market, but the need is exactly the same. You need a way to replace what's happening normally in the retina, light is being captured and this triggers an electrical signal.
+So this was done with Second Sight product with Argus directly at the level of ganglion cells. The PRIMA technology is actually doing that in the depth of the retina at the level of photoreceptors, and you get all the processing that the retina is doing. And as we have shown, it's working in age-related macular degeneration. There is every reason to think that it should work also in retinitis pigmentosa, and the surgery is much simpler. So a lot of optimism on that. And for patients with age-related macular degeneration, they retained their peripheral vision and now we have shown that it's possible to combine the 2, the central vision and the peripheral vision. We have very nice data to report on that. And for retinitis pigmentosa, hopefully, the device should exactly do what Argus II was doing and probably with the processing and the easiness of the surgery, it should help the patient also.
+So I think the 2 diseases are very different. But there's a common marker, both is that total receptors are dying and you need to replace photoreceptors. I'm not going to talk about Orion because it's a totally different situation. It's really bypassing all the retina and the optic nerve getting directly to the brain. But in all the situation, what you need also is to understand the processing of images in their visual system from the retina to brain to replicate that as well as possible.
+
+--------------------------------------------------------------------------------
+Lloyd Diamond,  Pixium Vision SA - CEO & Director    [11]
+--------------------------------------------------------------------------------
+
+          Excellent. Thanks. Then there was a question around the use of proceeds. I'll direct that to you, Guillaume. So it says, "What will the use of proceeds of the $25 million raise be used for in the future? Will it be mainly directed to PRIMA development? Or could it also be used for Orion?"
+
+--------------------------------------------------------------------------------
+Guillaume Renondin,  Pixium Vision SA - CFO    [12]
+--------------------------------------------------------------------------------
+
+          No. The $25 million would be mainly focused on the development of PRIMA, of the system PRIMA. And Orion will have its own financing.
+
+--------------------------------------------------------------------------------
+Lloyd Diamond,  Pixium Vision SA - CEO & Director    [13]
+--------------------------------------------------------------------------------
+
+          Okay. Thank you. Excellent. And then another question that Matt, perhaps I'll also ask your input on here is just why is 100% of Orion not being included in the deal, only 40%. So let me explain. So as we said at the time of closing of the combination, we will spin out this Orion entity, and we will maintain, meaning the combined company will maintain a 40% stake pre financing of the Orion entity.
+So we're spinning it out for, really, I would say, one primary reason, and that is that we don't want to encumber either development pathway, whether it be PRIMA or Orion. And this will allow both technologies to progress with the proper financing needed while at the same time, allow a structure that keeps both companies tightly aligned and moving toward the same goal. So that's essentially the reason for the structure. But Matt, happy to hear your input.
+
+--------------------------------------------------------------------------------
+Matthew J. Pfeffer,  Second Sight Medical Products, Inc. - Independent Director    [14]
+--------------------------------------------------------------------------------
+
+          Yes, I think that's essentially correct. I mean it's a way to, frankly, make both stockholder bases happy. And then at the end of the day, the existing stockholders of Second Sight will still retain the majority of Orion, 60%. And the stockholders of Pixium will still retain the majority of their product, 60%. But they also -- softwares on both clients get 40% of the other product. So it's a nice win-win scenario, I think, for both groups of stockholders, and that's why it was structured that way.
+
+--------------------------------------------------------------------------------
+Lloyd Diamond,  Pixium Vision SA - CEO & Director    [15]
+--------------------------------------------------------------------------------
+
+          Excellent. Okay. And then maybe another question that I will address to perhaps both you, Matt and Professor Sahel. Can you address other potential vision applications for the use of the Orion neuromodulation technology? So Matt, I think you mentioned this briefly in the presentation, but can you remind the audience again the target areas? And then Professor Sahel, perhaps you can...
+
+--------------------------------------------------------------------------------
+Matthew J. Pfeffer,  Second Sight Medical Products, Inc. - Independent Director    [16]
+--------------------------------------------------------------------------------
+
+          Yes. I'll broaden it without getting listing of -- I'll leave that to the professor for a list of digital applications. I seem to think of it in the simplest form, pretty much any form of blindness other than congenital because you have to have seen it one time for your brain to interpret these signals we're giving it. We found pretty much any form of blindness other than retinal degeneration is a likely target for Orion. So between the 2 products.
+At least in this current generation, we'll get nothing like the resolution of the Pixium product. But we get -- do get usable vision and -- which we supplemented with some of this augmented reality technology that Lloyd referred to. So it's very useful. But between the 2 products, it really covers the whole waterfront of blindness. So we can address pretty much anything but maybe over the location, but rather a list diseases I thought, I'll leave that to the professor.
+
+--------------------------------------------------------------------------------
+Lloyd Diamond,  Pixium Vision SA - CEO & Director    [17]
+--------------------------------------------------------------------------------
+
+          Thanks. Professor Sahel, any comment on sort of cortical stimulation and appropriate applications?
+
+--------------------------------------------------------------------------------
+Jose-Alain Sahel,  Pixium Vision SA - Chairman of the Scientific & Medical Committee    [18]
+--------------------------------------------------------------------------------
+
+          Yes. Well, I think the -- I don't want to give a full list of disease because it's really almost on ophthalmology except for retinal degenerations. But you can think about patients with very advanced glaucoma that lost the optic nerve. You can think about trauma. A lot of patients come to us, they lost vision after a trauma. And there is no way for them to get back anything patients. With optic nerve disease, optic nerve degenerations. So just a few of these, and you could go through many of these. It's really something that we are being expecting and been working on this type of project at the scientific level. We call that cortical vision. This is extremely important.
+The paper that came out a few months ago in cell, which is the top absolute, top scientific journal about patients using the Orion device being able to read was really a landmark paper. I was very impressed with that it was going beyond the expectations we all had. And it tells us that although the road is still very long, we're already at the entry point into a very promising era for this patient that had nothing, desperate patients we see in the clinic so -- but we don't even see them anymore because there is nothing to offer to them, and this is a huge opportunity. But not saying it's going to be easy, and but it's very careful to say that the resolution is not as good as what we can do with PRIMA.
+But still, in this paper, patients were able to recognize shapes and letters, which is kind of amazing. And more recently, a paper came out with research -- preclinical research showing the ability to recognize data using this type of technology. So it's really getting into the future and making sure that this future happens as soon as possible.
+
+--------------------------------------------------------------------------------
+Lloyd Diamond,  Pixium Vision SA - CEO & Director    [19]
+--------------------------------------------------------------------------------
+
+          Okay. Thank you. Excellent. And then there was a bunch of questions, I think, on the operational side. So why don't I try to take those on. I'll ask if I need any input. So how long does the transaction take to put in place? Would you expect the combination to take -- how long would you expect the combination to take place before everything runs smoothly? Given the importance of the U.S. market, now where the management reside, essentially, what does the go-forward entity look like?
+So the discussions have been ongoing for about the last 6 months in earnest, maybe 5, 6 months in earnest. We really don't expect much disruption to either of the businesses per se in that we will, within the permanent establishment in France, that Second Sight will retain will be all of the current employees of Pixium. The product development pipeline continues. The clinical trials continue. So we don't expect any interruption. Again, it's not one company buying another. It's a combination by where we're keeping essentially the Pixium, actually, we're keeping totally the Pixium entity from an employee and development perspective intact.
+Regarding the senior management structure, and again, there'll be a lot more detail on our website describing within the memorandum of understanding the various components but essentially, the governance structure will be taken over or by Pixium. I will become the CEO of Second Sight and maintain my position here as the General Director of Pixium here in France we're holding in France. And then Matt will, as we've said in the press release, assume the role of CEO of the Orion spinout.
+So again, on the personnel side, the Second Sight employees will move into the Orion spinout and the Pixium employees will remain today, but within this permanent establishment structure in France. So we don't see a disruption actually at all on either side. I don't know, Matt, if you echo that. But...
+
+--------------------------------------------------------------------------------
+Matthew J. Pfeffer,  Second Sight Medical Products, Inc. - Independent Director    [20]
+--------------------------------------------------------------------------------
+
+          Yes. No, I agree completely. I mean it's going to be somewhat transparent to most of the employees. So I don't see any disruption from it at all. There's a lot of steps we have to go through with the SEC and getting stockholder votes and so forth to close it all. But really, that's for the financial organizations and the management teams to deal with and the employee base, the people doing the work, the research and so forth, it's pretty transparent to that.
+
+--------------------------------------------------------------------------------
+Lloyd Diamond,  Pixium Vision SA - CEO & Director    [21]
+--------------------------------------------------------------------------------
+
+          Okay. And then there is maybe a couple of more -- we have time for a couple of more questions here. This is somewhat technical. The question is, "Are PRIMA and Orion devices actually upgradable?"
+I can speak in general terms. And then, again, happy to -- might be so technical, but happy to have Matt and Professor Sahel's input here. But as with Orion and PRIMA, we've had several generations of the technology. It was the same situation with Argus as well as IRIS, right? You start with one, what we call PRIMA I or in the case of Argus was Argus I and then Argus II and PRIMA II and Orion also, Orion I. And so to answer the question, yes, these technologies are upgradable.
+Again, that's the beauty of having an implantable device that has an external component. You can improve performance of the system both by improving implants, but also by improving the image processing capabilities, artificial intelligence capabilities of the devices. So the answer is, yes, they're upgradable. Yes, these are plans that are in place. And it's part of the reason for the ongoing funding need, and both companies will seek on that. Matt or Professor Sahel, I don't know if you want to add anything. But...
+
+--------------------------------------------------------------------------------
+Matthew J. Pfeffer,  Second Sight Medical Products, Inc. - Independent Director    [22]
+--------------------------------------------------------------------------------
+
+          No I think you've covered it, it's upgradable. In fact, we did upgrade our device multiple times. And in fact, there was another further upgrade that was in progress for the Argus system. One of the beauties of this, and you touched upon the slide is, really the easy parts that are upgradable are anything that's not implanted. Upgrading the electrode array is a little bit difficult. But you can certainly upgrade the glasses and the processing and add software and add some of this sort of augmented reality technology.
+We've talked about where you could add things like -- so people who don't know what that is. It allows you to add -- once you're processing a visual image, it's not that complex to add things like thermal imaging or object and facial recognition, things like that, that arrays decluttering. So you can take the what vision you have and make it more useful. That technology is out there. It's being heavily developed by others for other purposes, but it works very nicely with our products as well. So those are the kind of upgrades, I think, are the easy upgrades. Over time, I think you'll see upgrades in the arrays and so forth, but those are upgrades for existing patients probably.
+
+--------------------------------------------------------------------------------
+Lloyd Diamond,  Pixium Vision SA - CEO & Director    [23]
+--------------------------------------------------------------------------------
+
+          And Professor Sahel, maybe just a word from the, again, the clinical perspective, are there technologies where they need to be? Or what's your perspective on the need to upgrade and the ability from what you know about these technologies?
+
+--------------------------------------------------------------------------------
+Jose-Alain Sahel,  Pixium Vision SA - Chairman of the Scientific & Medical Committee    [24]
+--------------------------------------------------------------------------------
+
+          Well, I think you nailed it already. It's really -- what we are trying to do is to help blind patients to become low vision patient. But once we get into the world of low vision, all the enhancement we can benefit from the processing, from the artificial intelligence and the augmented reality, this is already happening. So these technologies are on the market. They were not applied to retinal prosthesis so far or to cortical prosthesis, but they are available. So this is the outside of the prosthesis.
+I'm sure that the teams are going to continue to work to develop new technologies to make them even better with higher resolution. But already now people that have been implanted or people that are going to be implanted in the near future, we benefit from all this low vision technology enhancement that can be applied directly from the outside.
+
+--------------------------------------------------------------------------------
+Lloyd Diamond,  Pixium Vision SA - CEO & Director    [25]
+--------------------------------------------------------------------------------
+
+          Excellent. Thanks. And then I'm just going to answer one last question here. And this is specific to the PRIMAvera trial. So I will answer this here on my own. And the first question is, "How many people will be recruited for the trial?"
+38 people will be recruited, and that's within the 5 main countries in Europe. And as I mentioned previously, the company already received approval here in Europe to begin the trial first in France, and then we will continue once we receive approval from the other countries. So it's 38. We -- again, the target is for us to complete the implantation in 2021, COVID impacts, of course, aside which are hard to -- which are really hard to estimate at this point.
+However, the other question is around -- that's great for Europe. The PRIMAvera trial was approved in Europe. So that's an EU study, which will lead to European approval. However, what about the U.S. and what needs to happen there? And will there be any interim data in the trial? So regarding the European study, there won't be interim data. We will -- as from an efficacy perspective, the data readout will happen at the end of the 12-month period from safety data, of course, so that will continue to be monitored, and we'll be able to report on any issues or no issues, which we expect from the PRIMAvera study from a safety perspective.
+Regarding the U.S., the company is in ongoing discussions with the FDA about the approval process required in the U.S. At this point, it's premature for us to really give any directional guidance on the U.S. regulatory pathway only to say that we believe that with the additional implants so -- that we should undertake in the feasibility study that Professor Sahel's team is a part of as well as Miami, Bascom Palmer, will complete those feasibility implant patients and the 3 additional patients. And then with the PRIMAvera data, the French feasibility data and the U.S. feasibility data, we believe we'll have a strong argument with the FDA to negotiate the most expeditious regulatory pathway necessary. So that's regarding PRIMAvera.
+And I believe that's the only time we have for questions before our French session starts here in a few minutes. So on behalf of Professor Sahel, Matt, Guillaume and myself, we would like to thank you for taking the time to listen to the information here and the exciting news about the combined entity moving forward. And we'll be happy in the future to entertain any other questions that you may have. Thank you.
+
+
+
+
+
+
+
+--------------------------------------------------------------------------------
+Definitions
+--------------------------------------------------------------------------------
+PRELIMINARY TRANSCRIPT: "Preliminary Transcript" indicates that the 
+Transcript has been published in near real-time by an experienced 
+professional transcriber.  While the Preliminary Transcript is highly 
+accurate, it has not been edited to ensure the entire transcription 
+represents a verbatim report of the call.
+
+EDITED TRANSCRIPT: "Edited Transcript" indicates that a team of professional 
+editors have listened to the event a second time to confirm that the 
+content of the call has been transcribed accurately and in full.
+
+--------------------------------------------------------------------------------
+Disclaimer
+--------------------------------------------------------------------------------
+Refinitiv reserves the right to make changes to documents, content, or other 
+information on this web site without obligation to notify any person of 
+such changes.
+
+In the conference calls upon which Event Transcripts are based, companies 
+may make projections or other forward-looking statements regarding a variety 
+of items. Such forward-looking statements are based upon current 
+expectations and involve risks and uncertainties. Actual results may differ 
+materially from those stated in any forward-looking statement based on a 
+number of important factors and risks, which are more specifically 
+identified in the companies' most recent SEC filings. Although the companies 
+may indicate and believe that the assumptions underlying the forward-looking 
+statements are reasonable, any of the assumptions could prove inaccurate or 
+incorrect and, therefore, there can be no assurance that the results 
+contemplated in the forward-looking statements will be realized.
+
+THE INFORMATION CONTAINED IN EVENT TRANSCRIPTS IS A TEXTUAL REPRESENTATION
+OF THE APPLICABLE COMPANY'S CONFERENCE CALL AND WHILE EFFORTS ARE MADE TO
+PROVIDE AN ACCURATE TRANSCRIPTION, THERE MAY BE MATERIAL ERRORS, OMISSIONS,
+OR INACCURACIES IN THE REPORTING OF THE SUBSTANCE OF THE CONFERENCE CALLS.
+IN NO WAY DOES REFINITIV OR THE APPLICABLE COMPANY ASSUME ANY RESPONSIBILITY FOR ANY INVESTMENT OR OTHER
+DECISIONS MADE BASED UPON THE INFORMATION PROVIDED ON THIS WEB SITE OR IN
+ANY EVENT TRANSCRIPT. USERS ARE ADVISED TO REVIEW THE APPLICABLE COMPANY'S
+CONFERENCE CALL ITSELF AND THE APPLICABLE COMPANY'S SEC FILINGS BEFORE
+MAKING ANY INVESTMENT OR OTHER DECISIONS.
+--------------------------------------------------------------------------------
+Copyright 2021 Refinitiv. All Rights Reserved.
+--------------------------------------------------------------------------------

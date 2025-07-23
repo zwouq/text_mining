@@ -1,0 +1,326 @@
+
+
+Refinitiv StreetEvents Event Transcript
+E D I T E D   V E R S I O N
+
+Revolution Medicines Inc To Acquire EQRx Inc Call
+AUGUST 01, 2023 / 12:30PM GMT
+
+================================================================================
+Corporate Participants
+================================================================================
+
+ * Erin Graves
+    - 
+ * Stephen M. Kelsey
+   Revolution Medicines, Inc. - President of Research & Development
+ * Mark A. Goldsmith
+   Revolution Medicines, Inc. - CEO, President & Chairman
+
+================================================================================
+Conference Call Participiants
+================================================================================
+
+ * Ami Fadia
+   Needham & Company, LLC, Research Division - Senior Analyst
+ * Marc Alan Frahm
+   TD Cowen, Research Division - MD & Analyst
+ * Benjamin Jay Burnett
+   Stifel, Nicolaus & Company, Incorporated, Research Division - Associate 
+ * Michael Werner Schmidt
+   Guggenheim Securities, LLC, Research Division - Senior Analyst & Senior MD
+ * Eric William Joseph
+   JPMorgan Chase & Co, Research Division - VP & Senior Analyst
+ * Jonathan Chang
+    - 
+
+================================================================================
+Presentation
+--------------------------------------------------------------------------------
+Operator    [1]
+--------------------------------------------------------------------------------
+Good morning, everyone, and welcome to today's conference call. (Operator Instructions) Please note that today's conference call is being recorded.
+I would now like to turn the call over to Erin Graves, Senior Director of Corporate Communications and Investor Relations at Revolution Medicines. Erin, please go ahead.
+
+--------------------------------------------------------------------------------
+Erin Graves,   -     [2]
+--------------------------------------------------------------------------------
+Thank you, operator. Good morning, everyone. Thank you for joining today's call to discuss Revolution Medicines' acquisitions of EQRx and other business updates. On today's call, Mark Goldsmith, Revolution Medicines' Chairman and Chief Executive Officer, will deliver his prepared remarks; and Jack Anders, Revolution Medicines' Chief Financial Officer; and Steve Kelsey, Revolution Medicines' President of Research and Development, will join Mark for the question-and-answer session.
+Before we begin with the prepared remarks, we would like to remind you that Revolution Medicines and EQRx issued a joint press release, announcing the proposed acquisition earlier this morning. Revolution Medicines also published the corporate presentation, which is available on the Investor Relations of revmed.com.
+We would also like to remind you that today's presentation will include statements regarding the current belief of Revolution Medicines and EQRx, with respect to the proposed transaction and the company's business, including the expected timing of the closing of the proposed transaction, the expected benefits of the proposed transaction, the company's pipelines, portfolios, competitive ability and position, all of which are intended to be covered by the safe harbor provisions of the Private Securities Litigation Reform Act of 1995 or forward-looking statements. These statements are subject to a number of assumptions, risks and uncertainties, and actual results may differ materially from these statements.
+In addition to any risks highlighted during the call, you should consider the important risk factors and other disclosures that may affect Revolution Medicines and EQRx future results as described in our most recent annual report on Form 10-K, quarterly reports on Form 10-Q and other reports Revolution Medicines or EQRx files with the SEC and when available, a registration statement that will include a joint proxy statement and prospectus relating to the proposed transaction. Except as required by law, Revolution Medicines and EQRx undertake no obligation to revise or update any of these forward-looking statements.
+In connection with the proposed transaction, Revolution Medicines and EQRx intend to file documents with the SEC, including a registration statement on Form S-4, containing a joint proxy statement and prospectus. Investors and security holders are urged to read carefully the joint proxy statement and prospectus when it is filed with the SEC and other documents filed by either company with the SEC relating to the proposed transaction when they are filed because they will contain important information.
+With that, I'd like to turn the call over to Mark Goldsmith, Revolution Medicines' Chairman and Chief Executive Officer.
+
+--------------------------------------------------------------------------------
+Mark A. Goldsmith,  Revolution Medicines, Inc. - CEO, President & Chairman    [3]
+--------------------------------------------------------------------------------
+Thank you, Erin, and thank you all for joining us on short notice. Today marks a momentous day for Revolution Medicines. Earlier this morning, we announced that Revolution Medicines signed an agreement to gain more than $1 billion in additional capital through the acquisition of EQRx.
+We are excited to agree to this capital transfer in support of our ongoing efforts to discover, develop and deliver pioneering RAS(ON) inhibitor drugs on behalf of patients with RAS-addicted cancers. I look forward to walking you through the core financial details of this announcement and what it means for our go-forward portfolio. But before doing so, I'd like to spend a few minutes discussing our strategic rationale behind the transaction.
+I want to start by emphasizing that this transaction is focused entirely on strengthening our cash position. With additional capital that is supportive of the enormous opportunity created by the scientific advances and clinical momentum we have established to date. This deal will enable us to reinforce and sustain our parallel development approach for our extensive RAS(ON) inhibitor pipeline in multiple RAS- driven cancers, by enhancing our balance sheet, thereby increasing our company's financial certainty in a challenging macro environment.
+Upon closing, which we anticipate to occur in November 2023, we expect to have sufficient operating capital to commit confidently to making investments in late-stage activities and capabilities at scale and sustaining our robust R&D initiatives broadly. These efforts include one or more single agent pivotal clinical trials potentially beginning in 2024, which will be focused on our highly differentiated RASMULTI(ON) inhibitor, RMC-6236. The planning behind these trials is already underway in view of the encouraging data trends we have seen thus far.
+Likewise, with encouraging initial clinical experience with our KRAS G12C(ON) inhibitor, RMC-6291, planning is underway for a Phase IIb clinical trial to evaluate the combination of RMC-6236 and RMC-6291, potentially to begin in early 2024, while continuing single-agent evaluation of RMC-6291. It's important to note that our proposed acquisition of EQRx reflects both companies' confidence in our ability to build on scientific advances and clinical momentum and to deploy this amount of capital effectively.
+With the additional capital, we will be positioned to maximize the potential clinical impact of our targeted drug pipeline, all while retaining strategic control of our RAS(ON) inhibitor pipeline. In view of the considerable impact that this additional financial strength will have on our capacity to advance our own pipeline. At this time, we do not anticipate taking on a development or marketing partnership that would affect our rights in the U.S., and we can be especially discerning about timing in terms of potential partnerships we might consider outside the U.S.
+Moving on to the details of the transaction. As discussed earlier, this acquisition is all about enhancing our cash position in a way that takes into account our shareholders' interest and is designed to limit the dilutive impact to them. Through this all-stock transaction, we expect to receive more than $1 billion of additional capital from EQRx. The stock exchange ratio formula in the merger agreement, that will determine the rate of exchange of Revolution Medicines shares or EQRx shares uses a blended average from stock price determinations at 2 time points to account for developments in our ongoing business and potential movement in our stock price.
+In recognition of the forward-looking commitment by EQRx to support this transaction on behalf of its shareholders, approximately 20% of the exchange ratio is based on the determined $26 price per share of Revolution Medicines' common stock. The number of Revolution Medicines shares contributing to this portion of the exchange ratio was calculated as $200 million divided by $26 or 7,692,308 shares.
+Approximately 80% of the stock exchange ratio will be determined by a formula based on the price per share of Revolution Medicines stock using a 5-day volume-weighted average price measured during a period in close proximity to the EQRx stockholder vote to which a 6% discount will be applied.
+The number of Revolution Medicines shares contributing to this portion of the exchange ratio will be calculated as $870 million divided by the determined price per share. We agreed to this share price discount on this portion of the calculation as part of the overall transaction terms, in part because of our assessment of precedent public biotech equity offering discounts and conventional underwriting fees that are avoided in this transaction.
+We expect the transaction to close in November 2023, subject to the satisfaction of customary closing conditions, including regulatory review and approval by stockholders of Revolution Medicines and EQRx. I am pleased to say that holders representing more than 40% of voting common shares of EQRx have already entered into support and voting agreements to vote their shares in favor of the transaction.
+Before we wrap up today, given that our investors expect visibility into an updated dataset on RMC-6236 safety and activity in the coming months based on guidance we've previously provided, we expect to provide this visibility as planned and believe it is important for all investors to have the opportunity to learn and understand these planned updates in order to appreciate a key component of the strategic rationale underlying this innovative transaction.
+An update on the clinical antitumor activity by our RASMULTI(ON) inhibitor, RMC-6236 in patients with non-small cell lung cancer or pancreatic cancer will be presented as a Proffered Paper oral presentation during the Developmental Therapeutics session on Sunday, October 22, at the 2023 ESMO Congress, and supporting clinical data will be presented at the 2023 AACR-NCI-EORTC, or Triple Meeting, also in October. We are pleased to be an invited speaker in a plenary session at the Triple Meeting delivering a presentation entitled, Targeting RAS-addicted cancers with investigational RAS(ON) inhibitors.
+Furthermore, a first report on initial clinical findings with our KRAS G12C inhibitor, RMC-6291, which will include preliminary evidence of differentiation from KRAS G12C(OFF) inhibitors, will also be presented at the Triple Meeting. Further details on each of these upcoming presentations will be provided when available.
+And finally, we are pleased to announce that study site activation is ongoing under an investigational new drug application for a Phase IIb trial of our KRAS G12D inhibitor, RMC-9805. We continue to be energized by the trajectory of our late-stage development of RAS(ON) inhibitor drug candidates, and we look forward to sharing more with you in the coming months.
+In line with our continued prioritization and focus of our resources, on novel drug mechanisms of action targeting RAS-addicted cancers, we do not intend to advance EQRx's research and development portfolio. EQRx will commence a process to wind down these programs, and we will work with EQRx to help ensure the well-being of patients and respectful treatment of any affected EQRx employees.
+And finally, I want to give a special thank you to our Revolution Medicines' employees who are the heartbeat of our organization and the key to our success. We are very proud that these efforts by our employees and collaborators have led to significant scientific advances that may help shape the future of oncology, and I know that we are only getting started.
+Today's announcement is a major step in our sustained strategic journey to advance our compelling RAS(ON) inhibitor drug candidates into late-stage development and to continue advancing our deep pipeline of mutant selective RAS(ON) inhibitors. With the additional capital, we are highly encouraged that we will be even better positioned to advance these high-performing oncology assets for patients and create even greater value for our shareholders. We are highly motivated by the progress to date and eagerly anticipate the next steps.
+Thank you all for your support. With that, I'd like to open up the call for questions. Operator?
+
+
+================================================================================
+Questions and Answers
+--------------------------------------------------------------------------------
+Operator    [1]
+--------------------------------------------------------------------------------
+(Operator Instructions) And I show our first question comes from the line of Marc Frahm from TD Cowen.
+
+--------------------------------------------------------------------------------
+Marc Alan Frahm,  TD Cowen, Research Division - MD & Analyst    [2]
+--------------------------------------------------------------------------------
+Congrats on the deal and thanks for taking my question. Can you just dig in a little bit on 6236. Just kind of give an update on where dose escalation is right now? And kind of how much are we likely to see at ESMO? Is this still going to be a population that's very weighted to G12D just given the epidemiology and the early activity you showed? Or should we be thinking about this being a pretty meaningful update in patient population to outside of that mutation?
+
+--------------------------------------------------------------------------------
+Mark A. Goldsmith,  Revolution Medicines, Inc. - CEO, President & Chairman    [3]
+--------------------------------------------------------------------------------
+Thanks, Mark. Let me answer part of that, and then Steve can comment on the dosing. Well, given that KRAS G12D is the single most common RAS mutant driver of human cancer. I think that any emphasis on KRAS G12D would be, by definition, fairly broad. But the fact is that what enrolls in this study is reflective about that epidemiology. So they're KRAS G12D patients, KRAS G12V and other G12X patients. So we'll represent the story as we have it from the data that we've collected, but it will, of course, be heavily weighted towards the top 2 mutants that are represented in human cancer, KRAS G12D and G12V.
+Steve, do you want to comment on dosing for RMC-6236?
+
+--------------------------------------------------------------------------------
+Stephen M. Kelsey,  Revolution Medicines, Inc. - President of Research & Development    [4]
+--------------------------------------------------------------------------------
+Yes. We just made the decision to dose escalate from 300 milligrams daily to 400 milligrams daily in those patients are currently being enrolled in the study. And then as soon as that dose escalation cohort is fully enrolled, we will backfill the 300-milligram dose level to make sure that there's 20 patients minimum at that dose level. It's not clear at this stage how much of that data we'll be able to get into the presentation at ESMO because of the internal guidelines that we set ourselves for data comp, et cetera. But I think it will be a substantial update on the one we gave in February, (inaudible)
+
+--------------------------------------------------------------------------------
+Marc Alan Frahm,  TD Cowen, Research Division - MD & Analyst    [5]
+--------------------------------------------------------------------------------
+Okay. That's very helpful. Maybe just given the amount of cash and then some deal closes, the amount of cash because it seems like you have a lot of firepower to go after a variety of combinations with 6236. Can you just kind of walk through some of the priority list there of combinations in different settings that you really want to go after quickly?
+
+--------------------------------------------------------------------------------
+Mark A. Goldsmith,  Revolution Medicines, Inc. - CEO, President & Chairman    [6]
+--------------------------------------------------------------------------------
+I think we'll tag to you this one, too, but let me just start by saying, as we announced we will continue developing RMC-6236 as monotherapy. And in fact, we expect to launch one or more pivotal trials on RMC-6236 as a single agent beginning as early as 2024, and that will be based on the datasets that we're able to present in October, but the trends that we've seen so far are supportive of that plan.
+Secondly, we also announced that planning is underway now for a first combination, which is with RMC-6236 combined with RMC-6291, and that study should begin also in early 2024. So that's the kind of 2 important foundational points, but then maybe Steve can comment more broadly on RMC-6236 and combinations.
+
+--------------------------------------------------------------------------------
+Stephen M. Kelsey,  Revolution Medicines, Inc. - President of Research & Development    [7]
+--------------------------------------------------------------------------------
+Yes. I mean, as we've said before, we perceive RMC-6236 in 2 ways. One is as a mutant -- RAS mutation inhibitor for RAS mutations for which there is a specific inhibitor, which, right now, it was pretty much everything else like you'll all see even though we and others have G12D inhibitors in development. But I mean there are many patients, as we just discussed with G12D, G12V and other G12 mutations for which 6236 could be used as a RAS mutation inhibitor. And in those indications, with the first thing we would be looking to is combinations with existing standard of care, which putting the chemotherapy and checkpoint inhibitors.
+The second high priority utility RMC-6236 is leveraging the ability to inhibit mutations that may not be the one that the mutant-selective inhibitors, but also inhibiting wild-type RAS. So we would combine it with our mutant-selective inhibitor like RMC-6291. So both of those are either are being planned to start as really as soon as possible. And I think we've provided some guidance on the approximate timing of those studies, but they're high priority combinations and we were planning to stop them really pretty soon.
+
+--------------------------------------------------------------------------------
+Operator    [8]
+--------------------------------------------------------------------------------
+And I show our next question comes from the line of Jonathan Chang from Leerink Partners.
+
+--------------------------------------------------------------------------------
+Jonathan Chang,   -     [9]
+--------------------------------------------------------------------------------
+Just one, can you provide your thoughts on the timing of this acquisition? I guess, why now versus waiting until after the upcoming data presentations as on Triple Meeting to consider your options?
+
+--------------------------------------------------------------------------------
+Mark A. Goldsmith,  Revolution Medicines, Inc. - CEO, President & Chairman    [10]
+--------------------------------------------------------------------------------
+Yes. Thanks, Jonathan. We think that this is really the opportune time to do this for a number of reasons. On a practical level, this is when it was available from EQRx. They had a process underway in which they were looking at their strategic alternatives in the context of a revised strategy.
+But from our point of view, we see a significant momentum in the development of data. We have expectations around what we'll be able to disclose in October. And you've just heard important development plans that are already underway and in the relatively near future to see as soon as possible. That will require significantly increased resources and commitments that we want to be in the strongest financial position to be able to make those decisions.
+I'd also point out, though, that the structure of the deal is really critical to understand. It is designed such that 80% of the stock exchange rate will be determined in close proximity to the shareholder votes. And those shareholder votes won't occur until after the data are disclosed, the next data update or updates, plural, are disclosed in October. And so what we've effectively done in this deal is we've secured access to $1 billion by achieving a commitment by EQRx to participate in this transaction. We've secured it now, but it largely gets priced later.
+And so from our perspective, we get the benefits of both securing the access that to an unusually large amount of capital is rarely available in the marketplace today, but to do so at a price that reflects people's understanding and view of ResMed after those very important clinical updates.
+
+--------------------------------------------------------------------------------
+Operator    [11]
+--------------------------------------------------------------------------------
+And I show our next question comes from the line of Michael Schmidt from Guggenheim.
+
+--------------------------------------------------------------------------------
+Michael Werner Schmidt,  Guggenheim Securities, LLC, Research Division - Senior Analyst & Senior MD    [12]
+--------------------------------------------------------------------------------
+Mark and Steve, congrats on the deal today. I had a question on 6291 where you're saying in the press release that you have preliminary evidence of differentiation. And I was just wondering what are some of those measures? I guess, how is -- how do you determine differentiation in this data update? And then also how do you think about sort of the single agent development opportunity for 6291, perhaps relative to some of the combination work that you're planning.
+
+--------------------------------------------------------------------------------
+Mark A. Goldsmith,  Revolution Medicines, Inc. - CEO, President & Chairman    [13]
+--------------------------------------------------------------------------------
+Thanks, Michael. Good to hear from you. Steve, just want to answer that. Let me just provide 1 comment though. Obviously, we can't predisclose the information that we'll be reporting in October, so we can only talk in generalities here. But I think Steve can give you a framework.
+
+--------------------------------------------------------------------------------
+Stephen M. Kelsey,  Revolution Medicines, Inc. - President of Research & Development    [14]
+--------------------------------------------------------------------------------
+Well, yes, I mean I can only reiterate the framework that we've provided previously, which is we have thought about RMC-6291 really has to be demonstrably better. I mean it has to be better than KRAS G12C inhibitors. Otherwise, it's probably not something that revenue shipments are going to spend an enormous amount of human capital and cash developing. And we thought about it really in 2 ways. It's got a -- it's either got to be demonstrably superior in context of efficacy in some situation.
+And you are well versed with that field. So you are aware that lung cancer and colorectal cancer make up the vast majority of the tumors harboring the G12C mutation. Or it's got to be demonstrably superior in terms of tolerability such that it can be combined with things like pembrolizumab, but some of the other G12Cs cannot be combined with them. That's the dataset that we've been looking to collect, and we will provide more specifics on that at the presentation that we will be giving in the -- in October.
+So single-agent opportunities for G12C inhibitors are few and far between. Again, unless the single-agent activity has to be demonstrably superior to something that's already in clinical development or on the market in order for it to really have a shot. And it's tough to infer superiority in single-agent efficacy from studies where the endpoint is reading out soonest is overall response rate.
+Nevertheless, there are still some opportunities there. And again, I think once we have a chance to collate the data and discuss it, actually show it and discuss it, it will be a lot easier to have this conversation.
+
+--------------------------------------------------------------------------------
+Mark A. Goldsmith,  Revolution Medicines, Inc. - CEO, President & Chairman    [15]
+--------------------------------------------------------------------------------
+Yes. And if I could add to that, we're excited about RMC-6291, and we have been since its discovery and preclinical development. And as you know, we've disclosed quite a lot of preclinical data that very strongly bolster the case that it is differentiated and acts in a superior way in preclinical models to comparators. And that's certainly part of what we're evaluating in the clinic.
+So we're quite excited about it. We think that we've made a lot of progress. We're really looking forward to sharing that with you in October. And as Steve pointed out, that will make it a lot easier to have the discussion, but we can't go beyond that framework today. And all I can say is stay tuned, and we're excited about it.
+
+--------------------------------------------------------------------------------
+Operator    [16]
+--------------------------------------------------------------------------------
+And I show our next question comes from the line of Ami Fadia from Needham.
+
+--------------------------------------------------------------------------------
+Ami Fadia,  Needham & Company, LLC, Research Division - Senior Analyst    [17]
+--------------------------------------------------------------------------------
+I have 2 quick questions. Firstly, on 6236, you mentioned that you've started to enroll the 400-milligram dose. Can you talk about how that correlates with the doses you tested in the preclinical setting? And secondly, just with regard to 6291. If it does not show meaningfully better overall response rate compared to the RAS(OFF) G12C, what would be the takeaway in terms of the value of RAS(ON) versus RAS(OFF), should we not most expect the response rate to be higher?
+
+--------------------------------------------------------------------------------
+Mark A. Goldsmith,  Revolution Medicines, Inc. - CEO, President & Chairman    [18]
+--------------------------------------------------------------------------------
+Yes. I'd like to just comment on that second question that sort of stands out to me. I don't think Steve said that we would or wouldn't show a difference. I think his comment was with response rates because there is essentially a range around the current compounds that are out there coming to conclusion definitively that one has a superior response rate just takes a very large study to do that. That requires a large enough and, which is just not the sort of thing that one obtains a dose response -- a dose escalation study. And we've made that point previously. But that's not to say it's not trying to signal what we're seeing or not seeing. It's just making a point that for us to make the definitive statement about superiority is just talking. People certainly expect us to be able to take that position on the basis of the first dataset.
+There are other parameters that go beyond response rate like durability. And also keep in mind that there isn't a single response rate, response rates in a particular subset of patients and response rates and another subset of patients and so on. So you have to look at tumor type condition, pretreatment versus not pretreatment, et cetera. So there are multiple response rates and there are multiple PFS values, if you will, or durability signals associated with each of those. So we can't -- we shouldn't really just blend them altogether.
+So again, without actually speaking of the specific data, it's hard for us to give you the kind of definitive answer you want, but there's a lot of opportunity for that compound to show why it could be beneficial to patients and beneficial in a way that is distinguished from the RAS(OFF) inhibitors. And maybe I'll put it this way, I think we stand by our belief that inhibiting the on or active form of RAS with our tri-complex inhibitors, provides a meaningful biological pharmacologic benefit that we believe will translate for patients.
+So that's the second question. And now I've forgotten the first was 6236, how high are we? Maybe I'll answer that one. We're higher than we were before. And in the -- when we got to 80 milligrams, we disclosed that we now felt that we were in the exposure range in humans that synced up with kind of the exposure range -- the lower end of the exposure range in mice that drove progressions.
+And so -- well, we're not going to take a position today in the absence of sharing all of the PK data on exactly what that exposure level is for a given dose level. We'd rather do that in the context of showing you all of the PK. What we can say is that we've continued to see dose-dependent increases in exposure as we've advanced from 1 dose level to the next. And so today, we're dosing at 5x the total dose that we've already shown you anti-tumor activity for and for which we saw strong anti-tumor activity in preclinical species. So that doesn't quite get to a precise answer for you, but I think it gives you the concept.
+
+--------------------------------------------------------------------------------
+Operator    [19]
+--------------------------------------------------------------------------------
+(Operator Instructions) And I show our next question comes from the line of Ben Burnett from Stifel.
+
+--------------------------------------------------------------------------------
+Benjamin Jay Burnett,  Stifel, Nicolaus & Company, Incorporated, Research Division - Associate     [20]
+--------------------------------------------------------------------------------
+I just want to ask one point of clarification on the shareholder vote timing. I appreciate the commentary earlier. But if I heard you right, that shareholder vote is expected to happen after both ESMO and the Triple Meeting in October. Is that correct?
+
+--------------------------------------------------------------------------------
+Mark A. Goldsmith,  Revolution Medicines, Inc. - CEO, President & Chairman    [21]
+--------------------------------------------------------------------------------
+Correct. We expect the shareholder vote to happen in early November or in November, and those meetings will be completed in October. I think shareholders will have -- all investors will have plenty of opportunity to understand the datasets. That's really critical for us. We made a commitment earlier this year to provide data specifically on RMC-6236 in that time frame. We're really excited about our chance to do that. We're excited about the trends that we're seeing, and we want to share that in a fulsome way in the combination of the triple meeting and the ESMO meeting will enable that.
+And in addition to that, although we have never guided to anything specific about RMC-6291, we're now laying out for you a commitment to disclose the first dataset on clinical behavior of RMC-6291 at the Triple Meeting. So there's going to be a lot of information, and we can't wait to get there.
+
+--------------------------------------------------------------------------------
+Benjamin Jay Burnett,  Stifel, Nicolaus & Company, Incorporated, Research Division - Associate     [22]
+--------------------------------------------------------------------------------
+Okay. That's wonderful. And if I could just slip one more in, just around the status of the RMC-9805 G12D Phase I. Anything you can say just in terms of whether this has begun enrolling and when we might expect an initial update on the clinical results?
+
+--------------------------------------------------------------------------------
+Mark A. Goldsmith,  Revolution Medicines, Inc. - CEO, President & Chairman    [23]
+--------------------------------------------------------------------------------
+Yes. Well, we have an active IND and we're activating clinical sites. I can assure you there is enormous enthusiasm for this, quite a lot of interest among investigators. So I think that's moving swiftly and we'll disclose when we've dosed -- begun dosing patients. It's too early to give you a time line for when we'll be able to disclose data around that.
+I certainly would not want to set expectations that in October that we'll be presenting early data from RMC-9805, but let's just see how it goes. And it's a tremendously exciting time for us to have our third compound entering clinical development. So today, effectively, we have 3 RAS(ON) inhibitors in the clinic and the first 2 of which are generating exciting data.
+
+--------------------------------------------------------------------------------
+Operator    [24]
+--------------------------------------------------------------------------------
+And I show our next question comes from the line of Eric Joseph from JPMorgan.
+
+--------------------------------------------------------------------------------
+Eric William Joseph,  JPMorgan Chase & Co, Research Division - VP & Senior Analyst    [25]
+--------------------------------------------------------------------------------
+Yes, I then to follow up on the 9805 Phase I and really whether -- actually, just given the sort of the overlapping patient population with that of I guess the majority of patients coming into the trial for 6236. I guess are you thinking any differently about the design of Phase I -- of the 9805 Phase I and perhaps some patient prioritization there? Or will it be similarly broad? And I guess when might be the earliest opportunity is to potentially look at combinations with the rationale (inaudible) ?
+
+--------------------------------------------------------------------------------
+Mark A. Goldsmith,  Revolution Medicines, Inc. - CEO, President & Chairman    [26]
+--------------------------------------------------------------------------------
+Yes. Eric, thanks for your question. Look, the KRAS G12D bearing cancer population is enormous, and the needs are very deep, as you know. And so the demand to evaluate an investigational new drug, particularly compounds like RMC-6236 and 9805 that's clearly shown very propelling preclinical profiles, is very high and enthusiasm for continuing to enroll patients for RMC-6236 remains extremely high among investigators, and we can't provide a number of slots that people want.
+That's just the reality. We tried to communicate that over the last number of months, but it continues to be the case that there is just very high demand, and we can't meet that demand really during the dose escalation study. So there are -- there's a large number of patients, an enormous number of patients who just aren't even having the opportunity right now to evaluate for themselves the  potential impact of 6236.
+So I don't think we're going to need to do anything special in the clinical trial. We'll open it up as a typical Phase I dose escalation with the sorts of bells and whistles we typically include in that sort of thing. And we'll get to that information as quickly as possible. I think our development organization has been extraordinarily effective at accessing all of clinical sites, patients serving them well and generating data. So I think that's going to go just as swiftly as it's gone for 6236 and 6291.
+
+--------------------------------------------------------------------------------
+Operator    [27]
+--------------------------------------------------------------------------------
+And I show our next question comes from the line of Jonathan Chang from Leerink Partners.
+
+--------------------------------------------------------------------------------
+Jonathan Chang,   -     [28]
+--------------------------------------------------------------------------------
+Thanks for taking the follow-up. What data has EQRx seen?
+
+--------------------------------------------------------------------------------
+Mark A. Goldsmith,  Revolution Medicines, Inc. - CEO, President & Chairman    [29]
+--------------------------------------------------------------------------------
+Yes, Jonathan, that's not an unexpected question. We can't give you the detail of that. But I can assure you that neither company would have entered into this transaction, committed to this transaction without doing full and proper confidential diligence on the other party. And that happens, it was bilateral diligence on multiple levels within the -- between the 2 companies and under confidentiality.
+And clearly, the EQRx management team and Board of Directors feel compelled about the opportunity that they see. And likewise, we feel compelled about the opportunity that we see to enhance our programs. So I think that's sort of the best way I can put it.
+
+--------------------------------------------------------------------------------
+Operator    [30]
+--------------------------------------------------------------------------------
+(Operator Instructions) A question from Mr. Ben Burnett from Stifel.
+
+--------------------------------------------------------------------------------
+Benjamin Jay Burnett,  Stifel, Nicolaus & Company, Incorporated, Research Division - Associate     [31]
+--------------------------------------------------------------------------------
+I just want to ask a follow-up question. Is there any color you can give around the types of data that's meant by supporting clinical data at the Triple relative to what we should expect at the ESMO day, which I think you gave a lot of color on? But I guess what's kind of meant by the sort of supporting clinical data?
+
+--------------------------------------------------------------------------------
+Stephen M. Kelsey,  Revolution Medicines, Inc. - President of Research & Development    [32]
+--------------------------------------------------------------------------------
+It's mainly the nuts and bolts of the dose escalation, the safety, tolerability, PK, ctDNA data. We will almost certainly attempt to answer the question though [we're going to announce] once today the data that we've declined to answer on these conference calls, which is how is the exposure in the patients at the higher doses correlate with the 25 milligrams per milligram daily (inaudible). It's not a simple thing to answer, but I think we can do it in the context of a scientific presentation.
+And then the follow-up -- the presentation at ESMO, the following week focuses largely on efficacy. And the sheer might of the data forced us to split those presentations into 2 presentations rather than attempt to cabin all into one. It's clearly a pragmatic solution to the weight of data that we've accumulated.
+
+--------------------------------------------------------------------------------
+Operator    [33]
+--------------------------------------------------------------------------------
+Thank you. I show no further questions at this time. I'll now turn the call to Mark for a few closing remarks.
+
+--------------------------------------------------------------------------------
+Mark A. Goldsmith,  Revolution Medicines, Inc. - CEO, President & Chairman    [34]
+--------------------------------------------------------------------------------
+Well, thank you again for joining us today. In summary, the deal we announced today represents a unique opportunity for Revolution Medicines to acquire a sizable quantum of capital in a single transaction at a competitive cost. It will further empower the advancement of an important set of oncology assets and help us realize our vision as a self-sufficient organization with the fortitude to discover and develop pioneer and high-impact targeted medicines with the goal of delivering these on behalf of cancer patients.
+All of us at Revolution Medicines are excited about our future and we look forward to providing you with updates on our progress. Thank you very much.
+
+--------------------------------------------------------------------------------
+Operator    [35]
+--------------------------------------------------------------------------------
+This concludes today's conference call. Thank you for participating. You may now disconnect.
+
+
+
+
+
+
+
+--------------------------------------------------------------------------------
+Definitions
+--------------------------------------------------------------------------------
+PRELIMINARY TRANSCRIPT: "Preliminary Transcript" indicates that the 
+Transcript has been published in near real-time by an experienced 
+professional transcriber.  While the Preliminary Transcript is highly 
+accurate, it has not been edited to ensure the entire transcription 
+represents a verbatim report of the call.
+
+EDITED TRANSCRIPT: "Edited Transcript" indicates that a team of professional 
+editors have listened to the event a second time to confirm that the 
+content of the call has been transcribed accurately and in full.
+
+--------------------------------------------------------------------------------
+Disclaimer
+--------------------------------------------------------------------------------
+Refinitiv reserves the right to make changes to documents, content, or other 
+information on this web site without obligation to notify any person of 
+such changes.
+
+In the conference calls upon which Event Transcripts are based, companies 
+may make projections or other forward-looking statements regarding a variety 
+of items. Such forward-looking statements are based upon current 
+expectations and involve risks and uncertainties. Actual results may differ 
+materially from those stated in any forward-looking statement based on a 
+number of important factors and risks, which are more specifically 
+identified in the companies' most recent SEC filings. Although the companies 
+may indicate and believe that the assumptions underlying the forward-looking 
+statements are reasonable, any of the assumptions could prove inaccurate or 
+incorrect and, therefore, there can be no assurance that the results 
+contemplated in the forward-looking statements will be realized.
+
+THE INFORMATION CONTAINED IN EVENT TRANSCRIPTS IS A TEXTUAL REPRESENTATION
+OF THE APPLICABLE COMPANY'S CONFERENCE CALL AND WHILE EFFORTS ARE MADE TO
+PROVIDE AN ACCURATE TRANSCRIPTION, THERE MAY BE MATERIAL ERRORS, OMISSIONS,
+OR INACCURACIES IN THE REPORTING OF THE SUBSTANCE OF THE CONFERENCE CALLS.
+IN NO WAY DOES REFINITIV OR THE APPLICABLE COMPANY ASSUME ANY RESPONSIBILITY FOR ANY INVESTMENT OR OTHER
+DECISIONS MADE BASED UPON THE INFORMATION PROVIDED ON THIS WEB SITE OR IN
+ANY EVENT TRANSCRIPT. USERS ARE ADVISED TO REVIEW THE APPLICABLE COMPANY'S
+CONFERENCE CALL ITSELF AND THE APPLICABLE COMPANY'S SEC FILINGS BEFORE
+MAKING ANY INVESTMENT OR OTHER DECISIONS.
+--------------------------------------------------------------------------------
+Copyright 2023 Refinitiv. All Rights Reserved.
+--------------------------------------------------------------------------------

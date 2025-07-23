@@ -1,0 +1,336 @@
+
+
+Refinitiv StreetEvents Event Transcript
+E D I T E D   V E R S I O N
+
+Equillium Inc to Discuss the Acquisition of Bioniz Therapeutics - M&amp;A Call
+FEBRUARY 16, 2022 / 1:00PM GMT
+
+================================================================================
+Corporate Participants
+================================================================================
+
+ * Bruce Steel
+   Equillium, Inc. - CEO
+ * Stephen Connelly
+   Equillium, Inc. - Chief Scientific Officer
+ * Matt Ritter
+   Equillium, Inc. - VP of Corporate Development
+
+================================================================================
+Conference Call Participiants
+================================================================================
+
+ * Brian Cheng
+   Cantor Fitzgerald - Analyst
+ * Prakhar Agrawal
+   Jones Trading - Analyst
+ * Dae Gon Ha
+   Stifel Nicolaus - Analyst
+
+================================================================================
+Presentation
+--------------------------------------------------------------------------------
+Operator    [1]
+--------------------------------------------------------------------------------
+Welcome and thank you for joining us this morning for Equillium's announcement of the acquisition of Bioniz Therapeutics. Presenting from the company this morning are Mr. Bruce Steel, Chief Executive Officer of Equillium, and Dr. Stephen Connelly, Chief Scientific Officer of Equillium; Mr. Jason Keyes, Chief Financial Officer; and Dr. Matt Ritter, Vice President of Corporate Development, will also join for the Q&A following the presentation.
+Before we begin I would like to remind you that any statements made during this call that are not historical are considered to be forward-looking statements within the meaning of the Private Securities Litigation Reform Act of 1995.
+Actual results may differ materially from those indicated by these statements as a result of various important factors. This includes those discussed in the Risk Factors section in the company's most recent annual report on Form 10-K as well as other reports filed with the SEC.
+I'll remind you that this call is being recorded and the replay will be available on the company's website following the conclusion of the call. And with that I'm pleased to turn the call over to Mr. Bruce Steel, Chief Executive Officer for Equillium. Go ahead, Mr. Steel.
+
+--------------------------------------------------------------------------------
+Bruce Steel,  Equillium, Inc. - CEO    [2]
+--------------------------------------------------------------------------------
+Thank you very much. Good morning, everybody. We're very pleased to be here this morning to introduce you to our acquisition of Bioniz Therapeutics. I'd like to say that when we started the company, roughly 4.5-5 years ago, our vision was to build a substantive and self-sustaining company to deliver novel therapeutics that could significantly improve the lives of patients suffering from severe autoimmune inflammatory diseases.
+Our vision was to launch the company around our foundational asset itolizumab, and then build a team of capability that could support that vision for a sustainable company going forward. The Bioniz acquisition this morning is a realization of the next step of this strategy. And we're very pleased to introduce you to the company, its products and the underlying platform.
+First, I'd like to thank all of the individuals involved on this transaction, including my colleagues here at Equillium, the legal firms and, importantly, the teams at Bioniz including Dr. Nazli Azimi, the Founder and CEO of Bioniz Therapeutics. We'll be covering a lot of information including forward-looking statements. I will refer you to review our forward-looking statements page in detail.
+We are thrilled with the acquisition that we're announcing this morning. In Bioniz we are acquiring a pipeline of first-in-class multi-cytokine inhibitors as well as a very robust product discovery platform. We are acquiring two clinical phase assets targeting inflammatory disease drivers that are well validated and of high value and priority. We have acquired exclusive worldwide rights to all of the Bioniz assets with this acquisition.
+BNZ-1, the company's lead program, is an IL-2, 9 and 15 antagonist that has achieved clinical proof of concept in cutaneous T-cell lymphoma's, CTCL. This program has open INDs in both CTCL where it is Phase 2/3 ready, as well as in alopecia areata where it is Phase 2 ready. the program has demonstrated a favorable safety and tolerability profile and proof of concept in terms of drug activity in CTCL patients.
+BNZ-2, the company's second clinical stage program, is an anti-IL-15/21 targeted asset directed at G.I. diseases. This program is Phase 1 ready, and our intention is to evaluate this program in patients with celiac disease as part of that initial Phase 1 study to achieve proof of concept, and then follow with other G.I. indications.
+Underneath this is a highly novel product discovery platform that presents significant opportunities for us going forward to both generate novel, high value added new products, as well as open up a range of potential strategic partners and activity. So, we're very excited to be bringing on an underlying product engine that gives us a lot of opportunities to take forward.
+In terms of high-level transaction details, we were able to accomplish this acquisition with no cash upfront through an all equity transaction for the closing consideration, which included 5.699 million Equillium shares, approximately 19.3% of our shares outstanding.
+In addition, there is a back ended contingent value package of up to $57.5 million in development milestones. It's important to note that this covers three clinical programs, BNZ-1, BNZ-2 and our advanced preclinical program BNZ-3 upon first US approval. So, no payments are owed until the first drug approval and then up to $259 in commercial revenue milestones. Also important to note these are backend loaded starting the calendar year revenue beginning at $500 million.
+So again, to highlight, no payments until first US approval and, importantly, no other third-party obligations other than those just outlined, including no royalties.
+So, we're adding the pipeline of clinical stage first-in-class assets targeting validated disease drivers in a novel product discovery platform. We believe this has the potential to drive significant value going forward as we diversify our overall pipeline, but continue to hold true to our desire to develop novel programs that can deliver very high value to patients. This substantially increases our near- and mid-term milestones from the company from a clinical development standpoint.
+And important to note that this is very complementary in terms the biology as well as the therapeutic areas that we are targeting with itolizumab in our development programs there. And again, this is a clinically validated approach with proof of concept data in hand.
+The novel discovery platform produces structured domain peptides that I'll let Steve discuss in more detail that are selected multi-cytokine inhibitors. This is very important as we've come to better understand the highly complex nature of our immune system and the fact that, in many cases, targeting individual cytokines is insufficient to address the underlying disease that patients are suffering from. And therefore a broader approach is typically needed.
+And we do feel that over time the field of autoimmune inflammation will be moving towards more multi-targeted pathway inhibition, not unlike what we've seen in the field of oncology. And so, we think this is a better approach than single targeted biologics and, importantly, one that we think and deliver a better safety and tolerability profile than less selective approaches and in more broad immunosuppression approaches such as what was observed with the class of JAK inhibitors.
+So, we think the Bioniz program is a platform that has the ability to attenuate disease in a manner that is balanced from an efficacy and safety standpoint. And again, our focus is on the inflammatory indications -- autoimmune and inflammatory indications of high unmet need where today there are few to no approved therapeutics.
+In addition, this acquisition brings some very deep medical and scientific expertise to the company, particularly to oversee the Bioniz programs going forward, so that we can move quickly and efficiently in advance of these programs into further clinical development.
+So again, to highlight, we are now adding a very deep pipeline and a very strong team to oversee these programs going ahead. We will be bringing on six employees to the R&D organization, so a very modest incremental burn. And it's also worth noting that these programs currently have no -- effectively no burn rate associated with them, so we have complete control over the timing and how we accelerate these programs into further clinical development.
+Importantly, Dr. Alexandre Kaoukhov, a medical doctor, dermatologist, with over 20 years of experience in the sector, will be coming on as Senior Vice President of Clinical Development overseeing the Bioniz assets. Dr. Kaoukhov comes from previously Almirall where he was Head of Global Clinical Development and, prior to that, Allergan where he was Head of Medical Dermatology. So, we're very thrilled to have Dr. Kaoukhov joining the company to continue to oversee the Bioniz assets going forward.
+In terms of the snapshot of our pipeline, we now have a company with three clinical stage assets as well as a pipeline underneath that of preclinical programs. We continue to have a very high degree of focus and prioritization on itolizumab, our lead and foundational program -- our novel anti-CD6 antibody that is in the acute graft versus host disease first-line treatment setting poised to launch our Phase 3 pivotal study imminently.
+Behind that is our ongoing lupus nephritis program where we have announced we have interim data expected in mid-year 2022. It's important to note that we do have fast-track and orphan drug designations in the acute GVHD and fast-track designation in the lupus nephritis programs.
+Now going forward our pipeline will include BNZ-1 with a focus on developing this in the Phase 2 study for alopecia areata. We expect that study initiation to occur during the second half of 2022. And then BNZ-2 with our Phase 1 study, which will include proof of concept evaluation n celiac disease patients, also expected to initiate in the second half of 2022. We look forward to continuing under Steve's leadership to advance the preclinical programs to a state of readiness for clinical development.
+At this point, we will be turning the conversation over to Dr. Steve Connolly, my Co-Founder and colleague here at Equillium, and -- Steve?
+
+--------------------------------------------------------------------------------
+Stephen Connelly,  Equillium, Inc. - Chief Scientific Officer    [3]
+--------------------------------------------------------------------------------
+Thanks, Bruce, and good morning to everyone who's joined. So, I'm excited today to give an overview of the acquired Bioniz assets though we that we think address some challenges in therapeutic targeting, but also highlight some of the areas of high unmet medical need we aim to address and how we aim to create value for both stakeholders and, perhaps more importantly, patients.
+Next slide. So, let's dive straight into it and talk about the novel (technical difficulty) that Bioniz developed to address the limitations of single targeted biologics and broadly immunosuppressive therapies like the JAK inhibitors through these peptide based multi-cytokine inhibitors. How does this work?
+So, essentially by targeting validated biology and disease pathways and leveraging the in-house expertise in immunology in cytokine biology, Bioniz identified motifs in common cytokine chains which they believe were able to be targeted by peptides. And this is important because many of these pockets that exist are inaccessible to antibodies and small molecules couldn't deliver the type of selectivity that these peptides can garner.
+And so, using [in silico] computational modeling, the design of candidate peptides and analyzing the structure activity relationships combined with machine learning, they were able to optimize the binding of this new class of peptides that inhibits different combinations of cytokines tailored to different diseases that exploits the redundancy or synergy that exists in cytokine biology. And so, perhaps what's more important here is I can highlight through a video how this technology works.
+(video playing)
+So, let's dive in now and talk about the acquired assets. So, starting on the left-hand side we have BNZ-1, so this is a pegylated peptide that inhibits IL-2, 9 and 15, three inflammatory cytokines important to disease. But perhaps worth noting is IL-2 and IL-15, two cytokines that are important and have perhaps redundant and overlapping functions in terms of proliferation of pathogenic CD8 cytotoxic cells and natural killer cells.
+And these cells are important for cutaneous T-cell lymphoma, alopecia areata, vitiligo, rheumatoid arthritis, myositis and interstitial lung disease. And BNZ-1 is currently administered by intravenous injection with a subcutaneous delivery in development.
+So, to the right of that BNZ-2. This is also a pegylated peptide, but this targets IL-15 and IL-21, two cytokines that actually synergize in the context of TMB cell biology and are very important for the pathogenesis for celiac disease, inflammatory bowel disease, lupus, hepatic disease and type I diabetes. And this product is actually administered by subcutaneous injection. On the far right-hand side the platform we'll come back to a little bit later.
+Next slide. So, let's go deeper into BNZ-1, this first-in-class tri-specific cytokine inhibitor. On the right-hand side you can see a schematic that highlights that the BNZ-1 peptide inhibits IL-2, 9 and 15, but doesn't inhibit IL-4, 7 and 21. And IL-2 and 15, as I pointed out previously, are really important in terms of their activities to both cytotoxic CD8 and NKT cells, while IL-9 contributes to inflammation.
+BNZ-1 has been validated in a number of preclinical models. For instance, it was shown to be as good as an anti-IL-2 and anti-IL-15 mAB combination while inhibiting anti-IL-2 and anti-IL-15 T-cell proliferation. And in fact, this was also shown in a number of lymphoproliferative and leukemic T-cell lines that drove this into the cutaneous T-cell lymphoma space. But more recently BNZ-1 has been shown to be more effective than ruxolitinib or an anti-IL-2 anti-IL-15 combination in a mouse model of alopecia areata.
+Bioniz took this forward in a Phase 1 SAD clinical trial in normal healthy volunteers, and here they were able to demonstrate dose-dependent PK/PD relationships with key cellular markets and this drug was also safe and well tolerated.
+Next slide. So, with that in hand, Bioniz took this forward in a Phase 1/2 proof of concept study in cutaneous T-cell lymphoma. And in cutaneous T-cell lymphoma IL-2, 9 and 15 are important in driving the cancer cell proliferation and increased inflammation within the (inaudible). And this Phase 1/2 MAD study in CTCL treated heavily pretreated population, so a median of five prior systemic treatments.
+And here they showed a dose-dependent PK/PD relationship in cellular markets that the drug was safe, well tolerated with no drug-related SAEs, no DLTs and no clinically significant lab borne abnormality. They also showed dose-dependent reductions in IL-2 and IL-15 dependent cells concurrent with improvements in what we consider the mSWAT, the modified severity weighted assessment tool, and you can see the study design below.
+Next slide. So, what did they see? Well, BNZ-1 is clinically validated in severe dermatological disease. And the MAVORIC trial evaluating mogamulizumab and vorinostat provides the most recent reliable estimates for benchmarking BNZ-1. So, in the table you can see on the far right-hand side BNZ-1, treating 19 patients, showed an ORR or and mSWAT of 42.1% compared to mogamulizumab which was 27.9%.
+You can also see below that the pictures are rather compelling if you look at the baseline through the concurrent treatment of these patients in the resolution of many of these quite severe lesions on the skin.
+Next slide. So, BNZ-1 has passed clinical proof of concept and sets up indication expansion and Equillium aims to prioritize a Phase 2 in alopecia areata with the potential to target multiple follow-on indications with significant unmet medical need.
+So, why alopecia areata? So, on the right-hand side you can see a schematic showing what are the key areas and key pathways for pathogenesis in alopecia areata. IL-2 and IL-15 driving the cytotoxic CD8 or NK cells that cause follicular destruction, as well as IL-9 that drives local inflammation at the site. So, BNZ-1 is really tailor-made to address this.
+Alopecia areata is an attractive commercial opportunity with over 300,000 addressable patients in the US and concurrently no approved therapies. While JAK inhibitors validate target biology, they may be limited moving forward by class safety concerns.
+And so, with an IND open, a Phase 2 ready -- a Phase 2 study is planned to be initiated in the second half of 2022. And from a future potential indication perspective, we could reconsider CTCL, inflammatory monocytes and interstitial lung diseases as areas where we believe there significant unmet medical need and value to be created.
+Next slide. So, let's switch gears and talk about BNZ-2, this first-in-class dual cytokine inhibitor targeting G.I. inflammation. So, on the right-hand side you can see that BNZ-2 peptide inhibits IL-15 and IL-21, but doesn't inhibit IL-2, 4, 7 or 9. It's important to note that IL-15 and IL-21 work together driving G.I. inflammation in celiac disease and inflammatory bowel disease patients. IL-15 and IL-2 also modulate both T and B cell biology.
+BNZ-2 has been shown to inhibit this important biology in multiple preclinical models. For instance, BNZ-2 was shown to inhibit the IL-15 and IL-21 induced signaling pathways and celiac patient derived inter-epithelial cytotoxic T lymphocytes, as well as the genes associated with pathogenesis in patient derived organoid cultures that were key to this tissue destruction.
+BNZ-2 has also been shown to protect against intestinal tissue damage in a humanized mouse with G.I. inflammation, highlighting the importance of tackling both IL-15 and IL-21. In a study in primates BNZ-2 had shown on target dose-dependent decreases in CD8 affected T cells and B cell activity.
+Next slide. So, I want to take a moment to highlight the importance of this dual action that provides an advantage of BNZ-2 in treating celiac disease. So, we know that the elevated levels of IL-15 and IL-21 synergistically drive the T and B cell responses culminating in tissue damage in celiac patients. And that maximal effect is only achieved when inhibiting both of these cytokines in an animal model.
+So, you can see below on the left is a schematic of healthy gut epithelium that, when exposed to IL-15 or IL-21, you see activation of these auto reactive CD8 intraepithelial cytotoxic lymphocytes, and the activation and productivity of B cells and autoantibodies that come together to create an inflammatory response in the epithelial layer leading to cell death and villous atrophy.
+On the right-hand side what clearly illustrates this need to tackle this synergistic activity is that if we take intraepithelial cytotoxic cells and look at the levels of granzyme B expression and expose that to IL-15 and IL-21, you can see in the blue bar on the left there you see the overexpression of granzyme B genes.
+When you use either an anti-IL-15 or an anti-IL-21 mAB in the green and purple respectively, you can see it provides some benefit, about 50% reduction in the granzyme B levels, but clearly not as good as if you add an anti-IL-21 and an anti-IL-15 together, or you add BNZ-2 which antagonizes IL-15 and IL-21 together.
+So, this is really important and highlights the need to tackle the synergistic relationships of cytokines. And perhaps another important example of this could be Dupixent where blocking IL-4 and IL-13 are really important in attenuating the disease.
+Next slide. So, with BNZ-2 poised for clinical advancement, we aim to take this forward in celiac disease. We believe this to be a differentiated asset in the G.I. space in addressing these key inflammatory drivers of IL-15 and IL-21. We aim to initiate a Phase 1 SAD/MAD study with a planned proof of concept read in patients with celiac disease in the second half of 2022. And building on the BNZ-2 biology, BNZ-3, an orally administered stabilized peptide, is currently under development.
+So, coming full circle back to the platform, this is a flexible structural based peptide discovery technology that enables the development of a wide range of agents, including additional gamma(c) targeted cytokine inhibitors, second-generation products such as fusion molecules or stabilized molecules. You could actually target receptor agonists perhaps to activate pathways for use in oncology applications.
+And currently under development is an orally administered local acting peptide for G.I. disease based on the BNZ-2 biology. We could also use this platform to target other common receptor families like gp130 that includes IL-6, or perhaps even use multivalent inhibitors to bridge biology. So, we think this platform has long-term value to the company and, as we move forward, we hope to provide updates on preclinical development. Bruce?
+
+--------------------------------------------------------------------------------
+Bruce Steel,  Equillium, Inc. - CEO    [4]
+--------------------------------------------------------------------------------
+Thank you, Steve. I think with that detailed description of the programs and the platform, hopefully you can see why we're very excited about taking these programs forward. So, as you look to our combined catalysts and upcoming milestones, first and foremost we have the initiation of our Phase 3 pivotal study in the first-line treatment of acute GVHD. That is an eminent study launch, so we'll be having more details on that shortly.
+Again, the interim data from our Phase 1b equalize study in lupus nephritis patients with interim data expected midyear this year. And then as we've outlined, the initiation of the Phase 2 study in alopecia areata during the second half with BNZ-1, and the initiation of the Phase 1 study in celiac disease with BNZ-2 also in the second half of 2022 rather.
+Okay, key takeaways. Itolizumab remains a top priority. This has been our focus at the company since we founded it several years ago and remains a very high priority for us and a key value driver. With the acquisition we now significantly broaden out the breath and scope of the company, adding significant value driving near and midterm milestones in front of us from a clinical development standpoint.
+And as we discussed, we think there is a significant unmet need across not only therapeutic areas but also just the approach that we have seen has fallen short with more focused biologics, as well as with JAK inhibitors as a class having significant setbacks really across all the programs that we think over the near- to longer-term provides a very strong opportunity for programs such as BNZ-1 and BNZ-2 going forward.
+Again, in terms of the overall deal structure, this was all stock in terms of upfront consideration. It's important to also note that almost the entirety of that stock grant will be subject to a six-month full lockup, these are unregistered shares, and then ratably released monthly over at the following six months. So, very well managed distribution of the upfront consideration.
+Up to $57.5 million in potential development milestone payments across BNZ-1, BNZ-2 and BNZ-3 with the first payment under this schedule not due until first US approval. And then up to $250 million in total sales milestones related just to BNZ-1 on a calendar year revenue basis starting at $500 million and then at $1 billion, $1.5 billion and $2 billion respectively. So, very modest back end loaded milestone schedule.
+Again, worldwide rights to the platform and all assets with no royalties and sole discretion over the timing and expansive development of the Bioniz products. These products come with a strong intellectual property portfolio covering the assets as well as the platform with very good half-life.
+And importantly, as mentioned, we're not taking on any significant existing burn associated with the acquisition. We do have a modest incremental, obviously, increase in expense with key employees that are coming over with the acquisition. But very modest impact to the near term burn rate and runway.
+I'd like to thank everybody for listening in this morning. We are obviously thrilled with the completion of this acquisition and really sets the stage that is very consistent with our longer-term vision of building a very substantial company pursuing novel therapeutics to deliver high value to patients and, in so doing, to all of our stakeholders. With that I think we can open it up to Q&A.
+
+
+================================================================================
+Questions and Answers
+--------------------------------------------------------------------------------
+Operator    [1]
+--------------------------------------------------------------------------------
+(Operator Instructions) Brian Cheng, Cantor Fitzgerald.
+
+--------------------------------------------------------------------------------
+Brian Cheng,  Cantor Fitzgerald - Analyst    [2]
+--------------------------------------------------------------------------------
+Congrats on the acquisition. I have a couple on BNZ-1. So, the topside has demonstrated signs of efficacy in CTCL and Bioniz had previously planned to start the Phase 1 in relapse refractory CTCL. Can you provide a bit more color on why you are picking alopecia as the prioritize indication for BNZ-1? And are you planning to start Phase 2 with the IV formulation? And I have two follow-ups. Thanks.
+
+--------------------------------------------------------------------------------
+Stephen Connelly,  Equillium, Inc. - Chief Scientific Officer    [3]
+--------------------------------------------------------------------------------
+Great question. So, I think the Phase 1/2 that Bioniz completed in CTCL really provided great proof of concept for the molecule. The mechanism is very aligned in terms of attacking the pathogenesis and I think that the results they saw were quite compelling.
+I think for the CTCL space there have been a number of new molecules either in development or, more importantly, mogamulizumab that was approved but it's actually showing very strong data there. So, I guess the question is where does the company think about creating the most value?
+And I think what we've decided internally along with our Bioniz colleagues is that moving forward in alopecia areata, where we believe the biology is also very well matched, has the opportunity to create value -- more value for the company and perhaps in a nearer-term timeframe.
+Now this doesn't preclude us potentially moving forward in the future, given that this would be Phase 2/3 ready in CTCL. But I think for now really we see a bigger opportunity for the company, stakeholders and patients to move forward in alopecia areata.
+
+--------------------------------------------------------------------------------
+Brian Cheng,  Cantor Fitzgerald - Analyst    [4]
+--------------------------------------------------------------------------------
+Got it. And you think that BNZ-1, having tested in GVHD mouse models before, has shown some signs of efficacy there. I'm just curious how you think about BNZ-1's potential in GVHD. Just any potential combination with what you are working on with itolizumab in the future in GVHD?
+
+--------------------------------------------------------------------------------
+Stephen Connelly,  Equillium, Inc. - Chief Scientific Officer    [5]
+--------------------------------------------------------------------------------
+Yes, also another great question and something that we give a lot of thought to in the company that plays a big role in terms of strategic acquisitions, which is we want to build a pipeline of assets that are complementary. But also noting that we do believe the field of autoimmune and inflammatory disease will need to move to combinations to really raise the bar of efficacy.
+Outside of diseases like psoriasis, we really haven't hit the ORRs, the CRs or whatever the metric you use, that really can consider those diseases well tackled. And I think GVHD is going to be no different. I believe itolizumab could be a very compelling and powerful agent there. But with some of the activities that you see with BNZ-1, this could also have utility there be it alone or in combination.
+So, we will stagger and align our portfolio of clinical trials appropriately, but also keeping in mind where we think there could be potential for combinations where we think this could create a scenario where these molecules outperform the individual agents themselves. So, that's going to take some time, it's going to take some work. But it's something we are very focused on in terms of long-term thinking.
+
+--------------------------------------------------------------------------------
+Bruce Steel,  Equillium, Inc. - CEO    [6]
+--------------------------------------------------------------------------------
+And just wanted to also (multiple speakers) part two of the question on alopecia areata. So, this was initially developed as an IV delivery formulation that is obviously ready to go. IND is open. The study is designed to give a definitive proof of concept in that patient setting.
+Obviously from a commercial standpoint you would want a subcutaneous delivery such as in a prefilled syringe or autoinjector from a commercial standpoint. So, we do have, or the company does have several formulations in advanced development on the subcu side that would then follow into more advanced development and obviously into the commercial setting. So, I just want to make sure we answered that question.
+And as Steve mentioned, we think CTCL is a very viable indication. I think in discussions they had with the agency, they have support to move ahead with a Phase 3 study. I think the question is really one of commercial positioning and where you'd want to evaluate this next. And we'll be giving more thought to that in the near future as we onboard the programs and the Bioniz team.
+
+--------------------------------------------------------------------------------
+Brian Cheng,  Cantor Fitzgerald - Analyst    [7]
+--------------------------------------------------------------------------------
+Thanks, Bruce. Maybe just one question on the IP. Can you talk about when the composition of matter expires for BNZ-1 and BNZ-2?
+
+--------------------------------------------------------------------------------
+Bruce Steel,  Equillium, Inc. - CEO    [8]
+--------------------------------------------------------------------------------
+Yes, I'll turn that over to Dr. Matt Ritter who heads up our business development activity.
+
+--------------------------------------------------------------------------------
+Matt Ritter,  Equillium, Inc. - VP of Corporate Development    [9]
+--------------------------------------------------------------------------------
+So, with respect to BNZ-1, we have composition of matter claims, methods of use that are expected to have the earliest expiries in the 2032 time period. bmv2 we expect the earliest expiries to be later, 2036. There are also claims around the platform and the discovery engine from which we hope to realize additional value through two more products that are coming down the pipe.
+
+--------------------------------------------------------------------------------
+Bruce Steel,  Equillium, Inc. - CEO    [10]
+--------------------------------------------------------------------------------
+And obviously there's potential for patent life extension on those expertise expiries.
+
+--------------------------------------------------------------------------------
+Operator    [11]
+--------------------------------------------------------------------------------
+Tom Smith, SVB Leerink.
+
+--------------------------------------------------------------------------------
+Unidentified Audience Member    [12]
+--------------------------------------------------------------------------------
+This is Matt on for Tom. Congratulations on the deal. So, two questions from me. The first one, what's the timeline for the subcu formulation for BNZ-1 and what's the gating factor for the development? And I have a follow-up.
+
+--------------------------------------------------------------------------------
+Stephen Connelly,  Equillium, Inc. - Chief Scientific Officer    [13]
+--------------------------------------------------------------------------------
+Sure, so the subcu development is currently underway. We are aiming to have that ready at the end of a proof of concept trial with the IV in alopecia areata. So, one would envisage a scenario where we can finish up a proof of concept [through] the IV and then a subcutaneous formulation could be bridged into that as part of ongoing Phase 2 development.
+
+--------------------------------------------------------------------------------
+Bruce Steel,  Equillium, Inc. - CEO    [14]
+--------------------------------------------------------------------------------
+It's worth noting though that there are other indications, including CT sale, that we think are very commercially viable with the IV formulation that is in hand.
+
+--------------------------------------------------------------------------------
+Unidentified Audience Member    [15]
+--------------------------------------------------------------------------------
+Got it. And with the around $91 million of cash at the end of Q3, how do you intend to fund these clinical programs and what is the expected cash burn? And you have multiple trials running by the second half of 2022.
+
+--------------------------------------------------------------------------------
+Bruce Steel,  Equillium, Inc. - CEO    [16]
+--------------------------------------------------------------------------------
+I didn't hear the very end of that necessarily that clearly, but I think I understood the question. So, very modest incremental burn over the course of 2022 with increasing spend as these programs get more fully into the clinical development programs. Look, we, like every other biotech company, are very focused on utilization of resources, both human and capital. And we'll be, I think, opportunistic as we think about fundraising going forward.
+But we're in a very good cash position today with no immediate need for financing. As mentioned earlier, we're not taking on any significant burn rate associated with the acquisition today, so it gives us quite a bit of flexibility as we think about next steps and how aggressively to move programs forward with the BNZ asset base.
+
+--------------------------------------------------------------------------------
+Operator    [17]
+--------------------------------------------------------------------------------
+Dae Gon Ha, Stifel.
+
+--------------------------------------------------------------------------------
+Dae Gon Ha,  Stifel Nicolaus - Analyst    [18]
+--------------------------------------------------------------------------------
+Congrats from our end as well. One quick housekeeping question and then two, if I may. On the housekeeping front, on the catalyst update the aGVHD study is stated as starting imminently. So, can you remind us what's sort of leftover procedures or steps before we can see that get underway?
+The second question, and I apologize if this is very naïve, but looking at the gamma chain targeting, recognizing there are a lot of platforms out there that go after undruggable targets as well as very selective targeting of its targets, for lack of a better word. I guess how should we think about the overall selectivity, if you will, given that JAK is in that downstream path, if you will?
+And so, I guess, do you have any data to really vanquish, if you will, any concerns about blood clots or any other JAK inhibitor type effects that were shown in larger trials?
+And then thirdly, as we think about your various programs that you now have under your belt, how are you thinking strategically? I mean, are these all commercial areas that you can pursue alone? Or is this just creating optionality as you think about partnering opportunities in various areas of immuno-inflammatory indications? Thanks.
+
+--------------------------------------------------------------------------------
+Bruce Steel,  Equillium, Inc. - CEO    [19]
+--------------------------------------------------------------------------------
+Great questions. Thanks for joining us this morning. And let me try and address maybe the first and third and then Steve can speak to the middle question. So, in terms of the GVHD initiation, I'd say no real open items. We'll see the [FEN] trials update sometime quite soon that will precipitate study initiation that we expect within the next month or so.
+So, that is -- nothing remaining in terms of launching that study. We are highly active with site engagement right now so that we will be open for enrollment on that quite soon.
+In terms of commercial launch, some of these indications, obviously, will require more resources than others to launch. Clearly orphan indications such as acute GVHD or CTCL would typically be something that smaller biotech companies can easily launch and manage on their own. That's why we are, obviously, excited about the orphan aspect of our development plan and strategy.
+I think the larger indications -- I think what we have seen over the last decade or so is that there are resources available for companies to go it alone in these bigger indications. To the extent that you're developing novel therapeutics that have a significant impact on patient outcomes, we've seen that there typically is capital available to support those go-it-alone strategies.
+So, I think it's a little bit premature right now to make a call on exactly how we would commercialize these programs, whether on our own or in partnership with bigger strategic biopharma companies. We'll sort of see how that plays out. But certainly we think creates a high degree of optionality for us going forward with now not one but three different clinical stage assets.
+The ability with the product engine that is coming onboard to develop more clearly provides a very interesting set of assets and platforms for strategic partnering discussions that we now continue to turn our sites more on the outbound side of our business development activities where, over the last year plus, we've been very focused on the inbound side of our BD activities.
+I know Matt is quite excited about the ability now to go out and tell the story about the company that is significantly different now than we were a couple days ago.
+
+--------------------------------------------------------------------------------
+Stephen Connelly,  Equillium, Inc. - Chief Scientific Officer    [20]
+--------------------------------------------------------------------------------
+Yes, perhaps I can address the second question there. So, your question is what is the data supporting the selectivity here and how confident are we in that this type of approach could give you the right efficacy without perhaps the downside of broad immunosuppression, or perhaps even off-target effects that may be happening with the JAK class.
+So, I always say biology is real humbling, right. It's very complex. There are more proteins than genes, there are more proteins than signaling pathways and there are very few master kinases out there that sort of funnel a lot of the signaling. So, the key is how do you just block the signaling of the pathogenic cytokines and not block the other cytokine activity? So, sitting in between the single cytokine targeted therapies and these broad master kinase switches.
+What we know is that this biology actually came out of NIH and is well published. So, I defer you to paper that we can certainly follow up on, which is the [MATA] paper, which I think is 2015.
+And there they very elegantly show that using structural biology you can actually design peptides that mimic the cytokine helices of all of those cytokines and tune it so that you can inhibit just certain cytokines over others. So, I think in that paper you'll find a very elegant illustration of how this can be done and how the selectivity can be trimmed.
+So, to the second part of that question is how confident are we that we are actually delivering a better safety profile. So, in the toxicology experiments, the normal healthy volunteer experiments, and then also the CTCL trials, this actually delivered efficacy and quite strong pharmacodynamic responses without any of the classic safety signals you'd expect to see in the JAK class.
+Now this doesn't mean that you are completely devoid of any immunosuppressive effects or anything else like that. But I believe what we're able to do with BNZ-1 and what's been demonstrated in both the papers and the clinical trials, is to just selectively modulate what we think are the key drivers in those diseases without shutting down other pathways.
+And I think you'll agree that the peptides that are structured that could mimic these domains would actually deliver more selectivity than small molecules. And actually bind into pockets that are only accessible to the naked ligands and not accessible to the monoclonal antibodies. And that's why I think this is such a compelling platform and such a compelling therapeutic modality to drug the gamma chain in the context of selective cytokine inhibition. Does that help answer the question?
+
+--------------------------------------------------------------------------------
+Dae Gon Ha,  Stifel Nicolaus - Analyst    [21]
+--------------------------------------------------------------------------------
+Sure does. Thanks very much. And congrats again.
+
+--------------------------------------------------------------------------------
+Operator    [22]
+--------------------------------------------------------------------------------
+(Operator Instructions). Prakhar Agrawal, Jones Trading.
+
+--------------------------------------------------------------------------------
+Prakhar Agrawal,  Jones Trading - Analyst    [23]
+--------------------------------------------------------------------------------
+So, first question is Almirall had decided not to proceed with the option to acquire BNZ-1 after analyzing the detailed data and looking at the FDA Phase 2 end of meeting minutes on CTCL. So, just compared to Almirall's view, what gave you confidence around the potential of this asset?
+And my second question is -- the Phase 2 trial for alopecia seems to be having opened since 2018 based on CD.gov. So, what is the latest update on that trial? Have any patients been enrolled?
+
+--------------------------------------------------------------------------------
+Bruce Steel,  Equillium, Inc. - CEO    [24]
+--------------------------------------------------------------------------------
+Good morning. Thank you very much for joining and for two great questions. So, the Almirall transaction was very interesting. And I can assure you it's one where we spent quite a bit of time in terms of understanding what happened with that transaction. So, that transaction was led by Almirall's CSO.
+Interesting to note that Dr. Alex Kaoukhov was on board as Head of Clinical Development there, and Alex led the core diligence around the program. Almirall's CEO was also very involved as a deal champion and supporting that program coming into Almirall.
+As that program was in the option period, which was getting through the proof of concept data, there was a significant strategic shift within Almirall. The leadership team there wanted to take the company into more novel therapeutic directions, high-value programs.
+I think there was some disagreement of that strategy with the owners of Almirall that precipitated the departure of the CEO, which was shortly followed by the departure of the CSO, which was shortly followed by the departure of Alex.
+Several months later when the data came out, effectively there was nobody there who had championed the program, there were some significant payments owed upon exercise of that option. And so, not surprisingly they did not exercise and the program came back to Bioniz. I think it's worth highlighting that Alex, who probably knew the programs better than anybody, several months later joined Bioniz based on his conviction in the program.
+So, we fully vetted that side of the story. There was really nothing to do in terms of any negative perception around the program. It was more a function of the key team that had pursued it and the strategy had shifted at Almirall and hence the program coming back. But definitely a key question -- we spent a lot of time on our extensive diligence process fully vetting that side of the story.
+And look, we've seen this happen multiple times before. I can tell you our close friends and colleagues at Impact Bio were these significant beneficiaries of a very similar situation with the Sanofi turnover several years ago of the Impact Bio program. So, this story has played out many times before and not a surprise. But we spent a lot of time fully understanding that.
+And then in terms of alopecia areata, the company basically effectively was looking to bootstrap a little bit the company around that Almirall exercise that didn't happen, and had a little bit of an unconventional investor syndicate that included Takeda Ventures and then a few very high net worth industry veterans, including David Piatt who was in [the court] this morning, a former CEO of Allergan. And they were looking at options to advance the alopecia areata study, but never launched the study.
+So, that program has not launched. We will be initiating that study for the first time under our umbrella with the Bioniz team sort of overseeing the program. I hope that answers those two questions.
+
+--------------------------------------------------------------------------------
+Operator    [25]
+--------------------------------------------------------------------------------
+And there are no further questions at this time. I will turn the call back over to the presenters for closing remarks.
+
+--------------------------------------------------------------------------------
+Bruce Steel,  Equillium, Inc. - CEO    [26]
+--------------------------------------------------------------------------------
+We want to again thank everybody for taking your time and consideration in the update this morning. Obviously this is a highly transformational acquisition for us, one that sort of completes this vision that we've had for some time in terms of building a very robust self-sustaining company again with the vision to deliver highly novel, highly impactful therapeutics to patients suffering from severe autoimmune and inflammatory disorders.
+I can tell you that for me personally, this is something that is of high importance. I have not one but three direct immediate family members suffering from autoimmune diseases. And I think all of us, either now currently or will in the near future, have friends or family members who suffer from these types of diseases.
+And as an industry I think we are at the cusp of making quite a bit of progress here now with the ability and better understanding of the complexity of biology here to develop therapies that can address those complexities.
+We think in combination with itolizumab, the Bioniz program and platform have the potential for significant advancement across a range of these severe disorders with high unmet medical need. So again, we appreciate your time and we're very excited about this acquisition and taking these programs forward. And again, would like to think everybody involved on this transaction over the last couple months.
+
+--------------------------------------------------------------------------------
+Operator    [27]
+--------------------------------------------------------------------------------
+This concludes today's conference call. You may now disconnect.
+
+
+
+
+
+
+
+--------------------------------------------------------------------------------
+Definitions
+--------------------------------------------------------------------------------
+PRELIMINARY TRANSCRIPT: "Preliminary Transcript" indicates that the 
+Transcript has been published in near real-time by an experienced 
+professional transcriber.  While the Preliminary Transcript is highly 
+accurate, it has not been edited to ensure the entire transcription 
+represents a verbatim report of the call.
+
+EDITED TRANSCRIPT: "Edited Transcript" indicates that a team of professional 
+editors have listened to the event a second time to confirm that the 
+content of the call has been transcribed accurately and in full.
+
+--------------------------------------------------------------------------------
+Disclaimer
+--------------------------------------------------------------------------------
+Refinitiv reserves the right to make changes to documents, content, or other 
+information on this web site without obligation to notify any person of 
+such changes.
+
+In the conference calls upon which Event Transcripts are based, companies 
+may make projections or other forward-looking statements regarding a variety 
+of items. Such forward-looking statements are based upon current 
+expectations and involve risks and uncertainties. Actual results may differ 
+materially from those stated in any forward-looking statement based on a 
+number of important factors and risks, which are more specifically 
+identified in the companies' most recent SEC filings. Although the companies 
+may indicate and believe that the assumptions underlying the forward-looking 
+statements are reasonable, any of the assumptions could prove inaccurate or 
+incorrect and, therefore, there can be no assurance that the results 
+contemplated in the forward-looking statements will be realized.
+
+THE INFORMATION CONTAINED IN EVENT TRANSCRIPTS IS A TEXTUAL REPRESENTATION
+OF THE APPLICABLE COMPANY'S CONFERENCE CALL AND WHILE EFFORTS ARE MADE TO
+PROVIDE AN ACCURATE TRANSCRIPTION, THERE MAY BE MATERIAL ERRORS, OMISSIONS,
+OR INACCURACIES IN THE REPORTING OF THE SUBSTANCE OF THE CONFERENCE CALLS.
+IN NO WAY DOES REFINITIV OR THE APPLICABLE COMPANY ASSUME ANY RESPONSIBILITY FOR ANY INVESTMENT OR OTHER
+DECISIONS MADE BASED UPON THE INFORMATION PROVIDED ON THIS WEB SITE OR IN
+ANY EVENT TRANSCRIPT. USERS ARE ADVISED TO REVIEW THE APPLICABLE COMPANY'S
+CONFERENCE CALL ITSELF AND THE APPLICABLE COMPANY'S SEC FILINGS BEFORE
+MAKING ANY INVESTMENT OR OTHER DECISIONS.
+--------------------------------------------------------------------------------
+Copyright 2022 Refinitiv. All Rights Reserved.
+--------------------------------------------------------------------------------

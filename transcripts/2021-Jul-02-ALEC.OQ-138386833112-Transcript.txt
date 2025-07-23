@@ -1,0 +1,410 @@
+
+
+Refinitiv StreetEvents Event Transcript
+E D I T E D   V E R S I O N
+
+Alector Inc to Discuss Collaboration with GlaxoSmithKline PLC for AL001 &amp; AL101 Call
+JULY 02, 2021 / 12:30PM GMT
+
+================================================================================
+Corporate Participants
+================================================================================
+
+ * Robert Paul
+   Alector, Inc. - Chief Medical Officer
+ * Shehnaaz Suliman
+   Alector, Inc. - President, COO & Interim Chief Business Officer
+ * Arnon Rosenthal
+   Alector, Inc. - Co-Founder, CEO & Director
+ * Michelle Corral
+   Alector, Inc. - VP of Communications & IR
+ * Naveen Bazaj
+    - 
+
+================================================================================
+Conference Call Participiants
+================================================================================
+
+ * Thomas Eugene Shrader
+   BTIG, LLC, Research Division - MD & Healthcare Analyst
+ * Kathryn Smith
+   Stifel, Nicolaus & Company, Incorporated, Research Division - Associate
+ * Neena Marie Bitritto-Garg
+   Citigroup Inc. Exchange Research - Research Analyst
+ * Matthew Kelsey Harrison
+   Morgan Stanley, Research Division - Executive Director
+ * Yaron Benjamin Werber
+   Cowen and Company, LLC, Research Division - MD & Senior Biotechnology Analyst
+ * Alexandria Hammond
+    - 
+ * Graig Suvannavejh
+   Goldman Sachs Group, Inc., Research Division - Executive Director & Senior Equity Research Analyst
+
+================================================================================
+Presentation
+--------------------------------------------------------------------------------
+Operator    [1]
+--------------------------------------------------------------------------------
+
+          Ladies and gentlemen, thank you for standing by, and welcome to the conference call being hosted today by Alector's management. (Operator Instructions) Please be advised that today's conference is being recorded. (Operator Instructions) I would now like to hand the conference over to your speaker today, Michelle Corral. Please go ahead, ma'am.
+
+--------------------------------------------------------------------------------
+Michelle Corral,  Alector, Inc. - VP of Communications & IR    [2]
+--------------------------------------------------------------------------------
+
+          Thank you, Sarah. Good morning, and thank you all for joining us on today's call. I'm Michelle Corral, Alector's Vice President, Communications and Investor Relations. Today, we are excited to be sharing the details of a collaboration with GlaxoSmithKline to jointly develop and commercialize our progranulin franchise programs, AL001 and AL101. A press release detailing the terms of this collaboration was issued earlier today and is available on our website.
+Leading today's call is Alector's CEO and Co-Founder, Dr. Arnon Rosenthal. Arnon is joined today by Dr. Shehnaaz Suliman, Alector's President and Chief Operating Officer. Following their prepared remarks, we will open the lines for Q&A, and Naveen Bazaj, our Head of Corporate Development; and Dr. Robert Paul, our Chief Medical Officer, will join us to aid in answering your questions.
+As a reminder, the information discussed during this call will include forward-looking statements, which represent the company's view as of today, July 2, 2021. We undertake no obligation to update or revise any forward-looking statements to reflect new information or future events, except as required by law. Please refer to today's press release as well as our filings with the SEC for information concerning risk factors that could cause actual results to differ materially from those expressed or implied by these statements.
+With that said, I'd like to now hand the call over to our CEO. Arnon?
+
+--------------------------------------------------------------------------------
+Arnon Rosenthal,  Alector, Inc. - Co-Founder, CEO & Director    [3]
+--------------------------------------------------------------------------------
+
+          Good morning, everyone, and thank you for joining us to celebrate and discuss our global partnership with GSK. To the best of our knowledge, this partnership is among the largest that was ever executed in our generation. Alector was founded on the vision of eliminating neurodegenerative brain disorders by recruiting the brain immune system to counteract multiple neurodegenerative pathologists. By next year, we will have 7 clinical drugs targeting Alzheimer's disease, multiple types of frontotemporal dementia, ALS and Parkinson's disease. We concluded profit-sharing partnerships that cover the cost of 4 of our programs and retain commercial rights.
+In addition, we transacted a regional partnership that cover the proof-of-concept cost of a fifth program and retained exclusive rights in the U.S. and EU. The collaboration with GSK, as you know, covers our 2 progranulin-elevating therapies, AL001 and AL101. As many of you know by now, progranulin is a key regulator of immune response, lysosomal function and survival in the brain. People with only 1 copy of the progranulin gene invariably develop frontotemporal dementia. Likewise, genetic mutations that lead to 10% -- to 20% decrease in the level of progranulin are associated with the risk of developing ALS, Alzheimer's disease, Parkinson's disease and limbic-predominant age-related TDP-43 encephalopathy. Our progranulin franchise, therefore, addresses a broad range of neurodegenerative indications.
+AL001 is already in pivotal Phase III clinical studies in symptomatic and presymptomatic FTD with progranulin mutation as well as in Phase II in symptomatic FTD patients with mutation in the C9orf72 gene. We are also on track to begin our Phase II study in ALS later this year. Our AL101 program is being developed for Parkinson’s disease and Alzheimer's disease. This program is currently in Phase I safety studies in healthy volunteers, evaluating both intravenous and subcutaneous formulations.
+With a broad pipeline of preclinical and clinical drugs and multiple profit-sharing partnerships, we continue our quest to cure neurodegeneration as a fully integrated biotechnology company. Shehnaaz Suliman, our President and Chief Operating Officer, and a key architect of the GSK agreement, will now walk you through the strategic rationale and terms of the deal. Shehnaaz?
+
+--------------------------------------------------------------------------------
+Shehnaaz Suliman,  Alector, Inc. - President, COO & Interim Chief Business Officer    [4]
+--------------------------------------------------------------------------------
+
+          Thank you, Arnon, for that introduction, and good morning to all of you who have joined us for today's call. We are very pleased to announce this collaboration with GSK. The substantial nature of the deal and collaboration provides great validation for our immuno-neurology scientific approach and the potential impact that the progranulin franchise programs can have in a broad population of patients living with neurodegenerative diseases.
+I'd like to walk you through the strategic rationale and the terms of this partnership, which we view as a win-win for both parties. Firstly, the collaboration allows us to expand, accelerate and fund the development of our progranulin franchise. With this collaboration, we're able to expand the development of AL001 and AL101 into a broader range of neurodegenerative diseases, including FTD, ALS, Parkinson's and Alzheimer's disease. And also pursue these indications globally, more expeditiously than we would otherwise be able to do on our own.
+The upfront payments and milestones fully fund the development costs associated with this expansion into these broader indications. Secondly, we were able to participate and retain financial upside. We have the potential to benefit from downstream value creation via profit share in the U.S. and high tiered royalties outside the U.S. Thirdly, a partnership accelerates our transition to be a fully integrated company and commercial organization. We are able to lead commercialization in open indications in the U.S. and have the option to co-promote in bigger neurodegenerative diseases should we choose to do so, enabling us to establish a focused commercial footprint in the U.S. Fourthly, it leverages GSK's global late-stage development, regulatory and commercial capabilities. We have a science-driven partner committed to immunology and genetics with a proven track record of bringing novel treatments to market in an accelerated manner.
+Turning now to the specific deal terms also described in this morning's press release. GSK has granted an exclusive worldwide license to the progranulin franchise program, AL001 and AL101. Alector will receive a total of GBP 700 million in upfront payments. Alector will also be eligible to receive a further GBP 1.5 billion in potential development, regulatory and commercial launch-related milestone payments. We will lead and fund the Phase II studies for all indications. Alector and GSK will co-develop and co-fund the Phase III studies at a rate of 60% GSK, 40% Alector in terms of the cost share.
+In the U.S., Alector will lead commercialization in orphan indications, and GSK can co-promote up to 50% on the open indications. Reciprocally, GSK will lead the commercialization of large indications such as Alzheimer's and Parkinson's disease in the U.S. with Alector being able to co-promote up to 50% on these indications. GSK will lead commercialization outside the U.S. GSK and Alector will have a 50-50 profit share arrangement in the U.S. And ex U.S., GSK will pay Alector tiered royalties ranging between 20% and 24% on net sales. We are very pleased with the structure of this agreement. We believe it reflects the value of the franchise and provides us with optionality and flexibility to execute a comprehensive development program to explore the broad potential of AL001 and 101. We maintain an important role and control in the execution of these programs. We have a significant stake in future commercialization and share the upside. And we can do so alongside a partner that is fully aligned with our vision.
+In addition, we are able to continue our quest to build a fully integrated company. Ultimately, and most importantly, we believe this will allow us to translate the promise of this biology into therapeutics that can make a difference in the lives of as many patients as possible.
+Now we'd like to open the line to your questions. As a reminder, joining me for the Q&A are Arnon Rosenthal, our CEO and Co-Founder; Robert Paul, our CMO; and Naveen Bazaj, our Head of Business Development, all of whom are intimately involved in the execution of this transaction. Operator, over to you.
+
+
+================================================================================
+Questions and Answers
+--------------------------------------------------------------------------------
+Operator    [1]
+--------------------------------------------------------------------------------
+
+          (Operator Instructions) Our first question comes from the line of Matthew Harrison with Morgan Stanley.
+
+--------------------------------------------------------------------------------
+Matthew Kelsey Harrison,  Morgan Stanley, Research Division - Executive Director    [2]
+--------------------------------------------------------------------------------
+
+          I guess 2 for me. One, can you just comment on whether GSK has seen or to the extent they have seen the data that you're going to be presenting at AAIC? And how important that was in terms of their decision about this partnership? And then secondly, maybe could you just give us some, I guess, practical examples of the potential acceleration in non-FTD indications in terms of how much quicker we might get data or how much larger some of your sort of interim studies in terms of signal finding might be?
+
+--------------------------------------------------------------------------------
+Shehnaaz Suliman,  Alector, Inc. - President, COO & Interim Chief Business Officer    [3]
+--------------------------------------------------------------------------------
+
+          Thank you for the question, Matthew. So first and foremost, a thorough due diligence process was conducted as part of the deal process, as you might expect. And we continue to look forward to sharing the data from the ongoing Phase II study at AAIC. With regard to your second question, clearly, what this allows us is to expand into indications that we have been quite thoughtful about doing but in a more expeditious manner. And those indications include -- the ALS study is already about to start, but also starting proof-of-activity or proof-of-concept studies in Alzheimer's and Parkinson's disease. So I think that the broader indications in particular are likely to benefit from acceleration, and we're very pleased to be able to do that in conjunction with GSK.
+
+--------------------------------------------------------------------------------
+Operator    [4]
+--------------------------------------------------------------------------------
+
+          Our next question comes from the line of Graig Suvannavejh with Goldman Sachs.
+
+--------------------------------------------------------------------------------
+Graig Suvannavejh,  Goldman Sachs Group, Inc., Research Division - Executive Director & Senior Equity Research Analyst    [5]
+--------------------------------------------------------------------------------
+
+          Congratulations on the new partnership. I've got several. Maybe the first, if I could just maybe follow up on Matt's question around expectations for the data at AAIC. Assuming that a thorough diligence process was done, it to me infers that indeed GSK has seen what that data looks like and certainly was comfortable enough with moving forward to do the transaction. So I just wanted to -- just get a confirmation of that. And then maybe my second question has to do with, has it always been a view that you would partner 001 and 101? Or is it part of just an evolving thought around the opportunities with those 2 assets? And then a third question, if I could, is, as we look at your pipeline now, most of your most advanced assets are either partnered with GSK or AbbVie. So looking at the proprietary pipeline, could you point us to the asset or assets that you feel that we should next from an Alector proprietary pipeline perspective, you paying most attention to?
+
+--------------------------------------------------------------------------------
+Shehnaaz Suliman,  Alector, Inc. - President, COO & Interim Chief Business Officer    [6]
+--------------------------------------------------------------------------------
+
+          Graig, thank you for those questions. As we said, a thorough due diligence process was conducted on both programs and at the AAIC we look forward to presenting the 12-month data. Robert, I don't know if you want to comment on that?
+
+--------------------------------------------------------------------------------
+Robert Paul,  Alector, Inc. - Chief Medical Officer    [7]
+--------------------------------------------------------------------------------
+
+          Yes, as we mentioned also at our Progranulin Day a couple of weeks ago, we're going to present 12-month data and up to 12 patients that includes safety, PK/PD, biomarker data, target engagement, downstream biomarker like lysosomal function complement and volumetric MRI and I think most importantly, also clinical outcome. We cannot actually speak, of course, now about this data and -- because they're under embargo, but we're looking forward to present the data at AAIC in July 29.
+
+--------------------------------------------------------------------------------
+Shehnaaz Suliman,  Alector, Inc. - President, COO & Interim Chief Business Officer    [8]
+--------------------------------------------------------------------------------
+
+          Thanks, Robert. With respect to your second question about the partnership, we believe this is the right collaboration for us to undertake at the right time for Alector to accelerate the franchise. We are already well underway as you're aware with the FTD progranulin Phase III study. And this is really an opportune time to continue to explore the biology of these programs across multiple indications. So we are feeling confident that the ability to do so essentially fast tracks our overall global development program as well as our growth as a company as we continue to move into late-stage development and also anticipate in the future the ability to build a commercial franchise. So -- and then, Arnon, would you like to comment on the pipeline?
+
+--------------------------------------------------------------------------------
+Arnon Rosenthal,  Alector, Inc. - Co-Founder, CEO & Director    [9]
+--------------------------------------------------------------------------------
+
+          Yes. For the pipeline question, first, our partnerships allowed us to retain 50-50 profit share and commercial rights. So we did not really give up any of our programs, means we have basically covered the cost for the development as we still retain very significant upside potential. And this is the strategy that we are going to continue to pursue, means we prefer to develop additional drugs and share the cost and the upside rather than develop a smaller number of drugs on our own. But by next year, we are going to have 3 additional programs in the clinic. We have another exciting Alzheimer's and neurodegeneration target -- the target, the MS4A4A protein, which is a unique risk gene for Alzheimer's disease. We fully own this program. We will have a multi-Siglec inhibitor for cancer, and we have a third program that's going to the clinic. So we have a very broad pipeline of fully owned programs that we are pursuing.
+
+--------------------------------------------------------------------------------
+Operator    [10]
+--------------------------------------------------------------------------------
+
+          Our next question comes from the line of Geoff Meacham with Bank of America.
+
+--------------------------------------------------------------------------------
+Alexandria Hammond,   -     [11]
+--------------------------------------------------------------------------------
+
+          This is Alex Hammond on for Geoff Meacham. Can you guys hear me?
+
+--------------------------------------------------------------------------------
+Shehnaaz Suliman,  Alector, Inc. - President, COO & Interim Chief Business Officer    [12]
+--------------------------------------------------------------------------------
+
+          Yes.
+
+--------------------------------------------------------------------------------
+Alexandria Hammond,   -     [13]
+--------------------------------------------------------------------------------
+
+          So any plans for additional capital, whether that be in the large pipeline or maybe potential modalities outside of antibodies that subsides CNS monogenic situation?
+
+--------------------------------------------------------------------------------
+Shehnaaz Suliman,  Alector, Inc. - President, COO & Interim Chief Business Officer    [14]
+--------------------------------------------------------------------------------
+
+          Sorry, would you mind repeating the question? I'm not quite sure we got that.
+
+--------------------------------------------------------------------------------
+Alexandria Hammond,   -     [15]
+--------------------------------------------------------------------------------
+
+          Yes. Sorry about that. Any plans for the additional capital that you have freed up now that you have this big collaboration? Would you focus on your pipeline or maybe other modalities outside of antibodies?
+
+--------------------------------------------------------------------------------
+Shehnaaz Suliman,  Alector, Inc. - President, COO & Interim Chief Business Officer    [16]
+--------------------------------------------------------------------------------
+
+          I see. It's a great question. And I would say that we're very excited about the fact that the collaboration fully funds the global development of the progranulin franchise, which does indeed allow us to continue to exploit the rest of the pipeline, and we intend to do so. We have a number of risk genes that are targets for potential therapeutic development, as you may be aware. And now we can use the rest of our resources to fully perhaps even accelerate our research pipeline, which is part of the goal now that the progranulin programs continue to be fully funded. So we are excited about the overall company (inaudible) thesis that this deal allows us to do because now we have, again, just a plethora of resources to apply not just across the progranulin program to expand into new indications, but also to really continue to accelerate the potential of our research pipeline. Arnon, I don't know if you wanted to add anything?
+
+--------------------------------------------------------------------------------
+Arnon Rosenthal,  Alector, Inc. - Co-Founder, CEO & Director    [17]
+--------------------------------------------------------------------------------
+
+          Yes. With regard to drug modalities, we are fundamentally agnostic to the drug modality. We are really focusing on the human genetics, immunology and neurodegeneration. So we are constantly exploring additional drug modalities and at the right time, we will discuss them publicly.
+
+--------------------------------------------------------------------------------
+Operator    [18]
+--------------------------------------------------------------------------------
+
+          Our next question comes from the line of Neena Bitritto-Garg with Citi.
+
+--------------------------------------------------------------------------------
+Neena Marie Bitritto-Garg,  Citigroup Inc. Exchange Research - Research Analyst    [19]
+--------------------------------------------------------------------------------
+
+          Congrats on the deal. So my first question is just around, since it sounds like it was a pretty kind of thorough diligence process, I'm just kind of curious what attracted you to GSK specifically? That would be my first question. And then, just curious around what would be potentially kind of the next milestone payment from this collaboration? Would that be kind of starting a Phase II study for AL101? Or if you could give us any sense of when we could expect to kind of see the first milestone payments post the upfront, that would be great?
+
+--------------------------------------------------------------------------------
+Arnon Rosenthal,  Alector, Inc. - Co-Founder, CEO & Director    [20]
+--------------------------------------------------------------------------------
+
+          So first, this was a very competitive process, and we sort of selected to work with GSK because GSK is giving us sort of a very strong control over our destiny. We are developing orphan indications, all the way to approval with 001. We are developing the proof-of-concept for the large indications, Alzheimer's and Parkinson's disease on our own. So we have very significant control over the program. We are not dependent on any third-party to advance then. In addition, GSK is really sharing with us the vision of using immunology and genetics to develop drug. And we have sort of known Hal Barron for many years, and we really trust the motivation, the ability to take risk on a novel mechanism of action. And we generally found GSK to be our ideal partner to develop this novel drug.
+
+--------------------------------------------------------------------------------
+Shehnaaz Suliman,  Alector, Inc. - President, COO & Interim Chief Business Officer    [21]
+--------------------------------------------------------------------------------
+
+          Correct. And I might add on that. 001 and 101 are going to be flagship programs in GSK's neuroscience portfolio. They have an early research portfolio, and this will significantly advance their portfolio. In addition to, I think, what Arnon said, I would just underscore, they are a global development partner with operations, regulatory and commercial expertise and market access capabilities that we tend to benefit from as well. And then with respect to your second question, the $1.5 billion in milestones are largely actually clinical and regulatory milestones rather than approval milestone. So we expect those milestones to start hitting just as soon as we get going on the overall clinical development program.
+
+--------------------------------------------------------------------------------
+Operator    [22]
+--------------------------------------------------------------------------------
+
+          Our next question comes from the line of Yaron Werber with Cowen.
+
+--------------------------------------------------------------------------------
+Yaron Benjamin Werber,  Cowen and Company, LLC, Research Division - MD & Senior Biotechnology Analyst    [23]
+--------------------------------------------------------------------------------
+
+          I got a couple of questions. Maybe, Robert, for you one. The data that we're going to see at AAIC in up to 12 patients, is it going to be 12 patients at 6 months? And if I recall, is it 9 patients at 12 months? Is that sort of the way we should think about it? And then secondly, for 101, you're testing both IV and subcu. Any initial thinking whether you can formulate this as a subcu? Whether the formulation lends itself and dosing as well?
+
+--------------------------------------------------------------------------------
+Robert Paul,  Alector, Inc. - Chief Medical Officer    [24]
+--------------------------------------------------------------------------------
+
+          Yes. So we will show 6 and 12 months' data. We have clinical outcome data, the CDR Sum of Boxes with 9 patients at 12 months. And we have also CSF data from 9 patients, but if we -- actually we have from more patients other assessments because some patients were not able to come to the site, and so some of the assessments were not done in all patients. But the overall analysis actually includes data from 12 patients, but 9 patients -- from 9 patients we have core data at 12 months.
+
+--------------------------------------------------------------------------------
+Shehnaaz Suliman,  Alector, Inc. - President, COO & Interim Chief Business Officer    [25]
+--------------------------------------------------------------------------------
+
+          IV and subcu?
+
+--------------------------------------------------------------------------------
+Robert Paul,  Alector, Inc. - Chief Medical Officer    [26]
+--------------------------------------------------------------------------------
+
+          IV and subcu. Yes, as you know, we're going to complete the Phase I study in 101. And we're going to actually present the data of this trial end of this year. Actually, the poster of CDR was just accepted yesterday. So there, you get a first impression how about the PK and PD data of 101 and also the subcu availability. We're still adding more cohorts to this study. And once we have the complete data set, we will make the decision exactly how the dose and the dose regimen will look in the future.
+
+--------------------------------------------------------------------------------
+Operator    [27]
+--------------------------------------------------------------------------------
+
+          Our next question comes from the line of Tom Shrader with BTIG.
+
+--------------------------------------------------------------------------------
+Thomas Eugene Shrader,  BTIG, LLC, Research Division - MD & Healthcare Analyst    [28]
+--------------------------------------------------------------------------------
+
+          It seems I can't say I'm surprised at this deal. On the big market indications, can you flush out the structure? Are you going to do a full Phase II program? And then there'll be some sort of joint steering committee for Phase III? Or are you pretty committed to Phase III already, and you think it will be mostly lysosome function, sort of general biomarkers? And then a follow-up question on that. Are you sure what you're going to do in Parkinson's and Alzheimer's? Is it going to be an all-comer program? Or do you think you might be looking for subgroups based on some of your early data?
+
+--------------------------------------------------------------------------------
+Shehnaaz Suliman,  Alector, Inc. - President, COO & Interim Chief Business Officer    [29]
+--------------------------------------------------------------------------------
+
+          Thank you, Tom. So in terms of the collaboration, this is -- we have a joint governance structure, which is pretty customary for a deal of this type. And secondly, I would say that the way that the actual control and -- works with respect to the studies is that we conduct the initial Phase II studies for all of the indications and in particular, the larger indications. With respect to the overall global development strategy, we are very fortunate in that we are completely aligned with GSK on our overall approach in PD and AD. As is consistent with our approach, we prefer to start to generate proof-of-activity data in genetically stratified patient populations. And so for example, in PD, we have in the past talked about PD-GBA1 as the signal seeking patient population to conduct the initial Phase II study in, and then would follow that with a more kind of traditional all-comer patient development strategy in PD. Robert, I don't know if you wanted to add anything?
+
+--------------------------------------------------------------------------------
+Robert Paul,  Alector, Inc. - Chief Medical Officer    [30]
+--------------------------------------------------------------------------------
+
+          Yes. So the strategy is basically to figure out where and the science will lead us what is the best patient population, but this is also the goal of the Phase II studies to make sure that we actually select the right patient population. And based on that, we will decide how to conduct the Phase III studies.
+
+--------------------------------------------------------------------------------
+Thomas Eugene Shrader,  BTIG, LLC, Research Division - MD & Healthcare Analyst    [31]
+--------------------------------------------------------------------------------
+
+          Got it. If I just follow-up quickly. In Alzheimer's, do you expect it's likely to be in A beta-positive population? Or might there be some subpopulation that only you could tackle?
+
+--------------------------------------------------------------------------------
+Robert Paul,  Alector, Inc. - Chief Medical Officer    [32]
+--------------------------------------------------------------------------------
+
+          Yes. Actually, similar in the Phase II study as a proof-of-concept study, we'll probably go broader, but we will stratify patients appropriately. And then based on our analysis, we're going to decide how to go forward in the Phase III study.
+
+--------------------------------------------------------------------------------
+Arnon Rosenthal,  Alector, Inc. - Co-Founder, CEO & Director    [33]
+--------------------------------------------------------------------------------
+
+          As you know, progranulin mutations, polymorphism in progranulin is a risk for Alzheimer's disease and about 30%, 35% of the population carry this risk mutation, both for Parkinson's disease and Alzheimer's disease. So that's also something we are looking at.
+
+--------------------------------------------------------------------------------
+Operator    [34]
+--------------------------------------------------------------------------------
+
+          Our last question comes from the line of Paul Matteis with Stifel.
+
+--------------------------------------------------------------------------------
+Kathryn Smith,  Stifel, Nicolaus & Company, Incorporated, Research Division - Associate    [35]
+--------------------------------------------------------------------------------
+
+          This is Katie on for Paul. I guess to follow up on a previous question, from a timing perspective, when should we expect updates on prioritization of earlier-stage assets or perhaps assets from the research pipeline?
+
+--------------------------------------------------------------------------------
+Shehnaaz Suliman,  Alector, Inc. - President, COO & Interim Chief Business Officer    [36]
+--------------------------------------------------------------------------------
+
+          Katie, our goal is to continue to provide updates periodically much in the way that we have with the KOL event that we hosted recently. So there will be an event around the time of AAIC with the data. And then later in the year, we'll be providing more of a progranulin franchise update. And then sometime next year, we'll continue to provide more of a broad-based pipeline update. And so I would suggest you just stay tuned as we continue to flesh out our overall strategy with respect to the rest of the pipeline. We have talked about our follow-on programs such as the MS4A4A program, a master regulator of microglia, which we're very, very excited about, and that program will enter the clinic sometime next year. And so that as well as other research pipelines that have -- programs that have been undisclosed will be coming, and we'll provide that update in the first half of next year.
+
+--------------------------------------------------------------------------------
+Operator    [37]
+--------------------------------------------------------------------------------
+
+          We do have a follow-up question from the line of Graig Suvannavejh with Goldman Sachs.
+
+--------------------------------------------------------------------------------
+Graig Suvannavejh,  Goldman Sachs Group, Inc., Research Division - Executive Director & Senior Equity Research Analyst    [38]
+--------------------------------------------------------------------------------
+
+          I just wanted to see if I can tackle a modeling question or 2. Just in terms of the milestones, can you just guide us on the breakout between the 2 programs? If they're evenly split or if there's some split that we should keep in mind? And then in terms of the upfront payment, should we just assume that will get amortized over a certain period? And if you could help us think about the length of that period?
+
+--------------------------------------------------------------------------------
+Naveen Bazaj,   -     [39]
+--------------------------------------------------------------------------------
+
+          Graig, this is Naveen. Great question. So maybe I'll talk about your second part first, that the -- yes, the upfront payment, you can just assume it's going to get amortized over some period. As Shehnaaz mentioned, this was really dedicated to the progranulin program and self-funding the deal. So that's where a lot of those resources will go to. And then the first part of your question on the milestones. Yes, it's a fairly even split between 001 and 101, given 101 for the larger indications, you can see some of the milestones for that one will be a little bit larger compared to 001, which is in orphan indications.
+
+--------------------------------------------------------------------------------
+Operator    [40]
+--------------------------------------------------------------------------------
+
+          We do have another follow-up from the line of Yaron Werber with Cowen.
+
+--------------------------------------------------------------------------------
+Yaron Benjamin Werber,  Cowen and Company, LLC, Research Division - MD & Senior Biotechnology Analyst    [41]
+--------------------------------------------------------------------------------
+
+          I think you just answered some of the question, Naveen. The -- just so we understand correctly, so it sounds like 001, you will not take that in 2 orphan indications at all, including no preliminary POC, right? All POC for broader indications is going to be done with 101 only?
+
+--------------------------------------------------------------------------------
+Naveen Bazaj,   -     [42]
+--------------------------------------------------------------------------------
+
+          Yes. Let me just -- yes, sorry, let me just clarify. So the 001 has been for orphan indications, and our AL101 program is the one we'll be taking to nonorphan indications, specifically Parkinson's disease and Alzheimer's disease.
+
+--------------------------------------------------------------------------------
+Shehnaaz Suliman,  Alector, Inc. - President, COO & Interim Chief Business Officer    [43]
+--------------------------------------------------------------------------------
+
+          Yes. Our overall strategy with 001 has not changed. We continue to reserve that molecule for orphan indications such as FTD, progranulin, C9orf and idiopathic FTD as well as the ALS study, which will commence in Q3 is also with AL001. AL101, because of its potential to be used subcutaneously is, therefore, reserved for larger indications such as Alzheimer's and Parkinson's. So this is basically a 2-molecule strategy in the franchise based on differences in formulations. So that part of the strategy hasn't changed. And again, the milestone and -- sort of approval milestones and clinical milestones are equally split across both molecules, but the value of these milestones are weighted more towards the Alzheimer’s and Parkinson’s indications. But overall, more than 80% of these milestones come before approval. So they actually are intended to really incentivize and continue to fund the overall development program all the way through approval.
+
+--------------------------------------------------------------------------------
+Operator    [44]
+--------------------------------------------------------------------------------
+
+          There are no further questions. I will now turn the call back over to Shehnaaz Suliman for closing remarks.
+
+--------------------------------------------------------------------------------
+Shehnaaz Suliman,  Alector, Inc. - President, COO & Interim Chief Business Officer    [45]
+--------------------------------------------------------------------------------
+
+          Thank you, operator. Thank you to everyone for joining us today to discuss collaboration with GSK, which really does allow us to accelerate and expand the development of our progranulin franchise. We are proud of what we have accomplished with the AL001 and 101 programs thus far, and we look forward to building on that momentum with this collaboration.
+As a reminder, we will be presenting data from our Phase II study of AL001 in patients with systematic FTD at the upcoming Alzheimer's Association International Conference, as Robert said. That takes place in Denver at the end of this month, which will provide an opportunity for us to share 12-month safety, PK/PD, biomarker and importantly, clinical outcome data on patients. We look forward to sharing those data with you, and we plan to host an investor call in conjunction with the data announcement. So thank you again, everyone, for joining us. We wish you have -- we wish everyone a really good day and a happy holiday weekend.
+
+--------------------------------------------------------------------------------
+Operator    [46]
+--------------------------------------------------------------------------------
+
+          Ladies and gentlemen, this concludes today's conference call. We thank you for your participation. You may now disconnect.
+
+
+
+
+
+
+
+--------------------------------------------------------------------------------
+Definitions
+--------------------------------------------------------------------------------
+PRELIMINARY TRANSCRIPT: "Preliminary Transcript" indicates that the 
+Transcript has been published in near real-time by an experienced 
+professional transcriber.  While the Preliminary Transcript is highly 
+accurate, it has not been edited to ensure the entire transcription 
+represents a verbatim report of the call.
+
+EDITED TRANSCRIPT: "Edited Transcript" indicates that a team of professional 
+editors have listened to the event a second time to confirm that the 
+content of the call has been transcribed accurately and in full.
+
+--------------------------------------------------------------------------------
+Disclaimer
+--------------------------------------------------------------------------------
+Refinitiv reserves the right to make changes to documents, content, or other 
+information on this web site without obligation to notify any person of 
+such changes.
+
+In the conference calls upon which Event Transcripts are based, companies 
+may make projections or other forward-looking statements regarding a variety 
+of items. Such forward-looking statements are based upon current 
+expectations and involve risks and uncertainties. Actual results may differ 
+materially from those stated in any forward-looking statement based on a 
+number of important factors and risks, which are more specifically 
+identified in the companies' most recent SEC filings. Although the companies 
+may indicate and believe that the assumptions underlying the forward-looking 
+statements are reasonable, any of the assumptions could prove inaccurate or 
+incorrect and, therefore, there can be no assurance that the results 
+contemplated in the forward-looking statements will be realized.
+
+THE INFORMATION CONTAINED IN EVENT TRANSCRIPTS IS A TEXTUAL REPRESENTATION
+OF THE APPLICABLE COMPANY'S CONFERENCE CALL AND WHILE EFFORTS ARE MADE TO
+PROVIDE AN ACCURATE TRANSCRIPTION, THERE MAY BE MATERIAL ERRORS, OMISSIONS,
+OR INACCURACIES IN THE REPORTING OF THE SUBSTANCE OF THE CONFERENCE CALLS.
+IN NO WAY DOES REFINITIV OR THE APPLICABLE COMPANY ASSUME ANY RESPONSIBILITY FOR ANY INVESTMENT OR OTHER
+DECISIONS MADE BASED UPON THE INFORMATION PROVIDED ON THIS WEB SITE OR IN
+ANY EVENT TRANSCRIPT. USERS ARE ADVISED TO REVIEW THE APPLICABLE COMPANY'S
+CONFERENCE CALL ITSELF AND THE APPLICABLE COMPANY'S SEC FILINGS BEFORE
+MAKING ANY INVESTMENT OR OTHER DECISIONS.
+--------------------------------------------------------------------------------
+Copyright 2023 Refinitiv. All Rights Reserved.
+--------------------------------------------------------------------------------

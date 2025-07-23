@@ -1,0 +1,343 @@
+
+
+Refinitiv StreetEvents Event Transcript
+E D I T E D   V E R S I O N
+
+Taysha Gene Therapies Inc To Discuss CLN7 Program Acquisition Call
+OCTOBER 05, 2021 / 12:00PM GMT
+
+================================================================================
+Corporate Participants
+================================================================================
+
+ * Greg Gara
+   Taysha Gene Therapies, Inc. - SVP of Manufacturing
+ * Kimberly Lee
+   Taysha Gene Therapies, Inc. - SVP of Corporate Communications & IR
+ * R. A. Session
+   Taysha Gene Therapies, Inc. - Founder, President, CEO & Director
+ * Suyash Prasad
+   Taysha Gene Therapies, Inc. - Chief Medical Officer and Head of Research & Development
+
+================================================================================
+Conference Call Participiants
+================================================================================
+
+ * Steven Gray
+    - 
+ * Joon So Lee
+   Truist Securities, Inc., Research Division - VP
+ * Angela Schulz
+    - 
+ * Kristen Brianne Kluska
+   Cantor Fitzgerald & Co., Research Division - Analyst
+ * Gil Joseph Blum
+   Needham & Company, LLC, Research Division - Analyst
+ * Laura Kathryn Chico
+   Wedbush Securities Inc., Research Division - SVP of Equity Research
+
+================================================================================
+Presentation
+--------------------------------------------------------------------------------
+Kimberly Lee,  Taysha Gene Therapies, Inc. - SVP of Corporate Communications & IR    [1]
+--------------------------------------------------------------------------------
+
+          Good morning, and welcome to Taysha CLN7 Program webcast. Today, we will discuss the recent exclusive option to license from UT Southwestern worldwide rights to a clinical-stage AAV9 gene therapy program for the treatment of CLN7 program -- disease, provide an overview of CLN7 disease as well as research collaboration with UT Southwestern to develop a next-generation construct for CLN7 and  a grant to Batten Hope to support patient awareness, disease education and newborn screening initiatives.  
+We will also review the patient natural history data and discuss the CLN7 program and our clinical development strategy. Joining me on today's call are  R. A. Session, II, Taysha's President, CEO and Founder; and Dr. Suyash Prasad, Chief Medical Officer and Head of R&D; as well as Dr. Steven Gray, Chief Scientific Adviser at Taysha and Associate Professor in the Department of Pediatrics at UT Southwestern and Dr. Angela Schulz, our key opinion leader guest speaker from Children's Hospital University Medical Center Hamburg-Eppendorf. We will have a question-and-answer session following our prepared remarks.  
+Earlier today, Taysha issued a press release announcing the exclusive option obtained from UT Southwestern to licensed worldwide rights to a clinical-stage AAV9 gene therapy program for the treatment of CLN7 disease, which is currently being evaluated in an ongoing Phase I clinical proof-of-concept trial. A copy of this press release is available on the company's website and through our SEC filings.  
+Next slide, Please. Next slide to the safe harbor. Please note that on today's call, we will be making forward-looking statements, including statements relating to the existing clinical data and the therapeutic and commercial potential of the CLN7 program and our investigational product candidates. These statements may include the expected timing and results of clinical trials for our product candidates and the regulatory status and market opportunity for those programs.  
+This call may also contain forward-looking statements relating to Taysha's growth and future operating results, discovery and development of product candidates, strategic alliances and intellectual property as well as matters that are not historical facts or information. Various risks may cause Taysha's actual results to differ materially from those stated or implied in such forward-looking statements. These risks include uncertainties related to the timing and results of clinical trials and preclinical studies of our product candidates our dependence upon strategic alliances and other third-party relationships; our ability to obtain patent protection for our discoveries, limitations imposed by patents owned or controlled by third parties and the requirements of substantial funding to conduct our research and development activities. For a list of description of the risks and uncertainties that we face, please see the reports we have filed with the Securities and Exchange Commission. This webcast contains time-sensitive information that is accurate only as of the date of today of this live broadcast, October 5, 2021.  
+Taysha undertakes no obligation to revise or update any forward-looking statements to reflect events or circumstances after the date of this conference call, except as may be required by applicable securities laws.  
+With that, I would now like to turn the call over to our President, CEO and Founder,  R. A. Session, II. Next slide, please.
+
+--------------------------------------------------------------------------------
+R. A. Session,  Taysha Gene Therapies, Inc. - Founder, President, CEO & Director    [2]
+--------------------------------------------------------------------------------
+
+          Thank you, Kim. And thank you, everyone, for joining us on the call this morning. We are pleased to announce that we have acquired an exclusive option from UT Southwestern to license a clinical-stage CLN7 program and AAV9 intrathecally dosed gene therapy, invented by our Chief Scientific Adviser, Dr. Steven Gray, that is currently in a Phase I clinical proof-of-concept trial for the treatment of CLN1 disease. Currently, there are no approved treatments for this severe and devastating neurodegenerative lysosomal storage disorder.  
+In order to further the advancement of this program, we have entered into a research collaboration with UT Southwestern to develop a next-generation construct that we expect will have improved potency, safety, packaging efficiency and manufacturability over the first generation. 
+Lastly, we provided a grant to Batten's Hope, a leading CLN7 patient advocacy group to support patient awareness, disease education and newborn screening initiatives for CLN7 disease. We are excited to support Batten Hope and work with UT Southwestern on this promising program.  
+With the addition of the CLN7 program, Taysha expects to have 5 clinical stage programs by the end of this year. As such, we will transition the Taysha-104 program for the treatment of SURF1-associated Leigh Syndrome to our collaborators at UT Southwestern to complete IND-enabling studies and initiate a clinical trial. Taysha will continue to support the SURF1 natural history study in partnership with UT Southwestern.  
+Next slide. Now let's get into our discussion. We are pleased to begin the call with a presentation from key opinion leader, Dr. Angela Schulz, a global expert in the clinical -- a clinical researcher who specializes in lysosomal storage disorders from the University Medical Center Hamburg-Eppendorf. Dr. Schulz will discuss the fundamental aspects of CLN7 disease and review natural history data. Her overview will provide a deep understanding of CLN7 and help lay the foundation of our treatment approach.  
+Following the comprehensive disease overview, Dr. Steven Gray, Associate Professor in the Department of Pediatrics at UT Southwestern and our Chief Scientific Adviser will review the preclinical data for the first-generation construct. Dr. Suyash Prasad will conclude with a discussion of our clinical development strategy.  
+Next slide. Feel free to read about our speakers at your leisure.  
+Next slide.  We are very excited to carry on the work initiated by Dr. Steven Gray. We see this program as a strategic and value-accretive opportunity and a natural fit with our pipeline and mission. It aligns with our core competencies, derisk and diversifies our portfolio and targets a meaningful market opportunity with an estimated 4,000 prevalent patients globally. This program has a comprehensive preclinical data package upon which the IND was accepted. And the first generation construct is currently being tested in an ongoing Phase I clinical proof-of-concept trial at UT Southwestern in close collaboration with Batten's Hope, the leading patient advocacy group. We are excited to provide a grant to Batten's Hope to support patient awareness, disease education and newborn screening initiatives for CLN7 disease, a devastating condition with no approved disease-modifying treatments.  
+Like our other candidates in our pipeline, the CLN7 program is built on the same foundation targeting a monogenic disease of the CNS using an AAV9 vector that is administered intrathecally and manufactured using a proven, highly scalable process. The CLN7 program also provides significant scientific value, the highly encouraging preclinical data generated in Dr. Steven Gray's lab for the first-generation CLN7 construct in relevant rodent models demonstrated a reduction in overall disease pathology, preservation of motor function and ultimately improvement in survival.  
+Lastly, the CLN7 programs adds portfolio value that will deliver a seamless read-through to other programs, further diversify our pipeline and provide another shot on goal to develop a transformative therapy that addresses a extremely high unmet need.  
+Next slide. Collectively, we think the CLN7 program is an attractive clinical asset. The program is derisked having 2 patients already been dosed and 1 more expected by the end of the year. Preliminary data evaluating the first-generation construct and the ongoing Phase I clinical proof-of-concept trial by UT Southwestern is anticipated by the end of 2021. We intend to develop a next-generation construct that is anticipated to have an improved potency, safety, packaging efficiency and manufacturability over the first-generation construct. We plan to initiate a pivotal study with the next-generation construct in 2022 with reference to human proof-of-concept data generated from the first-generation construct.  
+With no current treatments and an estimated prevalence of 4,000 patients worldwide, we believe the potential market opportunity exceeds well over $3 billion. Overall, we believe that this program is a seamless fit into our pipeline that also offers a potentially game-changing therapeutic for a devastating indication with a considerable market opportunity.  
+Next slide. We are also pleased to announce that we have provided a grant to Batten's hope, one of the leading patient advocacy groups for CLN7 disease. To support Batten's Hope's efforts, to support patient awareness, disease education and newborn screening for CLN7. Batten Hope initially funded the GMP clinical trial material for the currently open Phase I clinical proof of concept. Mila's Miracle, another leading CLN7 patient advocacy group funded all of the preclinical mouse studies. Batten Hope was founded by Gina Hann, Founder, President and Treasurer. Because she believes that every patient given a rare disease diagnosis, like her son Jojo, deserves the opportunity to work towards an outcome for their child. Gina initiated a fund at Dallas Foundation to help serve the vision of gene therapy at UT Southwestern. Under the guidance of Dr. Berge Minassian, Chief of Pediatric Neurology, and Chief Medical Adviser at Taysha.  
+Batten Hope as of this year, has raised $1 million. And in February of 2019, the hard work paid off when the first stage of a clinical trial to treat Batten disease was registered at ClinicalTrials.gov.  
+Next slide. With that brief overview of the CLN7 program, I will now turn the call over to Dr. Angela Schulz to provide a clinical disease overview and discuss the natural history of CLN7. Next slide. Dr. Schulz?
+
+--------------------------------------------------------------------------------
+Angela Schulz,   -     [3]
+--------------------------------------------------------------------------------
+
+          Thank you for the introduction. It is a pleasure for me to be part of this meeting today and to give you a brief introduction on CLN7, which is one of the today known 13 forms of NCL diseases. These are all neurodegenerative lysosomal storage diseases and all except one are autosomal recessively inherited. CLN7, one of these forms is caused by mutation in the gene MFSD8, which results in lysosomal storage in almost all cells of the body. 
+There are phenotypes, which represent as late infantile or sometimes slightly very late infantile age of onset, with almost all patients experienced an symptom onset by the edge of 7 years. The survival really is beyond the teenage years. There are ways to symptomatically treat these children by giving antisera medication, treating dystonia, anxiety, sleep problems and spasm, but we do not have a curative treatment for this terrible disease, yes. 
+The estimated prevalence of this rare disease is about 4,000 patients worldwide. However, the numbers of diagnosed patients have significantly increased over the last 3 years. And I can tell that from my clinical experience in Hamburg, where I'm the Head of the NCL Specialty Clinic, we do follow almost 180 patients with all types of NCL diseases. And the number of newly diagnosed CLN7 patients has at least tripled over the last 2 years. 
+And I think the main reason for this is increased disease awareness and also the increased use of newly genetic testing techniques such as next-generation sequencing panels. So if people have a suspicion of an NCL disease, they order an NCL sequencing panel and do not go for a specific sequencing of one NCL gene. And this really helps to diagnose these what we formally call rare variants of NCL disease, but I do believe they are not so rare anymore.  
+Next slide, please. Today, there are more than 45 different mutations known for CLN7, and the gene codes for the MFSD8 protein and where the exact function of the protein remains still unknown. It is thought that its function is to transport molecules across the lysosomal membrane. Dysfunction of this protein results in the accumulation of lysosomal storage material or what we call autofluorescent ceroid lipopigments in both neuronal and peripheral tissues. 
+However, the leading cell damage really is in the neurons. -- individuals with CLN7 still disease have gradual nerve cell loss in certain parts of the brain. And this likely leads to the signs and symptoms that we see in this rapidly progressing condition.  
+Next slide, please. I would like to introduce you to a case of a CLN7 patient, which is quite typical for most of these patients. This is a boy, current age 4 years, 10 months. He achieved motor development milestones at a normal age. So he was able to sit at 6 months, to crawl at 7 months, stand without support 8 months, walking without support 10 months. which is really, really early for all of you who have little kids, you will know that normally, they might walk between 12 and 18 months. 
+So he had a rapid motor development. However, his language development even though he was able to speak first words at the age of 10 months was delayed because by the age of 3 years, he still was only talking 2-words sentences. And this is something quite common in late infantile NCL phenotypes. The first symptom that really led the diagnosis of CLN7 disease were first seizures at the age of 3 years, 8 months, which happened almost simultaneously with the motor and language declined.  
+In the CMRI, cerebral atrophy was detected and then 4 months later, genetic diagnosis revealed 2 mutations in the CLN7 gene -- 1 mutation, sorry, homozygous.  
+Next slide, please. These videos here illustrate what the disease actually looks like in real life. On the first video, at the age of 16 months, you see that his motor development is not so bad. He's still able to crawl backwards down the stairs. You remember, he was able to walk without support at the age of 10 months. So for a 16 months old, this is pretty good. Then the next video, 18 months, you see him on a car racing around, still normal development, happy Boy, very alert, cognitively well developed. At 21 months, next slide. See he's happy on a trampoline bouncing around, very active, very good muscle tone, very happy, very alert. And same time, again, 21 months here at a beach. And I'm showing you this because there is different underground he's able to walk you on. So walking on sand, walking on these footing, bars is something that might be difficult for children who have ataxia. So he was doing very well.  
+Next Slide, please. But then here, left video at 3 years 9 months of age, you noticed that he's careful when he's walking, he's stopping frequently. And when he continues to walk a little bit further, you will appreciate that he has a slightly wide-based gate. So for an experienced eye, this is the first sign of ataxia. He's able to turn without help, et cetera, but still, he's a little bit unstable. 
+Three months later, at the age of 4 years, next video, please?  His ataxia becomes even more apparent. He's also suffering from a slight dystonia. So he's holding his trunk to the left side, which is part of the movement disorder phenotype that we do see in these patients, then 9 months later, next video. Here, you see he's already in a stroller, which is not a wheelchair yet. He's still able to walk without support, but he still has already some signs of motor difficulties, you would only be able to walk with support being held by his trunk, and he also has signs of hypersalivation showing that he has some slight swallowing difficulty at that age. 
+And next slide, 4 years, 9 months again. Similar to like I said before, him being on a trampoline, but he's only able to enjoy the jumping in a sitting position. Yet still it's a boy who has still quality of life who is quite happy but suffering from a very rapid motor and language decline. 
+Next slide, please. We do have several ongoing natural history studies, both in Europe and in the U.S. underway in order to encompass all NCLs including CLN7. 
+In Hamburg, we coordinate an international DEM-CHILD NCL database for all types of NCLs with over 250 MCL patients being included and there are many international centers collaborating in order to collect precise natural history data for all types of NCLs to improve early diagnosis, optimize standard of care for patients, establish evaluation tools for experimental therapies. And this is one of our main goals to make these data available to third parties, be it scientists or industry in a transparently regulated and time-effective manner. And we do anticipate a publication on CLN7 natural history in the near future in addition to our work in DEM-CHILD by UT Southwestern. 
+Next slide, please. These are preliminary results from a cohort of 12 CLN patients -- CLN7 patients that we follow in Hamburg. Their first or their most common first symptoms were motor problems like ataxia as you've seen in the first couple of slides, which happened at a mean age of 3 years, 3 months. The next most common symptom was language delay, which, of course, became apparent earlier at 2.5 years and most of them, however, language delay is something quite common in a pediatric population. So this usually does not directly lead to the diagnosis, which is unfortunate. 
+Another early symptom are vision problems. And this is something unlike other late infantile NCL phenotypes, like CLN2 disease, for example, where vision problems usually occur much later in the disease, in CLN7 disease. This is a common first symptom occurring around 4 years, 2 months. Another early symptom are behavior problems, which has been reported in 2 out of 12 patients at the age of 3 years. 
+Then once first symptoms occur, rapidly the disease progresses. So another set of symptoms are seizures, a rapid motor and language decline, children become wheelchair bound by the age of 5 years, 8 months on average. There's a complete loss of expressive language at the same age. They turned completely blind by 6 years, 2 months and are being tube fed by 6 years, 9 months on average. But you also do see in parenthesis that there's a range of symptom onset. So we do have some variability in this phenotype. 
+Next slide, please. Here, you do see the age ranges at first symptom onset. However, I would like to point out, even though there is an age range, once symptoms have started to occur, and that's from my clinical experience, a very, very rapid progression of disease, and this is seen throughout all the patients. 
+Next slide, please. And this rapid progression of disease is illustrated here by a scoring system that we do use for late infantile NCL phenotypes. It scores the motor and language category as a functional important category. Each category has a main score of 3 for normal function and goes all the way down to 0 for no function left. This scoring system has already been successfully deployed, applied in natural history studies for late infantile CLN2 disease, and it has been used as a primary outcome measure in pivotal Phase I/II clinical trials, for enzyme replacement therapy for this disease. 
+And likewise, the natural history data that we collected on CLN2 disease were used as controlled data in these clinical trials. And we're also audited, inspected and approved by both FDA and EMA. And the collection of CLN7 natural history data is done in a similar manner. So we hope that we're in a good place to provide control data for future clinical trials in this disease as well.
+But on -- let's go back to this graph here, you do see that in the patients that we are showing here once they start to lose their motor and language function, it goes very, very rapidly down to 0. So the speed of the individual curves is very much alike. So I think once you start to show progression in the disease, the progression is very rapid, and it should be quite straightforward to be able to show any efficacy of treatment. 
+Next slide, please. So next slide, my dear colleague, Steven Gray will introduce you preclinical pharmacology and toxicology data.
+
+--------------------------------------------------------------------------------
+Steven Gray,   -     [4]
+--------------------------------------------------------------------------------
+
+          Thank you very much, Dr. Schulz. If you can go to the next slide, I'll just jump right into some of the design of the construct and the preclinical data. So this was a -- this is a construct that was developed starting over 4 years ago. There's been a long history in my lab trying to work on this. It is designed with a self-complementary genome design using a weak ubiquitous promoter to drive CLN7 expression. And in this case, a small amount of expression is really all that we need for this particular disease. 
+So if we move to the next slide, I'm not going to go through this in detail, but this is just to highlight, a list of the various studies that my lab conducted to try to show the safety and efficacy and pharmacology of this construct and address various concerns from the FDA, which ultimately led to a successful IND. This includes proof-of-concept studies in patient fibroblast, in vivo efficacy in the mouse model of CLN7, also looking for potential immune responses and then ultimately doing dose-ranging toxicology studies in rodent models. And I'll go into all of these in a little bit more detail. 
+So if we go to the next slide, I think the most pertinent data is the survival data. These -- the knockout mouse model for CLN7 has a median survival of about 8 months untreated. And so we were able to do essentially a dose-ranging study modeling a very early intervention and also a later intervention. So the early intervention in these mice was around 1 week old, and then the later intervention was that about 4 months old. 
+And so we actually saw efficacy at both ages, but the -- and actually efficacy at both doses, especially with the early intervention. But the overall theme here would be that similar to really any other degenerative disease that if we treat early. And if we treat with a higher dose, then we maximize the benefit.  And so you can see this with the mice treated earlier at the highest dose that we more than doubled their life span. 
+So if we go to the next slide. In addition to just looking at lifespan, we also did a number of assessments, essentially looking at quality of life, motor function behavior. And so this is one piece of data looking at the ability of the mice on this rotarod test. This is a rotating drum that increases in speed. And so the -- it's measuring motor coordination. And so you can see here at 6 months old the knockout mice have a lower performance on this test and then the treated mice, especially the high dose, early intervention really completely preserve the motor function. 
+But then by 9 months old, this is after many of the knockout mice have died -- uninjected knockout mice, you can see that the knockout mice that are alive can't perform this task at all. But all of our treatment groups even the late treatment at the low dose, all of our treated mice are able to perform this task and still perform it relatively well. 
+So if we go to the next slide, in terms of the biodistribution of the vector. We have assessed the expected biodistribution of this, which we published in 2020. And this is just a mouse study using GFP as a reporter gene. So this was AAV9 using a similar dose is what we'd be using in CLN7. So with the GFP reporter, you can see very clearly kind of the biodistribution pattern, and I'd encourage you to look at this paper, if you're interested. You can see widespread distribution of the transgene all throughout the nervous system, including into deeper brain structures. And so this study -- you essentially set a benchmark from what we could expect with CLN7. 
+And so if we go to the next slide, unfortunately, for the MFSD8 protein, there are not suitable antibodies to do any histology like that -- like we could do with the GFP reporter but we could look at RNA expression via kind of an NC2 hybridization method called RNAscope. And so in this case, this is just showing staining for transgene mRNA, which is indicated by these red dots. And so in the heterozygous control mice and the knockout vehicle mice, you see no staining. 
+But then with the low and high dose, you see increasing amounts of transgene RNA that's being expressed. And so we can quantify that in the next slide where you just see this dose response have increased in transgene mRNA staining. So we could also look at a number of other histological markers that are features of this mouse model. 
+So if we go to the next slide, this would start off with looking at this subunits C of mouse [ATPAs]. And this is essentially the lysosomal storage material, the autofluorescent storage material that is the hallmark of the disease. And here, essentially the black dots are the -- are heterozygous normal control, so they don't really accumulate the storage material. The white dots would be the knockout injected with vehicles, so they have increased storage material across the CNS. 
+And then you see this dose response of decrease in that storage material with treatment with the yellow dots being the high dose. So in addition to looking at just this sort of this marker of the disease, the storage material, we can go to the next slide and assess neuro inflammation, and this would be looking at activated astrocytes, which is indicated by staying with glial fibrillary acidic protein or GFAP. And again in the -- the black dots would be the untreated normal mice. And so that's the degree of GFAP staining that you would normally have. This is elevated in the knockout mice injected with vehicle, which is the white dots across various CNS tissues. And then, again, we see this dose-responsive decrease in this marker of neuroinflammation especially in the high dose group, which is indicated in -- with the yellowish orange dots. 
+So again, as I said earlier, we had an expectation of what the biodistribution of this vector would look like. In the next slide, we assessed the biodistribution of the vector in the GLP rat toxicology study, and we see -- and these were all intrathecal injections. And the dose response have increased in the vector biodistribution as we would expect, the distribution was spread across CNS and non-CNS tissues, essentially how we're matching what we've seen for other programs. And I should say that this rat GLP toxicology study was -- overall showed that intrathecal administration of this AAV9 and CLN7 vector was well tolerated across all time points across all dose levels and really informed a successful IND that launched at the end of 2020. So with that, I can take questions at the end of the talk. 
+But if we move to the next slide, I'll turn things over to Dr. Suyash Prasad.
+
+--------------------------------------------------------------------------------
+Suyash Prasad,  Taysha Gene Therapies, Inc. - Chief Medical Officer and Head of Research & Development    [5]
+--------------------------------------------------------------------------------
+
+          All right. Well, thank you very much, Steve. Good morning, everyone. So obviously, we're very excited to add the CLN7 program to our portfolio. It represents our second asset targeting a CLN disease and our third ongoing clinical program. Of course, there are no approved treatments for CLN7, a severe, devastating neurodegenerative lysosomal storage, disorder, as you've heard, the description from Angela. 
+And I'm looking forward to partnering both with Steve and Angela and others as we move through clinical development. So I'm going to spend on -- can we get to next slide, please. I'm going to spend a few moments just talking about the clinical development strategy. Now as we think about the clinical study, a key question, of course, is how do you translate and incorporate the nonclinical data, which Steve has shared into the human clinical trial design. 
+Well, first of all, selection of the preclinical model is very important. And the ideal model has to recapitulate key aspects of the disease. Now we've seen the disruption of the CLN7, MFSD8 gene in mice can generate a novel knockout mouse model for CLN7 disease, which does recapitulate key features of human CLN7 disease pathology in the ultrastructure of the storage material in neurons in the knockout mice resembles the storage material found in the brains of human cell in some patients. 
+MRI revealed atrophy in a various parts of brain, mirroring what is believed to occur in human patients also. And also the neuropathological features of the disease in the CLN7 knockout mice reflect what's are seen in the human situation, where you have neuro inflammation and neurodegeneration. All of this gives us confidence that the nonclinical studies have been performed in a good and highly relevant animal model of CLN7. 
+As Steve already mentioned, there was age and dose-dependent rescue of multiple disease phenotypes. This provides strong evidence of benefits to the first-generation construct for CLN7 disease. We've selected an initial dose of 5E14 total VG for the first patient, and this will be escalated to 1E15 total VG to be given intrathecally. 
+This is based on the minimally effective dose that was ascertained in the mouse model and the no observable adverse event level from the rats toxicology study. Now interestingly, the 1E15 total VG is the highest dose given as yet an intrathecally administered gene therapy. Appropriately, given the severity of the disease, we are talking about the brain and spinal cord with a high dose but it is actually a relatively low dose in comparison to systemically administered gene therapies, which are dosed VG per kilo as opposed to total VG. 
+Next slide, please. UT Southwestern currently enrolling patients in an open-label Phase I clinical proof-of-concept trial. The study has been designed to focus primarily on safety and, of course, to evaluate preliminary efficacy also. Accordingly, the primary ramp for the trial is safety and efficacy endpoints include assessments in motor function, cognition and intelligence. There are 4 patients between the ages of 1 and 18 years targeted for the trial. And of course, there is potential to expand dependent on discussions with the principal investigator and the DSMB. Now the first patient has actually received the initial intrathecal dose of a 5E14 total VG and the second patient has also received a dose of 1E15 at total VG. 
+Subsequent participants will now be treated at a higher dose of 1E15 total VG. Treatment is a onetime dose that will be administered intrathecally, if you look at the bottom left-hand corner of the slide, have been given drug intrathecally as we do with most of our programs and will be covered with an immunosuppressive regime of prednisolone and sirolimus or rapamycin. 
+As mentioned, 2 patients have been dosed thus far with the first-generation construct. And UT Southwestern will continue to enroll patients in the Phase I trial and are expected to dose additional patients in that. And we anticipate preliminary data for this first-generation construct to be shared by the end of this year. 
+Next slide, please. Now when we look at the efficacy outcome measures, you can see there's a breadth of our outcome assessment being collected that capture the broad stomatology that these patients exhibit. Now this is important. As we've discussed before, the FDA and the other regulatory agencies are keen to see this totality of data as opposed to improvement solely in 1 or 2 end points. 
+Now we're looking at general clinical assessments session at Clinical Global Impression scales. We're looking at seizure activity. This is being evaluated by capturing seizure diaries and accessing severity, frequency, triggering factors and duration of a seizure. We're looking at motor function by assessing timed walk test, so a 2-minute walk or a 6-minute walk, the pediatric balance scale and the GMFM, the gross motor function measure, which is a well-known and well-understood assessment to motor function in children. So having a nice concerted look at motor function in these children. In addition, we're going to be pulling neuropsychological and developmental assessments, which should include the Mullen scales of early learning and the Vineland Adaptive Behavior Scale. We'll be performing imaging of the brain to look at atrophy, why matter change, demonization, et cetera. And of course, neurophysiological measures to include EEGs to help the assessment of seizures. As discussed earlier, loss or vision is a particularly devastating and early feature of this disease. 
+And so we will be performing comprehensive ophthalmological assessments. Now these include visual acuity, electroretinography and optical coherence tomography to look at retinal nerve fiber layer fitness. Of course, we were looking at quality of life by assessing the quarter of life inventory disability, the infants, the IT quality, the infant and total quality of life questionnaire and evaluating health care resource utilization to understand disease burden to a child and to the caregiver. 
+Next slide, please. So looking ahead, we plan to take the learnings from this first-generation construct bridge to the next-generation construct for our upcoming planned pivotal study. We anticipate having our next-generation construct designed by the end of 2021. And -- the reason we're designing next generation construct is necessity, it really gives us an opportunity, and we see opportunities to improve the potency of the product, deliver lower doses. 
+We anticipate having an improved safety profile, which as you know is an important theme in the world of gene therapy at the moment. And of course, we expect significant improvement in packaging efficiency and manufacturability. This can result in high yields and lower cost of goods. Now commercial grade GMP material for our next-generation construct is expected to be available during 2022. And after that, we will initiate a pivotal clinical trial with the next-generation construct also in 2022. We will, of course, be able to refer to the human approval of concept data on the first-generation contract i.e., in the ongoing clinical trial at UTSW. 
+We're also very excited to announce that there will be an oral presentation of the preclinical data from the first-generation construct. So this is the data that Steve has taken you through. And this is officially at the upcoming 17th Annual International Congress on Neuronal Ceroid Lipofuscinosis, this Friday, October 8. So if you have an opportunity to attend that meeting and listen to the presentation, I would encourage that. 
+Also at this conference, there'll be a poster on the design of the study and a discussion of the outcome measures for the ongoing Phase I clinical trial for the first-generation construct. So on that note, I'd like to once again thank my colleagues, Steve and Angela for the earlier insights. 
+And I will turn the call back to the operator to begin our Q&A session. Operator?
+
+
+================================================================================
+Questions and Answers
+--------------------------------------------------------------------------------
+Operator    [1]
+--------------------------------------------------------------------------------
+
+          Thank you. At this time, we will begin conducting our Q&A session. (Operator Instructions). Our first question comes from Kristen Kluska from Cantor Fitzgerald.
+
+--------------------------------------------------------------------------------
+Kristen Brianne Kluska,  Cantor Fitzgerald & Co., Research Division - Analyst    [2]
+--------------------------------------------------------------------------------
+
+          Thanks so much for hosting this, and congrats on the deal. The question that I have is, Dr. Schulz, you highlighted that over the last 3 years, in particular, there's been a significant increase in diagnosis having tripled over the last 2 years. 
+And I know that at one point in the deal in 1 disease call, Taysha hosted, one item mentioned was that approvals for other Batten disease types have also led to increased diagnosis. But the question I wanted to ask is based off of this awareness and these other items you flagged, how you believe these trends could change both in the near and longer term?
+
+--------------------------------------------------------------------------------
+Angela Schulz,   -     [3]
+--------------------------------------------------------------------------------
+
+          Well, I can only speak from my clinical experience. We had maybe a quite similar situation with CLN2 disease a couple of years ago. where once the first announcement for the start of a clinical trial was made, the number of diagnosed patients really increased rapidly. At that time, we kind of estimated that we would have maybe 4 or 5 patients to be able to enroll into the clinical trial because it was clear that most likely based on the inclusion criteria only newly diagnosed patients could be enrolled. 
+Within 5 months, we had 12 patients readily involved and numbers were increasing. But at that time, I had maybe 15 CLN2 patients in my clinic. Now we have more than 80 patients in our clinic. And I think the moment there is more awareness on a certain disease when first clinical trials are being announced, physicians become more aware of such a disease. 
+And we think there are still so many children out there with undiagnosed neurodegenerative diseases with motor cognitive decline. I think the more we push for rapid diagnosis for the use of genetic panels, the more we will be able to also diagnose this disease and especially because we've seen this disease, CLN7 disease, not only in other countries arise,we also do have really German patients of a significant number here in our cohort with this diagnosis. And a couple of years ago, nobody would have thought that CLN7 is so prevalent even in Germany. So I think numbers will increase.
+
+--------------------------------------------------------------------------------
+R. A. Session,  Taysha Gene Therapies, Inc. - Founder, President, CEO & Director    [4]
+--------------------------------------------------------------------------------
+
+          Kristen, just to add to what Dr. Schulz mentioned, I think just the announcement of this transaction, ultimately is going to raise the awareness of other clinical trial in an actual interventional study. I think this trial for most people was a bit under the radar. And we were fortunate, obviously, through our long-term relationship with UT Southwestern to have kind of a detailed understanding of this study and the preclinical data that actually supported it. 
+And so this was something for us that was somewhat of a no-brainer in order to kind of move forward and with the opportunity to transition to a next-generation construct where we know just based on our current  information that we have in hand and the work that we're doing on some of our other programs that directly translate to what we're going to do here. We know that -- or what I'll say is we're confident that we'll have the ability to improve the overall safety profile, but certainly improve the overall manufacturabilities of this program and move it quickly. 
+So I think the more availability interventional studies and the fact that people know about these studies, I think you'll start to see more and more patients become identified. This moves -- this kind of transitions nicely to our collaboration with Batten's Hope, which is essentially -- they're going to be focusing on disease awareness and newborn screening initiatives, making sure people are aware that there is a potential therapeutic alternative out there.
+
+--------------------------------------------------------------------------------
+Operator    [5]
+--------------------------------------------------------------------------------
+
+          Joon Lee at Truist.
+
+--------------------------------------------------------------------------------
+Joon So Lee,  Truist Securities, Inc., Research Division - VP    [6]
+--------------------------------------------------------------------------------
+
+          Thanks for the update and for taking our questions. As you're dosing these patients in the CLN7 program and actually other programs as well, is there a way to clinically assess for DRG function? It seems the FDA is vigilant about the DRG issues based on the AdCom -- AAV AdCom a couple of weeks ago. So what sort of data are you collecting to assuage those concerns? 
+And just a quick follow-up. How much difference between the first-gen and the second-gen construct has allowed so you can reference the data from the first-gen construct, but still have sufficient differentiation from the second-gen construct to be of superior quality.
+
+--------------------------------------------------------------------------------
+R. A. Session,  Taysha Gene Therapies, Inc. - Founder, President, CEO & Director    [7]
+--------------------------------------------------------------------------------
+
+          Thanks, Joon. What I'll do is I'll take the first question and then the second question around how we're monitoring for any type of changes in DRG, Suyash, you could take that question. Around the first question, again, I think the FDA has significant guidance documents that are out around that. This is something that -- this is something that has been around and kind of well established for quite some time around how you're able to reference earlier derived data into a next-generation construct. 
+But we do want to make sure that the things that we do improve or the things that we hope to improve within this next-generation construct are carried through into the pivotal study. So again, we're going to work closely with the FDA to have that discussion. But overall, we think it's going to be extremely important to move to the next-generation construct because, again, just based off of historical context with our other programs, we know that there are significant changes that we can make in order to improve a number of different attributes around this program. 
+And so again, the design of that construct -- the next-generation construct is going to be completed, is anticipated to be completed by the end of this year. And then once that design is finished, we'll then engage with the FDA around ways to what they want to see from a bridging perspective. 
+I'll pause there. Suyash, maybe you want to take the question around DRG inflammation. And it may be helpful to speak in the context of the AdCom a few weeks ago where -- I'm not exactly sure if we would have changed anything that we currently do from a clinical development perspective based off of the way we monitor for DRG changes. But I'll turn it over to you, Suyash.
+
+--------------------------------------------------------------------------------
+Greg Gara,  Taysha Gene Therapies, Inc. - SVP of Manufacturing    [8]
+--------------------------------------------------------------------------------
+
+          Yes. Thanks, R.A, and thanks, Joon, for the question. As you know, it is an important topic at the moment, this notion of DRG inflammation. I personally don't like the term DRG toxicity because in all the preclinical studies where information has been shown, it's really just been a histopathological change without any functional harm being exhibited in the NHPs. 
+And I have to say, in all of our NHP studies, we haven't seen any evidence of any inflammation of the DRG. And we look for it very carefully now. Now specifically in terms of monitoring for the DRG inflammation or any issues there. We've actually had -- in addition to the AdCom, which we talked about DRGs -- we've actually had 7 regulatory meetings with a number of different agents over the past 3 or 4 months. 
+And this topic is a topic in -- we have to talk about this with each and every regulatory agency. So we have our approach to monitoring for change, which every agency we've spoken with is very happy with. And specifically, what we do is this. We assess deep tendon reflexes, 6 of them, so 3 in the arm, 2 in the leg and the plan to reflex is in the feet. We assess the deep tendon reflexes at baseline and an ongoing base and on an ongoing basis throughout the clinical study. 
+And if we see evidence of any changes in the reflexes in particular, a hyporeflexia that might be indicative of some kind of inflammation or change in the DRGs. And then the second thing we do is we perform nerve conduction studies. We've performed nerve conduction studies at baseline and then on a 3 monthly basis, for the first year, and then we change over to every 6 months. And this is the approach we're uniformly applying across our portfolio of programs. 
+And when we speak to regulators, they're very happy with just doing those 2 things in particular to assess for DRG. One other -- well, 2 other points I'll make briefly, I think that  -- don't forget, for some diseases, and CLN7 are placed in that category, CLN1 are place in that category, giant axonal neuropathy, GM2, many of the diseases in our portfolio actually exhibit DRG inflammation and damage as part of the disease process. 
+So we actually do need to get drug into the DRG to actually cause a clinical and functional and histopathological benefit. And we've seen this in several of our preclinical studies where actually where we dose animals, knockout to DRG pretreatment and posttreatment or knockout vehicle treated DRGs versus drug-treated DRG, where actually is an improvement in the DRG appearance after treatment. 
+So I think we must not forget that it is different from disease to disease. And most of the time for our programs, we need to get drug into the DRGs. The final comment I'll make is in the context of FDA AdCom, they look at 5 different aspects of safety and relationship to AAV. 
+Obviously, the issue of integration, liver toxicity, thrombotic microangiopathy, MRIs and DRG. And my sense, and I think the sense of many observers was actually of the 5. The one that's most relevant to us is the DRG inflammation, but probably the DRG inflammation is the one that causes least concerned because it's never shown any functional compromise in NHPs and thus far, that's also been true in the human situation. I'll stop there Joon. Hopefully, that's answered your question.
+
+--------------------------------------------------------------------------------
+Operator    [9]
+--------------------------------------------------------------------------------
+
+          Thank you for the question, Joon. We have time for one more question. And the next question comes from Gil Blum at Needham.
+
+--------------------------------------------------------------------------------
+Gil Joseph Blum,  Needham & Company, LLC, Research Division - Analyst    [10]
+--------------------------------------------------------------------------------
+
+          Congratulations. Maybe to build a little bit on Joon's question. So in the past, it seems the FDA asked for a lead-in study with commercial material, I'm talking about Sarepta here. In your discussions with the FDA, did they seem amenable to basically going directly into a pivotal with a new construct, and as a bit of a follow-on for CLN7, during the disease progression, do you see increases in neurofilament in the CSF, considering it's neurodegenerative?
+
+--------------------------------------------------------------------------------
+R. A. Session,  Taysha Gene Therapies, Inc. - Founder, President, CEO & Director    [11]
+--------------------------------------------------------------------------------
+
+          So Gil, maybe I'll take the first one and then Suyash or Dr. Schulz can maybe make a comment around changes in neurofilament. But particularly around your first question -- around what the clinical development and regulatory strategy would be, I think the key word in this is a planned pivotal study, right? Using the first-generation clinical proof-of-concept study that's currently ongoing at UT Southwestern as a foundation or basis for that. 
+And then kind of showing from preclinical data generated the improvement of that construct that should ultimately -- again, make the -- if successful, make the construct safer, the ability to be able to deliver lower doses, the ability to be able to improve on the manufacturability of this particular program. 
+So those conversations have not yet occurred. What I'll say is once we have the proof-of-concept data in hand, particularly at the end of this year, I think we will engage with the FDA around what our proposed bridging strategy looks like and comparability strategy looks like. I think what we're fortunate is we have significant experience from our past and having such a broad portfolio understanding how to bridge preclinical studies where you're making changes from one construct to the next or one manufacturing process to the next in order to kind of use that data and translate that into a successful IND or CTA, but we will need to have those conversations so more to come. 
+I think what's going to be key is that by the end of this year, we will have clinical safety data as well as some preliminary efficacy data on the first few patients treated within the study. What I'll also say is, keep in mind, we have significant experience across the portfolio around using AAV9 delivered intrathecally. 
+And I think -- What's really nice about this study is this is the first example of treating a patient at the 1e to the 15 total VG dose delivered intrathecally. And this is a strategy, again, that we plan to use across our portfolio. Keep in mind, we were using the same immunosuppression regimen, same route of administration and for the most part, the same manufacturing process. 
+And so again, there's a likeness that you're in a read-through that you're able to gain from one program to the next. But again, we'll look to have those conversations here in the short term. And once we have that feedback in hand, we'll be updating The Street accordingly. Maybe Suyash or Dr. Schulz and maybe, maybe if more appropriate for Dr. Schulz to speak on maybe the disease pathology as it pertains to neurofilament.
+
+--------------------------------------------------------------------------------
+Angela Schulz,   -     [12]
+--------------------------------------------------------------------------------
+
+          Well, we do know that neurofilament light chain has been shown to be a very successful biomarker in CLN2 disease and knowing that these diseases are all lysosomal storage disease and we assume that the type of neurodegeneration would be very similar and neurofilament lighting is a marker for neurodegeneration, I would think that this is a good mark and could be a very good marker also for CLN7 disease. 
+I think we all have to really strive on getting as many samples as possible for patients, also prior to treatment starts to really have sufficient data to underline this.
+
+--------------------------------------------------------------------------------
+R. A. Session,  Taysha Gene Therapies, Inc. - Founder, President, CEO & Director    [13]
+--------------------------------------------------------------------------------
+
+          Thank you, Dr. Schulz. Operator, I think we may have time for one last question before we wrap up.
+
+--------------------------------------------------------------------------------
+Operator    [14]
+--------------------------------------------------------------------------------
+
+          Okay. Great. The last question will come from Laura Chico at Wedbush Securities.
+
+--------------------------------------------------------------------------------
+Laura Kathryn Chico,  Wedbush Securities Inc., Research Division - SVP of Equity Research    [15]
+--------------------------------------------------------------------------------
+
+          Just one question for Dr. Schulz. I guess there are other gene therapy efforts in the Batten disease space, CLN7 specifically. And realizing it's pretty early in development. But as a clinician, I'm wondering how you would think about points of differentiation between different gene therapies? And what would you be looking for in terms of selecting patients, I guess, who would be most amenable to treatment with the gene therapy?
+
+--------------------------------------------------------------------------------
+Angela Schulz,   -     [16]
+--------------------------------------------------------------------------------
+
+          Well, I think as a clinician who's really seeing these patients, I'm not in the position to really make judgment on different gene therapy approaches and preclinical data. I think probably there are other experts here on the call who can best -- better answer to that. However, in general, what I would have to say which patients should be included in such a clinical trial in this -- for this therapy approach, I would always say, and this is true for any neurodegenerative disease, children who are early in the disease process should be preferentially included because we cannot turn back the wheel in these diseases. And as early as possible is always a big plus with regards to inclusion for such therapies.
+
+--------------------------------------------------------------------------------
+R. A. Session,  Taysha Gene Therapies, Inc. - Founder, President, CEO & Director    [17]
+--------------------------------------------------------------------------------
+
+          Yes. And just to add to what Dr. Schulz mentioned, I think we would agree wholeheartedly. I think this has been demonstrated across our portfolio, particularly in the -- one, the natural history that we've been able to collect, not only from CLN7 disease, but also CLN1, Giant Axonal Neuropathy, GM2 where early intervention always is going to be better. Neurodegenerative diseases is -- you're not going to be able to regenerate a neuron once it's gone. 
+So the goal is always to try to save the neurons as soon as possible before significant disease, burden and pathology is actually set in. And so I think this is also mirrored in the animal data that's been generated for, again, the majority of the neurodegenerative diseases within our portfolio, and this is no different than what Dr. Gray presented early on, where, again, the combination of earlier treatment with a higher targeted dose directly into the CSF is going to be a more preferential response and way to actually significantly give yourself an opportunity to have a positive patient outcome. So I think we would totally agree with Dr. Schulz' assessment on that, and that's always kind of been our strategy.
+
+--------------------------------------------------------------------------------
+Operator    [18]
+--------------------------------------------------------------------------------
+
+          Thank you, R.A. There are no further questions in the queue. Next slide. I'll now turn the call back over to Mr. Session for closing remarks.
+
+--------------------------------------------------------------------------------
+R. A. Session,  Taysha Gene Therapies, Inc. - Founder, President, CEO & Director    [19]
+--------------------------------------------------------------------------------
+
+          Thank you, operator. Again, we appreciate everyone joining the call today, and we continue to appreciate your interest and support of Taysha. Next slide. We would like to thank our partners, again, without our partners here from UT Southwestern particularly the Gray Lab at UT Southwestern, there would be no Taysha, but certainly no CLN7 program. So we want to definitely thank the Gray Lab and our Chief Scientific Adviser, Dr. Steven Gray for his collaboration, support and dedication. 
+We'd also really would like to thank both Batten Hope and Mila's Miracle for their support in helping children, suffering from this terminal and rapidly progressive neurodegenerative disease. Again, going back, Mila's Miracle supported all the early preclinical studies and translational work in Dr. Gray's Lab, and Batten's Hope, which we announced our grant to this morning, actually paid for all of the GMP clinical material that is currently being utilized in the Phase I human proof-of-concept study. 
+And again, without these phenomenal partners from an advocacy perspective, most of these diseases would not be developed. And to be quite honest, we wouldn't have the opportunity to have these phenomenal treatments for patients who so desperately need them. So again, we really want to thank our partners here, and we're going to -- and for their support and their continued support. 
+Next slide. We've enjoyed sharing with you today more about the CLN7 program and why we feel strongly is such a strategic fit within our overall portfolio. As we look ahead, we'll continue to focus on rapidly advancing our numerous pipeline programs with many key near-term milestones in 2021. We've made a significant transition into a pivotal stage gene therapy company and expect to provide both clinical and regulatory updates on our lead program, Taysha-120 for giant axonal neuropathy by the end of this year. 
+We remain on track to report first-in-human clinical data for our Taysha-101 program in GM2 gangliosidosis as well as by the end of this year and expect to initiate our Phase I/II clinical trial for Taysha-118 and CLN1 disease here in the near term, which currently has an open IND. 
+We also expect to initiate clinical development on our Taysha-102 program for Rett syndrome by the end of this year, where it would give us the opportunity to have the availability of preliminary clinical data from our Rett program by the end of next year. We also anticipate preliminary Phase I clinical proof-of-concept data from the first-generation construct in our CLN7 program by the end of this year, and we'll provide an update to The Street on the progress of transitioning to our next-generation construct for planned pivotal studies early next year as well. 
+Next slide. We appreciate everyone joining the call this morning. As you can see, the CLN7 program provides another exciting opportunity for Taysha. Again, thank you to the patients. Thank you to the clinicians, Dr. Schulz, Dr. Gray, Batten Hope, Mila's Miracle, and all those out there that are really searching for therapeutic alternatives, groundbreaking, transformational therapeutic alternatives for these devastating diseases. We look forward to updating you throughout the remainder of this year, and we hope you have a good rest of the day and a great week.
+
+--------------------------------------------------------------------------------
+Operator    [20]
+--------------------------------------------------------------------------------
+
+          Ladies and gentlemen, this concludes today's presentation. 
+Thank you once again for your participation. You may now disconnect.
+
+
+
+
+
+
+
+--------------------------------------------------------------------------------
+Definitions
+--------------------------------------------------------------------------------
+PRELIMINARY TRANSCRIPT: "Preliminary Transcript" indicates that the 
+Transcript has been published in near real-time by an experienced 
+professional transcriber.  While the Preliminary Transcript is highly 
+accurate, it has not been edited to ensure the entire transcription 
+represents a verbatim report of the call.
+
+EDITED TRANSCRIPT: "Edited Transcript" indicates that a team of professional 
+editors have listened to the event a second time to confirm that the 
+content of the call has been transcribed accurately and in full.
+
+--------------------------------------------------------------------------------
+Disclaimer
+--------------------------------------------------------------------------------
+Refinitiv reserves the right to make changes to documents, content, or other 
+information on this web site without obligation to notify any person of 
+such changes.
+
+In the conference calls upon which Event Transcripts are based, companies 
+may make projections or other forward-looking statements regarding a variety 
+of items. Such forward-looking statements are based upon current 
+expectations and involve risks and uncertainties. Actual results may differ 
+materially from those stated in any forward-looking statement based on a 
+number of important factors and risks, which are more specifically 
+identified in the companies' most recent SEC filings. Although the companies 
+may indicate and believe that the assumptions underlying the forward-looking 
+statements are reasonable, any of the assumptions could prove inaccurate or 
+incorrect and, therefore, there can be no assurance that the results 
+contemplated in the forward-looking statements will be realized.
+
+THE INFORMATION CONTAINED IN EVENT TRANSCRIPTS IS A TEXTUAL REPRESENTATION
+OF THE APPLICABLE COMPANY'S CONFERENCE CALL AND WHILE EFFORTS ARE MADE TO
+PROVIDE AN ACCURATE TRANSCRIPTION, THERE MAY BE MATERIAL ERRORS, OMISSIONS,
+OR INACCURACIES IN THE REPORTING OF THE SUBSTANCE OF THE CONFERENCE CALLS.
+IN NO WAY DOES REFINITIV OR THE APPLICABLE COMPANY ASSUME ANY RESPONSIBILITY FOR ANY INVESTMENT OR OTHER
+DECISIONS MADE BASED UPON THE INFORMATION PROVIDED ON THIS WEB SITE OR IN
+ANY EVENT TRANSCRIPT. USERS ARE ADVISED TO REVIEW THE APPLICABLE COMPANY'S
+CONFERENCE CALL ITSELF AND THE APPLICABLE COMPANY'S SEC FILINGS BEFORE
+MAKING ANY INVESTMENT OR OTHER DECISIONS.
+--------------------------------------------------------------------------------
+Copyright 2023 Refinitiv. All Rights Reserved.
+--------------------------------------------------------------------------------

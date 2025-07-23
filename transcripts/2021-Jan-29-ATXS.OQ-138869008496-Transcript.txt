@@ -1,0 +1,162 @@
+
+
+Refinitiv StreetEvents Event Transcript
+E D I T E D   V E R S I O N
+
+Catabasis Pharmaceuticals Inc Acquisition of Quellis Biosciences Inc Call
+JANUARY 29, 2021 / 2:00PM GMT
+
+================================================================================
+Corporate Participants
+================================================================================
+
+ * Jill C. Milne
+   Catabasis Pharmaceuticals, Inc. - Co-Founder, CEO, President & Director
+ * Andrea L. Matthews
+   Catabasis Pharmaceuticals, Inc. - SVP of Corporate Affairs
+ * Noah Clauser
+   Catabasis Pharmaceuticals, Inc. - CFO
+ * Andrew J. Nichols
+   Catabasis Pharmaceuticals, Inc. - Chief Scientific Officer
+
+================================================================================
+Presentation
+--------------------------------------------------------------------------------
+Operator    [1]
+--------------------------------------------------------------------------------
+
+          Good morning, ladies and gentlemen, and welcome to the Catabasis Pharmaceuticals Corporate conference call. (Operator Instructions)
+I would now like to turn the conference over to your host, Andrea Matthews, Senior Vice President in Corporate Affairs. Please go ahead.
+
+--------------------------------------------------------------------------------
+Andrea L. Matthews,  Catabasis Pharmaceuticals, Inc. - SVP of Corporate Affairs    [2]
+--------------------------------------------------------------------------------
+
+          Thank you. Good morning, everyone, and welcome to today's Catabasis Pharmaceuticals conference call.
+Earlier today, we issued a press release that outlined our acquisition of Quellis Biosciences and a private placement financing. This release is available on our website in the Investors section.
+As outlined on Slide 2, I would like to note that during today's call, we will make statements related to our business based on current and future expectations that may be considered forward-looking statements under federal securities laws. Actual results may differ materially from those indicated by these statements as a result of a variety of risks and uncertainties, including those discussed in our Q3, 2020 Form 10-Q and other SEC filings. Such statements represent our judgment as of today, and Catabasis undertakes no obligation to publicly update any forward-looking statements, except as required by law.
+With me today are Jill Milne, Chief Executive Officer; Noah Clauser, Chief Financial Officer; Andrew Nichols, Chief Scientific Officer; and Joanne Donovan, Chief Medical Officer.
+Jill will start with an overview. Jill?
+
+--------------------------------------------------------------------------------
+Jill C. Milne,  Catabasis Pharmaceuticals, Inc. - Co-Founder, CEO, President & Director    [3]
+--------------------------------------------------------------------------------
+
+          Thank you, Andrea, and good morning, everyone. We are here today to share what we see as an exciting opportunity in the rare disease space in a disease area of well understood biology and of unmet need. And a preclinical product candidate, we believe, has a high potential for success.
+First, before we get started, let me provide some background on our company. Catabasis is a rare disease company. We have been focused in Duchenne Muscular Dystrophy. However, when we stopped development of our lead program, edasalonexent, in October of last year, we made the decision to explore strategic opportunities for the company. Our management team and our Board of Directors have worked extensively with external advisers in a robust process to explore and evaluate a range of strategic options.
+We rigorously evaluated many proposals through the lens of what we believed would deliver value to our shareholders. Of the many options that we evaluated, one of the most exciting opportunities that we came across was a biotech company called Quellis. Quellis was founded in 2017 and funded privately through a seed financing and a Series A by Xontogeny, a life sciences accelerator and perceptive Xontogeny Ventures, a perceptive advisors fund.
+The company has operated virtually and largely in Stealth. They started with a vision to develop the best-in-class monoclonal antibody product for patients affected by hereditary angioedema or HAE. The Board and I believe there is a strong potential to achieve that vision with their lead product candidate.
+Our mission at Catabasis is to bring hope with life-changing therapies to patients and families that are affected by rare diseases. With the Quellis acquisition, we have acquired a differentiated rare disease opportunity in the HAE space, an area with recent innovation but remaining unmet medical need. An area with an active and knowledgeable patient advocacy presence and an area with a strong global market. The lead product, QLS-215 was designed with a clear vision aimed at addressing the needs of HAE patients. The Quellis team engineered a high affinity, long plasma half life, humanized monoclonal antibody against plasma kallikrein, a validated target for HAE treatment. We believe we can advance this antibody and demonstrate clinical proof-of-concept as early as in Phase I.
+On the next slide, our CFO, Noah, will talk through the transaction.
+
+--------------------------------------------------------------------------------
+Noah Clauser,  Catabasis Pharmaceuticals, Inc. - CFO    [4]
+--------------------------------------------------------------------------------
+
+          Thanks, Jill. As Jill said, today, we're announcing that Catabasis has acquired Quellis and completed a concurrent pipe financing of $110 million. We believe the acquisition and concurrent financing have set the company up with an exciting program in HAE, backed by an experienced team, leading health care investors, and importantly, capital to carry the program past important milestones and through 2023.
+At the close of the transactions, we will have approximately $150 million in cash, cash equivalents and short-term investments and assuming conversion of the pipe nonvoting preferred stock, there will be approximately 109 million common shares outstanding. We expect to use the proceeds from the concurrent financing primarily to enable completion of IND-enabling studies, Phase Ia and Phase Ib/II clinical trials for the lead program, QLS-215 in HAE. The company continues to be led by the Catabasis management team, and our Board is now comprised of 6 directors from Catabasis and 2 new directors from Quellis. Jill?
+
+--------------------------------------------------------------------------------
+Jill C. Milne,  Catabasis Pharmaceuticals, Inc. - Co-Founder, CEO, President & Director    [5]
+--------------------------------------------------------------------------------
+
+          Thanks, Noah. We will next touch on HAE and the therapeutic landscape and then discuss the lead program, QLS-215. HAE is a rare life-threatening and life-changing disease. It is characterized by recurrent, unpredictable and potentially life-threatening edema in skin, the abdomen and the airway.
+In most patients, it's caused by a deficiency in a protein called C1-inhibitor, which is an important component of the contact pathway. There are approximately 8,000 people affected in the United States. Patients have a significant burden of disease. They live with the fear of an attack, an attack that could lead to them being disfigured for a couple of days or an attack in their airway that could be fatal.
+Patients typically present with symptoms to their primary care physician or to the emergency room. Unfortunately, there is low awareness among emergency room physicians and PCPs. Although that is improving, on average, it typically takes a patient more than 8 years to get properly diagnosed. It is typically allergists and HAE specialists that make the definitive diagnosis and continue to oversee treatment.
+The patient photos here show a typical attack, which usually takes place over several days. The attack is triggered by pressure, stress or tissue damage, and sometimes the trigger is unknown. Over the course of hours, a patient experiences crescendo painful swelling, which typically peaks over a day or more and then starts to wane.
+As I've mentioned earlier, it is dysregulation of the plasma contact system that mediates the excessive swelling that underlies HAE symptoms. In a healthy individual, external triggers such as pressure from holding a tool, tissue stress or damage, activate factor XII, which then produces plasma kallikrein. The plasma kallikrein or pKal, produced cleaves a protein called high-molecular-weight kininogen, releasing bradykinin.
+Bradykinin binds to receptors on endothelial cells and causes fluid to flow out of blood vessels leading to swelling. This system in healthy individuals is kept in check by a protein called C1-inhibitor, which inhibits both factor XII and plasma kallikrein. In most patients with HAE, C1-inhibitor is either absent or defective. In an HAE patient without active C1-inhibitor, there is no break for plasma kallikrein and you get a runaway contact pathway, whereby plasma kallikrein continues to produce bradykinin which leads to pathological swelling. Understanding of the molecular mechanism leading to the excessive swelling underlies HAE attacks has enabled the development of therapeutics. The therapeutic landscape has evolved immensely.
+There are now 2 types of therapies available, acute therapies that are taken once an attack occurs, and prophylactic therapies that are taken chronically to prevent attacks from recurring. C1-inhibitor replacement therapies have been the main option to address attacks for a long time. More recently, the landscape changed in a really positive direction with the entrance of plasma kallikrein inhibitors. Lanadelumab or TAKHZYRO, is a monoclonal antibody targeting plasma kallikrein, which has shown reductions in the frequency of attacks.
+TAKHZYRO is indicated to prevent HAE attacks in people 12 years and older. It is a chronic, prophylactic therapy. It has established plasma kallikrein as a validated target for the treatment of HAE. TAKHZYRO is given frequently every 2 weeks and can result in injection site reactions. The strong launch of TAKHZYRO has validated the need for and interest in good prophylactic therapies.
+Let's move to our program. The goal for our program was to make the best plasma kallikrein monoclonal antibody, using TAKHZYRO as the benchmark antibody to beat. Quellis set out to make a high-potency antibody that could inhibit plasma kallikrein to the same levels as TAKHZYRO with less antibody, potentially allowing lower volume SC injections and reducing the potential for injection site reactions. Quellis also set out to make an antibody with a long plasma half life, potentially allowing for less frequent injections and preventing attacks longer.
+We are aiming to provide patients with a differentiated best-in-class new therapy using a trusted treatment modality to prevent attacks in HAE over an extended period of time.
+Our Chief Scientific Officer, Andy Nichols, will now review data from the QLS-215 program.
+
+--------------------------------------------------------------------------------
+Andrew J. Nichols,  Catabasis Pharmaceuticals, Inc. - Chief Scientific Officer    [6]
+--------------------------------------------------------------------------------
+
+          Thanks, Jill. QLS-215 was designed from the beginning with the goal of being the best-in-class monoclonal antibody prophylactic treatment for HAE. QLS-215 was developed through a hybridomas screening and antibody optimization process. From the more than 11,000 hybridomas that were screened, about 1/3 were identified as plasma kallikrein binders. These were screened for selectivity for plasma kallikrein versus pre-kallikrein and one-hit was identified as being selective while still retaining plasma kallikrein inhibitory activity.
+This hit was humanized and optimized for affinity and overall properties. And at this point, the Quellis team modified the Fc portion of the antibody using techniques that are known to increase antibody half-life by about threefold in humans, and that give half-life in the 50 to 100-day range. This ultimately led to QLS-215 and several backup antibodies.
+To characterize the potency of QLS-215, Quellis used a physiologically relevant functional assay that follows Bradykinin release from high molecular weight kininogen as catalyzed by plasma kallikrein. It is important to note that the concentration of the high molecular weight kininogen used in the assay, 600 nanomolar, is that which circulates in humans. And the concentration of plasma kallikrein, 30 nanomolar is in the range of what is being estimated in plasma from HAE patients.
+You can see that both QLS-215 and Lanadelumab show a dose-dependent inhibition of plasma kallikrein activity. With QLS-215 exhibiting greater potency than Lanadelumab. The IC90 for lanadelumab is approximately 300 nanomolar while that for QLS-215 is about 30 nanomolar. In other words, in this functional in vitro assay, QLS-215 has been shown to have about a tenfold improvement in potency over lanadelumab.
+So why are we interested and focused on the IC90? It is because it is the concentration of antibody that results in 90% inhibition of kallikrein activity. Which is believed to be the therapeutically relevant level of inhibition in order to prevent HAE attacks. The disease relevance for the potency determination in this assay is highlighted by the fact that clinical studies with lanadelumab have shown that steady state plasma levels of 200 to 300 nanomolar are required to optimally reduce HAE attack rate and maximize attack free duration. In other words, the IC90 for lanadelumab in this assay system is similar to the plasma concentration required for clinical efficacy.
+In the next slide, we look at the plasma half-life of both lanadelumab and QLS-215. And we used nonhuman primates for these studies since they are the best species to evaluate antibody pharmacokinetics. In these nonhuman primates, lanadelumab has a half-life of around 10 days. And this half-life is consistent with what has been reported in the FDA review documents and publications for lanadelumab in nonhuman primates.
+This half life is also consistent with what is reported for similar antibodies. In contrast, in nonhuman primates, QLS-215 dosed at the same dose as lanadelumab has about a threefold longer half-life or about a 33, 34 day half-life. And based on previous antibodies, we expect that the half-life in humans will translate to several months, with -- which if demonstrated in clinical studies, would allow for less frequent dosing than lanadelumab.
+Now if we look at both the in vitro potency data and the half-life in non-human primates, we can begin to understand the potential for duration of efficacy for each of the antibodies. In the left-hand panel for lanadelumab, you can see that the plasma level falls below the IC90 by approximately day 10. This means that 10 days after the antibody is dosed, the levels fall below the therapeutic threshold that we are targeting. In contrast, you can see in the right-hand panel, that the plasma level of QLS-215 remained above the predicted minimum therapeutic concentration for more than 84 days, the full duration of this experiment.
+The next slide shows a PK/PD model that synthesizes that this same data, puts it in a different format and perhaps an easier to digest context. The model is based on the same potency and PK data shown in the previous slides, but what is plotted here is the percent kallikrein inhibition expected at the concentration of antibody at each of the time points. In other words, the measured plasma concentration of antibody at each time point from the PK experiments can be used to predict the expected plasma kallikrein inhibition calculated from the kallikrein inhibition assays shown earlier.
+You can see that out through 84 days following QLS-215 dosing, plasma kallikrein is expected to be, for all intents and purposes, fully inhibited. For lanadelumab, the inhibition of plasma kallikrein falls below that 90% inhibition level by day 10, and by day 20, is about 50%. These preclinical data shows that for the same dose of antibody, QLS-215 is predicted to have a significantly longer duration of action than lanadelumab. This could also potentially allow for a lower dose of QLS-215, while still retaining a longer duration of action. This preclinical data show that QLS-215 has the potential to be a plasma kallikrein antibody with an increased potency and extended duration of action.
+Based on this, QLS-215 is being progressed into development and cell line development has been initiated with a CDMO that has significant experience in development and commercialization of Biotherapeutics. A high producing proprietary cell line has been identified that, we believe, will be sufficient to generate the material for toxicology studies and to generate the master cell bank.
+And with that, I will pass things back to Jill.
+
+--------------------------------------------------------------------------------
+Jill C. Milne,  Catabasis Pharmaceuticals, Inc. - Co-Founder, CEO, President & Director    [7]
+--------------------------------------------------------------------------------
+
+          Thanks, Andy. Let's evaluate the progress that has been made on making the best possible plasma kallikrein antibody to treat HAE. Quellis has demonstrated that they have achieved the preclinical goals for QLS-215. Specifically, we have shown that QLS-215 is more potent and has a longer plasma half-life than lanadelumab in relevant preclinical models that are known to translate well to human.
+Next is to demonstrate these benefits in the clinic. The plan for our expected early clinical trials is to establish clinical proof-of-concept to support the profile we anticipate for QLS-215 in terms of activity and half-life. For Phase Ia, we believe we can do this in healthy volunteers, where we will plan to step through escalating doses. We will monitor PK and utilize a pharmacodynamic biomarker assay to assess biological activity. Together, we expect that this data, if favorable, would allow us to determine the plasma half-life in human as well as the predicted time above therapeutic thresholds. Then we would anticipate moving into HAE patients in the Phase Ib/II trial, where we expect to also learn about the activity of QLS-215 with additional pharmacodynamic assessments.
+We see this as an opportunity to demonstrate clinical proof-of-concept in HAE patients and monitor HAE attacks as an exploratory assessment.
+On the next slide, we have outlined our cash position and a high level timeline. First, the anticipated cash following the closing of the transaction will be approximately $150 million. We expect this cash position to support runway through 2023. In terms of upcoming milestones, we anticipate that this year, we will complete the manufacture of material to support the IND-enabling toxicology studies as well as the GMP material for the clinic.
+Based on our current understanding of the timeline and program, we anticipate filing an IND in 2022 and initiating the Phase I study. We expect the initial proof-of-concept results from the Phase I trial before the end of 2022. We expect that these data can provide clinical proof-of-concept for the activity and plasma half-life improvements for QLS-215 as compared to lanadelumab.
+In addition, this data, if positive, is intended to allow us to plan and initiate the next clinical trial in HAE patients in 2023, with initial results from the Phase Ib/II trial by the end of 2023. We also plan to disclose a second program that is in the Quellis pipeline later this year and move that program forward next year.
+In summary, we believe that the QLS-215 program represents a unique and exciting opportunity in the HAE space, a disease area with an established clinical and regulatory path. Importantly, QLS-215 targets an already clinically validated mechanism, and it does so with a trusted modality in the form of a monoclonal antibody. We believe QLS-215 has the potential to be a best-in-class agent that provides greater efficacy and longer duration of effect.
+We hope this translates to a better therapy for patients. We have already established this differentiated profile in preclinical models that are predictive. We have the opportunity to establish clinical proof-of-concept for this differentiated profile early in Phase I. Our plan is to advance QLS-215 as quickly as possible to clinical proof-of-concept. We also hope to advance a second, as yet, undisclosed rare disease program.
+Ultimately, we plan to expand our rare disease pipeline to help us achieve our mission of bringing hope with life-changing therapies to patients and families affected by rare diseases.
+With the acquisition of Quellis and the concurrent financing complete, a strong stable of new investors on board and a clear corporate focus and strong scientific vision, we believe we can meaningfully advance our mission for patients while driving value for our shareholders.
+
+--------------------------------------------------------------------------------
+Operator    [8]
+--------------------------------------------------------------------------------
+
+          Ladies and gentlemen, this concludes today's conference. Thank you for your participation, and have a wonderful day. You may all disconnect.
+
+
+
+
+
+
+
+--------------------------------------------------------------------------------
+Definitions
+--------------------------------------------------------------------------------
+PRELIMINARY TRANSCRIPT: "Preliminary Transcript" indicates that the 
+Transcript has been published in near real-time by an experienced 
+professional transcriber.  While the Preliminary Transcript is highly 
+accurate, it has not been edited to ensure the entire transcription 
+represents a verbatim report of the call.
+
+EDITED TRANSCRIPT: "Edited Transcript" indicates that a team of professional 
+editors have listened to the event a second time to confirm that the 
+content of the call has been transcribed accurately and in full.
+
+--------------------------------------------------------------------------------
+Disclaimer
+--------------------------------------------------------------------------------
+Refinitiv reserves the right to make changes to documents, content, or other 
+information on this web site without obligation to notify any person of 
+such changes.
+
+In the conference calls upon which Event Transcripts are based, companies 
+may make projections or other forward-looking statements regarding a variety 
+of items. Such forward-looking statements are based upon current 
+expectations and involve risks and uncertainties. Actual results may differ 
+materially from those stated in any forward-looking statement based on a 
+number of important factors and risks, which are more specifically 
+identified in the companies' most recent SEC filings. Although the companies 
+may indicate and believe that the assumptions underlying the forward-looking 
+statements are reasonable, any of the assumptions could prove inaccurate or 
+incorrect and, therefore, there can be no assurance that the results 
+contemplated in the forward-looking statements will be realized.
+
+THE INFORMATION CONTAINED IN EVENT TRANSCRIPTS IS A TEXTUAL REPRESENTATION
+OF THE APPLICABLE COMPANY'S CONFERENCE CALL AND WHILE EFFORTS ARE MADE TO
+PROVIDE AN ACCURATE TRANSCRIPTION, THERE MAY BE MATERIAL ERRORS, OMISSIONS,
+OR INACCURACIES IN THE REPORTING OF THE SUBSTANCE OF THE CONFERENCE CALLS.
+IN NO WAY DOES REFINITIV OR THE APPLICABLE COMPANY ASSUME ANY RESPONSIBILITY FOR ANY INVESTMENT OR OTHER
+DECISIONS MADE BASED UPON THE INFORMATION PROVIDED ON THIS WEB SITE OR IN
+ANY EVENT TRANSCRIPT. USERS ARE ADVISED TO REVIEW THE APPLICABLE COMPANY'S
+CONFERENCE CALL ITSELF AND THE APPLICABLE COMPANY'S SEC FILINGS BEFORE
+MAKING ANY INVESTMENT OR OTHER DECISIONS.
+--------------------------------------------------------------------------------
+Copyright 2023 Refinitiv. All Rights Reserved.
+--------------------------------------------------------------------------------

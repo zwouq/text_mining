@@ -1,0 +1,382 @@
+
+
+LSEG StreetEvents Event Transcript
+E D I T E D  V E R S I O N
+
+Pharming Group NV M&A Call
+December 16, 2024 / 1:00PM UTC
+
+================================================================================
+Corporate Participants
+================================================================================
+
+ * Sijmen de Vries
+   Pharming Group NV - Chief Executive Officer, Executive Director
+ * Anurag Relan
+   Pharming Group NV - Chief Medical Officer
+ * Stephen Toor
+   Pharming Group NV - Chief Commercial Officer
+
+================================================================================
+Conference Call Participants
+================================================================================
+
+ * Operator
+   
+ * Jeff Jones
+   Oppenheimer - Analyst
+ * Joe Pantginis
+   HC Wainwright - Anlayst
+ * Alistair Campbell
+   RBC Capital Markets - Analyst
+ * Ben Jackson
+   Jefferies - Analyst
+ * Sushila Hernandez
+   Van Lanschot Kempen - Analyst
+ * Simon Scholes
+   First Berlin - Analyst
+
+================================================================================
+presentation
+--------------------------------------------------------------------------------
+Sijmen de Vries, Pharming Group NV - Chief Executive Officer, Executive Director    [1]
+--------------------------------------------------------------------------------
+Good morning, good afternoon, ladies and gentlemen, welcome to this conference call where we will be discussing the proposed acquisition of Abliva AB as announced yesterday. And before I do that, I would like to go to the next slide with the forward-looking statement.
+Please, oh, that's not next slide. Sorry, I'm here. Yes and be beware, please, that we will be making forward-looking statements today and forward-looking statements of course because we have at this point in time, ideas and expectations, plans and those can be materially different from what can happen in the future as we all know.
+So let me go back one slide and in that case let me introduce who's here with us. So we have here Anurag Relan, our Chief Medical Officer; Stephen Toor, our Chief Commercial Officer, who will be speaking as well. And in the room here with me is my colleague, Jeroen Wakkerman, Chief Financial Officer, to help answer any questions that may arise. (technical difficulty) through to the first section of the whole thing, the strategic rationale and please let's forward it to slide number 5, I suppose, yeah. Thank you.
+Yes. So we're building this global rare disease company. And for those of you who have been listening to our webcast, you are very familiar with this picture, at least most of it, where you can see clearly that we do that by means of RUCONEST, which of course, is our lead products coming from our own research, where we actually are generating significant sales in the US market place and which is a significant cash generator and where we see continuing increase in prescribers and patients using it for treatment of acute attacks of hereditary angioedema.
+And then, of course, we -- a number of years, five years ago, we were able to in-license Joenja for the treatment of APDS, which is in the meanwhile, been approved in the United States, United Kingdom and Israel. And is on the market in the United States and where we expect to expand globally because we have regulatory submissions in, for instance, European Union going on Canada, Australia, and we're branching out to other territories with Joenja as well. Joenja's approved, of course, for patients with 12 years and up. And we have pediatric trials and Japan filing that we plan to do soon.
+So that is our current business, obviously. So -- and we've always said that we are, of course, hunting for new opportunities. And today is a very good moment because we've been able to find, identify a very interesting product for -- to broaden our pipeline. And we're talking today about KL1333 that is being developed by Abliva AB, a Swedish public company for the treatment of mitochondrial DNA, primary mitochondrial disease; and Anurag, our Chief Medical Officer, will go into detail more about the disease.
+The product is in a pivotal study at the moment following a futility analysis -- successful futility analysis. And as you have seen from the press release, as we believe all in the US blockbuster potential. So a very interesting compound and not too far from the market. Hence, why you see it here on the right-hand side at the top of our new products that we want to develop because it's going to hit the market before then the subsequent indications that we are developing for leniolisib in the PIDs and an undisclosed third indication that we're planning to develop an leniolisib for.
+So we're very excited about this possibility that this option to add to our pipeline and to get a product in our pipeline that has the potential to hit the market before the subsequent indications that we are developing for Joenja and have the significantly more derisked then Joenja second and third indications today.
+And then I would like to go to the next slide to deal with you -- to go in a little bit more into detail what the terms and the financial details are of the acquisition. So obviously, as you have seen from the announcement, it is a public tender that offer that we have on the Swedish takeover act as it is a Swedish listed company. We've offered SEK0.45 in cash for each of the shares of Abliva AB, which total approximately to USD66 million at today's exchange rates. And we have defined a minimum share acquisition target of 90% of the shares plus one. And of course, the approval -- the bid is still subject to customary regulatory approvals.
+We will fund this with our available cash as you well know, we have a significant cash balance. We reported more than $170 million in the bank as per Q3. And of course, what is also a very, very important is that the available cash and also the future cash flows that we have are expected to be able to cover both the acquisition, of course, from an existing cash and the future cash flows, we'll be able to cover the development costs for KL1333.
+KL1333 is not totally developed by Abliva. It is licensed from a South Korean company, Yungjin Pharm. And those are -- that company is entitled to milestones and royalty payments. But those are modest of a modest size single digit to low digit royalties on net sales, tiered obviously, plus some development milestones.
+So all in all, we believe we have a very interesting opportunity here at hand, which is significantly de-risked and which we hope will come to a conclusion by the time the acceptance period has expired, which is, as you can see on the right-hand side there, around February 7, 2025.
+So it is really an important transaction. It is a confirmation of our strategy to develop a high value pipeline with a number of upcoming product launches over the coming years. And this is an important one and the first one to come, of course following the build-out of Joenja for APDS.
+So if you look now to the next slide, and we have already depicted the pipeline now. You see now that KL1333 is further advanced than leniolisib subsequent indications and therefore, will become once the acquisition is completed, an important part of -- an important value driver for the future growth of our company.
+So with that said, I would like to now hand over to our colleague, Anurag Relan, our Chief Medical Officer, to talk more about the compound and the disease. Over to you, Anurag.
+--------------------------------------------------------------------------------
+Anurag Relan, Pharming Group NV - Chief Medical Officer    [2]
+--------------------------------------------------------------------------------
+Thank you, Sijmen. So let's talk a little bit now about why we're excited about this opportunity and specifically why we made this proposed acquisition today. And on the next slide, we can see some details about the disease as well as the opportunity here. As a reminder, of course, mitochondria are the powerhouse of cells. That's something we all learn in grad school then mitochondria are critical to producing ATP through a process called cellular respiration. And that ATP drives the energy that produces the energy of the cell.
+And that energy is needed across numerous cellular types, but in particular, muscle cells, and we'll talk a little bit about why that's important for this program. And we know that these patients, who have primary mitochondrial diseases, they're rare diseases, and they affect the abilities -- mitochondria's ability to generate energy.
+And although they're a heterogeneous group of diseases, they do have a common thread across them. And specifically, that is that these patients suffer from severe fatigue and muscle weakness. And as a result of all of these different issues with their mitochondria's ability to generate energy, they also have reduced life expectancy unfortunately. And the type of fatigue and muscle weakness that we're talking about really here, these are debilitating symptoms. These patients cannot leave normal lives because of this significant problem in their mitochondria.
+KL1333 is a novel first in disease therapy using a mechanism that addresses really this underlying disorder, and we'll talk about what that mechanism is. And what we're targeting with this disease is what this compound is mitochondrial DNA mutations. And here, we're talking about patients, who are already diagnosed with this condition where you can see, there's more than 30,000 patients who already have been diagnosed with mitochondrial DNA mutations in the US, Europe and as well as in the UK.
+There is a pivotal study ongoing with KL1333 and along with end points that are being agreed upon with FDA. And as Sijmen said, we anticipate readout of this in 2027 with a potential approval by the end of 2028. So it's obviously a significant commercial opportunity with significant unmet medical need, and these patients suffer because of that.
+We have the experience and expertise to bring these types of therapies as we've done with RUCONEST and with Joenja to patients. And we can -- and then as my colleague, Steve will talk about later, we can leverage our existing commercial infrastructure to be able to do that.
+Let's talk on the next slide a little bit more about these dysfunctional mitochondria that these patients have. And as I mentioned, mitochondria are critical for energy production. And what we're talking about here are a group of genetic disorders that patients have that are driven by either mutations in their mitochondrial DNA or in their nuclear DNA and specifically, in this program, we're focused on the mitochondrial DNA.
+Because of this dysfunctional mitochondria that these patients have, may result in an abnormal NAD+ to NADH ratio. And as a consequence of that, they're not able to produce ATP in a normal way. And because they're not producing ATP they have organ dysfunction and their overall health deteriorates.
+And again, although there is a wide range of symptoms that these patients have, the most common symptoms that they have across this heterogeneous group of mitochondrial diseases is severe fatigue and muscle weakness. And this is well validated by patients across a number of studies and including across this recent report from the mitochondrial disease foundation.
+Because these patients have decreased energy production, they're also not able to produce additional mitochondria through this process called mitochondrial biogenesis, which is also a very important as part of normal processes. And on the next slide, we can see a little more about this in terms of how patients are presenting.
+Again, these patients often will present with weakness with fatigue and they'll often see their primary care doctor. And as with many rare diseases, they'll go on an arduous journey to get an eventual diagnosis. Oftentimes, we'll end up with a neurologist or a geneticist, and that will lead to a genetic test that can specifically diagnose this mitochondrial disease mutation that these patients have. This will often happen at an academic center, where there are specialists in mitochondrial diseases. And these tests, again, there going to be a number of tests that are done routine lab tests, but specifically the genetic testing that is available to help diagnose mitochondrial DNA mutations.
+Because these patients have had these problems with their mitochondria, as I mentioned, this severely impacts their daily lives, there's loss of quality of life, there's loss of independence and a whole variety of mental health issues that result from that. And unfortunately, because of the course of the disease, there's a significant impact on their life expectancy.
+And lastly, as I said earlier, there are no approved treatment options. It's unfortunate because these patients are really limited to using vitamin supplements and trying to improve their muscle strength with physical therapy. And you can see from this quote on the bottom of the slide here, the types of muscle fatigue and weakness that these patients experience and how that impacts them just in their routine activities of daily living.
+On the next slide, we can see how KL1333 works. And it really corrects the underlying pathophysiology in these patients. So as I mentioned, these patients have dysfunctional mitochondria and that results in an abnormal NAD+ to NADH ratio and because of that amoral ratio, that are not able to produce ATP in a normal way. KL1333 acts as a substrate for an enzyme called NQO1 and thereby being able to transfer electrons in this electron transport chain to increase NAD+ and eventually increase the production of ATP.
+And by doing this, it's able to restore the energy regulation and improve electron transport change function. And as I mentioned earlier, it's also able to stimulate mitochondrial biogenesis. So the synthesis of additional mitochondria. And because of that, we expect to be able to see an improvement in symptom reduction and disease modification because of this ability to correct this underlying problem with NAD+ in these patients mitochondria.
+And on the next slide, we can see some of these attributes outlined. So we've seen data showing that KL1333 directly increases the NAD+ to NADH ratio, and we've even seen this in cells of patients with mitochondrial diseases. This mechanism is upstream from other competing mechanisms that are being developed in primary mitochondrial diseases. The drug itself is an oral small molecule with twice daily dosing. The safety profile thus far has been favorable. There is good IP protection for this. And we also have, with the compound regulatory designations such as orphan drug as well as fast track with FDA.
+And as such, it becomes the potential first-in-disease compound for this disease with a registrational clinical study ongoing. And as I mentioned earlier, we've seen this improved energy regulation and electron transport chain function. We've seen these other things here, and I'll talk a little bit about the data that we have seen in terms of fatigue reduction as well as increased exercise capacity.
+And if we go to the next slide, we can see some of that data that's been collected in a Phase 1b program in patients. And what we've seen is that patients, even given a dose of 50 milligrams once a day, only after 10 days had reduced fatigue. And you can see that on the right side in the top left panel, where patients on placebo did not have this improvement in their fatigue scores, whereas patients treated with KL1333 did. Likewise, we saw improvements in muscle function. So this was a test call that's a -- it's called a sit-to-stand test. So literally, it's testing patients' ability to count how many times they can move from a seated position to a standing position in 30 seconds.
+And you can see, again, patients who are treated with KL1333 had an improvement, again, within a short period of time. And importantly, we can see biochemical improvements too. So in a dose-related manner, you can see on the bottom panel that these patients have an approved lactate to pyruvic ratio. And again, because these patients have impairments with their oxidated phosphorylation and inability to use oxygen to generate ATP, they have higher levels of lactate.
+What we see when we treat these patients with KL1333 that those lactate levels come down and you see that reflected in that lactate to pyruvic ratio improving. Again, reflecting the target engagement of the compound with the enzymes in the mitochondria. And there were no SAEs or serious adversity that's reported in the study either. So now let's turn to the pivotal study program that's underway on the next slide.
+And this study was designed with input both from patients as well as regulators, and we have seen that with this program, both FDA and EMA have accepted that the single study could be used to support a registration. In fact, FDA has gone further to say that this alternative primary endpoint design, which I'll talk to you a little bit about, has said that even achieving one of the two endpoints would be sufficient for filing and review. And there have been regular discussions, especially with FDA to facilitate the alignment about the pivotal study design program.
+And you see on the right side what that design looks like. It's a randomized, double-blind, placebo-controlled study. These are adult patients who have mitochondrial DNA mutations as well as documented, fatigue and muscle weakness. And the two endpoints are a disease-specific mitochondrial fatigue assessment form called the PROMIS, as well as the other endpoints that I mentioned earlier, which is an assessment of muscle weakness using this 30 second sit-to-stand test.
+So patients are randomized three to two in favor of active drug. And there was a futility analysis conducted after 40 patients completed 24 weeks on therapy. And then there eventually will be a primary efficacy analysis after all patients complete week 48. And then these patients will then have the ability to roll over into an open-label extension study.
+And on the next slide, we can see the results of that utility analysis, which we think are actually quite important. And this was a positive futility analysis based on those 40 patients. Let me tell you a little bit about those 40 patients first. These are 40, again, adult patients with primary mitochondrial disease with mtDNA mutations. These were across several countries. You see them listed there and across 18 sites in these countries. And again, this was an interim analysis of -- a preplanned interim analysis conducted at 24 weeks earlier this year.
+And what this interim analysis showed was that both endpoints passed futility. So what does that mean? What that means is that there were differences favoring the active arms or favoring KL1333 for both endpoints, suggesting when the independent data monitoring pivoting reviews this data that they see that if these trends continue consistently the study would be adequately powered to be able to detect the difference between active and placebo.
+And specifically, the data monitoring committee made the recommendations that the safety and tolerability profile was acceptable. We did not see any reason to change dosing or any other elements of the study design, and they confirm that with the population of 180 total patients we would have adequate power to be able to detect the difference between these two groups.
+So this interim analysis, this positive interim analysis actually is a significant step forward in this program, and we think of this as a significant derisking of the program as we evaluated it as part of our diligence. Of course, the program will continue to 180 patients, and there still remain risks, but this was very important for us in terms of our evaluation of the program to be able to judge the efficacy of the product and judge that the program is well suited to be able to evaluate the efficacy of the product.
+And with that, I'm going to turn it over to Steve to talk to you a little bit more about the opportunity.
+--------------------------------------------------------------------------------
+Stephen Toor, Pharming Group NV - Chief Commercial Officer    [3]
+--------------------------------------------------------------------------------
+Thank you, Anurag. Good morning, everybody. If you could transition to my first slide, please. So as the title suggests, this is a first-in-class rare disease therapy with blockbuster potential. And over the past decade, we've shown farming’s expert in rare disease commercialization, effectively working with patients, physicians and advocacy groups to meet their often unmet needs and build strong businesses. Which is the some of the reasons I'm very pleased we've acquired KL1333 for PMD, actually a fairly large rare disease market.
+It's a great strategic fit, and then it expands our portfolio, adding another product for patients who today have no effective alternatives as Anurag already stated. I know, it's important to note that KL1333 provides the opportunity to deliver on the significant unmet needs of a patient group with a relentlessly progressive disease, characterized by severe fatigue, muscle weakness, reduced quality of life and unfortunately, as Anurag already said, often premature mortality.
+With this product, we can deliver the option to become the standard of care for a significant population of patients, who are mostly already diagnosed and there's already significant advocacy for the disease, the patients and the medical community or through organizations such as MitoAction, UMDF and the Mitochondrial Medicine Society. There are also centers of excellence across the U.S. where the majority of these patients are already diagnosed and treated. So PMD is already quite a mature market waiting for an effective treatment option. And with KL1333, we can deliver that in a simple, twice daily oral presentation.
+If we move to the next slide. So on this slide, you can see the opportunity clearly broken down. And as I said, with the prevalence, which is over $230 million per, and with over 50% of those patients are already diagnosed and eligible for the full control and therefore, for the post-approval label, this is a big opportunity.
+As already mentioned previously, this is a severe and relentlessly progressive disease. And as the numbers show is on the largest site for a rare disease that represents an opportunity for us to deliver a therapeutic solution for a large patient population in desperate need that would also add value for our broader stakeholders and further strengthen our business here at Pharming.
+If you transition to the next slide. Here, you can see the centers of excellence that have already been mentioned across the country. There's approximately 20 of them. And with KL1333, we can largely utilize the expertise and infrastructure we already have in place to access them. The remaining patients are predominantly in the larger academic institutions, and we're already present in those as well after with RUCONEST and certainly with Joenja.
+As mentioned, KL1333 is a great fit for us, both slotting nicely into our existing portfolio and aligning to our existing expertise systems and processes. So we're excited to make this acquisition and bring real value to all our stakeholders, but more especially PMD patients, their families and their HCPs.
+And with that, I'd like to hand over to Sijmen to provide his concluding remarks.
+--------------------------------------------------------------------------------
+Sijmen de Vries, Pharming Group NV - Chief Executive Officer, Executive Director    [4]
+--------------------------------------------------------------------------------
+Thank you, Stephen. Yes, and if you would like to forward the slide to number 22. So as you heard from my colleagues, we're very excited. Having made a bit for Abliva to acquire KL1333. Because I hope you understood that it fits perfectly in our strategy.
+We always said we were looking for products with clinical proof of concept. And in fact, what you see here is a product that has a clinical proof-of-concept in a Phase 1b but is already in a pivotal trial and a derisk pivotal trial because of the futility analysis. So we're very excited about the prospect of being able to continue to work on the development of KL1333 and bring it to the market.
+We're also very excited about the fact that the main shareholders in Abliva and the Board and management of Abliva have unanimously backed there -- unanimously backing this transaction. And as you saw from the press release, almost 50% of the shares of Abliva have already been pledged to actually accept the offer going forward. So we look forward to bringing this further forward. We look forward to updating you on the next occasion when of course, the bid process starts.
+So with that said, I would like to now open the floor for questions.
+
+================================================================================
+q-and-a
+--------------------------------------------------------------------------------
+Operator,     [1]
+--------------------------------------------------------------------------------
+(Operator Instructions)
+Jeff Jones, Oppenheimer.
+--------------------------------------------------------------------------------
+Jeff Jones, Oppenheimer - Analyst    [2]
+--------------------------------------------------------------------------------
+Thank you very much for taking the question guys and congrats on the deal. It sounds very exciting.
+--------------------------------------------------------------------------------
+Sijmen de Vries, Pharming Group NV - Chief Executive Officer, Executive Director    [3]
+--------------------------------------------------------------------------------
+Thank you.
+--------------------------------------------------------------------------------
+Jeff Jones, Oppenheimer - Analyst    [4]
+--------------------------------------------------------------------------------
+Can you comment on how much you anticipate your cost to complete the FALCON trial? And any cash that's coming in on the balance sheet for Abliva. And then on the technical side, can you comment on how these patients are managed today?
+--------------------------------------------------------------------------------
+Sijmen de Vries, Pharming Group NV - Chief Executive Officer, Executive Director    [5]
+--------------------------------------------------------------------------------
+Yeah. So the cash, so we estimate -- I think we have said between [SEK100 million and SEK125 million] for the development cost going forward from our own future cash flows. And do you have any details on the cash balance on the Abliva. It's probably a pretty small, right?
+--------------------------------------------------------------------------------
+Anurag Relan, Pharming Group NV - Chief Medical Officer    [6]
+--------------------------------------------------------------------------------
+Very small, it's about SEK25 million.
+--------------------------------------------------------------------------------
+Sijmen de Vries, Pharming Group NV - Chief Executive Officer, Executive Director    [7]
+--------------------------------------------------------------------------------
+Yes, about EUR4 million, right.
+--------------------------------------------------------------------------------
+Anurag Relan, Pharming Group NV - Chief Medical Officer    [8]
+--------------------------------------------------------------------------------
+Sorry, SEK4.5 million. So it's almost nothing.
+--------------------------------------------------------------------------------
+Sijmen de Vries, Pharming Group NV - Chief Executive Officer, Executive Director    [9]
+--------------------------------------------------------------------------------
+So it's -- it's almost nothing, yeah. And then the technical question, Anurag, the current state of affairs. So with regards to treatments?
+--------------------------------------------------------------------------------
+Anurag Relan, Pharming Group NV - Chief Medical Officer    [10]
+--------------------------------------------------------------------------------
+Yeah, Jeff. So essentially, these patients have a number of other symptoms. So in terms of the fatigue, there's not much for them. Oftentimes, they will get these vitamin supplements. But the rest of the symptoms are managed.
+So if they have seizures, those are managed, if they have issues with cardiomyopathy that is managed in the traditional way. But in terms of trying to address the muscle weakness or the fatigue, it's actually quite limited in terms of what's available to them today.
+--------------------------------------------------------------------------------
+Jeff Jones, Oppenheimer - Analyst    [11]
+--------------------------------------------------------------------------------
+Great. Thank you very much guys. I'll jump back into queue.
+--------------------------------------------------------------------------------
+Operator,     [12]
+--------------------------------------------------------------------------------
+Joe Pantginis, HC Wainwright.
+--------------------------------------------------------------------------------
+Joe Pantginis, HC Wainwright - Anlayst    [13]
+--------------------------------------------------------------------------------
+Everybody. Good morning. Thanks for taking the question and congrats on the transaction as you've delivered on one of your goals here and happy holidays to everybody.
+--------------------------------------------------------------------------------
+Sijmen de Vries, Pharming Group NV - Chief Executive Officer, Executive Director    [14]
+--------------------------------------------------------------------------------
+Thank you, Joe.
+--------------------------------------------------------------------------------
+Joe Pantginis, HC Wainwright - Anlayst    [15]
+--------------------------------------------------------------------------------
+You bet. So first, I guess from the clinical side going forward, would you be looked to working towards any improvements in the diagnosis and patient identification?
+--------------------------------------------------------------------------------
+Sijmen de Vries, Pharming Group NV - Chief Executive Officer, Executive Director    [16]
+--------------------------------------------------------------------------------
+Would you comment on that Anurag.
+--------------------------------------------------------------------------------
+Anurag Relan, Pharming Group NV - Chief Medical Officer    [17]
+--------------------------------------------------------------------------------
+I'm sorry, I didn't hear the question.
+--------------------------------------------------------------------------------
+Joe Pantginis, HC Wainwright - Anlayst    [18]
+--------------------------------------------------------------------------------
+Sure. Would you be working towards any improvements in genetic testing, diagnosis and patient identification going forward?
+--------------------------------------------------------------------------------
+Anurag Relan, Pharming Group NV - Chief Medical Officer    [19]
+--------------------------------------------------------------------------------
+Sijmen, could you repeat the question? I only --
+--------------------------------------------------------------------------------
+Sijmen de Vries, Pharming Group NV - Chief Executive Officer, Executive Director    [20]
+--------------------------------------------------------------------------------
+Joe asked if we're working on improving the diagnosis for the disease now. But I think in this case, it's not the biggest issue, right, to diagnose because a number of these all those numbers of patients that were quoting has been diagnosed and are confirmed with diagnosis, right, Anurag?
+--------------------------------------------------------------------------------
+Anurag Relan, Pharming Group NV - Chief Medical Officer    [21]
+--------------------------------------------------------------------------------
+Yeah, absolutely. So I think there's two things here, Joe, the first is there is a large diagnosed pool already out there. And this is something that we've confirmed through a number of different ways, including actual claims data in the United States. We were actually able to confirm the number of patients that are out there with a diagnosis of mitochondrial DNA, primary mitochondrial disease.
+That's number one. Number two to your question, there are also probably a significant number of undiagnosed patients. And again, as we continue our efforts in terms of the drug development, as well as disease education, we also think that those numbers will grow as a result of that.
+--------------------------------------------------------------------------------
+Joe Pantginis, HC Wainwright - Anlayst    [22]
+--------------------------------------------------------------------------------
+No, that's helpful. Thank you. And then one question about the FALCON study, especially when you consider end points like sit to stand test, how do you consider the risk of, say the training effect of the placebo arm? Because if you continue to repeat something over time, you tend to get better anyway or does the underlying impact from mitochondria or lack of mitochondria energy, supplant that.
+--------------------------------------------------------------------------------
+Anurag Relan, Pharming Group NV - Chief Medical Officer    [23]
+--------------------------------------------------------------------------------
+It's really the latter, Joe. So these patients have a progressive disease that again, their muscle strength worsens over time. And in the absence of anything such as KL1333, they don't typically have spontaneous improvement. Now, there can be some improvement there.
+Of course, that's the whole purpose of the placebo controlled design is to have those patients, distributed across the two groups. But we think that with this type of design, as well as the assessment of the second end point fatigue, that the study is well positioned. And now we know also with the interim analysis, we know that it's adequately powered to be able to detect the types of differences that were originally anticipated when the study was designed.
+--------------------------------------------------------------------------------
+Joe Pantginis, HC Wainwright - Anlayst    [24]
+--------------------------------------------------------------------------------
+Very helpful. And if you don't mind, I'm going to really ask the forward-looking statement here because you know, investors are fickle and they're always about what's next. So Sijmen, do you anticipate or are you still in the shopping mode right now?
+--------------------------------------------------------------------------------
+Sijmen de Vries, Pharming Group NV - Chief Executive Officer, Executive Director    [25]
+--------------------------------------------------------------------------------
+Yes, Joe, this is not the last deal. Definitely not. We have clearly outspoken strategy to build that global rare disease company. And today, of course, is an important step forward as I was already alluding to earlier, but it's definitely not the last one. It's the beginning of I believe of more deals to come in the future because that's definitely what we're after. We're building this global rare disease company.
+--------------------------------------------------------------------------------
+Joe Pantginis, HC Wainwright - Anlayst    [26]
+--------------------------------------------------------------------------------
+Great. Thanks guys.
+--------------------------------------------------------------------------------
+Sijmen de Vries, Pharming Group NV - Chief Executive Officer, Executive Director    [27]
+--------------------------------------------------------------------------------
+Thank you, Joe.
+--------------------------------------------------------------------------------
+Operator,     [28]
+--------------------------------------------------------------------------------
+Alistair Campbell, RBC.
+--------------------------------------------------------------------------------
+Alistair Campbell, RBC Capital Markets - Analyst    [29]
+--------------------------------------------------------------------------------
+Thanks very much and thanks for providing the time today, it looks like a pretty interesting molecule. Just a couple of questions on the FALCON trial, just when I was looking on clinicaltrials.gov is sort of pointing towards what looked like a primary completion at the end of 2025. But obviously you're talking about 2027. So, I just want to wonder if there's a discrepancy there or is there something which is sort of pushed the end point out a bit from the original plan?
+And then secondly, could you just confirm the dosing you're using it's BID, but sort of what dose level that is and what sort of headroom you think you've got on top of that before we start to see the some of the GI tolerability issues that came up in Phase 1. Thank you.
+--------------------------------------------------------------------------------
+Sijmen de Vries, Pharming Group NV - Chief Executive Officer, Executive Director    [30]
+--------------------------------------------------------------------------------
+Anurag?
+--------------------------------------------------------------------------------
+Anurag Relan, Pharming Group NV - Chief Medical Officer    [31]
+--------------------------------------------------------------------------------
+Yeah. So Alistair, I think in terms of the clinicaltrials.gov listing, I don't think it's fully updated this information that we're providing today reflects our understanding of where the study is right now, what time it would take to recruit and what time it will take to analyze all of that data. So it reflects all of that, and we also anticipate opening additional centers, including in the US.
+So it definitely takes into all of that into account. It's possible that the listing only shows the final date for when the last patient is enrolled. So maybe that is part of the discrepancy, but I can't really speak more to that. In terms of your other question, that was related to sorry, what?
+--------------------------------------------------------------------------------
+Alistair Campbell, RBC Capital Markets - Analyst    [32]
+--------------------------------------------------------------------------------
+Yeah, it's just dosing you're using in FALCON in terms of the headroom there, in terms of some of the GI tolerability issues that we've seen at the high level dosing in the Phase 1.
+--------------------------------------------------------------------------------
+Anurag Relan, Pharming Group NV - Chief Medical Officer    [33]
+--------------------------------------------------------------------------------
+Sure. So there is a dose titration schedule in the FALCON study where patients start at a certain dose level and then increase. And what we've seen so far is that all patients are able to increase. What we've also seen is that some patients do need to drop down, but they are able to increase again. But in general, we've seen good tolerability of this dose level.
+And again, the effects that we've seen in the Phase 1b study, we're at the 50 milligram once daily dose. So we think that with the 50 milligrams twice daily dose that is being seen now. I think we have a good opportunity to see a positive effect.
+--------------------------------------------------------------------------------
+Alistair Campbell, RBC Capital Markets - Analyst    [34]
+--------------------------------------------------------------------------------
+Great, super helpful. Thanks so much.
+--------------------------------------------------------------------------------
+Operator,     [35]
+--------------------------------------------------------------------------------
+Ben Jackson, Jeffrey.
+--------------------------------------------------------------------------------
+Ben Jackson, Jefferies - Analyst    [36]
+--------------------------------------------------------------------------------
+Brilliant. Thank you for the question. So just three short ones, if I may. First of which, have you done any due diligence with payers on the endpoints that are being used in this trial? And is there perhaps any benefit for both of those reading out positively rather than one from a payer perspective?
+The second is more on -- is there any scope perhaps in the open-label extension to assess more on an outcomes basis, we obviously are referencing here life expectancy being shorter. And perhaps that could provide more like an even more compelling argument to the payers themselves. And then the third one that I'll just briefly ask on, could you just touch on the margins for the drug comparative to the other two that you have in the commercial portfolio, specifically referencing to what extent you will have to consider increasing a sales force and to what extent they overlap with the current sales force that you have in place? Thank you.
+--------------------------------------------------------------------------------
+Sijmen de Vries, Pharming Group NV - Chief Executive Officer, Executive Director    [37]
+--------------------------------------------------------------------------------
+So, here. So we shall we start with the open label outcome, sir? Anurag would you like to comment on that?
+--------------------------------------------------------------------------------
+Anurag Relan, Pharming Group NV - Chief Medical Officer    [38]
+--------------------------------------------------------------------------------
+Sure. So, certainly there will be an opportunity especially in the open label study. Took a look at additional outcomes. There's a number of secondary endpoints already being evaluated, but we can look at a dose additional outcomes to be able to track these patients, especially some patients who have already entered the study who by 2027 when the study reads out would have been on the drug for several years.
+So there will be a mechanism to collect that data. We look forward to collecting that data and hopefully being able to see the types of things that you described because I think that will certainly strengthen the support for reimbursement. Now that said and Steve can speak to this more. We have already done significant US payer research. Steve, I don't know if you want to comment on that.
+--------------------------------------------------------------------------------
+Stephen Toor, Pharming Group NV - Chief Commercial Officer    [39]
+--------------------------------------------------------------------------------
+Sure. Thank you, Anurag. Yes. I mean there has been some payer research done, obviously, as part of our due diligence, and I believe we also did. As you can imagine, we're still quite some distance out there. So over the next two, three years, we'll be doing quite a bit more to understand the differences, obviously, between the US, which isn't cost effective -- cost-effective driven and outside the US where it is.
+You also asked about the sales force and overlap I think there is a reasonable amount. Certainly, with the institutional team we have, where slightly under half of patients will be situated. And obviously, there's a [SEK0.20] of excellence. So it's not a perfect table. We'll certainly need to add a few salespeople, but it's not going to be a significant burden to us as an organization.
+--------------------------------------------------------------------------------
+Sijmen de Vries, Pharming Group NV - Chief Executive Officer, Executive Director    [40]
+--------------------------------------------------------------------------------
+Thanks Steve. And with regards to the margin question, yes, you've seen the single-digit royalties, which are considerably less, of course, than Joenja. And going up to low double digits, which is also considerably lower than Joenja. So in other words, given that it's a small molecule and the cost of goods will be pretty low. We don't know the price, of course, yet at this point in time.
+But we are definitely seeing margins that are probably better in the end on gross margins better than Joenja and probably maybe initially on par with RUCONEST. But that's just a thought that I have here. But so in other words, it's a very good addition also from that perspective to the portfolio. I hope that answers your question as far as we can do today, Ben.
+--------------------------------------------------------------------------------
+Ben Jackson, Jefferies - Analyst    [41]
+--------------------------------------------------------------------------------
+Yeah, that's brilliant. Thank you so much.
+--------------------------------------------------------------------------------
+Operator,     [42]
+--------------------------------------------------------------------------------
+Sushila Hernandez, Van Lanschot Kempen.
+--------------------------------------------------------------------------------
+Sushila Hernandez, Van Lanschot Kempen - Analyst    [43]
+--------------------------------------------------------------------------------
+Yes. Thank you for taking my question. Could you remind us about IP estate for KL1333? And also does your strategy for Joenja remain unchanged? So building out the franchise and BIDs. Thank you.
+--------------------------------------------------------------------------------
+Sijmen de Vries, Pharming Group NV - Chief Executive Officer, Executive Director    [44]
+--------------------------------------------------------------------------------
+Yes, Sushila thanks for the question. Yes, the strategy remains the same for leniolisib, Joenja to build it out for APDS and for the subsequent indications, of course. And the patent estate for KL1333 is, I believe, 2041. Anurag, could you correct me on that?
+--------------------------------------------------------------------------------
+Anurag Relan, Pharming Group NV - Chief Medical Officer    [45]
+--------------------------------------------------------------------------------
+It's -- I believe it's 2038-plus including extensions, but we go back to that. Yeah.
+--------------------------------------------------------------------------------
+Sijmen de Vries, Pharming Group NV - Chief Executive Officer, Executive Director    [46]
+--------------------------------------------------------------------------------
+Yeah. Yeah, at least in that range, Sushila, sorry, yeah.
+--------------------------------------------------------------------------------
+Sushila Hernandez, Van Lanschot Kempen - Analyst    [47]
+--------------------------------------------------------------------------------
+Great. Thank you.
+--------------------------------------------------------------------------------
+Operator,     [48]
+--------------------------------------------------------------------------------
+Simon Scholes, First Berlin.
+--------------------------------------------------------------------------------
+Simon Scholes, First Berlin - Analyst    [49]
+--------------------------------------------------------------------------------
+Yes, good afternoon. Thanks for taking my questions. I've just been looking at and I believe presentation from July of this year in which they're talking about their patient assumptions. And I noticed that the assumption for treatment with KL1333 is the number of treated patients should be roughly half the number of diagnosed patients. I was just wondering why there's such a difference.
+And I believe also show a slide containing showing competitors. You've got Stealth, you've got [Sezento], and you've got [Condrion]. And two of those competitors are concentrating on MELAS, which I think is a subset of the market you're addressing with KL1333. I was just wondering if you expect KL1333 to be equally efficacious in MELAS as these competing products?
+--------------------------------------------------------------------------------
+Sijmen de Vries, Pharming Group NV - Chief Executive Officer, Executive Director    [50]
+--------------------------------------------------------------------------------
+Right? Anurag could you elaborate a little bit on this.
+--------------------------------------------------------------------------------
+Anurag Relan, Pharming Group NV - Chief Medical Officer    [51]
+--------------------------------------------------------------------------------
+Yeah. SO this MELAS patients are also included in the pivotal study with KL1333.
+--------------------------------------------------------------------------------
+Sijmen de Vries, Pharming Group NV - Chief Executive Officer, Executive Director    [52]
+--------------------------------------------------------------------------------
+Okay. And with regards to that those mode of actions of those compounds.
+--------------------------------------------------------------------------------
+Anurag Relan, Pharming Group NV - Chief Medical Officer    [53]
+--------------------------------------------------------------------------------
+Yes. So I think one of the things that we've seen is that KL1333 directly increases that NAD+/NADH balance and reducing lactate. And what I talked about also in terms of increasing the synthesis or what's called mitochondrial biogenesis. And versus some of these other drugs that are in development, let's say, are more indirect or downstream from that in terms of how they may be working.
+--------------------------------------------------------------------------------
+Simon Scholes, First Berlin - Analyst    [54]
+--------------------------------------------------------------------------------
+Okay. And how about this difference between the diagnosed patients and treated patients? I mean, it seems that I believe we're not expecting about half of diagnosed patients to be treated with -- at all treated.
+--------------------------------------------------------------------------------
+Anurag Relan, Pharming Group NV - Chief Medical Officer    [55]
+--------------------------------------------------------------------------------
+So what we've determined is that about there maybe around 30,000 patients in the United States, for example, that are clinically affected by mitochondrial DNA mutations. And then on top of that, we think that about half of those would meet the inclusion criteria requirements for the FALCON study. So that's how we ended up with 16,000 in the US for example.
+--------------------------------------------------------------------------------
+Sijmen de Vries, Pharming Group NV - Chief Executive Officer, Executive Director    [56]
+--------------------------------------------------------------------------------
+Okay, sure, Thanks. In other words, it's pretty consistent, right? We got to believe I stated. Any -- thanks Simon for that question.
+--------------------------------------------------------------------------------
+Operator,     [57]
+--------------------------------------------------------------------------------
+Thank you. There are no further questions at this time. So I'll hand the conference back to Sijmen for closing remarks.
+--------------------------------------------------------------------------------
+Sijmen de Vries, Pharming Group NV - Chief Executive Officer, Executive Director    [58]
+--------------------------------------------------------------------------------
+Thank you very much. And ladies and gentlemen, I hope you have been able to share our enthusiasm and our dedication to actually bring this compound further forward, of course, following the successful completion of the bid, which of course, will take some time. But we're very focused, and we're very motivated to bring this compound, which, again, as I stated before, is a significantly derisked a product with blockbuster portfolio and could be in the market before the other internal programs that we currently have.
+So therefore, we think it's a very, very important accelerator of the growth as a company and a significant step forward to building our leading global rare disease company.
+Thank you very much for your attendance. And we'll be back, of course, with more news on progress of the acquisition of Abliva. Thank you very much. Goodbye.
+
+
+
+
+
+
+--------------------------------------------------------------------------------
+Definitions
+--------------------------------------------------------------------------------
+Preliminary Transcript: "Preliminary Transcript" indicates that the 
+Transcript has been published in near real-time by an experienced 
+professional transcriber.  While the Preliminary Transcript is highly 
+accurate, it has not been edited to ensure the entire transcription 
+represents a verbatim report of the call.
+
+EDITED TRANSCRIPT: "Edited Transcript" indicates that a team of professional 
+editors have listened to the event a second time to confirm that the 
+content of the call has been transcribed accurately and in full.
+
+--------------------------------------------------------------------------------
+Disclaimer
+--------------------------------------------------------------------------------
+THE LONDON STOCK EXCHANGE GROUP AND ITS AFFILIATES (COLLECTIVELY, "LSEG") RESERVES THE RIGHT TO MAKE CHANGES TO DOCUMENTS, CONTENT, OR OTHER INFORMATION ON THIS WEB SITE WITHOUT OBLIGATION TO NOTIFY ANY PERSON OF SUCH CHANGES. NO CONTENT MAY BE MODIFIED, REVERSE ENGINEERED, REPRODUCED, OR DISTRIBUTED IN ANY FORM BY ANY MEANS, OR STORED IN A DATABASE OR RETRIEVAL SYSTEM, WITHOUT THE PRIOR WRITTEN PERMISSION OF LSEG. THE CONTENT SHALL NOT BE USED FOR ANY UNLAWFUL OR UNAUTHORIZED PURPOSES. LSEG DOES NOT GUARANTEE THE ACCURACY, COMPLETENESS, TIMELINESS, OR AVAILABILITY OF THE CONTENT. LSEG IS NOT RESPONSIBLE FOR ANY ERRORS OR OMISSIONS, REGARDLESS OF THE CAUSE, FOR THE RESULTS OBTAINED FROM THE USE OF THE CONTENT. IN NO EVENT SHALL LSEG BE LIABLE TO ANY PARTY FOR ANY DIRECT, INDIRECT, INCIDENTAL, EXEMPLARY, COMPENSATORY, PUNITIVE, SPECIAL, OR CONSEQUENTIAL DAMAGES, COSTS, EXPENSES, LEGAL FEES, OR LOSSES (INCLUDING, WITHOUT LIMITATION, LOST INCOME OR LOST PROFITS AND OPPORTUNITY COSTS OR LOSSES CAUSED BY NEGLIGENCE) IN CONNECTION WITH ANY USE OF THE CONTENT EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGES.
+--------------------------------------------------------------------------------
+Copyright 2024 LSEG. All Rights Reserved.
+--------------------------------------------------------------------------------

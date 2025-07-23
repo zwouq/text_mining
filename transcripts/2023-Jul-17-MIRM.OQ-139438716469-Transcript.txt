@@ -1,0 +1,238 @@
+
+
+Refinitiv StreetEvents Event Transcript
+E D I T E D   V E R S I O N
+
+Mirum Pharmaceuticals Inc To Acquire Travere Therapeutics Inc Call
+JULY 17, 2023 / 12:30PM GMT
+
+================================================================================
+Corporate Participants
+================================================================================
+
+ * Pamela Vig
+   Mirum Pharmaceuticals, Inc. - Head of R&D
+ * Christopher Peetz
+   Mirum Pharmaceuticals, Inc. - President, CEO & Director
+ * Peter Radovich
+   Mirum Pharmaceuticals, Inc. - COO
+ * Andrew McKibben
+   Mirum Pharmaceuticals, Inc. - VP of IR and Finance
+
+================================================================================
+Conference Call Participiants
+================================================================================
+
+ * Antonio Eduardo Arce
+   H.C. Wainwright & Co, LLC, Research Division - MD of Equity Research & Senior Healthcare Analyst
+ * David Neil Lebowitz
+   Citigroup Inc., Research Division - Research Analyst
+ * Lauren Timmins
+    - 
+ * Steven James Seedhouse
+   Raymond James & Associates, Inc., Research Division - MD & Analyst
+
+================================================================================
+Presentation
+--------------------------------------------------------------------------------
+Operator    [1]
+--------------------------------------------------------------------------------
+Hello, and welcome to the Mirum Pharmaceuticals' business update. My name is [Elliot], and I will be coordinating your call today. (Operator Instructions) I'd now like to hand over to Andrew McKibben, Vice President of Investor Relations. The floor is yours. Please go ahead.
+
+--------------------------------------------------------------------------------
+Andrew McKibben,  Mirum Pharmaceuticals, Inc. - VP of IR and Finance    [2]
+--------------------------------------------------------------------------------
+Thanks, [Elliot], and good morning, everyone. I'd like to welcome you to Mirum Pharmaceuticals conference call. I'm joined today by our President and CEO, Chris Peetz; our Chief Operating Officer, Peter Radovich; and our Head of R&D, Pam Vig. For our Q&A session, we are also joined by our Chief Development Officer, Lara Longpre.
+Earlier today, Mirum issued a news release announcing its acquisition of Travere Therapeutics product portfolio of bile acid therapeutics for rare genetic pediatric diseases. This news release can be found in the Investors section of our website. Speakers will be referencing a transaction announcement presentation that can be found in the Events section of our website.
+Before we begin, I'd like to remind you that during the course of this conference call, we will be making certain forward-looking statements about Mirum and our programs based on management's current expectations, including statements regarding Mirum's business plan, development programs, strategies, prospects, market opportunities and financial forecasting guidance. Mirum is under no duty to update these statements, and they are subject to numerous risks and uncertainties, and actual results could differ materially from the results anticipated by these statements. Investors should read the risk factors set forth in Mirum's 10-K for the year ended December 31, 2022, and any subsequent reports filed with the SEC.
+With that said, I'd like to turn the call over to Chris. Chris?
+
+--------------------------------------------------------------------------------
+Christopher Peetz,  Mirum Pharmaceuticals, Inc. - President, CEO & Director    [3]
+--------------------------------------------------------------------------------
+Thank you, Andrew, and good morning to everyone joining us on the call. This morning, we announced a landmark transaction for Mirum, reinforcing our position as a franchise leader in pediatric hepatology. This acquisition strengthens the growth potential for LIVMARLI and add scale to our business, both operationally and financially. We have entered into a definitive agreement to acquire the bile acid products, Chenodal and Cholbam. This is an exciting moment for Mirum and an important step in line with our 5-part strategy to be a high-growth leader in rare disease.
+The bile acid products are synergistic with our current business and expand our commercial presence for LIVMARLI. This acquisition adds over $100 million in annualized revenue to our rapidly growing commercial business and we expect the combined business to be approximately cash flow breakeven after closing, with growth expected across all three products. The acquisition is financed with the concurrent private placement of equity of $210 million that further strengthens our financial position at the anticipated closing. Financing had strong interest with several leading biotech investors supporting our growth strategy.
+We are thrilled about what this transaction means for Mirum and the patients we serve. The addition of these medications allows us to expand our services for the pediatric hepatology community and support the diagnosis and treatment options for several genetic disorders impacting the liver. This also provides important financial and operating scale, allowing us to accelerate our strategy to provide high-impact therapies for patients with rare disease.
+I'll now turn the call over to Peter to discuss a few more details of the commercial business. Peter?
+
+--------------------------------------------------------------------------------
+Peter Radovich,  Mirum Pharmaceuticals, Inc. - COO    [4]
+--------------------------------------------------------------------------------
+Thanks, Chris. Before we dive into the specifics of these important and highly synergistic bile acid replacement medicines, I'd like to provide a brief update on LIVMARLI. Commercial execution of our launches around the world in Alagille Syndrome continues to be very strong. LIVMARLI is well positioned for 50% year-on-year growth in U.S. sales as well as growth from international markets where launches are progressing well. LIVMARLI is the first and only treatment approved for patients 3 months and older with cholestatic pruritus due to Alagille Syndrome. LIVMARLI is also the only therapy for Alagille Syndrome that provides both rapid symptomatic relief and long-term improvement in transplant-free survival.
+Now putting this into context for today's call, we are very excited about the addition of Travere's bile acid portfolio as we believe having these products in our team's hands supports LIVMARLI's future growth as Mirum's presence with pediatric liver disease prescriber universe expands and deepens. Now a bit more on the bile acid portfolio, which consists of two approved and well-established therapies, Cholbam and Chenodal. These products, as with LIVMARLI, are predominantly prescribed in the pediatric hepatology setting. Cholbam is improved in the U.S. for bile acid synthesis disorders and Zellweger spectrum disorders.
+Chenodal, which is not promoted, is approved in the U.S. for radiolucent gallstones and holds FDA medical necessity status for the treatment of CTX, where it's considered standard of care and substantially all of its use occurs. From a commercial perspective, we see a strong synergistic fit with the bile acid products that yield operating leverage and establishes a franchise in rare pediatric liver disease. The sales and marketing efforts are similar in scope, largely focused on the same prescribing audience. Also, the approach to product distribution, market access and patient services for these ultra-rare indications are quite similar.
+We expect the bile acid products to continue to grow at low single-digit rates annually. And we do see upside driven by a potential CTX approval for Chenodal based on the Phase III RESTORE study, which Pam will review shortly. Mirum is also assuming sponsorship of the polstatic genetic testing panel, a branded diagnostic, which Mirum will continue to provide for free to patients. This program supports the diagnosis of a substantial proportion of children with genetically driven cholestatic liver diseases in the United States and is highly valued by the pediatric hepatology community. We are excited to take our sponsorship of the program, which reinforces our commitment to supporting patients with a variety of cholestatic disorders, ensuring they receive an early diagnosis and prompt treatment. 
+On the financial side, the bile acid portfolio generated $103 million in sales in 2022. In the first quarter of 2023, the combined portfolio with LIVMARLI, Cholbam and Chenodal, resulted in greater than $55 million in net sales, representing an annualized run rate of $220 million in net sales. which provides Mirum significant cash flow generation going forward that we can use to fuel our pipeline and further expand our footprint in rare diseases.
+In summary, this acquisition accelerates our growth and leadership in pediatric hepatology, adding operating and financial leverage to our business. I will now hand the call to Pam to talk about the Phase III RESTORE study in CTX. Pam?
+
+--------------------------------------------------------------------------------
+Pamela Vig,  Mirum Pharmaceuticals, Inc. - Head of R&D    [5]
+--------------------------------------------------------------------------------
+Thanks, Peter. First, I'll provide some background on CTX and then an overview of the current CTX clinical program. CTX is a rare autosomal recessive disorder in which the bile acid chenodeoxycholic acid or CDCA is not made. In a healthy individual, the predominant human endogenous CDCA is produced from cholesterol in a multistep pathway. And in CTX, the absence of CDCA results in a toxic buildup of colestinol and bile alcohols throughout the body's tissue, causing a variety of significant problems. And these include chronic diarrhea, juvenile bilateral cataracts, cardiac manifestations, tendon and brain xanthomas as well as progressive and irreversible neurologic deterioration.
+Diagnosis can be made using biomarkers such as colestipol and urine alcohol with confirmation from genetic testing. Chenodal is currently standard of care in CTX and has been shown to reduce colestipol to normal or near-normal levels in patients with up to 80% reductions observed with concurrent decreases in urine alcohol levels and improvement in symptoms. And the clinical program includes the fully enrolled Phase III RESTORE trial, evaluating Chenodal in patients with CTX. The design of the RESTORE study is a randomized crossover double-blind 24-week study of Chenodal in patients with CTX. And the primary endpoint is a change from baseline in 23 (inaudible), which is a urine alcohol and biomarker of the disease.
+Bile alcohols have been shown to be acutely responsive to application and withdrawal of CDCA therapy and responses observed within days to weeks. And based on previous results, we have high confidence through the success on the primary and key secondary biomarker endpoints. The study is expected to read out in the fourth quarter of this year and is anticipated to support an NDA and label for CTX as well as provide orphan exclusivity if approved. And we look forward to sharing data later this year. And with that, I will now hand the call back over to Chris. Chris?
+
+--------------------------------------------------------------------------------
+Christopher Peetz,  Mirum Pharmaceuticals, Inc. - President, CEO & Director    [6]
+--------------------------------------------------------------------------------
+Thanks, Pam. We look forward to this next stage of growth and for the opportunity to broaden our impact for patients with rare disease. As we integrate these new programs, we will build upon the strong relationships that Travere has established with patient advocacy organizations supporting these communities. We share with Travere a dedication to ensuring connection and partnership with advocates and patients to advance treatment options for rare disease. This is an exciting next chapter for Mirum. This acquisition accelerates LIVMARLI's strong commercial growth and build a leading franchise in pediatric hepatology. It is also a transformational step in advancing our 5-part strategy to be a high-growth rare disease company. We look forward to delivering on the promise of our exciting programs and continuing to expand our impact for patients around the world. And with that, we'll now take your questions. Operator, please open the call.
+
+
+================================================================================
+Questions and Answers
+--------------------------------------------------------------------------------
+Operator    [1]
+--------------------------------------------------------------------------------
+(Operator Instructions) First question comes from David Lebowitz with Citi.
+
+--------------------------------------------------------------------------------
+David Neil Lebowitz,  Citigroup Inc., Research Division - Research Analyst    [2]
+--------------------------------------------------------------------------------
+Curious as to how we should look at the financial model going forward as far as implementing the new therapies in the top line? And what types of changes we should make with respect to operating spend going forward?
+
+--------------------------------------------------------------------------------
+Christopher Peetz,  Mirum Pharmaceuticals, Inc. - President, CEO & Director    [3]
+--------------------------------------------------------------------------------
+Thanks, Dave, for the question. On the financial side, the impact of bringing these products into Mirum is financially quite attractive and really shows how well these products fit with LIVMARLI from an operating standpoint. We expect that from an operating cash flow standpoint, the business will be cash flow breakeven the first quarter after closing the transaction. With growing top line, improving that financial performance going forward with all three products growing. So from a modeling standpoint, we see the bile acid business continuing to perform as it has for years. So kind of steady growth, entirely demand-driven that has occurred for years for these products. And from a cash contribution standpoint, $60 million or better of annual contribution at the current revenue rates. So really a unique fit with our business in terms of the synergy that we can drive from bringing these products into Mirum.
+
+--------------------------------------------------------------------------------
+David Neil Lebowitz,  Citigroup Inc., Research Division - Research Analyst    [4]
+--------------------------------------------------------------------------------
+And just one more, if I may. What type of, I guess, acceleration of growth could we expect to see if the label expansion is achieved?
+
+--------------------------------------------------------------------------------
+Christopher Peetz,  Mirum Pharmaceuticals, Inc. - President, CEO & Director    [5]
+--------------------------------------------------------------------------------
+Yes. I'll actually hand that one over to Peter to talk a bit about the commercial strategy for Chenodal.
+
+--------------------------------------------------------------------------------
+Peter Radovich,  Mirum Pharmaceuticals, Inc. - COO    [6]
+--------------------------------------------------------------------------------
+Yes. Thanks, Chris. I think the key point is that today, our best estimates are approximately 10% of patients with CTX are actually diagnosed. And as we mentioned, Chenodal is not promoted. So with the label and obviously, the ability to promote and drive awareness and increase diagnosis, one would hope that it could be much better than 10% and drive more patients into active management and therapy with Chenodal.
+
+--------------------------------------------------------------------------------
+Operator    [7]
+--------------------------------------------------------------------------------
+We now turn to Steven Seedhouse with Raymond James.
+
+--------------------------------------------------------------------------------
+Steven James Seedhouse,  Raymond James & Associates, Inc., Research Division - MD & Analyst    [8]
+--------------------------------------------------------------------------------
+Great and congrats on getting this deal done, a pretty interesting deal for you guys. I was hoping you could just walk through really sort of the -- from a practical standpoint, how much will the diagnosis rate of CTX increase? And how do you get that accomplished, assuming the Phase III is positive and the label is amended? I'm just curious to sort of quantify what the inflection could be in a successful scenario there.
+
+--------------------------------------------------------------------------------
+Christopher Peetz,  Mirum Pharmaceuticals, Inc. - President, CEO & Director    [9]
+--------------------------------------------------------------------------------
+Thanks for the question. Yes. So -- and first, just kind of a reminder on time lines here. So the Phase III RESTORE study, we expect data fourth quarter of this year, so a milestone coming up. And really based on clear well-characterized understanding of what the biochemical reaction is for the treatment. So high confidence in that readout. We'll take that to FDA early next year to submit for approval and then have a new NDA with the CTX label that would follow. And I'll hand over to Peter to kind of talk about some of the efforts and how we're thinking about approaching impacting those diagnosis rates.
+
+--------------------------------------------------------------------------------
+Peter Radovich,  Mirum Pharmaceuticals, Inc. - COO    [10]
+--------------------------------------------------------------------------------
+Thanks, Chris. I mean, I think it's difficult to provide a precise quantification of what you'd see. But I think you see this story play out in rare and ultra-rare disease a lot where you have a new therapy. And awareness of that is raised across stakeholders. And you can see doubling, tripling of diagnosis rates, I mean Pam mentioned in her comments, one of the hallmarks of the disease is juvenile cataracts and there has been some success focusing on pediatric and adult ophthalmologists in young patients with bilateral cataracts and there's a decent diagnostic yield there that one could focus on. There's also potential efforts around newborn screening and other kinds of strategies that I think one could get much more active on with the label and the ability to promote.
+
+--------------------------------------------------------------------------------
+Operator    [11]
+--------------------------------------------------------------------------------
+Our next question comes from Ed Arce with H.C. Wainwright.
+
+--------------------------------------------------------------------------------
+Antonio Eduardo Arce,  H.C. Wainwright & Co, LLC, Research Division - MD of Equity Research & Senior Healthcare Analyst    [12]
+--------------------------------------------------------------------------------
+Congrats on this highly complementary deal. I think Pam had mentioned Chenodal is currently the standard of care for CTX. I just wondered if you could expand on that in terms of the way that patients are treated today. And if there is any sense for the proportion of current sales that go to CTX patients.
+
+--------------------------------------------------------------------------------
+Christopher Peetz,  Mirum Pharmaceuticals, Inc. - President, CEO & Director    [13]
+--------------------------------------------------------------------------------
+Thanks, Ed, for the question. Ed, just from answering the last part of that first, the current revenue contribution is really entirely CTX. This is a standard of care for this setting and really most diagnosed -- nearly all diagnosed patients will be on treatment or will receive treatment. I'll pass it over to Pam to talk a little bit about the patient journey.
+
+--------------------------------------------------------------------------------
+Pamela Vig,  Mirum Pharmaceuticals, Inc. - Head of R&D    [14]
+--------------------------------------------------------------------------------
+Yes. Thanks. So at the moment, FDA has given Chenodal medical necessity status for the treatment of CTX. That's because there are no other treatments available in this population. And frankly, this has been used for many, many, many years now. They recognize that there are no other alternatives. So it is used as the standard of care across the board in CTX patients. And the data that supports the many years of data and to several analyses that have been conducted, there's three great data sets, one from the Netherlands, one from Italy and one from the U.S., all really pointing to reductions in biomarkers, the same ones that are being studied in RESTORE plus improvement in stabilization in symptoms and improvement in colestipol to normal or near normal levels. So we have a really high confidence that the study will read out as it has played out in the real world.
+
+--------------------------------------------------------------------------------
+Operator    [15]
+--------------------------------------------------------------------------------
+(Operator Instructions) And (inaudible) with Yasmeen Rahimi with Piper Sandler.
+
+--------------------------------------------------------------------------------
+Lauren Timmins,   -     [16]
+--------------------------------------------------------------------------------
+This is Lauren Timmins on for Yas. Just a few questions for us. First, why do this transaction now, especially considering that we're getting closer to the volixibat readout in 2H '23? And then secondly, how does the market share of these products currently have across the indications?
+
+--------------------------------------------------------------------------------
+Christopher Peetz,  Mirum Pharmaceuticals, Inc. - President, CEO & Director    [17]
+--------------------------------------------------------------------------------
+Thanks for the question, Lauren. First on timing. We see this transaction as an exciting way to really accelerate and cement our leadership position in pediatric hepatology, so frankly, any time is a great time to add products like this that have such a unique complementary fit. And we're excited about what that means for LIVMARLI's position and Mirum's presence in pediatric hepatology, both from a prescriber standpoint but also just across all stakeholders in pediatric hepatology. So from a timing standpoint, we're excited to jump into this transaction now. And at any time, it really makes sense to really cement that leadership position.
+And then from a market share standpoint, for all of the indications that Cholbam and Chenodal are used for in the pediatric hepatology setting, they really are standard of care. I mean these are bile-acid replacement products for severe genetic disorders that have no other effective therapies that fill the role that Cholbam and Chenodal do. So they are critical therapies and really have, for diagnosed patients, really play a cornerstone role in care for those patients.
+
+--------------------------------------------------------------------------------
+Lauren Timmins,   -     [18]
+--------------------------------------------------------------------------------
+Perfect. And congrats again, guys.
+
+--------------------------------------------------------------------------------
+Operator    [19]
+--------------------------------------------------------------------------------
+This concludes our Q&A. I'll now hand back to Chris Peetz, President and CEO, for any closing remarks.
+
+--------------------------------------------------------------------------------
+Christopher Peetz,  Mirum Pharmaceuticals, Inc. - President, CEO & Director    [20]
+--------------------------------------------------------------------------------
+Great. Well, thanks all for joining the call today. I really appreciate the support for Mirum and our growth trajectory, adding these exciting new products and on our path to be a high-growth rare disease company. Have a great day.
+
+--------------------------------------------------------------------------------
+Operator    [21]
+--------------------------------------------------------------------------------
+Ladies and gentlemen, today's call is now concluded. We'd like to thank you for your participation. You may now disconnect your lines.
+
+
+
+
+
+
+
+--------------------------------------------------------------------------------
+Definitions
+--------------------------------------------------------------------------------
+PRELIMINARY TRANSCRIPT: "Preliminary Transcript" indicates that the 
+Transcript has been published in near real-time by an experienced 
+professional transcriber.  While the Preliminary Transcript is highly 
+accurate, it has not been edited to ensure the entire transcription 
+represents a verbatim report of the call.
+
+EDITED TRANSCRIPT: "Edited Transcript" indicates that a team of professional 
+editors have listened to the event a second time to confirm that the 
+content of the call has been transcribed accurately and in full.
+
+--------------------------------------------------------------------------------
+Disclaimer
+--------------------------------------------------------------------------------
+Refinitiv reserves the right to make changes to documents, content, or other 
+information on this web site without obligation to notify any person of 
+such changes.
+
+In the conference calls upon which Event Transcripts are based, companies 
+may make projections or other forward-looking statements regarding a variety 
+of items. Such forward-looking statements are based upon current 
+expectations and involve risks and uncertainties. Actual results may differ 
+materially from those stated in any forward-looking statement based on a 
+number of important factors and risks, which are more specifically 
+identified in the companies' most recent SEC filings. Although the companies 
+may indicate and believe that the assumptions underlying the forward-looking 
+statements are reasonable, any of the assumptions could prove inaccurate or 
+incorrect and, therefore, there can be no assurance that the results 
+contemplated in the forward-looking statements will be realized.
+
+THE INFORMATION CONTAINED IN EVENT TRANSCRIPTS IS A TEXTUAL REPRESENTATION
+OF THE APPLICABLE COMPANY'S CONFERENCE CALL AND WHILE EFFORTS ARE MADE TO
+PROVIDE AN ACCURATE TRANSCRIPTION, THERE MAY BE MATERIAL ERRORS, OMISSIONS,
+OR INACCURACIES IN THE REPORTING OF THE SUBSTANCE OF THE CONFERENCE CALLS.
+IN NO WAY DOES REFINITIV OR THE APPLICABLE COMPANY ASSUME ANY RESPONSIBILITY FOR ANY INVESTMENT OR OTHER
+DECISIONS MADE BASED UPON THE INFORMATION PROVIDED ON THIS WEB SITE OR IN
+ANY EVENT TRANSCRIPT. USERS ARE ADVISED TO REVIEW THE APPLICABLE COMPANY'S
+CONFERENCE CALL ITSELF AND THE APPLICABLE COMPANY'S SEC FILINGS BEFORE
+MAKING ANY INVESTMENT OR OTHER DECISIONS.
+--------------------------------------------------------------------------------
+Copyright 2023 Refinitiv. All Rights Reserved.
+--------------------------------------------------------------------------------

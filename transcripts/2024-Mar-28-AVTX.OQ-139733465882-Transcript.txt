@@ -1,0 +1,117 @@
+
+
+Refinitiv StreetEvents Event Transcript
+E D I T E D  V E R S I O N
+
+Avalo Therapeutics Inc Acquires Anti-IL-1β mAb and Announces up to $185M Private Placement Conference Call
+March 28, 2024 / 12:30PM UTC
+
+================================================================================
+Corporate Participants
+================================================================================
+
+ * Garry Neil
+   Avalo Therapeutics, Inc. - Chairman & CEO
+
+================================================================================
+Conference Call Participants
+================================================================================
+
+ * Operator
+   
+
+================================================================================
+presentation
+--------------------------------------------------------------------------------
+Operator,     [1]
+--------------------------------------------------------------------------------
+Good day, and thank you for standing by. Welcome to the Avalo acquisition and private placement conference call. (Operator Instructions) Please be advised that today's conference is being recorded.
+I would now like to hand the conference over to your speaker today, Garry Neil, CEO and Chairman of Avalo Therapeutics.
+--------------------------------------------------------------------------------
+Garry Neil, Avalo Therapeutics, Inc. - Chairman & CEO    [2]
+--------------------------------------------------------------------------------
+Good morning. I'm Garry Neil, CEO and Chairman of Avalo Therapeutics. Today, I'm announcing an exciting new transaction and opportunity for our company.
+Next slide. Before we begin, I want to remind everyone that today's discussion will include forward-looking statements regarding our company's anticipated performance in the coming years. These statements are based on current expectations, projections about future events, and the current economic environment.
+They involve risk and uncertainties that could cause actual results to differ materially from those expressed or implied by such statements. These risks include, but are not limited to, changes in market conditions, regulatory changes, and the pace of research and development. We encourage all of our shareholders and interested parties to read our filings with the SEC for a more detailed discussion.
+Next slide. Let's now move into the core of today's topic. We're announcing today that Avalo Therapeutics, AVTX on the NASDAQ, is acquiring AlmataBio, Inc., a private company with a potentially best-in-class, Phase 2-ready, anti-IL-1 beta monoclonal antibody that will be designated AVTX-009.
+AVTX-009 will now headline Avalo Therapeutics pipeline and positions us at the forefront of innovation in biologic, immune, and inflammatory therapeutics. Our lead indication for AVTX-009 will be hidradenitis suppurativa or HS, and we expect to file an IND and initiate a Phase 2 clinical trial later this year with top-line data expected in 2026. Concurrent with this acquisition, we executed a PIPE valued at up to $185 million, which is expected to provide Avalo with a cash runway into 2027 and potentially beyond.
+Next slide. This slide shows the Avalo Therapeutics pipeline post-acquisition. As mentioned, the first indication for AVTX-009 will be HS, and Phase 2 top-line results are expected in 2026. AVTX-009 is a high-potency, anti-IL-1 beta monoclonal antibody, which has best-in-class potential for HS and other immune inflammatory diseases.
+We will announce a second autoimmune indication later this year, along with our development plans for it. We also plan to begin work on a second-generation anti-IL-1 beta monoclonal antibody this year. Our legacy programs, namely AVTX-002 or quisovalimab, an anti-LIGHT monoclonal antibody; and AVTX-008, a BTLA agonist fusion protein, are under strategic review.
+Next slide. Here is a brief executive summary of the opportunity. AVTX-009 is our new lead product, as I mentioned. With its high potency and convenient dosing, it has the potential to be a best-in-class product for the treatment of HS and other immune inflammatory disorders, such as inflammatory bowel disease.
+IL-1 beta is a central driver of inflammation and plays a key role in immunoregulation. The IL-1 beta mechanism in HS has been recently validated in AbbVie's well-controlled Phase 2 trial of their antibody, lutikizumab. In that study, lutikizumab was shown to have efficacy comparable to other approved and investigational therapies, but in a more severe patient population.
+Given that the IL-1 alpha inhibition with the monoclonal antibody, bermekimab, has been shown to be ineffective in HS, we believe that these impressive results with lutikizumab are likely due solely to IL-1 beta inhibition. We therefore believe that AVTX-009 has a high probability of success in HS. We also believe that it can outperform bispecifics that also target IL-18 and IL-1 alpha, in addition to IL-1 beta in HS.
+HS is increasingly recognized as a severe disfiguring skin condition with a multi-billion-dollar market potential. We expect to have top-line data from our Phase 2 study in 2026.
+As noted, upon closing the pipe, we expect to have a cash runway into 2027, which should allow us to complete the HS Phase 2 trial, as well as initiate work in another indication. Exercise of the warrants will further extend our cash runway and allow further development work in other indications.
+Next slide. Avalo's management team will remain intact, as will our experienced drug development team. We are fortunate to have seasoned and accomplished people in key management positions. Our leadership team has both big pharma and biotech experience and has been with us for several years now. We hope to add a Chief Medical Officer to this team soon.
+Next slide. Let's take a look at AVTX-009 now. AVTX-009 is a high-affinity and high-potency humanized IgG4 that neutralizes IL-1 beta. It was originally created and developed by Eli Lilly. It has an exceptionally low Kd of less than 3 picomolar and has more than a 20-fold higher potency than ILARIS in in vitro assays.
+It has a typical half-life of about three weeks, which is about twice as long as the half-life of lutikizumab. And it has a bioavailability of 73%. It has six-month toxicology in non-human primates with good safety margins and has completed human Phase 1 safety studies in normal volunteers and patients including co-therapy with methotrexate.
+It has excellent safety and tolerability and doses up to 180 milligrams per week and was effective at lowering high sensitivity CRP in humans at all doses tested, as low as 0.6 milligrams subcutaneously. It is formulated at 150 milligrams per ml and can be given subcu as well as IV.
+We plan commercial presentations in pre-filled syringes and auto-injectors. Dose intervals of two to four weeks should be feasible for most indications and even longer for some based on the ILARIS label. We have ample vial drug and placebo for our Phase 2 program and are well positioned to do the tech transfer necessary for Phase 3 and ultimately, commercialization.
+Next slide. Interleukin-1 beta or -- it stands at the core of the inflammatory process, activating immune cells and prompting the release of pro-inflammatory cytokines including IL-6, TNF-alpha, and IL-17. The inhibition of IL-1 beta has been demonstrated to be both effective and safe in managing a variety of inflammatory diseases including HS.
+The fact that it is upstream of both IL-17 and TNF-alpha, both of which are validated targets with approved products for HS, provides additional rationale for targeting IL-1 beta in this disease. It also suggests that targeting IL-1 beta would be expected to have broad applicability across a wide range of autoimmune and autoinflammatory diseases, highlighting its potential as a key target for therapeutic intervention, both as a monotherapy and in combination.
+Next slide. Let's now take a little bit more in-depth look at HS. As you can see in these photos, hidradenitis suppurativa is more than just a severe skin disease. It's a challenging journey for those affected. Characterized by the formation of painful lumps, abscesses and scars in sensitive areas, such as under the arms and in the groin, HS can extend broadly and cause severe disfigurement and significantly degrade the quality of life.
+Managing HS requires a multifaceted approach. From traditional treatments such as antibiotics, retinoids, and steroids, both topical, oral, and injections; to newer biologic therapies, like Cosentyx and Humira, there are various strategies available to help alleviate symptoms and improve the quality of life in these patients. But even with more advanced therapies, only a minority of patients get relief and satisfactory results.
+HS is more common than many realize. With an estimated prevalence of 0.7% to 1.2% in the European-US population. Despite its prevalence, HS remains under diagnosed and under treated in many cases. Through increased awareness and education, we can work towards improving early detection and access to effective treatments for those living with this disease. Additional and more effective therapies are urgently needed.
+Next slide. In HS, the inflammatory cascade is set off by a range of external factors, including smoking, dysbiosis, and mechanical stress. At the heart of this cascade is IL-1 beta, a key driver that propels the inflammation leading to the breakdown of the pilosebaceous unit. Elevated levels of IL-1 beta are observed in the affected skin areas in HS, indicating its pivotal role in the disease process.
+Moreover, genetic associations further underscore the significance of IL-1 beta in HS pathology. Consequently, therapeutics focusing on the IL-1 pathway present promising avenues for intervention and management of this challenging condition. We are therefore convinced that targeting IL-1 beta in HS is strongly supported mechanistically.
+Next slide. A number of biologic drugs have been tested in clinical trials of HS. Drugs tested include Humira, Cosentyx, bimekizumab, sonelokimab, as well as most recently, lutikizumab. As you can see from this chart, the patient population tested with lutikizumab was substantially more severe as measured by the percent of patients with early Stage 3 and mean draining tunnels. Moreover, and most importantly, all of the patients enrolled in the lutikizumab trial had failed anti-TNF alpha therapy.
+Next slide. Despite the fact that they studied a sicker population who had all failed biologic therapy, lutikizumab demonstrated high score 50 and 75 results as good or better than the other agents used as shown in this summary of results. In previous studies, sicker and pretreated populations have been shown to be less responsive to therapy.
+The slide also informs us that the placebo rates are higher in patients with less severe disease as they are, when less stringent efficacy criteria are used. Studying patient populations with more severe disease and using high score 75 instead of 50 allows a better signal to noise ratio and lowers the risk of a false negative result. It's also important to note that lutikizumab was well tolerated in this study.
+Next slide. As I previously mentioned, there is solid evidence supporting the role of IL-1 beta in HS, both mechanistically and clinically, but not for IL-1 alpha. This slide summarizes a Phase 2 trial of bermekimab, a monoclonal anti IL-1 alpha licensed by Janssen. As you can see here, the high score 50 results were identical to placebo whereas a positive control using Humira was positive. Janssen subsequently halted development of this drug.
+The second study with bermekimab was halted also prematurely for an interim analysis that showed that it met the futility criterion for the primary endpoint. Thus, we believe IL-1 alpha is not an important target in HS.
+Next slide. This slide summarizes a Phase 2 multi-center, double-blind platform study of HS presented at the recent American Academy of Dermatology meeting in San Diego by Dr. Alex Kimball. Among the compounds tested was MAS825, a Novartis-sponsored bispecific antibody targeting IL-1 beta, and IL-18, rather.
+MAS825 was reported to be positive versus placebo in this study, although we have not yet seen the final data. Because there is no clinical validation of IL-18 as a target in HS, we take the study to provide further validation of the IL-1 beta mechanism in HS.
+Next slide. There was a large and growing market opportunity in HS. It's estimated that approximately 2.4 million to 4 million people in the US are currently affected with the disease. And as I mentioned before, this may be an underestimate given a relative lack of patient recognition and that the diagnosis is often not made by GPs. Perhaps as few as 10% of patients have been diagnosed and only a third of those are currently under treatment with targeted therapies.
+Several products in development. I've estimated their peak sales to be as high as $3 billion each. Given a general lack of satisfaction with existing therapies, there's certainly room for new and more effective treatments in this disease.
+Next slide. We plan a placebo controlled, 16-week Phase 2 trial with AVTX-009 in HS patients. The trial will share many similarities with the recently completed lutikizumab trial I mentioned earlier. We will enroll patients with severe disease who have not or who have stopped responding to adalimumab.
+After consultation with the FDA, we will plan to test two doses of AVTX-009, either a loading dose and a dose at two weekly intervals, or a higher loading dose and a higher dose at four weekly dosing intervals. The trial will be powered at 80% to show superiority to placebo for each dose based on the high score 75 as the primary endpoint.
+We will also include high score 50, 90, and 100, QOL, as well as biomarkers including hs-CRP, IL-6, and PK, and of course, safety. We're working hard now to submit and open our first IND for HS with FDA and also other US regulatory agencies as required.
+Next slide. As I mentioned, IL-1 beta is an important target in a variety of immune and inflammatory diseases. We therefore plan to select at least one additional indication in consultation with our advisors and begin work later this year.
+Next slide. As seen in this slide, inflammatory bowel disease presents a complex interplay of cytokines with IL-1 beta emerging as a central player in driving the inflammation. This cytokine is prominently produced upon the activation of inflammasomes, and pivotal molecular complexes involved in the inflammatory response. This regulated activation of the inflammasome has been implicated in the pathogenesis of Crohn's disease, a subtype of IBD, highlighting the critical role of IL-1 beta in this context.
+Moreover, IL-1-driven interactions between stromal cells and neutrophils define a subset of patients who show resistance to current therapeutic interventions, particularly TNF-alpha inhibitors. This emphasizes the need for novel treatment strategies to target these specific interactions to improve outcomes for affected individuals.
+Recently, an IL-1 beta signature has been reported in patients with IBD resistance to TNF inhibitors. Additionally, and intriguingly, there exists an observed overlap between patients diagnosed with both IBD and hidradenitis suppurativa, suggesting potential commonalities of the underlying inflammatory mechanisms of these conditions. Understanding these connections could offer valuable insights into the shared pathways and facilitate the development of targeted therapies for improved management of both IBD and HS.
+Next slide. In light of these observations, we note that AbbVie is poised to evaluate lutikizumab, a dual variable domain interleukin IL-1 alpha and beta antagonist, both as a standalone treatment in ulcerative colitis and in combination with SKYRIZI in Crohn's disease.
+Roopal Thakkar from AbbVie during the Q4 2023 earnings call expressed optimism regarding the potential of lutikizumab in transforming the efficacy of treatment of IBD. The plan included assessing combination approaches involving lutikizumab and SKYRIZI, as well as other pipeline assets, particularly focusing on Crohn's disease. Phase 2 studies in IBD by AbbVie are anticipated to commence later this year.
+This strategic move by AbbVie signifies a significant opportunity for enhancing efficacy levels in IBD treatment, offering hope for improved outcomes for patients both as a monotherapy and in combination therapy targeting IL-1 beta. We are therefore evaluating trials in IBD with AVTX-009.
+Next slide. So let me give a brief recap. As I mentioned earlier, with its high potency and convenient dosing, AVTX-009 has a potential to be a best-in-class product for the treatment of HS and other immune inflammatory disorders such as IBD.
+IL-1 beta is a central driver of inflammation and plays a key role in immunoregulation. The IL-1 beta mechanism in HS has been recently validated in AbbVie's well-controlled Phase 2 trial of their antibody lutikizumab. And it's noteworthy that in that study, once again, lutikizumab was shown to have efficacy comparable to other approved and investigational therapies, but in a more severe and treatment-resistant patient population.
+Given that IL-1 alpha inhibition with the monoclonal antibody bermekimab has been shown to be ineffective in HS, we believe that it is likely that these impressive results with lutikizumab are due solely to IL-1 beta inhibition. And we therefore believe that AVTX-009 has a high probability of success in HS. We also believe that it can outperform bispecifics that also target IL-18 and IL-1 alpha in addition to IL-1 beta in HS.
+HS is an increasingly recognized and severe disfiguring skin disease with a multi-billion-dollar market potential. We expect to have top line from our Phase 2 study in 2026. We also have excellent opportunities beyond HS in other immune and inflammatory diseases, including but certainly not limited to IBD. And we look forward to discussing these further with you as our plans mature.
+We'll be filing an 8-K that will disclose all the key terms and agreements for both the acquisition of AlmataBio and the PIPE financing.
+In closing, we are tremendously excited about our new lead molecule and the related financing. I look forward to keeping you updated on our progress. Thanks very much for your attention today.
+--------------------------------------------------------------------------------
+Operator,     [3]
+--------------------------------------------------------------------------------
+That concludes the conference. Thank you for your participation. You may now disconnect.
+
+
+
+
+
+
+--------------------------------------------------------------------------------
+Definitions
+--------------------------------------------------------------------------------
+Preliminary Transcript: "Preliminary Transcript" indicates that the 
+Transcript has been published in near real-time by an experienced 
+professional transcriber.  While the Preliminary Transcript is highly 
+accurate, it has not been edited to ensure the entire transcription 
+represents a verbatim report of the call.
+
+EDITED TRANSCRIPT: "Edited Transcript" indicates that a team of professional 
+editors have listened to the event a second time to confirm that the 
+content of the call has been transcribed accurately and in full.
+
+--------------------------------------------------------------------------------
+Disclaimer
+--------------------------------------------------------------------------------
+The London Stock Exchange Group and its affiliates (collectively, "LSEG") reserves the right to make changes to documents, content, or other information on this web site without obligation to notify any person of such changes. No content may be modified, reverse engineered, reproduced or distributed in any form by any means, or stored in a database or retrieval system, without the prior written permission of LSEG. The content shall not be used for any unlawful or unauthorized purposes. LSEG does not guarantee the accuracy, completeness, timeliness or availability of the content. LSEG is not responsible for any errors or omissions, regardless of the cause, for the results obtained from the use of the content. In no event shall LSEG be liable to any party for any direct, indirect, incidental, exemplary, compensatory, punitive, special or consequential damages, costs, expenses, legal fees, or losses (including, without limitation, lost income or lost profits and opportunity costs or losses caused by negligence) in connection with any use of the content even if advised of the possibility of such damages.
+
+In the conference calls upon which Summaries are based, companies may make projections or other forward-looking statements regarding a variety of items. Such forward-looking statements are based upon current expectations and involve risks and uncertainties. Actual results may differ materially from those stated in any forward-looking statement based on a number of important factors and risks, which are more specifically identified in the companies' most recent SEC filings. Although the companies may indicate and believe that the assumptions underlying the forward-looking statements are reasonable, any of the assumptions could prove inaccurate or incorrect and, therefore, there can be no assurance that the results contemplated in the forward-looking statements will be realized.
+
+LSEG assumes no obligation to update the content following publication in any form or format. The content should not be relied on and is not a substitute for the skill, judgment and experience of the user, its management, employees, advisors and/or clients when making investment and other business decisions. LSEG does not act as a fiduciary or an investment advisor except where registered as such.
+
+THE INFORMATION CONTAINED IN TRANSCRIPT SUMMARIES REFLECTS LSEG'S SUBJECTIVE CONDENSED PARAPHRASE OF THE APPLICABLE COMPANY'S CONFERENCE CALL AND THERE MAY BE MATERIAL ERRORS, OMISSIONS, OR INACCURACIES IN THE REPORTING OF THE SUBSTANCE OF THE CONFERENCE CALLS. IN NO WAY DOES LSEG OR THE APPLICABLE COMPANY ASSUME ANY RESPONSIBILITY FOR ANY INVESTMENT OR OTHER DECISIONS MADE BASED UPON THE INFORMATION PROVIDED ON THIS WEB SITE OR IN ANY SUMMARY. USERS ARE ADVISED TO REVIEW THE APPLICABLE COMPANY'S CONFERENCE CALL ITSELF AND THE APPLICABLE COMPANY'S SEC FILINGS BEFORE MAKING ANY INVESTMENT OR OTHER DECISIONS.
+--------------------------------------------------------------------------------
+Copyright 2024 LSEG. All Rights Reserved.
+--------------------------------------------------------------------------------

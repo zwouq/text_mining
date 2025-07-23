@@ -1,0 +1,584 @@
+
+
+Refinitiv StreetEvents Event Transcript
+E D I T E D   V E R S I O N
+
+Incyte Corp to Acquire Escient Pharmaceuticals
+APRIL 23, 2024 / 12:00PM GMT
+
+================================================================================
+Corporate Participants
+================================================================================
+
+ * Herve Hoppenot
+   Incyte Corporation - CEO & Chairman
+ * James H. Lee
+   Incyte Corporation - Group VP, Head of Inflammation & AutoImmunity Group
+ * Christiana Stamoulis
+   Incyte Corporation - Executive VP & CFO
+ * Ben Strain
+    - 
+ * Pablo J. Cagnoni
+   Incyte Corporation - President and Head of Research & Development
+
+================================================================================
+Conference Call Participiants
+================================================================================
+
+ * Brian Corey Abrahams
+   RBC Capital Markets, Research Division - Senior Biotechnology Analyst
+ * Gavin Clark-Gartner
+   Evercore ISI Institutional Equities, Research Division - Analyst
+ * Srikripa Devarakonda
+   Truist Securities, Inc., Research Division - Associate
+ * Matthew Michael Dellatorre
+   Goldman Sachs Group, Inc., Research Division - Research Analyst
+ * Eric Thomas Schmidt
+   Cantor Fitzgerald & Co., Research Division - Research Analyst
+ * Allison Marie Bratzel
+   Piper Sandler & Co., Research Division - VP and Senior Research Analyst
+ * Debanjana Chatterjee
+    - 
+ * Jessica Macomber Fye
+   JPMorgan Chase & Co, Research Division - Analyst
+ * Reni John Benjamin
+   JMP Securities LLC, Research Division - MD & Equity Research Analyst
+ * Tazeen Ahmad
+   BofA Securities, Research Division - MD in Equity Research & Research Analyst
+ * Yuxi Dong
+   Jefferies LLC, Research Division - Equity Associate
+ * Marc Alan Frahm
+   TD Cowen, Research Division - MD & Analyst
+ * Michael Werner Schmidt
+   Guggenheim Securities, LLC, Research Division - Senior Analyst & Senior MD
+ * Eric Y Yeung
+   William Blair & Company L.L.C., Research Division - Research Analyst
+ * Conor Thomas MacKay
+   BMO Capital Markets Equity Research - Research Associate
+
+================================================================================
+Presentation
+--------------------------------------------------------------------------------
+Operator    [1]
+--------------------------------------------------------------------------------
+Hello, and welcome to today's Incyte investor presentation. (Operator Instructions) As a reminder, this conference is being recorded. 
+It is now my pleasure to turn the call over to Ben Strain, Head of Investor Relations. Please go ahead.
+
+--------------------------------------------------------------------------------
+Ben Strain,   -     [2]
+--------------------------------------------------------------------------------
+Thank you, Kevin. Good morning, and welcome to today's conference call to discuss the acquisition of Escient Pharmaceuticals. 
+Before we begin, I encourage everyone to go to the Investors section of our website to find the press release and slides that follow today's discussion. 
+On today's call, I'm joined by Herve and Pablo, who will deliver our prepared remarks. Christiana, Steven and Jim will also be available for Q&A. 
+Today, we are only answering regarding our acquisition of Escient. We will be happy to answer broader questions following the release of our first quarter results on April 30. 
+I would like to point out that we'll be making forward-looking statements, which are based on our current expectations and beliefs. These statements are subject to certain risks and uncertainties, and our actual results may differ materially. I encourage you to consult the risk factors discussed in our SEC filings for additional detail. 
+I will now hand the call over to Herve.
+
+--------------------------------------------------------------------------------
+Herve Hoppenot,  Incyte Corporation - CEO & Chairman    [3]
+--------------------------------------------------------------------------------
+Thank you, Ben, and good morning, everyone. So we are on Slide 5. So as highlighted in the press release issued this morning, we have reached an agreement to acquire Escient Pharmaceuticals, a privately held, clinical-stage drug discovery and development company, with a pipeline of novel medicines for the treatment of a broad range of neurosensory inflammatory disorders. 
+The focus of Escient's development pipeline is on Mas-related G protein-coupled receptor antagonist where evaluation is ongoing with 2 clinical-stage programs targeted MRGPRX2 and MRGPRX4. This agreement adds 2 first-in-class medicines to our inflammation and autoimmune portfolio and complement our internal efforts. 
+Through this acquisition, we will be able to leverage our existing development and commercial capabilities. In addition, these programs offer a large potential commercial opportunity across multiple indications. 
+Based on the current estimated development time line, it anticipates several potential launches starting in 2029. 
+Moving to Slide 6. Under the terms of the agreement, we will acquire Escient Pharmaceuticals for $750 million in an all-cash transaction. This agreement is subject to clearance by the U.S. antitrust authorities under the Hart-Scott-Rodino Act, among other customary conditions, and will become effective as soon as this has been met, which we anticipate will be the third quarter of 2024. 
+Lead assets, EP262 and EP547, address large populations with clear medical need and a multibillion-dollar total market opportunity across indications. Initial evaluation for EP262 will be in chronic inducible urticaria and chronic spontaneous urticaria and for 547 will be for cholestatic pruritus with potential expansion for both programs into additional indications. Based on current projected time lines, these medicines have the potential to launch in 2029. And these programs will be synergistic with our existing IAI pipeline as well as with our development and commercial capability. 
+We expect the impact of the acquisition on 2024 R&D expenses to be limited. We will provide more details on the Q1 earnings call next week. In addition, following this acquisition, we continue to have a strong and growing cash position, which allows us to consider additional external opportunities. 
+With that, I'll now turn the call over to Pablo for additional details on the clinical program.
+
+--------------------------------------------------------------------------------
+Pablo J. Cagnoni,  Incyte Corporation - President and Head of Research & Development    [4]
+--------------------------------------------------------------------------------
+Thank you, Herve, and good morning, everyone. 
+If you can go to Slide 8. Escient's lead program, EP262, is a first-in-class oral small molecule inhibitor of the Mas-related G protein-coupled receptor X2, or MRGPRX2. This novel medicine has the potential to treat multiple mast cell-mediated disorders, including chronic spontaneous urticaria and chronic inducible urticaria, for which there remains a significant patient need. 
+MRGPRX2 is a specific novel mechanism for blocking mast cell activation, independent from IgE. Data presented at American Academy of Dermatology Annual Meeting in March 2023 showed that EP262 improved AD-like skin lesions and markers of Type 2 inflammation. Additionally, data from a Phase I study of 64 healthy volunteers showed that EP262 was safe and well tolerated at all doses tested, with no serious or severe adverse events and no adverse events leading to discontinuation. 
+EP262 is currently being studied in a Phase Ib open label study in CIndU and in 2 randomized Phase II studies, 1 in chronic spontaneous urticaria and 1 in atopic dermatitis. Data for all 3 studies are expected by early 2025. 
+Moving to Slide 9. Escient's second program, EP547, is a potent oral and highly selective antagonist to MRGPRX4. MRGPRX4 is expressed on neurons in the dorsal root ganglia and also in keratinocytes and is activated by various bile acids, bilirubin and urobilin. EP547 effectively blocks the activation of MRGPRX4 by bile acids and, as a result, has the potential to treat pruritus associated with several diseases, including biliary cirrhosis and primary sclerosing cholangitis. EP547 has completed a Phase I study in healthy volunteers and is currently in a randomized Phase II study in cholestatic pruritus, a condition often nonresponsive to standard pharmacological treatment. 
+Slide 10. We believe the safety profile seen with both EP262 and EP547 could be a key differentiator for these programs. Escient presented data from a Phase I study of 64 healthy volunteers, which showed that EP262 was safe and well tolerated at all doses tested, with no serious or severe adverse events, no adverse events leading to discontinuation, and no adverse events or changes in safety laboratory parameters, vital science or EKGs. Treatment-emergent adverse events for EP262 were mild with an incidence that was lower than placebo, 33.3% versus 62.5%, and did not increase with dose. 
+Results of the Phase I study of EP547 highlighted that in patients with chronic cholestatic or kidney disease, at all doses tested, there were no serious adverse events, no adverse events leading to discontinuations, and no safety signals identified. 
+Moving to Slide 11. The initial evaluation of EP262 is ongoing in chronic spontaneous urticaria and chronic inducible urticaria, 2 large opportunities where significant patient need remains. In the U.S., with up to 50% of the 1 million to 2-plus million patients with chronic spontaneous urticaria and approximately 0.5 million to 1 million patients with chronic inducible urticaria not adequately controlled with antihistamines, we believe these 2 indications hold blockbuster potential. Based on current projected time lines, both indications have the potential to launch before the end of the decade and add to our top line growth trajectory post the Jakafi patent expiry, and they could further establish our leadership in inflammation and autoimmunity. 
+Moving to Slide 12. We provide here an estimated time line of the MRGPRX programs and show the number of exciting readouts expected by early next year and the potential first launch of EP262 in chronic spontaneous urticaria by 2029. 
+We are delighted to add EP262 and EP547 to our portfolio. This acquisition builds on our strategy to develop differentiated first-in-class medicines that address significant patient needs and we look forward to providing additional details on these programs in the future. 
+Operator, that concludes our prepared remarks. Please give your instruction and open the call for Q&A.
+
+
+================================================================================
+Questions and Answers
+--------------------------------------------------------------------------------
+Operator    [1]
+--------------------------------------------------------------------------------
+(Operator Instructions) Our first question today is coming from Kripa Devarakonda from Truist Securities.
+
+--------------------------------------------------------------------------------
+Srikripa Devarakonda,  Truist Securities, Inc., Research Division - Associate    [2]
+--------------------------------------------------------------------------------
+Congratulations on the acquisition. So big picture question, does this acquisition -- you're spending $750 million, will you have more cash -- mean that a larger acquisition is off the table? Sorry, if I missed a couple of the first few minutes, but walk us through the rationale for the acquisition of this platform. Is it these 2 drugs only? Or is there potential to expand the platform.
+
+--------------------------------------------------------------------------------
+Ben Strain,   -     [3]
+--------------------------------------------------------------------------------
+Pablo, do you want to take this one?
+
+--------------------------------------------------------------------------------
+Herve Hoppenot,  Incyte Corporation - CEO & Chairman    [4]
+--------------------------------------------------------------------------------
+Pablo can speak about the technology. Let me say a word about what it does strategically related to our cash position. So this acquisition is $750 million. It's not preventing us from doing additional and larger acquisitions in the future. We see it as something that is very complementary to what we have in our internal pipeline. So strategically, that's where it fits. It's leveraging our own existing IAI development and commercial capabilities, in large part, and it has the potential to lead to launches by 2029 in multiple indications, so it's fitting well with the portfolio dynamic for us. So that's how it does fit. 
+Now in terms of expansion, Pablo, do you want to say a word?
+
+--------------------------------------------------------------------------------
+Pablo J. Cagnoni,  Incyte Corporation - President and Head of Research & Development    [5]
+--------------------------------------------------------------------------------
+Yes, happy to. So let me comment separately on MRGPRX2 and MRGPRX4. MRGPRX2 is expressed in mast cells, as I mentioned in my prepared remarks. And it's a very critical component of the mast cell activity, independent of IgE. Now what you have to remember, what we have to remember, is that mast cells and MRGPRX particularly is expressed in mast cells not only in the skin but connective tissues as well. So while the ongoing exploration, as I mentioned, are chronic spontaneous urticaria or chronic inducible urticaria and atopic dermatitis or large opportunities, potentially, that mechanism, over expression in mast cells in connective tissues, allows us to explore a range of other opportunities. We're not going to comment on those today, but we see this as truly another pipeline and a compound type of opportunity for MRGPRX2, and we believe that the really clean safety profile observed to date is going to be a very important difference as well. 
+MRGPRX4, as I mentioned in my prepared remarks, is key, is related to itch pruritus, associated with not only a liver disease but potentially with uremic pruritus as well. And these are, in addition, very large opportunities that are currently unaddressed with existing standard of care. So what we're acquiring with the acquisition of Escient is those 2 programs, both in the clinic, with a number of readouts in the next few years, as I mentioned in my prepared remarks.
+
+--------------------------------------------------------------------------------
+Operator    [6]
+--------------------------------------------------------------------------------
+Your next question today is coming from Brian Abrahams from RBC Capital Markets.
+
+--------------------------------------------------------------------------------
+Brian Corey Abrahams,  RBC Capital Markets, Research Division - Senior Biotechnology Analyst    [7]
+--------------------------------------------------------------------------------
+Congrats as well on the deal. I was wondering if you could talk a little bit more about 262's potential positioning in the paradigm versus XOLAIR just given the mechanism that's independent of IgE. And I'm curious about the commercial synergies that you foresee and the potential overlap here with the existing derm inflammatory commercial infrastructure that you have today.
+
+--------------------------------------------------------------------------------
+Herve Hoppenot,  Incyte Corporation - CEO & Chairman    [8]
+--------------------------------------------------------------------------------
+So Pablo, do you want to take the first part?
+
+--------------------------------------------------------------------------------
+Pablo J. Cagnoni,  Incyte Corporation - President and Head of Research & Development    [9]
+--------------------------------------------------------------------------------
+Yes. I think you pointed to the key differentiation here, which is the IgE-independent mechanism. Let me ask Jim Lee, who heads our IAI group, to expand further how we see this over time position vis-a-vis XOLAIR and other competitors. Jim?
+
+--------------------------------------------------------------------------------
+James H. Lee,  Incyte Corporation - Group VP, Head of Inflammation & AutoImmunity Group    [10]
+--------------------------------------------------------------------------------
+Yes. Thanks, Pablo. So as you mentioned, omalizumab is available for CSU patients for a number of years. But we know from the literature, also from feedback from treating physicians, that there are quite a number of patients, a very large number of patients, that either don't respond or lose response. And this is likely because their CSU is being driven by their triggers. We believe that mediates its effects through the MRGPRX2 receptor so cathelicidin, proteins and neuropeptide, et cetera. So we think that MRGPRX2 should treat everyone with CSU, but in particular, it will treat many patients who do not respond to omalizumab.
+
+--------------------------------------------------------------------------------
+Herve Hoppenot,  Incyte Corporation - CEO & Chairman    [11]
+--------------------------------------------------------------------------------
+On the synergy side, I mean there are two aspects of it. One is on the R&D side where we have a lot of capabilities in biology and in early clinical development that can apply to these indications, where it's very much in a field where we have a lot of knowledge already and experience. And on the commercial side, I would say it's mostly about 262 where in CSU, we see a lot of dermatology overlap with that indication. So that should be already a good start in terms of leveraging our commercial team that is already working in dermatology.
+
+--------------------------------------------------------------------------------
+Operator    [12]
+--------------------------------------------------------------------------------
+The next question is coming from Tazeen Ahmad from Bank of America.
+
+--------------------------------------------------------------------------------
+Tazeen Ahmad,  BofA Securities, Research Division - MD in Equity Research & Research Analyst    [13]
+--------------------------------------------------------------------------------
+I wanted to understand how you're thinking about potential future indications for OPZELURA, just with the announcement that you've made today. Atopic derm looks like it's on the list of indications currently being pursued. How would you see that being complementary to OPZELURA? Would it simply be an oral option to the cream? Or do you think there could be a potential expansion of addressable patients? 
+And then secondly, as it relates to more mid-stage assets, so these 2 would launch at the end of the decade. What's your view on the potential need for bringing in assets that could launch closer to when the IP would expire for Jakafi, meaning a couple of years earlier than the end of the decade?
+
+--------------------------------------------------------------------------------
+Herve Hoppenot,  Incyte Corporation - CEO & Chairman    [14]
+--------------------------------------------------------------------------------
+Maybe Pablo and Jim, can you take the first part of the question?
+
+--------------------------------------------------------------------------------
+Pablo J. Cagnoni,  Incyte Corporation - President and Head of Research & Development    [15]
+--------------------------------------------------------------------------------
+Yes, happy to. So we see this, as Herve mentioned, highly complementary with our portfolio. Obviously, OPZELURA is a really important medicine already in the market for patients with atopic dermatitis. We believe that this different mechanism that you see, that we mentioned during my prepared remarks, could potentially be very useful in certain patients, perhaps as a complement to OPZELURA, perhaps in patients that don't respond ideally well to OPZELURA. 
+As with ruxolitinib and OPZELURA today, we believe that having multiple offerings for patients, topical and oral, for different levels of severity of certain indications such as atopic dermatitis, such as prurigo nodularis, such as vitiligo even, is really important. And that way, we think the 262 really complements the rest of our existing pipeline very, very well.
+
+--------------------------------------------------------------------------------
+Herve Hoppenot,  Incyte Corporation - CEO & Chairman    [16]
+--------------------------------------------------------------------------------
+Yes. And your comment on the need to additional growth in the years before or launches in the years before 2028 is totally right. I think here we have potential to have large indications starting in '28, '29, so it's coming at a time where it will be certainly very valuable for the corporation, but as we said earlier, we are still looking for potential acquisitions that could be impacting us earlier than that.
+
+--------------------------------------------------------------------------------
+Operator    [17]
+--------------------------------------------------------------------------------
+Our next question is coming from Marc Frahm from TD Cowen.
+
+--------------------------------------------------------------------------------
+Marc Alan Frahm,  TD Cowen, Research Division - MD & Analyst    [18]
+--------------------------------------------------------------------------------
+Congrats on today's deal. Maybe just following up on a couple of your answers to earlier questions, when you think about the competitive positioning within, say, CSU -- the comments on XOLAIR were appreciated -- but maybe can you think broader to some of the later-stage, the things that head in the clinic, particularly around KIT inhibition? And how do you see this fitting in? Are there combo approaches that you're particularly interested in? And then getting to that connective tissue side, is that something we should expect to see kind of happen shortly after closing? Or is that going to be triggered more by whatever you see in the larger Phase IIs that are ongoing right now?
+
+--------------------------------------------------------------------------------
+Herve Hoppenot,  Incyte Corporation - CEO & Chairman    [19]
+--------------------------------------------------------------------------------
+Thanks for the question. Pablo, do you want to speak about that?
+
+--------------------------------------------------------------------------------
+Pablo J. Cagnoni,  Incyte Corporation - President and Head of Research & Development    [20]
+--------------------------------------------------------------------------------
+Yes, certainly. So let me take the second part first. Obviously, this transaction is very fresh. We're going to spend the next several weeks with our colleagues at Escient who have done a terrific job of developing these 2 medicines up to this point. And we're going to start exploring some of this hypothesis about the importance of connective tissue mast cells and the over expression of MRGPRX2. There's a fair amount of this in the literature, and we intend to prosecute some of these opportunities. And you'll hear more over time after the transaction closes, obviously, as we continue to potentially expand the development plan. 
+When it comes to the competitive landscape, I'm going to ask Jim to make a couple of comments here. But we believe that, number one, I think the safety of 262, and obviously, it's very early in the development of this program, but the safety of 262 could potentially be a key differentiator here that I think we need to pay attention since these are going to be chronic therapies in these types of patients. 
+So Jim, why don't you comment perhaps about specifically anti-KIT antibodies.
+
+--------------------------------------------------------------------------------
+James H. Lee,  Incyte Corporation - Group VP, Head of Inflammation & AutoImmunity Group    [21]
+--------------------------------------------------------------------------------
+Yes. So that is a great point, Pablo. And Marc, a great question around the competitive landscape in terms of mast cell targets. So we're very excited because the MRGPRX2 obviously is predominantly expressed on mast cells. And so we believe we have a very targeted therapy with limited off-target effects. And therefore, hopefully, we'll see a very clean safety profile. 
+The challenges with some of the other treatments, obviously, is that they either wipe out the mast cells or prevent the inflammation after the mast cell degranulates. And they all have off-target effects that some patients and physicians would like to avoid. So I think from a competitive perspective, we believe we'll have a very effective medicine but perhaps one of the safer medicines out there for patients to use, especially long term.
+
+--------------------------------------------------------------------------------
+Operator    [22]
+--------------------------------------------------------------------------------
+Your next question is coming from Evan Seigerman from BMO Capital Markets.
+
+--------------------------------------------------------------------------------
+Conor Thomas MacKay,  BMO Capital Markets Equity Research - Research Associate    [23]
+--------------------------------------------------------------------------------
+This is Conor MacKay on for Evan. Congrats on the deal. Just one from us on the lead program, 262. Can you just help us frame the expectations for data coming in 2025 for CSU and AD?
+
+--------------------------------------------------------------------------------
+Pablo J. Cagnoni,  Incyte Corporation - President and Head of Research & Development    [24]
+--------------------------------------------------------------------------------
+Certainly. We have 2 randomized Phase II studies ongoing. As I mentioned in my prepared remarks, 1 in chronic spontaneous urticaria, 1 in atopic dermatitis. And there's also an ongoing Phase Ib study in chronic inducible urticaria. Those 3 studies are currently ongoing, and we expect those readouts to be in early 2025.
+
+--------------------------------------------------------------------------------
+Operator    [25]
+--------------------------------------------------------------------------------
+Your next question is coming from Gavin Clark-Gartner from Evercore ISI.
+
+--------------------------------------------------------------------------------
+Gavin Clark-Gartner,  Evercore ISI Institutional Equities, Research Division - Analyst    [26]
+--------------------------------------------------------------------------------
+Congrats on the deal. First, I was just wondering, in your press release, you noted that 262 has demonstrated proof-of-mechanism and also the fact that the open-label CIndU study has been ongoing for 7 months. I'm just wondering if there's any comments you can make around the efficacy that's been observed there to date.
+
+--------------------------------------------------------------------------------
+Herve Hoppenot,  Incyte Corporation - CEO & Chairman    [27]
+--------------------------------------------------------------------------------
+Pablo?
+
+--------------------------------------------------------------------------------
+Pablo J. Cagnoni,  Incyte Corporation - President and Head of Research & Development    [28]
+--------------------------------------------------------------------------------
+Correct. The 262 has been in patients with CIndU already. And there is, as we mentioned in the press release, proof-of-mechanism. We are not going to comment on additional data today. We're going to reserve that commentary for a later date after the transaction closes, but we obviously had the opportunity to review that data.
+
+--------------------------------------------------------------------------------
+Gavin Clark-Gartner,  Evercore ISI Institutional Equities, Research Division - Analyst    [29]
+--------------------------------------------------------------------------------
+Yes, that makes sense. And how do you think, just in general, CIndU efficacy data translates into CSU or any other diseases for the X2 mechanism?
+
+--------------------------------------------------------------------------------
+Herve Hoppenot,  Incyte Corporation - CEO & Chairman    [30]
+--------------------------------------------------------------------------------
+Maybe Jim or Pablo?
+
+--------------------------------------------------------------------------------
+Pablo J. Cagnoni,  Incyte Corporation - President and Head of Research & Development    [31]
+--------------------------------------------------------------------------------
+Sure.
+
+--------------------------------------------------------------------------------
+James H. Lee,  Incyte Corporation - Group VP, Head of Inflammation & AutoImmunity Group    [32]
+--------------------------------------------------------------------------------
+Yes. No, I can take that. So if you think about the X2 and what it does on mast cells in terms of the triggers, the natural ligands that have been identified that trigger through the X2, by blocking those ligands with this molecule, that gives you a very good idea of how would it work in other mast cell-mediated conditions and diseases. And so that's how we're looking at the CIndU data and expecting then to see similar results, efficacy results, in other mast cell-mediated diseases.
+
+--------------------------------------------------------------------------------
+Operator    [33]
+--------------------------------------------------------------------------------
+(Operator Instructions) Our next question is coming from Salveen Richter from Goldman Sachs.
+
+--------------------------------------------------------------------------------
+Matthew Michael Dellatorre,  Goldman Sachs Group, Inc., Research Division - Research Analyst    [34]
+--------------------------------------------------------------------------------
+This is Matt on for Salveen. For 262, could you share the patient population you're looking at in the Phase IIa study for AD? And then could you speak more about the opportunity for 547 in cholestatic pruritus and what the current standard of care is there?
+
+--------------------------------------------------------------------------------
+Herve Hoppenot,  Incyte Corporation - CEO & Chairman    [35]
+--------------------------------------------------------------------------------
+Yes, Pablo, and Jim, maybe?
+
+--------------------------------------------------------------------------------
+Pablo J. Cagnoni,  Incyte Corporation - President and Head of Research & Development    [36]
+--------------------------------------------------------------------------------
+So we're not going to go into the specifics of the patient in the current AD study. I'm going to have Jim give some comments on the potential populations for AD where this mechanism could be really important, and then we can comment briefly in 547.
+
+--------------------------------------------------------------------------------
+James H. Lee,  Incyte Corporation - Group VP, Head of Inflammation & AutoImmunity Group    [37]
+--------------------------------------------------------------------------------
+Yes. No, that's a great point. And just a reminder, so every treatment for atopic dermatitis is you're treating the flare, at least in a clinical study setting, and that means the inflammation has already been triggered. And if you think about some of the ligands, the bacterial ligands, the staph aureus ligands products, as well as some of the antimicrobial proteins or peptides such as cathelicidin that are elevated in atopic dermatitis. These molecules mediate their effects or trigger mast cells via the MRGPRX2. So if you think about it, in addition to knocking down the inflammation in an ongoing flare, there's potential to reduce the frequency, the number of flares that AD patients experience. So that's a very exciting aspect of this mechanism in atopic dermatitis patients. 
+And so moving on to the second question in terms of the cholestatic elevation, the cholestatic itch, because it's the primary biliary cirrhosis and the primary sclerosing cholangitis patients that have the obstructive liver disease that leads to the elevation in these bile acids. And most of these patients experience severe itch. And right now, the approach is to basically have those bile acids eliminated through the GI tract. But we know that those current treatments that are available to them cause lots of GI side effects, toxicities, that patients don't like.
+
+--------------------------------------------------------------------------------
+Matthew Michael Dellatorre,  Goldman Sachs Group, Inc., Research Division - Research Analyst    [38]
+--------------------------------------------------------------------------------
+Just one follow-up, does PBC then represent a large portion of this cholestatic pruritus population?
+
+--------------------------------------------------------------------------------
+Pablo J. Cagnoni,  Incyte Corporation - President and Head of Research & Development    [39]
+--------------------------------------------------------------------------------
+It's one of the key opportunities and the one that is ongoing, in the current study. Not only cholestatic pruritus but uremic pruritus potentially as well could be an opportunity for MRGPRX4. So without providing specific numbers, yes, PBC is going to be a key target. But in terms of total number of patients, it's just one of many potential opportunities for 547.
+
+--------------------------------------------------------------------------------
+Operator    [40]
+--------------------------------------------------------------------------------
+Your next question today is coming from Kelly Shi from Jefferies.
+
+--------------------------------------------------------------------------------
+Yuxi Dong,  Jefferies LLC, Research Division - Equity Associate    [41]
+--------------------------------------------------------------------------------
+This is Clara on for Kelly. Congrats on the acquisition. So for CSU with a new program of 262, how does 262 fit into the grand scheme of CSU beyond your current development of our agent, povorcitinib in CSU, given both are our agents? And what are other potential opportunity of 262 and 547 beyond what's already being studied in the clinics?
+
+--------------------------------------------------------------------------------
+Herve Hoppenot,  Incyte Corporation - CEO & Chairman    [42]
+--------------------------------------------------------------------------------
+Pablo?
+
+--------------------------------------------------------------------------------
+Pablo J. Cagnoni,  Incyte Corporation - President and Head of Research & Development    [43]
+--------------------------------------------------------------------------------
+Let me take the second part and then Jim can comment on our portfolio approach to some of these diseases. It's hard to comment further today. I think that what we know today for 262 is what we mentioned in my prepared remarks. We have trials ongoing in CSU, in CIndU and in atopic dermatitis and the fact that this is expressed not just on mast cells in the skin but also in connective tissue and potentially expand to a range of other indications that we'll discuss over time and we'll provide additional details over time. 
+Now let's talk a little bit about the complementary portfolio that we have now to address diseases such as chronic spontaneous urticaria. Jim?
+
+--------------------------------------------------------------------------------
+James H. Lee,  Incyte Corporation - Group VP, Head of Inflammation & AutoImmunity Group    [44]
+--------------------------------------------------------------------------------
+Yes. We see the X2 asset as complementary to povorcitinib. Because of the different mechanisms, we prevent mast cell degranulation. But we also know that many patients can have ongoing Type 2 inflammation as well as other types of inflammation that povorcitinib can target. So if you think about the 2 different mechanisms, they really do complement each other very well, and we see that we can treat a broader range of patients with the 2 assets. So we're very excited to have us in our pipeline.
+
+--------------------------------------------------------------------------------
+Operator    [45]
+--------------------------------------------------------------------------------
+Next question today is from Michael Schmidt from Guggenheim.
+
+--------------------------------------------------------------------------------
+Michael Werner Schmidt,  Guggenheim Securities, LLC, Research Division - Senior Analyst & Senior MD    [46]
+--------------------------------------------------------------------------------
+Yes, congrats on the deal, a great fit, in my opinion. Just high level, how does the acquisition impact priorities, R&D priorities, in your earlier development-stage pipeline? And how do you think about prioritizing oncology versus IAI as you think about future business development opportunities down the road?
+
+--------------------------------------------------------------------------------
+Herve Hoppenot,  Incyte Corporation - CEO & Chairman    [47]
+--------------------------------------------------------------------------------
+Yes. Let me take this, and maybe Pablo or Christiana can complement my response. We are in the process, independently from the deal, of prioritization of the pipeline anyway. So that's something that obviously now will be included in our top priority projects, and that will have an impact of maybe moving some other projects to a lower level of priorities. That could be the case. 
+In terms of oncology versus inflammation, frankly, we look at them a little bit, independently from each other, in terms of the sequence and the way the portfolio is evolving. And you have seen, I mean, there are, on both sides, a lot of very promising projects. And this will certainly put in the IAI portfolio now with povorcitinib and the RUX cream and the IL-16 antibody. And it's sort of building a portfolio that is certainly very interesting and where we have now with this project 2 indications, 2 mechanisms, where we could be first-in-class, which is obviously very important. 
+So I don't know, Pablo, do you want to talk about the portfolio dynamic?
+
+--------------------------------------------------------------------------------
+Pablo J. Cagnoni,  Incyte Corporation - President and Head of Research & Development    [48]
+--------------------------------------------------------------------------------
+I can add just a couple of points. I obviously agree with everything Herve said. I think independently from the acquisition, we review each project in our portfolio regularly to determine where we're going to allocate resources going forward. And the 3 pillars of our R&D strategy will remain myeloproliferative neoplasms and graft-versus-host disease, targeted oncology and IAI. Specifically in oncology, as you know, Michael, we have data coming later this year on our CDK2 inhibitor, our KRASG12D, just into the clinics. So we're now moving away from oncology. We're continuing to build what we think is becoming a world-class IAI franchise. 
+Christiana?
+
+--------------------------------------------------------------------------------
+Christiana Stamoulis,  Incyte Corporation - Executive VP & CFO    [49]
+--------------------------------------------------------------------------------
+I think all points were well covered.
+
+--------------------------------------------------------------------------------
+Operator    [50]
+--------------------------------------------------------------------------------
+Next question today is coming from Jessica Fye from JPMorgan.
+
+--------------------------------------------------------------------------------
+Jessica Macomber Fye,  JPMorgan Chase & Co, Research Division - Analyst    [51]
+--------------------------------------------------------------------------------
+Just a question kind of related to business development strategy. With the a number of proof-of-concept readouts for these molecules approaching in what looks like less than 12 months from now, how did you make the decision to acquire these assets now versus wait to get to the other side of proof-of-concept data?
+
+--------------------------------------------------------------------------------
+Herve Hoppenot,  Incyte Corporation - CEO & Chairman    [52]
+--------------------------------------------------------------------------------
+I can speak about that. I mean, it's obviously always possible to wait for all the data to be out there. I think it's a mechanism. It's a field where we have a lot of internal interest. It's something that we are able to evaluate from the preclinical and the early clinical data, and that's what triggered our interest to do the deal at this point before maybe the value would be multiplied by existing data in a randomized setting, so that's how we came to this conclusion. 
+Pablo, do you want to comment on this?
+
+--------------------------------------------------------------------------------
+Pablo J. Cagnoni,  Incyte Corporation - President and Head of Research & Development    [53]
+--------------------------------------------------------------------------------
+I will only add that, Jess, we conducted a very detailed diligence and we were comfortable moving forward at this point. Otherwise, I agree 100% with Herve's comments..
+
+--------------------------------------------------------------------------------
+Operator    [54]
+--------------------------------------------------------------------------------
+Next question today is coming from Eric Schmidt from Cantor Fitzgerald.
+
+--------------------------------------------------------------------------------
+Eric Thomas Schmidt,  Cantor Fitzgerald & Co., Research Division - Research Analyst    [55]
+--------------------------------------------------------------------------------
+It's a little bit more on mechanism of the MRGPRX2 antagonism. I guess anti-KIT inhibition, we're used to seeing very strong serum tryptase level reductions corollary with activity, clinical activity. I'm wondering if you think the mechanism of EP262 also will show such correlation and whether you've been able to observe it in the open-label study.
+
+--------------------------------------------------------------------------------
+Herve Hoppenot,  Incyte Corporation - CEO & Chairman    [56]
+--------------------------------------------------------------------------------
+Jim and Pablo?
+
+--------------------------------------------------------------------------------
+Pablo J. Cagnoni,  Incyte Corporation - President and Head of Research & Development    [57]
+--------------------------------------------------------------------------------
+Yes, I'm going to have Jim comment on that. Go ahead.
+
+--------------------------------------------------------------------------------
+James H. Lee,  Incyte Corporation - Group VP, Head of Inflammation & AutoImmunity Group    [58]
+--------------------------------------------------------------------------------
+So we'll share the CIndU study data later, but we agree that tryptase is an important serum biomarker to look at in a condition like CSU. So yes, we'll share all of that data as we get it. But we agree about the tryptase.
+
+--------------------------------------------------------------------------------
+Operator    [59]
+--------------------------------------------------------------------------------
+Your next question is coming from Eric Yeung from William Blair.
+
+--------------------------------------------------------------------------------
+Eric Y Yeung,  William Blair & Company L.L.C., Research Division - Research Analyst    [60]
+--------------------------------------------------------------------------------
+Eric on for Matt Phipps. You spoke earlier about 262 being used potentially in patients who don't respond to omalizumab. I was wondering if you think the mechanism will have activity across a broad range of baseline IgE levels?
+
+--------------------------------------------------------------------------------
+Herve Hoppenot,  Incyte Corporation - CEO & Chairman    [61]
+--------------------------------------------------------------------------------
+Jim?
+
+--------------------------------------------------------------------------------
+James H. Lee,  Incyte Corporation - Group VP, Head of Inflammation & AutoImmunity Group    [62]
+--------------------------------------------------------------------------------
+Sure. The second question is yes, we do believe that the X2 blockade should work across patients with either normal levels or elevated IgE levels. And I think your first part of the question implied the omalizumab target patients. And we know from their studies that the patients with the lower IgE levels didn't respond as well. And that goes to the auto allergenic or auto allergy driver for the IgE, right, in terms of how it triggers the mast cell. It's mostly predominantly driven by an allergic response that is the allergens bound by the IgE. So that's why we're so interested in X2. Again, there are a lot of different drivers of urticaria besides the allergens, but we believe the X2 should work across patient populations.
+
+--------------------------------------------------------------------------------
+Operator    [63]
+--------------------------------------------------------------------------------
+Your next question is coming from Reni Benjamin from Citizens JMP.
+
+--------------------------------------------------------------------------------
+Reni John Benjamin,  JMP Securities LLC, Research Division - MD & Equity Research Analyst    [64]
+--------------------------------------------------------------------------------
+Can you talk a little bit more about the randomized studies that are currently running? How many patients are enrolling? Have they completed enrollment? What kind of effect size are you looking for to detect? And when we think about what you'd like to see outside of just a statistically significant result, what would involve a go/no-go decision for you guys?
+
+--------------------------------------------------------------------------------
+Herve Hoppenot,  Incyte Corporation - CEO & Chairman    [65]
+--------------------------------------------------------------------------------
+Pablo?
+
+--------------------------------------------------------------------------------
+Pablo J. Cagnoni,  Incyte Corporation - President and Head of Research & Development    [66]
+--------------------------------------------------------------------------------
+Yes. Look, the deal is fresh. As the deal closes later this year, then over time, we'll provide additional details. What I can tell you today is that they're randomized Phase II studies, that the CSU study has 2 different dose levels, the AD study is a single dose level, and we're not going to discuss any more details as to the specifics of the design of the studies at this point.
+
+--------------------------------------------------------------------------------
+Reni John Benjamin,  JMP Securities LLC, Research Division - MD & Equity Research Analyst    [67]
+--------------------------------------------------------------------------------
+All right. If I could quickly follow up then, is there any chance that, with any of these programs, you could have an accelerated regulatory path by chance? Or is it pretty standard, we're going to have to go through a large Phase III?
+
+--------------------------------------------------------------------------------
+Herve Hoppenot,  Incyte Corporation - CEO & Chairman    [68]
+--------------------------------------------------------------------------------
+Jim?
+
+--------------------------------------------------------------------------------
+James H. Lee,  Incyte Corporation - Group VP, Head of Inflammation & AutoImmunity Group    [69]
+--------------------------------------------------------------------------------
+Yes, our expectation is that we're going to need Phase III trials. And this type of indications, in our experience from the RUX cream and povorcitinib programs, you need large randomized Phase III studies not just to confirm the efficacy, which might very well be evident in a randomized Phase II study, but to have much larger safety databases and longer follow-up in order to ensure the safety in this type of indication, so full expectations here. And that's why I think we mentioned that the launches will start in 2029 because we expect we're going to need Phase III trials.
+
+--------------------------------------------------------------------------------
+Operator    [70]
+--------------------------------------------------------------------------------
+Next question today is coming from David Lebowitz from Citi.
+
+--------------------------------------------------------------------------------
+Debanjana Chatterjee,   -     [71]
+--------------------------------------------------------------------------------
+This is Debanjana on behalf of David. So we were curious if MRGPRX2 plays any role in mastocytosis. And do you think EP262 can benefit indolent systemic mastocytosis patients?
+
+--------------------------------------------------------------------------------
+Herve Hoppenot,  Incyte Corporation - CEO & Chairman    [72]
+--------------------------------------------------------------------------------
+Pablo?
+
+--------------------------------------------------------------------------------
+Pablo J. Cagnoni,  Incyte Corporation - President and Head of Research & Development    [73]
+--------------------------------------------------------------------------------
+We don't expect that. We're not considering that an opportunity for MRGPRX2 inhibition. Let me have Jim comment further on that.
+
+--------------------------------------------------------------------------------
+James H. Lee,  Incyte Corporation - Group VP, Head of Inflammation & AutoImmunity Group    [74]
+--------------------------------------------------------------------------------
+No, we agree. Remember, what we're trying to block with the X2 is the cathelicidin proteins, all the natural ligands, the neuropeptides that trigger it. And so we don't expect it to work on the conditions that you just mentioned.
+
+--------------------------------------------------------------------------------
+Operator    [75]
+--------------------------------------------------------------------------------
+Next question is coming from Allison Bratzel from Piper Sandler.
+
+--------------------------------------------------------------------------------
+Allison Marie Bratzel,  Piper Sandler & Co., Research Division - VP and Senior Research Analyst    [76]
+--------------------------------------------------------------------------------
+Just some follow-ups on prior questions. Could you talk about incremental R&D spend or how we should think about this deal changing the spend trajectory? Just since it sounds like this may be somewhat offset by some pipeline reprioritization. And then just looking at Slide 12 with the estimated development time lines, could you just frame your level of confidence in the 2029 launch timing for both 262 and 547?
+
+--------------------------------------------------------------------------------
+Herve Hoppenot,  Incyte Corporation - CEO & Chairman    [77]
+--------------------------------------------------------------------------------
+Okay. Maybe Christiana on the budget impact and Pablo on the timing.
+
+--------------------------------------------------------------------------------
+Christiana Stamoulis,  Incyte Corporation - Executive VP & CFO    [78]
+--------------------------------------------------------------------------------
+Yes. So in terms of the budget impact, for 2024, as Herve indicated in his prepared remarks, we expect the impact to be limited. So based on current estimates, it would be less than 2%. And we will have more details when we speak next week on our Q1 earnings call. Beyond 2024, the net impact of the program would depend on the progression of other programs in our pipeline. And as we have discussed in the past, and actually Pablo alluded to, our goal is to continue to invest in high-potential programs but, at the same time, ensure that the growth of our R&D spend over time does not exceed the growth of our top line. So we continue to increase the operating leverage of the company.
+
+--------------------------------------------------------------------------------
+Herve Hoppenot,  Incyte Corporation - CEO & Chairman    [79]
+--------------------------------------------------------------------------------
+And Pablo on the time line?
+
+--------------------------------------------------------------------------------
+Pablo J. Cagnoni,  Incyte Corporation - President and Head of Research & Development    [80]
+--------------------------------------------------------------------------------
+Yes. We are confident on the estimates that we've put in Slide 12. Obviously, as the data becomes available and we disclose it in 2025, we'll provide more precision on the initiation of Phase III trials. And at that point, those estimates will become even more clear on the approvals and launches. But right now, based on the data we have on hand and the information we have from the ongoing randomized Phase II studies, we're confident on the estimates on Slide 12.
+
+--------------------------------------------------------------------------------
+Operator    [81]
+--------------------------------------------------------------------------------
+We reached the end of our question-and-answer session. I'd like to turn the floor back over to Ben for any further or closing comments.
+
+--------------------------------------------------------------------------------
+Ben Strain,   -     [82]
+--------------------------------------------------------------------------------
+Thank you all for participating in the call today and for your questions. As a reminder, management and the IR team will be available for additional questions after we report Q1 earnings next Tuesday. Thank you, and goodbye.
+
+--------------------------------------------------------------------------------
+Operator    [83]
+--------------------------------------------------------------------------------
+Thank you. That does conclude today's teleconference and webcast. You may disconnect your line at this time, and have a wonderful day. We thank you for your participation today.
+
+
+
+
+
+
+
+--------------------------------------------------------------------------------
+Definitions
+--------------------------------------------------------------------------------
+PRELIMINARY TRANSCRIPT: "Preliminary Transcript" indicates that the 
+Transcript has been published in near real-time by an experienced 
+professional transcriber.  While the Preliminary Transcript is highly 
+accurate, it has not been edited to ensure the entire transcription 
+represents a verbatim report of the call.
+
+EDITED TRANSCRIPT: "Edited Transcript" indicates that a team of professional 
+editors have listened to the event a second time to confirm that the 
+content of the call has been transcribed accurately and in full.
+
+--------------------------------------------------------------------------------
+Disclaimer
+--------------------------------------------------------------------------------
+Refinitiv reserves the right to make changes to documents, content, or other 
+information on this web site without obligation to notify any person of 
+such changes.
+
+In the conference calls upon which Event Transcripts are based, companies 
+may make projections or other forward-looking statements regarding a variety 
+of items. Such forward-looking statements are based upon current 
+expectations and involve risks and uncertainties. Actual results may differ 
+materially from those stated in any forward-looking statement based on a 
+number of important factors and risks, which are more specifically 
+identified in the companies' most recent SEC filings. Although the companies 
+may indicate and believe that the assumptions underlying the forward-looking 
+statements are reasonable, any of the assumptions could prove inaccurate or 
+incorrect and, therefore, there can be no assurance that the results 
+contemplated in the forward-looking statements will be realized.
+
+THE INFORMATION CONTAINED IN EVENT TRANSCRIPTS IS A TEXTUAL REPRESENTATION
+OF THE APPLICABLE COMPANY'S CONFERENCE CALL AND WHILE EFFORTS ARE MADE TO
+PROVIDE AN ACCURATE TRANSCRIPTION, THERE MAY BE MATERIAL ERRORS, OMISSIONS,
+OR INACCURACIES IN THE REPORTING OF THE SUBSTANCE OF THE CONFERENCE CALLS.
+IN NO WAY DOES REFINITIV OR THE APPLICABLE COMPANY ASSUME ANY RESPONSIBILITY FOR ANY INVESTMENT OR OTHER
+DECISIONS MADE BASED UPON THE INFORMATION PROVIDED ON THIS WEB SITE OR IN
+ANY EVENT TRANSCRIPT. USERS ARE ADVISED TO REVIEW THE APPLICABLE COMPANY'S
+CONFERENCE CALL ITSELF AND THE APPLICABLE COMPANY'S SEC FILINGS BEFORE
+MAKING ANY INVESTMENT OR OTHER DECISIONS.
+--------------------------------------------------------------------------------
+Copyright 2024 Refinitiv. All Rights Reserved.
+--------------------------------------------------------------------------------

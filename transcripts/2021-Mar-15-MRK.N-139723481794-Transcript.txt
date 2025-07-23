@@ -1,0 +1,537 @@
+
+
+Refinitiv StreetEvents Event Transcript
+E D I T E D   V E R S I O N
+
+Merck &amp; Co to Discuss Broad HIV Development Program and Newly Announced Collaboration with Gilead Sciences Inc - Conference Call
+MARCH 15, 2021 / 12:00PM GMT
+
+================================================================================
+Corporate Participants
+================================================================================
+
+ * Roy D. Baynes
+   Merck & Co., Inc. - Chief Medical Officer
+ * Franklin K. Clyburn
+   Merck & Co., Inc. - Chief Commercial Officer & Executive VP
+ * Peter Dannenbaum
+   Merck & Co., Inc. - VP of IR
+ * Dean Y. Li
+   Merck & Co., Inc. - EVP
+ * Daria Hazuda
+   Merck & Co., Inc. - VP of Infectious Diseases Discovery & CSO of MRL Cambridge Exploratory Science Center
+
+================================================================================
+Conference Call Participiants
+================================================================================
+
+ * Jonathan Miller
+   Evercore ISI Institutional Equities, Research Division - VP
+ * Seamus Christopher Fernandez
+   Guggenheim Securities, LLC, Research Division - Senior Analyst of Global Pharmaceuticals
+ * Louise Alesandra Chen
+   Cantor Fitzgerald & Co., Research Division - Senior Research Analyst & MD
+ * Geoffrey Christopher Meacham
+   BofA Securities, Research Division - Research Analyst
+ * Mara Goldstein
+   Mizuho Securities USA LLC, Research Division - MD of Equity Research Department
+ * Aaron Gal
+   Sanford C. Bernstein & Co., LLC., Research Division - Senior Research Analyst
+ * David Reed Risinger
+   Morgan Stanley, Research Division - MD in Equity Research and United States Pharmaceuticals Analyst
+ * Daina Michelle Graybosch
+   SVB Leerink LLC, Research Division - MD & Senior Research Analyst
+ * Terence C. Flynn
+   Goldman Sachs Group, Inc., Research Division - MD
+ * Philip M. Nadeau
+   Cowen and Company, LLC, Research Division - MD & Senior Research Analyst
+ * Andrew Simon Baum
+   Citigroup Inc., Research Division - Global Head of Healthcare Research and MD
+
+================================================================================
+Presentation
+--------------------------------------------------------------------------------
+Operator    [1]
+--------------------------------------------------------------------------------
+Good morning. My name is Laura, and I will be your conference operator today. At this time, I would like to welcome everyone as Merck Announces HIV Collaboration with Gilead. (Operator Instructions) 
+I would now like to turn the call over to Peter Dannenbaum, Vice President, Investor Relations. Sir, please go ahead.
+
+--------------------------------------------------------------------------------
+Peter Dannenbaum,  Merck & Co., Inc. - VP of IR    [2]
+--------------------------------------------------------------------------------
+Thank you, Laura, and good morning. Welcome to Merck's call to discuss today's announcement of collaboration with Gilead Sciences as well as our HIV program broadly. Our speakers today will be Dr. Dean Li, President of Merck Research Labs; Dr. Daria Hazuda, Head of Infectious Disease Discovery and Research; Dr. Roy Baynes, Chief Medical Officer of Merck Research Labs and Head of Clinical Development; and Frank Clyburn, our Chief Commercial Officer. 
+I would like to remind you that some of the statements that we make during today's call may be considered forward-looking statements within the meaning of the safe harbor provision of the U.S. Private Securities Litigation Reform Act of 1995. Such statements are made based on the current beliefs of Merck's management and are subject to significant risks and uncertainties. If our underlying assumptions prove inaccurate or uncertainties materialize, actual results may differ materially from those set forth in the forward-looking statements. Our SEC filings, including Item 1A in the 2020 10-K, identify certain risk factors and cautionary statements that could cause the company's actual results to differ materially from those projected in any of our forward-looking statements made this morning. 
+Merck undertakes no obligation to publicly update any forward-looking statements. Our SEC filings and an investor presentation that we will speak to on today's call are posted on merck.com. 
+With that, I'd like to turn the call over to Dean.
+
+--------------------------------------------------------------------------------
+Dean Y. Li,  Merck & Co., Inc. - EVP    [3]
+--------------------------------------------------------------------------------
+Thank you, Peter. Good morning, and thank you for joining us today to discuss our exciting new collaboration with Gilead to treat -- to create long-acting HIV treatment regimen of our 2 potentially first-in-class compounds, islatravir and lenacapavir, for the benefit of people living with HIV around the globe. We would like to also speak to our islatravir development program more broadly, and Daria, Roy and Frank will share their insights in a minute before we take your questions. 
+Now through the execution of this collaboration, Merck continues to drive forward its strategy of innovation with a focus on finding the best science to address unmet medical needs. This transaction furthers Merck's capabilities on HIV, but more importantly, yields the potential to bring to market combination regimen, the promise to transform treatment options for people living with HIV that otherwise would not be possible without this transaction. This deal today reflects Merck and Gilead's commitment to maximizing the public health impact for people living with HIV in every corner of the Europe and providing long-acting treatment options that help provide sustained viral suppression to reduce transmission rates globally. 
+Now Merck has a long history and legacy in HIV research and has introduced many first-in-class molecules to address this illness over the past 35 years. More recently, we've introduced to the market our non-nucleoside reverse transcriptase inhibitor, doravirine, both as a single agent as a part of a complete regimen and as a fixed-dose combination as a single tablet regimen. In addition, we've progressed our potentially first-in-class nucleoside reverse transcriptase and translocation inhibitor, islatravir, into Phase III clinical trials across treatment and prevention. We are excited to build upon this legacy of innovation and HIV through today's announcement of our collaboration with Gilead and to potentially bring multiple long-acting combination treatment regimen to people living with HIV. We believe that it is the right time to initiate this partnership with Gilead, given the broad understanding each company has built through their respective development programs of islatravir and lenacapavir, and we are again following the science to deliver the best innovation that maximizes benefits from people living with HIV. 
+Now before I turn the call over to Daria Hazuda, who leads our Infectious Disease and Vaccine Discovery Research and as our Chief Scientific Officer of the Cambridge Exploratory Science Center, I thought I would take a moment to highlight the important role that Daria has in Merck's HIV research. During her tenure at Merck, Daria has played instrumental roles in the discovery of multiple products. Most notably, in the area of HIV research, Daria is recognized for her work delineating the mechanism of the HIV integrase. This work provided critical insight into the potential of HIV integrase as a target for therapeutic intervention. Subsequently, she built on these observations to develop Merck's first-in-class integrase strand transfer inhibitor, ISENTRESS. More recently, Daria also played a critical role in the design and development of doravirine, which was approved by the FDA in 2018 for the treatment of adults with HIV and is marketed as PIFELTRO and DELSTRIGO. Doravirine is now also being evaluated in Phase III clinical trials in combination with islatravir. Daria's knowledge and expertise in HIV and her ability to apply that knowledge to islatravir and our broader HIV program gives us confidence in Merck's ability to execute on our exciting HIV pipeline today. 
+With that, I'll turn it over to Daria. Daria?
+
+--------------------------------------------------------------------------------
+Daria Hazuda,  Merck & Co., Inc. - VP of Infectious Diseases Discovery & CSO of MRL Cambridge Exploratory Science Center    [4]
+--------------------------------------------------------------------------------
+Thank you, Dean, and good morning, everyone. As Dean noted, I've worked in the field of HIV research for more than 2 decades and have had the pleasure to see firsthand the incredible innovation and progress that has occurred in treating and preventing HIV as well as the impact that our medicines have on people living with HIV, their families and their caregivers. We have certainly come a long way, but unfortunately, there still remains significant unmet need in HIV today. In fact, in 2019 alone, there were 1.7 million global new infections and a total of 38 million people living with HIV. In the treatment setting, there is a need for new options that reduce stigma, improve adherence, reduce toxicity and provide for continued antiviral suppression after missed or late doses. 
+In treatment, once-weekly oral and longer-acting injectables offer significant potential benefit to patients. In prevention, the current uptake of PrEP regimen is suboptimal for many complex reasons. In this setting, long-acting regimens like once-monthly oral dosing and once the early implants have the potential to improve uptake and implementation of prevention regimens. And one physician told me many years ago, the best medicines to treat and prevent HIV are the ones people take. Options are critically important. 
+As Dean highlighted earlier, when we discovered and launched ISENTRESS, we thought this would be a once-in-a-lifetime accomplishment in the field of HIV because of what integrase inhibitors have done to transform HIV treatment. That said, as we advance the development of islatravir, I would almost consider this to be a once-in-a-lifetime type of molecule. The ability for a drug like islatravir to have the pharmacology and the potency to enable long-acting formulations that could last for more than a year is something I would never have believed possible. 
+The continuing unmet need in HIV drives our efforts at Merck to innovate and we believe that islatravir is ideally suited for long-acting regimens. The unique attributes of islatravir with respect to potency, its high barrier to resistance and pharmacology, including a long half-life in cells, provides this foundation for extended dosing formulations, including weekly oral and long-acting injectable combinations with lenacapavir. 
+Islatravir and lenacapavir each represent potential first-in-class assets that have progressed into late-stage clinical development. Islatravir is a novel nucleoside reverse transcriptase translocation inhibitor that works through multiple mechanisms of action to inhibit HIV replication, resulting in very high potency and a high barrier to resistance. Islatravir uniquely blocks reverse transcription by preventing translocation, ensuring that the enzyme cannot shift to the next position in the growing DNA chain. Islatravir also inhibits reverse transcription through delayed chain termination, altering the viral DNA so that additional nucleosides cannot be incorporated. 
+Gilead's lenacapavir is a potentially first-in-class capsid inhibitor and also interferes with multiple processes in HIV replications by interfering with both the assembly and disassembly of the HIV capsid, critical steps in the HIV life cycle. We view lenacapavir as an attractive partner to islatravir for several reasons. First, as a novel first-in-class capsid inhibitor, lenacapavir has activity against wild-type and drug-resistant HIV. Importantly, like islatravir, lenacapavir has a long half-life, which makes it ideal for longer-acting regimens. 
+Further, also like islatravir, lenacapavir has the ability to be administered in once-weekly oral and injectable formulations, which is certainly not the case for most compounds. Therefore, as we look at both islatravir and lenacapavir, we recognize they have the unique qualities needed to create effective, long-acting oral and injectable combination regimens and change the treatment landscape in a meaningful way to address the unmet needs of people who are living with HIV. 
+With that, I'd like to pass the call over to Roy to highlight our broad clinical development program, studying islatravir across treatment and prevention, including how we see the combination with lenacapavir fitting into that program.
+
+--------------------------------------------------------------------------------
+Roy D. Baynes,  Merck & Co., Inc. - Chief Medical Officer    [5]
+--------------------------------------------------------------------------------
+Thank you, Daria. Merck is progressing a broad internal development program studying islatravir across treatment and prevention. On the treatment side, we are in Phase III clinical trials evaluating the combination of islatravir and doravirine as a once-daily oral regimen across participants switching from an approved regimen, heavily treatment-experienced and treatment-naive participants with HIV. We hope to see readouts from some of these trials later this year. In addition, we recently progressed the combination of islatravir and MK-8507, a developmental non-nucleoside reverse transcriptase inhibitor into Phase II clinical trials as a once-weekly oral regimen. 
+Beyond these treatment regimens, there is potential for additional combination agents given our deep pipeline, including several integrase inhibitor candidates in early development. In the prevention setting, we have begun recruitment for our 2 Phase III trials IMPOWER 22 and IMPOWER 24 studying islatravir in different populations at high risk of acquiring HIV infection as a once-monthly single-agent oral therapy. IMPOWER 22 is evaluating the efficacy and safety of islatravir as a once-monthly oral capsule in adult women and adolescent girls and IMPOWER 24 is evaluating the same regimen in men who have sex with men and transgender women who have sex with men. 
+We are also evaluating longer-acting prevention options. And this past week, Merck presented encouraging data from our Phase I single-agent implant at the CROI meeting, which I'll touch on in just a moment, and we look forward to moving this regimen into Phase II clinical development in due course. We believe that given the breadth of this clinical development program and favorable attributes that islatravir brings to the table, there is potential to establish islatravir as a foundational asset across future treatment and prevention regimens. 
+To highlight some of the data generated across our program, we wanted to also take this opportunity to discuss some of the islatravir data presented at CROI last week in both treatment and prevention. Data continues to support long-acting dosing regimens in both settings, including the suitability of MK-8507 as a once-weekly treatment partner and we've highlighted dose selection data for our once-monthly oral prep regimen. 
+Of note, early data were presented from our subdermal islatravir implant for PrEP. And as you can see on this slide, the data support the potential for the implant to provide drug concentrations above the target PK threshold for at least 1 year, and we are excited to move this forward in development. Our new collaboration with Gilead naturally expands and complements our long-acting development program, and we plan to pursue treatment regimens studying the combination of islatravir and lenacapavir in both long-acting oral and injectable combinations. We will start development of the combination regimens as soon as is possible and hope to have the first oral combination trial up and running in the second half of this year. 
+With that, I'd now like to turn the call over to Frank to walk through the details of the collaboration and highlight the commercial opportunity across treatment and prevention.
+
+--------------------------------------------------------------------------------
+Franklin K. Clyburn,  Merck & Co., Inc. - Chief Commercial Officer & Executive VP    [6]
+--------------------------------------------------------------------------------
+Thank you, Roy. Today's announcement kicks off an important collaboration between 2 recognized players in HIV, with an initial focus on the development of long-acting oral and injectable combinations of 2 potentially first-in-class assets. The deal will allow both companies to work as partners to develop long-acting combinations of islatravir and lenacapavir for the benefit of those living with HIV. We will share operational responsibilities, development and marketing costs and any future revenues of combinations. The specific terms of the deal include the sharing of global revenues on treatment combinations of islatravir and lenacapavir equally until each product reaches a certain sales threshold. For the long-acting oral combination regimen, annual revenues up to $2 billion will be split equally. Revenues above this threshold will be split 35% for Merck and 65% for Gilead. 
+Similarly, for the long-acting injectable combination regimen, annual revenues up to $3.5 billion will be split equally, and revenues above this threshold will be split 35% for Merck and 65% for Gilead. From a development and commercialization standpoint, Merck and Gilead will share costs 40% and 60%, respectively. Both companies will co-promote islatravir and lenacapavir combinations in the United States and other major markets. Merck will have rights to lead commercialization of the long-acting oral combination products in the EU and rest of the world while Gilead will lead in the United States. For the long-acting injectable, Merck will have rights to lead commercialization in the United States while Gilead will lead in the EU and rest of the world. 
+The deal terms also include the option for both companies to license the others investigational oral integrase inhibitors in development to combine as a treatment with either islatravir or lenacapavir. Upon exercise of this option, both companies will split profits and cost of a new combination unless the non-exercising company opts for a royalty. 
+There are significant benefits to this collaboration, both for Merck and Gilead and for people living with HIV, including the ability to bring forward innovation that otherwise would not occur by combining these 2 potentially first-in-class assets into long-acting treatment regimens. Gilead is a strong partner, given its expertise, presence and commitment to HIV. And together, we will have the opportunity to provide potentially transformational, long-acting oral and injectable treatment options to people living with HIV. 
+From a commercial standpoint, there is a large and growing opportunity across treatment and prevention. The global HIV market is expected to reach more than $30 billion by the middle of the decade and on the treatment side. The market is expected to evolve to long-acting options. Physicians continue to look for multiple treatment options to provide choices and customization to treat people living with HIV and to address the remaining unmet need in the market. 
+In prevention, the market is expected to nearly triple by the end of the decade, reaching roughly $10 billion. Today, there is limited uptake in PrEP, but there are expectations that by 2025, roughly half of at-risk individuals living in the United States could be on prevention regimens as the market evolves to more long-acting options. There is significant focus on prevention, given its importance of achieving important public health goals, including the UNAIDS goal of achieving fewer than 200,000 new HIV infections by the year 2030. We believe Merck is uniquely positioned to capitalize on these growing markets with our broad offerings across treatment and prevention. 
+To conclude, Merck is well positioned to remain a key player in HIV moving forward and has the potential to establish islatravir as a foundational asset across treatment and prevention. Our new collaboration with Gilead fits seamlessly into our broad development program, building on our long-acting treatment capabilities with the ultimate goal of maximizing our impact on the HIV epidemic by addressing the needs of people living with HIV around the world. We are confident in the potential of islatravir to be a significant driver of growth later this decade and well into the next. 
+I'd like to now turn the call back over to Peter.
+
+--------------------------------------------------------------------------------
+Peter Dannenbaum,  Merck & Co., Inc. - VP of IR    [7]
+--------------------------------------------------------------------------------
+Thank you, Frank. Laura, we'd be happy to take questions.
+
+
+================================================================================
+Questions and Answers
+--------------------------------------------------------------------------------
+Operator    [1]
+--------------------------------------------------------------------------------
+(Operator Instructions) 
+Your first question will come from the line of Andrew Baum from Citi.
+
+--------------------------------------------------------------------------------
+Andrew Simon Baum,  Citigroup Inc., Research Division - Global Head of Healthcare Research and MD    [2]
+--------------------------------------------------------------------------------
+Congrats on the deal. 3 quick questions, please. First, for your capsule PrEP, I'm assuming that you're not going to be forced to run another or even 2 extensive Phase III trials. So I assume that you can bridge using the data that's going to be generated from the oral PrEP, if you could confirm that? Second, could you just confirm the deal is nonexclusive? And then finally, you're running the head-to-head Biktarvy trials reporting out this year with doravirine. One of those is in treatment-naive patients. I'm expecting that you would show significantly lower weight gain, potentially lipid increases than that experienced by the Biktarvy control arm. Is that consistent with your internal expectations?
+
+--------------------------------------------------------------------------------
+Peter Dannenbaum,  Merck & Co., Inc. - VP of IR    [3]
+--------------------------------------------------------------------------------
+Roy, I believe there's a couple of questions there for you, and then maybe we'll turn it over to Dean and Frank.
+
+--------------------------------------------------------------------------------
+Roy D. Baynes,  Merck & Co., Inc. - Chief Medical Officer    [4]
+--------------------------------------------------------------------------------
+Sure. Thanks, Peter. So the first one, Andrew, was related to the PrEP trials and the size of these trials and whether we would be able to bridge. We are running a very traditional Phase III in women, and that is actually in partnership with the Bill & Melinda Gates Foundation. We are running a novel trial design in the setting of men who have sex with men, and that trial should be -- details should be available on clinic trials in the near future, if not already there. 
+In terms of the head-to-head comparison with Biktarvy in the once-daily treatment regimen, we certainly, in Phase II had reason to believe that the 2-drug combination of islatravir plus doravirine should have a salutary effect on metabolic aspects and certainly, we, in Phase II, were struck by the lack of weight gain. So again, it's a Phase III study, and we'll have to await the data. But certainly from Phase II, those seem like reasonable underpinnings.
+
+--------------------------------------------------------------------------------
+Dean Y. Li,  Merck & Co., Inc. - EVP    [5]
+--------------------------------------------------------------------------------
+Yes. So this is Dean. Thank you for that question. I just want to emphasize some scientific points that I think is -- are important to underscore. Daria talked about the potency, the high barrier to resistance and the pharmacology and the long half-life in cells, especially the cells where HIV is going to enter a person's life and bloodstream. And so I just want to emphasize that the monotherapy sort of studies that we've done, which are in prevention, really teach us a lot about what islatravir can do, and so I think that needs to be underscored. 
+We have a very good sense of what it can do and we also understand what might be important in terms of treatment. In terms of treatment, I would say that what we are looking internally for and externally for are 2 sort of images that we have been led to believe, both in the developed countries and in the developing countries is very important. 
+So in my internal programs, I look for compounds that can combine with islatravir and I can give it orally at least q week. And when I look at my internal pipeline and I judge compounds, I look for an injectable combination that can go q 3 months or greater. So that's the way that I think about what are the combinatorial treatment options that Merck should focus on. In terms of any business arrangement, I'll turn that over to Frank.
+
+--------------------------------------------------------------------------------
+Franklin K. Clyburn,  Merck & Co., Inc. - Chief Commercial Officer & Executive VP    [6]
+--------------------------------------------------------------------------------
+Yes. Andrew, this is Frank. And yes, the collaboration does preserve the ability of each Gilead and Merck to partner with others outside of this collaboration. It is subject to some certain reasonable timing and scope limitations. These limitations are necessary and reasonable to justify the company's joint investment in the sharing of intellectual property and confidential specialized know-how as well as to help ensure the commitment to the collaboration. But to answer your question, yes, it does preserve ability for us or Gilead to partner with others, Andrew.
+
+--------------------------------------------------------------------------------
+Operator    [7]
+--------------------------------------------------------------------------------
+So your next question will come from the line of Geoff Meacham from Bank of America.
+
+--------------------------------------------------------------------------------
+Geoffrey Christopher Meacham,  BofA Securities, Research Division - Research Analyst    [8]
+--------------------------------------------------------------------------------
+Congrats on the collaboration. I know data-dependent, but for the long-acting injectable, what at this point do you think could be the dosing frequency? Do you have to get to at least quarterly dosing to be commercially competitive and is every 6 months, not realistic?
+
+--------------------------------------------------------------------------------
+Dean Y. Li,  Merck & Co., Inc. - EVP    [9]
+--------------------------------------------------------------------------------
+So I'll take a shot at this. This is Dean. When I've had conversations with people who think about this deeply, both in the developed countries and the developing countries, one of the issues that comes up with either treatment or prevention is adherence and making sure that there was good adherence, right? There is a downside, not just to the patient but to the whole world when you don't have that accurate because that's how we get resistant strains. 
+In our discussions with NGOs and with health systems, I would say that what they're looking for is something at least in the q 3 months and potentially something that a health system could ensure that, that is being taken. So I'm not going to -- I'm not sure that I can answer your sort of market question, but I can tell you that in our discussions with health systems as well as NGOs, they really emphasized to us the need that in the injection space for treatment to try to make a q 3 months and greater. What they've also said in terms of prevention is something similar in the fact that please make it as extended as possible past q 3 months. 
+But I also want to just emphasize one important point that I think is very important for all of us to understand in relationship to prevention. If you're doing a long-acting, you really have to make sure, as Roy showed previously, that your compound is going to be very active for that whole period. Once you don't do that, you're going to get top-up of resistance for your PrEP. And the minute you do that, you will make it harder to treat with that class. 
+So I just want to make sure that it's very clear that from a treatment standpoint what we've been told is, from an injection standpoint, please try to make something q 3 months or greater. I'm not sure that, Frank, did you want to speak about anything in relation to market?
+
+--------------------------------------------------------------------------------
+Franklin K. Clyburn,  Merck & Co., Inc. - Chief Commercial Officer & Executive VP    [10]
+--------------------------------------------------------------------------------
+No.
+
+--------------------------------------------------------------------------------
+Dean Y. Li,  Merck & Co., Inc. - EVP    [11]
+--------------------------------------------------------------------------------
+I think scientifically, we know what the profile is that we're trying to achieve.
+
+--------------------------------------------------------------------------------
+Peter Dannenbaum,  Merck & Co., Inc. - VP of IR    [12]
+--------------------------------------------------------------------------------
+Roy or Daria, do you have anything to add or did Dean capture that well?
+
+--------------------------------------------------------------------------------
+Roy D. Baynes,  Merck & Co., Inc. - Chief Medical Officer    [13]
+--------------------------------------------------------------------------------
+Yes. I would just add that the q month's oral islatravir is also a very meaningful addition to the PrEP armamentarium. So as you've heard, we are well positioned across pretty much all of the treatment opportunities here, we think, to have an impact on the disease.
+
+--------------------------------------------------------------------------------
+Operator    [14]
+--------------------------------------------------------------------------------
+Your next question will come from the line of Terence Flynn from Goldman Sachs.
+
+--------------------------------------------------------------------------------
+Terence C. Flynn,  Goldman Sachs Group, Inc., Research Division - MD    [15]
+--------------------------------------------------------------------------------
+Congratulations on the collaboration, and I just had 2 questions. I was wondering if you can speak to any of the remaining technical hurdles for both oral and injectable formulations beyond just drug-drug interaction studies. And then the second one, I was curious why integrases were included in the collaboration here. Just wondering if that speaks to your confidence in the need for another drug in the mix potentially for a 3-drug combination? Or if you're confident that 2 drugs will likely be enough?
+
+--------------------------------------------------------------------------------
+Peter Dannenbaum,  Merck & Co., Inc. - VP of IR    [16]
+--------------------------------------------------------------------------------
+Great. Thanks, Terence. Daria, maybe you can take the question about technical hurdles, and then I'll turn it over to Dean for the question about integrase.
+
+--------------------------------------------------------------------------------
+Daria Hazuda,  Merck & Co., Inc. - VP of Infectious Diseases Discovery & CSO of MRL Cambridge Exploratory Science Center    [17]
+--------------------------------------------------------------------------------
+Yes. With respect to technical hurdles, the 2 companies really need to start working together to really understand that a bit better with respect to co-formulation because that is really our ultimate goal. So I'm fairly confident that technically, the 2 compounds can work together in the context of a clinical setting. I think the technical hurdles for us will be making sure that we can co-formulate them because that is really -- provides us with the maximal impact for patients.
+
+--------------------------------------------------------------------------------
+Dean Y. Li,  Merck & Co., Inc. - EVP    [18]
+--------------------------------------------------------------------------------
+Yes. In terms of the deal in relationship to having access to both integrases, Merck and Gilead for a combination, I think our view at present is that a 2-drug combination for treatment is going to be an important contribution. The reason why both companies are interested in integrases because as we talked in the beginning, Daria has worked with integrases is that's a workhorse class of medicines. We have integrases, and I've already told you the profile that I've asked my team to achieve. Gilead has integrase inhibitors. And we just thought that it would be important for the field to develop both of them and give the optionality that these integrases could combine either with lenacapavir or with islatravir because more options are important and could be critical in the future depending on how the HIV epidemic plays out over the years.
+
+--------------------------------------------------------------------------------
+Daria Hazuda,  Merck & Co., Inc. - VP of Infectious Diseases Discovery & CSO of MRL Cambridge Exploratory Science Center    [19]
+--------------------------------------------------------------------------------
+Yes. Thanks, Dean. Very -- it's really important to emphasize that options are important. And then we believe in once-weekly oral regimen as being potentially transformative for the space. And so having once-weekly NRTI with 8507, having a once-weekly option with lenacapavir and then potentially having a once-weekly option with an integrase inhibitor, I think we'll provide the whole field with a whole suite of potential medicines to choose from.
+
+--------------------------------------------------------------------------------
+Peter Dannenbaum,  Merck & Co., Inc. - VP of IR    [20]
+--------------------------------------------------------------------------------
+Right. Roy, did you have anything to add to either of those questions?
+
+--------------------------------------------------------------------------------
+Roy D. Baynes,  Merck & Co., Inc. - Chief Medical Officer    [21]
+--------------------------------------------------------------------------------
+No, nothing to add, Peter.
+
+--------------------------------------------------------------------------------
+Operator    [22]
+--------------------------------------------------------------------------------
+So your next question will come from the line of Louise Chen from Cantor.
+
+--------------------------------------------------------------------------------
+Louise Alesandra Chen,  Cantor Fitzgerald & Co., Research Division - Senior Research Analyst & MD    [23]
+--------------------------------------------------------------------------------
+So you did note some revenue splits and economics. Can you elaborate more on how you came to these agreements? And how quickly you think you can get to these billions of dollars of sales? And then also in terms of peak sales potential, you noted some market opportunities. Just curious where you think or how we should think about where that would play out? And then last question is just if you could provide more color on how you're thinking about the design of your oral combination studies that could start in the second half of '21?
+
+--------------------------------------------------------------------------------
+Dean Y. Li,  Merck & Co., Inc. - EVP    [24]
+--------------------------------------------------------------------------------
+So I I'll just say that the excitement that we have is in relationship of exploring all these options and making and executing, right? This is a deal that gives optionality to the field, not just to Merck and Gilead, but to the field, and we need to focus on executing on those options. So we are hopeful that we can execute and get these q week oral and these 3 months greater injectables moving into the clinical trial arena in due course. But in relationship to some of the questions about clinical trials, Roy, did you want to make any comments in relationship to that?
+
+--------------------------------------------------------------------------------
+Roy D. Baynes,  Merck & Co., Inc. - Chief Medical Officer    [25]
+--------------------------------------------------------------------------------
+Yes. Just for clarity on that, we have -- obviously, Gilead has tremendous expertise in the area of combining oral medications, both islatravir and lenacapavir have completed Phase I studies. And so you would imagine the first Phase IIs would explore the concept of putting the 2 together. In terms of the injectables, clearly, there's some initial work to be done on co-administration and co-formulation. And for that reason, we think this will probably take us into the following year to get into the clinic. I'll hand it back. I think there were some questions about the deal structure.
+
+--------------------------------------------------------------------------------
+Franklin K. Clyburn,  Merck & Co., Inc. - Chief Commercial Officer & Executive VP    [26]
+--------------------------------------------------------------------------------
+Yes. It's Frank, Louise and just a couple of additional points. We believe that the revenue and the cost split that we have come up with for both companies really should create shareholder value for both. And it reflects the value of the programs and the capabilities you're hearing from Dean and Roy and Daria. I can tell you, we're very excited by the collaboration. If you think about the marketplace and the size, Daria mentioned 1.7 million new patients globally. It's a very sizable market today with 38 million people living chronically with the disease. And if you could come up with the combination of islatravir and lenacapavir, if they're successfully developed in long-acting formulations, we think this provides a really significant opportunity and in particular, an important driver of revenue growth well into the next decade for Merck. So we're excited. We're not going to give specific guidance obviously, but clearly, we think that the combination provide really important benefits for HIV patients moving forward.
+
+--------------------------------------------------------------------------------
+Operator    [27]
+--------------------------------------------------------------------------------
+Your next question will come from the line of Umer Raffat from Evercore ISI.
+
+--------------------------------------------------------------------------------
+Jonathan Miller,  Evercore ISI Institutional Equities, Research Division - VP    [28]
+--------------------------------------------------------------------------------
+This is Jon Miller on for Umer. I just wanted to ask about some of the IP differences. We know IP is longer for the dalcetrapib than for dalcetrapib. Does the profit split or the arrangement collaboration change at any point when those IP situations change? And can you remind us what those dates are? And secondly, will Merck and Gilead then compete with each other on the monotherapy PrEP side of things? And can you talk to us about how you see that market proceeding?
+
+--------------------------------------------------------------------------------
+Peter Dannenbaum,  Merck & Co., Inc. - VP of IR    [29]
+--------------------------------------------------------------------------------
+Great. Thank you, Jon. Roy, do you want to start the question on IP?
+
+--------------------------------------------------------------------------------
+Roy D. Baynes,  Merck & Co., Inc. - Chief Medical Officer    [30]
+--------------------------------------------------------------------------------
+Sure. So the intellectual property states around islatravir will extend into the next decade. And that relates, for example, to the combination with doravirine. We believe the combinations going forward will add important clinical meaning for patients, but certainly, the IP for islatravir goes into the 30s.
+
+--------------------------------------------------------------------------------
+Peter Dannenbaum,  Merck & Co., Inc. - VP of IR    [31]
+--------------------------------------------------------------------------------
+And second question was on the monotherapy.
+
+--------------------------------------------------------------------------------
+Dean Y. Li,  Merck & Co., Inc. - EVP    [32]
+--------------------------------------------------------------------------------
+Yes. So this is Dean. I'll take the monotherapy. I mean the monotherapy question is really a question of prevention, and I would just make 1 or 2 points. One is, we are very comfortable. We've taken this molecule out and we have a good understanding of this molecule, and we are very confident of the q 1-month oral prevention and potentially a q -- as you saw in the data, potential for q 1-year prevention. So we are very confident about that monotherapy. We would ask people to look carefully at our data, especially in relationship to all the attributes that Daria has talked about and the critical importance that the resistance profile and the long-acting prevention is critically important. So I won't speak to competing or -- in the marketplace, but I will just say that we are very confident of the monotherapy ability of islatravir in prevention. And so that is not something that is covered by this deal.
+
+--------------------------------------------------------------------------------
+Franklin K. Clyburn,  Merck & Co., Inc. - Chief Commercial Officer & Executive VP    [33]
+--------------------------------------------------------------------------------
+Yes. And I'll just add, to Dean's point, to your question, Jon. Yes, we will clearly be competitors with Gilead in the therapy space for monotherapy and for other regimens. So we will compete there and then work on the collaboration for the long-acting oral and long-acting injectable. The other thing I would mention, and you mentioned the deal terms, the deal terms, as I highlighted, are throughout the collaboration in its entirety and the thresholds of the $2 billion for the long-acting oral split 50-50 and then the threshold changes above that to 65% Gilead, 35% Merck. And then just to reiterate that for the long-acting injectable, it's up to $3.5 billion annually, we split 50-50. And then the threshold do change above that to 65%, 35%, 65% Gilead, 35% Merck.
+
+--------------------------------------------------------------------------------
+Operator    [34]
+--------------------------------------------------------------------------------
+Your next question will come from the line of Ronny Gal from Bernstein.
+
+--------------------------------------------------------------------------------
+Aaron Gal,  Sanford C. Bernstein & Co., LLC., Research Division - Senior Research Analyst    [35]
+--------------------------------------------------------------------------------
+Congratulations on the deal. 3 quick ones, if I may. First, following on Louise Chen, a question about combination for PrEP, and if you can share with us with the decision not to go ahead and combine your products with that of Gilead reflect business consideration or scientific consideration? Essentially, you did not need it, you choose to do something else or it seems you could not agree on how to split the economics there? Second one is any antitrust concerns here. You're 2 of the 3 big companies in this field, is there something we need to look for there? And third, as long as we're talking about this, can you talk a little about the implant for islatravir data you presented. Can you talk a little bit about the process of implanting the molecule and implanting -- putting the implants into the body and can that be done by a typical primary care physician? How should we think about that?
+
+--------------------------------------------------------------------------------
+Dean Y. Li,  Merck & Co., Inc. - EVP    [36]
+--------------------------------------------------------------------------------
+Let me just clarify something that I might not have been as clear as I should have been. In relationship to prevention, we are very confident that a monotherapy approach will work and that islatravir has all the unique properties that allow us to believe in that strategy, and Daria has highlighted. So there was -- there is not a thought in our mind that at least for islatravir that there will be the necessity to have another agent added on to it in relationship to prevention. So I just want to make sure that monotherapy in a simplistic term for islatravir equals, in some sense, the prevention strategy. So that's the -- that, I think, is an important point. Peter, can you remind me on the other question?
+
+--------------------------------------------------------------------------------
+Peter Dannenbaum,  Merck & Co., Inc. - VP of IR    [37]
+--------------------------------------------------------------------------------
+Yes, there's a question. I think it's for Roy, the process of an implant. How an implant works or how we envision?
+
+--------------------------------------------------------------------------------
+Roy D. Baynes,  Merck & Co., Inc. - Chief Medical Officer    [38]
+--------------------------------------------------------------------------------
+Sure. I would just remind everyone that Merck has been a leader and a pioneer in the area of implants. For example, implantable contraceptives in the form of, for example, Nexplanon uses very similar technology. And we have many, many hundreds of thousands of training episodes that have been conducted. The insertion is well described and well recognized. And certainly, trained physicians should be able to undergo training to insert this fairly readily. So we're very confident that the implantation technology is well evolved and well described, and certainly, the physicians will be trained on that.
+
+--------------------------------------------------------------------------------
+Peter Dannenbaum,  Merck & Co., Inc. - VP of IR    [39]
+--------------------------------------------------------------------------------
+Thank you. I think Ronny's last question was about antitrust question.
+
+--------------------------------------------------------------------------------
+Franklin K. Clyburn,  Merck & Co., Inc. - Chief Commercial Officer & Executive VP    [40]
+--------------------------------------------------------------------------------
+Yes. And Ronny, we're not concerned about antitrust because we will be competing vigorously in all areas outside of the collaboration. So it is not a concern. As I mentioned previously, we'll be developing islatravir in other treatment regimens outside of this collaboration and we will be competing. So we're not concerned.
+
+--------------------------------------------------------------------------------
+Operator    [41]
+--------------------------------------------------------------------------------
+Your next question will come from the line of Mara Goldstein from Mizuho.
+
+--------------------------------------------------------------------------------
+Mara Goldstein,  Mizuho Securities USA LLC, Research Division - MD of Equity Research Department    [42]
+--------------------------------------------------------------------------------
+Just 2 questions, if you will. And one is just, I'm curious about the decision-making process for who would lead commercialization for long-acting oral versus injectable? And then the second is really a question around potential for co-formulation and how IP would be shared if that would be the case?
+
+--------------------------------------------------------------------------------
+Peter Dannenbaum,  Merck & Co., Inc. - VP of IR    [43]
+--------------------------------------------------------------------------------
+Great. Question -- first question, I believe, is for you, Frank.
+
+--------------------------------------------------------------------------------
+Franklin K. Clyburn,  Merck & Co., Inc. - Chief Commercial Officer & Executive VP    [44]
+--------------------------------------------------------------------------------
+Could you just make sure and can you repeat that, Peter, for me?
+
+--------------------------------------------------------------------------------
+Mara Goldstein,  Mizuho Securities USA LLC, Research Division - MD of Equity Research Department    [45]
+--------------------------------------------------------------------------------
+Sure. Just the decision around who would lead development on the injectable versus -- sorry, the oral -- long-acting orals versus long-acting injectables and how that came about?
+
+--------------------------------------------------------------------------------
+Peter Dannenbaum,  Merck & Co., Inc. - VP of IR    [46]
+--------------------------------------------------------------------------------
+So the question is on commercialization, who leads you guys versus...
+
+--------------------------------------------------------------------------------
+Franklin K. Clyburn,  Merck & Co., Inc. - Chief Commercial Officer & Executive VP    [47]
+--------------------------------------------------------------------------------
+No, I think this is development, Peter. Who is the development of the...
+
+--------------------------------------------------------------------------------
+Dean Y. Li,  Merck & Co., Inc. - EVP    [48]
+--------------------------------------------------------------------------------
+Right. I mean, I can take that, if you like. So the developmental lead for the oral weekly will be Gilead and the injectable lead will be Merck. Obviously, there'll be collaboration. Both companies bring remarkable skills to the table around single tablet formulations and co-formulation of injectables.
+
+--------------------------------------------------------------------------------
+Peter Dannenbaum,  Merck & Co., Inc. - VP of IR    [49]
+--------------------------------------------------------------------------------
+And your second question again, Mara?
+
+--------------------------------------------------------------------------------
+Roy D. Baynes,  Merck & Co., Inc. - Chief Medical Officer    [50]
+--------------------------------------------------------------------------------
+I think the second question was about IP that's generated for the co-formulation of islatravir and lenacapavir.
+
+--------------------------------------------------------------------------------
+Peter Dannenbaum,  Merck & Co., Inc. - VP of IR    [51]
+--------------------------------------------------------------------------------
+Yes, go ahead.
+
+--------------------------------------------------------------------------------
+Roy D. Baynes,  Merck & Co., Inc. - Chief Medical Officer    [52]
+--------------------------------------------------------------------------------
+And that IP is one that both of us are going to be working on and both of us are going to have access and share that IP.
+
+--------------------------------------------------------------------------------
+Peter Dannenbaum,  Merck & Co., Inc. - VP of IR    [53]
+--------------------------------------------------------------------------------
+Does that answer your question, Mara? Okay.
+
+--------------------------------------------------------------------------------
+Operator    [54]
+--------------------------------------------------------------------------------
+Your next question will come from the line of Seamus Fernandez from Guggenheim.
+
+--------------------------------------------------------------------------------
+Seamus Christopher Fernandez,  Guggenheim Securities, LLC, Research Division - Senior Analyst of Global Pharmaceuticals    [55]
+--------------------------------------------------------------------------------
+Congratulations on the collaboration. Just really a quick question. I think most of my other questions have really been answered. But as we sort of look at the global opportunity here, the HIV opportunity seems to have been a little bit less broad than what we've seen in terms of the opportunity in the U.S. With these new formulations and the opportunity to really drive longer-acting treatment in HIV, would you expect that in international markets we're likely to see the market opportunity expand versus what it has been previously? And maybe if you could just help us understand the dynamics affecting that most significantly, that will be helpful.
+
+--------------------------------------------------------------------------------
+Franklin K. Clyburn,  Merck & Co., Inc. - Chief Commercial Officer & Executive VP    [56]
+--------------------------------------------------------------------------------
+Yes, Seamus, it's Frank. And the market dynamics, you're right. The market this year is probably somewhere around $28 billion to $29 billion globally, and it is weighted to the U.S. at probably about 65% to 70%. There are a couple of factors and, I think, one, and why we're excited about this potential collaboration if we're able to develop long-acting oral or long-acting injectable options, we do believe that these will be very meaningful to patients with HIV around the world. So we do think there's opportunities, clearly, if you can help adherence with the profile that we're talking about, you can expand into some of the international markets. Clearly, there's access challenges in some markets outside the U.S. The access is not as available. But we are confident in both companies have a long history of working in many of the international and ex-U.S. markets to gain access. And if the profiles are successful, we feel really good about the opportunity moving forward.
+
+--------------------------------------------------------------------------------
+Operator    [57]
+--------------------------------------------------------------------------------
+Your next question will come from the line of Daina Graybosch from SVB Leerink.
+
+--------------------------------------------------------------------------------
+Daina Michelle Graybosch,  SVB Leerink LLC, Research Division - MD & Senior Research Analyst    [58]
+--------------------------------------------------------------------------------
+Congratulations on the collaboration, and 2 questions for me. One, is there any room for the implantable here in this particular combination or any others as you work through the injectable, could you get to that point? And then the second question is, is there anything -- is there any near-term go, no-go or you would decide not to go forward with either the oral or the injectable in the clinical trials or in the formulation work?
+
+--------------------------------------------------------------------------------
+Dean Y. Li,  Merck & Co., Inc. - EVP    [59]
+--------------------------------------------------------------------------------
+Let me just take one shot at some of your questions. There are -- we need to look at how well these co-formulate. And if we find out the situation either in the oral or in the injectable that it is not a feasible route, I think both companies will stair into that and be interested in exploring other options available to them. So I will just leave that at that part. I think in relationship to whether or not you would have a longer-acting treatment with an implantable, I don't think that -- I know about the molecules that at this point we would conceive that, that may be a technical hurdle too high. But I would also ask Daria or Roy to provide any thoughts they have. But an implantable treatment that's greater than q 3 months, I -- technically, that is something that I'm not so sure is an easy bar for us to aspire for at this time.
+
+--------------------------------------------------------------------------------
+Daria Hazuda,  Merck & Co., Inc. - VP of Infectious Diseases Discovery & CSO of MRL Cambridge Exploratory Science Center    [60]
+--------------------------------------------------------------------------------
+Yes, Dean, this is Daria. I would agree with you. I mean islatravir is somewhat unique in that -- the dose is so incredibly low that it lends itself to yearly or greater implantables. I think there would be insufficient real estate in implantable to allow co-formulation with molecule even one as special as lenacapavir. I think it would be very aspirational to say the least.
+
+--------------------------------------------------------------------------------
+Operator    [61]
+--------------------------------------------------------------------------------
+Your next question will come from the line of David Risinger from Morgan Stanley.
+
+--------------------------------------------------------------------------------
+David Reed Risinger,  Morgan Stanley, Research Division - MD in Equity Research and United States Pharmaceuticals Analyst    [62]
+--------------------------------------------------------------------------------
+Yes, I just wanted to follow-up on that question. So could you update us on the timing for the validation of your yearly implantable for prevention? And one other question, could you discuss the compliance in the real world that you see with the current HIV regimens and how differentiated the longer duration dosing will be in facilitating better real-world efficacy?
+
+--------------------------------------------------------------------------------
+Peter Dannenbaum,  Merck & Co., Inc. - VP of IR    [63]
+--------------------------------------------------------------------------------
+Great. Thanks, Dave. Roy, do you want to take the first part of the question? I think, Daria, maybe the second question?
+
+--------------------------------------------------------------------------------
+Roy D. Baynes,  Merck & Co., Inc. - Chief Medical Officer    [64]
+--------------------------------------------------------------------------------
+Sure. Well so as we mentioned, we just presented our Phase I data at CROI. I think we are very comfortable from the modeling and simulation that we are able to achieve above target levels of islatravir for at least 12 months. This will be moving into Phase II. And it's proceeding apace. So we're very encouraged by what we see. 
+And Daria, did you want to talk about compliance with current HIV regimens?
+
+--------------------------------------------------------------------------------
+Daria Hazuda,  Merck & Co., Inc. - VP of Infectious Diseases Discovery & CSO of MRL Cambridge Exploratory Science Center    [65]
+--------------------------------------------------------------------------------
+Yes. It is a major issue. It's -- we focus on it in HIV because of the potential resistance issues and also the potential for the longer-term implications of less optimal adherence with respect to inflammation and comorbidity. So it is something that the entire field really focuses on. But honestly, for any chronic medications, as I'm sure you well know, adherence over time is a significant issue. 
+Of course, it's very difficult, as Roy will tell you, sometimes to measure in a clinical trial setting because of the type of people who enter those studies. And so you're absolutely right, this needs to be demonstrated in a real-world scenario. But we can tell you that even after a year, a significant number of people are actually switching off their medications for a variety of reasons. So -- they're not satisfied for either tolerability or convenience issues. So we know it continues to be a major problem. 
+Stigma, even people seeking care continues to be a significant issue in many parts of the United States in the South, where the epidemic continues to the spread because of people are afraid to admit their status. So I think there are many reasons that long-acting regimens can significantly improve treatment for people living with HIV, getting people into care and keeping them in care. And we know no medication is perfect, which is why our goal is to be able to develop as many potential long-acting options as technically and possible so that we can try to tailor the most appropriate medication to the individual.
+
+--------------------------------------------------------------------------------
+Roy D. Baynes,  Merck & Co., Inc. - Chief Medical Officer    [66]
+--------------------------------------------------------------------------------
+Great. Maybe one additional point is related to the concept of forgiveness, and that is that as Daria says, long-acting, we have the belief that this will improve adherence and compliance, but it's also important that there'd be some forgiveness in terms of the PK characteristics of these molecules so that as we get to the end of term, it's not sort of like the light switch going off. So the idea here is to have forgiveness in terms of PK.
+
+--------------------------------------------------------------------------------
+Daria Hazuda,  Merck & Co., Inc. - VP of Infectious Diseases Discovery & CSO of MRL Cambridge Exploratory Science Center    [67]
+--------------------------------------------------------------------------------
+Yes, Roy, that's a really important point. And we know that is even more important when we're talking about prevention. So that's why we are so excited about the potential for islatravir because of its long intracellular half-life and tissue distribution, which, in principle, translates into a very forgiving molecule in that setting especially.
+
+--------------------------------------------------------------------------------
+Peter Dannenbaum,  Merck & Co., Inc. - VP of IR    [68]
+--------------------------------------------------------------------------------
+We have time for 1 more question. Laura, please.
+
+--------------------------------------------------------------------------------
+Operator    [69]
+--------------------------------------------------------------------------------
+Your last question will come from the line of Phil Nadeau from Cowen.
+
+--------------------------------------------------------------------------------
+Philip M. Nadeau,  Cowen and Company, LLC, Research Division - MD & Senior Research Analyst    [70]
+--------------------------------------------------------------------------------
+2 questions from us. First, Gilead this morning suggested that the long-acting oral could be on the market in 2025 and the long-acting injectable in 2027. Does Merck agree with those estimates? And maybe more specifically, why the 2-year lag between the oral and injectable? And then second, in terms of the oral, just following on the last question, what duration of long-acting world do you think is most useful for improving compliance? Is it weekly better or monthly or even something less frequent than that?
+
+--------------------------------------------------------------------------------
+Dean Y. Li,  Merck & Co., Inc. - EVP    [71]
+--------------------------------------------------------------------------------
+Yes, I'll take that question. This is Dean. We are comfortable with what Gilead has said in relationship to 2025 and 2027. There is a difference between putting an injectable together and putting an oral together, and we have looked at that. And so we are comfortable with those time frames, but there is a difference technically with these molecules in relationship to oral and injectable. In relationship to your question of what's the sort of ideal sort of position in relationship to an oral treatment, we think that a q week is immensely doable and so that's where we're focused on. I'm -- for many of the same reasons that Daria talked about is the potency of islatravir, means that you don't need to use a lot, whether it would be an implant in prevention and you don't need to use a lot in a q week or q month sort of prevention standpoint where we do the q month prevention and we're doing the q week treatment. I think you would need a partner that could extend you past q week and not have someone take an ungodly number of pills. So we believe that right now, the sweet spot in terms of oral is q week oral and the sweet spot in relationships to injection is q 3 months or greater.
+
+--------------------------------------------------------------------------------
+Peter Dannenbaum,  Merck & Co., Inc. - VP of IR    [72]
+--------------------------------------------------------------------------------
+Thank you all today for joining us. Appreciate the questions, and we'll be around all day if you have any follow-ups. Thank you very much.
+
+
+
+
+
+
+
+--------------------------------------------------------------------------------
+Definitions
+--------------------------------------------------------------------------------
+PRELIMINARY TRANSCRIPT: "Preliminary Transcript" indicates that the 
+Transcript has been published in near real-time by an experienced 
+professional transcriber.  While the Preliminary Transcript is highly 
+accurate, it has not been edited to ensure the entire transcription 
+represents a verbatim report of the call.
+
+EDITED TRANSCRIPT: "Edited Transcript" indicates that a team of professional 
+editors have listened to the event a second time to confirm that the 
+content of the call has been transcribed accurately and in full.
+
+--------------------------------------------------------------------------------
+Disclaimer
+--------------------------------------------------------------------------------
+Refinitiv reserves the right to make changes to documents, content, or other 
+information on this web site without obligation to notify any person of 
+such changes.
+
+In the conference calls upon which Event Transcripts are based, companies 
+may make projections or other forward-looking statements regarding a variety 
+of items. Such forward-looking statements are based upon current 
+expectations and involve risks and uncertainties. Actual results may differ 
+materially from those stated in any forward-looking statement based on a 
+number of important factors and risks, which are more specifically 
+identified in the companies' most recent SEC filings. Although the companies 
+may indicate and believe that the assumptions underlying the forward-looking 
+statements are reasonable, any of the assumptions could prove inaccurate or 
+incorrect and, therefore, there can be no assurance that the results 
+contemplated in the forward-looking statements will be realized.
+
+THE INFORMATION CONTAINED IN EVENT TRANSCRIPTS IS A TEXTUAL REPRESENTATION
+OF THE APPLICABLE COMPANY'S CONFERENCE CALL AND WHILE EFFORTS ARE MADE TO
+PROVIDE AN ACCURATE TRANSCRIPTION, THERE MAY BE MATERIAL ERRORS, OMISSIONS,
+OR INACCURACIES IN THE REPORTING OF THE SUBSTANCE OF THE CONFERENCE CALLS.
+IN NO WAY DOES REFINITIV OR THE APPLICABLE COMPANY ASSUME ANY RESPONSIBILITY FOR ANY INVESTMENT OR OTHER
+DECISIONS MADE BASED UPON THE INFORMATION PROVIDED ON THIS WEB SITE OR IN
+ANY EVENT TRANSCRIPT. USERS ARE ADVISED TO REVIEW THE APPLICABLE COMPANY'S
+CONFERENCE CALL ITSELF AND THE APPLICABLE COMPANY'S SEC FILINGS BEFORE
+MAKING ANY INVESTMENT OR OTHER DECISIONS.
+--------------------------------------------------------------------------------
+Copyright 2021 Refinitiv. All Rights Reserved.
+--------------------------------------------------------------------------------

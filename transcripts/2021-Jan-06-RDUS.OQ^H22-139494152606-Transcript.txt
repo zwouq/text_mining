@@ -1,0 +1,523 @@
+
+
+Refinitiv StreetEvents Event Transcript
+E D I T E D   V E R S I O N
+
+Radius Health Inc to Acquire the Global Development and Commercialization Rights to Benuvia Therapeutics Inc&apos;s Synthetic Cannabidiol Oral Solution (RAD011) - Conference Call
+JANUARY 06, 2021 / 1:15PM GMT
+
+================================================================================
+Corporate Participants
+================================================================================
+
+ * G. Kelly Martin
+   Radius Health, Inc. - CEO, President & Director
+ * Cole Ikkala
+   Radius Health, Inc. - Head of Business Development
+
+================================================================================
+Conference Call Participiants
+================================================================================
+
+ * Rupert Haynes
+   Benuvia Therapeutics Inc - COO
+ * Geoffrey Craig Porges
+   SVB Leerink LLC, Research Division - Director of Therapeutics Research & Diversified Biopharma and Senior Research Analyst
+ * Annabel Eva Samimy
+   Stifel, Nicolaus & Company, Incorporated, Research Division - MD
+ * Mohit Bansal
+   Citigroup Inc., Research Division - Director and Analyst
+ * Kevin Laliberte
+   Benuvia Therapeutics Inc - Member of Clinical Advisory Board
+ * Daniel G. Wolle
+   JPMorgan Chase & Co, Research Division - Analyst
+ * Kyuwon Choi
+   Goldman Sachs Group, Inc., Research Division - Equity Analyst
+ * Douglas Dylan Tsao
+   H.C. Wainwright & Co, LLC, Research Division - MD & Senior Healthcare Analyst
+
+================================================================================
+Presentation
+--------------------------------------------------------------------------------
+Operator    [1]
+--------------------------------------------------------------------------------
+
+          Thank you for joining the Radius Health Conference Call and Webcast this morning. Today's call is being recorded, and a live webcast can be found on the Investors section of the company's website at www.radiuspharm.com and will be archived for replay following this live call. 
+Please note that discussions today may include forward-looking statements and non-GAAP financial measures. You can find a reconciliation of GAAP to non-GAAP at the end of this presentation. Forward-looking statements are subject to a number of risks and uncertainties that could cause actual results to differ materially from our expectations. For a fuller discussion of such risks, please refer to the annual report dated February 27, 2020, filed with the SEC and other subsequent filings with the SEC. These forward-looking statements speak only as of the date of this call, and Radius Health, Inc. disclaims any intent or obligation to update these forward-looking statements to reflect events or circumstances after the date of such statements, except as may be required by law. Following the completion of this call, the company will be taking questions. 
+At this time, I'd like to turn the call over to Radius' Chief Executive Officer, Kelly Martin. Please go ahead, sir.
+
+--------------------------------------------------------------------------------
+G. Kelly Martin,  Radius Health, Inc. - CEO, President & Director    [2]
+--------------------------------------------------------------------------------
+
+          Thank you very much for that excellent introduction, Olga. And thank everyone for joining us, and good morning to everybody in the U.S. Good afternoon, we have some new participants in Europe, and good evening, we have some further participants in Asia. So welcome to this webcast, where we're going to explain to you a transaction which we announced earlier this morning. This follows previous announcements over the last couple of days. We've started 2021 off with a rather busy activity level. 
+I won't read through the safe harbor statements. Our operator did an excellent job outlining that. On page 2 for the agenda. I will talk a little bit about the base business case, our current business and where things stand, providing all of you with an update around that. I'll talk a little bit about transaction -- the transaction that we want to talk about and some of the details around it, the business rationale from our point of view as Radius, and lastly, the financial impact as it relates to current business and future business. 
+Joining me on the call are 2 colleagues, Rupert Haynes and Kevin Laliberte. Both Rupert and Kevin have extensive experience with this asset. They are both consultants to us and will continue their significant involvement with us around the asset and the whole space, and they will be going through the asset itself. Rupert will talk about the asset itself and some of the details around that. He will talk about, broadly speaking, future applications from an endocrine metabolic orphan disease point of view. Then Kevin will talk through in some detail, Prader-Willi syndrome as an indication and the details around this asset from an existing data point of view, and the field itself, some of the science and mechanism, et cetera. And then I will summarize things. So hopefully, this is a good update to all of you around the transaction and, slightly broader, the Radius business in general. 
+On Page 3, the base business, and there's some new information here. Q4 2020, our current projected net earnings or net revenue is the highest to date for TYMLOS as an asset. The net revenue for the fourth quarter is $59 million or more. We are still finalizing some of the intricacies of gross to net across our business. It takes a little time, but we're comfortable in saying that number. If you add that number to our 3 quarters previously, the 2020 full year revenue -- net revenue projections for TYMLOS U.S. is $207 million or slightly more. And importantly, we added approximately, still to be finalized with specificity, approximately 1,500 net new patients in the month of December, which is a rather significant jump up from the previous 4-month trailing moving average, which is now what we use to provide the market input on net new patients per month, which is our key metric from a commercial point of view. So it's extremely good progress around TYMLOS over the course of 2020. 
+From a pivotal point of view, importantly, to emphasize, the male study for osteoporosis remains both on track and the timing of the Q4 '21 readout is all currently in the plans. The same can be said for the patch or the wearABLe study for abaloparatide-TD, remains on track for fourth quarter '21 readout. And the same can certainly be said for EMERALD, the elacestrant asset, which is very important to us and partnered with the Menarini Group, remains on track for a fourth quarter readout of 2021. The only caveat I would say to all of those commitments is, as all of you know undoubtedly, COVID is running rampant everywhere. And in the mechanics and operations of completing trials, there's obviously the need to obtain data, to clean data, to get data for patients to come back and complete a number of things. And I'm guessing, like every other health care company with trials going on, the only caveat would be COVID and various disruptions of varying degrees, both in the U.S. and outside the U.S. 
+From a business development point of view, we announced yesterday a transaction with Canada with Paladin Labs. That's a important step for us. A major focus for us for 2021 as a business is to expand the global footprint of abaloparatide, both SC and patch. Canada was the first foray into that expansion. So now complementing the U.S. is obviously Japan, and Teijin continues to make excellent progress in the Japanese market, which is obviously a very significant-sized market for anabolics and, therefore, TYMLOS. And we have ongoing discussions with a number of other countries currently, and we anticipate or certainly, our business goal for '21 would be to make progress along those lines, and that would be our expectation. 
+From a science discovery and innovation point of view, we signed, in the third quarter of '20, a research agreement with MGH around SIK inhibitors. It's a fantastically interesting area for us on the discovery side. We look forward to progressing that. You all know we completed a transaction with Menarini Group in the summer of '20, an elacestrant, which was an extremely important strategic move for the company and, frankly, takes this asset which we are very bullish about and puts it in hands of a company that would take it through development cycles and into, hopefully, launch in commercial with success. And then we completed a small transaction for RAD140 with Ellipses in the U.K. to potentially move that asset forward. So a broad business update as we start the year and hopefully provides a very good indication, broadly speaking, of our business to date. 
+Moving to Page 4, transactional details. We signed, on December 30, the transaction where we acquired the global development and commercial rights to an asset, RAD011, from Benuvia Therapeutics. It's a synthetic CBD oral solution asset. It is a pivotal-ready asset. It has already been granted, by the FDA in the U.S., both orphan and fast track designations. For a little clarity on Benuvia. Benuvia was formed to acquire all of the assets out of Insys. Some of you may know Insys Therapeutics, which, unfortunately for them, was -- went into bankruptcy. And Benuvia was formed by a number of investors, private investors, to buy all of the assets out of Insys and we worked with Benuvia Therapeutics on this very specific asset. The team at Benuvia is fantastic and excellent. They have a bunch of other assets that they're working on, and we worked very closely with them for the last few months on this particular asset. 
+The deal terms, $12.5 million upfront. And we have milestones for the initial indication of Prader-Willi of up to an additional $15 million. We then have additional potential milestones to pay Benuvia. We have complete freedom to take this asset into as many indications as we would like or just stick with Prader-Willi. But for the next 3 indications, should we choose to move forward on them, we would have additional milestones that we would pay Benuvia and their investors. There's additionally some sales milestones and royalties against PWS. 
+On Page 5, the business rationale. Question's rationally would be why would you do this and what was the reason? I can tell you, we've had several months of discussion from a management team, an advisory point of view, a Board point of view and generically from an investor point of view. And so what -- our rationale in the 4 key points are, this adds a pivotal-ready orphan disease asset in the Prader-Willi space, which is a specialized endocrine indication and one that we think bodes, even though there's challenges with PWS, gives us a significant opportunity to utilize our endocrine brand and knowledge inside the company.
+It adds a fourth pivotal readout, assuming success and discussions with the FDA, over a 24-month period of time. Q4 '21, we would have a readout in both male study and the patch study and elacestrant and likely with this timing, we would have, by Q4 '23, a readout against Prader-Willi. So for a small to midsize emerging growth company, having 4 pivotal readouts over a 24 period -- 24-month period of time is something we thought would be extremely interesting from a shareholder and optionality point of view. 
+Very importantly, it reduces concentration risk. We think abaloparatide is an outstanding molecule. We think there's a lot of upside with that. We continue to produce clinical data which supports and reinforces the strength, breadth and quality of abaloparatide. But our view strategically is to have a company with one asset is not prudent, and we wanted to add another quality asset that would allow us to distribute the risk. Now we have 3 assets. We have RAD011. We obviously have abaloparatide, and we have, indirectly and a joint ownership or a joint partnership with Menarini Group, elacestrant. So we have 2 core assets as opposed to one, and we have one partnered asset, all of which are very significant. And importantly, the transaction and clinical costs are absorbed rather easily without any equity dilution, and we retained a 2021 significant objective to become a cash-generating company for the first time since Radius has been formed. 
+Page 6, projected financial impact. Again, we're trying to be as transparent as possible to all of you. For reference, we have 2019 full year, 2020 forecast. Caveat on 2020 forecast is it's as close as we can get after the first week of 2021. There's still some more finalizations to do, but I think this is a very good indication of approximately where we'll end up. I will note, in 2020, we also had because of the Menarini transaction, the reimbursement around elacestrant, which we will also have in 2021. 
+2021 numbers presumably are more -- of more interest to everyone on the call. For purposes of starting the year, we're going to have a target in TYMLOS U.S. of $250 million. We also anticipate, through various transactions internationally, to have at least $10 million of milestones or upfront considerations for TYMLOS, both SC and patch globally, which gets you to a total revenue objective for 2021 in our current structure of $260 million. You see the various breakdowns between, broadly speaking, R&D and, broadly speaking, SG&A which gets you to an adjusted EBITDA number of $10 million in this current forecast. We think that some of these will move around a bit. But as far as starting off the year, we think this is a very good place to start. 
+Two points. One is, in elacestrant, there are no numbers, but there's activity. It's -- again, to reemphasize, extremely important asset to us and the Menarini Group so that's a netting out of our cost and reimbursement. So that's one important point. Second important point is we're using $250 million as our current midpoint projection of TYMLOS U.S. We have numbers that are slightly below that. We have numbers that are above that. But I think $250 million, $0.25 billion revenue number is a very good place to start. It allows us internally to manage the business in an allocated manner, which we believe is very beneficial, and it gives transparency to all of you as far as where we think the business will start to move to in 2021. 
+On Page 7, we broke out the research and development sort of composition and evolution. This is our current progression. It's subject to some changes obviously as things move around but I think, by and large, gives you a very good structure and framework as which to think about the company. 2019, $108 million of R&D costs; 2020, $148 million net costs but that also incorporates a $53 million reimbursement for Menarini. You see in 2021, a reduction year-over-year cost of about 24%. Importantly, that also includes a $55 million reimbursement from Menarini around the elacestrant. 
+The very small number of $7 million in the light blue for 2021 is the clinical cost for RAD011 and the Prader-Willi initiation in the second half, presumably, of 2021. A pretty significant drop-off, '21 to '22. Simple reason for that is both the male study, the patch study and elacestrant will all read out in the fourth quarter, as we sit here today, fourth quarter of '21. And you see in the light blue, RAD011 upticks slightly from $7 million to approximately $19 million as the presumed pivotal trial moves forward. 
+I'll just remind people that these orphan studies are small. They're very important. They have to be managed very carefully. But as far as size of trial and duration of trial, they are small-ish and they could move rather quickly. So a pretty big significant drop-off, '21 to '22. And then obviously, you can see in '23, in a steady-state basis, another drop-off. So when you take 2020 full year, it's nearly $200 million of R&D spend with some reimbursement. And if you project forward to 2022, it's $140-plus million shift in the P&L from a cost basis point of view.
+I would just emphasize, I've said this to many of you, innovation and science and programs that are early and innovative are still of interest to us if they are MGH-like that we've seen. And then in between that, the next thing that we're interested is it would be late-stage assets like we've just sourced. And then on the other side of that is obviously commercial assets. So we don't anticipate the R&D side of our P&L to extend dramatically from these numbers that you see here as we currently sit here today. And I thought that was an important thing to sort of lay out. You see how RAD011 is easily absorbed within the P&L and is easily absorbed within the movements of the R&D platform. 
+So that's an update from a Radius point of view. I'm now going to turn the call over to my colleague, Rupert Haynes. Rupert's calling in from Europe. And Rupert, if you could take the next couple of slides and walk the folks through it, that would be terrific, and I'll be going on mute now. Thank you.
+
+--------------------------------------------------------------------------------
+Rupert Haynes,  Benuvia Therapeutics Inc - COO    [3]
+--------------------------------------------------------------------------------
+
+          Okay. Thank you, Kelly. Yes. We're now on Slide 8, please. So RAD011 is a synthetic CBD compound, which is chemically identical to botanically derived CBD. To date, RAD011 has been studied in over 150 patients across several indications and found to be safe and well-tolerated. As you heard, orphan status was granted in August last year, providing the potential for 7 years of exclusivity. In addition, fast track status was granted in December 2017. In May, the then-sponsor initiated a Phase II study, which was halted as a result of their bankruptcy. The data from this disrupted study provided valuable insights into RAD011 as a potential treatment of Prader-Willi syndrome. From an IP perspective, there are novel formulation patents that exist until 2035 and, if granted, manufacturing patents until 2040. 
+There are clear advantages of synthetic CBD over botanical in terms of formulation and how it is manufactured. For instance, no alcohol was required in synthetic oral solution formulations of medium-chain triglyceride, which is an important safety consideration for caregivers who strive to limit or eliminate the volume of alcohol intake by young patients. The manufacturing process ensures the production of a consistent, highly purified CBD with greater than 99% purity. Essentially, there is no detection of undesirable impurities or contaminants.
+The synthetic process follows the standardized regulatory quality control requirements and provides the flexibility to be scalable in support of market needs and supply chain consistency. Benuvia Manufacturing will be Radius' primary supplier of RAD011. Benuvia Manufacturing is based in Round Rock, Texas. It's an 80,000 square foot, fully licensed and accredited state-of-the-art plant capable of providing for Radius' manufacturing requirements. 
+If you can move on to Slide 9, please. Can we move on to the page with manufacturing requirement? Can you move on the slide, please? We've got a bit of delay, so I'll carry on. Thank you, Slide 9. 
+So Prader-Willi is the lead indication for development and represents a multi-billion-dollar global market opportunity. What is also very exciting is the variety of life cycle management opportunities that a Prader-Willi study can potentially access. In particular, as you've heard from Kelly, within the endocrine metabolic field, where a successful Prader-Willi study would act as the anchor indication for rapid further development into several of the adjacent rare genetic disorders that share the same debilitating key symptom of hyperphagia, which is insatiable hunger. There's estimated to be about 80,000 of these patients in the U.S., approximately 4x the size of the Prader-Willi market itself. 
+A Prader-Willi study will also be able to generate additional insights by measuring some of the other symptoms Prader-Willi patients suffer from, such as daytime sleepiness, where it's hypothesized that CBD could be an effective -- improving the quality of sleep. Also, anxiety is a significant problem of Prader-Willi patients where CBD could also potentially help. Such insights will therefore be the basis to support new development initiatives into behavioral and sleep disorders. In addition, there are also potentially attractive development possibilities across other therapy areas, such as oncology and neurology, which can be explored. But for now, for the remainder of this call, we'd like to focus on the Prader-Willi development opportunity with RAD011. 
+And I'll hand over to Kevin Laliberte to present some of the science and evidence to support the study, which is intended to commence this year.
+
+--------------------------------------------------------------------------------
+Kevin Laliberte,  Benuvia Therapeutics Inc - Member of Clinical Advisory Board    [4]
+--------------------------------------------------------------------------------
+
+          Great. Thanks, Rupert. We will refer to Slide 10. And to give a brief overview of Prader-Willi syndrome, Prader-Willi syndrome is a rare neurobehavioral metabolic genetic disease affecting approximately 20,000 patients in the United States. And so therefore, that's the reason why the orphan drug designation was able to be granted. And symptoms of Prader-Willi syndrome include hyperphagia and several behavioral problems. Hyperphagia is a relentless pathological drive to eat that requires caregivers to strictly manage access to food through locking up cabinets and refrigerators, for example. But what that leads to is kids eating other things, intangible items, nonfood-related items that they could get their hands on. 
+Unfortunately, what that leads to in terms of development is other behavioral disorders such as anxiety. When discussing these behaviors with families and caregivers, they know that the most important aspects of patients with Prader-Willi that require attention are the hyperphagia and anxiety. Importantly, the treatment of patients with Prader-Willi involves a multidisciplinary team including endocrinologists, psychiatrists, nutritionists and others. So with no FDA-approved treatment for hyperphagia, RAD011 aims to reduce the hyperphagia-related behavior and anxiety associated with Prader-Willi and ultimately leading to reduced long-term consequences and improved quality of life for patients and their families. 
+If we move to Slide 11 to focus a bit on the science around RAD001 (sic) [RAD011], how we believe it can be an effective therapy for the treatment of patients with Prader-Willi. Importantly, unlike other therapies that have been evaluated in Prader-Willi syndrome, CBD or RAD001 has a multifactorial mechanism of action which may be beneficial for such a condition with multisymptom characteristics. We note 3 main mechanisms or distinct mechanisms that align with the clinical manifestations of Prader-Willi. From left to right, we see a reduction of hyperphagia and control of weight by inhibition of anandamide uptake and then indirect effects on both CB1 and CB2 receptors. In the middle portion of the schematic, we see that CBD has an effect on the metabolic system via activation of PPAR-gamma. 
+And then on the far right, we see the effect of CBD in reducing anxiety via 5-HT1A agonism. This mechanistic slide is supported further with Slide 12, where we show preclinical and clinical evidence to support these 3 mechanisms. But what might be most compelling or most notable with both RAD011 and botanical CBD is an adverse event that was observed in clinical trials in other conditions that led to the ultimate decision to pursue Prader-Willi. We see an adverse event of decreased appetite in multiple studies, labeled studies with botanical CBD as well as other indications study with RAD011.
+Now to shift focus a bit from the mechanistic and scientific rationale for pursuing RAD001 in Prader-Willi and focusing our attention on Slide 13 on that previously conducted study with the compound in Prader-Willi syndrome. The Phase II study that was conducted was a randomized, double-blind, placebo-controlled study with a 1-week placebo run-in and a 13-week treatment phase with the goal to enroll 66 patients. The primary endpoint was the change in the hyperphagia questionnaire from baseline, and this endpoint is the gold standard endpoint for Prader-Willi studies. At the time of termination of the study, 7 patients were enrolled aged 8 to 17 years. The study design that was proposed by the previous sponsor was consistent with other Prader-Willi studies and could have served as a registration study, if completed and successful. 
+Slide 14 reviews the data from that terminated trial. Of note, the 7 patients that were enrolled, 4 received CBD and 3 received placebo, with not all patients completing the 13-week treatment period at the time of study termination. Overall, in the CBD group, the mean treatment duration was 9 weeks, and we note a consistent reduction in the HQ-CT of approximately 6.5 points in the per-protocol population, which is the far-left graph, the sensitivity analysis using all screening and baseline hyperphagia scores in the middle, and on the far right, we do an analysis, excluding a patient with a placebo response during the run-in. 
+Of note, the large reduction in HQ-CT in the placebo group was due to one subject with a reduction in HQ-CT during the run-in and even a larger reduction during treatment. Notably, this subject had the largest weight gain in the study. Although a limited sample size, these data, in conjunction with the weight data trending in the right direction and an acceptable safety profile, are supportive of moving forward with continued development in Prader-Willi Syndrome. 
+Slide 15, we note in moving forward into a registration Phase II/III study design, there are learnings both from the previously conducted Prader-Willi study with RAD011 as well as results from other sponsors to move forward into that next phase of development. We want to ensure that there is an optimization of the study design, enrichment of the patient population, ultimately leading to the maximum probability of success. Key changes to the design involve lengthening the placebo run-in with possible exclusion of responders from the analysis population, lengthening the study duration to allow any remaining placebo effect time to wane and enrolling subjects with more severe hyperphagia by both HQ-CT cutoff score as well as age. 
+The optimized study mimics the design that was utilized by Zafgen in their Phase III study, where they were able to achieve successful efficacy endpoints. Unfortunately, there were safety issues but we believe that this will allow us to minimize the placebo response and consequently maximize the treatment difference between the 2 groups. 
+Slide 16, we note that of course, while there will be a transition period, the goal of the program is to request a meeting with the FDA as soon as possible in the first quarter of 2021 with a meeting scheduled according to FDA availability. As noted earlier, with fast track designation, that meeting request could occur soon after the request. At the FDA meeting, a variety of topics will be covered. Of course, discussion of a proposed study design for a pivotal study in Prader-Willi, confirm FDA satisfaction with other elements of the CBD development program and, of course, lay the groundwork for a new drug application to be submitted after assuming positive results from the Prader-Willi pivotal study. Based on these time lines, the first patient in the study should occur in the second half of 2021, with top line results in the second half of 2023, using the time lines for enrollment for other Prader-Willi studies as a guide. 
+With that, I'll turn it back over to Kelly.
+
+--------------------------------------------------------------------------------
+G. Kelly Martin,  Radius Health, Inc. - CEO, President & Director    [5]
+--------------------------------------------------------------------------------
+
+          Thank you, Kevin and Rupert. Appreciate your comments and expertise and thoughts on both the transaction and the space and the asset. 
+Last slide and to summarize, let me just put things into context. First of all, for the asset, RAD011 and its acquisition. Clearly, this was opportunistic and the opportunity was based around both circumstances with Insys and Benuvia, also circumstances with regard to where the assets were within Benuvia and the activity and the positioning of the assets with regard to, as Rupert went through very well, orphan endocrine and orphan metabolic is a highly attractive extension of our business. And so focusing on that and having an asset that has applicability broadly with future and additional clinical work is something that we found extremely attractive. 
+From a time line point of view, again, a little unusually, this asset was previously in Phase IIb/III potential registration trial. They had, had extensive interaction with the regulator in the U.S. And so it has been gone -- it has gone through partially, certainly, some of the processes to move quickly ahead. We would endeavor, as again, as Rupert and Kevin went through, speak to the agency as soon as possible with a Phase IIb/III study design that we can work with the FDA on and potentially move things forward in the second half of '21. And if we are able to do that from this time to that, top line readout in Prader-Willi would be in about 2.5 years, plus or minus. Again, as I said, there's additional things that we are potentially interested in looking at, other applications, other indications. Some of them were listed in the chart that Rupert went through. There are others. Suffice it to say that there's broad applicability given the mechanism here and given the pathology that Kevin went through, there are many things we can do with this asset. 
+This acquisition was funded. We had a debt facility that was existing. We had $10 million from MidCap. We had another $15 million that we could use through the end of '20. We decided to use that in working with MidCap. The incremental cost from a P&L point of view of that additional debt is approximately $1.5 million per year, so we thought that was an excellent way to utilize that existing facility. And then as I went through, the remainder of the pivotal trial costs are rather easily absorbed through our cash flow and our P&L with particular emphasis and focus on the continued presumed growth of TYMLOS, particularly in the U.S. and potentially extendable into some other countries around the world that I outlined earlier. 
+Just finishing up before we go to Q&A, some additional broad dynamics with regard to the investment calculus of Radius. Again, as we said before, 4 pivotal readouts in 24 months between Q4 '21 and Q4 '23, that would be our current plan with a projection of activities that I've outlined. The pivotal readouts, also the risk gets distributed across 3 different assets as opposed to one main one and one partnered one. We think that managing risk is fundamental part of our business here in the biotech space and adding an asset actually allows us to distribute the risk. So concentration risk goes down just mathematically. And we think that's an extremely attractive thing for investors as you think about the longer-term risk-adjusted assessment of Radius, if that indeed is the way you might think of us. 
+With regard to TYMLOS, there's an extremely favorable environment for us. Our commercial team is exceptionally focused on that opportunity. The AACE guidelines in the first few months of '20, I think, have filtered through, to a larger degree, the marketplace. We have -- with our team, we have exceptional payer alignment. And as we've gone through before, we focus on primarily high-risk patients or people that have had fractures. That's a very large group, and we think that our molecule and the dynamics of our molecule and, frankly, the label of our molecule align very well to that patient categorization.
+And last but not least, we did a lot of work last year, as some of you might know, on positioning the company, shaping some things, moving things, a bunch of things around. The infrastructure that we currently have is the infrastructure that could easily handle all of these activities. And therefore, the progression of the company, both clinically from a programmatic point of view and commercially from a TYMLOS SC U.S. and TYMLOS SC plus patch ex U.S. are all things that we can handle easily. So the operating leverage within Radius is quite meaningful, and that's something that we would hope to demonstrate with execution over the course of '21, '22 and beyond. 
+And so with that, operator, we will open it up for questions and happy to take the questions. Both myself and Rupert and Kevin will be available and if we can get him, Cole Ikkala, who runs our business development, would also join if there are questions that he could particularly answer better than any of us. So if we can open up for questions, operator, that would be helpful.
+
+
+================================================================================
+Questions and Answers
+--------------------------------------------------------------------------------
+Operator    [1]
+--------------------------------------------------------------------------------
+
+          (Operator Instructions) And our first question comes from Jessica Fye from JPMorgan.
+
+--------------------------------------------------------------------------------
+Daniel G. Wolle,  JPMorgan Chase & Co, Research Division - Analyst    [2]
+--------------------------------------------------------------------------------
+
+          This is Daniel Wolle for Jessica Fye. Assuming FDA gives you the go-ahead to start this pivotal trial, is this the only study that's the gating factor before you can submit the NDA?
+
+--------------------------------------------------------------------------------
+G. Kelly Martin,  Radius Health, Inc. - CEO, President & Director    [3]
+--------------------------------------------------------------------------------
+
+          Yes. The answer is yes to that. Again, it's obviously contingent upon a very good dialogue with the FDA. But as I said, this -- uniquely, this asset has had discussion -- the previous regime had discussions with the agency. So we would hope to agree with the agency a path forward that would be a registration trial. That would be the only trial you'd need.
+
+--------------------------------------------------------------------------------
+Daniel G. Wolle,  JPMorgan Chase & Co, Research Division - Analyst    [4]
+--------------------------------------------------------------------------------
+
+          And staying with this, what's just the proposed size of the planned Phase II/III trial? And maybe if you can elaborate for us, why was it difficult for the original sponsor to recruit patients given that the study started in mid-2018 and was able to only get 7 patients?
+
+--------------------------------------------------------------------------------
+G. Kelly Martin,  Radius Health, Inc. - CEO, President & Director    [5]
+--------------------------------------------------------------------------------
+
+          Yes. Well, as we went through, the -- it wasn't necessarily difficult to recruit the patients, but the trial had to stop because of the corporate action in Insys. Insys had to declare bankruptcy. So the trial itself actually had to stop and cease since the sponsor no longer was able to move forward. And with regard to the details of the trial, we will agree with the rate -- agency on that and then give broad parameters to the marketplace about trial design. And clearly, it will be in clintrials.gov. But we've kind of outlined what we think roughly the cost of the pivotal is over the course of '21 and '22 and into early '23.
+
+--------------------------------------------------------------------------------
+Daniel G. Wolle,  JPMorgan Chase & Co, Research Division - Analyst    [6]
+--------------------------------------------------------------------------------
+
+          Okay. Do you see -- is there a level of synergy that you see between the existing sales force and an orphan disease such as Prader-Willi?
+
+--------------------------------------------------------------------------------
+G. Kelly Martin,  Radius Health, Inc. - CEO, President & Director    [7]
+--------------------------------------------------------------------------------
+
+          Partially, the answer is yes because the Prader-Willi HCP centers, if you will, there are approximately -- there's 1 or 2 potentially per state in the U.S. These are highly specialized endocrine docs. And clearly, our existing sales force has relationships, broadly speaking, across endocrinology. So there will certainly be some intersection or overlap with specific geographic coverage with our existing sales force, at least, from a relationship point of view or a knowledge point of view. The sales and marketing team you would need for a PWS indication would be a small, concentrated, specialized organization or team.
+
+--------------------------------------------------------------------------------
+Daniel G. Wolle,  JPMorgan Chase & Co, Research Division - Analyst    [8]
+--------------------------------------------------------------------------------
+
+          Okay. Got it. And last question for me. What specific milestone payments are linked to which specific events? And what is the range of royalties? Any color on what level of sales would justify the high end of the royalty range?
+
+--------------------------------------------------------------------------------
+G. Kelly Martin,  Radius Health, Inc. - CEO, President & Director    [9]
+--------------------------------------------------------------------------------
+
+          I'm going to ask Cole. Cole did all the transactional detail. I'll just ask him to give you the broad parameters.
+
+--------------------------------------------------------------------------------
+Cole Ikkala,  Radius Health, Inc. - Head of Business Development    [10]
+--------------------------------------------------------------------------------
+
+          Thanks, Kelly. The milestones are particularly linked to late-stage clinical development and regulatory milestones. And then as we said in the press release, the royalty will end up being an effective rate at a tiered royalty, but the effective rate will be in the high single digits.
+
+--------------------------------------------------------------------------------
+Operator    [11]
+--------------------------------------------------------------------------------
+
+          Our next question comes from Mohit Bansal from Citigroup.
+
+--------------------------------------------------------------------------------
+Mohit Bansal,  Citigroup Inc., Research Division - Director and Analyst    [12]
+--------------------------------------------------------------------------------
+
+          Great. And congrats on all the progress in these transactions. So a couple of questions from my side, one from the slides. So this drug, does it affect -- does it impact CB1 and CB2 both? Asking because in the chart you show that it has impact on CB2, but cannabidiol is also impact -- seems to impact CB1 as well, and that has linked to some safety issues with the previous-generation drugs. So just would love to get color on that.
+
+--------------------------------------------------------------------------------
+G. Kelly Martin,  Radius Health, Inc. - CEO, President & Director    [13]
+--------------------------------------------------------------------------------
+
+          Thank you, Mohit. So Kevin, your expertise is -- could you -- you can give Mohit, who's a senior analyst at Citibank, the -- that answer, that would be great, and sort of elaborate as you would.
+
+--------------------------------------------------------------------------------
+Kevin Laliberte,  Benuvia Therapeutics Inc - Member of Clinical Advisory Board    [14]
+--------------------------------------------------------------------------------
+
+          Sure. And thanks for the question. So in terms of the mechanism, consider cannabidiol as more of an indirect antagonist for CB1 as well as an indirect agonist for CB2. The method around its interaction with the receptors involve other signaling components rather than direct binding of or inhibition or agonism of the CB1 and CB2 receptors. It occurs by the anandamide reuptake inhibition as well as FAAH, so I think you have to think of it as not a direct binding mechanism, but more of an indirect signaling mechanism via other components.
+You mentioned the safety issues with CB1 antagonist previously. I think what's good about this compound, not only with the 150 patients that have been dosed with RAD011, but with other botanical cannabidiol, we have very extensive safety database that shows no evidence of any severe or unuseful safety signal with these compounds. So I think that other background and history with these compounds is very supportive of the safety profile.
+
+--------------------------------------------------------------------------------
+Mohit Bansal,  Citigroup Inc., Research Division - Director and Analyst    [15]
+--------------------------------------------------------------------------------
+
+          This is helpful. And then if I may just follow-up on this one, so -- since you mentioned. So I think Insys did epilepsy study as well. So any learnings there which could be applied here? Obviously, safety is one part of it.
+
+--------------------------------------------------------------------------------
+Kevin Laliberte,  Benuvia Therapeutics Inc - Member of Clinical Advisory Board    [16]
+--------------------------------------------------------------------------------
+
+          Yes. I think the other studies that have been conducted by Insys are informative, not only to the safety profile of the compound but also informative to Prader-Willi and the adverse event of a decreased appetite appearing in those other epilepsy trials. And of course, as Radius develops a plan for other indications beyond Prader-Willi, those other epilepsy studies will be informative and helpful in making a decision around what is the next expansion look like for RAD011.
+
+--------------------------------------------------------------------------------
+Mohit Bansal,  Citigroup Inc., Research Division - Director and Analyst    [17]
+--------------------------------------------------------------------------------
+
+          Got it. And then one last one on the regulatory plus commercial side. So what do you anticipate from the FDA? I mean now cannabinoids is everywhere. So it's basically FDA is also learning how to regulate that part. But any concerns, any pushback you anticipate from the FDA which we should know about? And the other part is obviously on the commercial landscape, I mean, is this -- could this be several hundred million dollars kind of opportunity? How do you think about that?
+
+--------------------------------------------------------------------------------
+G. Kelly Martin,  Radius Health, Inc. - CEO, President & Director    [18]
+--------------------------------------------------------------------------------
+
+          Maybe, Kevin, you talk about the FDA. I'll talk about the numbers. And then Rupert, maybe you can also chime in on the marketplace in general. So Kevin, why don't you start with the FDA?
+
+--------------------------------------------------------------------------------
+Kevin Laliberte,  Benuvia Therapeutics Inc - Member of Clinical Advisory Board    [19]
+--------------------------------------------------------------------------------
+
+          Sure. In that FDA upcoming meeting, we wouldn't anticipate any significant pushback around any part of the development program. It's more of gaining agreement. Again, as the new sponsor, Radius going to the FDA, discussing the program with the agency, confirming clinical trial design and details and then just confirming that we're on the same page with the FDA. Since the previous sponsor met with the FDA a couple of years ago at this point, we wanted to just get an updated read from them on any other components of the development program that need to be buttoned up prior to an NDA. So we wouldn't anticipate any pushback, we just need to have a conversation in gaining additional information from the FDA.
+
+--------------------------------------------------------------------------------
+G. Kelly Martin,  Radius Health, Inc. - CEO, President & Director    [20]
+--------------------------------------------------------------------------------
+
+          Thanks, Kevin. And Mohit, on the market, I'll tee up a couple of things and then Rupert has an extensive background in the both sales, marketing and the whole space. But we obviously spent a gigantic amount of time on the upside case and all the pieces to that. I mean it's blindingly obvious, there's a lot of inputs to that, price being one. But I would tell you that our -- from a price consideration, we would not be in the category of using massively exorbitant prices as some orphan companies seem to put in. 
+But I guess just for a broad base, without getting too specific, from a modeling point of view and our business assessment and analysis point of view on why we decided to go forward is we consider this at least a several-hundred-million-dollar opportunity as sort of a base case, with a small infrastructure and with multiple potential further follow-on indications, as Kevin indicated. So Prader-Willi, multiple-hundred-million-dollar base case with upside either vertically or laterally. 
+And Rupert, maybe you could add some color to that and your thoughts and experience, broadly speaking, on the asset. I think that would be helpful.
+
+--------------------------------------------------------------------------------
+Rupert Haynes,  Benuvia Therapeutics Inc - COO    [21]
+--------------------------------------------------------------------------------
+
+          No, of course. And the assumptions that we have, we'll pressure test those significantly to support any sort of revenue forecast, but this is essentially a weight-based mg-to-ml solution. So the heavier you are, the greater volume of medicine you'll get. So there are parallels there to be drawn with GW's Epidiolex launched in 2018. So again, sort of similar-sized quantum of patients in what they have is Dravet and LGS epilepsy patients. And that said, the pricing range is kind of in around sort of $33,000 to $35,000 average dollars per patient per year currently. So in 2024, we're possibly looking at, again, parity-wise price increases around sort of the $40,000 mark. But again, there's some sensitivity to be done around that, those pricing points and the assumptions that we have. We'd be doing a lot of work to shore them up and make them as robust as possible.
+
+--------------------------------------------------------------------------------
+Mohit Bansal,  Citigroup Inc., Research Division - Director and Analyst    [22]
+--------------------------------------------------------------------------------
+
+          Got it. Really appreciate it. And congrats on all the transactions and the conference.
+
+--------------------------------------------------------------------------------
+G. Kelly Martin,  Radius Health, Inc. - CEO, President & Director    [23]
+--------------------------------------------------------------------------------
+
+          Okay. Mohit, thank you very much.
+
+--------------------------------------------------------------------------------
+Operator    [24]
+--------------------------------------------------------------------------------
+
+          Our next question comes from Paul Choi from Goldman Sachs.
+
+--------------------------------------------------------------------------------
+Kyuwon Choi,  Goldman Sachs Group, Inc., Research Division - Equity Analyst    [25]
+--------------------------------------------------------------------------------
+
+          I may want to maybe follow up on Mohit's question regarding safety. And just given the aggregate dosing that you've done across testing RAD011, can you maybe just comment on what were the most common adverse events that you did see? And were there specifically any cases of suicidal ideation among the dosed patients so far?
+
+--------------------------------------------------------------------------------
+G. Kelly Martin,  Radius Health, Inc. - CEO, President & Director    [26]
+--------------------------------------------------------------------------------
+
+          Yes. I think, Kevin, you should answer that. I would just preface it by saying the data we're sharing is the data that's observable. Obviously, the ultimate judge on all these things, efficacy, safety, from a certainty point of view is the regulator. So what we're trying to share with observationally, these are all the things we've seen to date. So Kevin, why don't you take it on? I think that's a pretty good, easy question for you to answer.
+
+--------------------------------------------------------------------------------
+Kevin Laliberte,  Benuvia Therapeutics Inc - Member of Clinical Advisory Board    [27]
+--------------------------------------------------------------------------------
+
+          Sure. No, the adverse events that have been observed thus far in clinical trials have really focused on gastrointestinal disturbances, so diarrhea, for example. There was a bit of rash in some of the trials as well. So when you actually look at a comparison to some of the botanical CBD, for example, the adverse event profile is very much in line with other products and no significant or severe adverse events, including suicidal ideation, have been observed in the RAD011 studies. Of course, additional data will be collected over time, longer-term data that will continue to support the application. But I would say, fairly minor in adverse events that have been observed. And we've shared both the efficacy data as well as the adverse event data with clinicians, and they didn't really have any issues with the data that we shared with them as well.
+
+--------------------------------------------------------------------------------
+Kyuwon Choi,  Goldman Sachs Group, Inc., Research Division - Equity Analyst    [28]
+--------------------------------------------------------------------------------
+
+          Okay. Great. That's helpful. Then on the prematurely terminated study with the prior sponsor here, recognizing that the patient numbers are a little small here, can you maybe clarify what is your level of confidence in the 40 mg per kg day dose that was used for those patients? Do you think you have to do additional dosing work as part of your Phase II? And how do you think about that as a factor in terms of your regulatory discussions and trial design?
+
+--------------------------------------------------------------------------------
+G. Kelly Martin,  Radius Health, Inc. - CEO, President & Director    [29]
+--------------------------------------------------------------------------------
+
+          I would say, Kevin, you can take the lead on that. And then Rupert -- since we're all doing this virtually, I'm trying to quarterback virtually. But Kevin, you take the lead and then I think, Rupert, you can supplement, if you guys don't mind.
+
+--------------------------------------------------------------------------------
+Kevin Laliberte,  Benuvia Therapeutics Inc - Member of Clinical Advisory Board    [30]
+--------------------------------------------------------------------------------
+
+          Sure. And it's a great question. I think one consideration for the next trial moving forward is possibly including 2 dose levels in that Phase II/III design to make sure that we've addressed any dose-related questions that either the FDA could have or that may be necessary to identify the correct and most appropriate dose for patients with Prader-Willi. So that is one consideration that is under evaluation as whether we have 2 dose groups versus placebo in that next clinical trial. So it's a great question.
+
+--------------------------------------------------------------------------------
+Rupert Haynes,  Benuvia Therapeutics Inc - COO    [31]
+--------------------------------------------------------------------------------
+
+          Yes. I probably wouldn't add a lot more to that apart from that we have -- with RAD011, we do have some variety of doses across a variety of different patient groups, but also then can look to botanical CBD where that's been dosed. So there's a lot of insight to be generated there. But likely, there'll be an arm, as Kevin says, within that study to address that succinctly.
+
+--------------------------------------------------------------------------------
+Kyuwon Choi,  Goldman Sachs Group, Inc., Research Division - Equity Analyst    [32]
+--------------------------------------------------------------------------------
+
+          Okay. And then last question for us, just with regard to the TYMLOS commercial business. Thank you for the help on the guidance here for 2021. But can you maybe help us break down some of what you think the drivers behind your guidance and initial outlook are? How much of it is market recovery, pricing and volume? And then what are your current -- most recent current assumptions with regard to the biosimilar FORTEO potentially launching and commercializing this year?
+
+--------------------------------------------------------------------------------
+G. Kelly Martin,  Radius Health, Inc. - CEO, President & Director    [33]
+--------------------------------------------------------------------------------
+
+          Sure. I'll try to give you -- the -- we think the TYMLOS franchise in the U.S., just broadly speaking, has got a lot of upside. Just if you look at the patient need and the qualities of the product, again, as it's stated in the label and as we appropriately market. So the reason we switched to net new patients per month is that's the driver of everything, right? There's a lot of, again, I'm a relative newcomer still to osteoporosis. Lot of noise in the market. Nobody really knows what the markets are and what they aren't. I didn't know what the hell they are or they aren't, so I just said, "Well, just tell me how many net new patients we have per month."
+And then compounding is beautiful. And if you can -- we can figure out how many patients we have per month, you can project forward. So the -- we've had an upward-sloping trend. Again, COVID is noise and -- presumably with everybody. So we're not any different, one way or the other, either positive or negative, we're just kind of in the group. So it kind of eliminates statistically all the ups and downs. If you look at our net new patients in August, September, October, November and now December, we have varying degrees of growth of net new patients looking backwards off of a moving average. And so that's the key metric, if this is helpful. That's certainly the key metric for myself and the executive team at Radius and the Board because we can control it, we can see it, we know what it is. 
+The dynamics around that seem to be going in our way. I think as I sort of articulated, AACE guidelines, patients, focus on fracture patients, our ability to work exceptionally well with the payer community and specialty pharmas, all of those things have been adapted, adjusted or changed, and the underlying molecule is very beneficial and powerful. So we don't see that changing. Those are kind of broad topics. 
+We get asked a lot of times about generic. We currently don't have any real issue or concern about generic. And the main reason that we don't is the price differential between ourselves and FORTEO is still rather significant, and we are on the lower side, not the higher side. So with our molecule, with the data, with the acceptance by patients and whatever the strategy for any future generic is, if you just think through the dynamics of how they would make money, I think the fact that we have a reasonably good cushion between us and FORTEO pricing-wise means that we don't have the -- our Head of Commercial is an expert on pricing and market access, and they have no particular issues or concerns anytime soon about an entrant in and, from the generic point of view, having any material impact on our current business.
+So that's our view. And there's nothing that I've heard that would change that view. So we will continue to focus on growing net new patients per month. And again, if you do the math and figure out sort of the compounding of that, that's a metric that we think is the most important metric for us from a commercial point of view. And hopefully, that's helpful.
+
+--------------------------------------------------------------------------------
+Operator    [34]
+--------------------------------------------------------------------------------
+
+          Our next question comes from Geoffrey Porges from SVB Leerink.
+
+--------------------------------------------------------------------------------
+Geoffrey Craig Porges,  SVB Leerink LLC, Research Division - Director of Therapeutics Research & Diversified Biopharma and Senior Research Analyst    [35]
+--------------------------------------------------------------------------------
+
+          Congratulations on all the progress and appreciate all the transparency. A couple of questions, if I may. First, could you give an estimate of what proportion of the overall Prader-Willi population meets the criteria for the Phase III trial, which is the HQ-CT greater than 13 and in the 12- to 65-year-old cohort? Because obviously that would be the label you get if the Phase III is successful. 
+Secondly, Kelly, how have you thought through the risk of a commodity CBD product being widely adopted in Prader-Willi if indeed your study is successful? And then again, Kelly, as you've looked at the osteoporosis market more closely, what do you think is the potential for the patch? Do you still see a substantial multifold opportunity compared to the injectable? Or do you think that it's more modest and incremental?
+
+--------------------------------------------------------------------------------
+G. Kelly Martin,  Radius Health, Inc. - CEO, President & Director    [36]
+--------------------------------------------------------------------------------
+
+          Okay. Geoff, thanks for the 3 questions. Kevin, if you could start with -- Kevin and Rupert, but Kevin, you take the lead since you're in the operational execution and asset details. But I know this is something you and Benuvia spent a ton of time on. If you can answer that, then I'll take the next 2 for -- I'll take the next 2 for Geoff.
+
+--------------------------------------------------------------------------------
+Kevin Laliberte,  Benuvia Therapeutics Inc - Member of Clinical Advisory Board    [37]
+--------------------------------------------------------------------------------
+
+          Okay. Thanks, Geoff, for the question. And so when you look at the disease characteristics for Prader-Willi, it's broken down into phases of disease. Now the hyperphagia associated with Prader-Willi is labeled Phase III of the disease. And what the literature supports is that this phase of Prader-Willi begins in early adolescence. So we believe that the HQ-CT greater than 13 and the age range of 12 to 65 accounts for the vast majority of Prader-Willi patients. Of course, there will be a younger pediatric population that will also have hyperphagia, but we can think about that population maybe as label expansion activity with -- or following the, hopefully, the eventual approval for the initial population.
+I think what we're trying to do in that proposed Phase II/III design is ensure the greatest potential for a treatment difference to be -- to come out in the results of the study rather than trying to enroll the total population that could benefit from CBD. So kind of think of it as maybe step 1 and step 2, step 2 being a younger pediatric population that may be more difficult to show a treatment difference.
+
+--------------------------------------------------------------------------------
+Geoffrey Craig Porges,  SVB Leerink LLC, Research Division - Director of Therapeutics Research & Diversified Biopharma and Senior Research Analyst    [38]
+--------------------------------------------------------------------------------
+
+          That's great. Yes, the study makes sense.
+
+--------------------------------------------------------------------------------
+Kevin Laliberte,  Benuvia Therapeutics Inc - Member of Clinical Advisory Board    [39]
+--------------------------------------------------------------------------------
+
+          Yes.
+
+--------------------------------------------------------------------------------
+G. Kelly Martin,  Radius Health, Inc. - CEO, President & Director    [40]
+--------------------------------------------------------------------------------
+
+          Okay. Geoff, and then I'm going to have -- thank you, Kevin. Geoff, your second question, I'm going to ask Cole to answer. I just want you to understand and everyone listening that this was a substantially discussed, reviewed and assessed topic from a Board perspective and our advisers' and external consultants' perspective. Because the first -- your first view is, geez, what's really different about this, but it's actually substantially different depending on the patient population of the disease. So Cole, why don't you take -- why don't you answer it for Geoff? But Geoff, I wanted to just emphasize, this was a very large topic that we talked through completely upside down and backwards. So Cole, why don't you answer it?
+
+--------------------------------------------------------------------------------
+Cole Ikkala,  Radius Health, Inc. - Head of Business Development    [41]
+--------------------------------------------------------------------------------
+
+          Sure. Thanks, Kelly. And Geoff, yes, a couple of points on the OTC competition. Obviously, a lot of these products are botanically derived in unregulated facilities. So that leads to an unknown or variable impurity profile, which could have some THC and other derivatives of cannabis in the product. These over-the-counter products are not run within clinical trials and/or not approved, so they can't make efficacy claims. And that kind of leads into the next point of being reimbursed. For these doses to be effective, it takes a lot of the CBD. So the out-of-pocket costs for over-the-counter CBD is almost in line on a price per mg basis. So these patients on reimbursed would be spending a significant amount of money for these over-the-counter products. So those are some of the key points. 
+And Rupert, do you want to add anything?
+
+--------------------------------------------------------------------------------
+Rupert Haynes,  Benuvia Therapeutics Inc - COO    [42]
+--------------------------------------------------------------------------------
+
+          No. I mean that sums it up really well, but there's huge variability in the artisanal CBD that's available across the U.S. and the question's kind of been answered. And with that available artisanal CBD, would patients use their preference? Well, they don't because we know that CBD's available as a prescription product already for rare epilepsies, and it doesn't get substituted. And the cost doesn't make -- the cost difference doesn't make sense either. So we're pretty confident around that one.
+
+--------------------------------------------------------------------------------
+G. Kelly Martin,  Radius Health, Inc. - CEO, President & Director    [43]
+--------------------------------------------------------------------------------
+
+          And last but not -- certainly not least, Geoff, the patch. We view the patch as a significant patient opportunity. We have not put numbers on it yet. I think at a minimum, it's a significant runway extension given the patch and the IP around the patch. So that's the sort of the base case. The base case plus patient segmentation leads you up a number of different levels of potential incremental patients. And therefore, the patch for us remains a very core strategic asset as far as incrementally and potentially more than incrementally creating a value -- adding to the value proposition of Radius.
+I think what we will do is -- because a lot of people obviously ask about the patch and what is the patch? And is the patch a multibillion-dollar opportunity? Or is it an incremental opportunity? And in addition to what we outlined with the projections of 2021 forecast, obviously that does not include the patch. So I would say somewhere through '21 midyear, plus or minus, we're going to take the forecast and we're going to augment that with our thoughts around the patch, both -- and importantly, Geoff, both in the U.S. and outside the U.S. But it's -- the patch is clearly a key part of our value proposition. And -- but we don't want to overstate it or understate it. We'd like to give sort of a range and then, more importantly, probably the business structure around how the patch fits in and what it's going to do to our franchise.
+
+--------------------------------------------------------------------------------
+Operator    [44]
+--------------------------------------------------------------------------------
+
+          Our next question comes from Annabel Samimy from Stifel.
+
+--------------------------------------------------------------------------------
+Annabel Eva Samimy,  Stifel, Nicolaus & Company, Incorporated, Research Division - MD    [45]
+--------------------------------------------------------------------------------
+
+          Congratulations on the progress. So I'm just going to get a little bit granular on the clinical trial and comfort level around, I guess, first, the effect that you saw in those 7 patients and the second round of placebo effect that you've seen. So obviously, the competitive landscape, it seems like it's relatively broad. In those 7 patients that you saw, do they represent a realistic representation of what others -- the effect that others have seen in their clinical trials? And what is a clinically meaningful separation from placebo? I guess that's the first question. 
+And then the flip side of that, I know that you're doing some work trying to modify the placebo effect in the trial. What is a reasonable placebo effect to assume what have others seen? And how comfortable are you that you can address that placebo effect with some of the modifications that you're making?
+
+--------------------------------------------------------------------------------
+G. Kelly Martin,  Radius Health, Inc. - CEO, President & Director    [46]
+--------------------------------------------------------------------------------
+
+          Thanks, Annabel. Kevin, again, I hate to keep asking you, but if you could take the lead on that and maybe Cole could supplement anything that you -- to fill around it. But I would also say, Annabel, we've dissected this 17 days from Sunday. So we have tons of our own assessments, but our own assessments aren't necessarily regulatory assessments. But we've had tons of reviews about this asset and many of these other assets. So Kevin, why don't you take the lead? And Cole can supplement you.
+
+--------------------------------------------------------------------------------
+Kevin Laliberte,  Benuvia Therapeutics Inc - Member of Clinical Advisory Board    [47]
+--------------------------------------------------------------------------------
+
+          Okay. Great. That's a great question. So there's been a lot of data collected with other compounds in addition to the results from this terminated study. So when you look across the board, and specifically looking at Zafgen's beloranib Phase III study, where the benchmark was essentially set for what was a clinically meaningful treatment difference. That study established a 7-point difference or a 7-point reduction in the HQ-CT as "clinically meaningful".
+Now what you will notice in other Prader-Willi studies is similar effect sizes in the active group but a growing placebo effect over time. When you look back at the Zafgen trial, they show about a 7-point reduction in HQ-CT but their placebo group was essentially unchanged. And I think that's why we're looking towards their study design as maybe a more beneficial approach than some of the more recent studies that were conducted. The more recent studies were of shorter duration. They were -- included patients younger in age and had severe hyperphagia. So that's why we're implementing some of these changes moving forward to say we feel comfortable that CBD can produce a treatment effect in that 6- to 7-point range. But what will be of crucial importance is to make sure that we minimize the placebo effect as much as possible.
+And we covered a couple of the items that we would consider: Implementing a longer placebo run-in, longer treatment duration and increased severity of hyperphagia. And those are all topics we want to cover with the FDA, both from a design of the study as well as the statistical methodology because there's other elements of how you analyze the data that could be implemented to minimize that placebo effect, which is possible.
+
+--------------------------------------------------------------------------------
+Annabel Eva Samimy,  Stifel, Nicolaus & Company, Incorporated, Research Division - MD    [48]
+--------------------------------------------------------------------------------
+
+          Okay. Great. That was helpful. And just looking more broadly at the competitive landscape, do you have a sense of where you might fit in based on the various programs that are being investigated right now? I mean there's all sorts of different mechanisms from test and channel aspects of GLP-1, oxytocin growth hormone. Like where does CBD fit in specifically? And do you anticipate that there might be, I guess, polypharmacy here over time?
+
+--------------------------------------------------------------------------------
+G. Kelly Martin,  Radius Health, Inc. - CEO, President & Director    [49]
+--------------------------------------------------------------------------------
+
+          Yes. Maybe, Rupert, you can answer that. I think that would be right up your alley.
+
+--------------------------------------------------------------------------------
+Rupert Haynes,  Benuvia Therapeutics Inc - COO    [50]
+--------------------------------------------------------------------------------
+
+          Yes. I mean if you look at the available treatments and the treatments that are being studied so far, they are kind of like single targeted approaches. And with CBD, you get this more of a holistic approach, the hypothesis being there's a dyshomeostasis occurring in these types of syndromes and CBD can modulate that in a way that single targets can't. So the efficacy argument is there and it kind of holds water when we try and look at it and discussed it with experts as well. 
+Secondly, to the other part of the question, as you know, polypharmacy. With the CBD, what you're looking at is, by comparison to many of the other treatments, is a side effect profile that Kevin alluded to, is very benign and very safe. So we would hope that not just the efficacy and the rationale for this, if you like, re-homeostasis occurring, that its side effect profile would allow it to be used very high up the adoption sequence because it doesn't -- it isn't fraught with many of the other sort of side effects that we see or anticipate will be reported with the other ones. 
+And then secondly, Annabel, just to pick up on your previous question, I think you should just add as well in trying to define the study design that Kevin's alluded to, there is another factor that we've been discussing internally as well, which is the scale itself. The hyperphagia scale is -- has been around for a while, and care has moved on since then. So it's well accepted that a number of those questions that are being used and previous companies have used in the past, some of those questions are redundant. And we are confident that in removing a couple of those questions, we'll enhance the sensitivity of the questionnaire, again, to bolster the likelihood and probability of success of the study. So that's just another feature we should make you aware of.
+
+--------------------------------------------------------------------------------
+Operator    [51]
+--------------------------------------------------------------------------------
+
+          Our last question comes from Douglas Tsao from H.C. Wainwright.
+
+--------------------------------------------------------------------------------
+Douglas Dylan Tsao,  H.C. Wainwright & Co, LLC, Research Division - MD & Senior Healthcare Analyst    [52]
+--------------------------------------------------------------------------------
+
+          Just a couple of questions. First, in terms of the outlook for TYMLOS for 2021, just curious if you could provide just some perspective in terms of the breakdown in the growth, which seems to be around 20%, that you expect to come from pricing versus volume. And then also in terms of business development, just curious, obviously in terms of the Prader-Willi assets, this can be probably commercialized with a very small sales force, so the incremental commercial infrastructure is probably quite small. Just curious, are you still on the hunt for additional assets that could be synergistic with the TYMLOS franchise or sort of a broader endocrinology footprint? Or are you going to be focused more in the orphan space? Because obviously I think there are opportunities for both within the category.
+
+--------------------------------------------------------------------------------
+G. Kelly Martin,  Radius Health, Inc. - CEO, President & Director    [53]
+--------------------------------------------------------------------------------
+
+          Doug, thanks. First and foremost, on the TYMLOS number, the vast majority of that is volume and units, not necessarily price. So that's kind of a broad question to that. I think we'll give out more detail on that probably at the first quarter, the official -- sorry, official update from a year-end point of view, fourth quarter and into '21. But it's majority of underlying growth, which we find is more important, frankly. 
+Secondly, with regard to -- yes, the infrastructure that we would need to potentially take a successful asset into Prader-Willi and/or other things is a small infrastructure, small to be defined and it's all relative, but de minimis infrastructure between sales, marketing and reimbursement. 
+With regard to BD, I think we've been pretty active. I think the main focus of our BD effort, Doug, will be outside the States, doing business development, out-licensing transactions. That's a very specific kind of BD. I think as far as our own internal portfolio, again, we have the early discovery activity that we're doing now with MGH, which is fascinating. And we have to, frankly, complete properly the 3 or 4 -- 3 pivotal readouts this year in the second half, fourth quarter of the year and then integrating RAD011 into our business. I think that's a pretty full plate for us. It doesn't mean that we -- again, as I've said before, we should look at lots of things but we should do very, very few things. 
+So I think that this kind of construct that we currently have is probably enough for us to do for now. If there's some unbelievable opportunity that comes along, obviously as fiduciaries, we look at everything. If it makes sense for shareholders, we'll consider things. But I think from an execution management and focus point of view, growing TYMLOS significantly in the U.S., extending the geographic footprint, hopefully, significantly and completing the 3 pivotal readouts in the end of the year I think is a pretty full plate, and I think that's going to be our primary area of focus. Hopefully, that's helpful.
+
+--------------------------------------------------------------------------------
+Douglas Dylan Tsao,  H.C. Wainwright & Co, LLC, Research Division - MD & Senior Healthcare Analyst    [54]
+--------------------------------------------------------------------------------
+
+          Yes, that is. And just one quick housekeeping. I mean so I guess I expect when you report 4Q, you'll provide a sort of a more fulsome sort of guidance update, and we should just sort of think of this as a preliminary update or outlook?
+
+--------------------------------------------------------------------------------
+G. Kelly Martin,  Radius Health, Inc. - CEO, President & Director    [55]
+--------------------------------------------------------------------------------
+
+          Yes. I mean I think that if it changes, it'll be sort of some refinement, but I think you can use this '21 sort of framework as good to go. And if we refine it slightly, we will. But I think as far as the main pieces and relativity, I think it's as close to reality as we could try to get you as fast as we could, given the fact that it's only January, whatever the hell it is, January 6. But I think it's a pretty good framework for you at least to use as of now. 
+Okay. Operator, thank you very much for everyone spending the time with us this morning, and it was a lot to go through. I'd like to thank Kevin and Rupert and Cole for participating, and we look forward to talking to many of you. Obviously, next week is a busy week with the JPMorgan conference. And I believe, from an investor point of view, we have a pretty full several full days, and we look forward to talking to you then about this transaction and other things. So thank you very much.
+
+--------------------------------------------------------------------------------
+Operator    [56]
+--------------------------------------------------------------------------------
+
+          Ladies and gentlemen, this concludes today's conference call. Thank you for your participation, and you may now disconnect. Everyone, have a wonderful day.
+
+
+
+
+
+
+
+--------------------------------------------------------------------------------
+Definitions
+--------------------------------------------------------------------------------
+PRELIMINARY TRANSCRIPT: "Preliminary Transcript" indicates that the 
+Transcript has been published in near real-time by an experienced 
+professional transcriber.  While the Preliminary Transcript is highly 
+accurate, it has not been edited to ensure the entire transcription 
+represents a verbatim report of the call.
+
+EDITED TRANSCRIPT: "Edited Transcript" indicates that a team of professional 
+editors have listened to the event a second time to confirm that the 
+content of the call has been transcribed accurately and in full.
+
+--------------------------------------------------------------------------------
+Disclaimer
+--------------------------------------------------------------------------------
+Refinitiv reserves the right to make changes to documents, content, or other 
+information on this web site without obligation to notify any person of 
+such changes.
+
+In the conference calls upon which Event Transcripts are based, companies 
+may make projections or other forward-looking statements regarding a variety 
+of items. Such forward-looking statements are based upon current 
+expectations and involve risks and uncertainties. Actual results may differ 
+materially from those stated in any forward-looking statement based on a 
+number of important factors and risks, which are more specifically 
+identified in the companies' most recent SEC filings. Although the companies 
+may indicate and believe that the assumptions underlying the forward-looking 
+statements are reasonable, any of the assumptions could prove inaccurate or 
+incorrect and, therefore, there can be no assurance that the results 
+contemplated in the forward-looking statements will be realized.
+
+THE INFORMATION CONTAINED IN EVENT TRANSCRIPTS IS A TEXTUAL REPRESENTATION
+OF THE APPLICABLE COMPANY'S CONFERENCE CALL AND WHILE EFFORTS ARE MADE TO
+PROVIDE AN ACCURATE TRANSCRIPTION, THERE MAY BE MATERIAL ERRORS, OMISSIONS,
+OR INACCURACIES IN THE REPORTING OF THE SUBSTANCE OF THE CONFERENCE CALLS.
+IN NO WAY DOES REFINITIV OR THE APPLICABLE COMPANY ASSUME ANY RESPONSIBILITY FOR ANY INVESTMENT OR OTHER
+DECISIONS MADE BASED UPON THE INFORMATION PROVIDED ON THIS WEB SITE OR IN
+ANY EVENT TRANSCRIPT. USERS ARE ADVISED TO REVIEW THE APPLICABLE COMPANY'S
+CONFERENCE CALL ITSELF AND THE APPLICABLE COMPANY'S SEC FILINGS BEFORE
+MAKING ANY INVESTMENT OR OTHER DECISIONS.
+--------------------------------------------------------------------------------
+Copyright 2023 Refinitiv. All Rights Reserved.
+--------------------------------------------------------------------------------

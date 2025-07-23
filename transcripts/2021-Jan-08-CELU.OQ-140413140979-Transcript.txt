@@ -1,0 +1,105 @@
+
+
+Refinitiv StreetEvents Event Transcript
+E D I T E D   V E R S I O N
+
+Celularity Inc and GX Acquisition Corp Merger Agreement - M&amp;A Call
+JANUARY 08, 2021 / 1:00PM GMT
+
+================================================================================
+Corporate Participants
+================================================================================
+
+ * Robert Joseph Hariri
+   Celularity Inc. - Founder, CEO & Chairman
+ * Dean Casper Kehler
+   GX Acquisition Corp. II - Co-Chairman & CEO
+
+================================================================================
+Presentation
+--------------------------------------------------------------------------------
+Operator    [1]
+--------------------------------------------------------------------------------
+Thank you for joining the conference call to introduce the proposed merger agreement between GX Acquisition Corp. and Celularity Inc. I would like to introduce Dean Kehler, Co-Chief Executive Officer of GX Acquisition Corp., to start the call.
+
+--------------------------------------------------------------------------------
+Dean Casper Kehler,  GX Acquisition Corp. II - Co-Chairman & CEO    [2]
+--------------------------------------------------------------------------------
+Thank you, everyone, and good morning. Before we discuss what we believe is a very exciting announcement and a significant milestone for both Celularity and GX Acquisition Corp., I will share some important disclaimers. Please note that today's presentation is neither an offering of securities nor a solicitation of a proxy vote. The information discussed today is qualified in its entirety by the current report on Form 8-K that was filed by GX Acquisition Corp. today and may be accessed on the SEC website. The stockholders of GX Acquisition Corp. are urged to read the Form 8-K and other SEC filings in connection with the proposed transaction carefully because they will contain important information about the proposed transaction and Celularity's business. 
+Additionally, during the presentation, we will make certain forward-looking statements that reflect our current views related to our future financial performance, future events and industry and market conditions as well as forward-looking statements related to the business combination, including the anticipated timing, proceeds and benefits of the transaction as well as statements about the potential attributes and benefits of Celularity's therapeutic candidates and the format and timing of Celularity's therapeutic development activities and clinical trials. 
+These forward-looking statements are subject to risks, uncertainties and assumptions that could cause actual results to differ materially from such forward-looking statements. We strongly encourage you to review the Form 8-K filed today, including the press release and presentation included in that Form 8-K as well as the information that GX Acquisition Corp. files with the SEC regarding specific risks and uncertainties, particularly those described in the Risk Factors section of GX Acquisition Corp's. most recent filings. GX Acquisition Corp. does not assume any obligation or intend to update any forward-looking statements, except as required by law. 
+We are pleased to announce today our business combination with Celularity, a leader in cell therapy. Cell therapy is one of the most exciting areas of biotech. We believe Celularity has the potential to become a leader, possibly the leader in developing off-the-shelf allogeneic cell therapies for oncology, infectious and degenerative diseases and other indications. As we will discuss on this call, we believe that Celularity's existing programs could lead to multiple drug registrations, and if approved, have the potential to help a lot of very sick people who desperately need help. We founded GX intending to find that one special transformative company that fills a critical need and can grow dramatically. In so doing, it can create attractive stockholder returns for many years to come. 
+We have been fortunate in our careers to have been involved in several groundbreaking investments that became public companies, and our goal has been to find another one of these to be the merger partner for GX. Since completing our IPO, we have evaluated many dozens of companies in depth, but none was as compelling an opportunity as Celularity. Let me explain why. 
+First, what is going on in biotech is nothing short of revolutionary. Scientists' understanding of human biology allows new therapies to be created today that were beyond imagination just 20 years ago. Second, within biotech, cell therapy, especially allogeneic cell therapies, has become highly important. Those who follow the industry know that even in the past few weeks since ASH, the big hematology conference, interest in this area has accelerated. Celularity has proprietary science and a unique platform in cell therapy. Celularity uses cells derived from healthy postpartum pregnancies as its raw material. In a minute, you will hear why we believe that the inherent biologic properties of placental-based cell therapies represent a significant advantage, a game changer for Celularity and a major differentiator compared with other companies. We believe that Celularity's extensive IP relating to the placenta creates a significant moat. 
+Celularity also is unique because it has a state-of-the-art, up-and-running manufacturing facility and many years of experience manufacturing cell therapy products. We believe that Celularity's manufacturing facility and its expertise in manufacturing cell therapy products over many years represent another significant moat. One minute on the transaction. Celularity will merge into a GX subsidiary in a transaction that values Celularity's existing equity at $1.25 billion. We have raised an approximately $80 million PIPE from certain of Celularity's existing stockholders or their affiliates and other unaffiliated investors.  Celularity's existing investors will roll all their equity into the new company and will take no money out of the transaction. In fact, because existing Celularity's stockholders are investing in the PIPE, capital invested by existing Celularity stockholders will increase as a result of this transaction. To us, this represents a wonderful vote of confidence. 
+Assuming no redemptions by GX' existing stockholders, the company will have a pro forma market cap of $1.7 billion, with $372 million of total expected proceeds from the PIPE and cash held in GX Acquisition Corp's. trust account will be added to the balance sheet, assuming no stockholder redemptions are affected. This cash is expected to be sufficient to fund the company's business plan for the next several years. We expect the transaction to close in the second quarter of 2021, subject to, among other things, approval by GX' and Celularity's stockholders and the satisfaction or waiver of other customary closing conditions. Celularity has an experienced Board of Directors and a seasoned management team, led by its founder, Chairman and CEO, Dr. Robert Hariri. Let me tell you a little about him. 
+Dr. Hariri is a true visionary and a renaissance person. He was a Division I varsity athlete in college, a military surgeon and jet aviator. He completed his undergraduate education at Columbia University and received his MD and PhD degrees from Cornell, where he trained as a surgeon and currently serves on the adjunct faculty of the Department of Neurosurgery and on the Board of Overseers at Weill Cornell Medical College. He was the recipient of numerous awards, including a 2-time Thomas Edison Award winner and the recipient of the Pontifical Medal for Innovation bestowed by Pope Francis during his time at Cornell, and is a serial entrepreneur who started several successful companies. He's the holder of over 170 issued and pending patents, the author of over 200 academic papers, and most importantly, for this conversation, he is the father of placental cell therapy that is based on using healthy postpartum placentas as raw material, the technology foundation of Celularity. 
+It is my great pleasure to introduce Robert J. Hariri, MD, PhD, Chairman and Chief Executive Officer of Celularity Inc.
+
+--------------------------------------------------------------------------------
+Robert Joseph Hariri,  Celularity Inc. - Founder, CEO & Chairman    [3]
+--------------------------------------------------------------------------------
+Thank you very much, Dean, for your steadfast belief in Celularity's mission and vision for the field of cellular medicine. I would also like to take this time to thank Genting Berhad led by Tan Sri Lim Kok Thay known to us as KT Lim; Starr companies led by Chairman, Maurice R. Greenberg; and Sorrento Therapeutics led by Chairman and CEO, Henry Ji. It's been an honor to work with all of you, and we truly appreciate your confidence and commitment to Celularity and the future of this business. 
+Let me now introduce everyone to Celularity. Please note that along with our announcement today, GX has filed an investor presentation deck that provides details on Celularity and this proposed transaction. I will reference a number of these slides in that presentation in my remarks today. Celularity is a clinical-stage biotechnology company leading the next evolution in cellular medicine to off-the-shelf allogeneic cellular therapies derived from the postpartum human placenta. 
+Today's announcement demonstrates Celularity's commitment to a new and cutting-edge approach to our science and how we think creatively about capitalizing the company and advancing our mission of delivering best-in-class and more affordable therapies to patients with unmet medical needs and serious diseases. As you'll see on Slide 6, Celularity's current science is the product of over 2 decades of research and development. 
+Celularity has its roots in Anthrogenesis Corporation, a company that I founded in 1998 that was acquired at the end of 2002 by Celgene Corporation. By harnessing the cellular platform of the placenta's unique immunologic and regenerative biology, along with our deep experience developing therapies from this very unique source of stem and progenitor cells and our extensive intellectual property portfolio, we believe that Celularity will be able to target large markets, many with unmet needs in serious and life-threatening diseases and develop safe and effective therapies to treat cancers, infectious and degenerative diseases. All cells derived from our placental platform are naturally engineered to rapidly proliferate, remain potent through numerous cell expansions and avoid immune rejection, providing Celularity with an industry-leading potential for allogeneic therapeutic development. 
+On Slide 11, you'll see that we have a diverse and seasoned management team, some of whom have been working together for over a decade on cellular medicines since our days at the genesis of Anthrogenesis through our time at Celgene and now to Celularity. It's important to note that our clinical team has decades of industry experience, discovering, developing and launching some of the most innovative therapies in oncology and immunotherapy. 
+Slides 8 and 9 show what we believe is the core of our value proposition in Celularity, a broad pipeline of therapeutic candidates across multiple indications, enabled by the biologic advantage possessed and retained in cells derived from the placenta. Our platform allows for the development of a diverse array of allogeneic cellular medicines, including CAR-T cells, unmodified and genetically modified natural killer cells as well as adherent mesenchymal-like stromal cells, or ASCs, to treat hematologic malignancies, solid tumors, infectious diseases and degenerative diseases. 
+Our T cells, NK cells and ASCs are each capable of being developed into multiple different therapeutics. Our CAR-T cells can be developed with all available CAR constructs. Similarly, our NK cells can be combined with all approved monoclonal antibodies effective in treating cancer and be modified with CAR constructs as well. While we have our broad current pipeline, our unique and renewable cell platform allows us to draw upon continuing clinical development to fuel future pipeline candidates and to assess our own combination therapies such as combining CAR-T therapy with NK cells; and in the future, combining cell therapy with some of our degenerative medicine technologies, including biologics. We have 4 active trials, and we expect to submit INDs for 3 programs, creating 5 Phase I and Phase II programs in the clinic by the end of '21. We will have multiple shots on goal to evaluate the unique properties of placental-derived cells. 
+On Slides 14 to 18, you'll see that we are developing CYCART-19, a placenta-derived CAR-T cell that is therapeutically available for the range of targets that use this CD19 target. This product is cryopreserved, allogeneic and off-the-shelf. CYCART-19 is in development for the treatment of B-cell malignancies, targeting the CD19 receptor. Unlike adult peripheral blood mononuclear cell-derived T cells, placenta-derived CAR-T cell are mostly naive. That is they are CD45RA positive, expand readily ex vivo, express markers of stem cell memory and have lower expression of effector or exhaustion markers, allowing for greater proliferative potential of these cells in vivo. And they avoid immune rejection in recipients Celularity plans to file an IND and commence a Phase I/IIa trial for CYCART-19 in 2021. 
+On Slides 19 to 26, you'll see our clinical experience with CYNK-001, our unmodified off-the-shelf natural killer cells, and how that experience guides both our ongoing trials with this therapy as well as our trial design for upcoming INDs. We are currently evaluating CYNK-001, the only cryopreserved allogeneic off-the-shelf NK cell therapy being developed from placenta. Placental hematopoietic stem cells as a potential treatment source, an option for various hematologic cancers, solid tumors and infectious diseases, we believe can be potentially industry-leading. 
+CYNK-001 is in development for the treatment of acute myeloid leukemia, AML, a blood cancer; and for glioblastoma multiforme, GBM, a solid tumor cancer as well as for COVID-19. CYNK-001 is currently in a Phase I study for AML and other blood cancers and is in a Phase Ib/IIa trial for both glioblastoma and COVID-19. Celularity plans to commence pivotal Phase II trials of CYNK-001 for the treatment of both AML and GBM in 2021. We're developing currently CYNK-101, adding punching power of genetic modification to our placental-derived natural killer cells. CYNK-101 is a cryopreserved, allogeneic, off-the-shelf cell therapy that enables combination therapies with monoclonal antibodies by enhancing ADCC. Celularity plans to submit an IND in 2021 for CYNK-101, which will be evaluated in combination with a monoclonal antibody to target HER2-positive cancers, such as gastric cancer. 
+On Slides 24 to 36, we discuss our experience in degenerative diseases and autoimmune disorders, and importantly, our newly developed APPL-001, a placental-derived ASC being developed for the treatment of Crohn's disease and other conditions. Our early trials in Crohn's disease, including a Phase II placebo-controlled randomized study suggested very encouraging and durable responses. And we also saw promising results with intramuscular injections for diabetic foot ulcer and diabetic peripheral neuropathy. 
+Leveraging that experience, we developed a new therapeutic candidate using genetic modification to knock out the expression of tissue factor. Celularity plans to submit an IND for APPL-001 in 2021 and to commence a pivotal Phase Ib/IIa trial in the -- of this asset in the treatment of Crohn's disease in 2022. The transaction we are announcing today is expected to close during the second quarter of 2021 and is subject to customary closing conditions. Following the closing, Celularity will become a public company, and we expect to have proceeds of approximately $372 million before transaction expenses to invest in our science and operations. And by securing new financing and entering the public market, we believe that Celularity will have the resources we need to advance an extensive pipeline in the hopes of bringing new treatments to patients struggling with cancer, infectious and degenerative diseases. 
+With that, I want to thank everyone for their attention and would like to close by again expressing our appreciation for joining us today.
+
+
+
+
+
+
+
+--------------------------------------------------------------------------------
+Definitions
+--------------------------------------------------------------------------------
+PRELIMINARY TRANSCRIPT: "Preliminary Transcript" indicates that the 
+Transcript has been published in near real-time by an experienced 
+professional transcriber.  While the Preliminary Transcript is highly 
+accurate, it has not been edited to ensure the entire transcription 
+represents a verbatim report of the call.
+
+EDITED TRANSCRIPT: "Edited Transcript" indicates that a team of professional 
+editors have listened to the event a second time to confirm that the 
+content of the call has been transcribed accurately and in full.
+
+--------------------------------------------------------------------------------
+Disclaimer
+--------------------------------------------------------------------------------
+Refinitiv reserves the right to make changes to documents, content, or other 
+information on this web site without obligation to notify any person of 
+such changes.
+
+In the conference calls upon which Event Transcripts are based, companies 
+may make projections or other forward-looking statements regarding a variety 
+of items. Such forward-looking statements are based upon current 
+expectations and involve risks and uncertainties. Actual results may differ 
+materially from those stated in any forward-looking statement based on a 
+number of important factors and risks, which are more specifically 
+identified in the companies' most recent SEC filings. Although the companies 
+may indicate and believe that the assumptions underlying the forward-looking 
+statements are reasonable, any of the assumptions could prove inaccurate or 
+incorrect and, therefore, there can be no assurance that the results 
+contemplated in the forward-looking statements will be realized.
+
+THE INFORMATION CONTAINED IN EVENT TRANSCRIPTS IS A TEXTUAL REPRESENTATION
+OF THE APPLICABLE COMPANY'S CONFERENCE CALL AND WHILE EFFORTS ARE MADE TO
+PROVIDE AN ACCURATE TRANSCRIPTION, THERE MAY BE MATERIAL ERRORS, OMISSIONS,
+OR INACCURACIES IN THE REPORTING OF THE SUBSTANCE OF THE CONFERENCE CALLS.
+IN NO WAY DOES REFINITIV OR THE APPLICABLE COMPANY ASSUME ANY RESPONSIBILITY FOR ANY INVESTMENT OR OTHER
+DECISIONS MADE BASED UPON THE INFORMATION PROVIDED ON THIS WEB SITE OR IN
+ANY EVENT TRANSCRIPT. USERS ARE ADVISED TO REVIEW THE APPLICABLE COMPANY'S
+CONFERENCE CALL ITSELF AND THE APPLICABLE COMPANY'S SEC FILINGS BEFORE
+MAKING ANY INVESTMENT OR OTHER DECISIONS.
+--------------------------------------------------------------------------------
+Copyright 2023 Refinitiv. All Rights Reserved.
+--------------------------------------------------------------------------------

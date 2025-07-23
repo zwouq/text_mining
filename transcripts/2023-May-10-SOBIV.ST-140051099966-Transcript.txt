@@ -1,0 +1,466 @@
+
+
+Refinitiv StreetEvents Event Transcript
+E D I T E D   V E R S I O N
+
+Swedish Orphan Biovitrum AB (publ) to Acquire CTI Biopharma Corp Call
+MAY 10, 2023 / 1:00PM GMT
+
+================================================================================
+Corporate Participants
+================================================================================
+
+ * Henrik Stenqvist
+   Swedish Orphan Biovitrum AB (publ) - CFO
+ * Guido Oelkers
+   Swedish Orphan Biovitrum AB (publ) - CEO & President
+
+================================================================================
+Conference Call Participiants
+================================================================================
+
+ * Viktor Sundberg
+   Nordea Markets, Research Division - Senior Analyst
+ * Emmanuel Douglas Papadakis
+   Deutsche Bank AG, Research Division - Research Analyst
+ * Unidentified Analyst
+    - 
+ * Eun Kyung Yang
+   Jefferies LLC, Research Division - MD & Senior Equity Research Analyst
+ * Christopher Winston Uhde
+   SEB, Research Division - Analyst
+ * Anton Hoos
+   Swedish Orphan Biovitrum AB (publ) - Head of R&D & Medical Affairs and Chief Medical Officer
+ * Mattias Häggblom
+   Handelsbanken Capital Markets AB, Research Division - Research Analyst
+ * Peter Östling
+   Pareto Securities AS, Research Division - Life Science Analyst of Equity Research
+ * Alistair David Campbell
+   RBC Capital Markets, Research Division - Analyst
+ * Erik Hultgård
+   Carnegie Investment Bank AB, Research Division - Research Analyst
+
+================================================================================
+Presentation
+--------------------------------------------------------------------------------
+Operator    [1]
+--------------------------------------------------------------------------------
+Ladies and gentlemen, welcome to the acquisition on CTI BioPharma Conference Call in live webcast. I'm Andre, the Chorus Call operator. (Operator Instructions) The presentation will be followed by a Q&A session.(Operator Instructions) At this time, it's my pleasure to hand over to Guido Oelkers. Please go ahead, sir.
+
+--------------------------------------------------------------------------------
+Guido Oelkers,  Swedish Orphan Biovitrum AB (publ) - CEO & President    [2]
+--------------------------------------------------------------------------------
+Yes. Thank you so much, and welcome, everybody. Thanks for your interest in Sobi and our latest activity in an effort to acquire CTI BioPharma Corporation. And we will want to talk a little bit more about this deal and lead you into our rationale. Before I do this, please take note of the forward-looking statement as per usual. And on the next page, you find important information with regard to this potential transaction. So I just want to draw your attention to the fact that we have signed a definitive agreement, but obviously, the deal has not been closed. With this said, please move to the next page, who is going to share their sensors and their views on this deal is the first myself, then followed by Tony, our new Head of R&D and Medical Affairs, and then Henrik will talk about the financials of the transaction, our Chief Financial Officer.
+Let's move to the next slide. And here, you can see a little bit in a nutshell what we want to -- why this is, we believe a marriage in heaven, why it's such an important deal for Sobi. And as usually, it starts with the patients. Just think about myelofibrosis, these are 78,000 patients and worldwide, 21,000 give and take in the U.S., of which 1/3 are severe with a very poor prognosis, less than 2 years of survival. When you go to the left, you see in VONJO it's a differentiated asset. It's a differentiated asset by the virtue of pharmacological differentiation, meaning it's active at the JAK2 level, and it's JAK1 sparing, and it is differentiated on the strength of clinical data that Tony is going to share with you later.
+For us, it's an exciting asset because it speaks to our strength. It's very complementary to what we are doing in hematology already, particularly with our TPIA. And it basically is really about how 1 plus 1 could yield more than 2. And we feel very excited about the expertise also that comes with this asset. And this asset is going to be highly accretive in terms of revenues and margins in the near term. Let's go to the next slide. So who is CTI? I mean CTI is a company, 144 employees, founded in 1991, is listed on the NASDAQ and (inaudible) asset is VONJO, the JAK2 and IRAK1 inhibitor. It's approved in the U.S. and got a fast track approval. And let's say, based on the spleen volume reduction that Tony is going to show you the data later, an ongoing Phase 3 trial, PACIFICA, and or one is you on the agent specifically studied for cytopenic myelofibrosis.
+Next slide. So it's obviously, it's a super fit to our strategy. I mean it's quite intuitive. It connects to our ambition in hematology because it addresses a severe unmet medical clinical need. It is about bringing this product global. Obviously, the U.S. is the most important part of this business. But given our strength also beyond Europe and the U.S., we clearly want to take this product internationally. And there are some markets where this can be done in a relatively quick secret. And we want -- we think that we want to take this product beyond the current indication. And there are also some ideas in this regard.
+Next slide, please. So what is the rationale of this transaction? First of all, and I talked about it, it's about the asset clinically differentiated pharmacologically or by a mode of action differentiator. We like the team, the team who we have met as part of this diligence, this is a very highly skilled workforce in the area of hemato-oncology, and we think that this will do us extremely well to bring in this more scientifically, medically oriented knowledge into our company. The product and the company is going to be a very significant accelerator of our growth prospects midterm. Because, first of all, it will accelerate our U.S. business.
+And as I said, connects very well with what we are doing today. We want to take this product and it is no surprise international, the stepwise approach, we want to take also this product beyond current labor. And because we are in adjacencies in terms of commercialization, but we also think that we understand it medically and scientifically, I'm convinced that we can be confident about the impact for execution. Next slide. So what it does is it takes really our ambition for hematology even broader, on the left, our hemophilia franchise and hopefully, very soon with our new extended Factor VIII product, ALTUVIIIO. We are in the midst of large preparation for the long term, have already first patients in the Middle East. And obviously, it will add a very important message as described.
+So with this said, I would like now to refer to Tony, who will bring this product a little bit more alive from the disease area, but also from a mode of action and clinical perspective. Tony.
+
+--------------------------------------------------------------------------------
+Anton Hoos,  Swedish Orphan Biovitrum AB (publ) - Head of R&D & Medical Affairs and Chief Medical Officer    [3]
+--------------------------------------------------------------------------------
+Thank you, Guido. Here we go. So what I would like to do first is to talk a little bit about myelofibrosis. So rare disease obviously. A rare form of bone-marrow cancer, which is very, very serious impact on patients. And Guido shared that with you, the best data we could get it's about 78,000 patients worldwide. In the U.S., we have a substantial number, about 20,000 patients. And what it does really, it leads to impaired blood cell production. And as a consequence, of course, we have anemia and thrombocytopenia that plays a particular role perhaps in later discussions. Also how this product is differentiated.
+Myelofibrosis is often characterized by an upregulation, where we have basically JAK/STAT target genes. And again, most importantly, the severe thrombocytopenia in these patients is an important factor of this disease, and we know patients who have severe thrombocytopenia have a pretty poor overall prognosis. And you see here, we have some data referenced at the 15-month point. So what we can see having talked to quite a number of experts having looked at the field in quite some depth. There's a very large unmet medical need. There's super limited treatment options available, in particular, for patients with these severe thrombocytopenia.
+If you go to the next slide, then, again, we can highlight that a little bit. It's about 30% of these patients who suffer from quite low platelet count. And these low platelet counts, when you look at the available therapies, there's really only one that's indicated for less than 50,000 platelet counts, and that's VONJO. And again, this is directly linked with the prognosis if you have a really effective therapy available here. The clinical manifestation of the disease, we can talk a little bit more about that in the Q&A, if you like, is this very, very large increased spleen. And when you think about a spleen that has a super increased size, that has all sorts of complications, whether it's problems with breathing, problems with eating, end and end. It's a very significant and very clear endpoint, by the way, also for clinical studies.
+And as I said before, many of these patients who have very low platelets, they wouldn't be eligible to be treated with anything else because, one, there is pretty much nothing that's labeled for these low platelets. And 2, because of the mechanism of action, many of the available therapies actually have a negative effect on platelet counts. And that's where we believe we have medically a truly differentiating asset and medication that can make a true difference for these patients. And if you go to the next slide, we can talk a little bit about why this mechanism is so different. So, here we have a drug that does not inhibit JAK1.
+And that's actually a very important aspect from a pharmacological perspective, because when you spare JAK1, then you avoid drug-induced myelosuppression, like some of the competitor drugs definitely do. And then we inhibit JAK 2, and that actually has the potential to reduce these or many of the myelofibrosis related symptoms. There's 2 other pathways that play a role here. IRAK and the IRAK pathway and also targeting ACVR1. And what we know, there's a lot of recent data out there that both of these pathways may have a beneficial effect regarding myofibrosis in particular to anemia and myelofibrosis related symptoms. So in combination, this sparing JAK1, this inhibition of JAK2, and really having an effect on IRAK1 and ACVR1, we believe is a pretty unique differentiator from the pathophysiologic perspective. And as we said, that has also led the FDA to give the company this license, and it's the only one that's licensed below 50,000 platelets.
+So that being said, let's move on to the next slide.  Curious data that was pretty relevant for the license of this product. You see here on these 2 charts on the left-hand side on these 2 bars, you see that we have patients with a percentage of patients with platelet counts less than 50,000 that achieved more than 35% spleen volume reduction. And this is clinically and medically extremely significant. And you see, Pacritinib was compared to the best available therapy and best available therapies, a large number of options. None of them are really making a major difference, at least in my view, you see what difference that has made on a clearly measurable objective endpoint that can be verified easily.
+And so then the other question that's very important here, have we seen any alarming any critical safety signals? The answer is no, we have not seen that. We believe safety is very manageable from what the FDA has reviewed what we have reviewed. As we said, we have here probably the only JAK inhibitor that demonstrates a really meaningful difference in these low platelet patients and that we are very confident it makes a lot of difference, both for the patients and for the company in combination with everything else we get here, including skills and the ongoing evidence generation. So that being said, I think I will turn it over to Henrik so that he can talk a little bit about the other aspects of the deal.
+
+--------------------------------------------------------------------------------
+Henrik Stenqvist,  Swedish Orphan Biovitrum AB (publ) - CFO    [4]
+--------------------------------------------------------------------------------
+Thank you, Tony. So regarding the transaction terms, you will have seen that this is an old cash offer of $9.10 per share with a transaction value of $1.7 billion on a fully diluted basis. So in order to work out the math here, it's obvious that in addition to the basic shares outstanding, there is also options and convertible notes corresponding to about 53 million shares to be added to the fully diluted number of shares. And in terms of the funding, it's 100% cash acquisition funded by committed debt financing to carry out the transaction. And this financing has been provided by Bank of America and Altabank.
+We anticipate to fund up to half of the transaction via an equity issue, a rights issue post the acquisition. And our main shareholder, Investor AB, has undertaken to subscribe their share of such issue. And we expect to have a leverage ratio of below 3x after completion of the rights issue. And this, together with an expected additional strong cash flow generation from this acquisition will support rapidly leveraging and preserve our financial flexibility for future growth. In terms of the financial benefits, this acquisition is expected to be a significant accelerator for our top line growth, but also be accretive to our adjusted EBITDA margin already near term that is in 2024.
+This is an acquisition driven by the growth potential in hematology and through the addition of complementary reach and expertise. And it's not primarily by cost cutting. As in every combination of companies, there will be overlaps and the potential to realize efficiencies. But that is something that we will come back to. In terms of the timing, we will shortly initiate a tender offer to -- with the purpose of acquiring all outstanding shares, and we expect the transaction to close in Q3, subject to customer closing conditions, including HSR clearance.
+If we go to next slide and look at an overview of the financing. This is, as I said, fully committed bank financing consisting of long-term bank debt with equivalent to $2.9 billion and a short-term equity bridge of SEK 8 billion. And the equity bridge, as said, to be refinanced through a rights issue. And the long-term debt will be syndicated in the bank market. With this setup, we keep our strong balance sheet in order to be able to continue the strategy of growth of the company. So I give back to Guido.
+
+--------------------------------------------------------------------------------
+Guido Oelkers,  Swedish Orphan Biovitrum AB (publ) - CEO & President    [5]
+--------------------------------------------------------------------------------
+Yes. Thank you, Henrik. Let's round it off with the last slide. Next slide, please. Yes. So in concluding, what do we like to communicate? Obviously, differentiated asset clinically but also by the virtue of motivation in an highly unmet medical need area. We are looking forward to working with a highly skilled workforce in the area of hemato-oncology and bringing them in. And as Andy pointed out, and I mentioned this is all about acceleration of Sobi's growth in our core business, and it is really making sure that this will stimulate our midterm growth ambition significantly.
+Materially, it is about, obviously, the fact that we are confident that we can execute this transaction will need to help, obviously, of the CTI colleagues or employees at the right time, and we can work with them, and we will try to entice them to be part of Sobi,  and we think that this is a financially attractive deal for Sobi, and that is to be also recognized over time. Yes. With this said, I think we can now go into the Q&A. And I understand that there is already an order of certain questions that have been registered prior to this call already. Jennifer, I think the first one was you. Is that correct? Yes, maybe you fire off and then, Jen, you guide us through the order because we have some difficulties to see this.
+
+
+================================================================================
+Questions and Answers
+--------------------------------------------------------------------------------
+Operator    [1]
+--------------------------------------------------------------------------------
+We will now begin the question-and-answer session. (Operator Instructions) The first question comes from the line of Kyung Yang with Jefferies.
+
+--------------------------------------------------------------------------------
+Eun Kyung Yang,  Jefferies LLC, Research Division - MD & Senior Equity Research Analyst    [2]
+--------------------------------------------------------------------------------
+Two questions. One is on the patent life. So looking at the competition on Humira patent Life, it seems like in the U.S., it starts expiring in 2028, outside the U.S. starting in 2026. So I'd like I would like to ask you what your assumptions for market exclusivity? I know understanding that it has all fun designation. And the second question is -- so CTI has about 144 employees currently. I think it's based in Seattle. So are you planning to keep that facility in Seattle with employees?
+
+--------------------------------------------------------------------------------
+Guido Oelkers,  Swedish Orphan Biovitrum AB (publ) - CEO & President    [3]
+--------------------------------------------------------------------------------
+Hi, Eun, thanks for the questions. Regarding the patent life, we think that we see on the strength of why the virtue of the PTE submissions that they have that we can look forward to a patent protection until 2034. And with regard to the location, we will have discussions with the team, what makes sense and what is a sensible setup. We're clearly excited about the team. And at this stage, obviously, we have not been able to be in discussions with the organization. As I said, our base assumption is to make sure that the team feels comfortable and welcome at Sobi. And this will really depend on the forthcoming discussions. So I don't want to speculate. Eun?
+
+--------------------------------------------------------------------------------
+Eun Kyung Yang,  Jefferies LLC, Research Division - MD & Senior Equity Research Analyst    [4]
+--------------------------------------------------------------------------------
+2024 is in the U.S. and both the U.S. and outside the U.S?
+
+--------------------------------------------------------------------------------
+Guido Oelkers,  Swedish Orphan Biovitrum AB (publ) - CEO & President    [5]
+--------------------------------------------------------------------------------
+This is in the U.S.
+
+--------------------------------------------------------------------------------
+Operator    [6]
+--------------------------------------------------------------------------------
+The next question comes from the line of Christopher Uhde with SEB.
+
+--------------------------------------------------------------------------------
+Christopher Winston Uhde,  SEB, Research Division - Analyst    [7]
+--------------------------------------------------------------------------------
+Got an awful lot. So I'll ask a couple and then get back in the queue. The first question is sort of on financials here. So I haven't seen you -- you mentioned sort of short or near-term synergies, but I haven't seen anything about the impact on the outlook for 2023. So what can you say about that? And secondly, would you please help us quantify the level of synergies you see short term and long term? So let's say, to be specific coming year and then over the longer term. And then for the second question in terms of the Trex transaction structure, why was it a rights issue that was picked instead of a directed share issue? And then as it relates to that, would it be correct to assume these will be preferential rights? And would you convene an EGM, pre or post deal? I'm just trying to get a sense of when this will sort of stop being a question in the equity story over the short term?
+
+--------------------------------------------------------------------------------
+Guido Oelkers,  Swedish Orphan Biovitrum AB (publ) - CEO & President    [8]
+--------------------------------------------------------------------------------
+Yes. Thank you, Christoph. Maybe I start and then I'll refer to some of the other questions to Henrik. Basically, with regard to the outlook of this year, the reason why we haven't provided this is simply because the -- it will depend obviously on the closing. And realize, we don't think that there are both of FTC issues to clarify, we didn't want to speculate either. I mean everybody, I think, has seen the consensus for the franchise. So it's not going to be America to figure out when we have the right -- how much we are going to consolidate this. We are very comfortable with the guidance that the organization has set out.
+With regard to the growth beyond, I think when you -- as we told you, we think that we can pull 3 levers. First of all, we think it's very synergistic to what we are already doing in the U.S. So we think that we can further accelerate this given also our more commercial focus on businesses, and our focus on further medicalization. We think that there's a lever that we pulled in the midterm with regard to further internationalization. And we clearly want to broaden the product beyond the current label. So we think that when you think about, you have seen consensus all playing out. Already at consensus, if you overlay this we see old expectations on Sobi, it's a very material accelerator for the years to come.
+And if you pull some of these levers, we hope that we can further stimulate growth for the group. So making soberly attractive group and truly growing into the size of our aspiration becoming a leader in rare disease. Now, with regard to the cost synergies, that's correct. We have not quantified this and we won't today. And simply because we want to get to know the team. And as I said, this deal is about the acceleration of growth. It's much less about cost, but there will be some efficiencies. I think is out saying that it is about stimulation of growth or 1 plus 1 can be more than 2. And that's the right time.
+And please bear in mind, we don't own the company, yes. I mean we are still -- we have just signed an agreement, and we need to wait for closing. So it would be also very premature to do this at this stage. With regard to the transaction structure, I'd like to refer to Henrik who will talk to you about the merits of a rights issue. I personally like it a lot that our main shareholder has committed its share and equity contribution, it shows confidence in the transaction. But maybe, Henrik, you talk about this and how you arrived at this juncture.
+
+--------------------------------------------------------------------------------
+Henrik Stenqvist,  Swedish Orphan Biovitrum AB (publ) - CFO    [9]
+--------------------------------------------------------------------------------
+Yes. Yes. So as Guido says, the equity issue will be a preferential rights issue for existing shareholders, which is the standard way of raising capital for Swedish public companies. We will initiate that post closing of the transaction. And yes, we will call for an AGM in due course.
+
+--------------------------------------------------------------------------------
+Operator    [10]
+--------------------------------------------------------------------------------
+The next question comes from the line of Erik Hultgård with Carnegie.
+
+--------------------------------------------------------------------------------
+Erik Hultgård,  Carnegie Investment Bank AB, Research Division - Research Analyst    [11]
+--------------------------------------------------------------------------------
+I also have quite a few, but I'll shoot a couple and then get back in the queue. So first, I was wondering, maybe for Tony, your confidence level in hitting the primary endpoint in the confirmatory Phase 3 study to get the full use approval? I know the study is powered to show a 16% difference compared to physician choice on SVR. And based on the Phase 2 data, it looks like you have a margin of error, but I was just wondering if there is any meaningful differences in baseline characteristics in the Phase 3 study compared to the Phase 2, and also differences in sufficient choice that could impact the SVR rate in the Phase 3 study? That's my first question. And then maybe a question for Guido on the potential for early approval in Europe that you see or if you need to wait for confirmatory data at the end of 2026 before submissions?
+
+--------------------------------------------------------------------------------
+Guido Oelkers,  Swedish Orphan Biovitrum AB (publ) - CEO & President    [12]
+--------------------------------------------------------------------------------
+Thank you, Erik. Tony?
+
+--------------------------------------------------------------------------------
+Anton Hoos,  Swedish Orphan Biovitrum AB (publ) - Head of R&D & Medical Affairs and Chief Medical Officer    [13]
+--------------------------------------------------------------------------------
+Yes, I'm happy to take the first question, and thank you for asking that. So when we look at the PACIFICA trial, that's what you're referring to, we have 2 co-primary end points. One is, as you said, the spleen volume reduction greater than 35%. As I said, it's an objective one. So that's MRI or CT measured. So I think we will have no issues there, and I'm going to talk about the power in a second. And secondly, we have patient reported outcomes there where we want to have a clear benefit. Now, when we look at the power of the study, we've looked very carefully and checked kind of which data they have from prior experience. And we believe the study, if anything, is very, very well powered to hit both of these endpoints.
+The other piece that plays a role here, how can you make these objectives? Spleen volume reduction is clear, right? That's MRI or CT, and then patient-reported outcomes is something where there will be an external into an independent, if you want, interview who will verify these reported outcomes. So from a power perspective, given on the patients that we've been able to analyze beforehand, we believe we are in very good shape for both of these endpoints and also from a perspective of making these value objectives. The other piece that we have to keep in mind, which was probably also part of your question, this is a large international study with many international centers. There may be slight differences in baseline therapy or in best available therapy. But as far as we could study and look into what's available, we do not see anything that might even come closer in the effect size regarding these endpoints. That's the best answer I can give you at this stage.
+
+--------------------------------------------------------------------------------
+Guido Oelkers,  Swedish Orphan Biovitrum AB (publ) - CEO & President    [14]
+--------------------------------------------------------------------------------
+Yes. And Erik, with regard to the potential approval in Europe -- earlier approval in Europe. I mean we have done obviously quite a bit of diligence on this. But there are limitations to how far you can go in a diligence process. Basically, an assumption is right now that, obviously, the PACIFICA trial would be useful. Having said this, I mean there's a high unmet medical need in the United States, but there's a high unmet medical need also in Europe for patients with myelofibrosis, and in particular, when they have platelet can below 50,000. And so the same applies. So we would feel very encouraged once this transaction has been closed to engage with the European regulator and explore those. But there is nothing that we could already announce at this point of time. So Tony and his team and our regulatory, obviously, experts according to Tony will be engaging with (inaudible) and that we will come back to you.
+
+--------------------------------------------------------------------------------
+Erik Hultgård,  Carnegie Investment Bank AB, Research Division - Research Analyst    [15]
+--------------------------------------------------------------------------------
+Great. And just a quick follow-up on that. If I'm properly informed that the extension of the patent has been applied for, but not granted it will take like 18 months until for sure if it's granted or not. So are you planning to invest and start a large registrational studies to widen the indication before you get the clarity on the IP?
+
+--------------------------------------------------------------------------------
+Guido Oelkers,  Swedish Orphan Biovitrum AB (publ) - CEO & President    [16]
+--------------------------------------------------------------------------------
+Yes. I mean we have done a thorough IP check, and we are -- and there is no guarantee, as you said, but there's a lot of confidence around the IP. And we have looked at this. And I'm sorry, we have a bit of background noise because the -- we couldn't stop the blinds. And basically, the -- so we don't think that there's any showstopper, and so we will, irregardless of the approval, final approval, we will explore on our opportunities on how to internationalize this franchise further whether it's bridging studies into Asian patients, and so on and so forth. And we will update you at the right time.
+
+--------------------------------------------------------------------------------
+Anton Hoos,  Swedish Orphan Biovitrum AB (publ) - Head of R&D & Medical Affairs and Chief Medical Officer    [17]
+--------------------------------------------------------------------------------
+Yes.  Yes. And what I can add here in response to your question. The first priority is, of course, that we take full control over the ongoing studies. So we really have all the details and can manage that extremely well. And then in parallel we will start exploring what can we do outside of the current scope, as you suggested.
+
+--------------------------------------------------------------------------------
+Operator    [18]
+--------------------------------------------------------------------------------
+The next question comes from the line of Charlie (inaudible) with Morgan Stanley.
+
+--------------------------------------------------------------------------------
+Unidentified Analyst,   -     [19]
+--------------------------------------------------------------------------------
+So firstly, you suggest that about 1/3 of the population are highly thrombocytopenic, which is a significant portion, and these patients have a really poor prognosis. So could you please first talk to how CTI progressed around building awareness of the disease as the first specific approval here? And any data points you can point to here. And then secondly, could you also give some context around what proportion of these patients are currently receiving the allogeneic KCT and what proportion and not transplant candidates?
+
+--------------------------------------------------------------------------------
+Guido Oelkers,  Swedish Orphan Biovitrum AB (publ) - CEO & President    [20]
+--------------------------------------------------------------------------------
+Tony, do you want to take this?
+
+--------------------------------------------------------------------------------
+Anton Hoos,  Swedish Orphan Biovitrum AB (publ) - Head of R&D & Medical Affairs and Chief Medical Officer    [21]
+--------------------------------------------------------------------------------
+So I cannot talk to how the awareness was created by CTI in detail. What I can tell you is they have very many patients treated with the drug. Also after the National Comprehensive Cancer Network had issued their guidelines on the full knowledge of the label. And so the treatment experience, the treatment pattern has been really now seen in many, many patients throughout the United States. And of course, through the scientific dialogue and the increasing data set, the confidence in the drug and especially the safety in the drug has been growing very readily and very significantly. We've personally talked to a number of external experts who have been using the drug. And again, the comfort level there is very high. So that's what I can say from the medical scientific perspective. And to the degree kind of who goes to transplant and who goes not. I don't have that data readily available. But if I can get it during the call, I will share that with you.
+
+--------------------------------------------------------------------------------
+Guido Oelkers,  Swedish Orphan Biovitrum AB (publ) - CEO & President    [22]
+--------------------------------------------------------------------------------
+Yes. And I think, to be honest, let's check our steps, and we will also look at it. But at this stage, I mean what we can say -- I mean just look at it, I mean this product now is less than a year on the market. This has been a company with -- that clearly comes from a clinical science background than try to basically become commercial with medical education and obviously, they did a lot of efforts, but it's also, I think, fair to say that this company also had to think about a lot about the burn rate and how to spend money wisely is committed to development. So I would not see that this is not indicative of what the product can do. It's more indicative of what the selling company in CTI could afford.
+And I think that is something that we met actually at various points of time in the diligence process that this is a company who is very skilled. They are very skilled individuals, and I have deep respect for what they have built up. But I think as everybody or many of you would also appreciate currently funding for companies that are not profitable, has not been easy in today's world. And that basically must have turned also some of their decisions. So we hope that by providing -- and you know that the JAK inhibitor market is pretty large and the leading one is selling $4 billion, which also and why most of that -- these sales are coming outside of the U.S., I mean at least more than 50%.
+So there there's a large opportunity and despite the limitation of JAK1 inhibition, clearly, products are used here. And this is, I think, where we see opportunities for VONJO when the message is more communicated that usage is broadened and the product becomes -- assert itself in its rightful place. So we'll provide you with the stats at the right time. But I think this is how you have to bring it probably into perspective.
+
+--------------------------------------------------------------------------------
+Operator    [23]
+--------------------------------------------------------------------------------
+The next question comes from the line of Peter Östling with Pareto Securities.
+
+--------------------------------------------------------------------------------
+Peter Östling,  Pareto Securities AS, Research Division - Life Science Analyst of Equity Research    [24]
+--------------------------------------------------------------------------------
+A couple of quick ones. When you look Guido, I think you mentioned -- talked a little bit alluded to the current consensus for the drug, when you look at those concerns, do you feel that they are like a best case scenario? Or do you expect -- what kind of comfort do you have when you look at those top line?
+
+--------------------------------------------------------------------------------
+Guido Oelkers,  Swedish Orphan Biovitrum AB (publ) - CEO & President    [25]
+--------------------------------------------------------------------------------
+I mean my base assumption is that those aspirations drive -- taking away certain discounts, but current valuation. And we pay the premium. So if we want to, let's say, create value for our shareholders, we need to find ways to create value beyond. That's my assumption. And therefore, let's say, I would see them also consensus as a base, and we would feel encouraged to add value beyond.
+
+--------------------------------------------------------------------------------
+Peter Östling,  Pareto Securities AS, Research Division - Life Science Analyst of Equity Research    [26]
+--------------------------------------------------------------------------------
+Okay. Great. I guess I think that CTI mentioned that they had around 1,000 patients on the drug at the end of '22. And I guess that most, if not all, of them belongs to the 1/3 bucket of the 20,000 so patients in the U.S. Is it so or are there other patients above the (inaudible) also treated today?
+
+--------------------------------------------------------------------------------
+Guido Oelkers,  Swedish Orphan Biovitrum AB (publ) - CEO & President    [27]
+--------------------------------------------------------------------------------
+Yes, they have actually quite a mix because the product has a broader utility based on the NCCN guidelines, as Tony pointed out, where the patients up to 100,000 platelets counts are covered. And that is also reflected in the mix of patients, whilst obviously the company is strictly adhering to promotions and labor.
+
+--------------------------------------------------------------------------------
+Anton Hoos,  Swedish Orphan Biovitrum AB (publ) - Head of R&D & Medical Affairs and Chief Medical Officer    [28]
+--------------------------------------------------------------------------------
+I just wanted to add something. It's a very interesting phenomenon we have here, which highlights the huge unmet medical need. The NCCN issued guidelines that go beyond the low platelet count of 50,000 because they saw that there is such an underserved community of patients. And so that's exactly why Guido's answer was spot on. The experts treat patients beyond more or above 50,000 as well because of the benefit. So it's a very interesting constellation where the scientific community is advancing very quickly and gaining more knowledge and broadening the use. And at the same time, of course, we have to create the data as a company as well to go in parallel.
+
+--------------------------------------------------------------------------------
+Peter Östling,  Pareto Securities AS, Research Division - Life Science Analyst of Equity Research    [29]
+--------------------------------------------------------------------------------
+Okay. Do you know -- the PERSIST-2 study included patients with total count below 100,000. Do you know why the label ended up just covering patients below 50,000?
+
+--------------------------------------------------------------------------------
+Anton Hoos,  Swedish Orphan Biovitrum AB (publ) - Head of R&D & Medical Affairs and Chief Medical Officer    [30]
+--------------------------------------------------------------------------------
+So I can refer to the regulatory correspondence. Obviously, we haven't been part there. The highest benefit has been seen in patients below 50,000 platelet counts. And we've seen a couple of other incredibly promising benefits, including no suppression of platelets and the lights, especially in this subset of the patients. So that -- there was simply a benefit risk assessment by the FDA seeing the highest benefit in this patient group, also realizing that there hasn't or up to today, there is no other drug licensed in this low platelet population.
+
+--------------------------------------------------------------------------------
+Peter Östling,  Pareto Securities AS, Research Division - Life Science Analyst of Equity Research    [31]
+--------------------------------------------------------------------------------
+Okay. Is the PACIFICA trial only including below 50,000 (inaudible).
+
+--------------------------------------------------------------------------------
+Anton Hoos,  Swedish Orphan Biovitrum AB (publ) - Head of R&D & Medical Affairs and Chief Medical Officer    [32]
+--------------------------------------------------------------------------------
+No, so the PACIFICA trial -- actually, you're right. The PACIFICA trial includes patients less than 50,000. That's exactly what they did.
+
+--------------------------------------------------------------------------------
+Peter Östling,  Pareto Securities AS, Research Division - Life Science Analyst of Equity Research    [33]
+--------------------------------------------------------------------------------
+Okay. Okay. Okay. And finally, as you know, one potential competitor to this drug will have a PDUFA date within a month or so, Momelotinib  from Sierra Oncology GLaxosmithKline. I just wanted to hear your view on that drug and if it consists competitive threat or not?
+
+--------------------------------------------------------------------------------
+Guido Oelkers,  Swedish Orphan Biovitrum AB (publ) - CEO & President    [34]
+--------------------------------------------------------------------------------
+I mean I think you should never underestimate a competitor who is coming and obviously, GSK is a formidable company. We studied the available data extensively. We see that the specificity of VONJO to -- and the effect size for patients below 50,000 makes it rather unique, and it is more JAK1 sparing from what we can see then the GSK compound. Tony, you want to comment on the view of the product?
+
+--------------------------------------------------------------------------------
+Anton Hoos,  Swedish Orphan Biovitrum AB (publ) - Head of R&D & Medical Affairs and Chief Medical Officer    [35]
+--------------------------------------------------------------------------------
+Yes. So first of all, of course, right, we'll have to see how the regulatory process goes and how the data works out. But when we look at the mode of action for Momelotinib, we know that there is also a JAK1 piece there, right? And so since we kind of have a unique differentiation there, also with some of the other pathways as I described, at least from the pathophysiological perspective, we would see still a quite distinct advantage subject to verification of course, as we go forward. So I think pathophysiological mode of action would speak for us, and the rest will have to see.
+
+--------------------------------------------------------------------------------
+Operator    [36]
+--------------------------------------------------------------------------------
+The next question comes from the line of  Alistair Campbell with RBC.
+
+--------------------------------------------------------------------------------
+Alistair David Campbell,  RBC Capital Markets, Research Division - Analyst    [37]
+--------------------------------------------------------------------------------
+Actually, I'm going to start again with Momelotinib if I can. They've talked a lot about utility in patients that have anemia as a key differentiator versus the other JAKs that are approved. But also CTI put some very good data as last year on anemia and ACVR1. So I'm just intrigued to know how you think you're able to utilize that sort of fend off Momelotinib when it comes to market? And then just a bit of a follow-up on PACIFICA. I think CTR were having some recruitment issues. So just can you confirm when you think that trial is set to read out on its primary endpoint and also when you think it might read out for that secondary endpoint of overall survival. And then finally, can I just ask and just a clarification on the royalty situation. Could you just clarify all the royalty pay aways that exist on the product on VONJO?
+
+--------------------------------------------------------------------------------
+Guido Oelkers,  Swedish Orphan Biovitrum AB (publ) - CEO & President    [38]
+--------------------------------------------------------------------------------
+Yes. I mean, maybe I'll start with the first view at Anemia. I think whilst we are not licensed, obviously, the data that have been published at ASH are quite enticing. And  we will look at this opportunity. It's less of a commercial reality today, but it could be an opportunity for tomorrow. And we understand that this is an area, obviously, where GSK particular things is the opportunity for their product. And maybe, Tony, you can provide your view from a different medical differentiation perspective.
+
+--------------------------------------------------------------------------------
+Anton Hoos,  Swedish Orphan Biovitrum AB (publ) - Head of R&D & Medical Affairs and Chief Medical Officer    [39]
+--------------------------------------------------------------------------------
+Yes. I would simply repeat what I said before. I believe from a mode of action, there is differentiation very clearly. And I have every reason to believe at this point in time that will show also in the clinical outcomes. But again, we'll have to see that. To the other question, PACIFICA. So just to recap, the commitment was by CTI to enroll 400 patients. As of today, the company has enrolled about 150 patients. So that means there is quite some way to go. There have been several statements by the company by when they want it completed. My guess at this point in time is we are a couple of years out for the completion of the study.
+And there have been a few tools deployed, including increasing centers. They've obviously suffered from COVID and they have a number of European sites, which hasn't made life easier due to the political war kind of type situation in some of these countries. So what we will do, and that's probably the best answer I can give you. As I said, we look very carefully into which sites are productive, which sites are not, and we'll make an effort to increase the speed of this trial. But at this stage, it's really too early to give you a final time line. My best guess, we're a few years out in order to both have a reading of each of the primary end points that I believe was your question. So if you ask us that question in 2 or 3 months, then I think we have a pretty good end on the progress of this study.
+
+--------------------------------------------------------------------------------
+Guido Oelkers,  Swedish Orphan Biovitrum AB (publ) - CEO & President    [40]
+--------------------------------------------------------------------------------
+Thank you, Tony. And maybe on the royalty, we have Henrik who can provide you an account.
+
+--------------------------------------------------------------------------------
+Henrik Stenqvist,  Swedish Orphan Biovitrum AB (publ) - CFO    [41]
+--------------------------------------------------------------------------------
+Yes. So the royalty expired in February 2023. Yes, the buyback, yes.
+
+--------------------------------------------------------------------------------
+Operator    [42]
+--------------------------------------------------------------------------------
+The next question comes from the line of Mattias Häggblom with Handelsbanken.
+
+--------------------------------------------------------------------------------
+Mattias Häggblom,  Handelsbanken Capital Markets AB, Research Division - Research Analyst    [43]
+--------------------------------------------------------------------------------
+I have 2, please. So firstly, likely for Henrik. So with regards to the fully diluted number of shares beyond outstanding shares and options, there seems to be roughly 30 million additional shares or USD 300 million worth of value to get to the equity value of SEK 1.7 billion you referenced. So to the last part, it's not crystal clear to me what it represents. So any color on that would be helpful, whether that's related to the royalty rights or what contractual liabilities that may represent? And then secondly, I know we're going to read more about this in the SSE filing in a few weeks, but I'm curious to understand when the dialogue started between you and the company?
+
+--------------------------------------------------------------------------------
+Guido Oelkers,  Swedish Orphan Biovitrum AB (publ) - CEO & President    [44]
+--------------------------------------------------------------------------------
+I mean maybe I'll start with this. We have been following the company for quite a while. And we wanted to get -- as we would do with so many other companies, and we have started the dialogue in lens in February this year, but this was more of an exploratory discussion. And then obviously, it's intensified over the last couple of weeks. And obviously, you will see the script, and this is all opened up. Henrik, you want to talk about the $300 million?
+
+--------------------------------------------------------------------------------
+Henrik Stenqvist,  Swedish Orphan Biovitrum AB (publ) - CFO    [45]
+--------------------------------------------------------------------------------
+Yes. So in addition to the basic shares outstanding, there is about 53 million shares related to options and convertible notes mainly.
+
+--------------------------------------------------------------------------------
+Operator    [46]
+--------------------------------------------------------------------------------
+The next question comes from the line of Viktor Sundberg with Nordea.
+
+--------------------------------------------------------------------------------
+Viktor Sundberg,  Nordea Markets, Research Division - Senior Analyst    [47]
+--------------------------------------------------------------------------------
+Maybe a first one here on the myelofibrosis market. So pacritinib is contraindicated for moderate or severe liver impairment or kidney disease. What is your feeling of how many patients with a low platelet count that could be contraindicated for this drug in this population? That would be helpful. And also here in first-line patients with a low platelet count. What kind of opportunity is this when you have done your due diligence? It would be interesting to hear conclusions in the first-line opportunity. And also if you can compare it to Jakafi maybe in that part of --
+
+--------------------------------------------------------------------------------
+Guido Oelkers,  Swedish Orphan Biovitrum AB (publ) - CEO & President    [48]
+--------------------------------------------------------------------------------
+Yes. I mean we will -- what I can tell you is, essentially, we look at this as an opportunity low platelet count in the U.S., give and take $1.2 billion to $1.4 billion. And then basically, as we said, there will be some utility in this higher platelet count opportunity. I mean the company, I think, is referring to the addressable market for the product, the seller at $3 billion, let's say, my proposals for them. At this stage, we probably will not provide more guidance to how to size each of those segments at this juncture. But I think that gives you a ballpark where this market, I think, is. And obviously, we would feel quite encouraged to take in the low platelet count a significant share. And this ends in obviously trying to take this company with this product and company international to basically take advantage of other markets and patient numbers.
+
+--------------------------------------------------------------------------------
+Viktor Sundberg,  Nordea Markets, Research Division - Senior Analyst    [49]
+--------------------------------------------------------------------------------
+And in Europe, I noticed that this product was withdrawn earlier. But do you plan to resubmit an application here before the confirmatory trial? Or do you need more patient-reported outcomes before you can refile it in Europe, so to speak?
+
+--------------------------------------------------------------------------------
+Guido Oelkers,  Swedish Orphan Biovitrum AB (publ) - CEO & President    [50]
+--------------------------------------------------------------------------------
+Yes. I think we have invested interest to take the product given the high unmet medical need also to European patients. And at this stage, I think what -- before we have been able to conclude this transaction and close it, I don't think it's appropriate for us to engage the regulator. We were going to do this. And once we have engaged the regulator and basically really understood what we can do as a company because the evidence has been generated, looks pretty compelling to us, and then basically discuss whether the confirmatory trial is really mandatory or whether there are other pathways to achieve faster licensing.
+
+--------------------------------------------------------------------------------
+Operator    [51]
+--------------------------------------------------------------------------------
+The next question comes from the line of Emmanuel Papadakis with Deutsche Bank.
+
+--------------------------------------------------------------------------------
+Emmanuel Douglas Papadakis,  Deutsche Bank AG, Research Division - Research Analyst    [52]
+--------------------------------------------------------------------------------
+Guido or Henry, perhaps a question around margin implications. You understandably haven't given us any specific synergy targets. You haven't really talked about accretion. Perhaps you can help us with where margins go midterm? You've previously some time ago talked about getting to back above 40% by 2025. So does this deal increase your certainty of achieving that? Does it perhaps even offer a significant upside to that ambition? And then a second question on the funding. Apologies if I missed it, the 50% equity funding, how fixed is that 50% target ratio? Will you calibrate it according to market conditions. Today, you alluded to on the results call the other day, potential monetization of [Bamlanivimab] royalty stream. Could that potentially be used to adjust the size of the intended raise? And you've hopefully disclosed AB will participate. Can you give us any opinion on AstraZeneca's intentions?
+
+--------------------------------------------------------------------------------
+Guido Oelkers,  Swedish Orphan Biovitrum AB (publ) - CEO & President    [53]
+--------------------------------------------------------------------------------
+Thank you. And with regard to margin, I mean I'll give you the first chart. Basically, the way you have to look at this product is obviously -- given it's a small molecule and the cost of manufacturing of costs are relatively low. So it's going to be very -- going to yield a very positive impact once with material size on our gross margin. And given the fact that the product is extremely complementary to what we are currently doing and also the size of the (inaudible) and rare disease and to the size or what the company is currently spending in this play field. We think that's also obviously going to be accretive, as we said earlier on the earnings side. And so that, clearly, when you look at this, this basically makes us more optimistic with our reaching -- coming closer to our ambition. We are not -- it's not the time to now to tell you what it is exactly. Henrik, you want to comment on this?
+
+--------------------------------------------------------------------------------
+Henrik Stenqvist,  Swedish Orphan Biovitrum AB (publ) - CFO    [54]
+--------------------------------------------------------------------------------
+No, I think it's exactly right what you say. Of course, this will be accretive notably to the margin, but it will bring us closer to the ambition. So I just add to what you saying.
+
+--------------------------------------------------------------------------------
+Guido Oelkers,  Swedish Orphan Biovitrum AB (publ) - CEO & President    [55]
+--------------------------------------------------------------------------------
+Yes. So we will not set out now, let's say, this target. And I think at this juncture, what we said is we want to -- and Henrik pointed this one out with the financing, we want to raise $8 billion of equity financing the rest by debt. That's our ambition. We know that our main shareholder has already committed their part. We have not discussed this given also the time frame for this transaction, which was rather short term. And if there is any other shareholders, we hope that the shareholders will follow our rationale. And we have, at this stage, not contemplated to use the (inaudible) royalty stream.
+And I think just -- I'm not saying that we would not do this one day but we are not contemplating on how to leverage this. But I think when you just detect yourself -- I mean I could personally quite like the (inaudible) with my variety stream, as it will bolster obviously our overall capacity. But if we would do so, we probably would do so once the product gets approved because clearly, when the conditions would be much more favorable for us. And we could probably yield much higher returns on it. So I think it's more speculative at this stage. So we wanted to do a conservative way of funding it, trying to raise close to 50% with equity, and at least our main shareholders is very excited about this opportunity. And hopefully, once we have the prospectus out and reach out to other shareholders, they will share this excitement. Henrik, do you want to comment?
+
+--------------------------------------------------------------------------------
+Henrik Stenqvist,  Swedish Orphan Biovitrum AB (publ) - CFO    [56]
+--------------------------------------------------------------------------------
+No. It's the usual way of raising equity, as I said. We feel that we have a very strong support with the main shareholder undertaking to subscribe for close to 35% of the issuance.
+
+--------------------------------------------------------------------------------
+Guido Oelkers,  Swedish Orphan Biovitrum AB (publ) - CEO & President    [57]
+--------------------------------------------------------------------------------
+Yes. Maybe we have room for our last question today. And then we may want to consider and we'll see how -- when there's a good time for this, maybe to have an informal session, again, like we typically do after the quarterly events because I can sense that there may be more questions. And for us, it's obviously very important that we bring you into the situation to fairly to give this as adjusted in this transaction because we -- as you may sense, we have thought about this a little bit. And this is not something that fell from out of nowhere. And we feel very passionate about this asset that this will be the right asset for the company. Yes. So maybe one more question, and then we probably close this session.
+
+--------------------------------------------------------------------------------
+Operator    [58]
+--------------------------------------------------------------------------------
+The last question for today will be a follow-up question from Christopher Uhde with SEB.
+
+--------------------------------------------------------------------------------
+Christopher Winston Uhde,  SEB, Research Division - Analyst    [59]
+--------------------------------------------------------------------------------
+Maybe you've kind of asked this, but I think this was kind of asked, but maybe we'll ask it in a slightly different way. So up to 50% of the value could be covered by a rights issue. So 0 to 50% is a big interval, what factors would impact that range? And is further M&A a factor? And I guess then also just what can you say about transaction fees and loan costs?
+
+--------------------------------------------------------------------------------
+Henrik Stenqvist,  Swedish Orphan Biovitrum AB (publ) - CFO    [60]
+--------------------------------------------------------------------------------
+So what would be the factors influencing the size of the rights issue? So yes, it would be market conditions, price, rebates, participation.
+
+--------------------------------------------------------------------------------
+Guido Oelkers,  Swedish Orphan Biovitrum AB (publ) - CEO & President    [61]
+--------------------------------------------------------------------------------
+Yes. So, we have to make a perspective. And then obviously, people will elect or not. And that's basically -- what basically will.
+
+--------------------------------------------------------------------------------
+Henrik Stenqvist,  Swedish Orphan Biovitrum AB (publ) - CFO    [62]
+--------------------------------------------------------------------------------
+And then as usual, there will be a possibility also to subscribe without the preferential rights.
+
+--------------------------------------------------------------------------------
+Guido Oelkers,  Swedish Orphan Biovitrum AB (publ) - CEO & President    [63]
+--------------------------------------------------------------------------------
+Yes. So I think maybe what we do is because we don't want to shortchange anybody. We will come back to you shortly with a proposal for another session. And if we don't have too many questions, we can keep it short. But at least, I want to be respectful that many of you have other appointments booked today. And thank you for your interest. And if you need any other information in the meantime, please reach out to our IR or to Henrik or myself and to [Camellia]. And basically, we are here to make sure that you get the right information to do your job and obviously, we have a vested interest that you give justice -- you are in a position to give justice to this asset. Anyway, thank you so much for your attention and for your time, and I wish you a great day. Yes. Thank you.
+
+--------------------------------------------------------------------------------
+Operator    [64]
+--------------------------------------------------------------------------------
+Ladies and gentlemen, the conference is now over. Thank you for choosing Chorus Call, and thank you for participating in the conference. You may now disconnect your lines. Goodbye.
+
+
+
+
+
+
+
+--------------------------------------------------------------------------------
+Definitions
+--------------------------------------------------------------------------------
+PRELIMINARY TRANSCRIPT: "Preliminary Transcript" indicates that the 
+Transcript has been published in near real-time by an experienced 
+professional transcriber.  While the Preliminary Transcript is highly 
+accurate, it has not been edited to ensure the entire transcription 
+represents a verbatim report of the call.
+
+EDITED TRANSCRIPT: "Edited Transcript" indicates that a team of professional 
+editors have listened to the event a second time to confirm that the 
+content of the call has been transcribed accurately and in full.
+
+--------------------------------------------------------------------------------
+Disclaimer
+--------------------------------------------------------------------------------
+Refinitiv reserves the right to make changes to documents, content, or other 
+information on this web site without obligation to notify any person of 
+such changes.
+
+In the conference calls upon which Event Transcripts are based, companies 
+may make projections or other forward-looking statements regarding a variety 
+of items. Such forward-looking statements are based upon current 
+expectations and involve risks and uncertainties. Actual results may differ 
+materially from those stated in any forward-looking statement based on a 
+number of important factors and risks, which are more specifically 
+identified in the companies' most recent SEC filings. Although the companies 
+may indicate and believe that the assumptions underlying the forward-looking 
+statements are reasonable, any of the assumptions could prove inaccurate or 
+incorrect and, therefore, there can be no assurance that the results 
+contemplated in the forward-looking statements will be realized.
+
+THE INFORMATION CONTAINED IN EVENT TRANSCRIPTS IS A TEXTUAL REPRESENTATION
+OF THE APPLICABLE COMPANY'S CONFERENCE CALL AND WHILE EFFORTS ARE MADE TO
+PROVIDE AN ACCURATE TRANSCRIPTION, THERE MAY BE MATERIAL ERRORS, OMISSIONS,
+OR INACCURACIES IN THE REPORTING OF THE SUBSTANCE OF THE CONFERENCE CALLS.
+IN NO WAY DOES REFINITIV OR THE APPLICABLE COMPANY ASSUME ANY RESPONSIBILITY FOR ANY INVESTMENT OR OTHER
+DECISIONS MADE BASED UPON THE INFORMATION PROVIDED ON THIS WEB SITE OR IN
+ANY EVENT TRANSCRIPT. USERS ARE ADVISED TO REVIEW THE APPLICABLE COMPANY'S
+CONFERENCE CALL ITSELF AND THE APPLICABLE COMPANY'S SEC FILINGS BEFORE
+MAKING ANY INVESTMENT OR OTHER DECISIONS.
+--------------------------------------------------------------------------------
+Copyright 2023 Refinitiv. All Rights Reserved.
+--------------------------------------------------------------------------------

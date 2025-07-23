@@ -1,0 +1,343 @@
+
+
+Refinitiv StreetEvents Event Transcript
+E D I T E D  V E R S I O N
+
+Amylyx Pharmaceuticals Inc To Discuss the Acquisition of Avexitide
+July 10, 2024 / 12:00PM UTC
+
+================================================================================
+Corporate Participants
+================================================================================
+
+ * Lindsey Allen
+   Amylyx Pharmaceuticals Inc - IR Contact Officer
+ * Justin Klee
+   Amylyx Pharmaceuticals Inc - Co-Chief Executive Officer, Director
+ * Joshua Cohen
+   Amylyx Pharmaceuticals Inc - Co-Chief Executive Officer, Director
+ * Camille Bedrosian
+   Amylyx Pharmaceuticals Inc - Chief Medical Officer
+ * James Frates
+   Amylyx Pharmaceuticals Inc - Chief Financial Officer
+
+================================================================================
+Conference Call Participants
+================================================================================
+
+ * Operator
+   
+ * Karin Johnson
+   Goldman Sachs Group Inc - Analyst
+ * Michael Cherny
+   Evercore ISI Institutional Equities - Analyst
+ * Graig Suvannavejh
+   Mizuho Securities USA LLC - Analyst
+ * Charlie Yang
+   BofA Securities, Inc. - Analyst
+ * Joel Beatty
+   Robert W. Baird & Co Inc - Senior Research Analyst
+ * Ananda Ghosh
+   H.C. Wainwright & Co., LLC - Analyst
+
+================================================================================
+presentation
+--------------------------------------------------------------------------------
+Operator,     [1]
+--------------------------------------------------------------------------------
+Good morning, ladies and gentlemen. My name is Shareen and I will be your conference operator today. At this time, I would like to welcome everyone to the Amylyx Pharmaceuticals conference call, to discuss the acquisition of exenatide. (Operator Instructions) Please be advised that this call is being recorded at the company's request. I would now like to turn the call over to Lindsey Allen, Head Investor Relations and Communications. Please proceed.
+--------------------------------------------------------------------------------
+Lindsey Allen, Amylyx Pharmaceuticals Inc - IR Contact Officer    [2]
+--------------------------------------------------------------------------------
+Good morning, and thank you all for joining us today to discuss the acquisition of Avexitide and Novel GLP-1 receptor antagonist and the development for the treatment of hyperinsulinemic hypoglycemia. With me on the call today are Josh Cohen and Justin Klee, our Co-CEOs; Dr. Camille Bedrosian, our Chief Medical Officer; and Jim Frates, our Chief Financial Officer.
+Before we begin, I would like to remind everyone that any statements we make or information presented on this call that are not historical are forward-looking statements. That are based on our current belief, plans and expectations and are made pursuant to the safe harbor provisions of the Private Securities Litigation Reform Act of 1995. This statements include, but are not limited to.
+Our expectations with respect to have exited Avexitide AMX0035 and [AMX0114]. Statements regarding regulatory and clinical development and the impact there of and the expected timing thereof. Actual events and results could differ materially from those expressed or implied by any forward-looking statements. You are cautioned not to place any undue reliance on these forward-looking statements, and Amylyx disclaims any obligation to update such statements unless required by law.
+Now I will turn the call over to Justin.
+--------------------------------------------------------------------------------
+Justin Klee, Amylyx Pharmaceuticals Inc - Co-Chief Executive Officer, Director    [3]
+--------------------------------------------------------------------------------
+Thank you, Lindsay, and thank you for joining us today. Over the last few years, we have assessed hundreds of assets with the potential to complement our exciting pipeline. We evaluated each opportunity to determine if it aligned with our existing scientific strategic criteria of a well-defined mechanistic rationale, clear clinical outcomes and biomarkers and a foundation of rigorous preclinical data.
+We also evaluated whether we could leverage our expertise to bring new potential treatments to communities with high unmet needs. Following that extensive process, we are excited today to announce the acquisition of Avexitide and asset that meets all of our criteria.
+Avexitide is particularly exciting for the following four reasons. First, Avexitide targets important well-characterized biology, the GLP-1 receptor, yet has the potential to be the first in its class. The GLP-1 receptor is one of the key regulators of the glucose insulin response and an imbalance in this response, hyperinsulinemic hypoglycemia underlies several conditions and diseases. Avexitide is a novel glucagon-like peptide-1 or GLP-1 receptor antagonist, with the potential to treat diseases associated with hyperinsulinemic hypoglycemia.
+So far Avexitide has been studied in two indications that are characterized by hyperinsulinemic hypoglycemia, post-bariatric hypoglycemia or PBH, and congenital hyperinsulinism or congenital HI. Avexitide has shown great promise to treat both conditions and as a result, has FDA breakthrough therapy designation in both indications.
+As is been shown with GLP-1 receptor agonism, we believe there are likely other indications that may be treated with GLP-1 receptor antagonism as well. Second, we believe have exited a Phase 3 ready asset. There is agreement with FDA on a primary outcome for the pivotal Phase 3 study for PBH and Avexitide has already met that outcome in two prior Phase 2 studies.
+The outcome reduction in hypoglycemic events is clearly linked to GLP-1 receptor antagonism and supported by a wealth of prior clinical studies in people with PVH. In all of these studies Avexitide was generally well tolerated with a favorable safety profile. Our team also performed rigorous diligence on toxicology as well as pharmaceutical quality and CMC.
+Third, post-bariatric hypoglycemia or PBH, is a significant but orphan condition with no approved treatment options. PBH is a debilitating condition characterized by hypoglycemia that affects some people who have undergone bariatric surgery. And we estimate that there are currently about 160,000 people with PBH in the United States. Today, we will be walking through the data supporting of Exenatide for the treatment of PBH and our plans to initiate a pivotal Phase 3 program in PBH in Q1 of next year.
+And fourth, wall Avexitide represents a new therapeutic area for us outside of neurodegenerative diseases. It aligns with our pipeline focus on delivering important potential treatment options to communities with high unmet needs. This opportunity enables us to strategically draw on our expertise and relationships gained through our Wolfram syndrome program. We are excited to guide the continued clinical development of this asset.
+In summary Avexitide has the potential to be a first-in-class GLP-1 antagonist for the treatment of hyperinsulinemic hypoglycemia. Avexitide has breakthrough status in two indications, post-bariatric hypoglycemia and congenital hyperinsulinism, and it can move rapidly into Phase 3.
+Now I'd like to turn the call over to Josh.
+--------------------------------------------------------------------------------
+Joshua Cohen, Amylyx Pharmaceuticals Inc - Co-Chief Executive Officer, Director    [4]
+--------------------------------------------------------------------------------
+Thanks, Justin. Bariatric surgery is a common approach to treating obesity. Over the past 10 years, approximately 2 million people in the US have undergone bariatric surgery, more than 200,000 new procedures are performed every year. This is important to keep in mind, since PBH can develop in a subpopulation of people who received bariatric surgery, one to three years and in some cases, even longer post-surgery.
+Despite the introduction of GLP-1 receptor agonists for weight loss, bariatric surgery, is expected to remain a cornerstone for weight-loss therapy. Bariatric surgery is highly effective and results in substantial and generally sustained weight loss, particularly for people with higher BMIs. Evidence also suggests the surgery reduces the risk of cardiovascular events and the severity of metabolic dysfunction associated liver disease.
+As a onetime option, bariatric surgery is often covered by insurance and cost effective for eligible patients. Importantly, surgery and GLP-1 agonists may be combined, especially for people with higher BMIs. PBH is a potentially life-threatening condition affecting people who have undergone bariatric surgery, characterized by hyperinsulinemic hypoglycemia, following a meal.
+Symptomatic PBH can cause severe hypoglycemic events associated with brain glucose starvation known as neuroglycopenia, including impaired cognition, loss of consciousness and seizures. PBH is associated with a high degree of disability and kineret result in major disruptions to life, including falls, cardiac arrhythmias, motor vehicle accidents and job and income loss.
+There are no approved therapies for PBH, and despite dietary modification and off-label use of acarbose, octreotide and/or diazoxide symptoms persist for many people. Here we highlight the impact of PBH on the lives of those living with that. As I mentioned over the past 10 years, approximately 2 million people in the US have undergone the two most common types of bariatric surgery. We estimate that 8% or approximately 160,000 people, our currently living with symptomatic PBH.
+On the right side of the slide, you'll read statements from people living with PBA. I'll give you a moment to read through those testimonials. As you can see, PBH is a debilitating condition.
+I'll now pass the call to Camille to provide an overview of PBH's pathology of Avexitide's mechanistic rationale and the data supporting our excitement for this asset.
+--------------------------------------------------------------------------------
+Camille Bedrosian, Amylyx Pharmaceuticals Inc - Chief Medical Officer    [5]
+--------------------------------------------------------------------------------
+Thank you, Josh. Before discussing data related to the investigational peptide Avexitide, I will start by reviewing the GLP-1 receptor pathway and how Avexitide is believed to act on this pathway at the cellular level. I will then review how the GLP-1 receptor pathway is alternative PBH and how Avexitide is designed to modulate this disturbance.
+Turning to slide 8. As background, the GLP-1 receptor pathway in the beta cell of the pancreas. Mediates blood glucose levels via insulin secretion. Specifically, when GLP-1 binds and activates the GLP-1 receptor, production of cyclic AMP is increased, which in turn activates downstream pathways, that lead to insulin secretion. Here we see in the beta cell diagram that Avexitide also binds to the GLP-1 receptor on the pancreatic beta cell, and inhibits our antagonizes receptor activation. This can lead to lowering cyclic AMP levels, which in turn decreases insulin secretion. Please keep this point in mind when I review the preclinical data.
+Now let's look at how the cellular pathway we just reviewed is impacted by bariatric surgery leading to PBH. After eating a meal our intestines release hormones, including GLP-1 proportional to the size of the meal, which is known as the increase in response. When a person with PBH eats a meal, the ingested nutrients bypass the stomach and are rapidly delivered further down in the GI tract with a majority of the endocrine L cells are located.
+The increased new channel flow registers in the body as a larger meal leading to increased GLP-1 release from the L cells. In turn GLP-1 binds to its receptor on beta cells. The resulting overproduction of GLP-1 can lead to hyper secretion of insulin. This insulin overproduction relative to the meal size results in hypoglycemia or low blood sugar levels and can manifest in autonomic and neuroglycopenia symptom.
+As you heard from John, the consequences can include cardiac arrhythmias, weight gain, seizures and clouded thinking that could lead to motor vehicle accidents or miss work and overall decreased quality of life. By binding to the GLP-1 receptor and blocking the effect of excessive GLP-1 the antagonist Avexitide is believed to decrease insulin secretion, stabilize glucose levels and hence mitigate hypoglycemia, potentially treating PBH.
+In cellular models Glp-1 receptor antagonist Avexitide has repeatedly shown inhibition of the GLP-1 receptor in a dose-dependent manner. Specifically, as shown in the diagram on the left by backing the GLP-1 receptor -- treatment with exenatide resulted in a decrease in intracellular cyclic AMP. As we discussed earlier in relation to the beta-cell diagram of the GLP-1 receptor pathway on slides 8 and 9.
+Similarly, in the figure on the right, GLP-1 receptor antagonism plus the GLP-1 receptor, thereby decreasing insulin secretion in a relevant beta cell model. As shown on slide 13, Avexitide decreased plasma insulin and mitigated hypoglycemia and studies of different animal models of hypoglycemia. Avexitide also has demonstrated pharmacological activity in people living with PBH. For clinical studies of PBH replicated the findings from the preclinical studies looking at the same biomarkers, namely plasma insulin and glucose.
+Let's start by looking at plasma insulin. Insulin biomarker results of several Phase 1 and Phase 2 studies of both IV and subcutaneous Avexitide after an oral glucose or mixed meal tolerance test are shown here. Specifically shown in the upper panel, Avexitide significantly decreased Infone levels in Phase 1. Single ascending dose studies and a multiple ascending dose study in people with PBH.
+Furthermore, shown in the lower panel in the Phase 2 clinical trial in people with PBH, comparing Avexitide with placebo, peak Infone was reduced by 23% with a significant p-value of 0.029 filing Avexitide 30 milligrams twice per day. Similarly, peak insulin was reduced by 21% which is a significant p-value of 0.042 following of Avexitide 60 milligrams daily.
+On the next slide, we will review the glucose biomarker results from the same study. The data shown here indicate that treatment with Avexitide, led to consistent and significant normalization of plasma glucose nadir, that is the lowest glucose level. Focusing in on the Phase 2 study shown in the lower panel following Avexitide 30 milligrams twice per day, meaning plasma glucose nadir increased by 21% with a significant P-value of 0.001. With Avexitide 60 milligrams daily mean plasma glucose nadir increased by 26% with a significant P-value of 0.0002. To reiterate, both the insulin and glucose results were replicated across multiple independents study.
+In addition to these compelling data, and as Justin, noted earlier Avexitide also has FDA breakthrough therapy designation. We believe have Avexitide is poised to move rapidly into a pivotal Phase 3 program in PBH. The FDA has already provided feedback on a potential Phase 3 program to its former owner Eiger BioPharmaceuticals.
+Specifically this feedback into the comments on the proposed Phase 3 design including endpoints and sample size. Importantly, we believe that a single study can be the basis for approval based on our review of the FDA. We have reviewed this feedback in detail and believe that we can quickly initiate a well-run roughly designed Phase 3 program.
+We plan to use the FDA agreed-upon endpoints of composite of level two and level three hypoglycemia event. FDA guidance for industry for diabetes also supports this endpoint as a potential approvable endpoint. Level two and level three hypoglycemia events were measured in the Phase 2 and Phase 2b studies, and were reduced with high statistical significance.
+Now I will discuss these meaningful results in more detail. We discussed the Phase 2 prevent study earlier, it was a randomized placebo-controlled crossover study to evaluate efficacy and safety of subcutaneous of Avexitide for treatment of PBH. As shown at the top of the slide, this trial included 18 female participants with PBH, who were given placebo for 14 days, followed by Avexitide 30 milligrams twice per day or 60 milligrams daily each for 14 days in random order.
+As summarized in the table, in addition to meeting a prespecified primary outcome of stabilizing glucose levels that we reviewed earlier. Avexitide demonstrated statistically significant reductions in rates of hypoglycemia events, regardless of the intensity of the symptom. Notably Avexitide 60 milligrams daily reduced events by more than half. We plan to measure hypoglycemia events as the primary endpoint for our Phase 3 program.
+Now I would like to summarize the data from the Phase 2 investigator-initiated crossover study of 16 participants of PBH. The Phase 2b study tested a 50% higher dose and Phase 2, the schematic is at the top of the slide. As shown in the table, above 45 milligrams twice per day and 90 milligram daily subcutaneous Avexitide significantly reduced severe hypoglycemia events.
+The 45 milligram twice per day Avexitide does significantly decreased Level two hypoglycemia events by 57% with a p-value of 0.003 and level three events by 68%, with a p-value of 0.0003. The 90 milligram daily Avexitide dose significantly decreased level two hypoglycemia events by 53% with a P-value of 0.004 and level three events by 66%, with a p-value of 0.0003.
+These results were both statistically significant and highly clinically meaningful. Given the totality of these data and FDA feedback, we plan to use a composite of level two and level three hypoglycemia events as the primary outcome in our Phase 3 program. Regarding safety of Avexitide was generally well tolerated with a favorable safety profile across all clinical studies to date, with both Phase 2 studies shown here.
+In the Phase 2 prevent study, there were no reported treatment related serious adverse events. And in the Phase 2b study, there were no reported serious adverse events. Adverse events across both studies were mostly mild to moderate in intensity and resolved without pharmacological intervention. The most common adverse events included diarrhea, headache, bloating and injection-site reaction and bruising. No participant withdrew due to adverse events. Furthermore, no clinically relevant increases were observed in fasting or peak postprandial plasma glucose levels.
+On slide 20, we show Phase 2b participant testimonials. Presented by Dr. [Marilyntan] at endo 2022. Please take the time now to read through these testimonials, I'll pause here for a few moments. These comments support the positive impact that Avexitide had on these individuals.
+In conclusion, here is a graph that summarizes in one figure the key Phase 2 and Phase 2b study results that we just discussed. Data from both studies of exenatide and people with PBH demonstrated highly statistically significant reductions in severe hypoglycemia events. Treatment with Avexitide 60 milligrams daily, 45 milligrams twice per day, and 90 milligrams daily reduced hypoglycemia events by more than 50%. You can see the consistent dose-dependent effects across study.
+These data form the basis of the pivotal study discussions with the FDA. We believe these results further strengthen our ability to deliver a well-run thoughtfully designed Phase 3 program. Specifically, the planned Phase 3 program will evaluate subcutaneous Avexitide 90 milligrams daily and people living with PBH. The primary endpoint is planned to be a composite of level two and level three hypoglycemia events.
+I will now turn over the call to Jim, to discuss the next steps on this exciting program. Jim?
+--------------------------------------------------------------------------------
+James Frates, Amylyx Pharmaceuticals Inc - Chief Financial Officer    [6]
+--------------------------------------------------------------------------------
+Thanks, Camille. We expect to initiate the Phase 3 program that Camille just outlined in Q1 2025. We believe that we can complete recruitment in 2025, positioning us to read out top line data from the program in 2026. We will be planning for a commercial launch in 2027 and have adding rights on Avexitide through 2037 with the potential for additional patent life through patent term extension.
+Turning briefly to the financial terms of the deal, we paid $35.1 million for Avexitide using our cash on hand. As part of the transaction, we assumed the license agreement with an academic institution that includes a 3% royalty on future sales of Avexitide and PBH, if approved. We believe these are favorable terms for a unique asset with a compelling dataset from two Phase 2 studies, we can move rapidly into a Phase 2 program and PBH. An indication with no approved treatment options impacting approximately 160,000 people in the United States today.
+With regards to our cash runway, as we design and build our expected Phase 2 program for Avexitide over the coming weeks. We will have more specificity on our cash runway. Our plan is to manage the company to ensure that we can reach our key milestones ahead. For $373 million of cash, we had as of March 31, 2024, provides us with ample capital to achieve a number of important milestones that are upcoming across our pipeline.
+This fall, we expect to have new data from our ongoing well from study. Prior to this, we plan to meet with the FDA to discuss next steps in the Wolfarm program. For the end of the year, we expect to initiate our multiple ascending dose trial of AMX0114 in people living with ALS. And we're also expecting interim analysis of our PSP study to read out in mid-2025. So you can see we have significant resources and a number of key milestones coming in 2024 and 2025.
+I'll now turn the call over to Josh.
+--------------------------------------------------------------------------------
+Joshua Cohen, Amylyx Pharmaceuticals Inc - Co-Chief Executive Officer, Director    [7]
+--------------------------------------------------------------------------------
+Thank you, Jim. We believe that exenatide is a compelling addition to our pipeline based on the highly statistically significant preclinical data that were replicated across five clinical studies. Particularly the data from two Phase 2 studies in people with PBH, demonstrating highly statistically significant reductions in severe hypoglycemic events, an endpoint that is supported by the FDA as a potential approvable outcome.
+This acquisition builds on our areas of expertise in the endocrine space gained through our Wolfram program. And is quite transformational for Amylyx. Expanding our pipeline outside of neurodegenerative disease with an asset that received FDA's breakthrough therapy designation.
+PBH is a debilitating condition with no approved treatment options. As we discussed today, the impact of PBH on patients' lives can be disabling, and in some cases it can be life-threatening. We are planning on initiating the Phase 3 trial of Avexitide in Q1 2025, with data expected in 2026. And we continue or we look forward to continuing to share updates on this new program as we aim to quickly and efficiently advance of Avexitide through clinical development and then commercialization.
+Now I would like to open the call up for Q&A.
+
+================================================================================
+q-and-a
+--------------------------------------------------------------------------------
+Operator,     [1]
+--------------------------------------------------------------------------------
+(Operator Instructions)
+Karin Johnson, Goldman Sachs.
+--------------------------------------------------------------------------------
+Karin Johnson, Goldman Sachs Group Inc - Analyst    [2]
+--------------------------------------------------------------------------------
+Morning, guys. Maybe a couple from us. First, could you provide some more detail on the nature of the patents that exist around this asset? And maybe second, could you just talk to us about the dose selection of 90 [mix]. I think there's a couple of different doses study that -- I'd be curious how you are thinking about that dose selection? Thanks.
+--------------------------------------------------------------------------------
+Joshua Cohen, Amylyx Pharmaceuticals Inc - Co-Chief Executive Officer, Director    [3]
+--------------------------------------------------------------------------------
+Yeah, absolutely. So we did a full review on the IP portfolio. There's kind of multiple patents on supporting this asset, including a patent on the method of use, patents on the formulation and various other patents. We believe there's strong patent protection through 2037 with the potential for patent term extension. And of course, important to note, the asset also has orphan designation and the potential to receive NCE. I'll pass to Camille on the other questions.
+--------------------------------------------------------------------------------
+Camille Bedrosian, Amylyx Pharmaceuticals Inc - Chief Medical Officer    [4]
+--------------------------------------------------------------------------------
+Great. Thank you. Hi, Karin. So as you saw in the data we shared the 50% higher dose, 45 milligrams and 90 milligrams daily did provide better coverage for the individuals. And so we are planning on using the higher dose 90 milligrams daily.
+--------------------------------------------------------------------------------
+Karin Johnson, Goldman Sachs Group Inc - Analyst    [5]
+--------------------------------------------------------------------------------
+Okay. Thank you.
+--------------------------------------------------------------------------------
+Operator,     [6]
+--------------------------------------------------------------------------------
+Michael Cherny, Evercore ISI.
+--------------------------------------------------------------------------------
+Michael Cherny, Evercore ISI Institutional Equities - Analyst    [7]
+--------------------------------------------------------------------------------
+Hey, guys, thanks for taking my question. And again, congrats on this transaction. My first question is any initial assuming that this does get approved and come to market and initial thoughts on pricing and treatment duration? And my follow-up is that, big picture wise, this is a clear divergence away from ambulances initial focus on neurodegeneration. Could this be considered a one-off opportunistic play or does this mark a bona fide change in focus for the company in terms of disease state? Thank you.
+--------------------------------------------------------------------------------
+Justin Klee, Amylyx Pharmaceuticals Inc - Co-Chief Executive Officer, Director    [8]
+--------------------------------------------------------------------------------
+Thanks, Mike. So on your first question, I mean, it's too early to talk about pricing, but in terms of duration, these are chronic conditions and so our anticipation would be for chronic administration. In terms of this specific asset, I mean, I think the first say to say is, it really met our criteria, well-defined mechanistic rationale, very clear clinical data and outcomes going into a Phase 3 study and very good preclinical data as well.
+And our mission has always been to target diseases of high unmet need. This is certainly that case, post-bariatric hypoglycemia, congenital hyperinsulinism and just hyperinsulinemic hypoglycemia in general are really debilitating for people and there are no specific treatment options for them. This also builds on our endocrine experience and relationships that we've gained with Wolfram syndrome. So we now have two programs specifically in neurodegeneration our PST program or 114 ASO about to be in clinic later this year for ALS, we have Wolfram syndrome, which is a neuro endocrine disease and now these are endocrine, but all orphan diseases of high unmet need.
+--------------------------------------------------------------------------------
+Michael Cherny, Evercore ISI Institutional Equities - Analyst    [9]
+--------------------------------------------------------------------------------
+Thanks so much.
+--------------------------------------------------------------------------------
+Operator,     [10]
+--------------------------------------------------------------------------------
+Graig Suvannavejh, Mizuho.
+--------------------------------------------------------------------------------
+Graig Suvannavejh, Mizuho Securities USA LLC - Analyst    [11]
+--------------------------------------------------------------------------------
+Hey, good morning. Thanks for taking my question, congratulations on closing the deal. PBH is probably not known to many of us, including myself. So I was wondering if -- while there's excitement around the potential of the program in PBH, could you give us maybe a sense of the competitive landscape? Are there other mid or late-stage clinical programs that are in the clinic right now? Thanks.
+--------------------------------------------------------------------------------
+Joshua Cohen, Amylyx Pharmaceuticals Inc - Co-Chief Executive Officer, Director    [12]
+--------------------------------------------------------------------------------
+Yeah. So this to our knowledge will be effectively the only Phase 3 and [the space]. So kind of the leading (technical difficulty) other things that are being studied in Phase 1 and in the pre-clinic. And there is a lot of interest growing interest in the space. As we've heard from different people who are experiencing this disease, it really is quite disabling. People are kind of in a constant state of being nervous about kind of sudden and unpredictable drops in glucose, which can lead to pretty severe symptoms. And so I think the need and the excitement for potential treatment option is very high, and I think people are eagerly awaiting the next steps of this development.
+I'll pass to Camille to add as well.
+--------------------------------------------------------------------------------
+Camille Bedrosian, Amylyx Pharmaceuticals Inc - Chief Medical Officer    [13]
+--------------------------------------------------------------------------------
+Yep. Hi, thank you. Yes, Avexitide will be the first agent being studied in PBH and Phase 3, and we are excited to consider beyond. And the individuals with this condition actually it progresses over time as well, where individuals are so incapacitated, they are unable to work, unable to be alone. And as Josh (technical difficulty) are in fear of hypoglycemia events that could lead to seizures.
+--------------------------------------------------------------------------------
+Graig Suvannavejh, Mizuho Securities USA LLC - Analyst    [14]
+--------------------------------------------------------------------------------
+Thanks. And if I could ask a follow-up, just on how should we be thinking about the commercialization model? I know it's a rare disease, but any kind of broad comments on how you think this is going to be commercialized?
+--------------------------------------------------------------------------------
+Justin Klee, Amylyx Pharmaceuticals Inc - Co-Chief Executive Officer, Director    [15]
+--------------------------------------------------------------------------------
+So considering or just taking on the asset now, obviously, we'll continue to work through our commercialization plan. But this year at a high level, I think it always starts with the patient journey. You know, how do people get diagnosed right now, it's from our reading, it's a very frustrating journey for people in a very tough one where I think they're often ignored by the health care system until they get to an endocrinologist where based on the glucose levels, it's very clear that this is hypoglycemia and needs to be addressed and is not simply complaining or something like that. These are very significant symptoms and as Camille was saying, it's progressive. So it's really a significant unmet need.
+I think when we've been talking with endocrinologists, they're very aware of this. I think as we said, we estimate there are about 160,000 people in the US who have this condition. So it's orphan, but it's a significant orphan condition. So I think for us, it starts with the (technical difficulty) are going to be the first target audience, and that will build as well on our Wolfram syndrome work where people are often seen by endocrinologists as well.
+--------------------------------------------------------------------------------
+Graig Suvannavejh, Mizuho Securities USA LLC - Analyst    [16]
+--------------------------------------------------------------------------------
+Thanks, Justin.
+--------------------------------------------------------------------------------
+Operator,     [17]
+--------------------------------------------------------------------------------
+Charlie Yang, Bank of America.
+--------------------------------------------------------------------------------
+Charlie Yang, BofA Securities, Inc. - Analyst    [18]
+--------------------------------------------------------------------------------
+Great. Thanks for taking the question. My first question is just can you provide more details in terms of the background therapies that in the from the Phase 2 trial? I guess specifically, I'm just wondering, I think your prior reports about potential efficacy in with GLP-1 Agonist. As well as was GLP-2 wondering whether those were used in the Phase 2 studies and then whether you think that could be potential count comparison down the road?
+And then my second question is regarding the financial cost to build out the infrastructure. I guess if the trial would just be successful in terms of cost to build out for commercialization?
+Thank you.
+--------------------------------------------------------------------------------
+Lindsey Allen, Amylyx Pharmaceuticals Inc - IR Contact Officer    [19]
+--------------------------------------------------------------------------------
+Yes. So maybe I can take the first question. So I'd say that the GLP-1 receptor is important because it's one of the master regulators of glucose insulin balanced in the body. And GLP-1 agonist deal with hyper glycemia and hypo insulin. In diseases of hypoglycemia. What you want is a GLP-1 receptor antagonist, which is what this is. If you look at the pharmacology, this very clearly raises the glucose nadir and decreases insulin secretion.
+So that's why there are no drugs specifically approved for post-bariatric hypoglycemia or generally hyperinsulinemic hypoglycemia right now because what I'd say in medicine, we're good at so far as the opposite side, the sort of other side of the equation. So that's why we're saying we're very excited. This has the potential to be first in class for hyperinsulinemic hypoglycemia generally, which is a huge unmet medical need.
+--------------------------------------------------------------------------------
+Joshua Cohen, Amylyx Pharmaceuticals Inc - Co-Chief Executive Officer, Director    [20]
+--------------------------------------------------------------------------------
+And I'll just add on the prior agents. So there are some compounds that are used off-label. I'm hearing from patients and physicians the effects of those tend to be quite modest. And particularly the patients who are enrolled in the studies were required to have a high frequency of Level two and Level three events despite best available management. And there are many patients who have many, try everything and still we believe there's about 160,000 patients who despite all the available management are still quite symptomatic with PBH.
+I think you also asked about the financial runway. I'll pass it over to Jim to answer that?
+--------------------------------------------------------------------------------
+James Frates, Amylyx Pharmaceuticals Inc - Chief Financial Officer    [21]
+--------------------------------------------------------------------------------
+Thanks, Charlie. I think we're quite sanguine about the opportunity here from a financial perspective. As you know, we've spun up a commercial organization and I might say with a successful launch for Avexitide -- kind of under faster terms.
+So I think we'll have ample time once we see the data from this clinical study and then hopefully are on a pathway for approval. We'll have ample time to build out our commercial team that I think again, will be focused to start with on that place, as Justin described you, that patient journey.
+These folks are seeing and engaging with endocrinologists now and there's no answer for them. So that is exactly the kind of place where we have experience. And I think being the only solution for such a problem as the severe hypoglycemia, again led to the breakthrough status designation in this indication with the FDA. It's clearly an important unmet medical need. And with our core commercial team, the leadership with which we have maintained, we'll start laying plans for how to build our commercial organization quickly. And then we'll put those into action once we see the clinical data.
+--------------------------------------------------------------------------------
+Operator,     [22]
+--------------------------------------------------------------------------------
+Joel Beatty, Baird.
+--------------------------------------------------------------------------------
+Joel Beatty, Robert W. Baird & Co Inc - Senior Research Analyst    [23]
+--------------------------------------------------------------------------------
+Thanks for taking the questions and congrats on the acquisition. For the Phase 3 program do you plan to follow all patients for a certain duration of time? Or is there potential to have it be an event-driven trial?
+--------------------------------------------------------------------------------
+Camille Bedrosian, Amylyx Pharmaceuticals Inc - Chief Medical Officer    [24]
+--------------------------------------------------------------------------------
+Hi guy, Joe. This is Camille, we plan to conduct a randomized placebo-controlled study and then follow patients for a longer term, likely in an open-label setting. And as you've heard from and saw from the data on the Phase 2 Phase 2b these events happen fast and furious and during the run-in period and have exenatide has been able to mitigate Level 2 and Level 3, which is quite severe symptomatic hypoglycemia. So we're finalizing our plans. And speaking with the experts in the field as well as those living with PBH, we certainly have our considerations for how we're going to conduct the trial and when we finalize those, we'll share them in more detail in the coming weeks.
+--------------------------------------------------------------------------------
+Joel Beatty, Robert W. Baird & Co Inc - Senior Research Analyst    [25]
+--------------------------------------------------------------------------------
+Okay, thanks. And then as a follow-up question. With this being a GLP-1 antagonist, is there any effect and increase in weight?
+--------------------------------------------------------------------------------
+Joshua Cohen, Amylyx Pharmaceuticals Inc - Co-Chief Executive Officer, Director    [26]
+--------------------------------------------------------------------------------
+So both across on all the preclinical studies conducted as well as the clinical studies conducted, we have not seen an increase in gut. And again, I think it's important to note that this is a condition where there is super physiologic levels of GLP-1 due to the changed anatomy of the gut. And so our goal here is not to do something very unnatural, but rather to kind of bring things back to balance.
+--------------------------------------------------------------------------------
+Lindsey Allen, Amylyx Pharmaceuticals Inc - IR Contact Officer    [27]
+--------------------------------------------------------------------------------
+And I'll add as well. The nonclinical toxicology studies are were very encouraging as well. And just sort of emphasizing Josh's point, I think is we've learned certainly from the diabetes fields and others. It's new glycemia is what we want to achieve. So you don't want hyperglycemia and hypoglycemia. And right now, I think historically in medicine, we've been very adapted dealing with hyperglycemia less so with hypoglycemia unless it's a rescue. So I think that's why this is so exciting.
+--------------------------------------------------------------------------------
+Camille Bedrosian, Amylyx Pharmaceuticals Inc - Chief Medical Officer    [28]
+--------------------------------------------------------------------------------
+And I'll further add that we've not seen hyperglycemia either in the studies which took Josh and Justin's point, we're seeking to re-balance the physiology in these individuals with Avexitide.
+--------------------------------------------------------------------------------
+Operator,     [29]
+--------------------------------------------------------------------------------
+Ananda Ghosh, H.C. Wainwright.
+--------------------------------------------------------------------------------
+Ananda Ghosh, H.C. Wainwright & Co., LLC - Analyst    [30]
+--------------------------------------------------------------------------------
+I have two questions. You know, given the variability one sees with the GLP-1 antagonist, I was just curious to understand how common are hypoglycemic events with GLP-1 agonists and in also those people who are who have both undergone bariatric surgery and on these agonists. That's the first question.
+The second question is what is the rationale behind using the composite score for the Phase 3 trial design?
+--------------------------------------------------------------------------------
+Lindsey Allen, Amylyx Pharmaceuticals Inc - IR Contact Officer    [31]
+--------------------------------------------------------------------------------
+I'm happy to start, and thank you, Ananda. So I think you bring up a great point, which is I think that there are likely many opportunities for further study of the GLP-1 antagonist because there are all sorts of reasons that people may experience Hyperinsulinism and or hypoglycemia. And I think that we haven't had the best tools to address that today in medicine.
+So we're very excited because I think we have very focused areas right now and with FDA Breakthrough status in both post-bariatric hypoglycemia and congenital hyperinsulinism. But we think that the mechanism we're targeting here is clearly very important and will lead to further studies and potential indications as well.
+--------------------------------------------------------------------------------
+Camille Bedrosian, Amylyx Pharmaceuticals Inc - Chief Medical Officer    [32]
+--------------------------------------------------------------------------------
+And in terms of the composite endpoint and on the we are going to be doing a composite Level 2, Level 3, which actually encompasses the intense and severe hypoglycemia that individuals with PBH experience. And so I think, it is that we are able to show the impact of Avexitide. Furthermore, such composite endpoints have been discussed in the FDA guidance for diabetes and hyperglycemia in the setting of exogenous insulin that can occur.
+--------------------------------------------------------------------------------
+Joshua Cohen, Amylyx Pharmaceuticals Inc - Co-Chief Executive Officer, Director    [33]
+--------------------------------------------------------------------------------
+I'd say from a kind of trial design perspective as well, it is advantageous to use the composite. You also just have more events. There's already quite a lot of events as you can see from the previous studies, and the previous studies were met with -- high statistical significance and replicated as well. But having the composite, which gives you even more ability to track that it's only kind of further advantageous.
+Maybe just one other point that I think just kind of thematically is maybe important to remind that this people with symptomatic PBH. This can be quite severe as listen to it in a patient interview or on earlier today, the patient who, despite ever manage symptoms has highly frequent seizures. Due to the rapid and sudden blood sugar drops. That's despite, you know, every sort of attempted management and otherwise. So that's kind of what we're trying to treat here and what we're trying to manage here with Avexitide.
+--------------------------------------------------------------------------------
+Operator,     [34]
+--------------------------------------------------------------------------------
+Michael DiOrio, Evercore.
+--------------------------------------------------------------------------------
+Michael Cherny, Evercore ISI Institutional Equities - Analyst    [35]
+--------------------------------------------------------------------------------
+Thanks so much for taking my follow-up questions. A few for me. The first one is why not just use Intranasal glucagon or subcutaneous glucagon shots to treat? Is it safe to assume that these options are more considered as a one-time on-demand agents and \that's a tied offers kind of a more predictable or basal coverage.
+And then the second question is Amylyx is currently available as a weekly injection. So why couldn't Avexitide be formulated as such? And I have two more follow-ups after that.
+--------------------------------------------------------------------------------
+Lindsey Allen, Amylyx Pharmaceuticals Inc - IR Contact Officer    [36]
+--------------------------------------------------------------------------------
+So Mike, great questions. First in terms of Intranasal glucagon, I mean, I think the answer is glucagon is available and this is still a huge unmet need. So, I think if you talk to endocrinologists or certainly a people living with post-bariatric hypoglycemia it's a rescue, it is not a solution and people are constantly in fear of really significant excursions where oftentimes they'll have to have a family member or someone even administer glucagon rescue.
+But you're exactly right. What you want is people want to get their lives back and so you really want something that allows them to live a normal life and has that sort of adequate coverage. And again, just highlighting the unmet need and the data here this. That's why it has FDA breakthrough status.
+You're also bringing up the once weekly. We think there's certainly opportunities here for additional lifecycle opportunities. I would say though, going back to the importance in unmet need areas, orphan diseases. The first thing is you want to get meaningful treatments to people. And I think as you can see from the prior studies, this was well tolerated. There is great compliance in the studies, and that's because people could feel a difference. So I think we already have a great opportunity for what we have with opportunities for even further lifecycle management.
+--------------------------------------------------------------------------------
+Joshua Cohen, Amylyx Pharmaceuticals Inc - Co-Chief Executive Officer, Director    [37]
+--------------------------------------------------------------------------------
+And maybe I'd just add, I might just add very briefly as well that. Several of the patients in the studies and patients that we've interviewed to learn more about the disease as well, certainly take glucagon and do not find a sufficient solution. I'm just maybe to share a story.
+One patient described that they had to ask glucagon and we're using it more than once daily. And still frequently we're not actually able to do the injection because they were sufficiently dizzy or otherwise that they didn't have the motor coordination to achieve the injection. And also their insurance was giving them a problem about using more than 30 glucagon shots in a month.
+--------------------------------------------------------------------------------
+Michael Cherny, Evercore ISI Institutional Equities - Analyst    [38]
+--------------------------------------------------------------------------------
+That's very helpful. And just two final questions for me. One is kind of a nitpick. -- Previous slides say the US prevalence is 180k, why does that differ from your quota prevalence of 160k prevalence in the US? And my final question is just thoughts on the increasing use of more effective GLP-1 and how it may erode in the long term that the number of bariatric surgeries performed annually.
+I mean, we hear with these next-gen incretin therapies that categorization and triple G kind of approaching bariatric surgery like weight loss. Do you foresee the numbers of bariatric surgery procedures in the long term are diminishing? And if so, how may that impact your outlook for this product?
+--------------------------------------------------------------------------------
+Lindsey Allen, Amylyx Pharmaceuticals Inc - IR Contact Officer    [39]
+--------------------------------------------------------------------------------
+Thank you, Mike, and important question. So first on the prevalence, you know, I mean, I think this is a classic where you have diseases of high unmet need. You know, our best estimate is about 160,000. I think the difference in 160,000 and 180,000 isn't all that different. But as we get, -- get into research more, we hope to refine that. But I think it's sufficient to say that it's an orphan disease, but a very significant one.
+In terms of your question on GLP-1 and reaching the weight loss levels of bariatric surgery, I think a few important things. First, this is a condition that tends to exhibit one to three years post bariatric surgery. Over the past decade, there have been 2.5 million bariatric surgeries in the United States. And I think the evidence to date is that bariatric surgery will continue to be an important component of weight loss, but also there are many surgeries that occur in for bariatric surgeries that occur that are not for weight loss. They're all sorts of reasons that may happen.
+And then, I think the last thing to say is, again, going back to the, I think the importance of the dual GLP-1 receptor. We've seen that with GLP-1 receptor agonist that there are many applications. And again, that's because there are many diseases or conditions characterized by hyperinsulinemic or hypoglycemia.
+But there also the other side of the equation is hypoglycemia and hyperinsulinemic, and we really don't have great treatment options for those whole set of conditions. That's why this asset already has FDA breakthrough status in two indications. So we think that there's a lot more room for further development in this a whole range of unmet needs.
+--------------------------------------------------------------------------------
+Operator,     [40]
+--------------------------------------------------------------------------------
+Thank you. There are no further questions at this time. I will turn the call back over to Mr. Klee.
+--------------------------------------------------------------------------------
+Lindsey Allen, Amylyx Pharmaceuticals Inc - IR Contact Officer    [41]
+--------------------------------------------------------------------------------
+Thank you all for joining us on today's call to discuss Avexitide. We hope you have a great day.
+--------------------------------------------------------------------------------
+Operator,     [42]
+--------------------------------------------------------------------------------
+Ladies and gentlemen, this concludes your conference call for today. We thank you for participating and ask that you please disconnect your lines.
+
+
+
+
+
+
+--------------------------------------------------------------------------------
+Definitions
+--------------------------------------------------------------------------------
+Preliminary Transcript: "Preliminary Transcript" indicates that the 
+Transcript has been published in near real-time by an experienced 
+professional transcriber.  While the Preliminary Transcript is highly 
+accurate, it has not been edited to ensure the entire transcription 
+represents a verbatim report of the call.
+
+EDITED TRANSCRIPT: "Edited Transcript" indicates that a team of professional 
+editors have listened to the event a second time to confirm that the 
+content of the call has been transcribed accurately and in full.
+
+--------------------------------------------------------------------------------
+Disclaimer
+--------------------------------------------------------------------------------
+The London Stock Exchange Group and its affiliates (collectively, "LSEG") reserves the right to make changes to documents, content, or other information on this web site without obligation to notify any person of such changes. No content may be modified, reverse engineered, reproduced or distributed in any form by any means, or stored in a database or retrieval system, without the prior written permission of LSEG. The content shall not be used for any unlawful or unauthorized purposes. LSEG does not guarantee the accuracy, completeness, timeliness or availability of the content. LSEG is not responsible for any errors or omissions, regardless of the cause, for the results obtained from the use of the content. In no event shall LSEG be liable to any party for any direct, indirect, incidental, exemplary, compensatory, punitive, special or consequential damages, costs, expenses, legal fees, or losses (including, without limitation, lost income or lost profits and opportunity costs or losses caused by negligence) in connection with any use of the content even if advised of the possibility of such damages.
+
+In the conference calls upon which Summaries are based, companies may make projections or other forward-looking statements regarding a variety of items. Such forward-looking statements are based upon current expectations and involve risks and uncertainties. Actual results may differ materially from those stated in any forward-looking statement based on a number of important factors and risks, which are more specifically identified in the companies' most recent SEC filings. Although the companies may indicate and believe that the assumptions underlying the forward-looking statements are reasonable, any of the assumptions could prove inaccurate or incorrect and, therefore, there can be no assurance that the results contemplated in the forward-looking statements will be realized.
+
+LSEG assumes no obligation to update the content following publication in any form or format. The content should not be relied on and is not a substitute for the skill, judgment and experience of the user, its management, employees, advisors and/or clients when making investment and other business decisions. LSEG does not act as a fiduciary or an investment advisor except where registered as such.
+
+THE INFORMATION CONTAINED IN TRANSCRIPT SUMMARIES REFLECTS LSEG'S SUBJECTIVE CONDENSED PARAPHRASE OF THE APPLICABLE COMPANY'S CONFERENCE CALL AND THERE MAY BE MATERIAL ERRORS, OMISSIONS, OR INACCURACIES IN THE REPORTING OF THE SUBSTANCE OF THE CONFERENCE CALLS. IN NO WAY DOES LSEG OR THE APPLICABLE COMPANY ASSUME ANY RESPONSIBILITY FOR ANY INVESTMENT OR OTHER DECISIONS MADE BASED UPON THE INFORMATION PROVIDED ON THIS WEB SITE OR IN ANY SUMMARY. USERS ARE ADVISED TO REVIEW THE APPLICABLE COMPANY'S CONFERENCE CALL ITSELF AND THE APPLICABLE COMPANY'S SEC FILINGS BEFORE MAKING ANY INVESTMENT OR OTHER DECISIONS.
+--------------------------------------------------------------------------------
+Copyright 2024 LSEG. All Rights Reserved.
+--------------------------------------------------------------------------------

@@ -1,0 +1,330 @@
+
+
+Refinitiv StreetEvents Event Transcript
+E D I T E D   V E R S I O N
+
+ITeos Therapeutics Inc to Discuss Collaboration with GlaxoSmithKline PLC for EOS-448 Call
+JUNE 14, 2021 / 12:30PM GMT
+
+================================================================================
+Corporate Participants
+================================================================================
+
+ * Joanne Jenkins Lager
+   iTeos Therapeutics, Inc. - Chief Medical Officer
+ * Matthew A. Call
+   iTeos Therapeutics, Inc. - COO
+ * Michel Detheux
+   iTeos Therapeutics, Inc. - President, CEO & Director
+ * Matthew Gall
+   iTeos Therapeutics, Inc. - CFO
+ * Ryan Baker
+   iTeos Therapeutics, Inc. - Head of IR
+
+================================================================================
+Conference Call Participiants
+================================================================================
+
+ * Swayampakula Ramakanth
+   H.C. Wainwright & Co, LLC, Research Division - MD of Equity Research & Senior Healthcare Analyst
+ * Christopher Joseph Raymond
+   Piper Sandler & Co., Research Division - MD & Senior Research Analyst
+ * Daina Michelle Graybosch
+   SVB Leerink LLC, Research Division - MD of Immuno-Oncology & Senior Research Analyst
+ * Anupam Rama
+   JPMorgan Chase & Co, Research Division - VP and Analyst
+ * David Matthew Nierengarten
+   Wedbush Securities Inc., Research Division - MD & Head of Healthcare of Equity Research
+
+================================================================================
+Presentation
+--------------------------------------------------------------------------------
+Operator    [1]
+--------------------------------------------------------------------------------
+
+          Good morning, and welcome to the iTeos Therapeutics Business Update Conference Call. (Operator Instructions) Please be advised this call is being recorded at the company's request. 
+At this time, I'd like to turn it over to Ryan Baker, Head of Investor Relations at iTeos.
+
+--------------------------------------------------------------------------------
+Ryan Baker,  iTeos Therapeutics, Inc. - Head of IR    [2]
+--------------------------------------------------------------------------------
+
+          Thank you for joining us today. Joining me from iTeos are Michel Detheux, President and CEO; Matthew Gall, Chief Financial Officer; Matt Call, Chief Operating Officer; and Dr. Jo Lager, Chief Medical Officer. This morning, iTeos issued a news release announcing that it has entered into a partnership with GlaxoSmithKline to co-develop and co-commercialize iTeos' anti-TIGIT antibody, EOS-448, as a potential treatment for people with cancer. 
+Before I turn the call over to Michel to discuss the details of the partnership, I would like to note that the team will be making forward-looking statements in the prepared remarks and during the Q&A session. Please take a moment to review Slide #2 on the webcast, which contains our forward-looking statements. These forward-looking statements involve risks and uncertainties, many of which are beyond iTeos' control. Actual results could materially differ from these forward-looking statements, and any such risks can materially and adversely affect its business, the results of operations and trading prices for iTeos' common stock. 
+For a detailed description of applicable risks and uncertainties, we encourage you to review our most recent quarterly report on Form 10-Q filed with the SEC as well as the company's other SEC filings. The company does not undertake any obligation to publicly update its forward-looking statements, including any financial projections provided today based on subsequent events or circumstances. 
+I will now turn the call over to Michel. Michel, please proceed.
+
+--------------------------------------------------------------------------------
+Michel Detheux,  iTeos Therapeutics, Inc. - President, CEO & Director    [3]
+--------------------------------------------------------------------------------
+
+          Thank you, Ryan, and good morning or good afternoon, everyone. I'm thrilled to share with you a very exciting update. As many of you already know, earlier today, we announced a transformative collaboration with GlaxoSmithKline to co-develop and co-commercialize EOS-448, our TIGIT antibody program. First, I'd like to remind everyone why we believe EOS-448 is highly differentiated. Second, I will highlight the context, the value, the vision and the key component of this collaboration. Third, I will explain why this partnership is transformative and support our long-term vision for iTeos, its shareholders and people living with cancer. 
+Starting with Slide 3. When we think about EOS-448, we need to consider the 2 domains of the antibody, which has been designed to enhance the antitumor response through a multifaceted immune modulatory mechanism. On the top, we have selected an antibody with a unique binding domain to TIGIT, which provides high affinity and high potency. EOS-448 blocks inhibitory interaction of TIGIT with its ligands to stimulate immune response and tumor cell kinetics. On the bottom, we have selected an IgG1 isotype, which are engaged with Fc gamma receptor on immune cells to trigger pro-inflammatory cytokine release, activation of antigen-presenting cells and depletion of TIGIT positive Tregs and associated T cells. We believe that these characteristics of EOS-448 provides a differentiated profile, which is the potential to lead to clinical benefit. 
+On Slide 4, we have summarized the initial data from our Phase I single-agent dose escalation study presented at AACR in April. On the top left, out of 20 evaluable patients, we observed 1 patient with a confirmed partial response and 9 with stable disease, which is the best clinical benefit rate reported in a Phase I clinical trials for a single-digit TIGIT antibody. On the top right, we observe a manageable tolerability profile consistent with other checkpoint inhibitors, with the most common adverse events being immune related. And finally, below EOS-448 is the first TIGIT antibody in clinic, which has demonstrated a strong depletion of TIGIT positive Tregs at all doses tested in the dose escalation, confirming the multifaceted mechanism of EOS-448 in cancer patients. In summary, this efficacy, safety and biomarker data demonstrates differentiated profile of EOS-448. 
+Now moving to the second part of the presentation, I'm going to highlight the context, the value, the vision and the key components of this collaboration with GSK on Slide 5. I'd like to share a bit of background and why we believe this collaboration represents a great opportunity for improved treatments for people living with cancer for both partners and for our shareholders. TIGIT was the first new generation IO drug with positive data in the randomized Phase II study reported last year, almost nearly 10 years after the first approval of an immune checkpoint receptor antagonist. This data were a catalyst for the field. 
+As we consider our options to accelerate and expand the clinical development of EOS-448, we were approached by several large companies who recognized the differentiated profile of EOS-448. We were under no pressure to partner, and it was important to us that any strategic partnership accomplish the following objectives as summarized on the left of Slide 5: first, accelerate and expand the development of EOS-448 by engaging with a committed and capable partner; second, position EOS-448 as a core part of the IO strategy of both collaboration partners; third, retain co-commercialization rights in the U.S. In this agreement with GSK, we've accomplished all of these objectives as described on the right. We cannot be happier to be working with a partner who shares our commitment to moving quickly and aggressively to advance EOS-448 in multiple indication. Indeed, GSK is the ideal partner for us because of the development. 
+(technical difficulty)
+
+--------------------------------------------------------------------------------
+Ryan Baker,  iTeos Therapeutics, Inc. - Head of IR    [4]
+--------------------------------------------------------------------------------
+
+          Operator, we may have lost Michel's line. Can you hear, Michel?
+
+--------------------------------------------------------------------------------
+Operator    [5]
+--------------------------------------------------------------------------------
+
+          Yes, I can hear you, but it's showing that his line is off. We'll connect it.
+
+--------------------------------------------------------------------------------
+Matthew Gall,  iTeos Therapeutics, Inc. - CFO    [6]
+--------------------------------------------------------------------------------
+
+          Okay. I can take over. This is Matthew Gall, CFO.
+
+--------------------------------------------------------------------------------
+Operator    [7]
+--------------------------------------------------------------------------------
+
+          Okay.
+
+--------------------------------------------------------------------------------
+Matthew Gall,  iTeos Therapeutics, Inc. - CFO    [8]
+--------------------------------------------------------------------------------
+
+          Okay. In this agreement with GSK, we have accomplished all of these objectives as described on the right. We cannot be happier to be working with a partner which shares our commitment to moving quickly and aggressively to advance EOS-448 in multiple indications. Indeed, GSK is the ideal partner for us because of their development capabilities in immuno-oncology, their approved PD-1 program, their focus on the TIGIT pathway that will allow for multiple novel combinations and their commitment to invest substantially to advance clear and differentiated path forward for EOS-448, which we expect to become the cornerstone of GSK's immuno-oncology pipeline. And finally, the co-commercialization agreement in the U.S. that will allow iTeos to keep upside. 
+So let's review the terms of the agreement on Slide 6. GSK will make an upfront payment of $625 million in cash to iTeos. GSK and iTeos will share responsibility and also costs with the 60-40 ratio, respectively, for the global development of EOS-448. Should the EOS-448 program achieve certain development and commercial milestones, iTeos will be eligible to receive up to an additional $1.45 billion in potential milestone payments. The 2 partners will jointly commercialize and equally split profits in the U.S. And outside of the U.S., GSK will receive an exclusive license for commercialization, and iTeos will receive tiered double-digit royalty payments. Both GSK and iTeos have the opportunity to independently run additional trials, including combinations with iTeos' inupadenant A2AR antagonist program or GSK pipeline programs. 
+And finally, on Slide 7, we will explain why this partnership is transformative and supports our long-term vision for iTeos, its shareholders and people living with cancer. The partnership for EOS-448 TIGIT anti program, the boxes in green, allows us to expand and accelerate the development plan, and we expect to initiate a new trial evaluating the combinations with pembrolizumab and with inupadenant in the next few months. We then plan to initiate a Phase II combination study with GSK early next year. We plan to expand the clinical development of our potent and highly selective A2A receptor antagonist, inupadenant, the boxes in blue, where we've already seen promising responses with monotherapy and have identified a potential predictive biomarker. 
+As a reminder, we already have combination studies underway, exploring inupadenant in combinations with pembrolizumab and chemotherapy. We are also pursuing research programs with a focus on targets that address additional mechanisms of immunosuppression and expect to nominate an additional product candidate for IND-enabling studies before the end of 2021, the box in orange. Recall that both inupadenant and EOS-448 derived from internal discovery, and we will continue to invest in our people and science to grow the pipeline. 
+In conclusion, the collaboration with GSK that we've announced today is just the beginning of what we believe will be a transformational period for iTeos. In the past year, since becoming a publicly traded company, we have continued to create value by developing therapies to improve the lives of people with cancer. With our differentiated clinical programs, robust internal expertise and capabilities, a very strong balance sheet and, of course, an ideal partner in GSK, iTeos is well positioned to become a leader in the competitive immuno-oncology space. We are more confident than ever in our ability to succeed and see this partnership as a validation of our science and the catalyst for the future of the company. 
+Thank you very much for your attention on today's call and your ongoing interest. And I'd like to now turn the call back over to the operator for questions.
+
+
+================================================================================
+Questions and Answers
+--------------------------------------------------------------------------------
+Operator    [1]
+--------------------------------------------------------------------------------
+
+          (Operator Instructions) Our first question comes from Anupam Rama with JPMorgan.
+
+--------------------------------------------------------------------------------
+Anupam Rama,  JPMorgan Chase & Co, Research Division - VP and Analyst    [2]
+--------------------------------------------------------------------------------
+
+          Congrats on the deal. Maybe strategically, you could walk us through why it was important for you guys to keep sort of U.S. co-commercialization rights versus partnering U.S. as well or keeping U.S. kind of to yourself within the partnership?
+
+--------------------------------------------------------------------------------
+Matthew Gall,  iTeos Therapeutics, Inc. - CFO    [3]
+--------------------------------------------------------------------------------
+
+          I'm not sure if Michel was able to get back on, but I can -- if not, I can hand that over to Matt Call, our COO.
+
+--------------------------------------------------------------------------------
+Matthew A. Call,  iTeos Therapeutics, Inc. - COO    [4]
+--------------------------------------------------------------------------------
+
+          Thanks, Anupam. I appreciate the question. So it was very important for us, as we discussed in past calls, to retain significant upside in the downstream economics as well as the ability to integrate the company more fully into the commercial space. Our view in a very competitive space like TIGIT is, is that this was the appropriate mix. So being able to partner with GSK, retain rights in the U.S. to co-commercialize and have the profit split so that we could compete with everyone else's in this space. And then ex-U.S., we would -- GSK has those rights. So we view this as really the appropriate structure for us, given the competitive nature of this space to be able to lean into the partnership with GSK and do this together in the U.S. and through that structure be able to keep up and keep pace with others in the field.
+
+--------------------------------------------------------------------------------
+Operator    [5]
+--------------------------------------------------------------------------------
+
+          Our next question comes from Daina Graybosch with SVB Leerink.
+
+--------------------------------------------------------------------------------
+Daina Michelle Graybosch,  SVB Leerink LLC, Research Division - MD of Immuno-Oncology & Senior Research Analyst    [6]
+--------------------------------------------------------------------------------
+
+          Congratulations on the deal. I have 2, 1 sort of practical 1 and 1 science one. The practical one, can you help us understand this 40-60 split for studies in the global development plan? Is this for any study that iTeos, let's say, with your new adenosine target you want to combine with TIGIT? Will GSK pay 60% and vice versa for any of their combinations, let's say, with their CD96, you would pay 40%? And on the science side, GSK has 2 other assets in CD226 asset that we know of. They have the anti-PVRIG they licensed from Surface. And I think they have their own CD96 antagonist. And I wonder if you could tell us if being able to combine amongst the access is exciting to you scientifically? And if so, which combinations are you most excited about?
+
+--------------------------------------------------------------------------------
+Matthew A. Call,  iTeos Therapeutics, Inc. - COO    [7]
+--------------------------------------------------------------------------------
+
+          Sure. I can start with the first part and then hand off to Jo to discuss the pipeline. So everything that's in the global development plan follows that 60-40 split. If there are combinations and the 1 with inupadenant would be an example that are independent to the party, then they cover those costs independently. The same would apply to territory specific combinations or other things potentially involving the GSK portfolio with standard kind of buying rights after the independent research. And I'll hand over to Jo to discuss the pipeline.
+
+--------------------------------------------------------------------------------
+Joanne Jenkins Lager,  iTeos Therapeutics, Inc. - Chief Medical Officer    [8]
+--------------------------------------------------------------------------------
+
+          So we are excited about the other TIGIT CD226 target -- pathway targets that GSK has in their portfolio. So yes, they have antibody targeting CD96, which is another coinhibitory factor in that pathway as well as they have antibody in preclinical development that's targeting CD112 receptor. I think both are quite interesting potential combinations. The CD96, we anticipate will be able to move into clinic sooner, given that, that one is currently in Phase I.
+
+--------------------------------------------------------------------------------
+Daina Michelle Graybosch,  SVB Leerink LLC, Research Division - MD of Immuno-Oncology & Senior Research Analyst    [9]
+--------------------------------------------------------------------------------
+
+          Can you give any context on the biology? Which one you think is more interesting or exciting?
+
+--------------------------------------------------------------------------------
+Michel Detheux,  iTeos Therapeutics, Inc. - President, CEO & Director    [10]
+--------------------------------------------------------------------------------
+
+          Well, we believe, Daina, that we have now the full panel and with all the options to develop the specific combination based on indications. And we don't believe that they will have 1 single combination that will be the most relevant, but we believe that we are now uniquely positioned with GSK to address specific combination based on the cancer type and our scientific approach.
+
+--------------------------------------------------------------------------------
+Operator    [11]
+--------------------------------------------------------------------------------
+
+          Our next question comes from Chris Raymond with Piper Sandler.
+
+--------------------------------------------------------------------------------
+Christopher Joseph Raymond,  Piper Sandler & Co., Research Division - MD & Senior Research Analyst    [12]
+--------------------------------------------------------------------------------
+
+          Just 2 questions. And by the way, congrats from us on this landmark deal. Just on the plans to combine with the GSK PD-1, JEMPERLI. Just talk about maybe, Michel, the level of diligence you guys have done on that molecule and the comfort. It's approved. It's one of the late to market PD-1s, obviously. It's only approved in endometrial cancer. I get it's early, but just what kind of comfort have you -- did you get that it will ultimately be as versatile as the other PD-1s as you're tying your wagon, if you will, obviously, to that molecule from a combo standpoint? And then maybe the second question, more of a strategic one. So this capital infusion is pretty significant. I know you guys have talked about next-generation adenosine pathway program as sort of the next sort of focus for you guys from a pipeline standpoint. But does this change the near-term timing of that program? Or are there other sort of discovery stage programs you might be able to accelerate now with these new resources?
+
+--------------------------------------------------------------------------------
+Michel Detheux,  iTeos Therapeutics, Inc. - President, CEO & Director    [13]
+--------------------------------------------------------------------------------
+
+          Then, Chris, for the first question, indeed, we spent a lot of time to evaluate what would be the best options for combination with PD-1, and we want to stress that we still have several options there to move forward. What we like with the data that we have seen for GSK is they have a very strong package. Indeed, the recent approval is also an important one, and they are currently comparing the dostarlimab with pembrolizumab into a specific indication that will make us even more comfortable to move forward. But clearly, the big added value with GSK is that they consider TIGIT as a significant, I would say, program to build the IO pipeline, and that will give different options for combination. 
+For the second part of the second question, indeed, this is a significant infusion of cash, which is going to help us to accelerate the development of iTeos on top of the TIGIT co-development investment we are going to continue to invest into our best-in-class A2A receptor antagonist, inupadenant. And we have also a series of targets that we are interested in. This is the current preclinical program, which continue to go forward toward the selection of the IND candidate later this year. And we have several targets under consideration, where we are going to have a mix of internal effort, academic collaboration and also in-licensing opportunities to expand our pipeline.
+
+--------------------------------------------------------------------------------
+Operator    [14]
+--------------------------------------------------------------------------------
+
+          Our next question comes from David Nierengarten with Wedbush Securities.
+
+--------------------------------------------------------------------------------
+David Matthew Nierengarten,  Wedbush Securities Inc., Research Division - MD & Head of Healthcare of Equity Research    [15]
+--------------------------------------------------------------------------------
+
+          Congrats on a very nice deal. Maybe moving to inupadenant. You're going to initiate a combo study with pembro, I mean is there any desire or opportunity for you to take a look at dostarlimab in combination with your A2A? Or is that not in the cards?
+
+--------------------------------------------------------------------------------
+Michel Detheux,  iTeos Therapeutics, Inc. - President, CEO & Director    [16]
+--------------------------------------------------------------------------------
+
+          Jo?
+
+--------------------------------------------------------------------------------
+Joanne Jenkins Lager,  iTeos Therapeutics, Inc. - Chief Medical Officer    [17]
+--------------------------------------------------------------------------------
+
+          Yes. David, so we currently are conducting a study of inupadenant or A2A receptor antagonist with pembrolizumab. There may be options in the future to combine with dostarlimab, but that hasn't been discussed at this point.
+
+--------------------------------------------------------------------------------
+David Matthew Nierengarten,  Wedbush Securities Inc., Research Division - MD & Head of Healthcare of Equity Research    [18]
+--------------------------------------------------------------------------------
+
+          Yes. So that was a quick follow-up was you didn't discuss options for potentially partnering or doing any other collaboration with GSK on 850?
+
+--------------------------------------------------------------------------------
+Joanne Jenkins Lager,  iTeos Therapeutics, Inc. - Chief Medical Officer    [19]
+--------------------------------------------------------------------------------
+
+          No. It was all focused around EOS-448.
+
+--------------------------------------------------------------------------------
+Operator    [20]
+--------------------------------------------------------------------------------
+
+          Our next question comes from Swayampakula Rama with H.C. Wainwright.
+
+--------------------------------------------------------------------------------
+Swayampakula Ramakanth,  H.C. Wainwright & Co, LLC, Research Division - MD of Equity Research & Senior Healthcare Analyst    [21]
+--------------------------------------------------------------------------------
+
+          Congratulations, Michel and team, for getting a -- forging a really good relationship. A quick question from me. Just trying to think about what sort of indications would the collaboration be looking at and also are there certain tumors that you would do independently off GSK?
+
+--------------------------------------------------------------------------------
+Michel Detheux,  iTeos Therapeutics, Inc. - President, CEO & Director    [22]
+--------------------------------------------------------------------------------
+
+          Jo?
+
+--------------------------------------------------------------------------------
+Joanne Jenkins Lager,  iTeos Therapeutics, Inc. - Chief Medical Officer    [23]
+--------------------------------------------------------------------------------
+
+          Yes. So the clinical development plan with GSK will build on what we've already disclosed. So we had said with EOS-448 that we'll be pursuing non-small cell lung cancer, head and neck cancer, in combination with PD-1. We'll also be combining with inupadenant and looking at melanoma, and we are also planning a study in myeloma. Those activities will all continue. And then we've been having discussions with the colleagues at GSK about expansion indications, but we'll be disclosing those at a later time.
+
+--------------------------------------------------------------------------------
+Operator    [24]
+--------------------------------------------------------------------------------
+
+          We have a follow-up question from Daina Graybosch -- sorry, Daina Graybosch with SVB Leerink.
+
+--------------------------------------------------------------------------------
+Daina Michelle Graybosch,  SVB Leerink LLC, Research Division - MD of Immuno-Oncology & Senior Research Analyst    [25]
+--------------------------------------------------------------------------------
+
+          I want to get some clarity around which PD-1 you would combine with necessarily. Will you be moving forward to registration always of GSK's PD-1? Or could you, and some indications keep combining with and plan to move forward in registration with pembrolizumab?
+
+--------------------------------------------------------------------------------
+Joanne Jenkins Lager,  iTeos Therapeutics, Inc. - Chief Medical Officer    [26]
+--------------------------------------------------------------------------------
+
+          So we primarily will be planning our registration studies as part of the global development plan with GSK in combination with dostarlimab, but we do have flexibility to continue to evaluate combinations with other anti-PD-1 antibodies in the future.
+
+--------------------------------------------------------------------------------
+Daina Michelle Graybosch,  SVB Leerink LLC, Research Division - MD of Immuno-Oncology & Senior Research Analyst    [27]
+--------------------------------------------------------------------------------
+
+          And I guess a follow-up on that. If you do decide to combine with other anti-PD-1s, that would be a joint decision, let's say, based on unique indication and positioning a different PD-1 has over where GSK could be? Or would that be a thing you could make on your own choice?
+
+--------------------------------------------------------------------------------
+Joanne Jenkins Lager,  iTeos Therapeutics, Inc. - Chief Medical Officer    [28]
+--------------------------------------------------------------------------------
+
+          It's a little complicated to go into, but generally, it will be a joint decision.
+
+--------------------------------------------------------------------------------
+Operator    [29]
+--------------------------------------------------------------------------------
+
+          And I'm not showing any further questions in the queue at this time. Ladies and gentlemen, thank you for participating in today's conference. This does conclude the program. You may now disconnect. Everyone, have a great day.
+
+
+
+
+
+
+
+--------------------------------------------------------------------------------
+Definitions
+--------------------------------------------------------------------------------
+PRELIMINARY TRANSCRIPT: "Preliminary Transcript" indicates that the 
+Transcript has been published in near real-time by an experienced 
+professional transcriber.  While the Preliminary Transcript is highly 
+accurate, it has not been edited to ensure the entire transcription 
+represents a verbatim report of the call.
+
+EDITED TRANSCRIPT: "Edited Transcript" indicates that a team of professional 
+editors have listened to the event a second time to confirm that the 
+content of the call has been transcribed accurately and in full.
+
+--------------------------------------------------------------------------------
+Disclaimer
+--------------------------------------------------------------------------------
+Refinitiv reserves the right to make changes to documents, content, or other 
+information on this web site without obligation to notify any person of 
+such changes.
+
+In the conference calls upon which Event Transcripts are based, companies 
+may make projections or other forward-looking statements regarding a variety 
+of items. Such forward-looking statements are based upon current 
+expectations and involve risks and uncertainties. Actual results may differ 
+materially from those stated in any forward-looking statement based on a 
+number of important factors and risks, which are more specifically 
+identified in the companies' most recent SEC filings. Although the companies 
+may indicate and believe that the assumptions underlying the forward-looking 
+statements are reasonable, any of the assumptions could prove inaccurate or 
+incorrect and, therefore, there can be no assurance that the results 
+contemplated in the forward-looking statements will be realized.
+
+THE INFORMATION CONTAINED IN EVENT TRANSCRIPTS IS A TEXTUAL REPRESENTATION
+OF THE APPLICABLE COMPANY'S CONFERENCE CALL AND WHILE EFFORTS ARE MADE TO
+PROVIDE AN ACCURATE TRANSCRIPTION, THERE MAY BE MATERIAL ERRORS, OMISSIONS,
+OR INACCURACIES IN THE REPORTING OF THE SUBSTANCE OF THE CONFERENCE CALLS.
+IN NO WAY DOES REFINITIV OR THE APPLICABLE COMPANY ASSUME ANY RESPONSIBILITY FOR ANY INVESTMENT OR OTHER
+DECISIONS MADE BASED UPON THE INFORMATION PROVIDED ON THIS WEB SITE OR IN
+ANY EVENT TRANSCRIPT. USERS ARE ADVISED TO REVIEW THE APPLICABLE COMPANY'S
+CONFERENCE CALL ITSELF AND THE APPLICABLE COMPANY'S SEC FILINGS BEFORE
+MAKING ANY INVESTMENT OR OTHER DECISIONS.
+--------------------------------------------------------------------------------
+Copyright 2023 Refinitiv. All Rights Reserved.
+--------------------------------------------------------------------------------

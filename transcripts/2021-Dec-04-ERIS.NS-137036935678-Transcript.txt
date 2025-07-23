@@ -1,0 +1,655 @@
+
+
+Refinitiv StreetEvents Event Transcript
+E D I T E D   V E R S I O N
+
+Eris Lifesciences Ltd To Discuss Joint Venture with Mj Biopharm Pvt Ltd Call
+DECEMBER 04, 2021 / 4:30AM GMT
+
+================================================================================
+Corporate Participants
+================================================================================
+
+ * Amit Indubhushan Bakshi
+   Eris Lifesciences Limited - Chairman & MD
+ * Krishnakumar Vaidyanathan
+   Eris Lifesciences Limited - Executive Director & COO
+
+================================================================================
+Conference Call Participiants
+================================================================================
+
+ * Surajit Pal
+   Prabhudas Lilladher Pvt Ltd., Research Division - Assistant VP & Senior Research Analyst
+ * Ruchika Jain
+   PRC Wealth - Analyst
+ * Aryan Sharma
+   Infinity Investments - Analyst
+ * Kunal Dhamesha
+   Emkay Global Financial Services Ltd., Research Division - Senior Healthcare Analyst
+ * Tushar Manudhane
+   Motilal Oswal Securities Limited, Research Division - Research Analyst
+ * Abdulkader Puranwala
+   Elara Capital - Analyst
+ * Anubhav Aggarwal
+   Crédit Suisse AG, Research Division - Associate
+ * Vivek Tulshyan
+   New Mark Advisors LLP - VP
+ * Prakash Agarwal
+   Axis Capital Limited, Research Division - Executive Director of Pharmaceuticals
+
+================================================================================
+Presentation
+--------------------------------------------------------------------------------
+Operator    [1]
+--------------------------------------------------------------------------------
+Ladies and gentlemen, good day, and welcome to the conference call of Eris Lifesciences. (Operator Instructions) Please note that this conference is being recorded.
+I now hand the conference over to Mr. V. Krishnakumar, Chief Operating Officer and Executive Director of the company. Thank you, and over to you, sir.
+
+--------------------------------------------------------------------------------
+Krishnakumar Vaidyanathan,  Eris Lifesciences Limited - Executive Director & COO    [2]
+--------------------------------------------------------------------------------
+Good morning. I'm happy to share with you today that Eris has announced its entry into India's insulin and GLP-1 agonist market through Eris MJ Biopharm Limited, a special purpose joint venture between Eris and Mumbai-based MJ Biopharm Private Ltd. The insulin and GLP-1 market in India is presently worth INR 3,500 crores to INR 4,000 crores, and we expect that to double over the next 5 years. So we are talking of an addressable market of nearly INR 8,000 crores by the year 2025, '26.
+Eris, one of India's leading players in the overall diabetes care segment, will now extend its product offering to insulin and GLP-1 agonist. The 70-30 joint venture, where Eris holds a 70% stake, will primarily engage in the marketing and distribution of human insulin to begin with and subsequently insulin analogs, including Glargine, Aspart, Lispro, and GLP-1 agonists, including Liraglutide, and potentially other biopharma products in India. We expect to launch human insulin in quarter 4 of this financial year. This will be part of the guidance of 10 new product launches we have given for this financial year.
+Now let me explain the deal rationale to you. We all know that diabetes is a progressive disease and that India's patient pool in diabetes is expected to at least double in the next 20 years. Hence, the next decade will see diabetes care emerge as an even more crucial therapy. The anti-diabetes therapy growth in the next 10 to 15 years will be driven mainly by 4 categories: DPP-4, SGLT2, insulins and GLP-1 agonists.
+Firstly, DPP-4 inhibitors and SGLT2 inhibitors and their combination will play a major role in the oral diabetes market on account of their superior clinical evidence around glycemic control, cardiorenal protection and weight management. These 2 segments account for 83% of the U.S. oral anti-diabetes market, whereas their penetration is only 44% in India. We expect this penetration to rapidly increase following the loss of exclusivity of more products in these 2 segments in India. On the back of our strong market position in oral antidiabetics and successful introduction of blockbuster brands like Zomelis and Gluxit, we are well positioned to ride the growth wave in DPP-4 and SGLT2.
+Now coming to the other part. Human insulin, analog insulin and GLP and agonists are expected to gain traction in India as our diabetes treatment protocols get aligned with Western standards. These 2 segments account for 61% of the total antidiabetics market in the U.S. compared to only 21% in India. This limited penetration is largely on account of limited suppliers in India and higher price points. Example, the cost of GLP-1 therapy in India is typically around INR 12,000 per month compared to INR 1,200 to INR 1,800 a month for Glargine therapy versus INR 400 to INR 600 a month for oral antidiabetics.
+The entry of additional players in insulin and GLP agonists will improve access to these therapies and hence, drive faster growth in these segments. Through the formation of this joint venture, we bridge an important gap in our diabetes care portfolio and are well positioned to leverage the market opportunity with human insulin, insulin analog and GLP agonists as well. Our unique patient care engagement platform, through which we reach thousands of patients every year, will enable us to effectively leverage the opportunity in the insulin market, which is essentially a patient service and engagement-oriented segment.
+Now I will give an overview about MJ Biopharm, who is our JV partner. It's a privately held biopharma company with proven capabilities in the development of advanced biological formulation from preclinical through to Phase III and regulatory approval. MJ has an R&D team of 35 members, including 3 PhDs. MJ operates 2 WHO-GMP-compliant manufacturing facilities for biologics bulk and formulations based on the microbial fermentation platform. In terms of dosage forms, they can manufacture injectable formulations in ampules like cartridges and prefilled syringes. They have been manufacturing and supplying -- they have manufactured and supplied more than 14 million vials and more than 4 million cartridges of human insulin to over 25 countries around the world since the year 2015.
+MJ's product pipeline presently consists of insulin analogs, Glargine, Lispro and Aspart and Liraglutide, which is a GLP-1 agonist. The initial contracted tenure of the joint venture will be 10 years, and the business will be kickstarted with human insulin, as mentioned, and will eventually expand to cover a range of insulin analogs, GLP-1 agonists and other biopharma products. MJ will be paid a onetime lump sum fee of INR 15 crores at the commencement of the JV. Eris will be responsible for ongoing sales, marketing, distribution and pharmacovigilance. And MJ will be responsible for supplying products to the joint venture via the terms of a 10-year supply arrangement.
+So together, we will bring our complementary skills to bear in order to expand access to the insulin and GLP-1 therapy in the Indian market.
+We can now open for Q&A.
+
+
+================================================================================
+Questions and Answers
+--------------------------------------------------------------------------------
+Operator    [1]
+--------------------------------------------------------------------------------
+(Operator Instructions) The first question is from the line of Abdulkader Puranwala from Elara Capital.
+
+--------------------------------------------------------------------------------
+Abdulkader Puranwala,  Elara Capital - Analyst    [2]
+--------------------------------------------------------------------------------
+I just wanted to know what are the kind of investments you will have to do for this insulin business? Are you also going to invest on the cold chain side or on the distribution side? And will that cost be entirely from Eris or it will be under the JV side? Hello? Am I audible?
+
+--------------------------------------------------------------------------------
+Unidentified Audience Member    [3]
+--------------------------------------------------------------------------------
+Hello. Hi, can we go to the next question please?
+
+--------------------------------------------------------------------------------
+Operator    [4]
+--------------------------------------------------------------------------------
+We still have the question from Mr. Abdulkader Puranwala.
+
+--------------------------------------------------------------------------------
+Unidentified Audience Member    [5]
+--------------------------------------------------------------------------------
+We couldn't hear it. Maybe Abdul will join back in the line. Can you move to the next question, please?
+
+--------------------------------------------------------------------------------
+Operator    [6]
+--------------------------------------------------------------------------------
+We'll move to the next question, which is from the line of [Ruchika Jain] from [PRC Wealth].
+
+--------------------------------------------------------------------------------
+Ruchika Jain,  PRC Wealth - Analyst    [7]
+--------------------------------------------------------------------------------
+So my question is like -- hello? Yes. Like it is mentioned that we'll be offering some kind of therapeutic options for the patients in cardiometabolic segment. So what kind of products will be available to the patients?
+
+--------------------------------------------------------------------------------
+Krishnakumar Vaidyanathan,  Eris Lifesciences Limited - Executive Director & COO    [8]
+--------------------------------------------------------------------------------
+We've just answered that question in the introduction. We said that through the deal, we are entering the insulin, insulin analog and GLP-1 agonist market. So those are the product options that we will be able to add to our product basket.
+
+--------------------------------------------------------------------------------
+Ruchika Jain,  PRC Wealth - Analyst    [9]
+--------------------------------------------------------------------------------
+Okay. Okay. And one more question, like how are the revenues and the margins will get affected after this transaction?
+
+--------------------------------------------------------------------------------
+Krishnakumar Vaidyanathan,  Eris Lifesciences Limited - Executive Director & COO    [10]
+--------------------------------------------------------------------------------
+It is too early to talk about revenues and margins since many of the planned launches are still in the development stage. Over the life cycle of this project, the return on invested capital will be around 30%, which is in line with what our existing business has been generated for the last 12 years.
+
+--------------------------------------------------------------------------------
+Ruchika Jain,  PRC Wealth - Analyst    [11]
+--------------------------------------------------------------------------------
+Okay. All right, sir. And one more, my last question is like, are there any guidelines you would like to provide going further?
+
+--------------------------------------------------------------------------------
+Krishnakumar Vaidyanathan,  Eris Lifesciences Limited - Executive Director & COO    [12]
+--------------------------------------------------------------------------------
+I think at this point, this is the guidance that we can provide that return on invested capital, or IRR, for this project is in the range of [30%]. More clear details and information will be provided as and when we are ready because as I said, we are launching human insulin in quarter 4. And then subsequently, all the other planned launches are in the development pipeline. So we will keep updating our guidance as we go along.
+
+--------------------------------------------------------------------------------
+Operator    [13]
+--------------------------------------------------------------------------------
+(Operator Instructions) The next question is from the line of Anubhav Aggarwal from Credit Suisse.
+
+--------------------------------------------------------------------------------
+Anubhav Aggarwal,  Crédit Suisse AG, Research Division - Associate    [14]
+--------------------------------------------------------------------------------
+Just one question. It's -- so how big is this human insulin market with which you are starting?
+
+--------------------------------------------------------------------------------
+Krishnakumar Vaidyanathan,  Eris Lifesciences Limited - Executive Director & COO    [15]
+--------------------------------------------------------------------------------
+Yes. So the human insulin market presently, that -- it's about INR 1,500 crores. So out of the total INR 3,500 crore to INR 4,000 crore market, INR 1,500 crores is human insulin. So it is kind of INR 1,500-plus crores. So you can take it in the INR 1,500 crore to INR 1,800 crore range.
+
+--------------------------------------------------------------------------------
+Anubhav Aggarwal,  Crédit Suisse AG, Research Division - Associate    [16]
+--------------------------------------------------------------------------------
+This is excluding the analogs, right? This is basically...
+
+--------------------------------------------------------------------------------
+Krishnakumar Vaidyanathan,  Eris Lifesciences Limited - Executive Director & COO    [17]
+--------------------------------------------------------------------------------
+Yes. Yes, this is pure human insulin. The rest of it is analogs and GLP-1.
+
+--------------------------------------------------------------------------------
+Anubhav Aggarwal,  Crédit Suisse AG, Research Division - Associate    [18]
+--------------------------------------------------------------------------------
+And in terms of time lines, when do you expect to launch the analogs as well?
+
+--------------------------------------------------------------------------------
+Krishnakumar Vaidyanathan,  Eris Lifesciences Limited - Executive Director & COO    [19]
+--------------------------------------------------------------------------------
+The first analog, which is Glargine, that is in Phase III. And it is expected that sometime in the calendar year 2023, it could make it through to commercial launch.
+
+--------------------------------------------------------------------------------
+Anubhav Aggarwal,  Crédit Suisse AG, Research Division - Associate    [20]
+--------------------------------------------------------------------------------
+CY '23, you mentioned?
+
+--------------------------------------------------------------------------------
+Krishnakumar Vaidyanathan,  Eris Lifesciences Limited - Executive Director & COO    [21]
+--------------------------------------------------------------------------------
+Calendar year '23.
+
+--------------------------------------------------------------------------------
+Anubhav Aggarwal,  Crédit Suisse AG, Research Division - Associate    [22]
+--------------------------------------------------------------------------------
+Yes. Okay. And we -- typically, we have seen, as previous participants are also asking, that margins in insulin are much lower in general for the industry. Would you say the margins would be just half of what you make normally?
+
+--------------------------------------------------------------------------------
+Krishnakumar Vaidyanathan,  Eris Lifesciences Limited - Executive Director & COO    [23]
+--------------------------------------------------------------------------------
+It's too early to say. It...
+
+--------------------------------------------------------------------------------
+Anubhav Aggarwal,  Crédit Suisse AG, Research Division - Associate    [24]
+--------------------------------------------------------------------------------
+No. The reason we are asking is because the cost of manufacturing is also very important in insulin. We are not sure MJ Biopharma, what is their scale and, therefore, how competitive they will be versus the other players in the market. Can you give some idea about their cost -- potential cost versus the other players in the market?
+
+--------------------------------------------------------------------------------
+Krishnakumar Vaidyanathan,  Eris Lifesciences Limited - Executive Director & COO    [25]
+--------------------------------------------------------------------------------
+Yes. So there are a couple of things I can tell you by way of guidance. One is that I have given you some indication of their volumes, the kind of scale at which they operate in my introductory comments. So they are pretty much the largest third-party manufacturer of this product in India. Secondly, I think the margins, finally what we will make, I think to say that it might be half of our existing margin, that's, I think, too much of a probably assumption to make at this point because once the analogs come into play, then the margins will end up being better than what is it for human insulin given the sheer difference in price points. So the analysis that we've done is based on an ROIC basis because we are here in this business to ultimately make a return on capital.
+So as you can see, this is a very capital-efficient deal for us because we are paying a onetime license fee of INR 15 crores upfront. Apart from that, there is no capital investment. So on an ROIC basis, we expect this business will generate close to 30%, which is what our parent business also generates.
+
+--------------------------------------------------------------------------------
+Anubhav Aggarwal,  Crédit Suisse AG, Research Division - Associate    [26]
+--------------------------------------------------------------------------------
+And one last question, and then I'll come back in the queue. On -- in this human insulin itself, I'm not talking about analogs here, INR 1,500 crore market, do you think you can take a potentially 10% market share or more than that in this market in the next 2, 3 years?
+
+--------------------------------------------------------------------------------
+Krishnakumar Vaidyanathan,  Eris Lifesciences Limited - Executive Director & COO    [27]
+--------------------------------------------------------------------------------
+In terms of the strategy for human insulin, I think it would be best for Amit to comment. So I would invite him to share his perspectives in terms of the go-to-market. Amit, would you like to chip in?
+
+--------------------------------------------------------------------------------
+Amit Indubhushan Bakshi,  Eris Lifesciences Limited - Chairman & MD    [28]
+--------------------------------------------------------------------------------
+Am I audible?
+
+--------------------------------------------------------------------------------
+Anubhav Aggarwal,  Crédit Suisse AG, Research Division - Associate    [29]
+--------------------------------------------------------------------------------
+Yes, you are.
+
+--------------------------------------------------------------------------------
+Krishnakumar Vaidyanathan,  Eris Lifesciences Limited - Executive Director & COO    [30]
+--------------------------------------------------------------------------------
+Yes.
+
+--------------------------------------------------------------------------------
+Amit Indubhushan Bakshi,  Eris Lifesciences Limited - Chairman & MD    [31]
+--------------------------------------------------------------------------------
+Thank you. So Anubhav, look, the interesting thing among -- in the human insulin market is there's a shift from vials to a cartridge [and the same]. Now this, I think, is something which is very interesting. So there are a number of new patients who are coming in and including the number of people who have been shifting from the vials to the cartridge. So this vial to a cartridge could -- because vials is almost 30% in value of overall business and have been growing -- sorry, cartridges are 30% of the overall value and have been growing better than the vials, that is where we have an edge because of our own manufacturing integration. And we've seen that a lot of human insulin will shift to the cartridge in the next 3 to 5 years. And we plan to do a catalyst in that particular field. So 10% over a period of time is completely manageable.
+
+--------------------------------------------------------------------------------
+Anubhav Aggarwal,  Crédit Suisse AG, Research Division - Associate    [32]
+--------------------------------------------------------------------------------
+Sure. And sir, what is your strategy (technical difficulty)? So this is more about lower pricing that -- how would you convince doctors to prescribe your product here? Because this is a little different from the other categories that we bought into. This is very much an established product category where there are no new products to enter into.
+
+--------------------------------------------------------------------------------
+Amit Indubhushan Bakshi,  Eris Lifesciences Limited - Chairman & MD    [33]
+--------------------------------------------------------------------------------
+So Anubhav, it's really -- I mean, if you take, for instance, supplies, then the adoption of insulin among physicians is still only 30%. That means if we presume that 50,000 physicians practice in India, the adoption -- people who write insulin is only 30%. So that means a lot of work has been left open to be executed.
+What we bring to the table, why we think we are in a good position, because insulin is a very patient service-oriented business, where you have to really service the patients well. We know that from the last decade, we have been doing a lot of patient services. And that is a clear-cut advantage which we have in getting traction in our human insulin business. So 2 things: one, 30% of the patient needs insulin, but India is low on initiation. Low initiation is typically happening because the participation of physician in insulin administration is still low.
+So these 2 we just put together, plus the technology. Now what happens? The initiation of insulin has a problem of a risk of hypoglycemia. Now imagine we have been doing CGM for a long period of time. So when we put all these things together and then establish a better practice of human insulin initiation, with the sales force who has been trained on the patient engagement, that seems to me as the X factor.
+
+--------------------------------------------------------------------------------
+Anubhav Aggarwal,  Crédit Suisse AG, Research Division - Associate    [34]
+--------------------------------------------------------------------------------
+Okay. I have a (technical difficulty). But can you talk about patient engagement? Are you planning to have -- let's, say, for example, in the diabetes field, you had multiple cases that used to screen patients for their sugar levels, et cetera. What kind of patient engagement that you can bring in here than can provide you an edge here?
+
+--------------------------------------------------------------------------------
+Amit Indubhushan Bakshi,  Eris Lifesciences Limited - Chairman & MD    [35]
+--------------------------------------------------------------------------------
+(inaudible) strategy. But I can tell you at this point of time that we are bringing in a much larger piece of technology into insulin initiation through devices. So that will be our game. So we will be starting the insulin business with all the technology background. That is where we think we will have more and more options.
+
+--------------------------------------------------------------------------------
+Anubhav Aggarwal,  Crédit Suisse AG, Research Division - Associate    [36]
+--------------------------------------------------------------------------------
+Sure. I understand.
+
+--------------------------------------------------------------------------------
+Operator    [37]
+--------------------------------------------------------------------------------
+(Operator Instructions) The next question is from the line of Prakash from Axis Capital.
+
+--------------------------------------------------------------------------------
+Prakash Agarwal,  Axis Capital Limited, Research Division - Executive Director of Pharmaceuticals    [38]
+--------------------------------------------------------------------------------
+Just on similar lines -- hello?
+
+--------------------------------------------------------------------------------
+Operator    [39]
+--------------------------------------------------------------------------------
+Please go ahead, sir.
+
+--------------------------------------------------------------------------------
+Prakash Agarwal,  Axis Capital Limited, Research Division - Executive Director of Pharmaceuticals    [40]
+--------------------------------------------------------------------------------
+Yes. So on similar lines, as the insulin players are mostly established MNC players, and a couple of them are selling on behalf of these MNC players, so one is the technology-related engagement, et cetera. But I mean, what would be our right to win? I mean, the established players and we are entering into these kind of difficult to enter markets, while it is clearly helpful in covering the full portfolio of diabetes, but how -- I mean, what would be the strategy, if you could give more details on them? And how should we look at ramping up the market share within this base? I mean, if you look at Biocon in so many years in Glargine, they're still #2 -- distant #2?
+
+--------------------------------------------------------------------------------
+Amit Indubhushan Bakshi,  Eris Lifesciences Limited - Chairman & MD    [41]
+--------------------------------------------------------------------------------
+Yes. So Prakash, I think as I alluded to when I was talking to Anubhav, we look at these 2 things. Now you used some strong words, saying very established and very penetrated brands. I'm showing you the other piece that even after that, the adoption will be 30% in the entire physician. And I can give you one more data point. The adoption rate in GP, in the general practitioner is only 2%. Now all of us know that, that 30% of people who have diabetes at some point of time will go to insulins. That's a global data which we have. Now imagine with this kind of a population of diabetes, these 30%, they are all over the place.
+So what I'm trying to reiterate is that still, the adoption of insulin is very low. Still, there is a huge fear of introducing insulin. And the basic reason for that is one is a myth that insulin is the last resort, and second is the fear of hypoglycemia. Now if this fear can be taken care of, if you can -- if you are able to just comfort, and technology is the right thing to do, so I think -- I'll give you an example. When technology sits with insulin, it becomes an insulin pump, which doesn't give any hypoglycemia. And that is the reason why Type 1 diabetes has been able to [remain] in the Western countries for 70 years.
+So the basic medicine remains the same, but it is the technology which tells when to take and how much to take. So there are no hypoglycemia and hyperglycemia. So that's the way forward, and that is what we think we will be able to pull out.
+
+--------------------------------------------------------------------------------
+Prakash Agarwal,  Axis Capital Limited, Research Division - Executive Director of Pharmaceuticals    [42]
+--------------------------------------------------------------------------------
+Okay. Understood. And the second part was, how do you see the ramp-up of your insulin start of the journey, given you said that you're going to start with human and then -- I mean -- and what are the time lines you're expecting these analogs to come through?
+
+--------------------------------------------------------------------------------
+Amit Indubhushan Bakshi,  Eris Lifesciences Limited - Chairman & MD    [43]
+--------------------------------------------------------------------------------
+So Prakash, we just had this -- [KV] just told that human insulin can start in the fourth quarter, within human insulin, and in cartridges, something which has an advantage. We have the Glargine in Phase III already. So the approvals from the regulators have already come in. So it takes maybe a year. That is why we are looking at '23 calendar year to really get started with, [you know]. And we might have one more product going into Phase III in the next 3 to 4 months. And then till '26, we have something or the other coming in. That's what the plan is.
+
+--------------------------------------------------------------------------------
+Prakash Agarwal,  Axis Capital Limited, Research Division - Executive Director of Pharmaceuticals    [44]
+--------------------------------------------------------------------------------
+No. No, I understood that. My question was on how is the ramp-up that we're expecting on these -- post these launches and approvals?
+
+--------------------------------------------------------------------------------
+Krishnakumar Vaidyanathan,  Eris Lifesciences Limited - Executive Director & COO    [45]
+--------------------------------------------------------------------------------
+So Prakash, we are -- we'll be -- roughly want some 50,000, 60,000 patients in the first month. That's what we are looking at -- first year, sorry. That's what we are looking at. And then we believe that with analogs coming in, the ramp-up will really shoot. So that's the time we'll see a lot more new ramp-up happening.
+
+--------------------------------------------------------------------------------
+Prakash Agarwal,  Axis Capital Limited, Research Division - Executive Director of Pharmaceuticals    [46]
+--------------------------------------------------------------------------------
+Okay. And last (technical difficulty) which is -- I mean, if somebody -- I mean, the patient is already on a drug, how -- I mean, have you done some studies where normally, Indian patients will not switch despite product being the same? So have you done some studies in terms of what is the switching rate in terms of brands with the same product in insulins?
+
+--------------------------------------------------------------------------------
+Krishnakumar Vaidyanathan,  Eris Lifesciences Limited - Executive Director & COO    [47]
+--------------------------------------------------------------------------------
+Yes. So switching, as you know, is always a difficult -- it has always been a difficult thing. We don't clearly depend so much on switch. Having said that, switching to a superior technology is something which has always happened and which is now happening. So that is where the space is from a switch point of view.
+
+--------------------------------------------------------------------------------
+Operator    [48]
+--------------------------------------------------------------------------------
+(Operator Instructions) The next question is from the line of Kunal Dhamesha from Emkay Global.
+
+--------------------------------------------------------------------------------
+Kunal Dhamesha,  Emkay Global Financial Services Ltd., Research Division - Senior Healthcare Analyst    [49]
+--------------------------------------------------------------------------------
+So the first question, regarding the penetration number that you shared in the U.S. versus India, are those in value terms for, let's say, SGLT2, DPP as well as insulin?
+
+--------------------------------------------------------------------------------
+Krishnakumar Vaidyanathan,  Eris Lifesciences Limited - Executive Director & COO    [50]
+--------------------------------------------------------------------------------
+Yes. This is value terms. This is value data as reflected by IQVIA.
+
+--------------------------------------------------------------------------------
+Kunal Dhamesha,  Emkay Global Financial Services Ltd., Research Division - Senior Healthcare Analyst    [51]
+--------------------------------------------------------------------------------
+Sure. And when you say that insulin penetration is kind of low in India, have you studied it in terms of the Type 1 and Type 2? Because I think the primary users are Type 1 diabetes, juvenile diabetes. They use it for their entire life. What is the Type 2 (technical difficulty)? They use it very (technical difficulty). So what would be the penetration of the juvenile diabetes right now in India?
+
+--------------------------------------------------------------------------------
+Amit Indubhushan Bakshi,  Eris Lifesciences Limited - Chairman & MD    [52]
+--------------------------------------------------------------------------------
+So Type 1, you have to take insulin. It is lifesaving. So if you don't take insulin, there's no survival rates. Having said that, Type 1 is a very, very small population of diabetes. It is considered to be less than 1% of total diabetes. Therefore, the entire market do depend on Type 2 diabetes. And in Type 2 diabetes, there is data that 30% people suffering from Type 2 diabetes will eventually go to insulin, will need insulin for control. So the major market globally remains at Type 2 and India [more so ever].
+
+--------------------------------------------------------------------------------
+Kunal Dhamesha,  Emkay Global Financial Services Ltd., Research Division - Senior Healthcare Analyst    [53]
+--------------------------------------------------------------------------------
+Sure. And (technical difficulty) switching is (technical difficulty) human insulin brand. Does that mean that your goals will be dependent on population which is newly diagnosed? So it would be more a function of the incidence of diabetes?
+
+--------------------------------------------------------------------------------
+Amit Indubhushan Bakshi,  Eris Lifesciences Limited - Chairman & MD    [54]
+--------------------------------------------------------------------------------
+So generally, insulin initiation happens generally from fifth to seventh year of being diagnosed with diabetes. So here, it is not about the detection of the diabetes because the protocols do suggest that once the patient is detected, he goes into oral diabetes agents. And it is 5 to 7 years' time when he might go on insulin. So that is where the data is. So this business is more dependent on patients who have not been able to have control on (inaudible), and then they go on insulin. Or there are some prototypes where you need to be in insulin very early, typically patients who lose a lot of weight in diabetes, so we can clearly understand that their beta cells are not functioning anymore.
+So the way we (inaudible) very young age. It's like riding a horse. Beta cells is like riding a horse. You give a whip, it will secrete more, it will run faster. Another whip, maybe faster, still faster, but there comes a point where as much as you like, the horse barely moves. And that is what happens to the pancreas also. So the beta cells after some time do not respond to your (inaudible). And that is called -- typically called beta cell failure. And that is where you need the insulin to make the metabolism work.
+
+--------------------------------------------------------------------------------
+Operator    [55]
+--------------------------------------------------------------------------------
+The next question is from the line of Tushar Manudhane from Motilal Oswal Financial Services.
+
+--------------------------------------------------------------------------------
+Tushar Manudhane,  Motilal Oswal Securities Limited, Research Division - Research Analyst    [56]
+--------------------------------------------------------------------------------
+Just taking forward from the previous participants and then further connecting that with the price point, where there is a significant spread between the GLP-1 therapy and, let's say, the oral diabetes. So why the necessity would be to take up the GLP-1 therapy? But considering the price point, how critical or how easy or difficult it is to convert the patient to GLP-1 therapy? That is the first question.
+And secondly, irrespective of that, further now that you are going to introduce the product, relatively how much of the price discount can be possible from this lens?
+And thirdly, even if the price point, let's say, go up to 50%, which is considering INR 12,000 per month to INR 6,000, still, you think much costlier offer compared to the previous therapy. So if you could answer these 3 questions.
+
+--------------------------------------------------------------------------------
+Krishnakumar Vaidyanathan,  Eris Lifesciences Limited - Executive Director & COO    [57]
+--------------------------------------------------------------------------------
+So it's too early to provide responses on pricing. It is very clear that we are committed to expanding pricing to the rest of India. I think in terms of providing some insights around this topic, I would invite Amit to share his perspectives, if any.
+
+--------------------------------------------------------------------------------
+Amit Indubhushan Bakshi,  Eris Lifesciences Limited - Chairman & MD    [58]
+--------------------------------------------------------------------------------
+The one reason for GLP and analogs to have a lower adoption is the prices, and this is not new. We have seen this with SGLT2. We have seen with DPP-4. Imagine a DPP-4 being sold for 10 years, grows 100% in the first year, then the price comes down to 30%. And the way you look to this data, you can see how the developed countries are behaving.
+So as we told you that there's a 61% adoption between GLP and insulin in the U.S., that is where -- the money has been paid by the insurer, and that is where people do work as per the guidelines. So the guidelines do suggest an early adoption of GLP and insulin also. So I think the price coming down will be the time whosoever does it. But whenever the price comes down, that is the time the adoption will just hit the roof.
+And that 5,000 question, look, we have seen -- the other side of the story is GST, SGLT2 and DPP-4 inhibitors selling at around INR 50, INR 60 per month -- INR 50, INR 60 per tablet, which is like INR 2,000 currently. And they have, both put together, between INR 2,000 crore market in India. So there is a lot of comfort now on a $1 a pen kind of a -- $1 a pen a day kind of a price point. So if GLP, as you said, could be half or maybe a little here and there, our adoption rate will go up tremendously.
+
+--------------------------------------------------------------------------------
+Operator    [59]
+--------------------------------------------------------------------------------
+Our next question is from the line of Abdulkader Puranwala from Elara Capital.
+
+--------------------------------------------------------------------------------
+Abdulkader Puranwala,  Elara Capital - Analyst    [60]
+--------------------------------------------------------------------------------
+Am I audible now?
+
+--------------------------------------------------------------------------------
+Operator    [61]
+--------------------------------------------------------------------------------
+Yes, sir. You are.
+
+--------------------------------------------------------------------------------
+Abdulkader Puranwala,  Elara Capital - Analyst    [62]
+--------------------------------------------------------------------------------
+Yes. So a couple of questions on this entire JV thread. First of all, I would like to understand what are the kind of investments will you have to do in order to promote the entire insulin franchise and will it be done through the injection route only? Or you will have to do it in a [person] capacity?
+
+--------------------------------------------------------------------------------
+Krishnakumar Vaidyanathan,  Eris Lifesciences Limited - Executive Director & COO    [63]
+--------------------------------------------------------------------------------
+There are no capital investments with the JV. As I mentioned at the start that upon closing, there is a onetime license fee of INR 15 crores payable. All the other so-called investments, which are of a CapEx nature, that will be undertaken through the JV.
+
+--------------------------------------------------------------------------------
+Abdulkader Puranwala,  Elara Capital - Analyst    [64]
+--------------------------------------------------------------------------------
+Sure. And the second question is, when I look at the competition you will be competing with -- we have an open manufacturing advantage you you can get this done easily by your own manufacturing. So any specific reason why you would want to control manufacturing on entering this JV route?
+
+--------------------------------------------------------------------------------
+Krishnakumar Vaidyanathan,  Eris Lifesciences Limited - Executive Director & COO    [65]
+--------------------------------------------------------------------------------
+So we believe that a joint venture creates better alignment of interest in the long term, and it is true that there are people who are getting into pill manufacturing. I think the scope of this joint venture is something very broad. It's not just insulin. We're starting with human insulin. We are adding insulin analogs and GLP, and we can add potentially other biopharma products also. So -- because microbial fermentation is a platform technology on which we can manufacture a whole range of products. So we see this JV as a long-term kind of alignment entry into biopharmaceuticals, which is why -- which is a 10-year JV. And this is why we've chosen the JV route.
+
+--------------------------------------------------------------------------------
+Abdulkader Puranwala,  Elara Capital - Analyst    [66]
+--------------------------------------------------------------------------------
+Sure. And just final question, but when should we expect all the 3 forms to be launched in the market? You mentioned Glargine in Q4. So the rest, Aspart and Lispro, by 1 more year. Is that also when it will be launched into the market?
+
+--------------------------------------------------------------------------------
+Krishnakumar Vaidyanathan,  Eris Lifesciences Limited - Executive Director & COO    [67]
+--------------------------------------------------------------------------------
+Glargine is not Q4. Human insulin will be launched in Q4 of this year. Glargine, we said, is in Phase III, and it will be launched in calendar year '23 -- 2023. And the remaining products are in various stages of development. So as and when the time is right, we will come back to you with the guidance on this.
+
+--------------------------------------------------------------------------------
+Operator    [68]
+--------------------------------------------------------------------------------
+The next question is from the line of Anubhav Aggarwal from Credit Suisse. As the person has placed the call on hold, we'll move to the next question, which is from the line of Vivek Tulshyan from New Mark Capital.
+
+--------------------------------------------------------------------------------
+Vivek Tulshyan,  New Mark Advisors LLP - VP    [69]
+--------------------------------------------------------------------------------
+Yes. I just want to understand what is the share of MJ Biopharma in the human insulin market? You mentioned that they are the third largest -- they are the largest third-party manufacturer. So is there some sense on how big they are in this market?
+
+--------------------------------------------------------------------------------
+Krishnakumar Vaidyanathan,  Eris Lifesciences Limited - Executive Director & COO    [70]
+--------------------------------------------------------------------------------
+We don't have that kind of market share data published and available. Suffice to say that they are -- they have built significantly large scale. As I mentioned, they got approval for human insulin in 2015. So they have been in the market for 6 years, manufacturing and supplying to other pharma companies. And between cartridges and vials, they have done nearly 20 million in volumes in the last 5 to 6 years. So that's significant scale in this business.
+
+--------------------------------------------------------------------------------
+Vivek Tulshyan,  New Mark Advisors LLP - VP    [71]
+--------------------------------------------------------------------------------
+Understood. The other question is on the agreement. So does this give us any kind of exclusivity for some of the products that are going to be launched or MJ Pharma will continue to manufacture it for other players as well?
+
+--------------------------------------------------------------------------------
+Krishnakumar Vaidyanathan,  Eris Lifesciences Limited - Executive Director & COO    [72]
+--------------------------------------------------------------------------------
+So each product will be discussed as it comes up for launch, but there is nothing in the agreement that precludes MJ Pharma from continuing its contract manufacturing business because building market share in crowded markets has been the DNA of Eris. If you go back to when Eris was launched in 2007, we brought (inaudible) to the market. At that point, (inaudible) was genericized. There were dozens and dozens of (inaudible) brands in the market, and yet we have built (inaudible) then to #5, #6 market share.
+So that's what we are good at. So that's essentially the game that we will be playing in insulin also. So supply of products to third parties as a contract manufacturer, that's not something that bothers us a whole lot.
+
+--------------------------------------------------------------------------------
+Operator    [73]
+--------------------------------------------------------------------------------
+(Operator Instructions) The next question is from the line of Anubhav Aggarwal from Credit Suisse.
+
+--------------------------------------------------------------------------------
+Anubhav Aggarwal,  Crédit Suisse AG, Research Division - Associate    [74]
+--------------------------------------------------------------------------------
+Yes. So one question on MJ Biopharma. So can you just talk about how large is the scale for them, not the volumes, 20 million? But overall revenue size, how large is this company?
+
+--------------------------------------------------------------------------------
+Krishnakumar Vaidyanathan,  Eris Lifesciences Limited - Executive Director & COO    [75]
+--------------------------------------------------------------------------------
+Yes. So my understanding is they are coming up to around INR 200 crores in revenue.
+
+--------------------------------------------------------------------------------
+Anubhav Aggarwal,  Crédit Suisse AG, Research Division - Associate    [76]
+--------------------------------------------------------------------------------
+Okay. And just some more clarity on one other question which was asked, MJ getting a 30% share in this JV versus just acting as a toll manufacturer. So if they are not bringing any capital investment and if they're just supplying the product, I'm assuming there are certain -- they're taking certain margin on the supply of the products also. So what -- in your interest, it is 30% in JV to them. Or is it that you're getting benefit that when you're getting the supply of the products, the margins that you're keeping is so low that you are giving a 30% interest in the JV to them?
+
+--------------------------------------------------------------------------------
+Krishnakumar Vaidyanathan,  Eris Lifesciences Limited - Executive Director & COO    [77]
+--------------------------------------------------------------------------------
+So it's too early to talk about that because we have just formed the JV, and each product will be a different agreement. So what is the price at which each product will be launched, what will be the supply side, that will be decided on a product-by-product basis. As I said, we didn't want to make this very tactical and look at product-by-product kind of third-party arrangement because we believe that there is a lot of things to be said about biopharma being an important lever going forward. And we don't see this JV as only for human insulin or insulin analogs. But we see this as a long-term platform in which we can build a biopharma business. And that is the reason for the 70-30 equity stake.
+
+--------------------------------------------------------------------------------
+Anubhav Aggarwal,  Crédit Suisse AG, Research Division - Associate    [78]
+--------------------------------------------------------------------------------
+(technical difficulty) Sorry, there is echo in the line, sir. These guys have -- will be supplying products on a nonexclusive basis. I can understand if you give them 30% stake, they will have a higher interest to give their future products to you guys as well. But if it's a nonexclusive contract, then still, giving 30% stake is not very [prudent] also.
+
+--------------------------------------------------------------------------------
+Krishnakumar Vaidyanathan,  Eris Lifesciences Limited - Executive Director & COO    [79]
+--------------------------------------------------------------------------------
+Yes. So it is obvious that for human insulin, they have supply agreements in place, right? And so those will continue. There is nothing, because of the agreement, which will affect those supply agreements. For the newer products, we have agreed that obviously, they will probably not need to go so broad-based in terms of having third-party supply agreements. The JV will definitely get some kind of acceptance so that it's...
+
+--------------------------------------------------------------------------------
+Amit Indubhushan Bakshi,  Eris Lifesciences Limited - Chairman & MD    [80]
+--------------------------------------------------------------------------------
+KV, can I comment in here, please?
+
+--------------------------------------------------------------------------------
+Krishnakumar Vaidyanathan,  Eris Lifesciences Limited - Executive Director & COO    [81]
+--------------------------------------------------------------------------------
+Yes.
+
+--------------------------------------------------------------------------------
+Amit Indubhushan Bakshi,  Eris Lifesciences Limited - Chairman & MD    [82]
+--------------------------------------------------------------------------------
+Yes. So Anubhav, this 30% equity has been given or has been -- come to this arrangement looking at what will happen in the next 10 years. Since each of these products -- we see it can have large volumes and value. And we wanted one surety of supply. Second, we wanted to shape up the future in case of what is to be done or really what is to be done later. We wanted to say there, and we also wanted a say or an understanding of how better we can integrate. So there is not one, but there are more than one thing which has been considered for having this JV.
+And when we look in the market, we understood that if we keep on running a third-party kind of an arrangement, this business will get more and more difficult to enter. And that is the reason we stayed out of this for so many years. Otherwise, it was quite easy to understand that after having a solution ready, it is a natural progression to get into insulin. So we are getting enough and more -- we had enough and more reasons to get this into the JV. And it will be -- as I said, the supply, some kind of a pricing, some kind of a strategic direction which comes when or which combinations, all those things. So that's where it is important.
+
+--------------------------------------------------------------------------------
+Anubhav Aggarwal,  Crédit Suisse AG, Research Division - Associate    [83]
+--------------------------------------------------------------------------------
+Sure. That is (inaudible). The last question on this is that like you are paying INR 15 crores right now. When Glargine gets approved or other product gets approved, maybe -- would there be some more milestone payments to MJ?
+
+--------------------------------------------------------------------------------
+Amit Indubhushan Bakshi,  Eris Lifesciences Limited - Chairman & MD    [84]
+--------------------------------------------------------------------------------
+So Anubhav, there's nothing which we have decided at this point of time. There is nothing in the -- based on the agreement. But I told you that this is strategic and why giving 30% to the manufacturer is important because we need to have their interest also in place. So while there is no agreement on that side, but the way things evolved, and we do think that there is some strategic investments which needs to go behind, we will be completely open. That's how our mind is at this point of time.
+
+--------------------------------------------------------------------------------
+Operator    [85]
+--------------------------------------------------------------------------------
+(Operator Instructions) The next question is from the line of Surajit Pal.
+
+--------------------------------------------------------------------------------
+Surajit Pal,  Prabhudas Lilladher Pvt Ltd., Research Division - Assistant VP & Senior Research Analyst    [86]
+--------------------------------------------------------------------------------
+What I understood is that the 2 things, which is a bit different than what Eris has been telling us or has been targeting. One area is that which you were talking about is that given the kind of data, concentration level or the expansion level of insulin in GP is 2%, whereas the specialty -- super specialty is around 30%. Now given the kind of understanding, what you have been telling us since beginning of this conference call, what I understood is that instead of wasting time and energy for converting people of the existing insulin taker, you might be targeting the guy who could be potential candidate to be converted into insulin. So that would be easier. So that means you are targeting new clients. Am I understanding it right?
+
+--------------------------------------------------------------------------------
+Amit Indubhushan Bakshi,  Eris Lifesciences Limited - Chairman & MD    [87]
+--------------------------------------------------------------------------------
+So there is a mix of both.
+
+--------------------------------------------------------------------------------
+Surajit Pal,  Prabhudas Lilladher Pvt Ltd., Research Division - Assistant VP & Senior Research Analyst    [88]
+--------------------------------------------------------------------------------
+I understood the mix of both, but your major target will be the new customer rather than the converting and pursuing the older to new one, which will be -- as I said, will keep on going. But your major focus will be the new customers which will be easier to catch hold of.
+
+--------------------------------------------------------------------------------
+Amit Indubhushan Bakshi,  Eris Lifesciences Limited - Chairman & MD    [89]
+--------------------------------------------------------------------------------
+Right. If you have this understanding, then I'm okay with it.
+
+--------------------------------------------------------------------------------
+Surajit Pal,  Prabhudas Lilladher Pvt Ltd., Research Division - Assistant VP & Senior Research Analyst    [90]
+--------------------------------------------------------------------------------
+Okay. So my question is that, it seems your basic USP is that you will network among the specialty and super specialty. What kind of strategy do you have to get into also to the GP level, where it would be easier to catch hold of of converting people into (inaudible) insulin?
+
+--------------------------------------------------------------------------------
+Amit Indubhushan Bakshi,  Eris Lifesciences Limited - Chairman & MD    [91]
+--------------------------------------------------------------------------------
+Education and handholding for insulin initiation.
+
+--------------------------------------------------------------------------------
+Surajit Pal,  Prabhudas Lilladher Pvt Ltd., Research Division - Assistant VP & Senior Research Analyst    [92]
+--------------------------------------------------------------------------------
+Okay. Second thing is that your return ratio focus instead of the operating margin focus, so this is something new. So going forward, given the kind of JV you have made, can we expect that there could be more number of products coming out of this JV or any other JV or in-license deal, where margin will be lower than your current margin? But your target will be around 30% kind of ROIC or ROC. So that will be your target going forward? So that could be the second understanding?
+
+--------------------------------------------------------------------------------
+Amit Indubhushan Bakshi,  Eris Lifesciences Limited - Chairman & MD    [93]
+--------------------------------------------------------------------------------
+KV, can you take this?
+
+--------------------------------------------------------------------------------
+Krishnakumar Vaidyanathan,  Eris Lifesciences Limited - Executive Director & COO    [94]
+--------------------------------------------------------------------------------
+Yes. Sure. So we have always maintained that we evaluate new opportunities, and we always get asked about what screens do we use to evaluate M&A opportunities or in-licensing opportunities. And we've always maintained that return on capital is the most important metric for us because, yes, you might have a business that is 40% EBITDA margin, and then you have something that comes up which is 30% EBITDA margin, but that in itself doesn't make it a contingent evaluation because we also have to see what investments we are making.
+So ROIC is not something that has popped up yesterday. ROIC has always been our screen to evaluate investment opportunities, and it will continue to be so. So we continue to screen M&A and in-licensing opportunities all the time. And so anything that is a strategic fit and anything that meets the financial hurdle, that is something that we will consider very strongly.
+
+--------------------------------------------------------------------------------
+Surajit Pal,  Prabhudas Lilladher Pvt Ltd., Research Division - Assistant VP & Senior Research Analyst    [95]
+--------------------------------------------------------------------------------
+Okay. Okay. So going forward, given the kind of plan you have in terms of launching quite a good number of products and adding value to the portfolio, so into medium to long term, we can expect that you might be ending up to the margin of something like around 30% from the current level, where you maintain your ROIC?
+
+--------------------------------------------------------------------------------
+Krishnakumar Vaidyanathan,  Eris Lifesciences Limited - Executive Director & COO    [96]
+--------------------------------------------------------------------------------
+I think that's too difficult to say because nobody can forecast what kind of deals will get turned over, what time period. As far as medium- to long-term margin is concerned, we have always maintained that considering where we are starting from, stand-alone EBITDA margin of 40% to 42%, we have the luxury and the ability to let go of 200, 300, 400 basis points of EBITDA margin as we push through growth. So that is something that has always been our strategy.
+
+--------------------------------------------------------------------------------
+Operator    [97]
+--------------------------------------------------------------------------------
+(Operator Instructions) The next question is from the line of [Aryan Sharma] from [Infinity Investments].
+
+--------------------------------------------------------------------------------
+Aryan Sharma,  Infinity Investments - Analyst    [98]
+--------------------------------------------------------------------------------
+My question is in your presentation, you have said that Eris will be responsible for sales and marketing. So will Eris have to add in the MRs rather than improve the field force? Hello?
+
+--------------------------------------------------------------------------------
+Krishnakumar Vaidyanathan,  Eris Lifesciences Limited - Executive Director & COO    [99]
+--------------------------------------------------------------------------------
+Amit, would you like to address that?
+
+--------------------------------------------------------------------------------
+Amit Indubhushan Bakshi,  Eris Lifesciences Limited - Chairman & MD    [100]
+--------------------------------------------------------------------------------
+Yes. So this JV will house, to start with, around 200 people. And then going forward, there could be some expansion that this JV will start with 200 people.
+
+--------------------------------------------------------------------------------
+Aryan Sharma,  Infinity Investments - Analyst    [101]
+--------------------------------------------------------------------------------
+Okay. Okay. Yes. And the next question is as this JV is more focused on diabetes, so are you planning on entering any other JV, maybe a newer therapy? And what will be your strategy going forward regarding this?
+
+--------------------------------------------------------------------------------
+Krishnakumar Vaidyanathan,  Eris Lifesciences Limited - Executive Director & COO    [102]
+--------------------------------------------------------------------------------
+As far as therapy focus is concerned, we have maintained that there are 6 therapies around which we are focusing our investments: diabetes, cardiovascular, VMN, CNS, dermatology and women's health. So any of the investments that we make, whether it is organic or inorganic, will be centered around these specialities.
+
+--------------------------------------------------------------------------------
+Operator    [103]
+--------------------------------------------------------------------------------
+As there are no further questions from the participants, I now hand over the conference over to Mr. V. Krishnakumar for closing comments.
+
+--------------------------------------------------------------------------------
+Krishnakumar Vaidyanathan,  Eris Lifesciences Limited - Executive Director & COO    [104]
+--------------------------------------------------------------------------------
+Thank you all for taking this call today morning. By way of summary, we all know that diabetes is a progressive disease and that India's diabetes patient pool is set to at least double in the next 20 years. Hence, the next decade, we'll see diabetes care emerge as an even more crucial therapy. The anti-diabetes therapy growth in the next 10 to 15 years will be driven primarily by 4 categories: DPP-4, SGLT2, insulin and GLP-1 agonists. Our strong market position in oral antidiabetes will enable us to ride the growth rate in oral antidiabetes through DPP-4 and SGLT2 inhibitors and their combination.
+Through this newly formed JV, we bridge an important gap in our diabetes care portfolio and are well positioned to leverage the market opportunity in human insulin, insulin analog and GLP-1 agonist. Our unique patient care platform, through which we reach thousands of patients every year, will enable us to effectively leverage the insulin opportunity, which is essentially a patient service- and engagement-oriented segment. We will bring our complementary skills to bear in order to expand access to insulin and GLP-1 therapies in the Indian market.
+Thank you for attending this call, and have a great weekend.
+
+--------------------------------------------------------------------------------
+Operator    [105]
+--------------------------------------------------------------------------------
+Thank you. On behalf of Eris Lifesciences, that concludes this conference. Thank you for joining us, and you may now disconnect your lines.
+
+
+
+
+
+
+
+--------------------------------------------------------------------------------
+Definitions
+--------------------------------------------------------------------------------
+PRELIMINARY TRANSCRIPT: "Preliminary Transcript" indicates that the 
+Transcript has been published in near real-time by an experienced 
+professional transcriber.  While the Preliminary Transcript is highly 
+accurate, it has not been edited to ensure the entire transcription 
+represents a verbatim report of the call.
+
+EDITED TRANSCRIPT: "Edited Transcript" indicates that a team of professional 
+editors have listened to the event a second time to confirm that the 
+content of the call has been transcribed accurately and in full.
+
+--------------------------------------------------------------------------------
+Disclaimer
+--------------------------------------------------------------------------------
+Refinitiv reserves the right to make changes to documents, content, or other 
+information on this web site without obligation to notify any person of 
+such changes.
+
+In the conference calls upon which Event Transcripts are based, companies 
+may make projections or other forward-looking statements regarding a variety 
+of items. Such forward-looking statements are based upon current 
+expectations and involve risks and uncertainties. Actual results may differ 
+materially from those stated in any forward-looking statement based on a 
+number of important factors and risks, which are more specifically 
+identified in the companies' most recent SEC filings. Although the companies 
+may indicate and believe that the assumptions underlying the forward-looking 
+statements are reasonable, any of the assumptions could prove inaccurate or 
+incorrect and, therefore, there can be no assurance that the results 
+contemplated in the forward-looking statements will be realized.
+
+THE INFORMATION CONTAINED IN EVENT TRANSCRIPTS IS A TEXTUAL REPRESENTATION
+OF THE APPLICABLE COMPANY'S CONFERENCE CALL AND WHILE EFFORTS ARE MADE TO
+PROVIDE AN ACCURATE TRANSCRIPTION, THERE MAY BE MATERIAL ERRORS, OMISSIONS,
+OR INACCURACIES IN THE REPORTING OF THE SUBSTANCE OF THE CONFERENCE CALLS.
+IN NO WAY DOES REFINITIV OR THE APPLICABLE COMPANY ASSUME ANY RESPONSIBILITY FOR ANY INVESTMENT OR OTHER
+DECISIONS MADE BASED UPON THE INFORMATION PROVIDED ON THIS WEB SITE OR IN
+ANY EVENT TRANSCRIPT. USERS ARE ADVISED TO REVIEW THE APPLICABLE COMPANY'S
+CONFERENCE CALL ITSELF AND THE APPLICABLE COMPANY'S SEC FILINGS BEFORE
+MAKING ANY INVESTMENT OR OTHER DECISIONS.
+--------------------------------------------------------------------------------
+Copyright 2023 Refinitiv. All Rights Reserved.
+--------------------------------------------------------------------------------

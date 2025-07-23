@@ -1,0 +1,426 @@
+
+
+Refinitiv StreetEvents Event Transcript
+E D I T E D   V E R S I O N
+
+Royalty Pharma plc MorphoSys Transaction Conference Call
+JUNE 02, 2021 / 12:45PM GMT
+
+================================================================================
+Corporate Participants
+================================================================================
+
+ * Pablo Legorreta
+   Royalty Pharma plc - Founder, Chairman of the Board & CEO
+ * George Grofik
+   RP Management LLC - Senior VP and Head of IR & Communications
+ * Christopher Hite
+   Royalty Pharma plc - Vice Chairman & Executive VP
+ * Terrance Coyne
+   Royalty Pharma plc - Executive VP & CFO
+ * Marshall Urist
+   Royalty Pharma plc - Executive VP and Co-Head of Research & Investments
+
+================================================================================
+Conference Call Participiants
+================================================================================
+
+ * Stephen Michael Scala
+   Cowen and Company, LLC, Research Division - MD & Senior Research Analyst
+ * Michael Gennaro DiFiore
+   Evercore ISI Institutional Equities, Research Division - Equity Research Analyst
+ * Gregory B. Gilbert
+   Truist Securities, Inc., Research Division - Analyst
+ * David Reed Risinger
+   Morgan Stanley, Research Division - MD in Equity Research and United States Pharmaceuticals Analyst
+ * William Patrick Maughan
+   BofA Securities, Research Division - Associate
+ * Terence C. Flynn
+   Goldman Sachs Group, Inc., Research Division - MD
+ * Christopher Thomas Schott
+   JPMorgan Chase & Co, Research Division - Senior Analyst
+ * Andrew Simon Baum
+   Citigroup Inc. Exchange Research - Research Analyst
+
+================================================================================
+Presentation
+--------------------------------------------------------------------------------
+Operator    [1]
+--------------------------------------------------------------------------------
+
+          Ladies and gentlemen, thank you for standing by. Welcome to Royalty Pharma's conference call on the MorphoSys transaction. I would now like to turn the call over to George Grofik, SVP, Head of Investor Relations and Communications. Please go ahead, sir.
+
+--------------------------------------------------------------------------------
+George Grofik,  RP Management LLC - Senior VP and Head of IR & Communications    [2]
+--------------------------------------------------------------------------------
+
+          Good morning and good afternoon to everyone on the call. Thank you for joining us to review Royalty Pharma's transaction with MorphoSys. You can find the slides for this call on the Investors page of our website at royaltypharma.com.
+Moving to Slide 3, I'd like to remind you that information presented in this call contains forward-looking statements that involve known and unknown risks, uncertainties and other factors may cause actual results to differ materially. I refer you to our 10-K on file with the SEC for a discussion of these risks.
+And with that, please advance to Slide 4. Our speakers on the call today are Pablo Legorreta Founder and Chief Executive Officer; Chris Hite, EVP, Vice Chairman; Marshall Urist, EVP, Co-Head of Research and Investments; and Terry Coyne, EVP, Chief Financial Officer. Pablo will discuss the key highlights of the transaction, after which Chris will discuss our role in M&A as part of the funding solutions we provide. Marshall will then provide details on the royalties we're acquiring through this transaction before Terry reviews the financial aspects. And after concluding remarks on Pablo, we will hold a Q&A session.
+And with that, I'd like to turn the call over to Pablo.
+
+--------------------------------------------------------------------------------
+Pablo Legorreta,  Royalty Pharma plc - Founder, Chairman of the Board & CEO    [3]
+--------------------------------------------------------------------------------
+
+          Thank you, George, and welcome to everyone on the call. Today's $2 billion strategic funding partnership with MorphoSys is our biggest and boldest transaction since Royalty Pharma went public last year. It is also a great example of the important partnering role we can play in the broader biopharma ecosystem and our ability to advance win-win funding solutions for the companies involved as well as for patients. More specifically, our strategic funding partnership with MorphoSys will enable its transformative acquisition of Constellation, which will accelerate its growth strategy. Through this acquisition, MorphoSys will add promising pipeline candidates, bolster its position in hematology and solid tumors and strengthen its research and technology capabilities. The scale of upfront capital we're providing to MorphoSys to accomplish this deal is unprecedented for an acquirer of their size and highlights the unique value of Royalty Pharma as a partner.
+On Slide 7, I'm delighted to share with you why we believe this transaction is so strategically and financially attractive for Royalty Pharma. First, for Royalty Pharma, the anchor of this transaction is the royalty we will receive on Tremfya, a leading immunology blockbuster in the growing psoriasis market. Second, we will add 4 attractive development-stage therapies to our royalty pipeline with 2 coming from MorphoSys and 2 from Constellation Pharmaceuticals. Each of these therapies offers significant upside potential to the transaction. Third, not only does the deal significantly diversify portfolio across therapeutic classes, products and markers, but it will also add significant -- significantly enhance our expected long-term growth potential, as Terry will discuss in more detail. Also by providing development funding bonds as part of the consideration for the transaction, we believe this rounds out the overall risk/return profile of the deal by providing a stable long-duration cash flow stream with an attractive IRR and multiple.
+Lastly, our ability to execute such a complex transaction really speaks to the breadth of our funding capabilities and our unique role in M&A. We served as one-stop shop for MorphoSys to pursue its strategic goals. For us, this is a strong demonstration of our flexible and leading approach to funding life sciences innovation for the benefit of patients globally.
+On Slide 8, you see a summary of the funding we're providing to MorphoSys. The largest element is an upfront amount of $1.425 billion, which we will pay upon closing of MorphoSys acquisition of Constellation, underpinned by a royalty on J&J's Tremfya. On top of this, we will make up to $150 million in payments related to the achievement of clinical, regulatory and commercial milestones. Additionally, in order to advance MorphoSys' pipeline, we have agreed to provide up to $350 million in development funding bonds with flexibility to draw over a 1-year period with a minimum draw of $150 million. We will receive fixed payments on these bonds for 9 years with the first payment beginning 9 -- 8 quarters after the first draw. We expect returns slightly north of 2x and low teens IRR in these bonds.
+Lastly, we have agreed to acquire $100 million in MorphoSys' equity, which is expected to be priced using a 5-day volume-weighted average price of MorphoSys' common equity at around the time that the acquisition of Constellation closes. All considered this component's total funding of around $2 billion making it the third largest royalty-based funding deal ever in biopharma.
+Slide 9 provides more detail on the strategic elements of the transaction. In Tremfya, we have the opportunity for our new top royalty within our current portfolio by 2025 based on blockbuster sales from its approved indications, but also with the potential for label expansion into other immunological disorders, such as ulcerative colitis and Crohn's. For MorphoSys in-house royalty portfolio we're also acquiring royalties on gantenerumab, which would be marketed by Roche, if approved; and otilimab, which will be marketed by GSK, if approved. These are 2 attractive Phase III therapies, which could enter potentially large market for Alzheimer's disease and rheumatoid arthritis, respectively.
+From Constellation's portfolio, we will gain synthetic royalties on 2 earlier-stage therapies, namely pelabresib, which has demonstrated impressive Phase III results in myelofibrosis and CPI-0209 for solid tumors and hematological malignancies. Lastly, the development funding bonds provide a stable long-duration cash flow stream that lowers the overall risk profile of the deal for Royalty Pharma and provides funding flexibility for MorphoSys.
+Slide 10 sets out how this transaction aligns with all 3 of our stated strategic pillars. On Tremfya, it provides Royalty Pharma with royalties on marketed -- market-leading approved therapy with a long duration and significant growth ahead. It also provides royalties on late-stage therapies with strong proof-of-concept data that could be important treatment options in large markets. And overall, it provides a diverse set of royalties acquired through an M&A transaction in which we play an important funding role to enable a partner to achieve its strategic objectives in advanced life sciences innovation.
+Slide 11 shows our clear leadership position in larger royalty transactions. In summary, Royalty Pharma has transacted on 14 of the 16 royalty deals above $500 million as well as the top 3 largest biopharma royalty deals ever, showing the distinct benefit of our scale, cost of capital, and proven due diligence process that gives us confidence to pursue larger transactions. We have all -- we also have an overall market share of nearly 90% in these large deals. This reflects our many years of experience in tailoring flexible win-win funding solutions for our partners as well as the exceptional caliber and reputation of our research and investments team. We expect to remain a leader in funding life sciences innovation for many years to come.
+Let me now hand over to Chris to expand on our unique role in M&A.
+
+--------------------------------------------------------------------------------
+Christopher Hite,  Royalty Pharma plc - Vice Chairman & Executive VP    [4]
+--------------------------------------------------------------------------------
+
+          Thank you, Pablo, and good morning to everyone. Advancing to Slide 13, I want to expand on the third strategic pillar that Pablo just described as we see major potential to enhance our core royalty business through M&A linked to transactions. If we take a step back and think about the position of many mid-cap biopharma companies, there has historically been real funding challenges when considering M&A opportunities. Banks and other lenders are just not in a position to lend to provide bridge financing to mid-cap biopharma companies that do not have a track record of earnings. This has resulted in mid-cap biopharma acquirers attempting to acquire other companies using just their equity as a form of consideration.
+Not only has equity been the only viable funding source, it's even more challenging for those acquirers that are pre-profitable. Without tangible predictable cash flows, there has been a natural hesitancy for these companies to use their stock given different perceptions of value and the dilution concerns. The Boards of most targets prefer all or mostly cash as consideration, which is why over 90% of the deals are all cash.
+For these reasons, M&A has never been a viable option for many mid-cap biotechs. In addition, the universe of mid-cap biopharma companies has grown fourfold in the past 5 years to around 200 companies, creating multiple new opportunities for consolidation and growth. So despite the dominance in large-cap biopharma companies in M&A in the past decade, we believe there's a clear opportunity for mid-cap M&A, where Royalty Pharma can provide the capital needed using the types of flexible, tailored funding solutions you see today in this deal. In addition, the recent comments about potential heightened scrutiny on M&A deals for large cap biopharma as to the acquirer could also make mid-cap to mid-cap M&A even more viable.
+Advancing to Slide 14, Royalty Pharma has truly differentiated capabilities that can meet the funding needs for mid-cap M&A. Not only do we have the track record and experience providing the tailored win-win solutions that Pablo mentioned, but we can do so at scale due to our access to capital, our ability to create unique ways of monetizing nonstrategic assets, our ability to create synthetic royalties where no royalties exist, and the long-term focus of our business. All of these elements came together in this exciting transaction with MorphoSys. By building a close relationship with MorphoSys and understanding its needs, we were able to provide up to approximately $2 billion in acquisition and pipeline funding, enabling it to acquire Constellation. And in so doing, helping MorphoSys to build a focused oncology platform with a significant cash runway.
+In return, Royalty Pharma will receive 3 royalties that were nonstrategic for MorphoSys, including those in Tremfya, royalties tied to 2 products from MorphoSys' acquisition of Constellation and development funding payments. Across the 6 cash flow streams for Royalty Pharma, we expect to deliver an attractive return for our shareholders. We are confident that this is the first of many M&A deals in the mid-cap biopharma space, and we look forward to playing a leading role in this space.
+With that, let me hand to Marshall to tell you more about the royalties we are acquiring.
+
+--------------------------------------------------------------------------------
+Marshall Urist,  Royalty Pharma plc - Executive VP and Co-Head of Research & Investments    [5]
+--------------------------------------------------------------------------------
+
+          Thank you, Chris, and hello, everyone. Through today's transaction, as you have heard, we are acquiring royalties on 5 products, 1 approved and 4 in the development stage. As Pablo noted, this will further diversify our portfolio in terms of therapeutic areas, products and marketers.
+Turning to Slide 16, this transaction is largely anchored on the mid-single-digit royalty we are acquiring on Janssen's Tremfya. Tremfya is a leading anti-IL-23 antibody used in the treatment of psoriasis and psoriatic arthritis. Tremfya sales exceeded $1.3 billion in 2020 with consensus estimates reaching over $5 billion by 2030. This is based on category growth and the potential for label expansion into Crohn's disease and ulcerative colitis. Based on consensus sales projections, Tremfya will enhance our long-term growth rate and is expected to become one of our top royalty streams by 2025. I should also add that Janssen is a premier marketer with a deep presence in immunology, meeting the key criteria we consider when acquiring royalties.
+On Slide 17, the other 2 MorphoSys-generated royalties will also benefit from strong marketers, Roche for gantenerumab and GlaxoSmithKline for otilimab. Gantenerumab is an anti-amyloid beta antibody and late-stage development by Roche for Alzheimer's disease, with Phase III data expected in the second half of 2022. While this royalty certainly fit on the higher end of the risk spectrum for our portfolio, it also offers significant upside potential, given the size of the AD market with around 8 million patients in the U.S. and 16 million patients globally. Roche has taken an intelligent approach to its Phase III design based on learnings from previous trials, including a focus on patient selection, higher levels of dosing and long duration of therapy. We also like the potential commercial advantages created by gantenerumab to subcutaneous dosing. Otilimab is an anti-GM-CSF antibody in Phase III for rheumatoid arthritis by GSK. We expect data from 3 ongoing Phase III studies in RA in 2022.
+Each of these 2 attractive Phase III medicines has a potentially differentiated clinical profile and each would diversify the TA coverage of our portfolio and maintain its long duration.
+For gantenerumab, MorphoSys is entitled to tiered royalties between 5.5% and 7%, and we are acquiring 60% of those royalties. For otilimab, MorphoSys is entitled to tiered double-digit royalties, of which, we are acquiring 80%. Additionally, MorphoSys is entitled to royalties from GSK that we are purchasing 100% of.
+Advancing to Slide 18. As part of the transaction with MorphoSys, we are also creating synthetic royalties amounting to 3% of worldwide net sales for pelabresib and CPI-0209. Pelabresib is a BET inhibitor in Phase III for myelofibrosis and CPI-0209 is an EZH2 inhibitor in Phase II for solid tumors and hematological malignancies. These are the key assets underpinning MorphoSys' $1.7 billion acquisition of Constellation and both of these development-stage therapies offer a unique clinical profile.
+With that, let me hand the call over to Terry.
+
+--------------------------------------------------------------------------------
+Terrance Coyne,  Royalty Pharma plc - Executive VP & CFO    [6]
+--------------------------------------------------------------------------------
+
+          Thanks, Marshall. Let's move to Slide 20. We are very excited about the shareholder value creation potential of this transaction. In terms of our non-GAAP income statement, we expect this transaction to add at least $150 million to adjusted cash receipts by 2025 with a growing contribution in subsequent years. This figure conservatively assumes just the Tremfya royalties and cash payments related to $150 million of development funding bonds, that with multiple shots on goal from development-stage therapies with very attractive sales potential, this figure could prove conservative. We also expect to generate an attractive unlevered IRR on this transaction with Tremfya and the development funding bonds, forming a solid base return for the deal with significant upside potential from the development-stage therapies.
+As Marshall said, this will further diversify our portfolio with long-duration innovative therapies and provide a compelling mix of growing cash flows and pipeline optionality.
+In terms of financing, we expect to fund the transaction with existing cash on the balance sheet. As a reminder, we ended the first quarter with $1.8 billion of cash on the balance sheet. And given our highly efficient operating structure, the business generates significant cash each quarter. This represents the third largest transaction that we have ever done. And in aggregate, we have now announced approximately $4 billion in new transactions since our IPO from balance sheet cash and cash flow generated by our business. These new royalty transactions and in particular, the transaction with MorphoSys, enhance the scale, diversity and duration of growth of our portfolio. This transaction is expected to be leverage-enhancing, with our June 30 pro forma debt-to-EBITDA estimated to be approximately 3.3x.
+As a reminder, the way we think about our sourcing of capital for funding royalty acquisitions is we will first look to cash on the balance sheet, then look to the debt markets with a clear commitment to maintain our investment-grade credit rating and finally, look to the equity markets. Given the cash generation of the business and pro forma leverage is 3.3x, we feel very comfortable with our dry powder to acquire attractive new royalties. As a reminder, we said in the past that we are comfortable taking leverage up to 4x or even a touch above 4x when there was a clear path to de-levering over the near term. Our $1.5 billion undrawn revolver also provides us with significant financial flexibility.
+In terms of timing, the deal will be effective upon the closing of MorphoSys' acquisition of Constellation, which is expected in the third quarter of 2021. Depending on the precise close, we will receive our first Tremfya royalty receipt in either the third or fourth quarter of this year.
+With that, I'll hand the call back to Pablo.
+
+--------------------------------------------------------------------------------
+Pablo Legorreta,  Royalty Pharma plc - Founder, Chairman of the Board & CEO    [7]
+--------------------------------------------------------------------------------
+
+          Thanks, Terry. So in conclusion, this is not only an attractive transaction in its own right for MorphoSys and Royalty Pharma, but one that firmly establishes us at the forefront of providing tailored win-win solutions in mid-cap M&A, a market that could grow substantially in the coming years. This, in turn, will help to sustain our unique leadership role in funding the golden age of life sciences innovation.
+With that, I would like to open up the call to Q&A. Back to you, George.
+
+
+================================================================================
+Questions and Answers
+--------------------------------------------------------------------------------
+George Grofik,  RP Management LLC - Senior VP and Head of IR & Communications    [1]
+--------------------------------------------------------------------------------
+
+          Thank you, Pablo. And we will now open up the call to your questions. Operator, please take the first question.
+
+--------------------------------------------------------------------------------
+Operator    [2]
+--------------------------------------------------------------------------------
+
+          Our first question comes from Geoff Meacham with Bank of America.
+
+--------------------------------------------------------------------------------
+William Patrick Maughan,  BofA Securities, Research Division - Associate    [3]
+--------------------------------------------------------------------------------
+
+          This is Bill Maughan on for Geoff Meacham. Congrats on the deal. So two questions for me. How do you view the ulcerative colitis and Crohn's indication for Tremfya in terms of magnitude versus the currently approved indications? And then on gantenerumab, how are you thinking about the likelihood of success there? And do you think that this upcoming PDUFA for aducanumab may affect that one way or the other?
+
+--------------------------------------------------------------------------------
+Pablo Legorreta,  Royalty Pharma plc - Founder, Chairman of the Board & CEO    [4]
+--------------------------------------------------------------------------------
+
+          Sure. Thank you for the question. Marshall, can you please take the question?
+
+--------------------------------------------------------------------------------
+Marshall Urist,  Royalty Pharma plc - Executive VP and Co-Head of Research & Investments    [5]
+--------------------------------------------------------------------------------
+
+          Sure. So on Tremfya, I think we -- when we look at the various sources of growth there, I think there are very meaningful contributions from multiple sources. The first is ongoing volume growth in the current 2 indications, psoriasis and psoriatic arthritis. Those markets have shown remarkable growth over the past few years even as you've had more competitors. And there is just a secular growth driver there that biologics remain underpenetrated in psoriasis plus improving profile in terms of efficacy and convenience for the available agents. So we expect continued significant growth contribution there.
+On IBD, that is also an important pillar of the growth story. We're starting to see some readouts from others in the class. And certainly, we expect Tremfya to play a significant role in IBD. I think the important thing to mention there is Janssen obviously has very deep experience in that market, and so that will be important as the Tremfya data readout and IBD launches.
+On gantenerumab, I think your question was on the aducanumab PDUFA. So the way we thought about that was this investment in gantenerumab wasn't really premised on one outcome or the other for the aducanumab PDUFA. Obviously, a tremendous amount of focus on that with it coming up this week. But as we thought about it, and as we mentioned in the prepared remarks, the gantenerumab Phase III program really stands on its own. It's 2 large well-controlled studies that incorporates a lot of the learnings over the last few years in how to design these trials, what population to include, how long to dose, what dose to use. So we really came at it from that perspective rather than thinking that the outcome for aducanumab here, just given all the complexities that you guys are very familiar with, would really impact that, one way or the other.
+
+--------------------------------------------------------------------------------
+Operator    [6]
+--------------------------------------------------------------------------------
+
+          Our next question comes from Greg Gilbert with Truist Securities.
+
+--------------------------------------------------------------------------------
+Gregory B. Gilbert,  Truist Securities, Inc., Research Division - Analyst    [7]
+--------------------------------------------------------------------------------
+
+          I have two. First, kind of a nuts and bolts consensus question. Do you think consensus estimates for the assets involved are pretty reasonable? Or would you point to any particular strong differentiated view you have on sort of revenue potential?
+And then my other question, perhaps for Chris, I was really intrigued by the mid-cap M&A comment and where Royalty Pharma could fit in there. When you're talking about banks and their lack of willingness to sort of fund mid-caps that lack cash flow, was it really a financial question about cash flow? Is it banks' lack of willingness to take an educated view on the NPV of an unapproved asset, and that's where you come in? Maybe put a little more meat on the bones there as to what you're willing to do that banks just don't do or can't do.
+
+--------------------------------------------------------------------------------
+Pablo Legorreta,  Royalty Pharma plc - Founder, Chairman of the Board & CEO    [8]
+--------------------------------------------------------------------------------
+
+          Yes. So maybe Marshall can provide an answer to the first part of the question. I mean one -- and Chris should answer, for sure, the second one. But one comment I would make is that there's just no history and it's highly, highly unlikely that a bank is going to put capital at risk to fund a transaction where there is significant value that's based on binary outcomes, a trial readout or those kind of things. That just doesn't happen, sort of debt funding is not available when you actually are basically relying on something that has a binary outcome. And -- but we can because we can take a view on products and we can take a view on trials reading out, and we can come in and provide significant capital in those cases. But Marshall, do you want to take the first question?
+
+--------------------------------------------------------------------------------
+Marshall Urist,  Royalty Pharma plc - Executive VP and Co-Head of Research & Investments    [9]
+--------------------------------------------------------------------------------
+
+          Sure. Thanks, Greg. So I just -- on consensus, so first, I think it's important to keep in mind that for each of the products in this partnership with MorphoSys, we obviously generate our own internal forecast and look at a number of different scenarios of potential commercial outcomes. So it really is a scenario-based analysis like we've talked to you before. And so when we look at consensus, I don't think we're going to comment specifically on 1 -- on any 1 product consensus estimates there, except to say, we looked at a range of outcomes here, and we're comfortable with this investment on that basis.
+And when you look at the development-stage products, consensus can be a little complex to look at just because there's varying levels of risk adjustment and what indications are included, et cetera. So always challenging to know exactly what's in those numbers. But suffice it to say, I think we are optimistic and excited about this group of products that we're investing in, and I'll pass it over to Chris.
+
+--------------------------------------------------------------------------------
+Christopher Hite,  Royalty Pharma plc - Vice Chairman & Executive VP    [10]
+--------------------------------------------------------------------------------
+
+          Yes. Thanks for the question, Greg. I think the data that we pulled and looked at, and we actually put on Slide 13 was we -- I think you've been in the industry a long time, and I think everybody recognizes the lack of mid-cap M&A where the acquirer is the mid-cap party. But when you actually pull the data and look at it, it sort of is striking, right? Companies under $5 billion, from an acquirer perspective, will only make up 4% of the deal volume. And it's sort of we all know it, but when you see it, it is quite striking.
+And I think Pablo actually hit the nail on the head, which is banks aren't going to buy these royalty assets or take binary bets on buying the royalty assets. They're really -- they are lenders, they're looking at cash flow. They're looking at LTM cash flow. And for many companies like a MorphoSys, that actually have -- they're in launch mode or late-stage development assets that they want to consolidate, they -- obviously, there are lots of deals out there where it makes sense to consolidate mid-cap biopharma companies. The cash flow is just not there for the banks to lend against. And so we think we can play a role there, and we think that there could be a lot more M&A deals like this going forward in the sector. We hope -- and we hope to play a role.
+
+--------------------------------------------------------------------------------
+Pablo Legorreta,  Royalty Pharma plc - Founder, Chairman of the Board & CEO    [11]
+--------------------------------------------------------------------------------
+
+          And maybe just adding one quick thing to what Chris said here just to give you a little bit more color. Even in situations where a company may have 1 drug, and it's very difficult for lenders to actually lend against one product. Generally, they want a diversified portfolio. But that's -- if we can actually provide capital when there's no approved product, obviously, with one approved product, we can also do that and do it at scale. So that's another thing to keep in mind that I think gives us a great advantage to partner with companies to help them achieve their strategic initiatives.
+
+--------------------------------------------------------------------------------
+Operator    [12]
+--------------------------------------------------------------------------------
+
+          Our next question comes from Terence Flynn with Goldman Sachs.
+
+--------------------------------------------------------------------------------
+Terence C. Flynn,  Goldman Sachs Group, Inc., Research Division - MD    [13]
+--------------------------------------------------------------------------------
+
+          Maybe two for me. First, I was wondering if you could comment on your targeted IRR for the Tremfya royalty piece in the bonds. I know you commented on the bond piece. But again, if you look at both of those together, kind of what you're targeting there. And then for Chris, a follow-up to the last question on the mid-cap to mid-cap M&A. Have you guys already had similar conversations with other companies like you've had with MorphoSys as you referenced in your prepared remarks? Or do you think this deal will catch people's attention and essentially lead to more of those conversations? Just kind of curious about the top of the funnel and what you're seeing already in terms of the mid-cap M&A.
+
+--------------------------------------------------------------------------------
+Pablo Legorreta,  Royalty Pharma plc - Founder, Chairman of the Board & CEO    [14]
+--------------------------------------------------------------------------------
+
+          Sure. So maybe to answer the first part of the question, which is the one related to the expected rates of return, the Tremfya investment is -- fits very well within our target returns of high single-digit, low double-digit for an approved product. This, by the way, is very attractive because it has an incredibly strong marketer, one of the best marketers in the world in a very attractive space, and it's a drug that has very significant growth potential. I mean there was a question asked about ulcerative colitis and other indications, and we're excited about those.
+So it actually, as I said, meets the target expectations we have. And also, the bonds, I think -- that kind of financing is very attractive, I think, for companies at this stage because it's very long term, very flexible capital. We can provide money, commit today, allow a company to draw when they need that capital in a year. And then also give them -- some time for them with no payments because when we think about these things, these companies need to invest. So it's sort of silly for us to give them money and then ask them for some -- for us to start to earn our return very quickly, so we can be patient. And in this case, for example, there would be about 2 years of no payments because they can draw a year from now, then there's a year of no payment. And then we collect over a long period of time, 9 years.
+So it's actually very flexible, very long term. It's scalable. We're committed. They could draw another 200 as needed. And that provides a company like MorphoSys with a very attractive pipeline. It has the flexibility to fund it and invest in it. So we're very excited about being able to provide that kind of supplemental capital to our partners to help them achieve their initiatives.
+I'll turn it over to Chris about sort of mid-cap M&A. One thing I would say is that myself and the team are actively very active in having many discussions with big pharma, with mid-cap pharma about M&A. And we're proactive. We actually go to companies and talk about potential transactions, things that we think could be attractive to them. In some cases, it's things that maybe they had not contemplated. And so these things -- this is an area where I think there's significant potential for Royalty Pharma.
+Maybe I'll just finish by adding one thing. MorphoSys is a company that we've known for more than a decade. I think Jim and I went and visited them in Germany more than a decade ago. We had extensive discussions with them about 5, 6 years ago about funding their pipeline, drug that already got approved. And finally, after back-and-forth dialogue with them of over 10 years, we actually ended up doing this very attractive transaction for them and for us. But that also tells you that these things don't happen overnight. You plant the seed, you have discussions with management. They get to know you. We get to know them. And eventually, something important happens and we can be there for them and really help them.
+But Chris, do you want to add anything else about mid-cap M&A?
+
+--------------------------------------------------------------------------------
+Christopher Hite,  Royalty Pharma plc - Vice Chairman & Executive VP    [15]
+--------------------------------------------------------------------------------
+
+          I think you covered it. I think the one thing that sort of strikes me, you heard us during the IPO and since you talked about synthetic royalties, but when you look at this deal announced today, it is sort of like Royalty Pharma 1.0 through 4.0 that we talked about on the IPO, which is we're acquiring a marquee-approved product royalty with Tremfya. We're acquiring a high-quality development-stage royalties with gantenerumab and otilimab, and then the creation of synthetic royalties at Constellation and then the development node. So it's sort of -- it's full scale. Everything in sort of one transaction. It just really shows that we can be creative and flexible and really take a long-term view of our capital. And so we think there's tremendous opportunity to slot in one or any one of those various product offerings that we've highlighted in this transaction in future transactions.
+
+--------------------------------------------------------------------------------
+Operator    [16]
+--------------------------------------------------------------------------------
+
+          Our next question comes from Chris Schott with JPMorgan.
+
+--------------------------------------------------------------------------------
+Christopher Thomas Schott,  JPMorgan Chase & Co, Research Division - Senior Analyst    [17]
+--------------------------------------------------------------------------------
+
+          I guess just first one on the development-stage assets. I know you're not going to comment on specific consensus. But when we think about these, are there any of these assets that really stand out versus others in terms of either your level of excitement or conviction in the products? I'm just trying to get a sense of how many of these are -- were really core to the deal versus kind of nice to have once you get the anchor asset with Tremfya kind of -- as part of the transaction?
+And then the second question was on the development funding bonds. Are these things that you would only really consider as add-on to existing deals or partners? Or could we think about Royalty looking to do transactions like this independent of royalty deals? I think you're highlighting kind of this kind of unmet need in the market. But I'm just trying to sense of like -- this usually -- should we think about these linked to existing transactions or kind of a new market being created on its own?
+
+--------------------------------------------------------------------------------
+Pablo Legorreta,  Royalty Pharma plc - Founder, Chairman of the Board & CEO    [18]
+--------------------------------------------------------------------------------
+
+          I think -- Chris, thank you for the question and good to hear you. I think regarding the bonds, they -- we think this kind of capital is very attractive and could be used, like in the case of Biohaven, where we invested in their migraine products, and have royalties in the migraine products. We actually supplied similar, very long-term capital. And in that case, it was predicated on the launch. So we view that as launch capital where we're actually helping the company invest in the launch of Nurtec and that makes a royalty more valuable. And it's long term, it's flexible, scalable.
+And in this case, with MorphoSys, we felt that there was a need to supplement the investment here to help develop the products. So it's -- we can actually tailor it to achieve different goals. And it's very unique and it's -- we believe that there's a huge need for this kind of capital in the industry. And it's always done as part of an overall or a larger transaction, that's how we've done it so far. I mean we need to be open-minded. Could there be other situations where it's used in different ways? Maybe. So we're going to be creative and open-minded. But so far, it's been as a part of a larger transaction.
+And I'll let Marshall answer the question on the development assets. I think just from my own perspective, looking at all of them, I think they're all very interesting. There's one that, from my perspective, stands out as one that has very significant upside. It's risky, but very significant upside, which is, again, gantenerumab , the Alzheimer's product. And it's in the hands of one of the best companies in the world, and it has had one of the best clinical development programs in that space, which has been really tailored, taking into consideration, a lot of the lessons learned from many of the failures. So we think that has a decent chance and it's -- the potential is very, very large.
+And Marshall do you want to talk about...
+
+--------------------------------------------------------------------------------
+Marshall Urist,  Royalty Pharma plc - Executive VP and Co-Head of Research & Investments    [19]
+--------------------------------------------------------------------------------
+
+          Sure. So just I think to add to what Pablo said, maybe a different frame or different dynamic is that one of the things we liked about this group of development-stage assets, development-stage products in total, is that they're all complementary in the sense that they have different risks around them, right? Different kinds of risks. Pablo mentioned gantenerumab does carry clinical risk but a much more kind of white space from a commercial point of view. Otilimab in RA, maybe something people haven't followed as closely, but has pretty strong clinical proof-of-concept from concepts in Phase II from it and other GM-CSF antibodies. But is a commercial marketplace that we all know is formed and there are multiple players in that market. So -- and then the Constellation assets are earlier and so have their own kind of dynamic around them.
+So I think one of the things we liked was just how, even amongst these development-stage products in the portfolio, there's a lot of diversity and kind of nonoverlapping characteristics around each of them, which is something that we thought was pretty cool and attractive to that.
+
+--------------------------------------------------------------------------------
+Operator    [20]
+--------------------------------------------------------------------------------
+
+          Our next question comes from David Risinger with Morgan Stanley.
+
+--------------------------------------------------------------------------------
+David Reed Risinger,  Morgan Stanley, Research Division - MD in Equity Research and United States Pharmaceuticals Analyst    [21]
+--------------------------------------------------------------------------------
+
+          Yes. And I wanted to add my congrats on the transaction and opening people's eyes to the broader set of potential mid-cap M&A opportunities in the future. So most of my questions have been asked. I just wanted to ask one on leverage. So the slide indicates pro forma leverage of approximately 3.3x. Could you talk about, at a high level, your target leverage ratio and the opportunity to potentially issue equity in the future if there are substantial transactions that are highly compelling?
+
+--------------------------------------------------------------------------------
+Pablo Legorreta,  Royalty Pharma plc - Founder, Chairman of the Board & CEO    [22]
+--------------------------------------------------------------------------------
+
+          Terry, you should obviously take that question. Thank you, David.
+
+--------------------------------------------------------------------------------
+Terrance Coyne,  Royalty Pharma plc - Executive VP & CFO    [23]
+--------------------------------------------------------------------------------
+
+          Yes. Sure. So the way we think about leverage is we don't have a specific target. We've always sort of said that we're going to try to operate in a band. And so we think of it sort of in the 3x to 4x total debt-to-EBITDA. Sometimes we're going to go a little bit above 4x when we make the acquisitions like we did in 2014. But obviously, we're very committed to maintaining our investment-grade rating. So when we do that, we'll go up to 4x, a little bit above. We have to have a clear path to de-levering from there. And then sometimes, when we're not doing as many deals and products are growing, that will go a little bit below 3x. So we think of it like a band. That's how we're always -- we've actually been operating it very similar way for almost 15 years now, and it's sort of proven out to be a pretty good strategy.
+Equity is always -- it's always been an option. It's never -- we're always going to start with cash and since the business generates so much cash, that's where we're going to start. That's where we're going to look first. And then we'll look to the debt markets while maintaining that investment-grade rating. And then the final source is equity. And obviously, that is a benefit to going public, was that we now have access to the deepest equity markets. I think the way to think about it is, we're first going to use cash and sort of leverage capacity. And then depending on how the pipeline plays out over time, it is an option for us. And it's a great option for us to have.
+
+--------------------------------------------------------------------------------
+Operator    [24]
+--------------------------------------------------------------------------------
+
+          Our next question comes from Umer Raffat with Evercore ISI.
+
+--------------------------------------------------------------------------------
+Michael Gennaro DiFiore,  Evercore ISI Institutional Equities, Research Division - Equity Research Analyst    [25]
+--------------------------------------------------------------------------------
+
+          This is Mike DiFiore in for Umer. Just out of curiosity, how competitive was this deal? Just given the fact that banks can't do this financing, and there are other players, not many but other players in the, I guess, royalty acquisition space. Just want to get some color as to the competitiveness of the deal.
+
+--------------------------------------------------------------------------------
+Pablo Legorreta,  Royalty Pharma plc - Founder, Chairman of the Board & CEO    [26]
+--------------------------------------------------------------------------------
+
+          So it's obviously hard for us to answer that question because we're on one side of the transaction and not on every side. We're having interactions with, obviously, the company has become our partner, MorphoSys. We obviously did hear that there were other -- that they had explored other alternatives, which is very logical. Any good management team would do that. So we -- obviously, there was always a healthy tension of we need to arrive at a deal that makes sense for both parties because we have other alternatives.
+And other alternatives, with the caveat that I mentioned that it's difficult to actually provide significant capital for something like this. I do believe, though, that our scale and cost of capital is something that gives us a huge advantage in situations like this. Because for us, a transaction like this is not even one that is going to concentrate us at all in either Tremfya or unapproved products. In fact, Tremfya will diversify us to a certain degree, which is great. And the investments that we're making now on the unapproved is something that we really welcome because as we've -- as you have heard us talk in the past, we had historically had much higher exposure to unapproved at some point. It was more than $3 billion of investments in unapproved And now it's really low. So rebuilding that side of our portfolio is something that we look forward to. But at the end, we always, always, this is what I tell the team, have to not feel overconfident of things and make sure that we're always being very, very cautious, understand how we need to be competitive. We need to be really flexible, creative, so that we are winning as much as we can.
+
+--------------------------------------------------------------------------------
+Operator    [27]
+--------------------------------------------------------------------------------
+
+          Our next question comes from Steve Scala with Cowen.
+
+--------------------------------------------------------------------------------
+Stephen Michael Scala,  Cowen and Company, LLC, Research Division - MD & Senior Research Analyst    [28]
+--------------------------------------------------------------------------------
+
+          I have a few questions. First, are there any significant gating items to the MorphoSys' acquisition of Constellation that you foresee? Second, can you give us some idea of what the probability of success is assumed for each of the 4 pipeline assets to get to breakeven?
+And then lastly, and this question has been asked a few times, so I apologize for asking it again. But whatever the probability of success is, it seems that your diligence has produced higher probability of success in the pipeline assets that analysts have. It seems that the answer clearly is, yes, for gantenerumab. Would you disagree with that statement as it relates to all 4 assets?
+
+--------------------------------------------------------------------------------
+Pablo Legorreta,  Royalty Pharma plc - Founder, Chairman of the Board & CEO    [29]
+--------------------------------------------------------------------------------
+
+          Sure. And maybe I'm going to turn it over to Chris to talk about the gating items, and then, Marshall, the rest of the question. But it occurred to me that I just wanted also to provide another perspective on this question about competition. And it's maybe just for all of you to get a sense of competition in our space versus others, if you think of private equity firms that exist, which are hundreds with billions and billions of capital looking for attractive transactions, highly, highly competitive. Or if you think of debt providers in more common debt market, highly competitive. A lot less in biotech. And that's why we have this affiliate that actually is becoming one of the biggest providers of debt capital in biotech.
+So I think the point I want to make is that if you think of the market we're actually creating, because that's what's really happening, we're creating a new market and this transaction is a great example of that. It's one where there's really -- probably you cannot even count them with one hand, the number of potential providers of capital at scale for something like this. So that also gives you a sense of the competitive environment. But Chris, do you want to talk about the gating items? And Marshall about...
+
+--------------------------------------------------------------------------------
+Christopher Hite,  Royalty Pharma plc - Vice Chairman & Executive VP    [30]
+--------------------------------------------------------------------------------
+
+          Yes. Sure. So thanks for the question. The gating items are -- it's -- they're going to launch a -- MorphoSys will launch a cash tender offer for Constellation shareholders and the regulatory hurdles or expiration of the HSR waiting period, and applicable antitrust laws and just other customary conditions. So it's very straightforward to get to close.
+
+--------------------------------------------------------------------------------
+Marshall Urist,  Royalty Pharma plc - Executive VP and Co-Head of Research & Investments    [31]
+--------------------------------------------------------------------------------
+
+          Thanks, Chris. And yes, Steve, thanks for the question on PTRS. So I think we've touched on this in a couple of different ways, but maybe to add some further comments. So you asked about specific PTRS on each of the products. And rather than going there, I think I would go back to what we were talking about before, which is I think one of the things we really liked about this was the diversity of the different types of risks and opportunities around each of these, around each of these products. And so when you -- when we look at it as a package together, we thought it was pretty attractive, and we've touched on how some of those are non or nonoverlapping risks.
+I think one of the -- Pablo called out gantenerumab, I think that clearly, as Pablo mentioned, as we mentioned in our prepared remarks, does have higher clinical risk. But I think it also highlights one of the really unique things about our business is just the scale and the diversity of our current portfolio really shows you how we're uniquely enabled to add something like gantenerumab and that risk, and also very considerable upside opportunity that Pablo mentioned within our portfolio, is extremely, extremely manageable.
+And then third, I think part of your question was about track record versus others. And Pablo said something important in terms of how we approach all of these is that the bar is high. We have to stay sort of humble, not be overly confident in this, and we always try to do as much diligence as we possibly can and have a culture of being able to say no when that makes sense. And I think that's one of the key points why I don't want to compare us to others who are out there, which is we're very different, right? We have the luxury of -- and the culture of being able to sort of pick our spots and to say no to things and really wait and be patient for the things that make sense for us.
+So I think that kind of gives you some insight into our approach, how we approach this, how we think about to development-stage opportunities. And honestly, some of the same principles apply to commercial opportunities as well.
+
+--------------------------------------------------------------------------------
+Operator    [32]
+--------------------------------------------------------------------------------
+
+          We'll take our last question from Andrew Baum with Citi.
+
+--------------------------------------------------------------------------------
+Andrew Simon Baum,  Citigroup Inc. Exchange Research - Research Analyst    [33]
+--------------------------------------------------------------------------------
+
+          A couple of my questions have been answered, but one remains, and apologies if you've already addressed it at the earlier part of the call. Could you outline how much of that $1.425 billion upfront is accounted for by Tremfya? Obviously, as you point out, the gem of an asset and anchoring at the words you used, but if you could share with us the breakdown in any sense, that would be helpful.
+
+--------------------------------------------------------------------------------
+Pablo Legorreta,  Royalty Pharma plc - Founder, Chairman of the Board & CEO    [34]
+--------------------------------------------------------------------------------
+
+          Marshall -- thanks for the question, and Marshall can provide a perspective here. Just from a very big picture perspective, the way we look at transactions when we're buying portfolio like this, with 1 approved and 4 unapproved, is that we actually are not really allocating value to one single thing. We create a lot of scenarios, almost like Monte Carlo simulation, where we look at the different assets and the revenues that each asset will produce. And obviously, assume for Tremfya different scenarios with approvals in different indications -- additional approvals in different indications.
+And for the unapproved, we run scenarios where we assume that all of them get approved, that none of them get approved, which is obviously the worst-case scenario. And then things in between, maybe 2 or 4 get approved. And obviously, each one has different scenarios, and we look at then the returns that we expect to earn on the total amount invested. And we think that when we approach it from that perspective, the diversification is such an attractive aspect here and one that results in very attractive returns on likely scenarios, right? It's -- we have no idea at the end of the day if all of them are going to get approved and all of them are going to perform as expected. We also think it's highly, highly unlikely that none of them are going to get approved. But if we look at the more likely scenarios and get really comfortable with the return that we're going to earn on the total investment for those much more likely scenarios.
+But Marshall, maybe you want to add something else?
+
+--------------------------------------------------------------------------------
+Marshall Urist,  Royalty Pharma plc - Executive VP and Co-Head of Research & Investments    [35]
+--------------------------------------------------------------------------------
+
+          No. Pablo, I think you covered most of it. Appreciate the question. We're -- we've -- as you said, we've described it as the anchor of the transaction. And I think Pablo mentioned earlier that it certainly does meet our return hurdles that we've talked about for approved products. So I think that should give you kind of a general sense of how we're thinking about it. But I think it's important, the point Pablo made, about kind of scenario and a scenario approach is more -- is closer to how we think about it given all the combinatorial outcomes of what might happen with all these programs.
+
+--------------------------------------------------------------------------------
+Operator    [36]
+--------------------------------------------------------------------------------
+
+          There are no further questions. I'd like to turn the call back over to Pablo Legorreta for any closing remarks.
+
+--------------------------------------------------------------------------------
+Pablo Legorreta,  Royalty Pharma plc - Founder, Chairman of the Board & CEO    [37]
+--------------------------------------------------------------------------------
+
+          Sure. And maybe just one last comment, sort of big picture perspective that I'd like to share as we close, is that all of you have heard us talk about the potential for Royalty Pharma to really become the partner of choice of companies in M&A situations in life sciences.
+And I mean, for us, things that are critical as we look at these things is really getting to know management teams, understanding their vision, their commitment to the space, their expertise. And then seeing if we can partner with them. And obviously, in the case of MorphoSys, all of that was something we concluded was there. We had, had long conversations with them, as I said.
+But going back to my comment, we've always felt there's a huge potential for Royalty Pharma to do well by becoming the partner of choice of companies and management teams, helping them achieve their strategic initiatives. And this is a great example of that. And I think as we've shared with you in the past, we think that there's just a very attractive set of opportunities for us that are much more conventional where we buy royalties from different holders, can be a university, hospital, foundation. It could be a biotech or a big pharma like we did with Glaxo recently on cabo, when there's sort of noncore assets and it's better for the holders to have cash to reinvest.
+But -- so those sort of bread-and-butter transactions, I think, we're extremely well positioned with the cost of capital we have and the relationships to actually continue to do really well there. The thing that is more unpredictable is this M&A kind of situations. And we've said we think there's going to be several of them. If you look at a 3- to 5-year time frame, this is one. And it really illustrates how we can be very helpful to companies and create this win-win situation.
+So with that, I'd like to thank everyone on the call for your continued interest in Royalty Pharma. And I just would like to say that my team and I look forward to continuing to share our progress with you. And that if you have any questions, please feel free to reach out to George or Terry. And with that, I'll conclude the transaction, and thank you for your time.
+
+--------------------------------------------------------------------------------
+Operator    [38]
+--------------------------------------------------------------------------------
+
+          Ladies and gentlemen, thank you for participating in today's conference. This does conclude the program, and you may all disconnect. Everyone, have a great day.
+
+
+
+
+
+
+
+--------------------------------------------------------------------------------
+Definitions
+--------------------------------------------------------------------------------
+PRELIMINARY TRANSCRIPT: "Preliminary Transcript" indicates that the 
+Transcript has been published in near real-time by an experienced 
+professional transcriber.  While the Preliminary Transcript is highly 
+accurate, it has not been edited to ensure the entire transcription 
+represents a verbatim report of the call.
+
+EDITED TRANSCRIPT: "Edited Transcript" indicates that a team of professional 
+editors have listened to the event a second time to confirm that the 
+content of the call has been transcribed accurately and in full.
+
+--------------------------------------------------------------------------------
+Disclaimer
+--------------------------------------------------------------------------------
+Refinitiv reserves the right to make changes to documents, content, or other 
+information on this web site without obligation to notify any person of 
+such changes.
+
+In the conference calls upon which Event Transcripts are based, companies 
+may make projections or other forward-looking statements regarding a variety 
+of items. Such forward-looking statements are based upon current 
+expectations and involve risks and uncertainties. Actual results may differ 
+materially from those stated in any forward-looking statement based on a 
+number of important factors and risks, which are more specifically 
+identified in the companies' most recent SEC filings. Although the companies 
+may indicate and believe that the assumptions underlying the forward-looking 
+statements are reasonable, any of the assumptions could prove inaccurate or 
+incorrect and, therefore, there can be no assurance that the results 
+contemplated in the forward-looking statements will be realized.
+
+THE INFORMATION CONTAINED IN EVENT TRANSCRIPTS IS A TEXTUAL REPRESENTATION
+OF THE APPLICABLE COMPANY'S CONFERENCE CALL AND WHILE EFFORTS ARE MADE TO
+PROVIDE AN ACCURATE TRANSCRIPTION, THERE MAY BE MATERIAL ERRORS, OMISSIONS,
+OR INACCURACIES IN THE REPORTING OF THE SUBSTANCE OF THE CONFERENCE CALLS.
+IN NO WAY DOES REFINITIV OR THE APPLICABLE COMPANY ASSUME ANY RESPONSIBILITY FOR ANY INVESTMENT OR OTHER
+DECISIONS MADE BASED UPON THE INFORMATION PROVIDED ON THIS WEB SITE OR IN
+ANY EVENT TRANSCRIPT. USERS ARE ADVISED TO REVIEW THE APPLICABLE COMPANY'S
+CONFERENCE CALL ITSELF AND THE APPLICABLE COMPANY'S SEC FILINGS BEFORE
+MAKING ANY INVESTMENT OR OTHER DECISIONS.
+--------------------------------------------------------------------------------
+Copyright 2021 Refinitiv. All Rights Reserved.
+--------------------------------------------------------------------------------

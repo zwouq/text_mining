@@ -1,0 +1,409 @@
+
+
+Refinitiv StreetEvents Event Transcript
+E D I T E D   V E R S I O N
+
+Nordic Nanovector ASA Webcast to Discuss the Merger
+NOVEMBER 24, 2022 / 3:30PM GMT
+
+================================================================================
+Corporate Participants
+================================================================================
+
+ * Konstantinos Alevizopoulos
+   APIM Therapeutics AS - MD
+ * Malene Brondberg
+   Nordic Nanovector ASA - Interim CEO & CFO
+ * Jan Hendrik Egberts
+   Nordic Nanovector ASA - Independent Chairman of the Board
+ * Unidentified Company Representative
+    - 
+
+================================================================================
+Presentation
+--------------------------------------------------------------------------------
+Jan Hendrik Egberts,  Nordic Nanovector ASA - Independent Chairman of the Board    [1]
+--------------------------------------------------------------------------------
+Good afternoon, ladies and gentlemen. Welcome to the joint webcast between Nordic Nanovector and APIM, where we would like to discuss the proposed merger between our 2 companies. My name is Jan Egberts, and I'm the Chairman of the Board of Nordic Nanovector.  
+Together with me this afternoon are Malene Brondberg, our Interim CFO; as well as Kostas Alevizopoulos, who is the CEO of APIM Therapeutics and the proposed CEO for the combined entity; as well as Fredrik Haavind, our internal Chief Legal Counsel.  
+Over the past couple of weeks, frankly, since before the announcement of the proposed merger, we have spoken with many of you. We received a lot of different e-mails, but we also had one-on-one meetings, in particular with the largest shareholders, where we basically heard that particularly APIM is not very well known, and people like to hear more about it, and that's the objective of this call to tell you a little bit about more about APIM and also explain to you a little bit about the proposed transactions.  
+But I really want you to know that we have spoken extensively with many of you, and we have tried to, as much as possible, include in our presentation many of these open questions.  
+Going to the next slide, I'd like to make aware about our forward-looking statements, and I really urge you to carefully review this document on this page and take it into consideration.  
+And next, I'd like to go to the agenda. I really like to focus on the questions many of you have had and we've heard over the past couple of weeks from our shareholders, in particular, both of the large shareholders, those were mainly in-person meetings, and from some other smaller shareholders very often by e-mail, but also other means of communications.  
+So what we try to -- we'll want to plan to discuss with you today, first of all, a top line of the rationale for the merger and the process we pursued. Secondly, I want to tell you a little bit more in detail about APIM Therapeutics, because many of you mentioned you don't know much about the company. So I think that's very important. Then I'll make some concluding remarks, and I'll explain a little bit about the process for the Extraordinary General Meetings of Shareholders and the voting process associated with it. And in the end, there will be a Q&A.  
+We also realized that a lot of the Norwegian speakers prefer to speak in our native language. So we'll answer the questions to the extent I answering, Malene Brondberg, or one of the native Norwegian speakers will translate in the local language. So we're really trying to address some of the language needs we have heard.  
+Going to the next slide, I want to recap the process of PARADIGME at the end of the Phase IIb trial, which we concluded, as you know, over the summer of this year. In the first year of this year -- the first half of this year, the recruitment into the PARADIGME clinical study really dragged and dropped significantly. Obviously, the COVID was a big part of it. But also in spite of many of the protocol changes and the operational changes we have made during 2020 and 2021 to improve the patient recruitment, which really had a very positive impact, we dropped from about 50 patients that were recruited in 2021 to only 3 in the first half of this year. So a very significant drop, 50 over the whole year of 2021 and only 3 over the first half of this year.  
+Obviously, we went through significant discussions and we had ongoing discussions with the participating hospitals, and really lead to the conclusion that this -- the poor recruitment rate in the first half of this year was unlikely to improve. So as a Board, we decided to call an independent data evaluation committee and kind of performed a second interim analysis.  
+So the independent data evaluation has really showed that 1 in 3 patient responded, so 30% of the patients responded, obviously significantly lower than we've seen in the LYMRIT study, and an average duration of response was about 6 months. While some of our competing technologies like the bispecific antibodies that are really emerging in the same therapeutic area has shown effectiveness of over 80%. So both in terms of the number of patients, 30%. And in terms of the average duration of response below what we've seen than some of our competition.  
+Based on these facts, the Board decided that these results do not support further development of Betalutin in third line third-line follicular lymphoma, particularly also given the fact that the competitive environment is really -- was and is really changing very rapidly. On the one hand, the FDA is increasing the regulatory requirement for submission, which would now demand that we at least have enrolled a Phase III clinical study before we can file for submission. And secondly, the emergence of some competitive technologies, such as the bispecific monoclonal antibodies I spoke about earlier, but also CAR-T. That really led to the conclusion, a very unfortunate conclusion, to discontinue PARADIGME.  
+So I mean, obviously, we still have -- we're still excited about CD37. We saw very strong data in LYMRIT, but we really decided that given the investments required to get this compound to go forward to a major value inflection point, it's very unlikely that is possible in the current financial market, which as I'm sure you have noticed has dropped significantly since the beginning of the year.  
+So based on that, we decided to do a comprehensive review of the strategic position of the company. We retained Carnegie to help us and to explore viable alternative opportunities for the company, both internally and externally. So in summary, the results were not as we hoped for, let's be very transparent about that, on the one hand. On the other hand, the competition was moving really fast, particularly bispecifics and monoclonal antibodies and CAR-T. And thirdly, the FDA has increasingly put heavier demand before we could submit our clinical (inaudible). And given the fact that the equity markets, the stock markets are not in favor of raising a significant amount of money at this stage and (inaudible).  
+So moving to the next slide. I want to talk a little bit about this comprehensive strategic review where we exploit all the options. And broadly speaking, we really compare 2 major strategic opportunities for the company. On the one hand, to go it alone, so basically focus on our early-stage R&D portfolio, and really the compounds we currently have in R&D were too early to be viable for financing in a public market environment today. So the go-it-alone strategy, the Board decided it was not a viable strategy. On the other hand, we look at a number of broad M&A opportunities, which is the alternative of the go it alone strategy. And we did it as we discussed last time in concentric circles. 
+Initially, focusing on or regional oncology companies, subsequently focusing as a broader circle around it, if you want to call it that way. Nordic oncology companies that even more broadly, other health care companies outside Norway, also in the rest of Europe and overseas. Again, the focus was twofold. On the one hand, finding a good strategic fit in terms of M&A target, something that really fits together. Again, using the [concierge service] I discussed. On the other hand, the potential to maximize shareholder value -- the value for our shareholders.  
+We also look at some transactions outside health care that was mentioned by many of our investors, if we did, yes we did. And in that case, we particularly will be focused on the listing on the Oslo Stock Exchange and some of the cash. Some people also mentioned that our net operating loss would be an asset. I just want to be clear, the net operating loss would only be an asset if they will be acquired by a company pursuing exactly the same field as we are. So no other oncology company could use it, but if it would be acquired by some non-health care company that asset would not be usable. That's the way the tax people review net operating losses.  
+In short, we discussed with over 25 potential companies, both in the Nordic and outside Nordic, that included big pharma, smaller biotechs, medical device companies, companies outside health care, both private and public. So I really feel we casted very, very wide net.  
+In terms of the companies where we became the furthest, we also, in particular, had a number of discussions with biotech companies in the oncology field, with assets in Phase II and later. Again, that is very much where the majority of the value is. But in short, the transaction of the proposal from APIM will be generated, by far, the most value for our shareholders.  
+So in conclusion, we consider the merger with APIM that we propose the most attractive option for Nordic Nanovector shareholders. Also, over the past 2 weeks, we received many e-mails from shareholders, and I must tell you, I have not heard a single proposal that I think or that the Board thinks is a viable alternative for the APIM merger. So we have been open, we're listening to any proposal, but I have not heard a single viable alternative scenario post the APIM proposal.  
+Now going on to the next page. Many of you asked questions about how we came to the valuation of APIM, and particularly the value split between APIM and Nordic Nanovector. Basically 75% of the value of the merged company going to APIM and about 25% to Nordic. So really what we have done and we pursue is a -- have to use an international independent firm specializing in biotechnology valuations. And many of these investors use these kind of organizations at a very regular basis and to (inaudible) to make a good valuation of an early-stage company, including private company.  
+And we really took 4 different valuation methodologies into account, which is basically the industry data and historical information kind of review that. Secondly, in what stage of development is the lead assets and the other assets, how the company is structured. And then finally, based on the relevant financial information, the future commercial potential of the project, the targeted clinical indication and the overall risk of a compound like this using essentially a net present value, discount, cash flow approach to come to a valuation of the company.  
+And again, this valuation resulted in the 25-75 split, whereby the 25% for Nordic Nanovector is really related to our current value at the Oslo Stock Exchange, the 2 weeks prior to the announcement of the transaction -- of the proposed transactions.  
+So going on to the next slide. We really feel that the combined entity has the potential to create very significant shareholder value, in particular, by focusing on 3 broad areas: Advancing APIM's pipeline of oncology programs, and again, Kostas is going to talk more about that in the next 15 minutes, with multiple shots and goals in clinical -- multiple clinical studies for their key assets, in particular, ATX-101. Also evaluating the most optimal way to generate value from our portfolio of novel preclinical and early-stage compounds using the CD37 targeting immunotherapy programs. And then finally, some of the other APIM novel therapeutic approaches where again Kostas is going to talk in more detail about it.  
+With respect to the shareholders of APIM, the largest shareholder representing over 70% of the share of APIM agreed to a 12-month lockup in the company. So that's simply give you some additional security. More on the soft side, we already had a couple of joint meetings between APIM and Nordic Nanovector, and I can tell you it was a really great chemistry between the 2 teams. And we have started to work on a joint R&D pipeline, whereby we have multiple shots and goal that we look very, very positive.  
+So having said all that, I think that the Nordic Nanovector definitely came -- definitely came to the conclusion that we feel this is by far the most attractive opportunity for Nordic Nanovector. Again, we have not heard a single viable alternative from any of our shareholders. And I really like to hand over now to Kostas to tell a little bit more about the APIM pipeline. Thank you.
+
+--------------------------------------------------------------------------------
+Konstantinos Alevizopoulos,  APIM Therapeutics AS - MD    [2]
+--------------------------------------------------------------------------------
+Thank you, Jan. Thank you, everybody. So in the next slides, I will try to give you some more information about APIM Therapeutics and to why we think that this technology developed by our company is really exciting and also why we believe that the fit with Nordic Nanovector is so important. And this is what exactly we want to do in the next period of time.  
+So if we go into the next slide, this slide summarizes practically what we are and what the technology, the key technology points that APIM brings on the table are differentiating factors practically. So I think the first point is the most important point. We are a company that brings a novel therapeutic approach, a new therapeutic intervention point. For those of you who participated in the previous webcast, I've explained a bit more about this intervention point. It really relates to targeting cancer escape mechanisms. And these are, of course, important in oncology.  
+So having this intervention, having discovered this intervention point, our company was the first to target this mechanism of action with our drug, which is called ATX-101. As you know, and since we are first to target (inaudible) peptide, also called -- it's a first-in-class drug. The beauty of this intervention point is that it's also applicable practically in every different tumor types. So it's not specific to a given mutation, to a given genetic alteration of any tumor type, it's really applicable in practically every tumor.  
+Now we have used our drug in really relevant animal preclinical models typically and originally shown that it has activity on its own. But also, it has a strong potentiating effect of other anticancer therapies, and we have conducted extensive experimentation showing that more than 25 different drugs in different drug classes chemotherapeutic agents, radiotherapy or also targeted therapies are potentiated by our drug. So if you put those 4 bullet points together, it becomes obvious that APIM offers as a technology-driven company, numerous development opportunities. We can develop multiple, for example, combinations in multiple cancer indications. That's why we consider our product pipeline in a product due to this potential that it brings.  
+Having said that, which I would also like to point out, that this mechanism that we are targeting and relates to stress mechanism in cancer cells is also relevant for other diseases and especially inflammatory diseases. So we are talking about a novel mechanism, which is central in cancer, but also central in other diseases. So this gives you an idea about the overall potential that this technology is bringing.  
+Now the last bullet point is directed towards to our drug as a drug entity that one day will be delivered in patients at the commercial setting. It's practically chemically synthesized, highly scalable peptide, which is extremely stable and the tube has actually stability of more than 5 years. So really an entity which is easily made and can be easily used and administered in patients. So overall, I think these key technology points differentiate us from other companies as a unique company with really a lot of potential for further development.  
+In the next slide, what I've done is I presented the -- in a snapshot, the ongoing clinical development of our company. We have 2 Phase II studies underway, and this is an important message. It's an advanced development, mid-stage development clinical program. Of course, to arrive at this stage, we have concluded a first clinical study in patients with advanced solid tumors. We've administered our drug as monotherapy. The goal of this study was to establish the safety primarily of our component. Any new mechanism actually has to prove itself in a sense that it's really exciting to have a new mechanism, but you have to rule out that there is no safety issue for your novel drug, and this is exactly the concept of our Phase I study.  
+So the study concluded on an excellent safety profile of our drug and signs of clinical activity. And these data, together with the exciting work conducted in the clinical models and the preclinical proof of concept, led us to activate these 2 studies. And I mentioned in the previous slide that we are -- our drug is able to potentiate the action of other drugs and deliver the maximum therapeutic effect. That is the reason why our first study, a sponsored study in ovarian cancer, is a combination study. So this is a proof-of-concept study. And you can see in the slide that we are combining with 2 other partners. So please go back to the previous slide.  
+We are combining with 2 partners, doxorubicin/carboplatin in a segment of the disease called platinum-sensitive disease. And preliminary data, actually, the colored part is the ongoing part, but we can really say at this point that there is no safety concern, and we've met already the primary endpoint of the safety part of the study. And this is exciting for another reason. I told you before that a new drug has to prove itself that it's safe if you target a novel mechanism. And if your mechanism of action is primarily in combination with your other drugs, you have to prove that you are safe as used alone and also used in combination. So we have seen a fantastic safety profile up to now.  
+So we are really optimistic that this practically technology can be used to deliver multiple combination treatments in the future to patients. So that's a very exciting part.  
+Now we are entering a Phase II efficacy part, and you can see here also on this slide, the side of the patient population that we will be treating in this proof-of-concept study. On the bottom side of the slide, you see a second study that we are supporting. The official sponsor is the Columbia University in New York. That's why it's called an investigator-initiated study. I think it's important to note why this study has started. 
+Scientists at Columbia University, which are leaders in the field of sarcoma globally have actually evaluated data that came out of our concluded Phase I study in sarcoma patients that we recruited in this study. So in those patients, we saw really a prolonged disease stabilization that these experts at Columbia University thought was clinically meaningful. So they reached out to us and thought that it would be exciting for them to test our compound. And as you can imagine, we were glad to support such study with one of the leading global center. I mean, one of the most prominent sarcoma centers in the U.S. 
+So therefore, we started the study as ATX-101 monotherapy in sarcoma patients. And saw actually activity in the first patients, but what is more interesting to note is that these scientists at Columbia University have conducted also experiments in preclinical models using our compound. And what we've been able to show is they have been able to reproduce practically all the data in sarcoma, of course, that we have also generated in our own labs. So that's an independent validation of our preclinical data by a world-class medical center.  
+And another second point of interest is that while doing those experiments, Columbia discovered without a surprise to us that if you combine our drug with other drugs, it has even a better therapeutic effect. And obviously, combination therapy, again, once again, becomes relevant for sarcoma, as I will analyze in the following slides.  
+So if we could move to the next slide. So I've talked about these 2 ongoing clinical studies. I've talked about the numerous possibilities that APIM has. This slide shows 2 studies that we think are worth performing. So that's why the study title is Planned Studies, and these studies address both indications with extremely high unmet medical need. These indications are glioblastoma, and the second indication is ovarian cancer, again, but a different -- more aggressive subpopulation called platinum-resistant disease. So why we want to target that indication -- those indications? Primarily because we have very good published preclinical data supporting use of our drug, together with different combinations in those indications.  
+So based on this preclinical data, and also input that we have received from key opinion leaders, we are highly motivated in starting such studies as a further step to validate our technology and provide, of course, the necessary efficacy data that is needed in order to advance to subsequent stages of development.  
+So if you go to the next slide, so this slide practically summarizes -- it gives a snapshot of our clinical development pipeline as we see it. I talked about the finished Phase I study, and the study report that was concluded and available earlier this year. We're now seeking to publish submitted those data. And then you see the 2 ongoing studies, the ovarian cancer and the sarcoma study. You see that these studies within the next period of time, and we have already achieved the safety endpoint on time. These studies will deliver progressively data, efficacy data, in increasing numbers of patients over time, aiming to provide, of course, the final proof of concept that we need in this indication.  
+On sarcoma, I told you that we were pursuing a monotherapy clinical study. Actually, we have to revisit this approach that we have right now, thinking that if the combinatorial approach is working so nicely in preclinical models and the investigators are willing to actually prioritize that in patients, actually, makes sense to combine our drug and follow a combinatorial therapy approach. And you can also see here that if we follow that approach, we will be able to initiate that in 2023 and deliver already efficacy readouts, clear efficacy readouts in the period to come.  
+Of course, we have the 2 planned studies that these studies that we would be willing to initiate, of course, already in 2023. And these studies, this unmet medical needs, actually come with rapid output in terms of final very relevant data practically on the ability of these patients to remain progression-free, and of course, survive in those indications. So overall, a pipeline that it has to offer over the next period of time, several inflection points, and we believe it's an exciting mix of studies that are aiming to validate, as I said, our technology going forward.  
+In the next slide, we summarize why do we want to do that. And I think we want to do that because having an innovative technology, we really want to deliver solution to patients. And you can see on the left-hand side of this slide the need in patients. In ovarian cancer, this need, depending on the population that you are targeting, is high or very high. You see that patients actually live less than 2 years in the first population, even almost a year, only 1 year in the most advanced population. And you see the same numbers below for sarcoma, a year, about a year in survival. And the glioblastoma even deadlier. So you can imagine that the medical need is so high that it drives treatment, it drives actually introduction -- fast introduction of therapies such as ours.  
+Now in the middle column, you see what the positioning is and the patients that we want to target within those indications, practically in ovarian cancer or glioblastoma, the majority of the patients with this indication. And in the sarcoma 90% or 100%, and in sarcoma 40% of the patients, so significant numbers of patients. And we -- our aspiration is really going forward to provide a new therapeutic option in combination at the second line or first line setting depending on the indication, first line in glioblastoma.  
+Having said that, and I told you about these unmet medical need and our positioning, obviously, this translates into a significant market potential. You see on the upper part the total market size. So a quite significant market size for these 2 ovarian cancer sarcoma indication, a bit smaller for glioblastoma, but still significant market potential.  
+On the bottom, it's actually interesting to know, I don't have time to go through this, but that's part of our technology offering, and what we bring on the table in this transaction is potential market values for indication that APIM has already validated preclinically. We have done quite a lot of work in those indications, and we have data supporting development in those indications. And these indications are also big markets. This is the reason why I've told you in the very first slide that the potential for development for APIM Therapeutics with different combinations and different indications is really so high.  
+So going to the next slide, actually I believe that the combined company, and of course, in APIM, especially at least for what concerns the ongoing part of the studies, is it offers a global program because these studies are running in different territories. And our idea is, of course, to globalize our program and make regulatory authorities aware of what we are doing. So we are working with them, the FDA and other authorities to make our program global. So it's a global program in attractive solid tumor indications. And what we have taken the -- and I really need to point that out. We have taken the approach that our technology, our pipeline, needs to offer a diversified risk profile. 
+If you put all your money into a high-risk indication, of course, there's a high risk that you will fail. So we've built our program after consulting with regulatory authorities and key opinion leaders, trying to diversify risk, mixing studies that have different risk profiles. And that due to avoid, of course, costly failures. That is why we have this mix of studies that we are running and studies that we would like to be performing. So I talked about these major 2 ongoing Phase II studies, which are important studies, advanced studies. They are now set to deliver significant data, and this is exactly the value that APIM brings on the table, and I've talked about plant studies supported by preclinical data.  
+So what I haven't said is that due to the unmet medical need, which is extremely high, we have also the potential for accelerated approvals in orphan drug disease status. And this is something that needs to be taken into account while evaluating our portfolio, really. And I told you about the markets.  
+Now we are excited to be discussing with Nordic Nanovector and evaluate the pipeline of candidates, that's for sure, in order to define a combined pipeline. But for what concerns really our aspiration going forward in the combined company, and me, as the CEO of the combined company, is really to be able to deliver this multiple value inflection point really, and this is really our aspiration.  
+Before turning back to Jan for concluding remarks, what I wanted to really tell you is we -- as you may have read about it and heard by Jan, we have spent the last 3 days talking to -- and I'm sitting here with Malene next to me and the team of Nordic Nanovector in other parts of this office. We have spent 3 days discussing with the Nordic Nanovector team, and I can tell you that I see great chemistry between the 2 companies. I see great synergies between the 2 companies. Nordic Nanovector has a very significant oncology development experience and know-how. This is not to be neglected. Matching this with APIM assets gives actually an outcome -- a company, a combined company that has a lot of potential. And I see that from the first days of interaction that we sat together, and each company presented technology to the other company. I see great synergies. So I'm really satisfied with all discussions.  
+Obviously, it's still early. We need to discuss more. There will be more discussions. We will also organize presentations and other -- going forward. We're hoping to organize also an R&D Day and discuss all these programs in more detail. But as this first discussion took place the last 3 days, I mean, that was a fantastic synergies and good chemistry between the companies. And this is important really to note. So I'm really happy to be in this position, and looking forward to next steps with working together with Nordic Nanovector, and I hope you can endorse this strategy.  
+So with that, I want to turn back to Jan to sort of put forward an overview, and thank you very much.
+
+--------------------------------------------------------------------------------
+Jan Hendrik Egberts,  Nordic Nanovector ASA - Independent Chairman of the Board    [3]
+--------------------------------------------------------------------------------
+Thank you very much. Yes, I think you can hear the excitement in Kostas' voice. Also the positive meetings he has had and then both teams had with each other. And frankly what I think is a super attractive pipeline of the 2 combined companies with multiple short term goals in the not-too-distant future. So I think we're all excited. I hope you are too.  
+But switching gear a little bit, talk a little bit about the upcoming Extraordinary General Meeting. So the shareholders who want to attend this meeting, they really must register no later than next Tuesday, which November 29 at 4:00 p.m. You can attend either in person or you can vote by proxy, so written. The deadline for the proxies and the advanced vote is really also that November 29, next Tuesday that I mentioned. Until the deadline, you can change your vote, you can withdraw your vote.  
+But anyway, I really -- and with me and all my colleagues and the Board really encourage you to participate, vote in advance or come to the meeting. To get very technical, how you get -- how you go in your electronic registration, that is through nordicnanovector.com, where the link is and then you -- as (inaudible) indicate, you do need a pin code to get into it.  
+You can also, for personal attendance, work through our -- the bank that conducts or supports the Extraordinary General Meeting, Nordea Bank, and you can use the e-mail address nis@nordea.com. In this case, you don't have to use a pin or a reference number. So anyway, there's more information -- more detailed information if this went a little too fast on our website, where you can find more about it. 
+So anyway, in short, I think we're all very excited about the proposal. We have spoken with many of you. Frankly, we have not heard any alternative viable approach or scenario or merger candidates. So we hope you all propose to support us during the upcoming Extraordinary General Meeting.  
+Having said that, I'd like to hand over now to the moderator for some Q&A. Again, we'll answer the questions in English in case I'm doing it, and then we'll translate it in Norwegian, and I think Malene is going to help with one of the other moderators. Thank you very much.
+
+
+================================================================================
+Questions and Answers
+--------------------------------------------------------------------------------
+Unidentified Company Representative,   -     [1]
+--------------------------------------------------------------------------------
+Thank you, Jan. We'll just turn to questions and try and take them in order. So the first question, we have a series of questions, which really relates to Nordic Nanovector's early-stage pipeline, which I think can best be summarized by asking whether you can provide any further updates around the early-stage Nordic Nanovector pipeline at this stage in terms of the current status of key products such as Humalutin, potential combinations for Betalutin or any of the other early-stage products in the pipeline.
+
+--------------------------------------------------------------------------------
+Konstantinos Alevizopoulos,  APIM Therapeutics AS - MD    [2]
+--------------------------------------------------------------------------------
+Malene, do you want to take that question as CEO.
+
+--------------------------------------------------------------------------------
+Malene Brondberg,  Nordic Nanovector ASA - Interim CEO & CFO    [3]
+--------------------------------------------------------------------------------
+Yes. Maybe you want to start, then I can follow up.
+
+--------------------------------------------------------------------------------
+Jan Hendrik Egberts,  Nordic Nanovector ASA - Independent Chairman of the Board    [4]
+--------------------------------------------------------------------------------
+No. I mean, short of it looks very positive. It's very early stage. So it's still not in the clinic. So it will be very difficult to financing in a public market environment, we as a publicly traded company. Really, in particular, since the stock market has changed so much for the wars over the last couple of months, financing a preclinical company, a company that have compounds that are not being pursued, that are not being evaluated in a clinical setting is very difficult. So yes, we have a number of compounds. They look encouraging, but it's very, very early stage.
+
+--------------------------------------------------------------------------------
+Malene Brondberg,  Nordic Nanovector ASA - Interim CEO & CFO    [5]
+--------------------------------------------------------------------------------
+Yes, then I can maybe also just add that if you could -- if you look at the slide with the process that we've been through, you could also see that we have talked to big pharma and other biotech companies and so on. And they have, of course, also looked at the pipeline, which is also an expression about our view on that. It is a very early stage pipeline. It's not that there's not interesting projects, it's just very early days, and I think that should also be taken into account that others have looked at it as, again, it was plus 25 companies that have been in this process. 
+I think for the individual projects, I don't think we should comment on each one of them. As you know, what we have said, and I know that's another question coming in as well, we have the ASH presentation coming up in December. That is, of course, very, very interesting. But again, it is very, very early days for that day program. And you can even -- Jostein has also participated in an interview today, which I think has maybe just gone out on med watch. And there, you can actually also see what Jostein is saying on the pipeline, and how he also view this opportunity with APIM. 
+And I think that's -- that, of course, as he is our CSO, that definitely needs to be taken into account, and he is also one of the co-founders of Nordic Nanovector, and he is fully supportive of this transaction. And of course, he knows better than anyone what we got in the pipeline, but also how far it is from just getting us to the states of where we were with PARADIGME.
+
+--------------------------------------------------------------------------------
+Operator    [6]
+--------------------------------------------------------------------------------
+Thank you, Malene. (inaudible).
+
+--------------------------------------------------------------------------------
+Jan Hendrik Egberts,  Nordic Nanovector ASA - Independent Chairman of the Board    [7]
+--------------------------------------------------------------------------------
+The other comment I'd like to make is, as Kostas mentioned, we're currently evaluating our joint pipeline, and we are in the process of -- we are planning to organize after the merger an R&D Day where we'll go in more detail. 
+Malene, do you want to translate to Norwegian because...
+
+--------------------------------------------------------------------------------
+Malene Brondberg,  Nordic Nanovector ASA - Interim CEO & CFO    [8]
+--------------------------------------------------------------------------------
+No, I think we would do that in the end of the call, maybe.
+
+--------------------------------------------------------------------------------
+Unidentified Company Representative,   -     [9]
+--------------------------------------------------------------------------------
+So the next question asks, could you please comment on who the advisers were on either side of the transaction for each company? And then there's a specific question for Kostas, which is a note that he is an adviser to Ventac, and a question as to whether or not that organization has been assisting APIM in regards to the transaction.
+
+--------------------------------------------------------------------------------
+Konstantinos Alevizopoulos,  APIM Therapeutics AS - MD    [10]
+--------------------------------------------------------------------------------
+Should I?
+
+--------------------------------------------------------------------------------
+Jan Hendrik Egberts,  Nordic Nanovector ASA - Independent Chairman of the Board    [11]
+--------------------------------------------------------------------------------
+Go ahead.
+
+--------------------------------------------------------------------------------
+Konstantinos Alevizopoulos,  APIM Therapeutics AS - MD    [12]
+--------------------------------------------------------------------------------
+No, for what concerns the part of APIM, obviously, when we say independent valuation by an international party that conducts valuation, we also recognize ourselves that this cannot be an entity for which there is a relationship...
+
+--------------------------------------------------------------------------------
+Jan Hendrik Egberts,  Nordic Nanovector ASA - Independent Chairman of the Board    [13]
+--------------------------------------------------------------------------------
+As a legal side -- excuse me, Selmer is our legal adviser and Carnegie is our bank. Then we'd have...
+
+--------------------------------------------------------------------------------
+Malene Brondberg,  Nordic Nanovector ASA - Interim CEO & CFO    [14]
+--------------------------------------------------------------------------------
+And then you can see from our press releases, what we've also said is that KPMG has helped us with the fairness opinion.
+
+--------------------------------------------------------------------------------
+Konstantinos Alevizopoulos,  APIM Therapeutics AS - MD    [15]
+--------------------------------------------------------------------------------
+Of course, I can say that our legal adviser was short in this transaction, so which is a well-known, of course, legal law firm. I mean, this has been already communicated, I think.
+
+--------------------------------------------------------------------------------
+Jan Hendrik Egberts,  Nordic Nanovector ASA - Independent Chairman of the Board    [16]
+--------------------------------------------------------------------------------
+Yes. But the point that Malene made and I forgot, thanks for adding that, KPMG did also the valuation of the combined entity and gave this as a borge to ensure it's a fair valuation. So that's an important data point for our shareholders.
+
+--------------------------------------------------------------------------------
+Unidentified Company Representative,   -     [17]
+--------------------------------------------------------------------------------
+The next question is essentially around the timing of the merger, and asks whether you can comment on the timing, particularly bearing in mind that there are value triggers ahead for both APIM and Nordic Nano in the relatively near term. And this question specifically refers to the posters of ASH, which Malene already mentioned, and potential results from the CD37 CAR-T program.
+
+--------------------------------------------------------------------------------
+Jan Hendrik Egberts,  Nordic Nanovector ASA - Independent Chairman of the Board    [18]
+--------------------------------------------------------------------------------
+Yes. I mean, as I mentioned, Kostas will be the CEO of the combined entity. We'll obviously have the EGM next week, next Thursday. After that, assuming that will get approved, which I do; assume, we would close the transaction relatively quickly, probably in a matter of a week. And then the combined company will be run under the guidance and direction of Kostas. So I assume that that's the question that was asked. Closing should be approval during the EGM, the Extraordinary General Meeting of Shareholders, and closing probably about a week later, give or take. With that, we'll leave you for (inaudible).
+
+--------------------------------------------------------------------------------
+Unidentified Company Representative,   -     [19]
+--------------------------------------------------------------------------------
+I think this question was also trying to get at the timing of the merger in relation to the fact that there are some upcoming data points for both companies.
+
+--------------------------------------------------------------------------------
+Jan Hendrik Egberts,  Nordic Nanovector ASA - Independent Chairman of the Board    [20]
+--------------------------------------------------------------------------------
+Yes. I mean, the 2 separate companies will continue to do the work they have been doing. So I really don't expect any changes there. People keep working on what they have been working on. So there's no change there.
+
+--------------------------------------------------------------------------------
+Konstantinos Alevizopoulos,  APIM Therapeutics AS - MD    [21]
+--------------------------------------------------------------------------------
+I can comment also on that to say that on APIM side, obviously, we had a program and we have an ongoing program. And as an organization, our goal for the next period was also to expand because we, as you see, we have obtained very interesting data, and our goal was to expand our organization and to be able to conduct multiple studies. So actually, this timing -- the timing of the merger here suits us extremely well because the combined company has know-how and the combined resources that actually will facilitate the work to be done on these programs and the milestones that are planned. 
+So for us, actually it was a fantastic opportunity, the timing of the merger. That's why we pursued that 100% because it really fitted the plans that we have to grow as an organization and get more additional know-how in the oncology space for 2023. So it really came at the right moment for us.
+
+--------------------------------------------------------------------------------
+Malene Brondberg,  Nordic Nanovector ASA - Interim CEO & CFO    [22]
+--------------------------------------------------------------------------------
+If I could just follow up on that with the ASH posters, also comment that. Of course, the ASH posters have already been -- already out there. Of course, it's important, but it shouldn't be too much heavy weight on that. It's, of course, important, but they are already published. You can always find -- already find them on there.
+
+--------------------------------------------------------------------------------
+Unidentified Company Representative,   -     [23]
+--------------------------------------------------------------------------------
+Next, we have a number of questions around financials, but really relating to the cash position of the combined company. The question is phrased different ways, but essentially asks how much cash APIM will bring to the combined company and what the cash position will be at the point of combination.
+
+--------------------------------------------------------------------------------
+Konstantinos Alevizopoulos,  APIM Therapeutics AS - MD    [24]
+--------------------------------------------------------------------------------
+So APIM actually, at this point, brings approximately the cash situation of today is approximately NOK 75 million. That's the cash position, including warrants by shareholders that would be converted. So that's the cash position. And as we've talked previously, I mean, I think Nordic Nanovector disclosed their own numbers. I think that the core message of these numbers is that the combined company will have sufficient funds to enter 2024. I mean, that's the key take home message. Of course, we need to do, first, some consolidation work and finalize the transaction, but at this point of time, this is what we can say about the cash position, and of course, how long this cash position will last. I don't know if you want to add anything.
+
+--------------------------------------------------------------------------------
+Malene Brondberg,  Nordic Nanovector ASA - Interim CEO & CFO    [25]
+--------------------------------------------------------------------------------
+No, I think we said we had 95 end of -- roughly end of the year, but from that amount you need to deduct 25, which is a liability going into next year, because the winding down of PARADIGME continues in the first quarter. And that, of course, cost. So if you deduct that, we will roughly have 70, and then, of course, we have some transaction costs, which I also said last time, which will be north of NOK 10 million.
+
+--------------------------------------------------------------------------------
+Unidentified Company Representative,   -     [26]
+--------------------------------------------------------------------------------
+I think is a subsidiary question, which I think effectively you may have already answered, but essentially asks, in light of the cash position, is funding secured for APIM's ongoing Phase II studies?
+
+--------------------------------------------------------------------------------
+Konstantinos Alevizopoulos,  APIM Therapeutics AS - MD    [27]
+--------------------------------------------------------------------------------
+As we said, the ongoing studies, of course, I think what I just mentioned about the combined company having sufficient funds to enter to 2024 stance, we are in drug development. The studies are -- and also opening more studies requires additional funds. So certainly, going forward, we would need to raise additional funds. But at this point of time, yes, I mean, we are funded for next year, and we would need to raise additional funds to continue supporting the studies and doing more work.
+
+--------------------------------------------------------------------------------
+Malene Brondberg,  Nordic Nanovector ASA - Interim CEO & CFO    [28]
+--------------------------------------------------------------------------------
+I think if I can just add to that, because, of course, we've spoken a lot about that also, ask Kostas just to comment on the CMC, because that's probably where we -- there is a big difference in Nordic Nanovector compared to the APIM business.
+
+--------------------------------------------------------------------------------
+Konstantinos Alevizopoulos,  APIM Therapeutics AS - MD    [29]
+--------------------------------------------------------------------------------
+Yes. No, I mean, it is important to note that, as I said in one of the very first slide, our drug product is actually, -- of course, it comes with highly sophisticated science, but itself as a drug product, it's pretty much easily manufactured and used. So we do not have, fortunately, the limit for us and for the combined company, limitations in terms of shipment, stability of the product. So that's obviously the CMC part. 
+Certainly, you have to invest in further advancing your product towards commercialization. I mean, from a physical product perspective, of course, and we need to do that. But this part of the development part program comes with a very significant -- with very minor really, really risk. And just to give you an idea, actually, our drug product included in vials, dosing patient doesn't have any added ingredient, it's just our drug product. So it's pretty easy to do. 
+And one other point that maybe I want to make is that the plan of the studies, and you may have noted the numbers, noted on the side of the arrows, on the number of patients per study. So we also have for these studies that we are planning a very reasonable number of patients. And this translates into, of course, a number of patients that are recruited in a reasonable number of centers, and this takes the overall cost. But also the risk in recruitment, the delays, et cetera, reduces the risk. And I think this is an important factor to consider. 
+So from a -- and it's not my -- I would say I shouldn't comment on Nordic Nanovector operations, of course. But if you just compare in terms of the ease of using our drug, and actually, I think it would be very -- it would be actually quite simple to be able to conduct those studies from a compound perspective and the risk from that point of view is actually very low.
+
+--------------------------------------------------------------------------------
+Malene Brondberg,  Nordic Nanovector ASA - Interim CEO & CFO    [30]
+--------------------------------------------------------------------------------
+And then I can compare the CMC number, just to give some insight into that. If you look at -- we spend roughly NOK 440 million on a yearly basis in that level, and plus 60% of that has gone into the CMC. So that's...
+
+--------------------------------------------------------------------------------
+Konstantinos Alevizopoulos,  APIM Therapeutics AS - MD    [31]
+--------------------------------------------------------------------------------
+For us, that's a big difference. With these numbers, we would make commercial stocks practically and create multi-kilogram NOK. So I mean, that's definitely we will not have this type of cost or complexity.
+
+--------------------------------------------------------------------------------
+Jan Hendrik Egberts,  Nordic Nanovector ASA - Independent Chairman of the Board    [32]
+--------------------------------------------------------------------------------
+Yes. So for the people who don't know, CMC means Chemistry, Manufacturing and Control. It's basically the entire process to make the drug.
+
+--------------------------------------------------------------------------------
+Konstantinos Alevizopoulos,  APIM Therapeutics AS - MD    [33]
+--------------------------------------------------------------------------------
+Exactly.
+
+--------------------------------------------------------------------------------
+Unidentified Company Representative,   -     [34]
+--------------------------------------------------------------------------------
+The next question asks, Kostas, could you comment on the clinical efficacy signals that you've seen so far from ATX-101 from the early clinical studies? And then the subsidiary question, sorry, is how is the drug intended to be used in clinical practice given its very short half-life?
+
+--------------------------------------------------------------------------------
+Konstantinos Alevizopoulos,  APIM Therapeutics AS - MD    [35]
+--------------------------------------------------------------------------------
+Okay. Two questions. So the first question is, I've talked about the Phase 1 that we have concluded. The Phase 1 was performed by administering our drug in patients practically with no therapeutic options. Unfortunately, as you know, in oncology, advanced solid tumor patients, no therapeutic options, heavily pretreated that have already failed multiple prior treatments. The primary endpoint of our study Phase I, as any Phase I study is practically safety. You have too much heterogeneity to be able to consider efficacy results. Obviously, you monitor the responses of patients. 
+So we've dosed our drug as monotherapy. Remember that what I said that the optimal therapeutic effect, the optimal therapeutic effect of our drug is in combination. So monotherapy clearly has an effect, but clearly, the optimal therapeutic effect is combination. Having said that, we have seen significant disease stabilization in a lot of different patients. And in agreement with preclinical data, this were seen in practically all types of tumor types. 
+Can we conclude that ATX-101 will have fantastic efficacy going forward? From a clinical perspective, it's early. We cannot say that, but we have strong indications that there is clinical activity that merits further exploration. That's point #1. Point #2 is, remember what I told you, we had sarcoma patients in the study. And the data in those patients triggered the interaction with Columbia, and I hope you can agree with me that the leading center actually that has been, let's say, the target of any pharma company to run collaborations with because they are at the forefront of sarcoma research. 
+If these researchers consider that the data is worth conducting an investigational study, that they run practically at a very low cost, I think this provides really validation on the value of the Phase I data that we have. So we believe that, of course, it's early in development. Phase II now it's the development that will deliver the actual results. But I think the data is there to suggest promising activity. 
+Now in relation to the second question, whether the drug, I think it was -- the half-life was one thing. The other thing was how do you administer, if I remember correctly. But that's a weekly intravenous infusion. But when we dose it in combination, we actually use it together with partners. So if 1 drug is dosed on day 1, then our drug is dosed in day 2. And then when the next time the patient gets the second dose of chemotherapy, they also take the second dose of our drug. So it's really tailored to the combination therapy. 
+Now for what concerns half-life, there are 2 ways to dealing with it, to addressing this question. First of all, what I just mentioned on the preclinical data -- and what I mentioned on the Phase I data was conducted with this compound. So it gives you an idea that whatever the life of the compound is, it's sufficient to deliver activity. So that's, of course, an indirect point, but a point that needs to be made. 
+Now for what considers the half-life, I don't want to be too technical, but that's a technical question. Typically, a half-life of a compound is important. But in our case, our drug gets into the tissue extremely fast. So where you measure half-life is actually something which doesn't really mean much for this type of compound because the compound in 1 minute is already in tissues. I think the relevant question is, okay, it has a short half-life in the blood? It disappears. How long does it last in vivo? And we have data preclinically to suggest that the effect lasts for several days. 
+So if you put all these things together, I think there's good evidence from preclinical and early clinical data that the compound is active, and we are now looking forward to dosing it in combination, which we expect will deliver the best effect.
+
+--------------------------------------------------------------------------------
+Unidentified Company Representative,   -     [36]
+--------------------------------------------------------------------------------
+A question about the operations of the combined company, which asks, can you tell us what the total number of employees for the merged company will be? And will you have -- or is there a plan to have offices in both locations?
+
+--------------------------------------------------------------------------------
+Konstantinos Alevizopoulos,  APIM Therapeutics AS - MD    [37]
+--------------------------------------------------------------------------------
+Should I take that?
+
+--------------------------------------------------------------------------------
+Malene Brondberg,  Nordic Nanovector ASA - Interim CEO & CFO    [38]
+--------------------------------------------------------------------------------
+Yes.
+
+--------------------------------------------------------------------------------
+Konstantinos Alevizopoulos,  APIM Therapeutics AS - MD    [39]
+--------------------------------------------------------------------------------
+So I think the combined company, Nordic Nanovector, I'm sitting here in the facilities of Nordic Nanovector, and people are housed here. So in my view, the labs are here. We will be here. I think the combined company will be based in Oslo at the Nordic Nanovector facilities, which are here, and the people are here. So that's an easy decision to actually be made. 
+For what concerns the head count, we are still -- and I have to say that we have been discussing and discussing clinical programs. We have been discussing integration. Certainly, the number, the exact number of -- I was actually making the organizational chart this day. We do have a number of personnel. I think will be around 12 to 15 people, approximately the combined company. We're still discussing actually. And this will include positions to be hired, also some positions to be hired, for example, supporting manufacturing and functions that need to -- are needed to support further development and the network of consultants. 
+So we will exploit some of the consultants that Nordic Nanovector was using, and we'll also use some of our consultants, I would say, 12 to 15 people with the new hires plus a few 6 or 7 consultants that are working and supporting the company. That's, at this point of time, the predicted size of the company. But as I said, we just had the third meeting. We have been overwhelmed with the transaction. We really need to sit down and consolidate all this, and this is exactly what we will be doing following acceptance, hopefully, of this merger.
+
+--------------------------------------------------------------------------------
+Unidentified Company Representative,   -     [40]
+--------------------------------------------------------------------------------
+Malene, we've come to the end of pretty much most of the questions in English. I don't know whether we can hand over now and whether there are any subsidiary questions in Norwegian that you would like to address.
+
+--------------------------------------------------------------------------------
+Malene Brondberg,  Nordic Nanovector ASA - Interim CEO & CFO    [41]
+--------------------------------------------------------------------------------
+I don't know. Do you see any of them? We, of course, try to address them in Norwegians. The one that we've seen here, I think it's more of the same. I would say that we can -- initially, we watch them here on the screen. 
+In general, I would just say if some of you that haven't got an answer, then, of course, get back in touch and then we will definitely either call you or we will send them on e-mail. And again, we have nearly 12,000 shareholders. So it is a lot, plus there is still a lot of documents that needs to be prepared in connection with all of this that needs to be ready for next week. So we are basically working 24/7 to get this to go. And I think maybe we should -- I don't know, should we turn over to the Norwegian questions now?
+
+--------------------------------------------------------------------------------
+Unidentified Company Representative,   -     [42]
+--------------------------------------------------------------------------------
+Yes. Why not?
+
+--------------------------------------------------------------------------------
+Malene Brondberg,  Nordic Nanovector ASA - Interim CEO & CFO    [43]
+--------------------------------------------------------------------------------
+(foreign language).
+
+--------------------------------------------------------------------------------
+Konstantinos Alevizopoulos,  APIM Therapeutics AS - MD    [44]
+--------------------------------------------------------------------------------
+(foreign language).
+
+--------------------------------------------------------------------------------
+Malene Brondberg,  Nordic Nanovector ASA - Interim CEO & CFO    [45]
+--------------------------------------------------------------------------------
+(foreign language).
+
+--------------------------------------------------------------------------------
+Konstantinos Alevizopoulos,  APIM Therapeutics AS - MD    [46]
+--------------------------------------------------------------------------------
+(foreign language).
+
+--------------------------------------------------------------------------------
+Malene Brondberg,  Nordic Nanovector ASA - Interim CEO & CFO    [47]
+--------------------------------------------------------------------------------
+(foreign language) 
+With that, I think I will turn back to English, and then Jan, I will ask you for the concluding remark.
+
+--------------------------------------------------------------------------------
+Jan Hendrik Egberts,  Nordic Nanovector ASA - Independent Chairman of the Board    [48]
+--------------------------------------------------------------------------------
+Okay. Thank you very much. Now I hope you are all equally excited as we are about this proposed merger. Again, I think that's a great chemistry with team. It's very indicated also everybody is sitting together in the room in Oslo. So in short, I hope you will support us with this transaction and vote in favor at the upcoming EGM, either in proxy or in person. If you have any follow-on questions, we have all been able to find us, so I'm sure you'll continue to, and we'll try to answer them as expeditiously as possible. 
+Thanks so much, everybody, and have a great day. Bye-bye.
+
+
+
+
+
+
+
+--------------------------------------------------------------------------------
+Definitions
+--------------------------------------------------------------------------------
+PRELIMINARY TRANSCRIPT: "Preliminary Transcript" indicates that the 
+Transcript has been published in near real-time by an experienced 
+professional transcriber.  While the Preliminary Transcript is highly 
+accurate, it has not been edited to ensure the entire transcription 
+represents a verbatim report of the call.
+
+EDITED TRANSCRIPT: "Edited Transcript" indicates that a team of professional 
+editors have listened to the event a second time to confirm that the 
+content of the call has been transcribed accurately and in full.
+
+--------------------------------------------------------------------------------
+Disclaimer
+--------------------------------------------------------------------------------
+Refinitiv reserves the right to make changes to documents, content, or other 
+information on this web site without obligation to notify any person of 
+such changes.
+
+In the conference calls upon which Event Transcripts are based, companies 
+may make projections or other forward-looking statements regarding a variety 
+of items. Such forward-looking statements are based upon current 
+expectations and involve risks and uncertainties. Actual results may differ 
+materially from those stated in any forward-looking statement based on a 
+number of important factors and risks, which are more specifically 
+identified in the companies' most recent SEC filings. Although the companies 
+may indicate and believe that the assumptions underlying the forward-looking 
+statements are reasonable, any of the assumptions could prove inaccurate or 
+incorrect and, therefore, there can be no assurance that the results 
+contemplated in the forward-looking statements will be realized.
+
+THE INFORMATION CONTAINED IN EVENT TRANSCRIPTS IS A TEXTUAL REPRESENTATION
+OF THE APPLICABLE COMPANY'S CONFERENCE CALL AND WHILE EFFORTS ARE MADE TO
+PROVIDE AN ACCURATE TRANSCRIPTION, THERE MAY BE MATERIAL ERRORS, OMISSIONS,
+OR INACCURACIES IN THE REPORTING OF THE SUBSTANCE OF THE CONFERENCE CALLS.
+IN NO WAY DOES REFINITIV OR THE APPLICABLE COMPANY ASSUME ANY RESPONSIBILITY FOR ANY INVESTMENT OR OTHER
+DECISIONS MADE BASED UPON THE INFORMATION PROVIDED ON THIS WEB SITE OR IN
+ANY EVENT TRANSCRIPT. USERS ARE ADVISED TO REVIEW THE APPLICABLE COMPANY'S
+CONFERENCE CALL ITSELF AND THE APPLICABLE COMPANY'S SEC FILINGS BEFORE
+MAKING ANY INVESTMENT OR OTHER DECISIONS.
+--------------------------------------------------------------------------------
+Copyright 2023 Refinitiv. All Rights Reserved.
+--------------------------------------------------------------------------------

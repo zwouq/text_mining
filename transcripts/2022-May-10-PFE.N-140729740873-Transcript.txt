@@ -1,0 +1,572 @@
+
+
+Refinitiv StreetEvents Event Transcript
+E D I T E D   V E R S I O N
+
+Pfizer Inc to Acquire Biohaven Pharmaceutical Holding Company Ltd - M&amp;A Call
+MAY 10, 2022 / 2:00PM GMT
+
+================================================================================
+Corporate Participants
+================================================================================
+
+ * Aamir Malik
+   Pfizer Inc. - Executive VP & Chief Business Innovation Officer
+ * David M. Denton
+   Pfizer Inc. - CFO & Executive VP
+ * Vladimir Coric
+   Biohaven Pharmaceutical Holding Company Ltd. - Chairman of the Board, CEO & President
+ * Angela Hwang
+   Pfizer Inc. - Group President of Biopharmaceuticals Group
+ * Christopher J. Stevo
+   Pfizer Inc. - Senior VP & Chief IR Officer
+ * Nick Lagunowich
+   Pfizer Inc. - Global President of Internal Medicine
+
+================================================================================
+Conference Call Participiants
+================================================================================
+
+ * Stephen Michael Scala
+   Cowen and Company, LLC, Research Division - MD & Senior Research Analyst
+ * Robyn Kay Shelton Karnauskas
+   Truist Securities, Inc., Research Division - Research Analyst
+ * Daniel Ziment
+   Goldman Sachs & Company, Inc. - Associate Analyst
+ * Louise Alesandra Chen
+   Cantor Fitzgerald & Co., Research Division - Senior Research Analyst & MD
+ * Carter Lewis Gould
+   Barclays Bank PLC, Research Division - Senior Analyst
+ * Umer Raffat
+   Evercore ISI Institutional Equities, Research Division - Senior MD & Senior Analyst of Equity Research
+ * Mohit Bansal
+   Wells Fargo Securities, LLC, Research Division - Senior Equity Analyst
+ * Terence C. Flynn
+   Morgan Stanley, Research Division - Equity Analyst
+ * Kerry Ann Holford
+   Joh. Berenberg, Gossler & Co. KG, Research Division - Analyst
+ * Charles Cliff Duncan
+   Cantor Fitzgerald & Co., Research Division - Senior Analyst
+ * Christopher Thomas Schott
+   JPMorgan Chase & Co, Research Division - Senior Analyst
+ * Evan David Seigerman
+   BMO Capital Markets Equity Research - MD & Senior BioPharma Research Analyst
+
+================================================================================
+Presentation
+--------------------------------------------------------------------------------
+Christopher J. Stevo,  Pfizer Inc. - Senior VP & Chief IR Officer    [1]
+--------------------------------------------------------------------------------
+(technical difficulty)
+Commentary and statements during the call regarding, amongst other topics, the proposed acquisition of Biohaven by Pfizer and Biohaven's and Pfizer's pipelines, in-line products and product candidates, which are subjects to risks and uncertainties, additional information regarding forward-looking statements is available under Risk Factors and forward-looking information and factors that may affect future results in our SEC filings on Forms 10-K and 10-Q and in the press release we issued this morning. Forward-looking statements on the call speak only as of the call's original date, and we undertake no obligation to update or revise any of the statements.
+Joining us for the call today are Dave Denton, Pfizer's Chief Financial Officer; Angela Hwang, Group President, Pfizer Biopharmaceuticals Group; Aamir Malik, Chief Business and Innovation Officer; and Vlad Coric, Chief Executive Officer of Biohaven. Also joining us for the Q&A session will be Pfizer's Internal Medicine leadership team, including Global President, Nick Lagunowich; Chief Development Officer, Jim Rusnak; and Chief Scientific Officer, Bill Sessa.
+I will now turn the call over to Dave.
+
+--------------------------------------------------------------------------------
+David M. Denton,  Pfizer Inc. - CFO & Executive VP    [2]
+--------------------------------------------------------------------------------
+Thank you, Chris, and good morning, everyone. Today, we're very excited to announce the proposed acquisition of Biohaven's migraine portfolio. The acquisition gives Pfizer access to the premium products serving the large and growing unmet patient needs in the global migraine market. Recall that Biohaven has developed the first and the only breakthrough medication to both treat and prevent migraines. Coupled with Pfizer's best-in-class primary care footprint and our highly experienced field infrastructure, we see the potential for annual global peak revenues in excess of $6 billion annually. Further, the acquisition is forecasted to not only drive incremental revenues in the 2025 to 2030 time frame, but is also forecasted to enhance the company's financial returns.
+Biohaven is a company we've known well and we admired, recently taking the relationship to a new level and collaborating with them on the ex U.S. rights to their migraine portfolio late last year. This proposed transaction represents significant value for both Biohaven and Pfizer shareholders with a price of $148.50 per share for a total cash consideration for Biohaven's equity of approximately $11.6 billion. Excluding shares already owned by Pfizer, the purchase price represents a 33% premium over the 90-day weighted average trading price.
+Immediately prior to closing the transaction, Biohaven's nonmigraine neuroscience assets and related personnel, along with $275 million in cash, will be spun off into a new publicly traded biopharmaceutical company owned by Biohaven's current shareholders. Pfizer will retain all the commercial migraine assets as well as all the late-stage pipeline and early-stage compounds related to the migraine franchise.
+I should note that this transaction is subject to the completion of the spin-off and customary closing conditions, including the receipt of regulatory approvals and the approval of Biohaven shareholders. We expect the transaction to close by early 2023.
+Now with that, let me turn it over to Angela to delve more deeply into the transaction rationale.
+
+--------------------------------------------------------------------------------
+Angela Hwang,  Pfizer Inc. - Group President of Biopharmaceuticals Group    [3]
+--------------------------------------------------------------------------------
+Thanks, Dave. This transaction is great for patients, Biohaven and Pfizer. Pfizer's purpose is to deliver breakthroughs that change patients' lives, and we see this as an opportunity to help address this challenge for more than 1 billion patients around the world suffering from debilitating migraines. NURTEC's differentiating profile meets the needs of patients suffering from both acute and episodic migraines, giving patients and health care professionals an option that has not existed before.
+This new business is also a strong strategic fit for Pfizer and our Internal Medicine business unit. We have a strong legacy in pain and women's health; a best-in-class commercial organization, including a top-ranked sales, account management and marketing team, who have been at the core of creating blockbuster brands such as Eliquis, Lipitor, Lyrica, Viagra, just to name a few.
+Our scale allows us to operate in over 125 markets around the world. And with this acquisition, we can build global teams across all markets to ensure the success of this new migraine franchise. We are already actively planning for potential launches in 70 countries, and we're engaged with health authorities in these countries to enable successful launches, subject to regulatory approval.
+This transaction is also good for Pfizer shareholders because we expect to create value beyond the premium that we're already paying for Biohaven. To accomplish this, we plan to build off the great work done by Biohaven and bring the scale and expertise of the Pfizer commercial engine to maximize the opportunities for patients and our new migraine franchise. We're planning to combine the best of Biohaven with Pfizer's go-to-market model, which focuses on meeting customer needs, creating scientific partnerships, providing best-in-class primary care and patient education to help HCPs deliver great outcomes for their patients.
+Now let me tell you a little bit more about the Pfizer Internal Medicine business unit, where this new franchise will sit. Anchored by the market-leading anticoagulant, Eliquis and with a significant presence in women's health, Internal Medicine is the home of multiple customer-facing teams in commercial and medical who engage with integrated delivery networks, hospitals, ambulatory centers, primary care physicians and OB/GYNs. NURTEC ODT, and zavegepant when approved, will fit well into this portfolio and bring another market leader for Pfizer in Internal Medicine. In addition to the marketed products, IM has a deep pipeline with potentially best-in-class or first-in-class breakthrough assets in diabetes, obesity, NASH and heart failure amongst others.
+Now let me double-click on the market opportunity. Migraine treatment and prevention represents attractive incremental growth potential. First, migraine is extremely common with 1 billion people or over 11% of the people -- of the population worldwide suffering from migraine. In the U.S. alone, this amounts to 40 million people, which is 1 in 5 women.
+Migraine is also debilitating. When at its most severe, it is categorized by the World Health Organization as among the most disabling illnesses in the world. Its impact is also magnified. Migraines are very prevalent among younger working-age people who care for their families. At the same time, the unmet medical need is acute. Current standards of care aren't effective, convenient or tolerable for many patients.
+However, not only does migraine put a high burden on sufferers and their families, it also impacts the economy. Migraines cost the U.S. economy 157 million workdays and $36 billion per year.
+NURTEC ODT will help address these needs. It offers an effective oral treatment that can be conveniently used for both episodic prevention and treatment for those who suffer with migraines. And we expect to see robust growth ahead for the class as well.
+I'm sure you saw that VYDURA was recently approved in Europe, and we couldn't be more thrilled about the opportunity to now bring this medicine to patients suffering across Europe. In addition, the product is approved in other markets, including the UAE, Israel and the U.S. We look forward to building on this momentum in other markets this year, including the U.K. and China.
+Zavegepant is Biohaven's next oral CGRP asset, which they expect filing acceptance for the nasal intranasal formulation later this quarter, following the previously announced positive Phase 3 results. The intranasal form has ultrafast activity with improvement seen versus placebo in as few as 15 minutes and allows use in people with migraine who enjoy symptoms of nausea and vomiting, and they represent 40% of sufferers. Biohaven also has an oral form of zavegepant in Phase 3 clinical trials for prevention with the results expected in 2023.
+So now let me turn it over to Vlad to talk about NURTEC's recent performance, including the first quarter financial results that they announced this morning and their expectations for the year. Over to you, Vlad.
+
+--------------------------------------------------------------------------------
+Vladimir Coric,  Biohaven Pharmaceutical Holding Company Ltd. - Chairman of the Board, CEO & President    [4]
+--------------------------------------------------------------------------------
+Thank you, Angela, for that kind introduction. Today, we took a giant leap forward in delivering on Biohaven's mission to improve the lives of people with neurological diseases. We are excited that Pfizer recognized the value of our migraine franchise and will be delivering this important breakthrough medication to patients.
+Under the leadership of Pfizer, NURTEC ODT will be well positioned to continue to thrive, ensuring even greater access to a life-changing migraine medication that finally brings a debilitating disease under control. As a global drug development powerhouse, Pfizer will unlock the full potential of our CGRP franchise, building upon the work we have done in the last 5 years, including advancing zavegepant, the only intranasal CGRP antagonist for ultra-rapid pain relief in the acute treatment of migraine. On this momentous occasion, we are hopeful that patients, caretakers, physicians, shareholders and all key stakeholders of both Pfizer and Biohaven can appreciate the long-term value proposition we are presenting here today.
+I want to take a few minutes to talk specifically about the continued success of the NURTEC ODT launch and Biohaven's first quarter performance. As Angela mentioned a few minutes ago, we were very proud to announce in the first quarter, the European Commission approved rimegepant for both acute and preventative treatment of migraine. With this approval, rimegepant, under the EU trade name VYDURA, is now the first approved oral CGRP receptor antagonist in the EU and the only migraine medication approved for both acute and preventative treatment. The Biohaven and Pfizer teams work together with the regulatory agency in Europe to jointly achieve this incredibly exceptional outcome with an earlier-than-expected approval.
+I also wanted to highlight the continued commercial success of NURTEC ODT, with the achievement of approximately 2 million prescriptions written to date in the U.S., an astounding milestone reached only 2 years after our initial launch. NURTEC ODT is the #1 prescribed oral CGRP antagonist, and we expect this leadership position will continue going forward.
+I am also thrilled to report that NURTEC has now achieved best-in-class commercial insurance coverage within the oral CGRP category. Now we have greater than 96% commercial coverage and over 263 million lives covered, which compares to 89% or 238 million lives covered in the fourth quarter.
+In addition to the commercial success of NURTEC ODT, our team continues to demonstrate its leadership in advancing the science of pain treatment with 13 presentations at AAN last month. Particularly noteworthy was a podium presentation we made related to a reduction in opioid use in patients after starting NURTEC ODT for their migraine management. Among over 14,000 patients with migraine who used opioid prior to initiating treatment with NURTEC ODT, approximately 41% had no opioids refills in the 9 months following initiation. These findings support the benefit of NURTEC ODT as an effective and safe migraine treatment that can reduce the need for opioids and obviously have very broad and significant long-term implications given the urgency of the opioid crisis.
+Now turning to NURTEC ODT revenue performance. Our commercial organization performed strongly delivering growth volume of TRxs for NURTEC ODT despite the expected first quarter seasonality that we discussed at our last earnings call. NURTEC ODT delivered first quarter net revenue of approximately $124 million, representing a 182% increase over first quarter of 2021 revenue.
+Although first quarter 2022 represents a decrease in net revenue compared to the fourth quarter of '21, we did see an increase of 8% in prescription volume compared to last quarter. And the net revenue decrease was anticipated due to the typical first quarter insurance dynamics.
+Growing NURTEC ODT volume and access for patients require a significant investment. In these important initial years of product launch, our strategy has been to drive brand trial and adoption of NURTEC ODT by investing in patient support programs and working with payers to ensure patient access, which also results in payer rebates and volume discounts related to the investments we made for incremental access.
+Of course, this growth was driven in large part by strong TRx volumes as well as the higher wholesale acquisition cost, or WAC, we receive on our 2 packs or 16 tablet count prescriptions, which post our expanded prevention approval in May 2021, has grown relative to total prescriptions. Just to level set, for the balance of my discussion, our product offering consists of 1 pack of 8 tablets and 2 packs consisting of 16 tablets, which helps patients flexibly address migraine needs without ever needing to worry about running out of supply.
+As expected, resetting of insurance policies and deductibles in the first quarter resulted in an increased copay assistance program costs that are seasonal but do impact first quarter revenues. Copay assistance was also impacted by the dynamic of the increasing 2-pack mix since our approval of prevention last year. We experienced increased volumes in our 2-pack sales, coupled with an increased cost to support the prescriptions as our average WAC increased.
+This dynamic sends a high watermark for the year on copay assistant support in January, and we have already seen a steady decline in copay assistance coupled with an increase in the TRx volumes on the latter side of the first quarter, which continues to improve. This is a very positive sign for net revenue growth over the remaining of this year.
+With respect to the pack mix, we expect that 2 packs as a percentage of total sales will continue to grow at a modest rate on a sequential basis as the year progresses. We are estimating approximately 60% of full year revenues will be achieved in the second half of 2022, slightly lower than the 70% we experienced last year as we benefited from a partial prevention approval, which enhanced our second half '21 net revenue growth. We are expecting a substantial rebound in second quarter, driven not only by the alleviation of some of the seasonality factors we touched upon, but also more favorable volume growth.
+As we have indicated since our post prevention approval, our 1-pack and 2-pack offerings represent flexible approaches for migraine sufferers across the spectrum, and their utilization is not necessarily correlated to the intensity or frequency of attacks. This favorable evolving pack mix and the CGRP oral class growth in the market provide further potential upside.
+Recall, we received the expanded approval for NURTEC in the prevention in May of '21. Since that time, 2 packs were increasingly accounting for a greater percentage of volume growth, which has a net favorable impact on our realized revenue per prescription. Two-pack product sales are now trending at between 25% to 30% of total product sales, and we expect that trend to grow in both acute and prevention as patients demand more freedom to take their medication of choice without fear of supply shortage.
+We take a much more constructive outlook for the balance of 2022, seeing favorable overall volume tailwinds as awareness for oral CGRPs has driven patient demand, refining and growing our physician-facing programs, which drove prescription volume and resulted in a more fulsome payer coverage of 96% that will contribute to less patient friction and access -- greater access to NURTEC.
+To provide additional information on the pacing of the seasonality factors with copay assistance and patient affordability programs, I want to focus on the next slide. Both patient affordability and copay programs reached a high point in January and have already started to decline in February and more appreciably in March, as you can see in the graph on the left. We expect the GTNs related to affordability and seasonality will continue to trend lower over the course of the year. This will favorably impact our realized revenue per prescription as the year unfolds.
+In a similar vein, the chart on the right shows the sharp rise in blended copay cost per claim paid by Biohaven at the start of the year. That has recently steadily declined, and you can see in April, the blended cost has even declined to lower levels than what we observed in December of 2021.
+In sum, investing in our affordability programs contributed to strong year-end performance, and we're very encouraged that we're observing early down trends in patient affordability utilization and copay cost to Biohaven, which we expect will decrease year-over-year. We think this bodes exceptionally well for the remainder of the year, and we expect to see substantial increases in net revenue from second quarter onward.
+NURTEC ODT continues to be the #1 migraine treatment in its class, leading in total Rx volume and share. Specifically, looking at week-over-week performance, NURTEC ODT is currently maintaining approximately 48% market share as of the latest script counts. We believe our market leadership position is a byproduct of NURTEC's unique product offering, one dose, no titration, one pill to treat your migraine attacks and prevent future ones from occurring. NURTEC ODT is the only all-in-one migraine therapy, and this will continue to differentiate NURTEC ODT from other assets in the class.
+We continue to share this next slide every quarter, which shows a visible step forward for the CGRP oral class this period as well. We believe oral CGRP antagonists can ultimately be the first-line therapy for migraine and could account for about 40% of the overall migraine market.
+The CGRP oral medications, though still somewhat newer entrants in a deeply entrenched space, continue to make steady inroads in disrupting the broader migraine market in the U.S. You can see the oral CGRP lines are near the intersection with the CGRP mAbs this period, and we believe it's only a matter of time before the oral class fully overtakes the mAbs, thanks to the ease of use and patient preference for orals over injectable.
+Further, the oral CGRP class continues to make steady progress in disrupting triptans and topiramate, which have slowly declined since the emergence of the CGRP class as a whole. Let me provide a little more insight into this specific segment.
+The oral CGRPs are just at the beginning of our growth trajectory, and NURTEC ODT is changing the standard of care for migraine therapy. This slide shows the market penetration of the oral CGRPs versus the current standard of care: triptans for acute treatment and topiramate for prevention. The oral CGRPs continue to grow market share versus these older therapies, which are associated with cardiovascular risk, cognitive effects and other adverse events and limited efficacy profiles as well as the numerous advantages that are now offered by the new oral CGRP class.
+Since the emergence into the class, the oral CGRPs have shown quarterly increases in both TRx and NBRx volume compared to triptans and topiramate. As you can see, the growth opportunity remains sizable, and we continue to see increased penetration of oral CGRPs as patients become more informed about the fast and lasting benefits of all-in-one NURTEC ODT. Today, only 22% of NURTEC ODT scripts are coming from primary care physicians, clearly a segment where Pfizer excels and a massive opportunity ahead. But I'll let Nick and team cover this in detail shortly. Pfizer takes over NURTEC ODT at a very important time in its early development in order to shape patient care and deliver this breakthrough medication to patients.
+Before I turn the call back over to Nick, I want to quickly thank the patients who have enrolled in our clinical trials, their family members and investigators who have participated and are advancing our pipeline. And I want to reassure you the mission to improve the migraine standard of care will continue. I also want to thank our visionary investors, who have helped fund our studies, and our dedicated employees who help to bring NURTEC ODT to patients. I'm confident that our mission to restate the standard of care in the migraine therapy and benefit patients will only accelerate under Pfizer's leadership. Thank you to the team at Pfizer for recognizing the importance of this medication, and we are happy to hand it off into your capable hands.
+
+--------------------------------------------------------------------------------
+Angela Hwang,  Pfizer Inc. - Group President of Biopharmaceuticals Group    [5]
+--------------------------------------------------------------------------------
+Thank you, Vlad, for your excellent explanation of Biohaven's success with NURTEC and some of the recent dynamics that you have faced. Biohaven is a company we know well. We've tracked its portfolio for several years now and were excited to enter into a collaboration with them outside the U.S. in November of 2021, buying a stake in the company at $173 per share. Now we're pleased to own the rest of the company's migraine franchise on the current terms.
+We've reviewed the Q1 gross-to-net situation as part of our extensive due diligence process, and we understand the dynamics, which is why we've baked it into our forecast already. This is not uncommon, especially during the first few years of a product's life cycle. What we are compelled by is the long-term potential of NURTEC, the significant unmet need for migraine patients who are limited by the drawbacks of existing migraine therapies.
+Now let me walk you through how Pfizer will add value to the migraine portfolio. We have the scale and expertise to further accelerate this best-in-class asset. Upon close, we will double the number of our representatives detailing NURTEC and leverage their strength in primary care, an area, as you've heard just Vlad say, an area that is still underpenetrated for NURTEC. We expect this will allow us to call on an additional 70,000 primary care physicians and OB/GYNs.
+Our U.S. primary care sales force is ranked #1 with primary care practitioners and consists of highly experienced representatives with an average tenure of 10 years. Our key account management capabilities are also best-in-class. We also expect to significantly expand the nonpromotional, field-based medical teams by eightfold. They will be laser-focused on peer-to-peer engagement and building health care professional confidence.
+Finally, our real-world evidence team will focus on understanding the impact of migraine on health systems around the world and evaluating real-world utilization of NURTEC and VYDURA. The global footprint we will have will allow us to generate real-world data globally, enabling us to further strengthen the scientific platform behind these products and improve the way health systems deliver care for migraine patients and improve patient outcomes.
+The market for oral CGRPs is very underpenetrated, and we will work to accelerate that. In 2021, they represented only 5% of oral migraine scripts written. But given their advantages over older drugs on the market, we believe, as we continue to educate doctors and patients about NURTEC that this class has the ability to grow significantly to more than 40% of scripts increasing the penetration by 8x.
+Now let me turn it over to Aamir to talk about the fit with Pfizer's business development strategy and to close out our presentation.
+
+--------------------------------------------------------------------------------
+Aamir Malik,  Pfizer Inc. - Executive VP & Chief Business Innovation Officer    [6]
+--------------------------------------------------------------------------------
+Thanks so much, Angela. This transaction aligned with the priorities that Pfizer has previously detailed for our business development efforts. First and foremost, we want to create value for our shareholders by focusing on breakthrough medicines where we can make a difference. And we believe this transaction does exactly that by bringing a breakthrough migraine franchise into our portfolio, which we can then enhance and bring to even more patients with our commercial capabilities, as Angela just articulated.
+Second, we're looking for bolt-on deals that fit nicely with our existing therapeutic areas and which have the ability to provide meaningful revenue growth in the second half of this decade. The growth trajectory that we expect for NURTEC/VYDURA and zavegepant delivers squarely during this time frame.
+Third, we want to bring in exciting science to strengthen our therapeutic areas, not deals where the primary value driver is cost synergies. This proposed acquisition brings to Pfizer the leading asset in a high unmet need area and one where we plan to thoughtfully invest to drive top line growth. Collectively, we believe that the efforts here could enable us to potentially grow these oral CGRPs to a more than $6 billion global migraine franchise at peak.
+Importantly, we've communicated our ambition to add at least $25 billion in risk-adjusted revenues to 2030 through business development transactions. And this transaction is expected to contribute significantly to that goal, building on our recent acquisition announcement of ReViral and our recently completed acquisition of Arena. The capital we had planned to deploy at just over 2x peak sales -- peak revenues reinforces our belief that we have both the capital necessary and the substrate available to achieve our goal.
+So in conclusion, migraine is one of the most prevalent diseases worldwide, impacting close to 1 billion patients. There is significant unmet need, severely impacting patients' daily function and ability and overall quality of life.
+NURTEC is currently the #1 prescribed oral CGRP. Experience, scale, capabilities will enable Pfizer to maximize this migraine franchise. And with today's announcement, we are maximizing the opportunity for patients, and we expect to create a compelling value for Pfizer shareholders.
+And with that, let me turn it back to Chris for the Q&A.
+
+--------------------------------------------------------------------------------
+Christopher J. Stevo,  Pfizer Inc. - Senior VP & Chief IR Officer    [7]
+--------------------------------------------------------------------------------
+Thanks, Aamir. We will now be pleased to address your questions. As mentioned earlier, in addition to our speakers, Nick Lagunowich, President of Internal Medicine; Jim Rusnak, IM Chief Development Officer; and Bill Sessa, IM CSO, will also be joining us for the Q&A session.
+Jesse, please poll for the first question.
+
+
+================================================================================
+Questions and Answers
+--------------------------------------------------------------------------------
+Operator    [1]
+--------------------------------------------------------------------------------
+(Operator Instructions) Speakers, the first question is from the line of Evan Seigerman of BMO Capital Markets.
+
+--------------------------------------------------------------------------------
+Evan David Seigerman,  BMO Capital Markets Equity Research - MD & Senior BioPharma Research Analyst    [2]
+--------------------------------------------------------------------------------
+Really, congrats on the deal, and Vlad it's really good to hear from you. Can you speak to why Pfizer opted not to fully acquire Biohaven's assets? I know that there are some earlier assets, and these arguably could add some interesting signs for what may not have been a significant additional premium to what you paid. Love for you to walk me through kind of the thinking there.
+
+--------------------------------------------------------------------------------
+Christopher J. Stevo,  Pfizer Inc. - Senior VP & Chief IR Officer    [3]
+--------------------------------------------------------------------------------
+Thanks, Evan. Aamir will take that question.
+
+--------------------------------------------------------------------------------
+Aamir Malik,  Pfizer Inc. - Executive VP & Chief Business Innovation Officer    [4]
+--------------------------------------------------------------------------------
+Thanks for the question, Evan. Our business development criteria has been very clear. We want to focus on breakthroughs that can make a difference for patients, and we want to focus on where we can add value through our capabilities. And in doing that, being very thoughtful and disciplined about how we create value for our shareholders.
+So for us, when we looked at this opportunity, the place where we feel like we can add the most value is on the CGRP franchise through the deployment of our commercial capabilities globally, as Angela articulated, and also in supporting the advancement of zavegepant. We think that the Biohaven team is very well positioned to advance their other therapies, and this allowed for us to create a creative deal structure that creates value for both sets of shareholders and allows us to continue to be thoughtful and disciplined.
+
+--------------------------------------------------------------------------------
+Christopher J. Stevo,  Pfizer Inc. - Senior VP & Chief IR Officer    [5]
+--------------------------------------------------------------------------------
+Thanks, Evan.
+
+--------------------------------------------------------------------------------
+Operator    [6]
+--------------------------------------------------------------------------------
+Your second question from the line of Louise Chen from Cantor.
+
+--------------------------------------------------------------------------------
+Louise Alesandra Chen,  Cantor Fitzgerald & Co., Research Division - Senior Research Analyst & MD    [7]
+--------------------------------------------------------------------------------
+Congratulations on the deal. So first question for you is, would you have any interest to add any additional migraine products to your portfolio, such as an injectable toxin or anything like that? And then secondly, how do you see the entry of Pfizer into the migraine market potentially disrupting the competitive landscape?
+
+--------------------------------------------------------------------------------
+Christopher J. Stevo,  Pfizer Inc. - Senior VP & Chief IR Officer    [8]
+--------------------------------------------------------------------------------
+Thanks, Louise. Angela will take that question.
+
+--------------------------------------------------------------------------------
+Angela Hwang,  Pfizer Inc. - Group President of Biopharmaceuticals Group    [9]
+--------------------------------------------------------------------------------
+Sure. We look at all of our opportunities. I think the principles and the parameters behind our BD deals, you heard Aamir talk about. And so we will continue to look at all opportunities in that vein. And when the right one emerges, we'll be able to take that on. But I think the principles behind how we think about BD, how they add value to our long-term growth, those are the most important parameters to consider, not just the therapeutic area.
+
+--------------------------------------------------------------------------------
+Christopher J. Stevo,  Pfizer Inc. - Senior VP & Chief IR Officer    [10]
+--------------------------------------------------------------------------------
+Very good. Thank you.
+
+--------------------------------------------------------------------------------
+Operator    [11]
+--------------------------------------------------------------------------------
+Your third question is from the line of Robyn Karnauskas of Truist Securities.
+
+--------------------------------------------------------------------------------
+Robyn Kay Shelton Karnauskas,  Truist Securities, Inc., Research Division - Research Analyst    [12]
+--------------------------------------------------------------------------------
+Congrats on the deal. So could you talk a little bit about maybe the rate limiting steps toward taking more share from injectables? And why they've held on to the share that they've had? And how you overcome that? And second, what are your thoughts for the opportunity for the inhaled version of your drug?
+
+--------------------------------------------------------------------------------
+Christopher J. Stevo,  Pfizer Inc. - Senior VP & Chief IR Officer    [13]
+--------------------------------------------------------------------------------
+Yes. That's for Vlad.
+
+--------------------------------------------------------------------------------
+Vladimir Coric,  Biohaven Pharmaceutical Holding Company Ltd. - Chairman of the Board, CEO & President    [14]
+--------------------------------------------------------------------------------
+I'm happy to take that. So look, the injectable was launched a couple of years ago. And what you've seen is that the oral CGRPs really have taken over the growth in this segment. And what you've seen is a plateauing of the injectable monoclonal antibodies. We expect that plateauing is likely to actually start declining.
+And I have to say as a physician, it's a simple choice for patients, and patients often will prefer orals over injectables. So I think we're going to continue to do well in the differentiation there. And it is good for patients to have multiple different options. But ultimately, we think this is going to be a space primarily driven by oral CGRP antagonist.
+
+--------------------------------------------------------------------------------
+Christopher J. Stevo,  Pfizer Inc. - Senior VP & Chief IR Officer    [15]
+--------------------------------------------------------------------------------
+Thank you.
+
+--------------------------------------------------------------------------------
+Operator    [16]
+--------------------------------------------------------------------------------
+Your next question is from the line of Terence Flynn of Morgan Stanley.
+
+--------------------------------------------------------------------------------
+Terence C. Flynn,  Morgan Stanley, Research Division - Equity Analyst    [17]
+--------------------------------------------------------------------------------
+Maybe 2 for me. Aamir, it sounds like based on your comments, you expect to continue along this string-of-pearls strategy, so things like Array, Arena, Biohaven. But just wondering if larger deals are also on the table still at this point.
+And then with respect to the commercial opportunity, the peak sales guidance of $6 billion is somewhat ahead of consensus expectation. So just wondering how you guys thought about pricing dynamics, compliance, maybe the ex-U.S. market opportunity, anything you think the Street is underappreciating?
+
+--------------------------------------------------------------------------------
+Christopher J. Stevo,  Pfizer Inc. - Senior VP & Chief IR Officer    [18]
+--------------------------------------------------------------------------------
+Okay. Why don't we have Nick take that question. And then if Aamir has anything to add.
+
+--------------------------------------------------------------------------------
+Nick Lagunowich,  Pfizer Inc. - Global President of Internal Medicine    [19]
+--------------------------------------------------------------------------------
+Yes. Maybe I'll start with the second question first, Chris, and then I'll have Aamir jump back to the question about string of pearls, if that's okay. Okay. So the $6 billion -- so thank you for the question, Terence. I appreciate it.
+This market in migraine is incredibly large. It impacts over 1 billion patients globally. And in the U.S. alone, we got 40 million sufferers of migraine with only about 20% taking a prescription. And so this is still underdiagnosed and undertreated. The oral CGRP class has reached blockbuster status already in the U.S. in 2021 of -- with sales of approximately $1 billion combined. Well, it really only accounted at that time in 2021 for 5% to 6% of the overall migraine market.
+The oral CGRP class, it has the potential to redefine the standard for the reasons that you heard from Vlad and that we're seeing in the marketplace. And we anticipate it's going to grow to 40% of the total migraine market or potentially beyond. That's 7 to 8x higher than in 2021.
+And NURTEC ODT, it has that unique market position to both treat, prevent. Its flexibility, I think, is what's really appealing to health care professionals and to patients. And when you then layer on zavegepant, the intranasal spray, it relieves pain in less than 15 minutes. And if approved, it will be a breakthrough for patients who suffer from severe migraines. And these are for patients who have attacks that hit them at their most unpredictable times.
+And I guess additionally, it's also being developed in an oral form, which adds another option and expands the franchise into chronic migraine as well potentially. So with the addition of zavegepant to the NURTEC combo, we have potentially the ability to help more patients, addressing their needs and bringing these innovative treatments forward.
+And really, in terms of our ability to execute, I think you heard a stat there that 22% of the NURTEC volume is coming in primary care. If you look at sumatriptan for example, about 50% or so comes from the gap and the opportunity and the ability to execute in primary care.
+And you heard some stats from Angela in her presentation that talked about the expansion that we're planning. We plan to double our sales footprint, which will allow us to cover even more PCPs, ambulatory care centers, urgent cares, EV departments, places where these patients seek care. And we're going to add in the U.S. coverage of about 70,000 more PCPs, OB/GYNs and other specialists.
+We're going to engage our key account management teams to take an organized system approach. So if you look at the work with primary care as kind of the bottoms-up connection with health care professionals, the work that the key account management team is more of a top-down, working with systems of care to identify challenges understanding the migraine category and working with those systems to help reduce costs and improve patient care.
+Of course, as Angela said, we're going to build on the body of evidence with our real-world evidence team, which becomes easier underneath one umbrella, as one company. And we're going to deploy our medical teams to support decision-making and to make sure that health care professionals have the information that they need to help solve patients' medical challenges.
+So we believe that this is a growth market. We're incredibly excited about this, and I appreciate the chance to take your question.
+
+--------------------------------------------------------------------------------
+Aamir Malik,  Pfizer Inc. - Executive VP & Chief Business Innovation Officer    [20]
+--------------------------------------------------------------------------------
+Terence, on your question on deal size, I think you've seen from our recent deals that we have thoughtfully and deliberately pursued a strategy of diversification. Between transactions like ReViral, Arena, Trillium and others, we've been active in multiple therapeutic areas, in multiple stages of development, including early commercial with our Biohaven deals. And you've also seen us do a combination of acquisitions, but also other forms of collaboration and partnership. And we think that, that will continue to serve us well.
+Now specifically, we've also said we are agnostic to size. So if the right larger opportunity presents itself, we certainly have the capital and the capabilities to pursue it. But we've also been clear that we're going to focus on driving our top line growth in the back half of the decade, rather than large deals that are anchored on cost synergies. So under that lens, we will continue to look at all opportunities, and we're genuinely very excited about the substrate that is ahead.
+
+--------------------------------------------------------------------------------
+Christopher J. Stevo,  Pfizer Inc. - Senior VP & Chief IR Officer    [21]
+--------------------------------------------------------------------------------
+Thanks, Aamir. Thanks, Nick.
+
+--------------------------------------------------------------------------------
+Operator    [22]
+--------------------------------------------------------------------------------
+Next question is from the line of Charles Duncan with Cantor Fitzgerald.
+
+--------------------------------------------------------------------------------
+Charles Cliff Duncan,  Cantor Fitzgerald & Co., Research Division - Senior Analyst    [23]
+--------------------------------------------------------------------------------
+Yes. Congratulations to both teams on the transformational transaction for patients and other stakeholders. Had a question regarding the NURTEC-driven migraine franchise. And specifically, when you think about zavegepant, the drug that may be approved, how could that really add to the current, very successful NURTEC franchise? And then I had a follow-up regarding the royalties, the sub-royalties to Biohaven. Can you provide any color on how you anticipate those being paid?
+
+--------------------------------------------------------------------------------
+Christopher J. Stevo,  Pfizer Inc. - Senior VP & Chief IR Officer    [24]
+--------------------------------------------------------------------------------
+So Vlad will talk about the first part on zavegepant, and then Dave will talk about the royalties, Charles.
+
+--------------------------------------------------------------------------------
+Vladimir Coric,  Biohaven Pharmaceutical Holding Company Ltd. - Chairman of the Board, CEO & President    [25]
+--------------------------------------------------------------------------------
+Charles, thanks for the question. And we really think that zavegepant is going to be a nice, complementary medication for patients suffering from migraine. As I said earlier, we know patients typically prefer orals over other routes of administration. So typically, it's orals are preferred over intranasal over injectables. And intranasal becomes very important for the speed of onset because you don't know when a migraine is going to hit. And as Nick commented, we have a very quick speed of onset for intranasal zavegepant, within 15 minutes. And so if a migraine is striking as you're trying to get out of the house or an important business meeting or the like, you'll have a nice option there.
+In many ways, with Biohaven, we've thought of it as the EpiPen of migraine, right. Everyone with migraine should have a zavegepant intranasal around to take control of their migraine and make sure it doesn't get under way if it comes up in the most inopportune time.
+And lastly, I would add about half the patients experience some nausea or vomiting during a migraine attack. But what's interesting is the degree of nausea or vomiting does vary between attacks, and sometimes you can't take an oral pill. And again, the intranasal zavegepant offers that flexibility to patients. So we think it's going to be a nice, complementary addition to the franchise.
+
+--------------------------------------------------------------------------------
+David M. Denton,  Pfizer Inc. - CFO & Executive VP    [26]
+--------------------------------------------------------------------------------
+And Charles, this is Dave. I think specifically as it relates to your question. One, I'll just point you to a review of the 8-K that Biohaven will be filing later today after the market closes with the SEC on specific deal terms. But specifically to your point around royalties, suffice it to say that think about this as a low double-digit percentage for U.S. sales at each tier of sales above $5.25 billion on an annual basis.
+
+--------------------------------------------------------------------------------
+Christopher J. Stevo,  Pfizer Inc. - Senior VP & Chief IR Officer    [27]
+--------------------------------------------------------------------------------
+Great. Thank you very much.
+
+--------------------------------------------------------------------------------
+Operator    [28]
+--------------------------------------------------------------------------------
+Your next question is from the line of Mohit Bansal of Wells Fargo.
+
+--------------------------------------------------------------------------------
+Mohit Bansal,  Wells Fargo Securities, LLC, Research Division - Senior Equity Analyst    [29]
+--------------------------------------------------------------------------------
+Congrats on the deal. Maybe if you can talk a little bit about the process of deciding the capitalization of the new company. Given that they have multiple Phase 3 or Phase 3-ready assets, how do you determine the capitalization? And could this be an FTC issue in terms of whether or not the new company is getting enough money?
+
+--------------------------------------------------------------------------------
+Christopher J. Stevo,  Pfizer Inc. - Senior VP & Chief IR Officer    [30]
+--------------------------------------------------------------------------------
+Okay. So a question for Vlad, please.
+
+--------------------------------------------------------------------------------
+Vladimir Coric,  Biohaven Pharmaceutical Holding Company Ltd. - Chairman of the Board, CEO & President    [31]
+--------------------------------------------------------------------------------
+Yes. Happy to take that. We spent some time ensuring that the new company would be adequately capitalized and the amount going into that company will be sufficient to get us through our inflection points in well over a year. And I know typically, we like to only guide just over a year, but it's actually a longer period than that. I would also point out that we do have some important trial readouts coming up very shortly on some of those programs, and that also will affect the company moving forward. So we're excited about the New Biohaven, and it's very well capitalized for our budgetary needs well past the year.
+
+--------------------------------------------------------------------------------
+Christopher J. Stevo,  Pfizer Inc. - Senior VP & Chief IR Officer    [32]
+--------------------------------------------------------------------------------
+Awesome. Thank you, Vlad.
+
+--------------------------------------------------------------------------------
+Operator    [33]
+--------------------------------------------------------------------------------
+Your next question is from the line of Umer Raffat of Evercore.
+
+--------------------------------------------------------------------------------
+Umer Raffat,  Evercore ISI Institutional Equities, Research Division - Senior MD & Senior Analyst of Equity Research    [34]
+--------------------------------------------------------------------------------
+I want to start by saying a huge congratulations to Vlad and his team for all the hard work over the years. So maybe, Vlad, let me ask you a question on the call first. Can you remind us how many total patients have taken the drug so far on a cumulative basis commercially? And what are you learning about the average duration in prevention setting?
+And I had a couple for the Pfizer team as well. Could you walk us through -- I understand you're implying $5 billion sales potential. But what's the breakeven net of Bristol payments, Royalty Pharma payments and the debt, et cetera? What's that breakeven to make this deal at least be breakeven? And secondly, what are your expectations on the 724 patent? And are you expecting to go out the 724 patent?
+
+--------------------------------------------------------------------------------
+Christopher J. Stevo,  Pfizer Inc. - Senior VP & Chief IR Officer    [35]
+--------------------------------------------------------------------------------
+First question is for Vlad.
+
+--------------------------------------------------------------------------------
+Vladimir Coric,  Biohaven Pharmaceutical Holding Company Ltd. - Chairman of the Board, CEO & President    [36]
+--------------------------------------------------------------------------------
+So on the first question. So the number of patients, sorry, Umer, thanks for the question, by the way. So to date, we have over 2 million prescriptions of NURTEC. We haven't kind of characterized it as the exact number of patients. But we're at the very early stages in the hundreds of thousands, several hundreds of thousands of patients. And we do know that, that is increasing quarter-over-quarter, so we're really excited about the growth. And as trial continues, we see further adoption by both physicians and patients.
+The duration of use, Umer, is interesting. Since the prevention indication, we are seeing an increase of pill utilization and the number of second 8 packs that has brought our total number of pills up. And patients, we hear, really appreciate the ability to flex back and forth between acute and prevention. And so not only does that help with the pill count and the durability of refills, but it gives patients real maximum control over their migraine in order to dial up or down prevention as they need in their lives. So thanks.
+
+--------------------------------------------------------------------------------
+David M. Denton,  Pfizer Inc. - CFO & Executive VP    [37]
+--------------------------------------------------------------------------------
+Umer, this is Dave. I think just a couple of things to keep in mind. One, as Angela said, this is a market where we have 1 billion patients worldwide that really has an unmet need from a therapeutic perspective, number one.
+Secondly, our forecast is for peak volumes of around $6 billion. And I would say that as we look at the deal structure and we look at the economics around the deal, not only is this deal going to drive significant value for the patients that we're going to serve globally, but importantly, it's going to have a high-level return for Pfizer shareholders specifically.
+
+--------------------------------------------------------------------------------
+Christopher J. Stevo,  Pfizer Inc. - Senior VP & Chief IR Officer    [38]
+--------------------------------------------------------------------------------
+Thanks very much.
+
+--------------------------------------------------------------------------------
+Operator    [39]
+--------------------------------------------------------------------------------
+Your next question is from the line of Chris Shibutani of Goldman Sachs.
+
+--------------------------------------------------------------------------------
+Daniel Ziment,  Goldman Sachs & Company, Inc. - Associate Analyst    [40]
+--------------------------------------------------------------------------------
+This is Dan on for Chris. Congrats on the deal. Two from us. First, could you please talk about your focus on partnerships within your business development strategy? Are there certain areas or situations where you see this as most advantageous? And do you see it as a potential precursor to full acquisition as it was in the situation?
+And second, on the ex-U.S. opportunity within the $6 billion peak sales, if you could talk generally just kind of about the contribution ex-U.S. to your expectations of the product sales at peak?
+
+--------------------------------------------------------------------------------
+Christopher J. Stevo,  Pfizer Inc. - Senior VP & Chief IR Officer    [41]
+--------------------------------------------------------------------------------
+Okay. Thanks very much, Dan. So on partnerships versus full acquisition, Aamir will address that. And then on the ex-U.S. sales contribution, Nick will address that, please.
+
+--------------------------------------------------------------------------------
+Aamir Malik,  Pfizer Inc. - Executive VP & Chief Business Innovation Officer    [42]
+--------------------------------------------------------------------------------
+Thanks for the question, Dan. On partnerships, as I alluded to earlier, as we embark upon our business development strategy, partnerships are very much part of what we were thinking about. And in fact, some of our most successful BD deals have come through collaborations and partnerships. So we very much see that as part of what we are going to do going forward. And with regards to whether that's a precursor to something else or not, we look at every deal and every transaction in collaboration as what we do in the moment being the right opportunity for us to create value for our shareholders. As situations change over time, we continue to reassess, and we will do that with all of our deals.
+
+--------------------------------------------------------------------------------
+Christopher J. Stevo,  Pfizer Inc. - Senior VP & Chief IR Officer    [43]
+--------------------------------------------------------------------------------
+Nick, on the ex-U.S. sales. Sorry, go ahead.
+
+--------------------------------------------------------------------------------
+Nick Lagunowich,  Pfizer Inc. - Global President of Internal Medicine    [44]
+--------------------------------------------------------------------------------
+Yes. Yes. Thanks, Dan, for the question. So first, I want to mention how thrilled we are by the approval in the EU for VYDURA. We see significant growth potential outside the U.S. We're actively planning in 70 markets around the world, and we expect to begin in the second half of the year to bring medicines to patients.
+We're tremendously excited by the opportunity because migraine has such a high impact there and high unmet need globally. And this is pretty universal across the board. In terms of your question regarding the mix, we expect to see sales more heavily skewed towards the U.S. So thanks for the question.
+
+--------------------------------------------------------------------------------
+Christopher J. Stevo,  Pfizer Inc. - Senior VP & Chief IR Officer    [45]
+--------------------------------------------------------------------------------
+Thank you.
+
+--------------------------------------------------------------------------------
+Operator    [46]
+--------------------------------------------------------------------------------
+Next question is from the line of Carter Gould of Barclays.
+
+--------------------------------------------------------------------------------
+Carter Lewis Gould,  Barclays Bank PLC, Research Division - Senior Analyst    [47]
+--------------------------------------------------------------------------------
+Congrats to both teams. Maybe just following up a little bit on the prior question. Since you guys just negotiated the OUS collaboration a few months ago, I guess can you just comment on kind of what was the spark to change the evolution in the relationship? Was it just getting comfortable with the U.S. competitive dynamics? Or does the broader market kind of create an opportunity that wasn't there before?
+And then as you think about the deal, did Pfizer make any assumption or have interest, I guess, in the additional indications, whether the pain adjacency or nonmigraine indications? And how we should think about those?
+
+--------------------------------------------------------------------------------
+Aamir Malik,  Pfizer Inc. - Executive VP & Chief Business Innovation Officer    [48]
+--------------------------------------------------------------------------------
+Thanks for the question, Carter. This is Aamir. When we initially did the ex-U.S. deal, we were incredibly excited about the breakthrough potential of NURTEC and zavegepant. And at the time, we felt the best way for us to add value and create value for our shareholders was to leverage our ex-U.S. commercial capabilities to help accelerate the launch and bring it to patients outside the U.S.
+Since then, we've got a chance to know the company better, know the asset better. And we felt that there was an additional opportunity for us to leverage our capabilities in the U.S. And for that reason, we expanded what we're doing in terms of what we're announcing today. So it was very much an evolution of how we saw the opportunity and how we saw the ability to create value and add value. And we did both things in a way that we felt was very thoughtful and responsible.
+With regards to other indications, we're excited to see what the upcoming data will show. And to be clear, all of the projections that we've talked about today are focused on the CGRP franchise in migraine. And as data becomes available and other opportunities present themselves, we'll certainly look at it and assess it.
+
+--------------------------------------------------------------------------------
+Christopher J. Stevo,  Pfizer Inc. - Senior VP & Chief IR Officer    [49]
+--------------------------------------------------------------------------------
+Thank you.
+
+--------------------------------------------------------------------------------
+Operator    [50]
+--------------------------------------------------------------------------------
+Your next question is from the line of Steve Scala of Cowen.
+
+--------------------------------------------------------------------------------
+Stephen Michael Scala,  Cowen and Company, LLC, Research Division - MD & Senior Research Analyst    [51]
+--------------------------------------------------------------------------------
+I apologize for a skeptical question, but Pfizer noted that there are 1 billion migraine sufferers worldwide. I would imagine that there were hundreds of millions, if not, billion migraine sufferers in 2002 when it looks like Imitrex peaked at $1 billion, which I think was the most successful migraine drug ever. I know it's often said that triptans were avoided because of tox, but I watched their development, launch and decline and don't recall safety being as big an issue at that time as it is being made out to be today. And I don't think Imitrex has a black box. So I think that there is a reasonable chance that the Biohaven franchise won't fulfill the potential that Pfizer believes. So how did Pfizer become comfortable that it will be different this time than, say, back in 2002?
+
+--------------------------------------------------------------------------------
+Christopher J. Stevo,  Pfizer Inc. - Senior VP & Chief IR Officer    [52]
+--------------------------------------------------------------------------------
+I think Vlad can best address the history there.
+
+--------------------------------------------------------------------------------
+Vladimir Coric,  Biohaven Pharmaceutical Holding Company Ltd. - Chairman of the Board, CEO & President    [53]
+--------------------------------------------------------------------------------
+I'm happy to talk about also the differentiation versus triptans. I'll say as a physician, I prescribed these, and there is a distinct difference, I believe, in the profile of the novel agents that have come on the market versus the older triptans and other medications. Take a look at the triptan label, you'll see that one's supposed to administer the first dose in the presence of a physician due to the vasoconstrictive effects on the cardiovascular system as well as the potential impacts in the cerebrovascular system. Those -- when you have new options that don't have those side effects, it's clear that I believe those -- it will become the standard of care due to the lack of vasoconstrictive effects and the lack of effects on cerebrovascular.
+I would also add that the older class of medications are well-known to cause medication over use headache or rebound headaches. So think about this. You have a migraine, and the treatment that you use actually causes more migraines, right. That's what a rebound headache is. That is a phenomenon you do not see with CGRP class of medications.
+So I think when clinicians and patients who experience the treatments view the new profile of the novel agent, there is a distinct advantage over the older agents regarding the risk characteristics. And I believe we are now moving into a new standard of care that is going to finally treat migraine the way it should be.
+And I've heard patients tell me when they get a treatment for migraine, they want their migraine going away and they don't want a lot of new problems. And I think the novel agents bring you closer to that patient desire.
+
+--------------------------------------------------------------------------------
+Christopher J. Stevo,  Pfizer Inc. - Senior VP & Chief IR Officer    [54]
+--------------------------------------------------------------------------------
+Vlad, thank you very much for that perspective.
+
+--------------------------------------------------------------------------------
+Operator    [55]
+--------------------------------------------------------------------------------
+Your next question is from the line of Chris Schott of JPMorgan.
+
+--------------------------------------------------------------------------------
+Christopher Thomas Schott,  JPMorgan Chase & Co, Research Division - Senior Analyst    [56]
+--------------------------------------------------------------------------------
+Just 2 questions for me. I'm trying to get a sense in terms of the Pfizer infrastructure. How much does this deal leverage your existing Internal Medicine infrastructure, maybe specifically existing sales reps? Or is this more about the company has this experience building markets like this? So we should think about this functioning more as a kind of a stand-alone migraine franchise with incremental OpEx supporting the step-up in the brand as a whole. So I'm trying to get a sense of just the incremental cost associated with the increased support you're going to put behind the brand.
+And then the second question was on BD priorities. Are there business units that make particular sense at this point for future deals and where there's capacity to add pipeline and commercial assets over others? I guess it seems like we've seen a deal in Internal Medicine and previously, we saw one in I&I. Should we think about those as areas that there -- maybe there's going to be a pause in BD as you digest those acquisitions? Or is there enough capacity across the organization that -- which is kind of, I think, is still the whole scope of the Pfizer range of business units all looking at transactions going forward?
+
+--------------------------------------------------------------------------------
+Christopher J. Stevo,  Pfizer Inc. - Senior VP & Chief IR Officer    [57]
+--------------------------------------------------------------------------------
+Okay. Thanks for the great question. Angela is going to start, and then Aamir will add on the BD priorities.
+
+--------------------------------------------------------------------------------
+Angela Hwang,  Pfizer Inc. - Group President of Biopharmaceuticals Group    [58]
+--------------------------------------------------------------------------------
+Yes. So Chris, earlier in my opening comments, we talked about the fact that Pfizer's scale and the expertise is what we bring to this deal and what we could do to increase the value. So from that perspective, certainly, there are going to be incremental things that we can do, right. So now these incremental things already exist. So these are not more people we have to hire or more teams we have to set up. We are already in the primary care space. And we'll be able to add a call list of 70,000 more physicians to what NURTEC is currently doing, just using our existing field force.
+So I think that -- and let's take another one, the medical expertise that we also talked about. We'll be able to multiple-fold, I think 8x, the amount of medical, peer-to-peer interactions that over and above what is currently done, again, just using the existing footprint of Pfizer.
+So I think that from a fixed cost perspective, there is not incremental spending. But of course, the ability to make additional calls, the ability to expand the opportunity to more targets, more accounts, that's sort of what we bring to the table. And again, it comes back to the scale of the machinery that we have and the depth of expertise that we have in primary care.
+
+--------------------------------------------------------------------------------
+Aamir Malik,  Pfizer Inc. - Executive VP & Chief Business Innovation Officer    [59]
+--------------------------------------------------------------------------------
+Chris, on your question about BD priorities, I mentioned earlier, our focus is going to be guided by places where we can bring breakthroughs to patients and where we have the ability to add significant value to shape those breakthroughs. And the good thing is, across all of our therapeutic areas, across all of our various functions, we feel that we have ample capabilities and capacity to do many transactions. And we also have the capital firepower to pursue those. So you should expect to see us following the science and not limiting our BD focus to any one particular therapeutic area.
+We're going to continue to be very disciplined about where we can leverage those capabilities to create real value for our shareholders. But we see opportunities across the board for us to do that internally. And externally, we think the substrate is quite compelling across a broad range of therapeutic areas.
+
+--------------------------------------------------------------------------------
+Christopher J. Stevo,  Pfizer Inc. - Senior VP & Chief IR Officer    [60]
+--------------------------------------------------------------------------------
+Thank you very much.
+
+--------------------------------------------------------------------------------
+Operator    [61]
+--------------------------------------------------------------------------------
+Last question is from the line of Kerry Holford of Berenberg.
+
+--------------------------------------------------------------------------------
+Kerry Ann Holford,  Joh. Berenberg, Gossler & Co. KG, Research Division - Analyst    [62]
+--------------------------------------------------------------------------------
+Just 2 quick ones for me, please. You talked about doubling the number of sales reps in the field. I wonder if you would be willing to detail the actual numbers of reps that Biohaven has in place today?
+And then secondly, you see intranasal CGRP designed to be used as monotherapy in the acute setting. Or are you also looking perhaps at combination in the chronic setting, perhaps with NURTEC, for patients who have breakthrough symptoms?
+
+--------------------------------------------------------------------------------
+Christopher J. Stevo,  Pfizer Inc. - Senior VP & Chief IR Officer    [63]
+--------------------------------------------------------------------------------
+Thanks very much. Angela is going to answer the question on the reps.
+
+--------------------------------------------------------------------------------
+Angela Hwang,  Pfizer Inc. - Group President of Biopharmaceuticals Group    [64]
+--------------------------------------------------------------------------------
+Just a quick response on that. Just for competitive reasons, it's just a level of detail that we are not able to share, both on Biohaven's side.
+
+--------------------------------------------------------------------------------
+Christopher J. Stevo,  Pfizer Inc. - Senior VP & Chief IR Officer    [65]
+--------------------------------------------------------------------------------
+For the combo or mono use for zavegepant, Vlad is going to address that.
+
+--------------------------------------------------------------------------------
+Vladimir Coric,  Biohaven Pharmaceutical Holding Company Ltd. - Chairman of the Board, CEO & President    [66]
+--------------------------------------------------------------------------------
+Yes. No. So look, patients who need preventative therapy do need something for breakthrough. So obviously, if somebody is on NURTEC, they're going to be able to flex back and forth. And then zavegepant is a different molecule. And so we do believe it will be complementary and add to the market share rather than take away from anything on NURTEC.
+And I do want to comment that I think regardless of whether one's on NURTEC, a mAb, a competitor agent that's an oral, the need for an intranasal, there is no other CGRP antagonist intranasal that can deliver this speed of onset with the profile I referred to earlier, regarding the lack of rebound headaches and the lack of addiction potential and lack of cardiovascular effects. So we think that intranasal is going to be another important tool in patients' tool kit to combat migraine.
+
+--------------------------------------------------------------------------------
+Christopher J. Stevo,  Pfizer Inc. - Senior VP & Chief IR Officer    [67]
+--------------------------------------------------------------------------------
+Thank you, Vlad. Thank you, Angela. Thanks for that question, Kerry. All right. That was our last question. I'd like to thank all of our speakers for their time and our listeners for their interest and for joining us on such short notice. Should you have any further questions, please reach out to the IR team, and we'll get you answers. Thank you very much. Good day.
+
+--------------------------------------------------------------------------------
+Operator    [68]
+--------------------------------------------------------------------------------
+This concludes today's conference call. Thank you all for participating. You may now disconnect.
+
+
+
+
+
+
+
+--------------------------------------------------------------------------------
+Definitions
+--------------------------------------------------------------------------------
+PRELIMINARY TRANSCRIPT: "Preliminary Transcript" indicates that the 
+Transcript has been published in near real-time by an experienced 
+professional transcriber.  While the Preliminary Transcript is highly 
+accurate, it has not been edited to ensure the entire transcription 
+represents a verbatim report of the call.
+
+EDITED TRANSCRIPT: "Edited Transcript" indicates that a team of professional 
+editors have listened to the event a second time to confirm that the 
+content of the call has been transcribed accurately and in full.
+
+--------------------------------------------------------------------------------
+Disclaimer
+--------------------------------------------------------------------------------
+Refinitiv reserves the right to make changes to documents, content, or other 
+information on this web site without obligation to notify any person of 
+such changes.
+
+In the conference calls upon which Event Transcripts are based, companies 
+may make projections or other forward-looking statements regarding a variety 
+of items. Such forward-looking statements are based upon current 
+expectations and involve risks and uncertainties. Actual results may differ 
+materially from those stated in any forward-looking statement based on a 
+number of important factors and risks, which are more specifically 
+identified in the companies' most recent SEC filings. Although the companies 
+may indicate and believe that the assumptions underlying the forward-looking 
+statements are reasonable, any of the assumptions could prove inaccurate or 
+incorrect and, therefore, there can be no assurance that the results 
+contemplated in the forward-looking statements will be realized.
+
+THE INFORMATION CONTAINED IN EVENT TRANSCRIPTS IS A TEXTUAL REPRESENTATION
+OF THE APPLICABLE COMPANY'S CONFERENCE CALL AND WHILE EFFORTS ARE MADE TO
+PROVIDE AN ACCURATE TRANSCRIPTION, THERE MAY BE MATERIAL ERRORS, OMISSIONS,
+OR INACCURACIES IN THE REPORTING OF THE SUBSTANCE OF THE CONFERENCE CALLS.
+IN NO WAY DOES REFINITIV OR THE APPLICABLE COMPANY ASSUME ANY RESPONSIBILITY FOR ANY INVESTMENT OR OTHER
+DECISIONS MADE BASED UPON THE INFORMATION PROVIDED ON THIS WEB SITE OR IN
+ANY EVENT TRANSCRIPT. USERS ARE ADVISED TO REVIEW THE APPLICABLE COMPANY'S
+CONFERENCE CALL ITSELF AND THE APPLICABLE COMPANY'S SEC FILINGS BEFORE
+MAKING ANY INVESTMENT OR OTHER DECISIONS.
+--------------------------------------------------------------------------------
+Copyright 2023 Refinitiv. All Rights Reserved.
+--------------------------------------------------------------------------------

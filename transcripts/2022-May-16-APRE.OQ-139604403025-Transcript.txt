@@ -1,0 +1,234 @@
+
+
+Refinitiv StreetEvents Event Transcript
+E D I T E D   V E R S I O N
+
+Aprea Therapeutics Inc Acquisition Of Atrin Pharmaceuticals Inc M&amp;A Call
+MAY 16, 2022 / 8:30PM GMT
+
+================================================================================
+Corporate Participants
+================================================================================
+
+ * Gregory A. Korbel
+   Aprea Therapeutics AB - Chief Business Officer
+ * Oren Gilad
+   Aprea Therapeutics, Inc - Co-Founder, CEO, President and Director
+ * Christian S. Schade
+   Aprea Therapeutics AB - President, CEO & Chairman
+
+================================================================================
+Conference Call Participiants
+================================================================================
+
+ * Eric Brown
+    - 
+
+================================================================================
+Presentation
+--------------------------------------------------------------------------------
+Operator    [1]
+--------------------------------------------------------------------------------
+Good day, and thank you for standing by. Welcome to the Aprea Therapeutics Update Conference Call. (Operator Instructions) Please be advised that today's conference is being recorded. (Operator Instructions) I would now like to hand the conference over to Gregory Korbel. Sir, please begin.
+
+--------------------------------------------------------------------------------
+Gregory A. Korbel,  Aprea Therapeutics AB - Chief Business Officer    [2]
+--------------------------------------------------------------------------------
+Thank you, operator. Good afternoon, everyone. This is Greg Korbel, Chief Operating Officer at Aprea Therapeutics. And on behalf of the entire Aprea team, I'd like to welcome you to today's call. I'm joined today for our presentation by Chris Schade, Aprea's CEO; Dr. Oren Gilad, formerly Atrin's CEO; and now Aprea's President; and Dr. Eric Brown, Associate Professor of Cancer Biology at the University of Pennsylvania. 
+Before we get started, just a few administrative details. We intend to answer any questions at the end of the prepared remarks. Please feel free to submit a question at any time during the presentation by clicking on "Ask a Question" in your browser window, type a question into the question box and click submit. 
+Also, a replay of today's webcast will be archived following the conclusion of the presentation and found on the Investors section of our website, aprea.com. I'd like to point out that both our presentation and answers to questions during today's event will contain forward-looking statements. As such, please refer to Slide 2 of today's presentation and to our periodic filings with the SEC for a description of the risks and uncertainties associated with our business. 
+These filings may be accessed through the Investors section of our website or found on sec.gov. At this time, I'd like to turn the presentation over to Chris Schade.
+
+--------------------------------------------------------------------------------
+Christian S. Schade,  Aprea Therapeutics AB - President, CEO & Chairman    [3]
+--------------------------------------------------------------------------------
+Thanks, Greg, and thank you all for joining to today's call. We are all very excited about completing this transaction and joining forces with the Atrin team. The DNA damage response pathway is an emerging and very important pathway in oncology drug development, and we are excited to put our resources and combine drug development skills to work to advance Atrin's differentiated drug candidate pipeline and platform. Before we get started with details of the pipeline, I'd just like to review some of the transaction that was announced this morning. 
+As the transaction was completed this morning. After the transaction, Atrin shareholders will own 58.8% of the combined company. Aprea shareholders will own 41.2% of the combined company. And in addition to that, Aprea shareholders, on record, before this close will receive a CVR, contingent value right, which will be related to any possible transaction involving our legacy Aprea assets. 
+From a management team perspective, I will remain as a CEO until an upcoming shareholder meeting. Oren Gilad will be President and then will assume the role of CEO, and I will transition to Executive Chair of the Board. Gregory Korbel, who will be our Chief Operating Officer, Scott Coiante will remain our Chief Financial Officer; and Ze'ev Weiss will be our Chief Business Officer. 
+And what I think, as importantly, we'll have pro forma $48 million in cash before these transaction-related expenses, and we expect that to get us through the second half of 2023. And why that's important is that we are going to devote those resources to advancing a very exciting and differentiated pipeline, ATRN-119. You're going to hear more about to move that into clinic in this coming third quarter to expand into combination studies to move Atrin's backup program through pre-IND development through into clinical development as well as it's very exciting ATRN-W1051, a different WEE1 inhibitor with very exciting preliminary data that we'll share with you today to get that into the pre-IND studies and into the clinic next year. 
+And then also, what's very exciting is the opportunity for us to advance other programs into development. If we go to Slide 4, Atrin has in its founders -- have our leaders in the development of DNA damage response pathway for oncology drug development. And Atrin has developed what has become a leading portfolio of synthetic lethality compounds. And from that platform, we can both drive novel target identification and as well as importantly as effective biomarker identification. And this will come to bear, obviously, in these 2 very exciting programs, which are at the -- poised to be in clinic, both ATRN-119, our novel ATR inhibitor, which is differentiated in structure and tolerability from other ATR inhibitors that are currently in development. 
+As well as ATRN-W1051, also structurally differentiated from other WEE1 inhibitors in development and we'll just discuss that in a moment as well. But these are 2 programs which we are anxious to get into development -- to move into clinical development, but also to continue to exploit this novel platform and to move additional compounds into development in the future. We have developed what we think is a very efficient capital plan to use our resources and our development skills together with Atrin's know-how here to advance these programs rapidly into clinical development to get us to clinical data to meet important clinical milestones and to continue the development of these very exciting compounds. 
+So with that, what I'd like to do is turn it over to Oren, he'll begin talking about the pipeline and the platform. Oren, over to you.
+
+--------------------------------------------------------------------------------
+Oren Gilad,  Aprea Therapeutics, Inc - Co-Founder, CEO, President and Director    [4]
+--------------------------------------------------------------------------------
+Thank you, Chris. So we are also very excited about the merger. We see lots of synergy between the teams and the teams have been working in collaboration, as you're going to see in this presentation. Atrin is a spin out from the University of Pennsylvania. We published that ATR is a good target for cancer therapy. American Association for Cancer Research ranked us up 2%, 3% for the year, and that was the foundation for the company. The company is focused on synthetic lethality by targeting the DNA damage and response pathway. 
+We have an ATR inhibitor that is ready to enter the clinic. It is IND approved, and we're going to have 3 sites ready. Penn is going to be the first site together with Yale University and Dana-Farber. And right behind it, there is an analog, a backup analog, which we improved potency and exposure. On the WEE1, as Chris said, our WEE1 is differentiated from the other WEE1s in the clinic. And the platform is also very exciting. The platform is proteomic, which is complementary to CRISPR that is genomic-based and from the platform, we did receive potential biomarkers that are integrated into our clinical protocol, which is genetically defined patient population to be administered into the study as well as novel targets. And with that, I would like to turn it over to Eric to take us through the science.
+
+--------------------------------------------------------------------------------
+Eric Brown,   -     [5]
+--------------------------------------------------------------------------------
+Thank you, Oren. On this slide here, I'd like to take you through some of what we're excited about in targeting the ATR pathway as well as tell you more about how we want a protein that's downstream of ATR may also be an effective target with distinguishing characteristics in which biomarkers may lend sensitivity to those inhibitors. As you may know, the area of synthetic lethality has been explosive in the opportunities it provides clinicians with targeting cancers without causing as much toxicity to normal tissues like the bone marrow, intestines and all the things that we associate with chemotherapy-treated patients. 
+PARP inhibitors operate by producing a synthetic lethal interaction, meaning that an interaction that causes lethality to the tumors with a specific mutation more so than normal tissues. In the case of PARP inhibitors, this works by targeting 2 mutations in genes known as BRCA1 or Breast Cancer 1 and BRCA 2. That list of genes has been expanded recently to others that function similarly in a DNA repair pathway. While PARP inhibitors have been very promising, the major problem has been that resistance to PARP inhibitors is acquired eventually, although they're less toxic to normal tissues, and that acquisition of resistance is achieved by simply regaining that DNA repair pathway that's regulated by BRCA1 and BRCA2. 
+ATR inhibitors are different in that inhibition of ATR is synthetically felt not only with some of the same genes that PARP inhibitors are synthetic lethal with but also with oncogenic stress itself as was first demonstrated by the President of the -- now President of Aprea, Oren Gilad. So we find that ATR inhibitors are promising not only in the fact that they can target cancers very effectively, but because they are synthetic lethal with multiple cancer associated mutations, we believe that these inhibitors show great promise in causing a more durable response to inhibition and that resistance will be acquired more slowly. 
+WEE1 inhibitors are exciting in that not only do they affect or are synthetic lethal with some of the same mutations in cancers that HR inhibitors are synthetic lethal with, but it appears that they may also be well situated to capitalize on other cancer-associated changes like overexpression of a gene called Cyclin.
+In the next slide, I want to tell you a little bit about the platform that we've developed that we think is extremely promising. On the left-hand side are some of the tools that Atrin Pharmaceuticals, which is now part of Aprea, has developed over the course of the last 10 years to identify highly specific inhibitors of ATR, WEE1 and now undisclosed targets that we're very excited about. 
+Another part of the pathway shown on the left is our ability to find new biomarkers that will lend sensitivity to these treatments as Dr. Gilad described, where we're using proteomics and genomics in a coordinated way that will identify targets that are not found with CRISPR screens, but we believe will be unique and be able to be synthesized in the combinations of mutations that will lend sensitivity to these treatments. This will broaden the therapeutic window for using ATR inhibitors and WEE1 inhibitors in targeting the cancers more effectively and causing less toxicity to normal tissues.
+In the next slide is a couple of examples of our approach in this regard. Where we're thinking about biomarkers is not just single genes that are mutated, for example, it's known that ATR is synthetic lethal with a gene called ATM. So while ATM has lost in many cancers, what we'd hope to be able to achieve is not just a single gene that's mutated or targeting a single gene that's mutated in cancers, but multiple genes that are mutated. And our approach with Repli-Biom is to identify whole complexes of factors, any 1 of which would lend sensitivity to treatment. Therefore, we're broadening the patient population that would benefit from these inhibitors. 
+Secondly, we're thinking about drug combinations rather than single-agent treatments as the long-term future which has been recently demonstrated in the combination of ATR inhibitors with PARP inhibitors to treat not only BRCA-deficient cancers, but also those cancers that have become resistant to PARP inhibitors. 
+So I'd like to tell you a little bit more detail about ATRN-119, which is the compound that will be going into clinical trials in the third quarter of this year. In the next slide, what you'll see is some of a diagram of what I've been talking about, and that is that ATR inhibition targets not only oncogenic stress. In other words, a phenotype or a characteristic that is common amongst nearly all cancers, but also other mutations downstream of ATRs effects in causing genomic instability. 
+Oncogenic stress causes defects during DNA replication that then rely on ATR for stability. In many ways, this is like a shock absorber to the cells that perturbations during normal cell cycle progression, which is very common in cancer mutations, which drive cells into synthesizing DNA in a premature way. By activating ATR, that replication structure is stabilized. And when HR is inhibited, then types of DNA damage emerge that rely on other proteins like ATM, which is commonly mutating in cancers or BRCA1 or BRCA2 and so on. 
+So you can see where we're very excited using ATR inhibitors as ATR performs this nexus function in the cell to act not only as a response factor to perturbations, but also causes types of DNA damage that require genes that are frequently mutated in cancers in order for these cancer cells to survive.
+In the next slide is some examples of what we think are very promising attributes to ATRN-119 in that Aprea has now joined forces with the company, Atrin, that really focused on the long term in this, and that they generated the only macrocyclic ATR inhibitor. And this ATR inhibitor is highly specific, as would be expected for a compound that has several restricted confirmations. And that specificity is critical. It's really that specificity that we think makes ATRN-119 very promising and that we expect it and we actually observe it to be less toxic in animal models. 
+The 3 proteins on the right-hand side of this chart are proteins that are related to ATR, but are different. And in fact, this family, of what are called protein kinases, is rather small, and what we would like to see is an inhibitor that's very specific for ATR and one that does not off-target these other, what are called PIKK-related kinases. Atrin has arguably the most selectivity for ATR over these other kinases in a broad way. And I think what's also important to point out is that the last 3 of these inhibitors, according to modeling, likely have parts that are very similar in where they bind to ATR or in how they bind to ATR.
+What we think is that the 3 compounds that have been clinically tested or at least these last 3 compounds that have been clinically tested, they have similar structural characteristics, and they also have a rather significant magnitude of hematological toxicities, specifically neutropenia and anemia. So it's possible that their degree of specificity is impacting the toxicity that's seen with these compounds. And it is interesting to point out that the Bayer compound, while according to these reported data is less selective in comparison to these other PIKK-related kinases. 
+Many have argued that the current clinical data indicates that Bayer is also 1 of the most toxic of these 3 inhibitors as been reported in the third quarter of last year. That correlates with its specificity. And adding to these data, what we find is ATRN-119 has a very small-magnitude hematological toxicity. And it is one of the most specific. So together, what these are arguing is that the specificity of ATR inhibition is really going to help out in limiting the toxicity of this treatment strategy. 
+In the next slide are a couple of examples of what we see with ATRN-119 in animal models where tumors are being suppressed at doses that do not cause hematologic toxicity in mice, and using conversions to what we might see in dogs, we do not see hematologic toxicity at those concentrations either. 
+In the next slide is one of the best models for testing if a compound is working very well. And how it will translate into the clinic, it's called a PDX model or patient-derived xenograft. These studies were performed by Fiona Simpkins at the University of Pennsylvania. And the way it works is that tumor pieces are removed from patients during initial surgical resection of tumors. They are then transplanted into mice, and then those tumors expanded into larger cohorts, representing what we would call a preclinical trial in mice. 
+The tumors maintain the genetics of the original tumor. They even maintain some of the human stroma tissue. So it's really one of the best models we have available on testing a compound. And to the right, what you see is that ATRN-119 at 90 mgs per kg is almost as effective as PARP inhibitor treatment. And this tumor was actually the type of tumor that you would expect PARP inhibitors to work very well, meaning that it was deficient in BRCA2. However, we did not see a decrease in body weight over the course of this treatment, indicating that the combination, while much more effective than the single agents was not more toxic in this model. 
+With this, I'll hand it over back to Oren, so he can describe some of the clinical comparisons.
+
+--------------------------------------------------------------------------------
+Oren Gilad,  Aprea Therapeutics, Inc - Co-Founder, CEO, President and Director    [6]
+--------------------------------------------------------------------------------
+Thank you, Eric. Listed here is the 3 compounds that Eric mentioned, and we believe by looking at their chemical structure to their analogs and related to each other. So they carry the same core, the same backbone and reported the same toxicity profile. So on the left, see the AstraZeneca compound, it's been given orally. 160  mgs BID on 2-weeks on, 2-weeks off scheduling. The Bayer compound is more potent, and it's giving 40 mgs BID only 3-days on, 4-days off scheduling. 
+And the Repare compound and the data here is updated from the latest AACR. It's giving 160 mgs QD also only 3-days on, 4-days off schedule. We believe that tumors can acquire resistancy if the tumor doesn't have target coverage. So by having an off-period is allowing the tumor to acquire resistance because as the cell is a tumor defined, their going into [S phases] without the inhibitory effect of the drug on to the enzyme ATR. 
+And in the next slide, this is our anticipated scheduling that's been approved by the FDA. It's in our clinical protocol. We anticipated a 28-days consistent dosing. It is a differentiated core. It is differentiated backbone. As Eric mentioned, it is a macro cycle. And we also see differentiated toxicity profile. We're seeing very negligible anemia and neutropenia. It is also worth mentioning here that with our interaction with the FDA, the FDA came to us and asked us to include 12 years and older in our clinical protocol without the additional of toxicology work. 
+And in the next slide, is our clinical strategy, and we have to emphasize that this is a genetically defined patient population that's going to be administered into the clinical studies. So it is a 3 plus 3 typical oncology study design. The sites have been identified. Penn is going to be the first site, and then we're going to add Dana-Farber and the Yale University. 
+In the next slide, we did mention the backup that has improved potency and exposure. And on the right, we're showing that the IC50, the cellular IC50 is lower compared to 119. And we are seeing eightfolds more potency and about 10x of the exposure when tested in vivo. 
+And with that, I would like to turn it back to Eric to take us through the data on the WEE1 inhibitor.
+
+--------------------------------------------------------------------------------
+Eric Brown,   -     [7]
+--------------------------------------------------------------------------------
+Thanks, Oren. So we're very excited about targeting WEE1, as I mentioned earlier in this presentation. In part because it gives us the ability to target this pathway in a different way and which presents possibilities for combination treatments, which I'll mention at the very end, but also because it's indicated based on everything we know, about these pathways that we want an inhibition will be synergistic with additional biomarkers that we see in cancers. Next slide, please.
+So where ATRN-119 falls in the spectrum of WEE1 inhibitors is really a much smaller field. There is -- there was originally Merck compound 1775, which was licensed by AZD, now AZD-1775. It has shown some promise in -- as a cancer treatment, but it has also been limited by tissue toxicity, specifically neutropenia and anemia. Zentalis also has a WEE1 inhibitor. It shows great structural similarity to AZD-1775, and the approach that Atrin took, again, was to take the long haul and really find an inhibitor that would reduce some of the toxicities that we might expect to see. 
+And the approach taken into the development of ATRN -W1051 was to reduce the targeting of a family of kinases known as polo-like kinases or PLK-1,2 and 3. As you can see, the Zentalis and AZD WEE1 inhibitors, each to varying degrees, inhibit the PLK family, whereas ATRN-W1051 shows much less of targeting of this family of kinases while being a very potent WEE1 inhibitor. ATRN-W1051 also has great PK properties at a dose of 10 mgs per kg. It has an AUC14200, which is roughly equivalent to the exposure seen with AZD at 80 mgs per kg or Zentalis at somewhere around 30 to 35 mgs per kg. 
+In the next slide, what you can appreciate is that ATRN-W1051 is also effective in suppressing tumor growth here at a dose of 30 mgs per kg once per day as an oral compound. So we're very excited about this program in that it has found a WEE1 inhibitor that can have effectiveness at an additional set of biomarkers, for example, Cyclin E overexpression. But we're also excited in the promise of treating patients with combinations initially as you will learn at the end of this presentation between ATRN-119 and PARP inhibitor treatment, but it's been demonstrated recently by Dr. Fiona Simpkins here at the University of Pennsylvania, that the combination of ATR and WEE1 inhibitors is a very effective treatment even better than single-agent treatment in treating patients -- or I should say, PDX models that overexpress Cyclin E.
+So on the next slide, I just return to our platform, what we call an integrated discovery engine. Not only we've been able to identify multiple inhibitors of ATR and WEE1 through a unique macrocyclic design as well as a rapid assay for determining the ability of these compounds to inhibit the growth of cancer cells. We have also been able to identify multiple biomarkers, some of them we believe to be unique biomarkers that will imply patient efficacy in tumor treatment. 
+And finally, we are taking an approach of finding multiple biomarkers for each of these single agents, but also identifying combination treatments for these cancers. With that, I'll turn it back over to Greg.
+
+--------------------------------------------------------------------------------
+Gregory A. Korbel,  Aprea Therapeutics AB - Chief Business Officer    [8]
+--------------------------------------------------------------------------------
+Thank you very much, Eric. So the next slide here provides a snapshot of the intellectual property portfolio for both the ATR and the WEE1 programs, which currently includes composition of matter, method of use and formulation, and will continue to be expanded as the company moves forward with these programs as well as identifies novel targets from the Repli-Biom platform to move forward as well. Now regarding Aprea's p53 reactivator programs, we continue to believe the potential of these assets. Importantly, we have concluded discussions with FDA and have received clearance from FDA to proceed with new trials. 
+Although our first priority is the advancement of assets acquired with Atrin, if resources are available above what is needed for these programs, then we would certainly look at opportunities to pursue additional clinical development of legacy Aprea programs and we'll be in touch with details at that time. Given the respective mechanisms of action, we do believe that there may be unique opportunities to explore potential synergy between the Aprea and Atrin assets, and we'll certainly look to investigate this preclinically. 
+And with that, I will turn it back to Oren to take everybody through the corporate milestones.
+
+--------------------------------------------------------------------------------
+Oren Gilad,  Aprea Therapeutics, Inc - Co-Founder, CEO, President and Director    [9]
+--------------------------------------------------------------------------------
+Thank you, Greg. So in the next slide, we listed the DDR development pipeline milestones where the company and everybody is going to be focused on the execution of these milestones. Anticipated first patient in third quarter of this year, then this compound, the ATRN-119 is IND approved, it's clinical ready. And right behind it, it's going to be a combination with standard of care. The 2 combinations listed here are both with standard of care for the short term. And as Eric mentioned, for the long term, there is good synergy between combining ATR and WEE1 which we will be exploring at a later time. The backup which is at the same stage of development as the WEE1 inhibitor and are ready to enter IND-enabling studies, take it through the IND into the, clinic. 
+And here, again proposed a combination of WEE1 with a PARP inhibitor as the standard of care. And the last program here came from the Repli-Biom undisclosed and we anticipate additional INDs coming out from the Repli-Biom coming out from our Bayer programs. So with that, I would like to turn it back over to Chris for closing remarks and/or Q&A, if any questions.
+
+
+================================================================================
+Questions and Answers
+--------------------------------------------------------------------------------
+Christian S. Schade,  Aprea Therapeutics AB - President, CEO & Chairman    [1]
+--------------------------------------------------------------------------------
+Thanks, Oren. A couple of questions here, we might as well get moving on. Oren, I'll direct it to you and to Eric. It has been over 20 years since the first ATR inhibitor was developed. However, the progress for ATR inhibitors going into clinical trials is slow, although it is a great target. What could be the reasons for that? May I know what your plan would be to overcome the issues that make your candidate competitive in the market.
+
+--------------------------------------------------------------------------------
+Oren Gilad,  Aprea Therapeutics, Inc - Co-Founder, CEO, President and Director    [2]
+--------------------------------------------------------------------------------
+Eric, do you want to start?
+I can get started. So back in the days, the ATR inhibitors were not specific -- actually caffeine and other inhibitors that were mTOR inhibitors, but also an ATR inhibitor. So the specificity contributed to the toxicities, and that's what took the field a long time to come up with a good system to develop specific compounds. 
+And Chris, what was the second part of the question?
+
+--------------------------------------------------------------------------------
+Christian S. Schade,  Aprea Therapeutics AB - President, CEO & Chairman    [3]
+--------------------------------------------------------------------------------
+Sorry, Oren. The second part of the question is, what would your plan to be to overcome these issues?
+
+--------------------------------------------------------------------------------
+Oren Gilad,  Aprea Therapeutics, Inc - Co-Founder, CEO, President and Director    [4]
+--------------------------------------------------------------------------------
+Thank you. Yes. So our plan was to make a macro cycle. And when you make a macro cycle, it is conformationally defined molecule and as we saw the data, the compound that we developed are very specific and very selective and improved PK properties. So we believe in the target ATR, we believe that taking the long road to develop a very specific compound will overcome the liabilities associated with the early stage compound that were in development.
+
+--------------------------------------------------------------------------------
+Christian S. Schade,  Aprea Therapeutics AB - President, CEO & Chairman    [5]
+--------------------------------------------------------------------------------
+Okay. Next question. ATR inhibitors have shown some nice data in combination with chemotherapies. Any thoughts about looking at chemo combos, and could you tell us anything about your expected PK profile for the ATR inhibitor program?
+
+--------------------------------------------------------------------------------
+Oren Gilad,  Aprea Therapeutics, Inc - Co-Founder, CEO, President and Director    [6]
+--------------------------------------------------------------------------------
+Yes. So as I stated before, our first focus is going to be with a PARP inhibitor. We have good preclinical data for a combination of ATR and PARP. So we're going with the standard of care to start our clinical study. That's the long hanging fruit for us.
+
+--------------------------------------------------------------------------------
+Christian S. Schade,  Aprea Therapeutics AB - President, CEO & Chairman    [7]
+--------------------------------------------------------------------------------
+Okay. Has synthetic lethality been clinically validated and is there commercial room for new compounds?
+
+--------------------------------------------------------------------------------
+Oren Gilad,  Aprea Therapeutics, Inc - Co-Founder, CEO, President and Director    [8]
+--------------------------------------------------------------------------------
+Yes, that's a very good question, a very important question also we believe that PARP inhibitors have been improving clinically and commercially the approach for synthetic lethality. If you look at the sales for PARP by itself, well operate by itself, sold last year for over $2 billion and about $2.3 billion, and PARP has been approved for one genetic mutation, BRCA mutation. We believe that ATR can address additional multiple genetic mutations and can be synthetic lethal and have synergy with additional biomarkers to get and expand on a patient population and market size.
+
+--------------------------------------------------------------------------------
+Christian S. Schade,  Aprea Therapeutics AB - President, CEO & Chairman    [9]
+--------------------------------------------------------------------------------
+Okay. A couple of more questions here before we wrap up. In the presentation, you discussed that your programs are differentiated from other programs in development? Can you go through briefly again what differentiates your programs from others?
+
+--------------------------------------------------------------------------------
+Oren Gilad,  Aprea Therapeutics, Inc - Co-Founder, CEO, President and Director    [10]
+--------------------------------------------------------------------------------
+Yes. The differentiation really comes in the tox profile and the selectivity and the potency of the compound. It is important for getting a broader therapeutic index. It is also important for combination therapy because when you combine 2 compounds that they have overlapping toxicities, you are limited with the dosing and the scheduling. So having 2 compounds without overlapping toxicities, in our case, hematological toxicities, we believe the compound makes it attractive as a single agent as well as combination.
+
+--------------------------------------------------------------------------------
+Christian S. Schade,  Aprea Therapeutics AB - President, CEO & Chairman    [11]
+--------------------------------------------------------------------------------
+Okay. A couple more questions here. When is the transaction expected to close and will there be a new stock ticker? The transaction is closed, closed this morning, and there will not be a new stock ticker. It will continue to trade under APRE. 
+Another question is, can you remind us when you'll commence clinical studies? As we said in the presentation, we intend to commence clinical studies, Phase I clinical studies, almost immediately. So the teams now are working on that to begin for the ATR inhibitor program, 114 to move that into development in the third quarter of this year. And as we said, that the resources from the combined entity will be devoted to those clinical assets and getting to clinical data as well as moving both the backup and the WEE1 inhibitor program into the clinic, hopefully, next year. 
+A question about -- this will be the last question. The question is about the Aprea p53 programs. As Greg said in the presentation, obviously, we are excited about the programs. We have reached a conclusion with our discussions with FDA as to the way forward moving through dose -- Phase I dose escalation studies in both lymphoid and myeloid malignancies. And so we continue to be excited about that, but the proceeds from this transaction, the combined resources will advance the ATR programs first. 
+We'll continue to review our existing resources as well as Greg discussed, look at preclinical synergies that might exist between Atrin's programs and Aprea's program. So there should be news to come on that work over time. 
+So with that, those are the questions that we have. I'd like to thank you all for your attendance today. It's a very exciting time for Aprea and Atrin. We look forward to keeping all of our shareholders informed with our progress, moving these clinical programs to get to clinical milestones and value inflection points as well as other business highlights as we continue to move these very exciting programs forward. 
+So with that, operator, I'd like to thank everyone again for your time, and we look forward to staying in touch.
+
+--------------------------------------------------------------------------------
+Operator    [12]
+--------------------------------------------------------------------------------
+This concludes today's conference call. You may now disconnect. Everyone, have a wonderful day, and thank you for participating.
+
+
+
+
+
+
+
+--------------------------------------------------------------------------------
+Definitions
+--------------------------------------------------------------------------------
+PRELIMINARY TRANSCRIPT: "Preliminary Transcript" indicates that the 
+Transcript has been published in near real-time by an experienced 
+professional transcriber.  While the Preliminary Transcript is highly 
+accurate, it has not been edited to ensure the entire transcription 
+represents a verbatim report of the call.
+
+EDITED TRANSCRIPT: "Edited Transcript" indicates that a team of professional 
+editors have listened to the event a second time to confirm that the 
+content of the call has been transcribed accurately and in full.
+
+--------------------------------------------------------------------------------
+Disclaimer
+--------------------------------------------------------------------------------
+Refinitiv reserves the right to make changes to documents, content, or other 
+information on this web site without obligation to notify any person of 
+such changes.
+
+In the conference calls upon which Event Transcripts are based, companies 
+may make projections or other forward-looking statements regarding a variety 
+of items. Such forward-looking statements are based upon current 
+expectations and involve risks and uncertainties. Actual results may differ 
+materially from those stated in any forward-looking statement based on a 
+number of important factors and risks, which are more specifically 
+identified in the companies' most recent SEC filings. Although the companies 
+may indicate and believe that the assumptions underlying the forward-looking 
+statements are reasonable, any of the assumptions could prove inaccurate or 
+incorrect and, therefore, there can be no assurance that the results 
+contemplated in the forward-looking statements will be realized.
+
+THE INFORMATION CONTAINED IN EVENT TRANSCRIPTS IS A TEXTUAL REPRESENTATION
+OF THE APPLICABLE COMPANY'S CONFERENCE CALL AND WHILE EFFORTS ARE MADE TO
+PROVIDE AN ACCURATE TRANSCRIPTION, THERE MAY BE MATERIAL ERRORS, OMISSIONS,
+OR INACCURACIES IN THE REPORTING OF THE SUBSTANCE OF THE CONFERENCE CALLS.
+IN NO WAY DOES REFINITIV OR THE APPLICABLE COMPANY ASSUME ANY RESPONSIBILITY FOR ANY INVESTMENT OR OTHER
+DECISIONS MADE BASED UPON THE INFORMATION PROVIDED ON THIS WEB SITE OR IN
+ANY EVENT TRANSCRIPT. USERS ARE ADVISED TO REVIEW THE APPLICABLE COMPANY'S
+CONFERENCE CALL ITSELF AND THE APPLICABLE COMPANY'S SEC FILINGS BEFORE
+MAKING ANY INVESTMENT OR OTHER DECISIONS.
+--------------------------------------------------------------------------------
+Copyright 2022 Refinitiv. All Rights Reserved.
+--------------------------------------------------------------------------------

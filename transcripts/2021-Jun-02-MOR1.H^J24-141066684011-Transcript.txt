@@ -1,0 +1,403 @@
+
+
+Refinitiv StreetEvents Event Transcript
+E D I T E D   V E R S I O N
+
+MorphoSys AG To Acquire Constellation Pharmaceuticals M&amp;A Call
+JUNE 02, 2021 / 12:00PM GMT
+
+================================================================================
+Corporate Participants
+================================================================================
+
+ * Malte Peters
+   MorphoSys AG - Chief Research & Development Officer and Member of the Management Board
+ * Jean-Paul Kress
+   MorphoSys AG - Chairman of Management Board, MD & CEO
+ * Julia Neugebauer
+   MorphoSys AG - Director of Corporate Communications & IR
+ * Sung H. Lee
+   MorphoSys AG - CFO & Member of Management Board
+
+================================================================================
+Conference Call Participiants
+================================================================================
+
+ * James Daniel Gordon
+   JPMorgan Chase & Co, Research Division - Senior Analyst
+ * Geoffrey Craig Porges
+   SVB Leerink LLC, Research Division - Director of Therapeutics Research & Diversified Biopharma and Senior Research Analyst
+ * Rajan Sharma
+   Deutsche Bank AG, Research Division - Analyst
+ * Rosie Turner
+   Barclays Bank PLC, Research Division - Research Analyst
+ * James Patrick Quigley
+   Morgan Stanley, Research Division - Equity Analyst
+ * Etzer Darout
+   Guggenheim Securities, LLC, Research Division - Senior Analyst
+ * Graig Suvannavejh
+   Goldman Sachs Group, Inc., Research Division - Executive Director & Senior Equity Research Analyst
+
+================================================================================
+Presentation
+--------------------------------------------------------------------------------
+Julia Neugebauer,  MorphoSys AG - Director of Corporate Communications & IR    [1]
+--------------------------------------------------------------------------------
+Welcome, ladies and gentlemen. My name is Julia Neugebauer, Senior Director of Investor Relations. It's my pleasure to welcome you to our (technical difficulty) Constellation Pharmaceuticals and our strategic funding partnership with Royalty Pharma, which we announced earlier this morning.
+You'll find a brief presentation in the Media and Investors section on our website, morphosys.com, under the section MorphoSys Events or by visiting our transaction web page at morphosys-constellation-royaltypharma.com.
+Before we begin, I'd like to remind you on Slide 2 that some of the statements we make during the call are forward-looking statements, including statements regarding our expectations for the commercialization of our products and our development plans as well as the development plans of our collaboration partners. These forward-looking statements are subject to a number of risks and uncertainties that may cause our actual results to differ materially, including those described in MorphoSys 20-F and annual report, all for year ended December 31, 2020, and from time to time in other SEC documents of MorphoSys. It is important to keep in mind that our statements on this webcast speak as of today.
+Joining me on the call today are Jean-Paul Kress, Chief Executive Officer; Sung Lee, Chief Financial Officer; and Malte Peters, Chief Research and Development Officer. Jean-Paul will begin with an overview of the strategic rationale, followed by Sung, who will discuss the terms of the transactions and financials. Malte will then provide further detail on Constellation's exciting candidates and pipeline before we turn it over to Jean-Paul.
+
+--------------------------------------------------------------------------------
+Jean-Paul Kress,  MorphoSys AG - Chairman of Management Board, MD & CEO    [2]
+--------------------------------------------------------------------------------
+Thank you, Julia. Welcome, everyone, and thank you for joining us on this truly historic day for our company as we take a major step forward in advancing cancer care. At MorphoSys, our mission is to bring innovative therapies to improve the lives of patients living with cancer and autoimmune disease. Our acquisition of Constellation and our strategic funding partnership with Royalty Pharma will enhance our ability to do just that.
+Before we talk about why we are so excited about this announcement and the future, let's first take a step back and look at how we got here. As you know, we've been executing on a strategy to grow through proprietary drug development and commercialization, rapidly developing and successfully launching our own product, Monjuvi in the U.S.
+The addition of Constellation offers a transformational growth opportunity for MorphoSys, expanding our pipeline in a meaningful way. With Constellation's mid- to late-stage candidates, each with the potential to be first-in-class and best-in-class, we can dramatically accelerate growth. We are very excited about the lead product candidates, pelabresib, which is currently in Phase III for myelofibrosis. Importantly, these lead compounds fit well with our proven clinical development, regulatory and commercial capabilities. In short, we are uniquely positioned to unlock their value. And we believe that value has the potential to be significant.
+Constellation's lead product candidates have broad potential with expected approvals across a broad range of oncology indications in the coming years. This transaction expands MorphoSys' existing pipeline to bolster our position in hematologic malignancies and entry into solid tumor therapies.
+The combination of our expertise in biologics with Constellation's cutting-edge research and expertise in epigenetics and small molecule discovery platforms will definitely strengthen our own research and technology organization, enabling us to bring exciting new cancer therapies to patients.
+This transformational growth opportunity is anchored by a strategic funding partnership with Royalty Pharma, which is providing more than $2 billion to support our strategy to drive growth and shareholder value over the long term.
+I will now take a moment to tell you more about Constellation. Constellation is headquartered in the Boston area and is a clinical stage biopharma company, specializing in epigenetics. Like us, their mission is to address serious unmet medical needs in patients with various forms of cancer. We believe that MorphoSys is well positioned to unlock the potential of Constellation's lead assets for cancer patients, pelabresib and CPI-0209. These candidates have broad therapeutic potential to offer meaningful benefits to patients with various hematologic and solid tumors.
+Pelabresib has the potential to be a first-in-class and best-in-class BET inhibitor. As shown on the slide, it is currently in Phase III clinical trial for myelofibrosis, a type of bone marrow cancer with high unmet medical need. Bone marrow cancer disrupts the body's normal production of blood cells. pelabresib is potentially disease modifying and the only therapy that impacts all 4 hallmarks of myelofibrosis as impressive data revealed from the Phase II trial manifest in patients with first-line and second-line myelofibrosis.
+CPI-0209 is a second-generation EZH2 inhibitor. This compound is currently in Phase II and has best-in-class potential for treating hematological and solid tumors. Our existing clinical and commercial expertise is ideally suited to accelerate Constellation's programs and bring these novel therapies to market.
+The Constellation portfolio also consists of numerous novel early stage and preclinical compounds that we are also excited about. And above all, Constellation is a great fit from a cultural perspective. Our teams are mission-driven and working toward a common goal of helping patients battling cancer.
+We are equally excited about the strategic funding partnership we announced with Royalty Pharma, which anchors our acquisition of Constellation and supports our future growth and expansion for years to come. Royalty Pharma will provide us with upfront capital to help finance this acquisition, access to credit that we can draw from and milestone payments. Royalty Pharma will also become a shareholder of MorphoSys.
+It's actually just especially more than just a funding partnership. Royalty Pharma's partnership will fuel the expansion of our combined capabilities with Constellation to help accelerate our proprietary development and commercial activities for breakthrough cancer treatments. Their commitments to MorphoSys' capabilities, employees and partners is a tremendous vote of confidence in our strategy and ability to drive success.
+I will now hand the call over to Sung to discuss the terms of our transaction with Constellation as well as the key components of our partnership with Royalty Pharma. Sung?
+
+--------------------------------------------------------------------------------
+Sung H. Lee,  MorphoSys AG - CFO & Member of Management Board    [3]
+--------------------------------------------------------------------------------
+Thank you. It's a pleasure to be with you to talk about today's exciting news. I share in Jean-Paul's view that this is truly a transformational acquisition that will accelerate our growth strategy and deliver long-term value for our shareholders. Now let's walk through the transaction terms, beginning with Slide 9.
+MorphoSys will commence a tender offer to acquire Constellation for $34 per share in cash, a total equity value of $1.7 billion. This represents a premium of approximately 70% to Constellation's volume weighted average price over the last 5 trading days.
+Slide 10 outlines the structure of our agreement with Royalty Pharma, a powerful partnership, providing MorphoSys more than $2 billion to support our strategic objectives now and into the future. Under the terms of this agreement, Royalty Pharma will make an upfront $1.425 billion payment to MorphoSys to support our growth strategy. The proceeds will be used to finance our transaction with Constellation and the development of our combined pipeline.
+Royalty Pharma will provide MorphoSys with access up to $350 million in development funding bonds in the first 12 months post-closing. Royalty Pharma will make additional payments of up to $150 million to MorphoSys upon reaching clinical, regulatory and commercial milestones for otilimab, gantenerumab and pelabresib.
+Royalty Pharma will have the rights to receive 100% of MorphoSys royalties on net sales of our legacy asset, Tremfya. Royalty Pharma will also have the rights to receive 80% of future royalties received and 100% of future milestone payments on otilimab, 60% of future royalties on gantenerumab and 3% on future net sales of Constellation's clinical-stage assets pelabresib and CPI-0209.
+Additionally, after the transactions close and with the required approvals of MorphoSys management and supervisory boards, Royalty Pharma is expected to invest $100 million in a cash capital increase of MorphoSys under an authorization to exclude subscription rights of existing shareholders. The new MorphoSys shares will be listed on the Frankfurt Stock Exchange.
+Turning to Slide 11. This slide provides an overview of the long-term value creation of our transaction with Constellation. We are excited about these compounds. Pelabresib has first and best-in-class potential, and CPI-0209 has best-in-class potential. In addition to these mid- to late-stage assets, Constellation's portfolio contains numerous promising preclinical compounds. With our clinical expertise, development capabilities and established commercial channels, we believe we can unlock the potential of Constellation's assets over time and expect significant contributions to MorphoSys revenues in 2026.
+Turning to Slide 12. The transaction is expected to close in the third quarter of 2021, subject to the successful completion of the tender offer, expiration of Hart-Scott-Rodino waiting period, applicable antitrust laws and customary conditions. At the appropriate time, after the transactions close, MorphoSys will provide updated financial guidance for the combined company.
+MorphoSys will remain headquartered in Munich, Germany, and maintaining significant commercial and R&D presence in the Boston area. Our R&D organizations are highly complementary, so we expect this to be a smooth transition. We look forward to working together with the Constellation team to complete the transaction so we can begin to capture the significant value we believe this combination brings for patients and shareholders alike.
+With that, I'll hand the call over to Malte.
+
+--------------------------------------------------------------------------------
+Malte Peters,  MorphoSys AG - Chief Research & Development Officer and Member of the Management Board    [4]
+--------------------------------------------------------------------------------
+Thank you, Sung. The science, innovation and possibilities behind today's transaction and their potential to forward our mission to improve the lives of cancer patients is truly exciting.
+Let me briefly introduce the concept of epigenetics. Epigenetic mechanisms acetylation, methylation, phosphorylation and ubiquitination change the accessibility of DNA to the transcription machinery and thus affect gene expression. Molecules interfering with epigenetics have potential in a broad range of oncology indications. Constellation is an expert in each of the 3 distinct classes of epigenetic regulators, namely epigenetic readers, writers and erasers, each altering chromatin configuration and controlling the expression of certain genes.
+Constellation has 2 lead product candidates: pelabresib, the lead compound is an epigenetic writer; and CPI-0209, the second-generation EZH2 inhibitor, is an epigenetic reader. Both have broad therapeutic potential to offer meaningful benefits to patients with various hematological and solid tumors.
+In addition to these mid- to late-stage assets, Constellation's portfolio also consists of several early stage and preclinical candidates, including CPI-482, which is a potent and selective inhibitor of the LSD1 demethylase enzyme for the potential treatment of hematological malignancies and maybe others. In the United States and Europe, there are an estimated 30,000 to 35,000 patients prevalent with myelofibrosis and who are considered intermediate or high risk. Approximately half of these patients are receiving ruxolitinib therapy, which is a JAK inhibitor. But many patients cannot be treated with ruxolitinib or experience a suboptimal response to this therapy.
+Pelabresib is a first-in-class oral BET inhibitor that has the potential to give hematologists a new treatment option in combination with ruxolitinib while offering treatment to more patients and for a longer duration of time. Pelabresib is the first novel mechanism beyond JAK inhibitors to demonstrate promising results. It has shown a robust response rate in a trial of more than 60 participants in combination with ruxolitinib, namely a clinically meaningful spleen volume reduction in 67% of first-line myelofibrosis patients. This is roughly twice the rate compared to historic controls and has been generally well tolerated.
+In addition, there's exciting activity in patients with second or higher lines of treatment, alone or in combination with ruxolitinib. This is why we are excited that a global Phase III clinical trial for myelofibrosis is currently underway. Adding pelabresib to existing ruxolitinib therapy could expand the number of patients who can benefit from the treatment. Pelabresib may also offer long-term treatment duration through more durable responses.
+We are highly confident in pelabresib's potential to become a new backbone treatment option for patients suffering from myelofibrosis. Over the long term, we believe that we can develop pelabresib to shift the treatment paradigm for this disease. And on top of this, we are also highly interested in studying the potential of this compound in other cancer indications.
+Moving to the next slide. Constellation CPI-0209 is considered an epigenetic reader. It's a second-generation EZH2 inhibitor that is currently in Phase II with best-in-class potential for treating hematological and solid tumors. There's compelling data from Constellation's laboratories suggesting that CPI-0209 is more potent than other EZH inhibitors with the opportunity to set a new standard of care.
+In addition, we are excited about data showing that CPI-0209 is efficacious in germinal center B-cell diffuse large B-cell lymphoma and that it is synergistic with lenalidomide. As MorphoSys intends to become a leader in innovative treatments of lymphoma with approved product on the market, this data could offer an exciting long-term treatment potential in this disease.
+Currently, CPI-0209 is in a Phase I/II clinical trial. The Phase I portion has just been completed and the Phase II part of the trial is open for recruitment. Expansion cohorts consist of cohorts in relapsed urothelial carcinoma, relapsed ovarian clear cell carcinoma and relapsed endometrial carcinoma, all with known ARID1A mutations as well as relapsed or refractory lymphomas.
+Constellation adds pioneering, epigenetic-focused science and attractive preclinical compounds to MorphoSys' portfolio. Together, we will have best-in-class capabilities. And combining Constellation's leading epigenetics assets with our proprietary antibodies gives MorphoSys the potential to create exciting new possibilities in hematology and oncology. In short, this transaction and Royalty Pharma's partnership is a tremendous step forward in our mission to deliver innovative therapies for patients with cancer.
+With that, I will turn it back to Jean-Paul for some closing remarks. Jean-Paul?
+
+--------------------------------------------------------------------------------
+Jean-Paul Kress,  MorphoSys AG - Chairman of Management Board, MD & CEO    [5]
+--------------------------------------------------------------------------------
+Thanks, Malte. Slide 19 provides key takeaways from our call today. In summary, we couldn't be more excited about these landmark transactions, which will accelerate our growth strategy with high potential Phase III lead candidates, bolster our position in hematology/oncology and expand into solid tumors and complement our cutting-edge research and development organization. Further, our strategic funding partnership with Royalty Pharma will fuel our future growth. Together, we are well positioned to advance our mission to improve the lives of patients and drive long-term shareholder value.
+I will now open the call to questions. Operator, please.
+
+
+================================================================================
+Questions and Answers
+--------------------------------------------------------------------------------
+Operator    [1]
+--------------------------------------------------------------------------------
+(Operator Instructions) And the first question is from Geoffrey Porges, SVB Leerink.
+
+--------------------------------------------------------------------------------
+Geoffrey Craig Porges,  SVB Leerink LLC, Research Division - Director of Therapeutics Research & Diversified Biopharma and Senior Research Analyst    [2]
+--------------------------------------------------------------------------------
+Congratulations on really interesting pair of transactions to create the future for the company. So first, I guess, the big picture here is that you are reducing your exposure to a validated technology, monoclonal antibodies, and increasing your exposure to one that has, frankly, so far been disappointing in epigenetic modifiers.
+So Jean-Paul and Malte, I'd love to, first of all, hear what gives you the confidence that the time is ripe, and there's enough validation for epigenetic modifiers to make this trade. And then just quickly, Sung, as we think about -- I know you can't give guidance now. But as we think about modeling the future, should we be thinking about your future R&D being 1 plus 1 equals 2 in terms of MorphoSys plus Constellation? Or should we think it could be more than 2 or less than 2 just in broad strokes?
+
+--------------------------------------------------------------------------------
+Jean-Paul Kress,  MorphoSys AG - Chairman of Management Board, MD & CEO    [3]
+--------------------------------------------------------------------------------
+Thanks, Geoff. I will answer together with Malte your first question, and Sung will take the second one. So we're really, really excited by the opportunity to accelerate our growth with 2 mid- to late-stage candidates. We've been talking for some time about the need to -- and the willingness to develop our pipeline internally or externally. And we think that this acquisition is really bolt-on for that and will bolster our position in hem/onc but also expand into solid tumors, and we've been looking a lot out there.
+And really, for the reasons we explained a bit earlier in the call, we've been growing, super excited on those assets. Yes. I mean, the science is growing on this class. It's kind of hedged our exposure in antibodies or biologics, as you said. We believe that what we've seen is extremely compelling on the assets, especially 610, which is advanced, and we're very optimistic. So -- and Malte will probably add on that.
+
+--------------------------------------------------------------------------------
+Malte Peters,  MorphoSys AG - Chief Research & Development Officer and Member of the Management Board    [4]
+--------------------------------------------------------------------------------
+Yes. Thanks, Jean-Paul. I think starting with the myelofibrosis data, Geoff, I think it's quite rare that you see this magnitude of a treatment effect in a Phase II study. I think comparing the data what's out there from the earlier data, ruxolitinib data, it's doubling the clinical efficacy in patients.
+There is a high unmet need, and I was just reading again the transcripts of the ASH investigator and investor meeting the company held just a couple of months ago. And I think there is a true desire in the fields to have better therapies, which are easy to handle for hematologists with a low and manageable side effect profile. And we believe that this molecule 610 will provide that to patients and to physicians.
+On the EZH2, we've shown the data in the slide deck. I think the company Constellation has really made a quantum leap to develop a second-generation molecule that is nowhere near to the approved molecule that you probably know and that could really result in a paradigm shift for this compound and for this target. So I think looking at the 2 assets, I see a high probability of regulatory success for both molecules. And that's why we were all excited to potentially add our -- to add these 2 assets to our portfolio.
+And with respect to the antibody question you asked, I think expanding our knowledge from the antibody or protein science field into the small molecule field is really exciting. So I see a lot of room for synergy assessment, combination assessments between these 2 different technologies. And I think it's going to be good for MorphoSys for the future. And Sung, I turn over to you for the finance part.
+
+--------------------------------------------------------------------------------
+Sung H. Lee,  MorphoSys AG - CFO & Member of Management Board    [5]
+--------------------------------------------------------------------------------
+Yes. And Geoff, I think you asked about guidance and then more specifically how should you think about R&D expenses of a combined company. So we understand the acquisition will add complexity to your financial models. And our aim is to provide guidance for both companies at the earliest opportunity after the close of the transaction. But there are some clear priorities here with the combined company. 
+Constellation has a late-stage asset in pelabresib and a mid-stage asset in CPI-0209. We have tafasitamab, which is in late-stage studies, pivotal studies in first-line DLBCL as well as follicular lymphoma. And there's actually probably broader potential in terms of other combination studies we could do with tafasitamab. And then behind that, we have felzartamab.
+So I would say with a combined company, it's really those 4 programs that we will be intensely focused on. So obviously, this requires capital. So a lot of the investment will be made across those 4 programs. And then you'll have the necessary investments in research as well. So I hope that gives you sort of an idea how we're thinking about this as a combined company.
+
+--------------------------------------------------------------------------------
+Geoffrey Craig Porges,  SVB Leerink LLC, Research Division - Director of Therapeutics Research & Diversified Biopharma and Senior Research Analyst    [6]
+--------------------------------------------------------------------------------
+Great. And I appreciate the answers and congratulations again.
+
+--------------------------------------------------------------------------------
+Sung H. Lee,  MorphoSys AG - CFO & Member of Management Board    [7]
+--------------------------------------------------------------------------------
+Thank you.
+
+--------------------------------------------------------------------------------
+Operator    [8]
+--------------------------------------------------------------------------------
+The next question is from Graig Suvannavejh, Goldman Sachs.
+
+--------------------------------------------------------------------------------
+Graig Suvannavejh,  Goldman Sachs Group, Inc., Research Division - Executive Director & Senior Equity Research Analyst    [9]
+--------------------------------------------------------------------------------
+Congratulations on the transaction. Relative, I think, to what many of us were thinking this is a much larger transaction that perhaps what might have been contemplated. And so I was wondering if you could give us a sense of when thinking about the different BD opportunities that you were thinking about and the decision to acquire a company and integrating that versus perhaps adding on some bolt-on smaller assets, how did you weigh the decision to buy a company versus perhaps adding a portfolio of pipeline candidates. So any color there would be great.
+And then with this deal, should we now think that from a BD perspective that MorphoSys is in essence kind of done for the time being and it will take some time for the company to integrate Constellation before we should really be thinking about other additional transactions?
+
+--------------------------------------------------------------------------------
+Jean-Paul Kress,  MorphoSys AG - Chairman of Management Board, MD & CEO    [10]
+--------------------------------------------------------------------------------
+Thank you, Graig. And we've been saying we've been looking for some time obviously and we had a pretty open mind. But really, when we -- we've been following Constellation for a while now, and we've been always admiring their progress, their drive for science, their great edge in small molecules and epigenetics that aren't really at the forefront of the pack here, and we grew very big on them, and our discussions decisions only increase that. So I think with this transaction, we really have the possibility to go to the next page, accelerate our growth in a very logical way with our existing TA, in hem/onc and possibility to go for solid tumors.
+And I have to say that we looked at a lot of things, and there were not many things which could remotely come close to that. So we also looked at parallel streams approaches, licensing, nothing comes really cheap neither. So -- you sometimes end up with much earlier stage things. So we think here with, again, late-stage and mid-stage asset, Phase III and Phase II, we are extremely positioned to generate value creation in the future.
+So then to your next question on the BD effort in the future. For sure, now, we are -- today is about the announcement of a transformational acquisition for us. We'll need to digest it, organize things and super exciting, lots of work. So we'll probably pause and stop thinking about future because there's a lot in our plate. But we will continue to grow and other opportunities will present themselves in the future as well.
+
+--------------------------------------------------------------------------------
+Graig Suvannavejh,  Goldman Sachs Group, Inc., Research Division - Executive Director & Senior Equity Research Analyst    [11]
+--------------------------------------------------------------------------------
+Okay. If I could just ask one more follow-up. In terms of the Constellation portfolio, what should we be thinking about next important readouts for their programs for us to get a better sense of the overall profiles of the 2 most advanced assets?
+
+--------------------------------------------------------------------------------
+Jean-Paul Kress,  MorphoSys AG - Chairman of Management Board, MD & CEO    [12]
+--------------------------------------------------------------------------------
+Sure. Malte will answer your question.
+
+--------------------------------------------------------------------------------
+Malte Peters,  MorphoSys AG - Chief Research & Development Officer and Member of the Management Board    [13]
+--------------------------------------------------------------------------------
+Yes. So I would say it's a bit early for us to really give a good answer here. I would say give us a little time to get our hands wet into the details of the clinical trials, and we will provide some updates as soon as we are comfortable doing that. Just generally speaking, I think I'm really excited that the Phase III myelofibrosis trial has taken off now, and I'm looking forward to monitor the progress we're making here and then assess the possibility to share data with the public as quickly as possible.
+And then I think the other thing that stand out here is the opening of the Phase II part of the EZH2 inhibitor trial, which is conducted in a well-designed manner in mutated patients, which, in our eyes, has a high probability of success here. So I think that's another area where we are excited to see progress and see how fast we can move the trial along. And then at the appropriate time, we give an update on what you can expect as next milestones.
+
+--------------------------------------------------------------------------------
+Graig Suvannavejh,  Goldman Sachs Group, Inc., Research Division - Executive Director & Senior Equity Research Analyst    [14]
+--------------------------------------------------------------------------------
+Congratulations on the transaction.
+
+--------------------------------------------------------------------------------
+Jean-Paul Kress,  MorphoSys AG - Chairman of Management Board, MD & CEO    [15]
+--------------------------------------------------------------------------------
+Thank you.
+
+--------------------------------------------------------------------------------
+Operator    [16]
+--------------------------------------------------------------------------------
+The next question is from James Gordon, JPMorgan.
+
+--------------------------------------------------------------------------------
+James Daniel Gordon,  JPMorgan Chase & Co, Research Division - Senior Analyst    [17]
+--------------------------------------------------------------------------------
+This is James Gordon, JPMorgan. The first question was just about how much of the value of what you're paying is for the BET asset versus the EZH2 inhibitor and sort of your confidence in the 2 of them. Would it be fair that the vast majority of the values is the former as in the BET asset?
+And the follow-up question was just on the EZH2 inhibitor. So I think the lead program is prostate cancer. But based on where you sort of have products already, is it fair to assume you're really going to refocus on blood cancer? Or is actually prostate cancer and solid tumor is going to be more of a focus for the company? And anything we get on the EZH2 at ASCO this weekend?
+
+--------------------------------------------------------------------------------
+Jean-Paul Kress,  MorphoSys AG - Chairman of Management Board, MD & CEO    [18]
+--------------------------------------------------------------------------------
+So James, thanks for the questions. First, I'll comment on the BET. The BET is obviously in a later stage. It's -- the company has started a Phase III study. So there is naturally more value associated to that. But we don't discount at all the EZH2. We really want to unfold the potential of the second compound and advance it as fast as possible. So I guess, things will normalize a bit more in the future, but a lot of value is obviously on the BET right now.
+In terms of hem versus solid for the EZH2 0209, the company has started a study in solid tumor and hem, and we will continue exploring those 2. But again, today, as Malte mentioned today, is the announcement. We will look at that with more details in the near future and come back to you with -- in the next couple of months with more details on the development plans and everything. And Malte, do you want to add something on the upcoming conferences?
+
+--------------------------------------------------------------------------------
+Malte Peters,  MorphoSys AG - Chief Research & Development Officer and Member of the Management Board    [19]
+--------------------------------------------------------------------------------
+Yes. So I think the company, Constellation, has data presentations at the EHA and ASCO conferences. And I think that's a good moment for everybody to check in on what the data will look like. And I'm sure that in the next couple of months, we will have a good opportunity to dive deeper into the clinical trial, clinical operation situation and then give an update to the public on where we stand.
+With respect to your EZH2 question, the trial that Constellation has designed is actually very good. It's -- it has started in a sort of unselected Phase I part and is now moving into a more selected mutation-specific patient population with 4 cohorts in bladder cancer, ovarian cancer and endometrial cancer and lymphoma. So I think that's a great design. And we would have actually done it exactly the same way. And we are now looking forward to see the first readout of this study and then assess the potential in solid tumors and in hematological tumors for that compound. So stay tuned for more updates in the future.
+
+--------------------------------------------------------------------------------
+Operator    [20]
+--------------------------------------------------------------------------------
+The next question is from James Quigley, Morgan Stanley.
+
+--------------------------------------------------------------------------------
+James Patrick Quigley,  Morgan Stanley, Research Division - Equity Analyst    [21]
+--------------------------------------------------------------------------------
+A couple from me. So when I look into the epigenetic landscape, obviously, GSK had EZH2 and they had an LSD1 and they dropped them both. Roche also had a BET inhibitor and has dropped that. So from your due diligence, I mean, is there anything -- or what gave you confidence that Constellation Pharma has sort of cracked the epigenetic code, so to speak, and then their assets, particularly beyond the BET could show some value? And then could you give us a sense of the intellectual property on the -- on both assets, please?
+
+--------------------------------------------------------------------------------
+Jean-Paul Kress,  MorphoSys AG - Chairman of Management Board, MD & CEO    [22]
+--------------------------------------------------------------------------------
+Sure. Jim, thank you. Malte will handle the first question and let's see with the IP.
+
+--------------------------------------------------------------------------------
+Malte Peters,  MorphoSys AG - Chief Research & Development Officer and Member of the Management Board    [23]
+--------------------------------------------------------------------------------
+Yes. So on the competition side, I think you're right with your statement. On the other hand, I mean, just looking at the BET inhibitor field, I think there's actually quite a lot of activities. Many companies are working in that field, BMS, AbbVie, AstraZeneca, Daiichi Sankyo, just to name a few. And for EZH2, it's not too different, yes. So there are other big pharma and small pharma companies who are working in the field.
+I think if you look at the data that we showed here in our presentation, you can appreciate that there is actually quite a high degree of difference between these compounds. So we do believe that Constellation may have cracked a nut here of bringing this to an entirely different level. Just looking at the data clearly speaks to that. And that's why we are confident that we have really something in front of us that could make a difference. So that's my answer.
+And I would say not every compound in development in other companies works, for various reasons. I think the competition is actually quite active in both areas. And the data we've seen make us confident that we have actually highly competitive molecules in our pipeline now.
+
+--------------------------------------------------------------------------------
+Operator    [24]
+--------------------------------------------------------------------------------
+The next question is from Rajan Sharma, Deutsche Bank.
+
+--------------------------------------------------------------------------------
+Rajan Sharma,  Deutsche Bank AG, Research Division - Analyst    [25]
+--------------------------------------------------------------------------------
+First one just on the commercialization and thinking specifically about the BET inhibitor. And what level of overlap you see from a commercialization perspective with the current portfolio so with Monjuvi? That was the first question.
+And then secondly, just on the R&D piece. So you mentioned that there's an intense focus on the 4 key assets that you outlined. So I was just wondering, does that mean there's been some level of consolidation of the earlier stage pipeline, which we may not necessarily have visibility on, but has there been kind of some kind of prioritization there?
+
+--------------------------------------------------------------------------------
+Jean-Paul Kress,  MorphoSys AG - Chairman of Management Board, MD & CEO    [26]
+--------------------------------------------------------------------------------
+Thanks for the question. Regarding the commercialization, and actually, it's the same for late-stage development, we've been very diligent and disciplined in looking at opportunities where we can leverage our skills and capacities -- capabilities. And definitely for Constellation, but more precisely for 0610 now or pelabresib, we have a large overlap of targets between the indication of 0610 but also of Monjuvi.
+The hematologists in the U.S. treating those 2 diseases that are targeted by those products are often the same. So we have synergies here definitely with the current commercial organization. But we have time to fine tune and redeploy as needed in the future. But definitely, we are seeing a lot of the physicians who treat MF currently with Monjuvi. And for the second question, I will pass on to Malte.
+
+--------------------------------------------------------------------------------
+Malte Peters,  MorphoSys AG - Chief Research & Development Officer and Member of the Management Board    [27]
+--------------------------------------------------------------------------------
+Yes. Your second question, if I heard it correctly, was on the consolidation of the earlier portfolio. I think today, it's way too early to comment on this. We need some time to really understand what the early portfolio looks like. And then as in all acquisitions, we are now one company. We are going to be -- we are going to look at prioritization exercise across the portfolio of both companies, and we will invest our assets into the most promising activities. So that's, I think, the normal way of doing this.
+But I think today, we are not in a position to really comment on any guidance here because we haven't really had time to see what's out there and to make an informed decision. So give us some time. We do a diligent job, and we will give some more color in the future.
+
+--------------------------------------------------------------------------------
+Operator    [28]
+--------------------------------------------------------------------------------
+(Operator Instructions) And the next question is from Etzer Darout, Guggenheim Securities.
+
+--------------------------------------------------------------------------------
+Etzer Darout,  Guggenheim Securities, LLC, Research Division - Senior Analyst    [29]
+--------------------------------------------------------------------------------
+Great. Just wondered if you could just provide a little bit of context in terms of the percent of patients that are currently treated with ruxo. And so -- and then maybe a little bit about sort of the next milestone for pelabresib. It looks like -- is it fair to say maybe second half 2022 read out of the Phase III, I'm not really sure what Constellation has provided. And then just secondly, on sort of -- just wondered if anything has changed in terms of expectations or outlook for gantenerumab or otilimab ahead of sort of the transaction with Royalty Pharma?
+
+--------------------------------------------------------------------------------
+Jean-Paul Kress,  MorphoSys AG - Chairman of Management Board, MD & CEO    [30]
+--------------------------------------------------------------------------------
+Thanks, Etzer. Regarding your first question on the patients treated by ruxo, there are about, as Malte said earlier in his presentation, 30,000 to 35,000 patients prevalent with myelofibrosis who are classified as intermediate or high risk. Of that group, roughly half currently receives ruxo and many of whom experienced actually suboptimal responses with a relatively short treatment duration. So there is an unmet need, as we indicated, and there is an appetite for adding to ruxo or substituting. So this is what we are going to work on.
+Regarding the outlook for the gante and oti, no, nothing has really changed from what we know. But remember that those assets, we don't know much more than what the public knows, and the companies developing these products, Roche and GSK, don't really share confidential information with us. So we don't know things that could have influenced our decision to out to basically sell royalties or stuff like that. It's more a strategic decision to accelerate our growth with proprietary compounds versus keeping our royalty business. Basically, we unloaded that those to generate more growth, more added value in the future as we should.
+
+--------------------------------------------------------------------------------
+Etzer Darout,  Guggenheim Securities, LLC, Research Division - Senior Analyst    [31]
+--------------------------------------------------------------------------------
+Right. And anything from Constellation on when potential readout in terms of time lines? Have they provided any guidance there?
+
+--------------------------------------------------------------------------------
+Jean-Paul Kress,  MorphoSys AG - Chairman of Management Board, MD & CEO    [32]
+--------------------------------------------------------------------------------
+Malte, do you want to handle the question?
+
+--------------------------------------------------------------------------------
+Malte Peters,  MorphoSys AG - Chief Research & Development Officer and Member of the Management Board    [33]
+--------------------------------------------------------------------------------
+Yes. So we -- I think today, we don't want to add anything beyond what has been shared by Constellation. I think we would love to dive into the data, into the situation and take some time to assess and then maybe get back to the public and share our view. But at this point, I would just stick to what's out there, and then give us some time to assess the situation.
+I'm just confident that the trial will take off well. I think the fact that the COVID situation is alleviating in the U.S. is clearly helping here. So I see a lot of desire of physicians to put patients on the Phase III study. So I see that as a very good sign.
+
+--------------------------------------------------------------------------------
+Operator    [34]
+--------------------------------------------------------------------------------
+The next question is from Rosie Turner, Barclays.
+
+--------------------------------------------------------------------------------
+Rosie Turner,  Barclays Bank PLC, Research Division - Research Analyst    [35]
+--------------------------------------------------------------------------------
+Just one left from me. Just wondering in terms of the relationship we've now got with Royalty Pharma, is that going to be a kind of active relationship going forward? Are they going to kind of, I guess, be involved in kind of future trial, have opinions there? I think they've kind of pointed out in their presentation that one of their kind of new pillars is facilitating mid-cap M&A and taking a kind of more active role. And so yes, I'm just wondering, are they going to be kind of an active part? Or is it passive in terms of when they're going to take their equity stake?
+
+--------------------------------------------------------------------------------
+Jean-Paul Kress,  MorphoSys AG - Chairman of Management Board, MD & CEO    [36]
+--------------------------------------------------------------------------------
+Thanks for the question. The discussions with Royalty Pharma have been incredibly productive. And also because of what you mentioned, there was a clear appetite from their side to strengthen the strategic arm of helping biotech companies like us to generate innovation. So we share the same vision, the same goal. They help finance the innovation, and that's what we mentioned by being active from their side is the fact that they will be closely with us following our progress, hopefully continuing to help us in the future and maybe why not beyond our current agreement.
+So we have a real partner on several legs here as described in the agreement, in the current agreement. I mean the milestone the royalty stuff, the loan, the equity, this is what we call the strategic partnership and financing collaboration beyond what is traditionally done. So we've been very creative. They have been super creative and helpful. Now will they have a seat at the table for discussing the trials? No, not really, but we will be glad to continue to entertain progress with them just for the sake of being partners here.
+
+--------------------------------------------------------------------------------
+Operator    [37]
+--------------------------------------------------------------------------------
+And we have a follow-up from James Quigley with Morgan Stanley.
+
+--------------------------------------------------------------------------------
+James Patrick Quigley,  Morgan Stanley, Research Division - Equity Analyst    [38]
+--------------------------------------------------------------------------------
+Just following up on the intellectual property and when the patents go out for the key assets for Constellation Pharma. And then also for the BET inhibitor, again, I mean, are there any other indications you could think about sort of spreading into -- apologies if I missed that earlier, but myelofibrosis is the only one listed, but are there any other cancers there or any other indications where you could potentially target as well?
+
+--------------------------------------------------------------------------------
+Jean-Paul Kress,  MorphoSys AG - Chairman of Management Board, MD & CEO    [39]
+--------------------------------------------------------------------------------
+Yes. Jim, thanks for reminding us about the IP question. Sorry, we skipped it. I'm actually not sure we have it handy here. If anyone in the team has it, please say something. Sung or -- yes.
+
+--------------------------------------------------------------------------------
+Sung H. Lee,  MorphoSys AG - CFO & Member of Management Board    [40]
+--------------------------------------------------------------------------------
+James, we're going to follow up with you on the IP for the late-stage and mid-stage assets. So we'll follow-up with you.
+
+--------------------------------------------------------------------------------
+Jean-Paul Kress,  MorphoSys AG - Chairman of Management Board, MD & CEO    [41]
+--------------------------------------------------------------------------------
+Great. And for the BET question, the next indications, we actually have been looking at possibilities. We don't want to get ahead of ourselves, but Malte can give you a bit of color here. But give us a bit some time. Today is about the announcement. So Malte, maybe.
+
+--------------------------------------------------------------------------------
+Malte Peters,  MorphoSys AG - Chief Research & Development Officer and Member of the Management Board    [42]
+--------------------------------------------------------------------------------
+Yes. So I mean, just very high level, there's clear evidence and data suggesting that BET inhibition could act synergistically with other molecules in the solid tumor field. I'm just thinking of PARP inhibitors, for example, and other molecules, also chemotherapy regimens come to mind. So I think we are quite excited and interested in figuring out where this could lead us, and this could potentially also involve some of the larger indications in the solid tumor space. So I would leave it as this. But I think beyond myelofibrosis, which is clearly our key focus right now, in our mind, there's an upside potential really to move into solid tumor indications in the future.
+
+--------------------------------------------------------------------------------
+Operator    [43]
+--------------------------------------------------------------------------------
+And there are currently no further questions. I hand back to the speakers for closing remarks.
+
+--------------------------------------------------------------------------------
+Jean-Paul Kress,  MorphoSys AG - Chairman of Management Board, MD & CEO    [44]
+--------------------------------------------------------------------------------
+Yes. Thank you very much, operator. So again, thanks for attending the call today on short notice. I hope you were able to sense our high level of excitement for this truly transformative deals in witness for us at MorphoSys. We really believe we will unlock the value potential of Constellation's portfolio of exciting innovative therapies, generate great value creation for MorphoSys and obviously ultimately serving the patients even better. So thank you very much. Julia, if you want to close the call?
+
+--------------------------------------------------------------------------------
+Julia Neugebauer,  MorphoSys AG - Director of Corporate Communications & IR    [45]
+--------------------------------------------------------------------------------
+Ladies and gentlemen, this concludes today's conference call. If any of you would like to follow up, the Investor Relations team of MorphoSys is available for the remainder of today. Once again, thank you for joining our call. Have a good day, and goodbye.
+
+
+
+
+
+
+
+--------------------------------------------------------------------------------
+Definitions
+--------------------------------------------------------------------------------
+PRELIMINARY TRANSCRIPT: "Preliminary Transcript" indicates that the 
+Transcript has been published in near real-time by an experienced 
+professional transcriber.  While the Preliminary Transcript is highly 
+accurate, it has not been edited to ensure the entire transcription 
+represents a verbatim report of the call.
+
+EDITED TRANSCRIPT: "Edited Transcript" indicates that a team of professional 
+editors have listened to the event a second time to confirm that the 
+content of the call has been transcribed accurately and in full.
+
+--------------------------------------------------------------------------------
+Disclaimer
+--------------------------------------------------------------------------------
+Refinitiv reserves the right to make changes to documents, content, or other 
+information on this web site without obligation to notify any person of 
+such changes.
+
+In the conference calls upon which Event Transcripts are based, companies 
+may make projections or other forward-looking statements regarding a variety 
+of items. Such forward-looking statements are based upon current 
+expectations and involve risks and uncertainties. Actual results may differ 
+materially from those stated in any forward-looking statement based on a 
+number of important factors and risks, which are more specifically 
+identified in the companies' most recent SEC filings. Although the companies 
+may indicate and believe that the assumptions underlying the forward-looking 
+statements are reasonable, any of the assumptions could prove inaccurate or 
+incorrect and, therefore, there can be no assurance that the results 
+contemplated in the forward-looking statements will be realized.
+
+THE INFORMATION CONTAINED IN EVENT TRANSCRIPTS IS A TEXTUAL REPRESENTATION
+OF THE APPLICABLE COMPANY'S CONFERENCE CALL AND WHILE EFFORTS ARE MADE TO
+PROVIDE AN ACCURATE TRANSCRIPTION, THERE MAY BE MATERIAL ERRORS, OMISSIONS,
+OR INACCURACIES IN THE REPORTING OF THE SUBSTANCE OF THE CONFERENCE CALLS.
+IN NO WAY DOES REFINITIV OR THE APPLICABLE COMPANY ASSUME ANY RESPONSIBILITY FOR ANY INVESTMENT OR OTHER
+DECISIONS MADE BASED UPON THE INFORMATION PROVIDED ON THIS WEB SITE OR IN
+ANY EVENT TRANSCRIPT. USERS ARE ADVISED TO REVIEW THE APPLICABLE COMPANY'S
+CONFERENCE CALL ITSELF AND THE APPLICABLE COMPANY'S SEC FILINGS BEFORE
+MAKING ANY INVESTMENT OR OTHER DECISIONS.
+--------------------------------------------------------------------------------
+Copyright 2021 Refinitiv. All Rights Reserved.
+--------------------------------------------------------------------------------

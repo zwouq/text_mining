@@ -1,0 +1,518 @@
+
+
+Refinitiv StreetEvents Event Transcript
+E D I T E D   V E R S I O N
+
+Veracyte Inc To Acquire Decipher Biosciences Call
+FEBRUARY 03, 2021 / 1:00PM GMT
+
+================================================================================
+Corporate Participants
+================================================================================
+
+ * Keith S. Kennedy
+   Veracyte, Inc. - CFO & COO
+ * Bonnie H. Anderson
+   Veracyte, Inc. - Co-Founder, Chairman & CEO
+ * Tracy Morris
+   Veracyte, Inc. - VP of Corporate Communications & IR
+
+================================================================================
+Conference Call Participiants
+================================================================================
+
+ * Tejas Rajeev Savant
+   Morgan Stanley, Research Division - Equity Analyst
+ * Tina S. Nova Bennett
+   Decipher Biosciences, Inc. - President, CEO & Director
+ * Puneet Souda
+   SVB Leerink LLC, Research Division - MD of Life Science Tools & Diagnostics and Senior Research Analyst
+ * Paul Richard Knight
+   KeyBanc Capital Markets Inc., Research Division - MD & Senior Analyst
+ * Alexander Yearley Draper
+   Truist Securities, Inc., Research Division - MD of Equity Research
+ * Thomas Flaten
+   Lake Street Capital Markets, LLC, Research Division - Senior Research Analyst
+ * Brian David Weinstein
+   William Blair & Company L.L.C., Research Division - Partner, Group Head of Life Sciences & Healthcare Analyst
+
+================================================================================
+Presentation
+--------------------------------------------------------------------------------
+Operator    [1]
+--------------------------------------------------------------------------------
+
+          Good morning, ladies and gentlemen, and welcome to Veracyte's conference call regarding its agreement to acquire Decipher Biosciences. As a reminder, today's conference call is being recorded. I'd now like to hand the conference over to Tracy Morris, Veracyte's Vice President of Corporate Communications and Investor Relations. You may begin.
+
+--------------------------------------------------------------------------------
+Tracy Morris,  Veracyte, Inc. - VP of Corporate Communications & IR    [2]
+--------------------------------------------------------------------------------
+
+          Thank you, Ashley. Good morning, everyone, and thanks for joining us today for a discussion of our agreement to acquire Decipher Biosciences, which we announced earlier this morning. We expect to close the acquisition by May 2021, subject to regulatory approval and the satisfaction of other customary conditions. In conjunction with today's announcement, Veracyte announced our preliminary financial results for the fourth quarter and full year ended December 31, 2020. This information may be found on our website. With me today are Bonnie Anderson, Veracyte's Chairman and Chief Executive Officer; Keith Kennedy, our Chief Operating Officer and Chief Financial Officer; and Dr. Tina Nova, Decipher Bioscience's President and Chief Executive Officer. 
+Before we begin, I'd like to remind you that various statements that we may make during this call will include forward-looking statements as defined under the applicable securities laws. Forward-looking statements include those regarding our pending acquisition of Decipher, the expected timing and completion of the merger and our ability to realize the expected benefits of the merger; statements regarding our preliminary financial and operating results as well as our future plans, prospects and strategy, financial goals and guidance, product attributes and pipeline, drivers of growth, expectations regarding reimbursement and other statements that are not historical facts. It also includes statements regarding the potential impacts to our business resulting from the COVID-19 pandemic and the potential timing for a recovery of our business.
+Management's assumptions, expectations and opinions reflected in these forward-looking statements are subject to risks and uncertainties that may cause actual results and/or performance to differ materially from any future results, performance or achievements discussed in or implied by such forward-looking statements. And the company can give no assurance that they will prove to be correct and will not provide any further guidance or updates on our performance during the quarter unless we do so in a public forum. 
+Please refer to our February 3, 2021, press release and the risk factors, including -- sorry, February 3, 2021, press releases and the risk factors included in the company's filings the Securities and Exchange Commission for a discussion of important factors that may cause actual events or results to differ materially from those contained in our forward-looking statements. In addition to today's announcements, which are available on our website at veracyte.com under Press Releases in the Investor Relations section, we published a presentation regarding the Decipher Biosciences acquisition, which we will reference during our remarks. This presentation is also available on our website under Events and Presentations in the Investor Relations section. 
+I will now turn the call over to Bonnie Anderson, Veracyte's Chairman and CEO.
+
+--------------------------------------------------------------------------------
+Bonnie H. Anderson,  Veracyte, Inc. - Co-Founder, Chairman & CEO    [3]
+--------------------------------------------------------------------------------
+
+          Thanks, Tracy. Welcome, everyone, and thanks for joining us this morning. I am thrilled to discuss our agreement to acquire Decipher Biosciences, which will uniquely advance our vision of improving outcomes for patients all over the world at every step of their journey. I'll reference the presentation that Tracy referred to, and as you can see on Slide 4, today, we offer tests and informed diagnosis and treatment decisions along the care continuum in 4 major cancers and other diseases with a near-term market opportunity of approximately $10 billion. 
+And on slide, as you can see Slide 5, in addition to offering our tests for our centralized CLIA lab in South San Francisco, California, through our best-in-class nCounter platform, we are positioned to potentially reach patients globally with a broad menu of advanced genomic diagnostic tests. 
+As Slide 6 shows, the powerful combination of Veracyte and Decipher Biosciences, which we announced today, will create a comprehensive portfolio of novel genomic tests that expand our reach across 7 of the top 10 cancers and positions us to drive market, menu and global expansion while also accelerating our near-term revenue growth. 
+As we turn to Slide 7, I'm delighted to introduce Dr. Tina Nova, President and CEO of Decipher Biosciences, to tell you firsthand about the amazing company she and her team have built. Tina?
+
+--------------------------------------------------------------------------------
+Tina S. Nova Bennett,  Decipher Biosciences, Inc. - President, CEO & Director    [4]
+--------------------------------------------------------------------------------
+
+          Thanks, Bonnie. We at Decipher Biosciences are thrilled to join forces with Veracyte to become part of a global brand that is transforming patient care across the clinical continuum in cancer and other diseases. We believe Veracyte provides a compelling opportunity to accelerate commercial expansion of our current and pipeline tests. 
+First, a little about us. We are a commercial-stage precision oncology company focused on the $2 billion urologic cancer market. We have about 100 full-time employees and we're based in San Diego, California, where we have a state-of-the-art CLIA- and CAP-certified lab. Our lead indication is prostate cancer, where we've created a unique portfolio of tests that span the patient care continuum of localized disease. We've experienced strong growth in the last couple of years with 2020 revenue of approximately $39 million to $40 million, an increase of more than 130% over 2019, all while achieving cash flow positive status in 2020. 
+Turning to Slide 8. Decipher Biosciences has made significant progress in commercial traction over the last few years. As you can see, our vision has been to develop and offer our proprietary genomic tests across the entire prostate cancer care continuum, culminating in 9 Medicare approvals for our commercialized tests. We have developed tests in localized disease using either a sample from a prostate biopsy or from the entire prostate following surgical removal to predict the patient's risk of progressing to metastatic disease. This is the most important clinical dilemma for physicians who are treating these patients. We have an industry-leading pipeline of very promising products, which moves us into more advanced disease and to other urologic cancers, including our bladder test, which we plan to launch later this year, and into kidney cancer in the future.
+All of these tests represent a $2 billion total available market. Decipher has the strongest clinical validity of any prostate test on the market as evidenced by our NCCN support. For example, our postsurgery test is the only NCCN-recommended a test on the market today. Our test has been included in over 220 scientific publications and the Decipher test is an integral biomarker in 7 prospective, randomized, controlled global clinical trials. 
+As you can see on Slide 9, prior to the utilization of genomics, clinicians relied solely on clinical parameters, such as PSA level, prostate-specific antigen, and pathology to determine the appropriate treatment per patient. But those factors were only accurate, on average, 60% of the time, which led to overtreatment of some and undertreatment of others. Decipher's test results dramatically improve the physician's ability to personalize therapy for each patient and to make the appropriate treatment decision, better patient care with improved outcomes. 
+So how does the Decipher test improve patient care? We know that clinicians have many options to choose from in regard to treatment. Decipher has shown that if you overtreat a patient who should not have been treated, for example, with radiation and hormones, the patient survival can be even worse than if you had not treated the patient at all. So how do you know who to treat? 
+The Decipher biopsy test informs the physician to either decide to not treat the patient initially but rather to weigh and monitor the patient over time, or tells them they need to intensify treatment right away to decrease the patient's probability of becoming metastatic. The same following surgery. Here, the Decipher test guides the physician to either take a more proactive approach and intensify treatment through the use of radiation, plus or minus hormones, or alternatively, to identify patients who can forgo further treatment. 
+Looking at Slide 10, what further separates us from the competition is our unique and proprietary database, which we've branded GRID. It is comprised of whole transcriptome profiles from over 90,000 patient tumors. We believe that this is the largest urologic database in the world. This database fuels both our pharmaceutical partnerships and aids in new biomarker discovery for future product development. The research database contains over 300 proprietary signatures that are run on each patient's tumor data, analyzed and stored as part of our daily commercial operations. This provides valuable information for our pharma partners. In addition, we have matched banked samples as part of our database initiative, and over 15,000 of these patient profiles have extensive follow-ups, clinical characterization and outcomes. 
+With that, I'll now turn the call back to Bonnie.
+
+--------------------------------------------------------------------------------
+Bonnie H. Anderson,  Veracyte, Inc. - Co-Founder, Chairman & CEO    [5]
+--------------------------------------------------------------------------------
+
+          Thank you, Tina. I'm sure everyone can see why we're so excited about the Veracyte and Decipher combination. To provide further color, I'll direct you to Slide 11. The addition of Decipher's tests in prostate, bladder and kidney cancers to our tests in lung, breast and thyroid cancers along with lymphoma means that our comprehensive test menu will address 7 of the top 10 cancers by incidence in the United States. Our combined tests will enable us to potentially reach 60% more patients in the U.S. alone, increasing our near-term total addressable market by over $2 billion. We are not aware of any other company in the genomic testing space with such breadth and depth of coverage in cancer. 
+And looking at Slide 12, even more significantly, we believe that the combination will further solidify our global leadership in differentiated genomics-driven cancer diagnostics with a comprehensive testing menu and our exclusive access to the nCounter analysis system and a total addressable market of more than $50 billion. This best-in-class diagnostic instrument enables us to deliver our advanced genomic tests to physicians and patients in global markets where hospitals and laboratories can perform them locally, which is key to ensuring their adoption and reimbursement. 
+As we've mentioned before, the combination of our centralized CLIA lab in South San Francisco and the nCounter system for decentralized testing gives us increased flexibility for delivering our tests to patients in the U.S. and globally. We plan to maintain Decipher Biosciences' state-of-the-art facilities and its talented team in San Diego for further increased operational flexibility. 
+Next, let's look at Slide 13 to further understand why this acquisition is such a strong strategic fit for Veracyte and will accelerate our growth pathway. Like Veracyte, Decipher is focused on answering the key questions doctors have so that they can best treat patients across the continuum in specific diseases. Notably, in prostate cancer, Decipher began with a test that's further downstream to guide patients' therapy following surgery. As they've launched tests for earlier stages of disease, they've increasingly become a one-stop-shop for doctors treating prostate cancer patients. And by establishing relationships and trust with physicians with 1 clinically valuable test, they have been able to facilitate adoption of subsequent tests in the same clinical arena. 
+Decipher also puts a premium on rigorous science. Their whole-transcriptome approach to test development has enabled them to build large, comprehensive biorepositories that are fueling biopharmaceutical partnerships with companies like Janssen, Dendreon and Astellas and are serving as their engine for further product innovation. This is an approach that has served Veracyte very well, and we are thrilled to join forces with such a like-minded team. 
+Finally, in addition to accelerating our near-term revenue and genomic volume growth, we believe Decipher's market-leading genomic tests in urologic cancers will give us a powerful menu for driving global growth on the nCounter instrument. We are excited, once the transaction closes, to dig in and determine the best pathway forward towards capturing a global total addressable market of approximately $50 billion. 
+And now to speak about the transaction terms and other financial details, I'll turn the call over to Keith.
+
+--------------------------------------------------------------------------------
+Keith S. Kennedy,  Veracyte, Inc. - CFO & COO    [6]
+--------------------------------------------------------------------------------
+
+          Thank you, Bonnie. As illustrated on Slide 14, Veracyte will pay $600 million in total consideration to Decipher securityholders, consisting of $250 million in cash and up to $350 million in stock consideration subject to customary purchase price adjustments. The number of Veracyte shares issued at the closing will be based on a fixed price of $54.30 per share, resulting in a maximum issuance of 6.4 million common shares. However, without changing the total consideration paid at closing, Veracyte has the option, at its sole discretion until the earlier of March 15, 2021, and the fourth business day following the closing of any potential equity financing, to substitute cash in lieu of shares in any amount up to the entire stock consideration of $350 million. 
+The transaction, which has been unanimously approved by Veracyte's Board of Directors and by an independent special committee appointed by the Decipher Biosciences Board of Directors, is expected to close by May 2021, subject to regulatory approval and the satisfaction of other customary conditions. At December 31, 2020, we had approximately $345 million to $350 million in cash on hand. 
+Turning to Slide 15. We expect the acquisition to accelerate our revenue growth and pathway to profitability. Despite the impact of COVID-19, based on Decipher's preliminary 2020 revenue of $39 million to $40 million, the company generated over 130% top line growth compared to the prior year period. As evidenced by the annualized results shown on the right-hand side of this slide, we believe there is significant momentum in the combined business. Based on preliminary results, Decipher reported positive operating cash flow for 2020. In addition, we also expect the acquisition to be gross margin accretive. 
+I will now turn the call back over to Bonnie.
+
+--------------------------------------------------------------------------------
+Bonnie H. Anderson,  Veracyte, Inc. - Co-Founder, Chairman & CEO    [7]
+--------------------------------------------------------------------------------
+
+          Thank you, Keith. And finally, I'm delighted that Decipher's world-class team will be joining us. This includes Dr. Tina Nova, the company's President and CEO, who will continue to run the business as a General Manager of Veracyte's Urologic Cancer business unit once the transaction closes. Tina is already very knowledgeable about Veracyte, having served as a distinguished member of our Board of Directors up until the signing of this transaction.
+To summarize, we believe the transaction will further solidify our global leadership in the genomic cancer diagnostics market while accelerating revenue growth. Moreover, it marries 2 highly aligned businesses with world-class teams and products in our efforts to improve outcomes for as many patients as possible in the United States and around the world. That, we believe, is a good deal for patients, physicians, payers and for our respective employees and shareholders. 
+I will now ask Ashley to open up the call for questions.
+
+
+================================================================================
+Questions and Answers
+--------------------------------------------------------------------------------
+Operator    [1]
+--------------------------------------------------------------------------------
+
+          (Operator Instructions) And your first question comes from Puneet Souda with SVB Leerink.
+
+--------------------------------------------------------------------------------
+Puneet Souda,  SVB Leerink LLC, Research Division - MD of Life Science Tools & Diagnostics and Senior Research Analyst    [2]
+--------------------------------------------------------------------------------
+
+          Great, Bonnie, and congratulations. And congrats, Tina. So this is great to see excellent TAM expansion and menu coming to Veracyte. So my first question is 130% growth that you're seeing in 2021, could you maybe elaborate and give us a view into what sort of -- what could that mean in terms of coming out of COVID in terms of volume growth and revenue growth given the strong growth that you've seen over -- between 2019 and 2021 in both prostate and RP?
+
+--------------------------------------------------------------------------------
+Keith S. Kennedy,  Veracyte, Inc. - CFO & COO    [3]
+--------------------------------------------------------------------------------
+
+          Thanks, Puneet. Appreciate that. As we said on the call, despite COVID-19, Decipher's estimated revenue grew in excess 130%. We expect the acquisition to accelerate our revenue growth and the pathway to profitability. We also believe the company's products are less than 15% penetrated by test volume in the urological target markets that they address. So we're really excited about the momentum this means for us on a combined basis. That's all I can say in terms of the forecast.
+
+--------------------------------------------------------------------------------
+Operator    [4]
+--------------------------------------------------------------------------------
+
+          Your next question comes from Brian Weinstein with William Blair.
+
+--------------------------------------------------------------------------------
+Brian David Weinstein,  William Blair & Company L.L.C., Research Division - Partner, Group Head of Life Sciences & Healthcare Analyst    [5]
+--------------------------------------------------------------------------------
+
+          A couple of them, I'll just kind of ask upfront. So appreciate the answer to the last one. Can you be a little bit more specific on what drove the 130%? I know that, Tina, you were looking at doing some pretty significant sales force expansion in 2020. Was it sales force expansion? Was it a single product that was driving that? Can you just talk about what the drivers were that really drove that outsized growth last year? 
+And then a question on the data generation and the biorepository here. Can you talk about just a little bit more about the success that you've had there? And is there anything, Bonnie, in the Veracyte biorepository here, when you combine these things, which could be helpful, recognizing, of course, these are different patient types? But when you combine these biorepositories, is there anything that you'll be able to glean from one another?
+
+--------------------------------------------------------------------------------
+Bonnie H. Anderson,  Veracyte, Inc. - Co-Founder, Chairman & CEO    [6]
+--------------------------------------------------------------------------------
+
+          So Tina, why don't you address the question around what drove the growth? I think there were multiple levers that drove that success last year.
+
+--------------------------------------------------------------------------------
+Tina S. Nova Bennett,  Decipher Biosciences, Inc. - President, CEO & Director    [7]
+--------------------------------------------------------------------------------
+
+          Yes. I mean we were very, very fortunate to have the growth that we did, considering COVID and everything that happened in 2020. So yes, part of it was expanding the sales force. No question about that. And we have an incredible sales organization. The other thing is the LCDs that we acquired. So in the beginning of 2020, we acquired 2 LCDs in the intermediate range for prostate cancer. 
+And then near the end of 2020, which really didn't affect our overall growth for the year because they were so late in the year, but we gained the high and very high lymph-node-positive LCDs as well and expanded our current LCDs for coverage. We also were able to acquire more managed care contracts last year. And we also, with the NCCN recommendations that we received last year, it certainly put us in a great position to have that overall growth that we did.
+
+--------------------------------------------------------------------------------
+Bonnie H. Anderson,  Veracyte, Inc. - Co-Founder, Chairman & CEO    [8]
+--------------------------------------------------------------------------------
+
+          Thanks, Tina. As we've always said, volume and evidence, it drives coverage decisions, drives reimbursement. And Decipher has certainly played that out well. I'd like to comment on the GRID and the data, the biorepositories and then certainly, Tina can add any color she wants. But as you know, we have been focused, in our own business, of expanding the results and information that we provide, not only to answer the questions around the diagnostic dilemmas and decision-making on surgery and treatment but to be able to use the vast amount of data we collect in our whole-transcriptome sequencing assay to inform further untargeted treatment therapies by identifying broad base of variance that are interesting and novel and need-to-know. 
+We're super excited about what Decipher has done with their GRID product. That might be a branding opportunity because it's very, very similar to us, where you're able to build out a biorepository of extensive cancer cases, collect follow-up data, pathology data, other clinical data, demographic data and then build a database that has more data than anyone knows today what they'll do with but, over time, you know there will be value created. And some of the partnerships that they have gleaned in biopharma out of this work will overlap with us. And we think together, we could advance a whole new area of defining what diagnostic test results can do. 
+Tina, anything specific you want to add around GRID?
+
+--------------------------------------------------------------------------------
+Tina S. Nova Bennett,  Decipher Biosciences, Inc. - President, CEO & Director    [9]
+--------------------------------------------------------------------------------
+
+          I just think that -- you've hit on all the major points. But I think the fact that both companies do whole-transcriptome analysis of every patient sample they receive really puts us in a position to explore that database together at a level that I think is very differentiating from any other competitors.
+
+--------------------------------------------------------------------------------
+Bonnie H. Anderson,  Veracyte, Inc. - Co-Founder, Chairman & CEO    [10]
+--------------------------------------------------------------------------------
+
+          I agree. Thank you for the question.
+
+--------------------------------------------------------------------------------
+Operator    [11]
+--------------------------------------------------------------------------------
+
+          Your next question comes from Tejas Savant with Morgan Stanley.
+
+--------------------------------------------------------------------------------
+Tejas Rajeev Savant,  Morgan Stanley, Research Division - Equity Analyst    [12]
+--------------------------------------------------------------------------------
+
+          Congrats on the deal. Bonnie and Tina, a couple of questions for you here. One on prostate and one on bladder. So on prostate, Tina, can you just help us think through how does your -- the biopsy test compare to something like Genomic Health's GPS? And are there any important points of differentiation to understand? And second, this LCD expansion that you mentioned at year-end, how much of an ASP tailwind do you expect from that in 2021? 
+And then on the bladder side, I know you mentioned it's predominantly self-pay, but there is a draft LCD that you expect to be finalized. Maybe can you just elaborate on that a little bit in terms of whether that's sort of a first half of this year event? Or do you expect that to be in the back half of the year?
+
+--------------------------------------------------------------------------------
+Tina S. Nova Bennett,  Decipher Biosciences, Inc. - President, CEO & Director    [13]
+--------------------------------------------------------------------------------
+
+          Yes. Thank you for the question. Yes, we expect the bladder test. Of course, it's all dependent on Medicare, but looking at the past and how long it takes to get things approved and what have you. Yes, we already have the draft LCD. And so we do expect that mid-2021. 
+And on the prostate side, sorry.
+
+--------------------------------------------------------------------------------
+Bonnie H. Anderson,  Veracyte, Inc. - Co-Founder, Chairman & CEO    [14]
+--------------------------------------------------------------------------------
+
+          The competitive positioning.
+
+--------------------------------------------------------------------------------
+Tina S. Nova Bennett,  Decipher Biosciences, Inc. - President, CEO & Director    [15]
+--------------------------------------------------------------------------------
+
+          So with -- our competitors, of course, are extremely good companies that have very high-quality tests as well. So we're just very different than the competitors in the fact that, one, as compared to one of our competitors, we have more LCDs approved than one of our competitors. And so we cover the whole localized prostate cancer care continuum. In addition, we do have the highest-rated, as I mentioned, NCCN for our radical prostatectomy test, which has a recommended, and there is no other prostate cancer test that has a recommended. So I think that puts us in a different position than our competitors. 
+And the other thing is that just the endpoints that they have developed their test to as compared to the endpoint that we developed our test to, we've taken different approaches. And the Decipher test was developed to determine the risk of metastatic disease. That is our endpoint. And so therefore, with different endpoints, the physician can use these differently. But this seems to be something, from our discussions, that physicians really care about. And it's difficult with some of these intermediate patients to decide exactly what to do with them. It's a very confusing data actually because prostate cancer is such a heterogeneous disease. So having genomic information to tell you which your patient has high or low risk of getting metastatic disease is really something that they find extremely useful.
+
+--------------------------------------------------------------------------------
+Operator    [16]
+--------------------------------------------------------------------------------
+
+          Your next question comes from Thomas Flaten with Lake Street Capital.
+
+--------------------------------------------------------------------------------
+Thomas Flaten,  Lake Street Capital Markets, LLC, Research Division - Senior Research Analyst    [17]
+--------------------------------------------------------------------------------
+
+          Bonnie, I know you said you were going to dig in and kind of lay out a plan, but I was wondering if you would just provide some color around your thoughts around transitioning maybe some of Decipher's products onto the nCounter platform and how we might think about that, at least from a tempo perspective. Is this 3, 4 years out? Or is it sooner than that? You think you might have some strategic direction to help us with?
+
+--------------------------------------------------------------------------------
+Bonnie H. Anderson,  Veracyte, Inc. - Co-Founder, Chairman & CEO    [18]
+--------------------------------------------------------------------------------
+
+          Yes. Well, we're certainly super excited that their tests are all developed on whole transcriptome. We know that these RNA tests transfer relatively easy from both array and the sequencing over to the nCounter platform. We've done significant work there ourselves. And obviously, our vision is to build a global enterprise that can touch as many patients around the world. We know in order to do that, we need to build out menu. The menu is the value driver to drive installed base of nCounters. And then once you proliferate that installed base, the menu gets pulled through. 
+So it becomes much more of a razor-razorblade approach than sending samples back to a single lab in the U.S. So it's a key part of our strategy. I certainly don't have any dates yet on when this might happen, but you can imagine after this deal closes, we'll be collaborating across our teams to see how we can accelerate this important dynamic for the company to really drive and remain leaders in the global markets. Thanks for the question.
+
+--------------------------------------------------------------------------------
+Thomas Flaten,  Lake Street Capital Markets, LLC, Research Division - Senior Research Analyst    [19]
+--------------------------------------------------------------------------------
+
+          Absolutely. And then, Keith, just one quick one for you. Is there anything you can comment on the middle of the P&L, what kind of impact we might see from a R&D and SG&A perspective?
+
+--------------------------------------------------------------------------------
+Keith S. Kennedy,  Veracyte, Inc. - CFO & COO    [20]
+--------------------------------------------------------------------------------
+
+          They -- Decipher operates in the same target ranges that we operate. And recently, as you can see from their S-1 that's on file, their R&D cost, SG&A is in line with where we expect to be, and they've generated positive cash flow for the first 9 months of the year and margins of around 69%.
+
+--------------------------------------------------------------------------------
+Operator    [21]
+--------------------------------------------------------------------------------
+
+          Your next question comes from Sandy Draper with Truist Securities.
+
+--------------------------------------------------------------------------------
+Alexander Yearley Draper,  Truist Securities, Inc., Research Division - MD of Equity Research    [22]
+--------------------------------------------------------------------------------
+
+          And definitely echo my congratulations on the transaction. Maybe just 2 questions. First, in terms of the commercial payers, not as familiar. In terms of the balance between the number of patients here that are going to be on -- be covered by Medicare versus commercial, do you have that number? And then you had the checks for commercial, but a sense of like how broad are you, at 20%, 50%, 90% coverage for commercial, that would be helpful. 
+And then the follow-up probably for -- on the operational synergies. You said you're going to keep the lab. But just trying to think about sales force, other synergies. Clearly, you're focused on the top line, but are there operational synergies besides? And you've addressed the nCounter opportunity. Would just love any thoughts on that.
+
+--------------------------------------------------------------------------------
+Bonnie H. Anderson,  Veracyte, Inc. - Co-Founder, Chairman & CEO    [23]
+--------------------------------------------------------------------------------
+
+          Yes. I'll answer the latter question and then pop it to Tina to elaborate a little bit more on the reimbursement. We are thrilled to combine Decipher with us. It's not driven by synergies. We'll be looking for opportunities to invest in accelerating and driving the growth. Not only will we keep the entire facility in San Diego up, the lab, state-of-the-art lab, has a lot of expansion space. That could be beneficial to us. 
+As you know, we're launching 4 new products this year as well. So I think together, the companies are going to be looking for the best places to grow and accelerate the pathway to achieve our goals. So Salesforce, we are excited that there's been recent expansion in the sales force to help drive 2020 revenue growth. And that's what we'll be looking for out of this deal, growth, margin expansion and long-term access to global markets. 
+Tina, do you want to speak a little bit to the Medicare and the timing? It always takes obviously time to get the commercial payers all onboard. I think Decipher's on that journey with prostate, having just gained recent Medicare expansion LCDs, it will take some time for us to get those. But Veracyte has a lot of contracts out there across the payer world, and it could be an opportunity to bring products together under common contracts, and we'll be exploring that. I guess I may have answered most of that. Tina, do you want to add anything to that?
+
+--------------------------------------------------------------------------------
+Tina S. Nova Bennett,  Decipher Biosciences, Inc. - President, CEO & Director    [24]
+--------------------------------------------------------------------------------
+
+          Yes. No, no. It's fine. Yes, I just want to reiterate that our mix has continued to be at 50%, Medicare and Medicare Advantage together comprising 50%, and 50% commercial. We have been working very hard on continuing to add managed care contracts. And we have right now about a north of about 100 million covered lives in our commercial side.
+
+--------------------------------------------------------------------------------
+Operator    [25]
+--------------------------------------------------------------------------------
+
+          Your next question comes from Paul Knight with KeyBanc.
+
+--------------------------------------------------------------------------------
+Paul Richard Knight,  KeyBanc Capital Markets Inc., Research Division - MD & Senior Analyst    [26]
+--------------------------------------------------------------------------------
+
+          Bonnie, congratulations on the deal. The number of salespeople now, what was the number of salespeople planned at the company? 
+P id="100591271" name="Bonnie Anderson" type="E" />
+I think that Decipher have -- you mean the broad companies. Decipher has, I think, about 25. Tina, can you confirm?
+
+--------------------------------------------------------------------------------
+Tina S. Nova Bennett,  Decipher Biosciences, Inc. - President, CEO & Director    [27]
+--------------------------------------------------------------------------------
+
+          That is correct, 25.
+
+--------------------------------------------------------------------------------
+Bonnie H. Anderson,  Veracyte, Inc. - Co-Founder, Chairman & CEO    [28]
+--------------------------------------------------------------------------------
+
+          And we'll be looking at that as we move through the year. Veracyte is around just over 100 this year. As we move through the year and think about the launch of our portfolio of tests, we may grow that a bit so that we're all teed up by the end of the year and have people trained to accelerate the growth we're looking for in 2022, which we think will be significant. So very nice position to achieve that growth.
+
+--------------------------------------------------------------------------------
+Paul Richard Knight,  KeyBanc Capital Markets Inc., Research Division - MD & Senior Analyst    [29]
+--------------------------------------------------------------------------------
+
+          And then you had gone over what 50% for commercial pay on your tests and then the remaining is Medicare?
+
+--------------------------------------------------------------------------------
+Bonnie H. Anderson,  Veracyte, Inc. - Co-Founder, Chairman & CEO    [30]
+--------------------------------------------------------------------------------
+
+          Yes. That's what Tina just said, about a 50-50 mix on the prostate products.
+
+--------------------------------------------------------------------------------
+Paul Richard Knight,  KeyBanc Capital Markets Inc., Research Division - MD & Senior Analyst    [31]
+--------------------------------------------------------------------------------
+
+          Okay. And typical pricing on product?
+
+--------------------------------------------------------------------------------
+Bonnie H. Anderson,  Veracyte, Inc. - Co-Founder, Chairman & CEO    [32]
+--------------------------------------------------------------------------------
+
+          I believe the Medicare rate, Tina, is what, around $4,000?
+
+--------------------------------------------------------------------------------
+Tina S. Nova Bennett,  Decipher Biosciences, Inc. - President, CEO & Director    [33]
+--------------------------------------------------------------------------------
+
+          Yes, to be exact, $3,873.
+
+--------------------------------------------------------------------------------
+Bonnie H. Anderson,  Veracyte, Inc. - Co-Founder, Chairman & CEO    [34]
+--------------------------------------------------------------------------------
+
+          Very good. What a nice round number.
+
+--------------------------------------------------------------------------------
+Tina S. Nova Bennett,  Decipher Biosciences, Inc. - President, CEO & Director    [35]
+--------------------------------------------------------------------------------
+
+          Sorry. I know it well, yes.
+
+--------------------------------------------------------------------------------
+Keith S. Kennedy,  Veracyte, Inc. - CFO & COO    [36]
+--------------------------------------------------------------------------------
+
+          Their average revenue for 2022 is about $2,400 to $2,500 on a blended basis. You just take revenue and divide volume.
+
+--------------------------------------------------------------------------------
+Bonnie H. Anderson,  Veracyte, Inc. - Co-Founder, Chairman & CEO    [37]
+--------------------------------------------------------------------------------
+
+          Perfect.
+
+--------------------------------------------------------------------------------
+Paul Richard Knight,  KeyBanc Capital Markets Inc., Research Division - MD & Senior Analyst    [38]
+--------------------------------------------------------------------------------
+
+          What was that number, Keith?
+
+--------------------------------------------------------------------------------
+Keith S. Kennedy,  Veracyte, Inc. - CFO & COO    [39]
+--------------------------------------------------------------------------------
+
+          It's between $2,400 and $2,500 per test when you blend all test volume, so revenue over volume.
+
+--------------------------------------------------------------------------------
+Paul Richard Knight,  KeyBanc Capital Markets Inc., Research Division - MD & Senior Analyst    [40]
+--------------------------------------------------------------------------------
+
+          Okay. And then lastly, what CMS decisions are you looking to in 2021?
+
+--------------------------------------------------------------------------------
+Bonnie H. Anderson,  Veracyte, Inc. - Co-Founder, Chairman & CEO    [41]
+--------------------------------------------------------------------------------
+
+          I think bladder is the key test that's teed up for a final decision. As Tina said earlier, we have a draft LCD on the bladder cancer test. And what I like about Decipher is they follow very much the Veracyte playbook, and that is we don't expand and drive commercial growth of test revenue until there is a coverage decision. So we'll look forward to getting that to a final stage sometime this year and being ready to commercialize and ramp the launch of bladder cancer as well. Same call point, which is phenomenal, and as well as kidney when that advances in the pipeline.
+
+--------------------------------------------------------------------------------
+Paul Richard Knight,  KeyBanc Capital Markets Inc., Research Division - MD & Senior Analyst    [42]
+--------------------------------------------------------------------------------
+
+          And that's on top of the 7 finals already at the company, right, Bonnie?
+
+--------------------------------------------------------------------------------
+Bonnie H. Anderson,  Veracyte, Inc. - Co-Founder, Chairman & CEO    [43]
+--------------------------------------------------------------------------------
+
+          Yes. That's correct. And we have a nice slide in the deck that lays out the coverage, the evidence map and the coverage decisions for each of those indications, and you can take a look at that in the deck that's on our website.
+
+--------------------------------------------------------------------------------
+Operator    [44]
+--------------------------------------------------------------------------------
+
+          (Operator Instructions) And your next question comes from Puneet Souda with SVB Leerink.
+
+--------------------------------------------------------------------------------
+Puneet Souda,  SVB Leerink LLC, Research Division - MD of Life Science Tools & Diagnostics and Senior Research Analyst    [45]
+--------------------------------------------------------------------------------
+
+          Yes, so on -- I wanted to get a better sense from you and Tina on the urologist call point given the maturity of the market so far and then obviously the competition in the market and what you have done so far with the LCDs, number of LCDs and indication expansion. Maybe could you provide how does the strategy change under Veracyte in order to drive that -- essentially that leadership position in urology, just given the competition that you have in the market. 
+And if you could maybe just help us also, Tina, if you could help us understand sort of recurring sales in the urologist, what makes them switch to different products? Just help us understand how the urologists are thinking about the prostate products.
+
+--------------------------------------------------------------------------------
+Bonnie H. Anderson,  Veracyte, Inc. - Co-Founder, Chairman & CEO    [46]
+--------------------------------------------------------------------------------
+
+          So I'll speak to the structure and then Tina can answer the details around why we're so well-positioned to capture more and more of the testing in every urology office. But as you all recall, we announced a new Veracyte structure. Back in December, we announced that we brought on a new General Manager and then verticalized all of our businesses under general management structure so that we can bring the clinical focus, the training, the expertise and the line of focus to our end customers in each of our segment. 
+We have a General Manager, John Hanna, who now leads our endocrinology and global breast cancer franchise, will also run the lymphoma business when that test launches. We have Morten Frost, who joined us in January from Agilent, tremendous leader who is now leading our entire pulmonology franchise. Again, common call point there across all of our lung cancer products as well as IPF, both launching IPF in the international markets on nCounter toward the end of this year. And we'll launch the 2 exciting products in lung cancer, our nasal swab test for earlier detection and Percepta Atlas, our version of GRID. 
+And so having Tina stay on, just a veteran, world-class, experienced leader to continue to run the urologic cancer business was just a key part of our excitement around bringing this business into Veracyte. So Tina will run the operation and continue to lead the business, drive the growth in the field. And it will be run in a vertical way, a little more of autonomy and all the functions reporting into Tina, at least through the first year, and then we'll assess. But the cool thing is Veracyte doesn't have to make any decisions now on integrating the people and functions into our business. 
+We've got the leadership structure in place to continue to drive growth. And Tina will be such an asset on our leadership team. We're thrilled with -- that both she and her other key senior leaders have all agreed to be part of this new team, and we're hoping every employee in the company comes over with a smile on their face. 
+Tina, do you want to speak to the reason why these urologists...
+
+--------------------------------------------------------------------------------
+Tina S. Nova Bennett,  Decipher Biosciences, Inc. - President, CEO & Director    [47]
+--------------------------------------------------------------------------------
+
+          Right. So in the beginning, when we had the earlier-stage test approved, in other words, it's in the biopsy low, for example, we were really selling to urologists 100%. And then as we gained more LCDs across the spectrum and especially the ones at the end of the year, we've now start also selling to radiation oncologists because they become a very important part of the decision, especially after the removal of the prostate, after a radical prostatectomy, on whether to treat the patients or not. And they become involved with the radiation plus-or-minus hormone step. So we've not only expanded our offering, but we also expanded our customer base by having more LCDs. And 2021 will be the first year that we've had all of the tests from the very beginning of the year that we can offer as a package. 
+I think the other thing is that docs really like it to be as easy as possible working with a company. I think the fact that we have all of the localized prostate cancer now makes it much easier. You just send the sample to us. And no matter what stage it is, that makes a big difference. It makes it a lot easier. And also, I think that physicians decide who to use based on the strength of the clinical evidence. And I think that is where we really make a difference. 
+So for example, last year, we presented an abstract at leading meetings where we showed that Decipher predicts overall survival. And that publication will be out shortly. And it was a prospective randomized trial. And in addition to that, just recently, we had a systematic review which was a review of all of our data. They looked at 42 studies, they looked at over 30,000 patients, and they showed that Decipher, every time, beat the standard of care that's currently used. And so I think between those -- that clinical evidence, that has really made a difference in the usage and keeps the physicians using our test.
+
+--------------------------------------------------------------------------------
+Bonnie H. Anderson,  Veracyte, Inc. - Co-Founder, Chairman & CEO    [48]
+--------------------------------------------------------------------------------
+
+          Thank you, Tina.
+
+--------------------------------------------------------------------------------
+Puneet Souda,  SVB Leerink LLC, Research Division - MD of Life Science Tools & Diagnostics and Senior Research Analyst    [49]
+--------------------------------------------------------------------------------
+
+          That's very helpful. And last one, if I could squeeze in, for Keith. Great to see the volume in the quarter. I just wanted to get a sense on Percepta because obviously that's an important question in terms of volume growth that you were seeing. I know pandemic has gated some of this. So maybe just give us anything you can provide on the quarterly numbers that you printed and the volume there?
+
+--------------------------------------------------------------------------------
+Keith S. Kennedy,  Veracyte, Inc. - CFO & COO    [50]
+--------------------------------------------------------------------------------
+
+          Thanks, Puneet. We're consistent with the prior quarter. We're seeing Afirma continue to do very, very well on the rebound. And as pulmonologists are spending time with COVID patients, that has lagged behind what we originally thought at the beginning of the year pre-COVID. But overall, results have been really strong. And our product business has done very, very well.
+
+--------------------------------------------------------------------------------
+Operator    [51]
+--------------------------------------------------------------------------------
+
+          Your next question comes from Sandy Draper with Truist Securities.
+
+--------------------------------------------------------------------------------
+Alexander Yearley Draper,  Truist Securities, Inc., Research Division - MD of Equity Research    [52]
+--------------------------------------------------------------------------------
+
+          Would love to hear, Tina -- I can certainly understand, Bonnie, your enthusiasm and the opportunity here. Would love to hear, Tina, your thought process. You're obviously -- you had an S-1 on file, potential to raise capital that way. When you looked at that avenue versus pairing up with somebody, the thought process. And then why specifically Veracyte? Would just love your perspective on that.
+
+--------------------------------------------------------------------------------
+Tina S. Nova Bennett,  Decipher Biosciences, Inc. - President, CEO & Director    [53]
+--------------------------------------------------------------------------------
+
+          Thank you for the question. I mean there are several reasons. And one is our cultures are very much alike in the way we approach the market and the way we manage our businesses. I think the other thing that's really important for us is scale. It gives us an opportunity to scale at a whole different level, much quicker than we would have been able to do on our own because we're just not at the same place obviously that Veracyte is.
+I'm very excited about the nCounter and our tests potentially being part of that. And that really opens up an international market for us in a very short period of time, which we would not have been able to access quickly. It would have taken us a lot of time and strategy for us to think about how to approach those markets, which, as you know, are very complex. And so I think those things really make a difference, scale and time and access.
+
+--------------------------------------------------------------------------------
+Operator    [54]
+--------------------------------------------------------------------------------
+
+          And as there are no further questions, I'll hand the call back for closing remarks.
+
+--------------------------------------------------------------------------------
+Bonnie H. Anderson,  Veracyte, Inc. - Co-Founder, Chairman & CEO    [55]
+--------------------------------------------------------------------------------
+
+          Thank you, everyone, for joining us. We're super thrilled to make this announcement today. We look forward to keeping you abreast of the business developments as we move through our Q4 earnings and into Q1, which seems to be coming quite fast. So stay safe and healthy. And thanks for joining us.
+
+--------------------------------------------------------------------------------
+Operator    [56]
+--------------------------------------------------------------------------------
+
+          Ladies and gentlemen, this concludes our call today. Thank you for joining us. You may now disconnect.
+
+
+
+
+
+
+
+--------------------------------------------------------------------------------
+Definitions
+--------------------------------------------------------------------------------
+PRELIMINARY TRANSCRIPT: "Preliminary Transcript" indicates that the 
+Transcript has been published in near real-time by an experienced 
+professional transcriber.  While the Preliminary Transcript is highly 
+accurate, it has not been edited to ensure the entire transcription 
+represents a verbatim report of the call.
+
+EDITED TRANSCRIPT: "Edited Transcript" indicates that a team of professional 
+editors have listened to the event a second time to confirm that the 
+content of the call has been transcribed accurately and in full.
+
+--------------------------------------------------------------------------------
+Disclaimer
+--------------------------------------------------------------------------------
+Refinitiv reserves the right to make changes to documents, content, or other 
+information on this web site without obligation to notify any person of 
+such changes.
+
+In the conference calls upon which Event Transcripts are based, companies 
+may make projections or other forward-looking statements regarding a variety 
+of items. Such forward-looking statements are based upon current 
+expectations and involve risks and uncertainties. Actual results may differ 
+materially from those stated in any forward-looking statement based on a 
+number of important factors and risks, which are more specifically 
+identified in the companies' most recent SEC filings. Although the companies 
+may indicate and believe that the assumptions underlying the forward-looking 
+statements are reasonable, any of the assumptions could prove inaccurate or 
+incorrect and, therefore, there can be no assurance that the results 
+contemplated in the forward-looking statements will be realized.
+
+THE INFORMATION CONTAINED IN EVENT TRANSCRIPTS IS A TEXTUAL REPRESENTATION
+OF THE APPLICABLE COMPANY'S CONFERENCE CALL AND WHILE EFFORTS ARE MADE TO
+PROVIDE AN ACCURATE TRANSCRIPTION, THERE MAY BE MATERIAL ERRORS, OMISSIONS,
+OR INACCURACIES IN THE REPORTING OF THE SUBSTANCE OF THE CONFERENCE CALLS.
+IN NO WAY DOES REFINITIV OR THE APPLICABLE COMPANY ASSUME ANY RESPONSIBILITY FOR ANY INVESTMENT OR OTHER
+DECISIONS MADE BASED UPON THE INFORMATION PROVIDED ON THIS WEB SITE OR IN
+ANY EVENT TRANSCRIPT. USERS ARE ADVISED TO REVIEW THE APPLICABLE COMPANY'S
+CONFERENCE CALL ITSELF AND THE APPLICABLE COMPANY'S SEC FILINGS BEFORE
+MAKING ANY INVESTMENT OR OTHER DECISIONS.
+--------------------------------------------------------------------------------
+Copyright 2023 Refinitiv. All Rights Reserved.
+--------------------------------------------------------------------------------

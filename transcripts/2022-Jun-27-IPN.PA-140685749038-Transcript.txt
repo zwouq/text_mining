@@ -1,0 +1,363 @@
+
+
+Refinitiv StreetEvents Event Transcript
+E D I T E D   V E R S I O N
+
+Ipsen SA to Acquire Epizyme Inc Call
+JUNE 27, 2022 / 12:00PM GMT
+
+================================================================================
+Corporate Participants
+================================================================================
+
+ * David Loew
+   Ipsen S.A. - MD, CEO & Director
+ * Howard Mayer
+   Ipsen S.A. - Executive VP and Head of Research & Development
+ * Aymeric Le Chatelier
+   Ipsen S.A. - Executive VP & Group CFO
+
+================================================================================
+Conference Call Participiants
+================================================================================
+
+ * Richard Vosser
+   JPMorgan Chase & Co, Research Division - Senior Analyst
+ * Matthew Weston
+   Crédit Suisse AG, Research Division - MD and Co-Head of European Pharmaceutical Equity Research
+ * Michael Leuchten
+   UBS Investment Bank, Research Division - Co-Head of Pharmaceuticals Research of Equity Research
+ * Keyur Parekh
+   Goldman Sachs Group, Inc., Research Division - Equity Analyst
+ * Simon P. Baker
+   Redburn (Europe) Limited, Research Division - Head of Pharmaceutical Research
+
+================================================================================
+Presentation
+--------------------------------------------------------------------------------
+Operator    [1]
+--------------------------------------------------------------------------------
+Hello, and welcome to Ipsen's conference call and webcast to the acquisition of Epizyme Inc. The call is being hosted by David Loew, Chief Executive of Ipsen. (Operator Instructions) 
+It is now my pleasure to turn today's call over to David Loew. Please go ahead.
+
+--------------------------------------------------------------------------------
+David Loew,  Ipsen S.A. - MD, CEO & Director    [2]
+--------------------------------------------------------------------------------
+Good afternoon or good morning, everyone. As you've just heard, I'm David Loew, Chief Executive Officer of Ipsen. I'm delighted that you have joined today as we take you through today's exciting news on the acquisition of Epizyme. 
+Please turn to Slide 2. This is our usual safe harbor statement, which outlines the routine risks and uncertainties contained within this presentation. 
+Please turn to Slide 3. I'm joined today by Howard Mayer, Ipsen's Head of Research and Development, as well as our CFO, Aymeric Le Chatelier. We'll provide a brief presentation before using the majority of the time to answer your questions. 
+Please turn to Slide 4. I will begin the presentation by taking you through the strategic rationale for the acquisition of Epizyme. I'll then hand over to Howard, who will explain the signs behind TAZVERIK. I will go through the commercial opportunities before Aymeric runs through the financials and then we'll turn to your questions.
+Please turn to Slide 5. So first, let me turn to the strategic rationale for today's news.  
+Please turn to Slide 6. Ipsen has entered into an exclusive agreement to acquire Epizyme, a fully integrated commercial stage biopharmaceutical company, developing and delivering transformative therapies for cancer patients against novel epigenetic targets. Through this agreement, we will expand our assets in oncology. Ipsen's capabilities and resources in oncology, combined with Epizyme, will accelerate the growth of TAZVERIK to achieve its full potential in follicular lymphoma patients. 
+TAZVERIK is a first-in-class chemotherapy-free EZH2 inhibitor approved by the FDA for adult patients with relapsed or refractory follicular lymphoma, whose tumors are positive for EZH2 mutation that's [affected] by an FDA-approved test and who have received at least 2 prior systemic therapies. And also importantly, adult patients with relapsed or refractory follicular lymphoma who have no satisfactory alternative treatment options. 
+Furthermore, it is also indicated for adult and pediatric patients aged 16 years and older with metastatic or locally advanced epithelioid sarcoma not eligible for complete resection. Furthermore, we're excited to bring on board epigenetic expertise and the SETD2 inhibitor as well as several preclinical compounds into our portfolio.  
+Please turn to Slide 7. The acquisition is a strong strategic fit for Ipsen. It builds on our commitment to oncology, expanding from solid tumors to hematology. It gives us global access to TAZVERIK, which is already approved in the U.S., generating sales and which has a patent life in the U.S. extending to 2032. Given our strong U.S. market presence and capabilities, we can leverage our infrastructure to boost sales and plan to expand also into other markets. TAZVERIK has additional life cycle potential in earlier lines and I will go into more detail later what this means for peak sales.
+Today's news is also perfectly in line with our priority of replenishing our pipeline with programs at both clinical and preclinical phases of development in oncology. The acquisition comes with Epizyme's first-in-class oral SETD2 inhibitor EZM0414, which was granted FDA Fast Track status and is currently under evaluation in multiple myeloma and diffuse large B-cell lymphoma. Furthermore, in line with our strategy to bolster our pipeline across all stages, it will also add preclinical candidates. We believe that TAZVERIK and the pipeline have good short-term and longer-term sales potential.
+Let me now hand over to Howard. Please turn to Slide 8.
+
+--------------------------------------------------------------------------------
+Howard Mayer,  Ipsen S.A. - Executive VP and Head of Research & Development    [3]
+--------------------------------------------------------------------------------
+Thanks, David, and hello, everyone. I'd like to spend a few minutes going through the science behind TAZVERIK as well as the new data recently presented at ASCO.  
+Please turn to Slide 9. I want to start by talking to you about follicular lymphoma, or FL, which is the main focus of the acquisition. It's the most common indolent form of non-Hodgkin's lymphoma and is composed of malignant cells derived from germinal-center B cells. Common symptoms of FL include enlargement of the lymph nodes or lymphadenopathy in the neck, underarms, abdomen or groin as well as fatigue, shortness of breath, night sweats and weight loss, the so-called B symptoms. And often patients with FL have no obvious symptoms of the disease at diagnosis, presenting for example, with asymptomatic lymphadenopathy.
+As FL comprises a significant proportion of non-Hodgkin's lymphoma cases accounting for about 35% of all non-Hodgkin's lymphoma, there are approximately 15,000 patients diagnosed with FL in the U.S. every year. The median age of diagnosis is about 65, and the majority of patients have advanced disease at diagnosis.
+FL is characterized by remission followed by relapse in most patients, and therefore, there continues to be an unmet medical need for these patients.
+Please turn to Slide 10. Turning to TAZVERIK, it is a selective oral inhibitor of both mutant and wild-type EZH2. EZH2 is a histone methyltransferase, which inhibits genes responsible for tumor suppression. TAZVERIK inhibits and reduces EZH2 activity, preventing the accumulation and proliferation of malignant germinal-center B cells. Importantly, given the central role of EZH2 in germinal-center formation, in addition to patients with mutant EZH2, wild-type patients are also inherently reliant on this protein.
+Please turn to Slide 11. TAZVERIK as monotherapy was demonstrated to be an efficacious and tolerable treatment option for adult patients in the relapsed/refractory setting with at least 2 prior lines of therapy. I'd like to take a moment to highlight the relevant clinical data in the Phase II trial investigating TAZVERIK as monotherapy in third line FL that was the basis of FDA granting accelerated approval.
+First, the efficacy results demonstrated an overall response rate of 69% in the EZH2 mutated population. While in wild-type patients, it was 34%. But importantly, there were broadly similar median durations of response and median progression-free survivals observed in both of these 2 subgroups. The safety profile was also encouraging. The total number of treatment-related grade 3 and above adverse events was below 5%, while the discontinuation rate due to treatment-emergent adverse events was only 8% and only 5% were treatment-related. Treatment-related serious adverse events were only 4%, and there were no treatment-related deaths.
+Please turn to Slide 12. At ASCO earlier this month, Epizyme presented updated safety and efficacy data from the Phase Ib run-in portion of Symphony-1, its Phase Ib/III confirmatory trial. This is evaluating TAZVERIK in combination with rituximab and lenalidomide or [R squared] versus placebo plus R squared in patients with relapsed/refractory second-line follicular lymphoma. It is scheduled to read out in 2026. The data were quite impressive with an overall response rate of 95% with wild-type patients achieving an overall response rate of 94% and mutated patients at 100% with a complete response rate of 50%.
+The overall response rate was also 100% for rituximab refractory patients and for patients with progression of disease in the first 24 months. Median duration of response and progression-free survival have not yet been reached. 
+The safety profile was also highly encouraging with TAZVERIK being generally well tolerated and adverse events being completely consistent with those contained in the prescribing information for both TAZVERIK and R squared . It's these data that add to our confidence in the ongoing Phase III portion of the trial.
+Please turn to Slide 13. There is an attractive clinical and preclinical pipeline included in the transaction. These are the 3 key TAZVERIK clinical trials. The first is SYMPHONY-1, the trial I mentioned a moment ago which is a registrational confirmatory trial in second-line FL. It's now in the Phase III stage of development.
+The LYSA trial in high-risk frontline FL and in diffuse large B-cell lymphoma in combination with R-CHOP is in Phase II development, while EZH-1501 is a basket trial with TAZVERIK in combination with multiple targeted therapies for relapsed/refractory hematologic malignancies. 
+Outside of TAZVERIK, the SETD2 inhibitor, EZM-0414, is in Phase I clinical development in relapsed/refractory multiple myeloma and diffuse large B-cell lymphoma. 
+And finally, Epizyme also has several preclinical programs focused on epigenetic targets.
+Thank you for listening. I'll now hand you back to David. Please turn to Slide 14.
+
+--------------------------------------------------------------------------------
+David Loew,  Ipsen S.A. - MD, CEO & Director    [4]
+--------------------------------------------------------------------------------
+Thank you, Howard. And I'm now going to outline the scale of the commercial opportunity for TAZVERIK. Please turn to Slide 15. I believe we have an opportunity to be more specific in the positioning of TAZVERIK in follicular lymphoma on 2 accounts. First, you have seen the strength of the data that supports TAZVERIK positioning, in fact, within the current registration in all comers, meaning in mutant and wild-type patients as an efficacious and highly tolerable treatment option for patients.
+Epizyme launched TAZVERIK in third-line follicular lymphoma during the pandemic and focused mostly on the mutated population. As we exit the pandemic, Ipsen now has the opportunity to address mutant and wild-type patients according to the label in follicular lymphoma. And it's worth noting the recent addition of monotherapy TAZVERIK to NCCN guidelines endorsement for the second-line treatment of follicular lymphoma in elderly or infirm patients.
+Second, while we have all seen the strong results of CAR-T therapies and the recent approvals of bispecific antibodies, we believe that they will have a stronger role in the fit and younger patient populations. We believe that the cytokine release syndrome, which bispecifics have shown will not make it very easy to be used in a community setting even with a subcutaneous version. 
+Therefore, TAZVERIK can have its ideal place in the more elderly unfit population given the strong efficacy and safety profile. As a reminder, the average age of diagnosis is 65 years. The unfit and elderly patients are mostly treated in the community setting. Here, we can leverage our commercial and medical affairs infield strength and capabilities to reach more patients.
+Over the short term, our focus will be on the current indications in the United States. We're looking also at the expansion to other markets and the additional indication in second line, which is a larger patient pool. Therefore, in the short-to-mid term period, we estimate between $150 million to $250 million of peak sales. Should TAZVERIK be approved in second-line follicular, peak sales could reach around $800 million. In this estimate, we recognize another recent regulatory approval in follicular lymphoma as well as other potential competition.
+I'll now hand over to Aymeric, who will summarize the financials. Please turn to Slide 16.
+
+--------------------------------------------------------------------------------
+Aymeric Le Chatelier,  Ipsen S.A. - Executive VP & Group CFO    [5]
+--------------------------------------------------------------------------------
+Thanks, David. I will now go through the financial terms and impact to Ipsen of the transaction.
+Please turn to Slide 17. The terms of the agreement include an offer to acquire all outstanding shares of Epizyme for $1.45 per share in cash at the closing for an estimated consideration of $247 million. We continue to build significant firepower for other external innovation transactions. The agreement has been structured to reduce the risk for Ipsen with the contingent value rights, or CVR, based on the success of TAZVERIK. The one contingent value right per share will entitle its holder to deferred cash payment of $0.30 per CVR payable upon the sales reaching $250 million by December 2026 and an additional $0.70 per CVR payable upon an FDA approval in second-line FL by the start of 2028.
+Subject to the satisfaction of all closing conditions, including the clearance of U.S. antitrust authority and the completion of the tender offer, we anticipate the closing of the transaction by the end of September.
+Please turn to Slide 18. As you imagine, we will fully finance the transaction through our existing cash and lines of credit. The transaction will provide immediate sales and based on the Q1 performance of TAZVERIK, which generates already a full year sales of more than $30 million, we will very shortly leverage our U.S. commercial infrastructure. The acquisition will also enhance our long-term performance through the potential approval of the TAZVERIK combination in second-line FL as well as through the potential of the rest of Epizyme's pipeline.
+Regarding the impact for Ipsen, there will be a moderate dilutive impact on core operating income until the end of 2024. And regarding 2022, given the expected timing, the transaction will have a limited impact on the core operating margin. As you can see, this agreement supports Ipsen's medium-term outlook to build a high value and sustainable pipeline through external innovation strategy.
+I will now hand you back to David. Please turn to Slide 19.
+
+--------------------------------------------------------------------------------
+David Loew,  Ipsen S.A. - MD, CEO & Director    [6]
+--------------------------------------------------------------------------------
+Thank you, Aymeric. I'd now like to conclude our presentation before we go to your questions. Please turn to Slide 20. This deal is a great strategic fit for Ipsen, strengthening as it does our portfolio in oncology and our early and clinical stage pipeline. Focusing on TAZVERIK, our commercial opportunities are significant across both the short and long term. We were impressed by its efficacy and safety profile and the recent Phase Ib response data.
+Finally, I look forward to updating you on our continuing journey with external innovation as a key platform for growth.
+Please turn to Slide 21. Thank you for listening to our presentation. We now have time for questions. Operator, over to you.
+
+
+================================================================================
+Questions and Answers
+--------------------------------------------------------------------------------
+Operator    [1]
+--------------------------------------------------------------------------------
+(Operator Instructions) We will take first question from Michael Leuchten with UBS.
+
+--------------------------------------------------------------------------------
+Michael Leuchten,  UBS Investment Bank, Research Division - Co-Head of Pharmaceuticals Research of Equity Research    [2]
+--------------------------------------------------------------------------------
+It's Michael Leuchten from UBS. Two questions, if I could, please. Just thinking about the infrastructure that you may need to put in place in the U.S. You've made it very clear, David, that one thing you were looking for is sort of access to oncology assets in the U.S. But is there an ability to leverage what you have already that you can then try to integrate the new resources infrastructure into? Or is this basically an infrastructure play as well that you will then look to leverage further down the line with potential additional assets?
+And then the second question, just going back to your commentary around where the bispecifics may or may not fit. Could you give us an idea what you think the percentage of the patient population is that is elderly and frail where things like CRS are just not acceptable, hence -- and hence, giving you a commercial opportunity with TAZVERIK in follicular lymphoma second line?
+
+--------------------------------------------------------------------------------
+David Loew,  Ipsen S.A. - MD, CEO & Director    [3]
+--------------------------------------------------------------------------------
+Yes. Thank you, Michael. Regarding your first question on the infrastructure in the U.S., yes, we will be able to leverage our current infrastructure. Certainly, we will add also Epizyme's infrastructure because they are already present now. And so we are going to combine to a certain degree our 2 field forces. Because, in fact, Epizyme given its size did not have enough resources yet and also was launching under COVID. So it was hard for them to access to the office-based hematologists. And they also focused more in the launch on the mutant patients. As I've said, we believe that this is an all-comer drug, yet more positions for elderly and frail patients. 
+And that leads me to your second question, which is we estimate that the elderly and frail are roughly 50% of the population. So of course, you need to then look at -- some of them are going to be treated in academic hospitals, some other ones are going to be treated in the office-based setting where we think the bispecifics are going to have a bit less pickup because of the cytokine release syndrome. And even if you look at the subcutaneous version, which has recently been published, there clearly still is grade 2 cytokine release syndrome (inaudible) mosunetuzumab. So that's the problem for the elderly and frail patients.
+
+--------------------------------------------------------------------------------
+Operator    [4]
+--------------------------------------------------------------------------------
+And we'll take our next question from Simon Baker with Redburn.
+
+--------------------------------------------------------------------------------
+Simon P. Baker,  Redburn (Europe) Limited, Research Division - Head of Pharmaceutical Research    [5]
+--------------------------------------------------------------------------------
+Two, if I may, please. Firstly, a financial question. You talked about moderate dilutive impact on core operating income until the end of 2024. I wonder if you could give us a little more quantification of what moderate means there? And then secondly, both EZH2 and SETD2 are expressed in solid tumors. So I just wondered if you could give us the scope beyond the hematologic setting for both these drugs. I noticed that TAZVERIK is already in CELLO-1 study for prostate cancer. But if you could just give us an idea of the scope in solid tumors for both these assets. That would be very helpful.
+
+--------------------------------------------------------------------------------
+David Loew,  Ipsen S.A. - MD, CEO & Director    [6]
+--------------------------------------------------------------------------------
+Simon, I'll have Aymeric answer your first question and then Howard answer the second question.
+
+--------------------------------------------------------------------------------
+Aymeric Le Chatelier,  Ipsen S.A. - Executive VP & Group CFO    [7]
+--------------------------------------------------------------------------------
+Yes. So regarding the dilution, as you've noted, we expect dilution especially in 2022, so this year, and 2023 given the level of R&D spend, but also that there will be a progressive (inaudible) on sales. There will be also a progressive impact of the expected synergy. I think that we expect less dilution going into 2024 and then the deal to be accretive starting from 2025. 
+I think regarding the -- I won't give you the exact number, but to provide you maybe some elements of the quantification. As David said, we are expecting to be able to leverage our current U.S. infrastructure. We know also that Epizyme has started to prioritize its R&D program, and we'll also have a look at it in order to progressively optimize the R&D spend in order to be able to deliver the accretion from 2025. Howard?
+
+--------------------------------------------------------------------------------
+Howard Mayer,  Ipsen S.A. - Executive VP and Head of Research & Development    [8]
+--------------------------------------------------------------------------------
+Yes. And maybe I'll take the second question. I mean I think that it's fair to say that our focus for tazemetostat is on hematologic malignancies. However, CELLO-1 is an important study. It's looking at tazemetostat in combination with novel hormonal therapies in chemo naive patients with mCRPC. And I think we're very interested in that. We're looking carefully at that study. I should also note that there are preclinical programs that where there is a focus on solid tumors rather than hematologic malignancies. So I think the epigenetic platform in general can be both for hematologic malignancies and also for solid tumors.
+
+--------------------------------------------------------------------------------
+Operator    [9]
+--------------------------------------------------------------------------------
+And our next question comes from Matt Weston with Credit Suisse.
+
+--------------------------------------------------------------------------------
+Matthew Weston,  Crédit Suisse AG, Research Division - MD and Co-Head of European Pharmaceutical Equity Research    [10]
+--------------------------------------------------------------------------------
+David, you laid out the peak sales potential, and you mentioned that you would consider opportunities in other geographies. There's just as many elderly and frail patients with follicular lymphoma in Europe where you have also a very strong oncology business. So could you tell us how much of your potential peak sales in the 2 settings of second line and third line you'd consider coming from the European market? Or is that incremental upside on those numbers? 
+And then secondly, you mentioned the challenges of the CD3, CD20 with CRS. But I also note that Epizyme recently added (inaudible) plus tazemetostat to one of their multi-cohort studies in heme malignancies in Phase II. And I wonder what potential you saw of that combination moving forward and how much that played a part in your decision on the company?
+
+--------------------------------------------------------------------------------
+David Loew,  Ipsen S.A. - MD, CEO & Director    [11]
+--------------------------------------------------------------------------------
+Thanks a lot, Matt. It's a great question. On the peak sales, other geographies that's incremental. Reason is that Epizyme does not really have contact with (inaudible) on the accelerated approval program very recently. We are looking at payer research because with the ASCO data that has recently been published, we need to see if actually that would be reimbursed or not. For the moment, we want to be a bit careful because we know that the payer environment in ex U.S. Is pretty tough and they might want to wait for the second line full approval. So for the moment, we have not really sales in there in a significant (inaudible).
+Then on your question on CD3, CD20, the combination of (inaudible) and TAZVERIK, it has not been the primary driver of this. We really modeled the sales in the elderly and frail. We will have to see what the combination of these 2 give. I mean that might open up new opportunities because  the tolerability of TAZVERIK is excellent. And if you would use the bispecific in a setting where you have the infrastructure to actually handle the CRS syndrome, then it could absolutely be combined with TAZVERIK and then the positioning would actually be enlarged perhaps also into the more fit population and the younger population. But it's very early days. The protocol momentum is being made as we talked. So it's going to be potentially a very interesting combination.
+
+--------------------------------------------------------------------------------
+Matthew Weston,  Crédit Suisse AG, Research Division - MD and Co-Head of European Pharmaceutical Equity Research    [12]
+--------------------------------------------------------------------------------
+Can I just jump in with one other one following on from Simon's question about dilution. So I totally understand that you don't want to put numbers on it, and I totally understand that you see synergies. But what I'm struggling to square the circle on is Aymeric's comment that the dilution in 2022 isn't very dramatic because it's only towards the end of the year, but also that you intend to keep the commercial infrastructure and it will take some time to review R&D.
+So mathematically, if you take consensus expectations, then a full year, if you just bang the 2 companies together would be about a 20% dilution, half a year of that this year. So that's, whatever, 5% for a quarter in 2022. And then obviously, there's the synergy elements. The market seems to have decided that the right number is a 10% dilution moving forward because we just assume you'll cut half of the cost out. Is that a reasonable assumption, Aymeric? Or do you think it will take some time to get to that level of high single digits, low double-digit dilution?
+
+--------------------------------------------------------------------------------
+Aymeric Le Chatelier,  Ipsen S.A. - Executive VP & Group CFO    [13]
+--------------------------------------------------------------------------------
+So Matthew, I think you're very good at doing some of the math. So I'm not going to -- as I said, I'm not going to give you a precise number, but I think you get the story. Clearly, 2022 because of the timing of the transaction, with only a new quarter, the impact will be limited to our financials. I think that we will be able to generate synergy pretty quickly, but there will be (inaudible) to fully execute on that. So that's why the peak of the dilution is going to be in 2023. But clearly, not on the consensus number for Epizyme today. Because clearly, our objective is to integrate and -- as quickly as possible, and we're going to start from today to work on that together with the Epizyme team. And that's why, together with also all the prioritization on the R&D pipeline, which has already been announced by Epizyme, and we look at it on more detail and also generate synergy. So clearly -- and then the third element, as you know, will be our expected turnaround on the sales. And that's really, apart from the cost synergies, a very important driver of the transaction, which will take a little bit time to fully realize.
+
+--------------------------------------------------------------------------------
+Operator    [14]
+--------------------------------------------------------------------------------
+And our next question comes from Richard Vosser with JPMorgan.
+
+--------------------------------------------------------------------------------
+Richard Vosser,  JPMorgan Chase & Co, Research Division - Senior Analyst    [15]
+--------------------------------------------------------------------------------
+Just a few questions, please. First question just is -- I know you mentioned that you want to expand into sort of wild-type tumors as well. But just if you could give us the proportion of tumors that are sequenced for EZH2 today in follicular lymphoma and how that's been going would be great.
+Second question is we've seen other compounds in this -- in blood cancer, have their accelerated approvals removed, particularly the PI-3. So just how -- is there any risk here in terms of the accelerated approval that -- and how you've looked at that?
+And then finally, just a couple of questions thinking about future M&A. I think you mentioned earlier sort of maybe building on the infrastructure or at least you were asked about that. So maybe we could get your updated thoughts post this deal on whether you're focused on similar-sized deals or continuing to -- or any larger? And what the focus areas might be for those? Yes, and I'll stop there.
+
+--------------------------------------------------------------------------------
+David Loew,  Ipsen S.A. - MD, CEO & Director    [16]
+--------------------------------------------------------------------------------
+Okay. Thanks, Richard. On the number of patients being -- if I got this right, number of patients being tested currently for the EZH2 mutation, that's your question?
+
+--------------------------------------------------------------------------------
+Richard Vosser,  JPMorgan Chase & Co, Research Division - Senior Analyst    [17]
+--------------------------------------------------------------------------------
+Yes, that was the question.
+
+--------------------------------------------------------------------------------
+David Loew,  Ipsen S.A. - MD, CEO & Director    [18]
+--------------------------------------------------------------------------------
+So roughly from what we have seen, it's about 20% are being diagnosed today as mutant (inaudible) a pool, which is probably 25 roughly, but it's small numbers. So we need to be careful on those. If you run the numbers though, the mutant pool, of course, is a relatively small pool in the big scheme of things. And that's why we believe actually making sure that also wild-type patients, which when you look at the PFS had 11 months of PFS. And if there is no alternative treatments, then you can give the drug also to other patients is a much larger pool. 
+And so for the elderly and frail, as we said before, they don't really have today big alternative treatments. Because as we said, bispecific, we believe, are not an ideal treatment for the elderly and frail in the office-based setting and I'm talking office-based. So therefore, we believe, actually, you can pretty much expand from there.
+To your second question on the other indications, have they -- others have seen their indication being pulled. Of course, you always have that theoretical risk with your confirmatory study, you're actually not hitting it. Now this is why we said we were very comforted with the lead-in portion of the Phase III trial because seeing roughly 95% overall response rate is a very good result. It's clearly above what, for example, the AUGMENT study has shown. So we believe that this is really reassuring for us that this trial should be the right trial as the confirmatory study.
+Regarding your third question on similar or larger acquisition and which focus areas. You have -- of course, we have a strategy, right, that we have communicated to you. And it can be similar size or it can also be larger. I mean the firepower that we have has not been absorbed in a significant fashion by this deal. You have seen that it was roughly $250 million upfront and then you have the earn-out. So our overall firepower is not really affected by that. And we could also afford, for example, a larger deal. And we are absolutely looking at both categories here. And the focus areas remain the ones we have communicated on the Capital Markets Day, which can be either the oncology one, solid tumors, hematological tumors. It can be a rare disease or it can be in neuroscience.
+
+--------------------------------------------------------------------------------
+Richard Vosser,  JPMorgan Chase & Co, Research Division - Senior Analyst    [19]
+--------------------------------------------------------------------------------
+Excellent. Can I just clarify on the first question on the (inaudible). So the screening -- everybody is screened for this. And so then -- and you're finding most of the patients. Is that the right interpretation? So screening 100% and you're finding most of the patients?
+
+--------------------------------------------------------------------------------
+David Loew,  Ipsen S.A. - MD, CEO & Director    [20]
+--------------------------------------------------------------------------------
+How many exactly are being tested, I will have to come back to you. But it's -- I know it's a good portion. I couldn't give you right now a number, but it's a significant portion.
+
+--------------------------------------------------------------------------------
+Operator    [21]
+--------------------------------------------------------------------------------
+(Operator Instructions) And we have a follow-up question from Matt Weston with Credit Suisse.
+
+--------------------------------------------------------------------------------
+Matthew Weston,  Crédit Suisse AG, Research Division - MD and Co-Head of European Pharmaceutical Equity Research    [22]
+--------------------------------------------------------------------------------
+Can I just understand, I think this molecule has a history of partners, which I think leaves it with royalties with deals done in different geographies and other payaways. Could you just remind us of the royalty payaway on the molecule, whether any milestones remain due to partners? And just remind us who has rights in other geographies? And what the relationship is in terms of income that Epizyme will book from those partnerships?
+
+--------------------------------------------------------------------------------
+Aymeric Le Chatelier,  Ipsen S.A. - Executive VP & Group CFO    [23]
+--------------------------------------------------------------------------------
+Yes. So there are some former deals. So you're right to say that so Eisai was initially the owner of that compound. And so today Eisai is responsible only for the Japan sales, and there is no more milestones that are expecting on that side. Other than that, there is a partner for China and the partner for China is Hutchmed and for which there is a license agreement for which most of the -- some of the milestones have been already received, and there is expectation to receive some further milestones.
+So all in all, there is not a very significant part of royalties to be paid. So this is clearly a product that will have an attractive profile in terms of profitability and gross margin.
+
+--------------------------------------------------------------------------------
+Matthew Weston,  Crédit Suisse AG, Research Division - MD and Co-Head of European Pharmaceutical Equity Research    [24]
+--------------------------------------------------------------------------------
+Okay. So just to check, I thought there was a mid-teens royalty payable to Eisai on U.S. sales. Is that incorrect, Aymeric?
+
+--------------------------------------------------------------------------------
+Aymeric Le Chatelier,  Ipsen S.A. - Executive VP & Group CFO    [25]
+--------------------------------------------------------------------------------
+Yes. I think there is some royalties to be paid to Eisai which are in a way limited, yes.
+
+--------------------------------------------------------------------------------
+David Loew,  Ipsen S.A. - MD, CEO & Director    [26]
+--------------------------------------------------------------------------------
+Just a comment on Richard Vosser's question. Richard, we looked up at the current testing rate, which is 55% estimated testing rate on the mutant patients. And it's going to continue to increase, going up probably to 70% testing rate.
+
+--------------------------------------------------------------------------------
+Richard Vosser,  JPMorgan Chase & Co, Research Division - Senior Analyst    [27]
+--------------------------------------------------------------------------------
+Sorry, apologies. My follow-up question was just thinking about moving into the earlier lines, follicular lymphoma. My impression is survival is quite a long time in earlier lines. So is there any sort of thoughts about the warning on the label for secondary malignancies, do you see that having a bearing at all on use in earlier lines? Just your thoughts there would be great.
+
+--------------------------------------------------------------------------------
+David Loew,  Ipsen S.A. - MD, CEO & Director    [28]
+--------------------------------------------------------------------------------
+Yes. Howard, do you want to take this because we discussed this, obviously.
+
+--------------------------------------------------------------------------------
+Howard Mayer,  Ipsen S.A. - Executive VP and Head of Research & Development    [29]
+--------------------------------------------------------------------------------
+Yes. So we've looked very, very carefully at this issue, including all the trials that have been conducted, post-marketing surveillance. And we're basically seeing a rate of less than 1% in things like myelodysplastic syndrome in patients that's consistent with the original Phase II trial for tazemetostat in FL and epithelioid sarcoma. So we don't think that this is an impediment to moving to second-line therapy and potentially earlier.
+
+--------------------------------------------------------------------------------
+Aymeric Le Chatelier,  Ipsen S.A. - Executive VP & Group CFO    [30]
+--------------------------------------------------------------------------------
+Maybe, Matthew, just to come back to your question regarding Eisai, you're right to say that there are royalties in the mid-teens to be paid to Eisai for ex U.S. sales on top of the agreement for Japan, for which we receive -- we will receive -- Epizyme will receive royalties.
+
+--------------------------------------------------------------------------------
+Operator    [31]
+--------------------------------------------------------------------------------
+And we'll take our next question from Keyur Parekh from Goldman Sachs.
+
+--------------------------------------------------------------------------------
+Keyur Parekh,  Goldman Sachs Group, Inc., Research Division - Equity Analyst    [32]
+--------------------------------------------------------------------------------
+And apologies if this question has been asked already. But I was just wondering if you can give us a sense for how do you perceive kind of this third and second line market for both kind of follicular lymphoma and DLBCL kind of developing over the next few years. There are lots of competitive studies ongoing and kind of the standard of care there is changing quite quickly. So I'd be keen to understand better kind of what due diligence you've done around that? And what you think the standard of care looks like over the next 3 to 5 years in those settings?
+
+--------------------------------------------------------------------------------
+David Loew,  Ipsen S.A. - MD, CEO & Director    [33]
+--------------------------------------------------------------------------------
+Yes. Thank you, Keyur. Well, you're absolutely right that this market is becoming quite crowded and very segmented. What we anticipate is that there is a good segment which are more the fit and healthy patients where either you can give CAR-Ts or the bispecific antibodies. And one might actually be in competition with the other. And so we see a lot of competition going in there because you see a lot of bispecific -- several bispecific antibodies coming in. You also see Monjuvi, obviously, playing also big in that segment because the tolerability profile of Monjuvi is also not the most straightforward.
+So I think there will be a segmentation in the market for the fit and younger patients (inaudible) being treated in the more academic institutions or the larger hospitals, which have the infrastructure to actually handle the side effects. And then there will be -- especially in follicular since those are mostly elderly patients. But even the more progressed DLBCL patients start also to age because they have also been surviving longer. There will be a good chunk of patients which are more elderly and frail. They often have comorbidities. And there, you need to really think what you can give. And you need to go for efficacy, but also for tolerability.
+And especially in the office space setting, this is going to be even more important because you don't have the full infrastructure in the office-based setting to take care of some of the side effects in the adequate fashion. And so we believe the more aggressive therapies are going to be more often used in the larger, extremely well-staffed infrastructure hospitals.
+So that was a simplified version of it because you can look at this with all the details, and there are going to be many, many patient segments and there are many, many crossovers going from one treatment to the others, which are possible, et cetera. So yes, it is a crowded market. 
+On the other side, the market is also increasing because patients actually survive longer. And therefore -- I remember, I was responsible for Rituxan, MabThera at the time at Roche and then for the whole oncology and then for all franchises at Roche.
+And actually, over that time, these markets started to expand because patients were just living longer. And so you can cycle them through different lines of therapies. And some pools did not even exist at that time, like a third, fourth line or fifth line pool did not exist and today will exist. So you also have to look at that point.
+
+--------------------------------------------------------------------------------
+Keyur Parekh,  Goldman Sachs Group, Inc., Research Division - Equity Analyst    [34]
+--------------------------------------------------------------------------------
+And if I could just follow up on your kind of -- you're seeing $150 million, $250 million in sales based on current indication. How much of that is current indication in existing geographies versus does it require any geographic expansion for you to get to those numbers?
+
+--------------------------------------------------------------------------------
+David Loew,  Ipsen S.A. - MD, CEO & Director    [35]
+--------------------------------------------------------------------------------
+Yes. We treated that question before. So I'm going to be very short on this one. This is going to be incremental to geographic expansion because Epizyme did not really have very recent interactions with EMA and we will have to conduct further payer research, especially with the ASCO data. So far, we were relatively careful on modeling more sales because the payer environment ex U.S. is relatively conservative and tough and several compounds with accelerated approval did not achieve good reimbursement rates. So that's certainly something that we will have to be mindful of.
+
+--------------------------------------------------------------------------------
+Operator    [36]
+--------------------------------------------------------------------------------
+It appears we have no further questions at this time. I will now turn the program back over to David Loew.
+
+--------------------------------------------------------------------------------
+David Loew,  Ipsen S.A. - MD, CEO & Director    [37]
+--------------------------------------------------------------------------------
+Thank you very much, everybody. Thank you for joining, and have a good morning or afternoon. Thank you. Bye-bye.
+
+--------------------------------------------------------------------------------
+Operator    [38]
+--------------------------------------------------------------------------------
+This does conclude today's program. Thank you for your participation. You may disconnect at any time.
+
+
+
+
+
+
+
+--------------------------------------------------------------------------------
+Definitions
+--------------------------------------------------------------------------------
+PRELIMINARY TRANSCRIPT: "Preliminary Transcript" indicates that the 
+Transcript has been published in near real-time by an experienced 
+professional transcriber.  While the Preliminary Transcript is highly 
+accurate, it has not been edited to ensure the entire transcription 
+represents a verbatim report of the call.
+
+EDITED TRANSCRIPT: "Edited Transcript" indicates that a team of professional 
+editors have listened to the event a second time to confirm that the 
+content of the call has been transcribed accurately and in full.
+
+--------------------------------------------------------------------------------
+Disclaimer
+--------------------------------------------------------------------------------
+Refinitiv reserves the right to make changes to documents, content, or other 
+information on this web site without obligation to notify any person of 
+such changes.
+
+In the conference calls upon which Event Transcripts are based, companies 
+may make projections or other forward-looking statements regarding a variety 
+of items. Such forward-looking statements are based upon current 
+expectations and involve risks and uncertainties. Actual results may differ 
+materially from those stated in any forward-looking statement based on a 
+number of important factors and risks, which are more specifically 
+identified in the companies' most recent SEC filings. Although the companies 
+may indicate and believe that the assumptions underlying the forward-looking 
+statements are reasonable, any of the assumptions could prove inaccurate or 
+incorrect and, therefore, there can be no assurance that the results 
+contemplated in the forward-looking statements will be realized.
+
+THE INFORMATION CONTAINED IN EVENT TRANSCRIPTS IS A TEXTUAL REPRESENTATION
+OF THE APPLICABLE COMPANY'S CONFERENCE CALL AND WHILE EFFORTS ARE MADE TO
+PROVIDE AN ACCURATE TRANSCRIPTION, THERE MAY BE MATERIAL ERRORS, OMISSIONS,
+OR INACCURACIES IN THE REPORTING OF THE SUBSTANCE OF THE CONFERENCE CALLS.
+IN NO WAY DOES REFINITIV OR THE APPLICABLE COMPANY ASSUME ANY RESPONSIBILITY FOR ANY INVESTMENT OR OTHER
+DECISIONS MADE BASED UPON THE INFORMATION PROVIDED ON THIS WEB SITE OR IN
+ANY EVENT TRANSCRIPT. USERS ARE ADVISED TO REVIEW THE APPLICABLE COMPANY'S
+CONFERENCE CALL ITSELF AND THE APPLICABLE COMPANY'S SEC FILINGS BEFORE
+MAKING ANY INVESTMENT OR OTHER DECISIONS.
+--------------------------------------------------------------------------------
+Copyright 2023 Refinitiv. All Rights Reserved.
+--------------------------------------------------------------------------------

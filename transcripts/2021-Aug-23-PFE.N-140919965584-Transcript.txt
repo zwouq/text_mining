@@ -1,0 +1,342 @@
+
+
+Refinitiv StreetEvents Event Transcript
+E D I T E D   V E R S I O N
+
+Pfizer Inc to Acquire Trillium Therapeutics Inc Call
+AUGUST 23, 2021 / 2:00PM GMT
+
+================================================================================
+Corporate Participants
+================================================================================
+
+ * Andy Schmeltz
+   Pfizer Inc. - Global President, Oncology
+ * Jeff Settleman
+   Pfizer Inc. - Chief Scientific Officer, Oncology
+ * Christopher J. Stevo
+   Pfizer Inc. - Senior VP & Chief IR Officer
+ * Chris Boshoff
+   Pfizer Inc. - Chief Development Officer, Global Product Development Oncology
+
+================================================================================
+Conference Call Participiants
+================================================================================
+
+ * Stephen Michael Scala
+   Cowen and Company, LLC, Research Division - MD & Senior Research Analyst
+ * Na Sun
+   SVB Leerink LLC, Research Division - Research Analyst
+ * Matthew Kelsey Harrison
+   Morgan Stanley, Research Division - Executive Director
+ * Umer Raffat
+   Evercore ISI Institutional Equities, Research Division - Senior MD & Senior Analyst of Equity Research
+ * Terence C. Flynn
+   Goldman Sachs Group, Inc., Research Division - MD
+
+================================================================================
+Presentation
+--------------------------------------------------------------------------------
+Operator    [1]
+--------------------------------------------------------------------------------
+
+          Good day, everyone, and welcome to Pfizer's Analyst and Investor Call to discuss proposed acquisition of Trillium Therapeutics Inc. Today's call is being recorded. At this time, I would like to turn the call over to Mr. Chris Stevo, Senior Vice President and Chief Investor Relations Officer. Please go ahead, sir.
+
+--------------------------------------------------------------------------------
+Christopher J. Stevo,  Pfizer Inc. - Senior VP & Chief IR Officer    [2]
+--------------------------------------------------------------------------------
+
+          Thank you, Sylvia. Good morning, everyone, and thank you for joining us on short notice. It's my pleasure to be welcoming you to a call to discuss our acquisition of Trillium today. Turn to Slide 2, please. As you can see on the screen, we will be making forward-looking statements during the call regarding amongst other topics, our anticipated future operating and financial performance, business plans and prospects and expectations for our product pipeline and marketed products, which are subject to risks and uncertainties as well as the use of non-GAAP financial information.
+Additional information regarding forward-looking statements and our non-GAAP financial measures is available under our earnings releases, including the disclosure notice section and under Risk Factors in our SEC Forms 10-K and 10-Q. Forward-looking statements on the call speak only as of the call's original date, and we undertake no obligation to update or revise any of the statements.
+Turn to Slide 3, please. I'm joined today by Andy Schmeltz, our Oncology Global President; Jeff Settleman, our Oncology Chief Scientific Officer; and Chris Boshoff, our Oncology Chief Development Officer. We'll begin the call with opening remarks by Andy, followed by Jeff discussing the scientific rationale, and then Chris Boshoff will walk you through the clinical data. Andy will conclude the prepared remarks, and then I'll lead the Q&A session for about 25 minutes.
+We expect the call to conclude by about 10:45. The materials for this call as well as other related materials have been posted to the Investor Relations section of Pfizer.com. With that, I will turn the call over to Andy. Andy, please go ahead.
+
+--------------------------------------------------------------------------------
+Andy Schmeltz,  Pfizer Inc. - Global President, Oncology    [3]
+--------------------------------------------------------------------------------
+
+          Thanks, Chris. Great to be here with all of you this morning. We're very excited about our planned acquisition of Trillium Therapeutics, and we're pleased to share some additional context regarding this morning's disclosure. I'll begin with a few words summarizing the transaction then reinforce how Trillium aligns with our Oncology strategy and how it provides a unique value proposition for advancing Pfizer leadership in Oncology.
+Please turn to Slide 4. Pfizer has agreed to acquire all of the outstanding shares of Trillium Therapeutics for $2.26 billion or $18.50 per share in cash. This is a 118% premium to the 60-day weighted -- volume-weighted average trading price of Trillium stock ending August 20. We believe the transaction reflects an appropriate value for Trillium shareholders and for Pfizer, representing a large and potentially game-changing opportunity.
+TTI-622 and TTI-621 in the SIRPa-CD47 class have the potential to be foundational immunotherapy of hematologic malignancies, analogous to the role PD-1 and PD-L1 play in solid tumors. Additionally, TTI-622 and 621 seem particularly well suited for combination use with other agents, including our own CD3/BCMA bispecific elranatamab, now in development for multiple myeloma.
+We know Trillium and its programs well via our equity investment in the company last year through which we have a seat on their Scientific Advisory Board. This transaction, of course, is subject to customary closing conditions summarized here. Please turn to Slide 5. The proposed acquisition of Trillium is well aligned with the strategic priorities by which we evaluate business development opportunities. Specifically, we look for opportunities to deploy capital in a disciplined way to efficiently create meaningful shareholder value. We look for opportunities to execute bolt-on deals with the potential for mid- to long-term value creation as well as revenue and earnings growth, and we look for opportunities to strengthen individual businesses with capabilities in flagship medicines to enhance leadership positions in priority areas.
+The proposed acquisition of Trillium meets all of these objectives. It has the potential to deliver breakthrough medicines for hematologic malignancies and enhances our long-term growth prospects as we look to strengthen and add durability to our growth profile, particularly over the 2026 to 2030 time frame and beyond.
+Please turn to Slide 6. Trillium is particularly compelling for our Oncology business, where we have experienced consistent significant growth over recent years with IBRANCE, XTANDI, Inlyta, Braftovi/Mektovi, and our Biosimilars portfolio leading the way. We are now poised to build upon this leadership and growth over the coming decade with an exciting pipeline spanning our 4 Oncology areas of focus.
+In breast cancer, we're advancing ARV-471 in collaboration with Arvinas as well as our next-generation cell cycle inhibitors. In genitourinary cancers, we're advancing sasanlimab for non-muscle invasive bladder cancer as well as talazoparib in combination with XTANDI for prostate cancer. In precision medicine, we have an extensive life cycle program underway for Braftovi and Mektovi in BRAF-mutated cancers. And in hematology, we believe with our BCMA bispecific elranatamab in development for multiple myeloma and now with TTI-622 and TTI-621 that these potential medicines could become the new standards of care in therapeutic regimens across multiple hematologic malignancies, significantly advancing Pfizer's leadership position in this area.
+We're truly excited to have the opportunity to make a significant impact for people living with hematologic malignancies. Now let me hand it off to Jeff Settleman, who will double-click on Trillium's compelling science. Jeff?
+
+--------------------------------------------------------------------------------
+Jeff Settleman,  Pfizer Inc. - Chief Scientific Officer, Oncology    [4]
+--------------------------------------------------------------------------------
+
+          Thanks, Andy. Good to be with all of you this morning. I'll start with some very brief background on Trillium Therapeutics. The company was founded in 2004 and is based in Cambridge, Massachusetts and Mississauga, Ontario. As Andy mentioned, their pipeline includes 2 lead programs, TTI-621 and 622. They're both biologics that target the SIRPa-CD47 axis, which mediates the so-called "don't eat me" signal and serves as a checkpoint against the ability of the innate immune system to destroy cancer cells, and I'll have more to say about that in a minute.
+These molecules are currently in early clinical development in multiple cancer indications with an emphasis on several hematologic malignancies. Last year, we made an investment in Trillium given the promise of their programs, and I had the opportunity to join their Scientific Advisory Board where I developed an appreciation for the differentiation of Trillium's programs from other CD47-targeted programs in this space.
+If you could turn to Slide 8, please. To get a little more granular on this therapeutic mechanism, tumors use this CD47-SIRPa "don't eat me" signal to evade destruction by the innate immune system, specifically the phagocytic engulfment of tumor cells by macrophages. Many hematologic cancers and solid tumors express high levels of CD47 and increased CD47 correlates with more aggressive disease and poor clinical outcomes.
+CD47 is a ligand that delivers an inhibitory signal to macrophages through its receptor SIRPa. And there's accumulating data to suggest that the SIRPa--CD47 axis is an important immune checkpoint in hematologic malignancies, functioning in a manner that may be analogous to the PD-L1, PD-1 T cell checkpoint in many solid tumors.
+If you could please turn to Slide 9. These 2 molecules from Trillium are very similar. They're both bivalent Fc fusions of the wild-type SIRPa protein that were designed to disrupt the interaction of CD47 with endogenous SIRPa. But it's important to consider that CD47 blockade is not sufficient to trigger macrophage-mediated antitumor activity. Macrophages also require a so-called eat signal to activate the phagocytic process.
+And based on preclinical data, TTI-621 and 622 not only block CD47 from engaging SIRPa through competitive binding, but they can also engage the activating Fc gamma receptor on macrophages through their Fc domains. So they also have the potential to deliver an activating phagocytic signal to macrophages. Both molecules have the same CD47 blocking function, but they differ in their Fc domains. One is IgG1 based, the other is IgG4 based. So they differ in the strength of their ability to engage Fc-dependent effector function, which promotes that eat signal needed to promote phagocytosis of tumor cells.
+If you could please turn to Slide 10, one of the key challenges associated with anti-CD47-based therapeutics is on-target anemia due to the high levels of CD47 expression on red blood cells. As shown here, both 621 and 622 appear to bind very weakly to red blood cells in vitro when compared to various CD47-targeted antibodies. And this minimal red blood cell binding was predicted to yield a more favorable therapeutic index by reducing the risk of anemia.
+And by avoiding a large antigen sink that could result from red blood cell binding, we believe it should be possible to administer a relatively lower but still effective dose of these molecules. And so with that, let me hand it off to Chris Boshoff, who will discuss the clinical data associated with these programs. Chris?
+
+--------------------------------------------------------------------------------
+Chris Boshoff,  Pfizer Inc. - Chief Development Officer, Global Product Development Oncology    [5]
+--------------------------------------------------------------------------------
+
+          Thanks, Jeff. Slide 11, I'm focusing here on the clinical safety profile for TTI-622, which reflects the preclinical data showed by Jeff. In the first 43 evaluable patients treated across dose ranges in Phase 1, minimal anemia was observed. Drug-related Grade 3-4 adverse events were rare and limited to transient cytopenias. The most common unrelated adverse events were mild constitutional, including Grades 1 or 2 fatigue or insomnia. Gastrointestinal adverse events, including constipation, diarrhea and abdominal pain were all Grade 1 or Grade 2. The maximum tolerated dose was not identified.
+Slide 12. From a Phase 1 data cut in April 2021 in response evaluable patients, an overall response rate of 33% was observed with TTI-622 across hematological indications. These are all in patients with relapsed/refractory advanced disease. For TTI-621, the overall response rate was between 18% and 29%, again, in advanced relapsed or refractory malignancy. Note, these responses are a single agent or monotherapy TTI-622 or 621.
+Please turn to Slide 13. The waterfall plot from the April data cut with single agent 622 shows a clinical benefit rate of 55%, which includes complete response, partial response and stable disease. Therefore, in this cohort, most patients with advanced relapsed or refractory hematologic malignancy achieved a clinical benefit with TTI-622 monotherapy.
+Turning to Slide 14. Here, I share data from an updated Phase 1 data cut from July 26. This swimmer plot confirms ongoing responses with single-agent TTI-622 in many patients since the April data cut. This data cut reflects 30 evaluable patients with advanced hematologic malignancies, showing the response rate of 30% and notable durable stable disease of 6 months or longer. The duration of clinical benefit achieved for the majority of patients with monotherapy, including those achieving stable disease, is encouraging. In particular, the duration of treatment or clinical benefit with 622 was longer for most patients than that achieved with the immediate prior treatment.
+Now turning to Slide 15. These updated duration response data from the July 26 data cut. These images are from 2 patients heavily exposed to previous anticancer therapies for advanced stage diffuse large B-cell lymphoma. The complete response on the left is ongoing for over 2 years, and this patient remains on every 4 weeks TTI-622 treatment.
+The imaging on the right shows a partial remission, which is ongoing for over 6 months and the patient remains on treatment. Overall, we consider the depth and duration of monotherapy in these heavily exposed malignancies with the manageable safety profile and wide therapeutic index as highly encouraging. We believe that TTI-622 and 621 are potentially best-in-class molecules, could be foundational agents, particularly in more common hematologic malignancies, representing a significant potential opportunity, especially in earlier lines of treatment and in combination. Back to Andy.
+
+--------------------------------------------------------------------------------
+Andy Schmeltz,  Pfizer Inc. - Global President, Oncology    [6]
+--------------------------------------------------------------------------------
+
+          Thanks, Chris. Let me try to wrap it all together here on Slide 16. The proposed acquisition of Trillium brings TTI-622 and 621 into our Pfizer pipeline portfolio. These SIRPa--CD47 agents have the potential, not only to be differentiated, but to be best-in-class, inducing deep and lasting responses across a range of blood cancers, while being quite tolerable for patients.
+Trillium fits well into our Oncology business and enhances our growing hematology franchise, providing us the opportunity to serve significantly more patients with hematologic malignancies. Pfizer will build upon and accelerate Trillium's development program, facilitating potential combinations with elranatamab as well as expediting pivotal trials across lymphoid malignancies.
+More broadly, TTI-622 and 621 offer the potential to contribute blockbuster revenues in the critical 2026 to 2030 time frame for the company. With that, I think we're ready for Q&A. So let me turn it over to Chris Stevo to facilitate. Chris?
+
+--------------------------------------------------------------------------------
+Christopher J. Stevo,  Pfizer Inc. - Senior VP & Chief IR Officer    [7]
+--------------------------------------------------------------------------------
+
+          Thanks, Andy. (Operator Instructions) If there are questions which we couldn't address in the call, we'll also be available to answer your questions later. Operator, please go ahead with the first question.
+
+
+================================================================================
+Questions and Answers
+--------------------------------------------------------------------------------
+Operator    [1]
+--------------------------------------------------------------------------------
+
+          Your first question comes from the line of Umer Raffat from Evercore.
+
+--------------------------------------------------------------------------------
+Umer Raffat,  Evercore ISI Institutional Equities, Research Division - Senior MD & Senior Analyst of Equity Research    [2]
+--------------------------------------------------------------------------------
+
+          I really wanted to focus on 2 things. One, we know there's a fairly large data set coming up for Forty Seven-Gilead shortly, which they expect to file on potentially in MDS setting. I was curious about the timing of the deal relative to the first sort of larger data set for the Forty Seven space?
+And secondly, given the few monotherapy responses we have seen here, do you think there's a strong case for differentiation on monotherapy activity relative to others? Anything that plays out in the randomized trial?
+
+--------------------------------------------------------------------------------
+Andy Schmeltz,  Pfizer Inc. - Global President, Oncology    [3]
+--------------------------------------------------------------------------------
+
+          Thanks, Umer, for your questions. Chris, let me turn it over to you to start, I think, both in terms of any insight or relevance of the timing of Gilead's program as well as on our opportunity for differentiation with the monotherapy data, Chris Boshoff.
+
+--------------------------------------------------------------------------------
+Chris Boshoff,  Pfizer Inc. - Chief Development Officer, Global Product Development Oncology    [4]
+--------------------------------------------------------------------------------
+
+          Thanks, Andy. Thanks, Umer, for your question. In clinical studies to date, as you've seen, TTI-622 and 621 have demonstrated compelling activity as monotherapy in relapsed or refractory lymphoid malignancies, including diffuse large B-cell lymphoma, peripheral T-cell lymphoma, follicular lymphoma and other lymphoid malignancies.
+As of July 26, Phase 1 data for TTI-622 in 30 response-evaluable patients has continued to show deep and durable responses as seen in this heavily pretreated population. To our knowledge, TTI-622 and 621 are the only known CD47 target molecules that have demonstrated meaningful single-agent activity and complete remissions in multiple hematological malignancies. We've also seen early data from their combination with carfilzomib and dexamethasone in late-stage multiple myeloma as well as in combination with venetoclax and azacitidine in AML.
+And this has really encouraged us that these molecules can be combined and without compromising the safety profile. So overall, we believe this is a best-in-class molecule. We will develop a differential accelerated development pathway, not necessarily in those, and specific malignancies targeted by others. And we're also very confident that the compelling single-agent activity will play out well as a foundation for future combinations. We're looking at approvals for potential programs in the 2025 and 2030 time line. Thank you.
+
+--------------------------------------------------------------------------------
+Andy Schmeltz,  Pfizer Inc. - Global President, Oncology    [5]
+--------------------------------------------------------------------------------
+
+          I think maybe just to add to Chris' response, Umer, to your question about the competition. Certainly, we believe that the CD37 class -- CD47 class is going to be really important moving forward in hematologic malignancies. Because of that, it's going to be competitive. We're mindful that the Trillium programs are not leading the way in terms of being first in class. But certainly, we're very focused, and we believe that the molecules here are best-in-class opportunity.
+As Chris said, we're going to focus on making sure that it was -- as we advance development that we exploit opportunities for differentiation, whether it's in combinations, in similar indications or looking for different indications of hematologic malignancies and possibly solid tumors downstream as well. Why don't we go to the next question?
+
+--------------------------------------------------------------------------------
+Operator    [6]
+--------------------------------------------------------------------------------
+
+          Your next question comes from the line of Steve Scala from Cowen.
+
+--------------------------------------------------------------------------------
+Stephen Michael Scala,  Cowen and Company, LLC, Research Division - MD & Senior Research Analyst    [7]
+--------------------------------------------------------------------------------
+
+          Two questions. I'm curious what strategic rights Pfizer had prior to this acquisition, if any, to these programs. And then secondly, what products in Pfizer's portfolio would be good candidates for combination therapy with TTI-621 or 622? And will you be changing the clinical program to include them?
+
+--------------------------------------------------------------------------------
+Andy Schmeltz,  Pfizer Inc. - Global President, Oncology    [8]
+--------------------------------------------------------------------------------
+
+          Thanks, Steve, for your question. Why don't we start, Jeff Settleman, by me handing it to you given your role on the Scientific Advisory Board, both with respect to strategic rights and then thoughts on combinations, and then maybe Chris can add to it, Chris Boshoff.
+
+--------------------------------------------------------------------------------
+Jeff Settleman,  Pfizer Inc. - Chief Scientific Officer, Oncology    [9]
+--------------------------------------------------------------------------------
+
+          Sure. Thanks, Andy. Yes, so in my capacity as a member of the Scientific Advisory Board, which began nearly a year ago, I was obviously able to participate in discussions about the programs with Trillium colleagues and to gain an appreciation of the features of the 2 lead programs and the differentiating features, especially relative to other competitive programs in the space.
+Regarding the combination potential, maybe I'll say a word before I hand off to Chris. We see a lot of potential combination partners within our own portfolio, both potentially in heme malignancies as well as in solid tumors. Agents that can induce the prophagocytic signal, for example, are attractive candidates for combination treatment as well as, as Chris highlighted, elranatamab in multiple myeloma and a variety of others that we'll be exploring going forward. But Chris, let me hand off to you to say a few more words about that.
+
+--------------------------------------------------------------------------------
+Chris Boshoff,  Pfizer Inc. - Chief Development Officer, Global Product Development Oncology    [10]
+--------------------------------------------------------------------------------
+
+          Thanks, Jeff. That was a good question. So firstly, yes, we do see during -- we will look to enhance and accelerate the development program, including with innovative next-generation medicines from our own portfolio as well as external medicines. To Jeff's point, an obvious target is obviously -- an obvious combination partner is obviously Ruxience, rituximab biosimilar, elranatamab, EZH2, again, in lymphoid malignancies, a molecule that could increase the eat me signal, and then a number of our bifunctional molecules or other bifunctional molecules in the clinic now or that should enter the clinic in the next 12 months. Thank you.
+
+--------------------------------------------------------------------------------
+Christopher J. Stevo,  Pfizer Inc. - Senior VP & Chief IR Officer    [11]
+--------------------------------------------------------------------------------
+
+          Thank you, Chris, Andy and Jeff. Operator, next question, please?
+
+--------------------------------------------------------------------------------
+Operator    [12]
+--------------------------------------------------------------------------------
+
+          Your next question comes from Terence Flynn from Goldman Sachs.
+
+--------------------------------------------------------------------------------
+Terence C. Flynn,  Goldman Sachs Group, Inc., Research Division - MD    [13]
+--------------------------------------------------------------------------------
+
+          I was just wondering if you've been able to identify any predictors of response at this point or if you have additional work that you're going to do on this front? And then any perspective on the solid tumor setting that you can share? I know a lot of the early work is focused on the heme side, but how are you thinking about the opportunity in solid tumors?
+
+--------------------------------------------------------------------------------
+Andy Schmeltz,  Pfizer Inc. - Global President, Oncology    [14]
+--------------------------------------------------------------------------------
+
+          Thanks for the question, Terence. Chris Boshoff, let's start with you, and then Jeff, if you have anything to add.
+
+--------------------------------------------------------------------------------
+Chris Boshoff,  Pfizer Inc. - Chief Development Officer, Global Product Development Oncology    [15]
+--------------------------------------------------------------------------------
+
+          Thank you. So I'll start with the solid tumor question. As you know, Trillium has announced a study that will start in ovarian cancer, and we will be looking to continue the expansion of that study. It's of interest that CD47 is highly expressed in ovarian cancer cells compared to normal -- to the normal ovary. And other solid tumors, there's a number of tumor types, again, where CD47 overexpression are associated with poor outcome.
+The early clinical data from Trillium has indicated that it could work in solid tumors, for example, in cutaneous lesions from peripheral T cell in cutaneous T cell lymphoma where they have seen deep and durable responses. Regarding a specific precision medicine strategy, apart from the obvious things, the number of infiltrated myeloid cells with CD47 expression, we will definitely plan to an aggressive translational program attached to the clinical program to identify potential markets in the future for precision strategy. Good question. Jeff, you got anything to add to that?
+
+--------------------------------------------------------------------------------
+Jeff Settleman,  Pfizer Inc. - Chief Scientific Officer, Oncology    [16]
+--------------------------------------------------------------------------------
+
+          Yes, that was a good summary, Chris. I think just to add to that, we know that in addition to CD47 levels, there may be many other determinants of response. Levels of other proteins play a role in the activation of macrophages and to Chris' point, the degree of macrophage infiltration in tumors, particularly for solid tumors. Some cancers may be more primed to undergo phagocytic engulfment than others due to differences in the eat signals that they display, such as levels of calreticulin. So we'll want to look closely at clinical samples to better understand the relationship between measurable tumor features and clinical response. That's obviously an important relationship for us to understand.
+
+--------------------------------------------------------------------------------
+Operator    [17]
+--------------------------------------------------------------------------------
+
+          Your next question comes from Matthew Harrison from Morgan Stanley.
+
+--------------------------------------------------------------------------------
+Matthew Kelsey Harrison,  Morgan Stanley, Research Division - Executive Director    [18]
+--------------------------------------------------------------------------------
+
+          I was wondering if you could just comment on how you're thinking about the path to market. Obviously, Gilead has taken an accelerated approval approach in some settings with a modestly sized trial. Would you consider the same thing in either heme or PTCL as an example?
+
+--------------------------------------------------------------------------------
+Andy Schmeltz,  Pfizer Inc. - Global President, Oncology    [19]
+--------------------------------------------------------------------------------
+
+          Thanks, Matthew. Chris, why don't you take this one?
+
+--------------------------------------------------------------------------------
+Chris Boshoff,  Pfizer Inc. - Chief Development Officer, Global Product Development Oncology    [20]
+--------------------------------------------------------------------------------
+
+          That is a good question. The data in monotherapy, obviously, provides a strong basis for future studies, including potential accelerated paths but also in combination strategies. As Jeff and Andy mentioned, just as PD-1, PD-L1 inhibitors have proven to be effective immunotherapeutics for many solid tumors, we do believe that this pathway, this key checkpoint is expected to become a backbone immunotherapy across multiple hematological malignancies. We will work to accelerate the development of these fusion proteins, but it will be data driven.
+And as the data evolve over the coming months, we will decide and make decisions which programs could potentially be accelerated towards an accelerated strategy in late-line disease versus where we want to tackle earlier-line disease in combination early on. As we stated earlier, we're currently envisioning approvals in that 2025 to 2030 time frame. Thank you.
+
+--------------------------------------------------------------------------------
+Andy Schmeltz,  Pfizer Inc. - Global President, Oncology    [21]
+--------------------------------------------------------------------------------
+
+          And maybe just to add, while we recognize that the Trillium programs are not leading in terms of being first here, that that could play to our advantage. Certainly, we're very confident in the early data that we've seen, and it sets us up to be able to design pivotal trials, whether it's in the similar indications to the other players to set them up to differentiate or to purposely choose to move to other indications. And we very much look forward to the opportunity while starting in late-stage disease, perhaps as monotherapy, all these hematologic malignancies are combinations of medicines of therapeutic regimens and getting the right combinations to be able to maximize the benefit to patients. That's really what it's about.
+And of course, longer durations of therapy are possible here as you move into earlier lines of treatment. So while we're not first from the way that it looks today, we are very bullish on the prospect of the best-in-class opportunity and really making a significant impact for patients and blockbuster potential for these medicines.
+
+--------------------------------------------------------------------------------
+Operator    [22]
+--------------------------------------------------------------------------------
+
+          Your next question comes from Geoffrey Porges from SVB Leerink.
+
+--------------------------------------------------------------------------------
+Na Sun,  SVB Leerink LLC, Research Division - Research Analyst    [23]
+--------------------------------------------------------------------------------
+
+          This is Na Sun on for Geoff. A couple of questions for me. As you're looking at TTI-622 data, the first data is from lymphoma, how do you imagine TTI-622 to fit into the DLBCL landscape given the competitiveness in that indication? Then secondly, when considering this deal, how much of the valuation was principally based on lymphoid disease or myeloid disease or solid tumor? Can you just give us a sense of what's principally in consideration in the deal?
+
+--------------------------------------------------------------------------------
+Andy Schmeltz,  Pfizer Inc. - Global President, Oncology    [24]
+--------------------------------------------------------------------------------
+
+          Okay. Thanks for your question. So 2 parts. One is about fit into diffuse large B-cell lymphoma. And Chris, I'll hand it to you for that. And then I'll follow up in terms of the components of the valuation. Chris?
+
+--------------------------------------------------------------------------------
+Chris Boshoff,  Pfizer Inc. - Chief Development Officer, Global Product Development Oncology    [25]
+--------------------------------------------------------------------------------
+
+          Thank you very much, Andy. As you know, non-Hodgkin's lymphoma makes up approximately 40% of all cancers with an estimated 175,000 patients in the U.S., EU5 and Japan annually. It remains a significant unmet need. And many patients are not cured with upfront RCHOP therapies. What you've seen here is deep and durable responses in very late-line disease. What was highly encouraging to us is that the majority of the -- for these patients, the majority of cases, the duration of response was longer than the prior therapy. And these were all patients first -- 5 to 9 lines of previous therapy.
+We, therefore, believe that these medicines can move -- the potential medicines can move into earlier lines of treatment in combination, especially in combination with other drugs used in non-Hodgkin's lymphoma that increase the eat me signal, for example, rituximab or RCHOP. So we will be looking very early on for combinations with chemotherapy with ADC and with other targeted medicines across the continuum of diffuse large B-cell lymphoma.
+
+--------------------------------------------------------------------------------
+Andy Schmeltz,  Pfizer Inc. - Global President, Oncology    [26]
+--------------------------------------------------------------------------------
+
+          And to your second part of the question about how we looked at the valuation, really multiple factors, of course, included. Two specifically. First, the potential role of the SIRPa-CD47 class, specifically as foundational immunotherapies for a wide variety of hematological malignancies. But then also to the point of your question, with the possibility of utility in solid tumors as well.
+And second and very importantly is the promise specifically of these molecules of TTI-622 and 621 as potential best-in-class medicines, providing deep and durable responses, being the only CD47 to have achieved complete responses as monotherapy in multiple hematologic indications and also with a relatively benign and well-tolerated side effect safety profile, suggesting they'll have a wide therapeutic index and the ability to combine with other agents.
+And of course, as Chris just mentioned, this ability to combine is critical in potentially moving into earlier lines of therapy, which represent larger opportunities than later lines. So that's kind of how we thought about the opportunity as we valued it.
+
+--------------------------------------------------------------------------------
+Operator    [27]
+--------------------------------------------------------------------------------
+
+          I show no further questions at this time.
+
+--------------------------------------------------------------------------------
+Christopher J. Stevo,  Pfizer Inc. - Senior VP & Chief IR Officer    [28]
+--------------------------------------------------------------------------------
+
+          Well, thank you, everyone, for your time and participation and interest. If you have any further questions that you didn't feel were addressed on the call, please reach out to us, and we'll help you as best as we can. Otherwise, wishing you an enjoyable rest of your summer, and thanks for your time.
+
+--------------------------------------------------------------------------------
+Operator    [29]
+--------------------------------------------------------------------------------
+
+          Ladies and gentlemen, this does conclude today's conference. Thank you again for your participation. You may now all disconnect.
+
+
+
+
+
+
+
+--------------------------------------------------------------------------------
+Definitions
+--------------------------------------------------------------------------------
+PRELIMINARY TRANSCRIPT: "Preliminary Transcript" indicates that the 
+Transcript has been published in near real-time by an experienced 
+professional transcriber.  While the Preliminary Transcript is highly 
+accurate, it has not been edited to ensure the entire transcription 
+represents a verbatim report of the call.
+
+EDITED TRANSCRIPT: "Edited Transcript" indicates that a team of professional 
+editors have listened to the event a second time to confirm that the 
+content of the call has been transcribed accurately and in full.
+
+--------------------------------------------------------------------------------
+Disclaimer
+--------------------------------------------------------------------------------
+Refinitiv reserves the right to make changes to documents, content, or other 
+information on this web site without obligation to notify any person of 
+such changes.
+
+In the conference calls upon which Event Transcripts are based, companies 
+may make projections or other forward-looking statements regarding a variety 
+of items. Such forward-looking statements are based upon current 
+expectations and involve risks and uncertainties. Actual results may differ 
+materially from those stated in any forward-looking statement based on a 
+number of important factors and risks, which are more specifically 
+identified in the companies' most recent SEC filings. Although the companies 
+may indicate and believe that the assumptions underlying the forward-looking 
+statements are reasonable, any of the assumptions could prove inaccurate or 
+incorrect and, therefore, there can be no assurance that the results 
+contemplated in the forward-looking statements will be realized.
+
+THE INFORMATION CONTAINED IN EVENT TRANSCRIPTS IS A TEXTUAL REPRESENTATION
+OF THE APPLICABLE COMPANY'S CONFERENCE CALL AND WHILE EFFORTS ARE MADE TO
+PROVIDE AN ACCURATE TRANSCRIPTION, THERE MAY BE MATERIAL ERRORS, OMISSIONS,
+OR INACCURACIES IN THE REPORTING OF THE SUBSTANCE OF THE CONFERENCE CALLS.
+IN NO WAY DOES REFINITIV OR THE APPLICABLE COMPANY ASSUME ANY RESPONSIBILITY FOR ANY INVESTMENT OR OTHER
+DECISIONS MADE BASED UPON THE INFORMATION PROVIDED ON THIS WEB SITE OR IN
+ANY EVENT TRANSCRIPT. USERS ARE ADVISED TO REVIEW THE APPLICABLE COMPANY'S
+CONFERENCE CALL ITSELF AND THE APPLICABLE COMPANY'S SEC FILINGS BEFORE
+MAKING ANY INVESTMENT OR OTHER DECISIONS.
+--------------------------------------------------------------------------------
+Copyright 2023 Refinitiv. All Rights Reserved.
+--------------------------------------------------------------------------------

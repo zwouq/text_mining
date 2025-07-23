@@ -1,0 +1,388 @@
+
+
+Refinitiv StreetEvents Event Transcript
+E D I T E D  V E R S I O N
+
+Selecta Biosciences Inc and Cartesian Therapeutics Inc Merger Conference Call
+November 13, 2023 / 2:00PM UTC
+
+================================================================================
+Corporate Participants
+================================================================================
+
+ * Blaine Davis
+   Selecta Biosciences, Inc. - CFO
+ * Carsten Brunn
+   Selecta Biosciences, Inc. - President, CEO, and Director
+ * Murat Kalayoglu
+   Cartesian Therapeutics, Inc. - Director and Co-Founder
+
+================================================================================
+Conference Call Participants
+================================================================================
+
+ * Operator
+   
+ * Jason Bouvier
+   Cantor Fitzgerald, L.P. - Analyst
+ * Joseph Schwartz
+   Leerink Partners LLC - Analyst
+ * John Newman
+   Canaccord Genuity Group Inc. - Analyst
+ * Gil Blum
+   Needham & Company, LLC - Analyst
+ * Boobalan Pachaiyappan
+   H.C. Wainwright & Co, LLC - Analyst
+ * Uy Ear
+   Mizuho Securities USA LLC - Analyst
+
+================================================================================
+presentation
+--------------------------------------------------------------------------------
+Operator,     [1]
+--------------------------------------------------------------------------------
+Good morning, and thank you for joining Selecta Biosciences' and Cartesian Therapeutics' merger announcement conference call. (Operator Instructions) Please also note today's event is being recorded.
+I would now like to turn the call over to Blaine Davis, Chief Financial Officer at Selecta. Please go ahead.
+--------------------------------------------------------------------------------
+Blaine Davis, Selecta Biosciences, Inc. - CFO    [2]
+--------------------------------------------------------------------------------
+Thank you, Rocco. Good morning, everyone. And thank you for joining today's call to discuss Selecta's merger with Cartesian Therapeutics. The press release reporting on the details of the transaction can be found on the Investor Relations section of our website.
+Joining me on today's call for prepared remarks are Dr. Carsten Brunn, Selecta's President and Chief Executive Officer, who will remain in the role for the combined company. And Cartesian's Co-Founder, Dr. Murat Kalayoglu.
+During today's call, we will making certain forward-looking statements based upon the current expectations of Selecta and Cartesian which include but are not limited to statements regarding the expected timing effects and potential benefits of the transaction, the expected timing and results of the stockholder vote to approve the conversion of the Series-A preferred stock issued in the merger and concurrent private financing into common stock, and our future expectations and plans for prospects for the combined company.
+These statements are subject to various risks that are described in the filings made with the SEC, including our most recent annual report on Form 10-K, and our quarterly report on Form 10-Q which we expect to file later today with the Securities and Exchange Commission. You are cautioned not to place undue reliance on these forward-looking statements which speak only as of today, November 13, 2023. And Selecta disclaims any obligation to update such statements except as required by law even if management's view has changed.
+With that, let me turn the call over to Carsten.
+--------------------------------------------------------------------------------
+Carsten Brunn, Selecta Biosciences, Inc. - President, CEO, and Director    [3]
+--------------------------------------------------------------------------------
+Thank you, Blaine. And thank you all for joining us on today's call. Turn to slide 4.
+At Selecta, we're committed to advancing novel therapies for the treatment of autoimmune diseases with high unmet need. And today, we are thrilled to announce our merger with Cartesian Therapeutics, a private clinical-stage biotech company pioneering RNA-cell therapies for the treatment of autoimmune diseases that shares the same mission.
+The transaction was a culmination of thoughtful and thorough review of strategic opportunities to drive significant long-term value for stockholders. RNA-cell therapy represents a profoundly exciting novel approach with the potential to overcome the limitations that have historically prevented the application of conventional cell therapies for treating autoimmune diseases. The merger establishes a publicly traded company focused on advancing the Cartesian pioneering pipeline with a clinically validated lead program, integrated capabilities, and a strong cash position to carry the company through multiple key catalysts.
+Cartesian's pipeline is backed by a strong IP portfolio and consists of several exciting programs with potential to address some of the most pressing areas of unmet need for autoimmune disease. This includes the company's lead asset, Descartes-08. Earlier this year, Cartesian reported positive Phase-2 data in which deep and durable clinical responses in patients with myasthenia gravis or MG were observed, underscoring the potential of this approach in autoimmune indications.
+Cartesian's previous Chief Executive Officer, Murat Kalayoglu, who has joined the company's Board of Directors will walk us through the pipeline in greater detail shortly. Selecta and Cartesian each bring distinctive and complementary capabilities to the table. Our combined strength result in a fully integrated company with in-house GMP manufacturing, R&D and regulatory expertise, and clinical operations. Together with Selecta's existing public company infrastructure, we believe the combined company has a solid foundation and is well-positioned for success.
+With several potential near-term catalysts on the horizon, including data for the ongoing Phase-2B trial in patients with MG, 2024 is poised to be an exciting year for Cartesian. Importantly, with our cash resources expect to support the continued development of Cartesian's pipeline through the Phase-3 development of Descartes-08 in MG, as well as the advancement of several additional RNA-cell therapeutic programs, we firmly believe we are in a position to deliver on our mission to improve the lives of patients suffering from autoimmune diseases.
+Turning to the details of the agreement on slide 5. The merger was structured as a stock-for-stock transaction, and the rich pro forma ownership will be split across Cartesian's stockholders, Selecta's stockholders, and PIPE participants at approximately 58%, 21.4%, and 20.6%, respectively. Our pro forma cash balance of over $110 million includes $16.3 million in proceeds from Selecta's concurrent PIPE financing announced in conjunction with the merger. The PIPE financing was led by Selecta Board member, Tim Springer, and we're very pleased to have his support.
+We believe our strong balance sheet can support the continued development of Cartesian's pipeline for the Phase-3 development of Descartes-08 in MG, as well as the advancement of several additional RNA-cell therapy clinical programs. The combined company will be known as Cartesian Therapeutics effective today, and our Nasdaq ticker symbol will change to RNAC effective prior to the opening of trading tomorrow, November 14, 2023.
+It was important to us that any transaction we entered into not only offered an opportunity for significant value creation from the investment of our existing cash resources, but as it turns, maximize the value of SEL-212 for existing Selecta stockholders without dilution. We feel that the structure of this merger agreement reflects those two key priorities.
+Notably, as part of transaction, transfer with contingent value rights or CVRs will be distributed for Selecta stockholders and holders of Selecta-2022 warrants as of the close of business on December 4, 2023, the record date. Holders of the CVR will be entitled to potential semi-annual distributions, representing certain cash payments received by the company related to our legacy assets. This includes potential future royalty and milestone payments for SEL-212 made by Sobi, our commercialization partner.
+We remain excited about the potential of SEL-212 to serve as a once-monthly uricase-based treatment for patients with chronic refractory gout. And we are pleased that through these CVRs, our stockholders will be in a position to continue to realize the significant value associated with this potential stream of payments.
+Moving on to an overview of the combined organizations shown on slide 6. As we embark on this exciting new chapter, I'm thrilled to announce that I will continue to lead the combined company as President and Chief Executive Officer. The balance of our leadership team will be comprised of existing team members from both companies, all of whom are deeply committed to the mission of bringing meaningful therapeutic options to patients with autoimmune diseases. I'm confident that each of these exceptionally talented individuals will play a pivotal role in steering Cartesian towards continued success.
+Blaine Davis, Chief Financial Officer of Selecta; as well as Matt Bartholomae, general counsel at Selecta, will continue to serve in these roles for Cartesian. They will be joined by several members of the legacy Cartesian team, including Dr. Metin Kurtoglu as Chief Operating Officer; Dr. Milos Miljkovic as Chief Medical Officer; Dr. Chris Jewell as Chief Scientific Officer; and Dr. Emily English as Vice President of Quality.
+The combined company's Board of Directors will be led by current Selecta Chairman, Carrie Cox. Carrie will be joined by the remainder of the existing experienced Selecta Board, as well as Cartesian's co-founders, Dr. Murat Kalayoglu and Dr. Michael Singer. Cartesian's success thus far is a true testament to the relentless dedication and hard work of Murat, Michael, and the rest of the Cartesian team. I look forward to Murat's and Michael's continued contributions as members of the Board.
+With that, I'd now like to turn the call over to Murat to tell you more about Cartesian and why we believe the combined company is poised for success as we work toward our mission of advancing novel therapies for the treatment of autoimmune diseases with great unmet need. Murat.
+--------------------------------------------------------------------------------
+Murat Kalayoglu, Cartesian Therapeutics, Inc. - Director and Co-Founder    [4]
+--------------------------------------------------------------------------------
+Thank you, Carsten. Thank you to everybody joining us on today's call. I'm excited to share more about Cartesian and the potential of RNA-cell therapy. Let's begin on slide 7.
+As Carsten mentioned, Cartesian and Selecta hold a shared vision of bringing meaningful therapeutic options to patients with autoimmune diseases. We are confident the merger marks a pivotal step towards achieving this goal. While conventional DNA-engineered-cell therapies have demonstrated high efficacy in treating several blood cancers, the associated toxicities, need for lymphodepletion chemotherapy, and high cost have limited their use beyond oncology.
+RNA-cell therapy in contrast, has the potential to overcome these challenges, enabling patients to be dosed more reliably and repeatedly at safe therapeutic doses in an outpatient setting, and without the need for preconditioning chemotherapy. Ultimately, we believe this translates into the ability to expand the application of cell therapies into autoimmune disease.
+Our confidence in this novel approach is underscored by clinical data from our lead asset, Descartes-08, a potential first-in-class RNA CAR-T cell therapy for autoimmune diseases. We previously reported positive data from a Phase-2A trial in patients with MG in which Descartes-08 was administered in the outpatient setting without preconditioning. Descartes-08 was observed to be safe and well tolerated and to induce deep and durable responses.
+To support our pipeline, we have built out wholly owned internal manufacturing and R&D capability, which allow us to optimize processes rapidly and in an iterative manner, offering unique strategic advantages that further position us for success. Beyond Descartes-08, we have a growing pipeline of RNA-cell therapies. All of which are derived from our proprietary technology and manufacturing platform, the RNA Armory.
+The RNA Armory is designed to enable precision control and optimization for engineered cells for diverse cell therapies. This platform enables us to design therapies to fit patients' need and target multiple modalities, including autologous, allogeneic, and in vivo transfection approaches.
+In addition to our novel approach, another key differentiator that we believe sets Cartesian apart is our in-house GMP manufacturing facility located in Gaithersburg, Maryland. Slide 8. We believe having this in-house manufacturing enhances our control of product quality, production schedules, and costs, allowing us to move assets from preclinical to clinical development quickly and cost effectively. Of note, in the last five years, all six of our IND application submissions were accepted, which we believe speaks to the strength of the team and quality of our GMP manufacturing management systems that are focused specifically on RNA-cell therapy.
+Now, turning to slide 9. I would now like to spend some time talking you through Cartesian's approach, pipeline, and ultimately, why we believe that our RNA cell therapies have the potential to serve as meaningful interventions for the treatment of autoimmune diseases. Perhaps, the best way to understand RNA-cell therapy is to contrast it with conventional DNA-engineered-cell therapies.
+When using DNA engineered cell therapies, what we observed is gene transfer that irreversibly and permanently modify the cell at the level of the cell's genome. Upon administering to the body, the cells find their target, become activated, and begin to proliferate. As this process occurs, the engineered DNA translates into protein that has also amplified exponentially.
+Now, these cells are administered at a subtherapeutic level and proliferate into a therapeutic window. Unfortunately, so not unexpectedly, the cell does not know to stay at the therapeutic window. As the cell continues to proliferate and cross toxicity threshold, we begin to see the toxicities that have become synonymous with DNA-cell therapies, particularly DNA CAR-Ts, such as cytokine release syndrome, neurotoxicity, and increased risk of infections.
+What's more, in order to create the immunological space for these cells to be able to proliferate in the first place, these DNA-engineered-cell therapies require administration of pretreatment chemotherapy. As we know by design, chemotherapy results in cell ablation and induces cytopenias, which of course, in themselves are hematologic toxicities. This necessitates the need to administer these therapies in an inpatient setting in order to facilitate close patient monitoring. So as you can see the risk-benefit profile associated with these DNA-engineered-cell therapies generally limits application beyond patients with very advanced disease.
+Now, in contrast, as you'll see on the next slide, slide 10. By leveraging our RNA-based approach, we believe we can develop potent yet safer cell therapies capable of being administered in an outpatient setting. Ultimately, this could expand the reach and potential of cell therapy for the treatment of autoimmune diseases.
+When we think about RNA-engineered-cell therapies, an important component is the fact that RNA has a predictable half-life. As a result, we are able to control the pharmacokinetics and pharmacodynamics of our product candidates. When our RNA-engineered-cell therapies are administered, similar to DNA-engineered cell therapies, they locate their target and become activated and proliferate.
+However, in contrast with DNA-engineered cell therapies, the CAR signal we've engineered is designed to enable to sell to dilute out naturally. What this translates to is the potential to administer our therapies at therapeutic doses without uncontrollable proliferation. And perhaps most importantly, since we're not administering these therapies at subtherapeutic levels and then expecting that they will proliferate into a therapeutic window, we expect that there will be no need to administer pretreatment chemotherapy.
+To date, we've administered our lead RNA-cell therapy product candidate Descartes-08 to over 60 open-label patients that have not observed cytokine release syndrome, neurotoxicity, or infections. In addition, patients receive their treatments on an outpatient basis. And in fact, many of them at community clinics. So in summary, our RNA-cell therapies are essentially designed to shift the risk benefit profile in ways that favor treating more patients with various types of autoimmune disease.
+Moving on to our pipeline on slide 11, it's important to call attention to the fact that through leveraging our proprietary RNA Armory platform, we can deploy three different modalities across our pipeline. In addition to the autologous RNA CAR-T approach using the Descartes-08 and 15 which I'll discuss shortly, we also have an allogeneic approach where we make a mesenchymal stem cell or MSC and engineer it with the combination of RNA therapeutics for use as both the factory and vehicle for creating and delivering the combination to the treatment site. Descartes-33 is an example of that approach, where we engineer the MSC with the hyperactive DNAs to target neutrophil extracellular traps or NETs, key drivers of the pathogenesis of autoimmune diseases such as lupus.
+Finally, our third modality is in vivo lymph node transfection, which aims to turn a lymph node into a factory for making CAR-T cells and other types of RNA-engineered cell. The goal being that naive T cells enter the lymph node, and then, exit it armed as engineered CAR-T cells.
+Now, turning to our lead program in the next slide, Descartes-08 and our lead indication, generalized myasthenia gravis, or MG. MG is a rare autoimmune disease that causes debilitating muscle weakness and fatigue. It is believed to affect over 120,000 patients in the US and Europe. There are no known cures for MG, and the current standard of care consists of chronic use of steroids and other immunosuppressants, which of course, are not without their own toxicities.
+While there are some newer agents available, including complement inhibitors and anti-FcRn antibodies, they tend to only offer modest responses of chronic administration necessary in order to maintain those responses. We believe that applying CAR-T cell therapy to MG has the potential to induce deep and durable responses, and would be a welcome addition to the toolkit for both physicians and patients with MG.
+Additionally, MG represents an excellent starting point for deepening our understanding of the potential that RNA-cell therapy could hold in other autoimmune diseases, as the pathogenesis for MG is similar to that with which we see across many autoimmune diseases. That is, it involves attacks with -- an attack with both T cells as well as on plasma cells.
+Turning to Descartes-08, which is our approach to treating patients with MG which we describe on slide 13, I'd like to start by highlighting that Descartes-08 was granted US FDA orphan designation for MG in 2022, which we believe provides further support for its potential. To our knowledge, Descartes-08 is the first at RNA-engineered CAR-T in clinical development for an autoimmune disease. From a manufacturing perspective, typical lot processing times for infusion are within about three weeks.
+Descartes-08 is designed to target B cell maturation antigen or BCMA. BCMA is expressed in the very cells that are pumping out or secreting the autoantibody, which are long-lived plasma cells that survive for decades and expresses antigen ubiquitously. We believe this antigen represents a good target not only in MG but in many other autoimmune diseases as well.
+The other cell type that expresses BCMA is the plasmacytoid dendritic cell, which secretes a type of interferon that has been shown to contribute to disease in lupus and other autoimmune disease. So we believe BCMA is an encouraging target given our capabilities of going after long-lived plasma cells as well as plasmacytoid dendritic cells.
+Turning to slide 14, our ongoing Phase-2 study with Descartes-08 is broken into three parts. Part 1, the dose escalation portion aim to assess the safety and manufacturability of Descartes-08 administered in three ascending doses to each of three eligible patients. Descartes-08 was well tolerated with no cytokine release syndrome or other serious product-related adverse events.
+From there, we move to Part 2, the dose expansion portion of the trial. This portion was intended to assess the safety and preliminary efficacy of Descartes-08 when administered repeatedly across three different treatment schedules at the highest dose identified in Part 1. What we observed in Part 2 is that six weekly infusions of Descartes-08, notably in the outpatient setting and without pretreatment chemotherapy elected deep, durable responses in patients with MG. I will discuss these results in greater detail shortly.
+Finally, Part 3 of this study is the ongoing Phase-2B portion, which is a randomized placebo-controlled study. Enrollment in the Phase-2B study is ongoing, and we expect to share top-line data in mid-2024.
+Now, moving to slide 15. Let's talk about the Phase-2A study. The results of which were published in The Lancet Neurology this past summer.
+Before I get into the data, I'd like to call attention to study population which was comprised of patients with particularly advanced diseases assessed by both patient and clinical -- clinician reported outcomes. More specifically, 79% of patients were classified at screening to have MGFA Class III or IV disease, which means that they have moderate to severe weakness affecting their muscles. As I walk you through the data, it is important to keep this context in mind.
+Beginning on slide 16, Descartes-08 was observed to be safe overall and well tolerated. Notably, there were no reports of any dose-limiting toxicities, episodes of cytokine release syndrome or neurotoxicity. As I discussed earlier, a key differentiator between RNA-engineered cell therapy compared with conventional DNA-based approaches is that RNA-cell therapy does not require pretreatment chemotherapy. Accordingly, there were no induced hematological toxicities observed.
+And as a reminder, it has this impressive safety profile that enables outpatient treatment with Descartes-08 for all patients. Beyond this favorable safety profile, we were also highly encouraged by the clinical response data we have observed. Slide 17 highlights data from the 10 patients who completed all six doses of Descartes-08. The four graphs shown on the slide are scales commonly used to assess the severity of myasthenia.
+The MG-ADL and QOL graphs in the top left and bottom right respectively are from the patients' perspective, while the remaining two, the MGC and QMG graphs are physician assessments. The ones with the red dotted line are quantitative standardized validated instruments that are used in registration studies. And a reduction underneath that red line is a clinically meaningful decrease in that score, indicating a clinically meaningful improvement.
+There are a few key findings I would like to draw attention to. First, the magnitude of clinical benefit appears to be relatively large as you can see based on the delta we see between the clinically meaningful red line and what patients are achieving. We're also encouraged by the fact that both the patient scores as well as the physician scores correlate with one another.
+Finally, we observe impressive durability. I'll note that we show on this slide data out to nine months, whereas our publication, The Lancet Neurology, only went out to six months. This durability bolsters our belief that our unique approach has the potential to drive clinically meaningful disease improvement.
+Now, as I mentioned earlier, we're currently enrolling patients in the Phase 2B randomized placebo-controlled double-masked portion of the trial which is summarized on slide 18. An important element of this study is its crossover design which will provide any patient originally assigned to placebo the opportunity to receive Descartes-08 after completing study treatment.
+The study is designed to assess the primary endpoint of the proportion of patients achieving a six point or greater reduction in their ADL score at day 85. Secondary endpoints are designed to assess a variety of additional clinical outcomes. We look forward to sharing our top-line results with you, which we expect in mid-2024.
+As we collect additional data in MG, we are also keenly interested in the potential to leverage our learnings to expand Descartes-08 into other autoimmune indications. I'll briefly call attention to data shown on the right side of slide 19 from a patient we treated under expanded access with autoimmune retinitis, a rare ocular disease where the auto antibodies attack the retina, resulting in a reduction in visual acuity.
+This patient was treated with the same course of therapy that we are assessing in our MG trial. And what we observed was a two-line clinically significant improvement in their vision that correlated with the disappearance of three of the five auto antibodies associated with the disease. We are encouraged by these data which we believe offer early support for Descartes-08's potential outside of MG.
+Looking ahead, we are in the process of initiating a Phase-2 study in lupus for which we have already received IND clearance in the first half of next year. In addition, we plan to initiate two separate Phase-2 basket studies, one in ocular autoimmune disease and the other in vasculitic autoimmune disease in mid-2024, in the second half of 2024, respectively.
+Beyond Descartes-08, we are also focused on advancing our next-generation anti-BCMA rCAR-T product candidate, Descartes-15, which as with all of our assets was derived from our proprietary RNA Armory platform. We designed Descartes-15 to be more resistant to recycling of the CAR upon multiple antigen exposures. This is a particularly important feature to increase the durability of CAR expression on the surface of these cells.
+And as you can see on the graph shown on slide 20, there was a significant increase in potency between Descartes-15 and 08. We are excited to introduce Descartes-15 into the clinic which we expect in 2024. Leveraging our proprietary RNA Armory platform, we believe we are uniquely positioned to advance and evolve our pipeline of novel RNA-cell therapy product candidates across three different modalities which we'll reveal on slide 21.
+In addition to our autologous approach which is represented by Descartes-08 and Descartes-15, we are also working to advance allogeneic or off-the-shelf therapies that leverage mesenchymal stem cells rather than T cells. As I discussed earlier, Descartes-33 leverages this approach, and we are currently assessing its potential for the treatment of certain autoantibody-associated autoimmune diseases.
+In preclinical studies, Descartes-33 was observed to induce potent degradation of disease, enabling neutrophil extracellular traps or NETs. And finally, we look forward to sharing more about our earlier work, which employs our third modality, in vivo lymph node transfection in due course.
+Before we open the call up to questions, I'd like to turn it back over to Carsten for closing remarks. Carsten.
+--------------------------------------------------------------------------------
+Carsten Brunn, Selecta Biosciences, Inc. - President, CEO, and Director    [5]
+--------------------------------------------------------------------------------
+Thank you, Murat. Looking ahead, we can see on slide 22 that 2024 is poised to be a potentially transformative time for Cartesian marked or we anticipate will be multiple exciting value-driving milestones.
+And with the combined company's cash following the close of this merger, expected to be over $110 million, which includes proceeds from the concurrent PIPE financing, we believe Cartesian is well positioned to support the continued development of Descartes-08 through Phase 3 as well as the advancement of additional programs.
+So in closing, Selecta and Cartesian each bring distinctive and complementary capabilities to the table to create a fully integrated publicly traded company with in-house GMP manufacturing, R&D and regulatory expertise, and clinical operations. Through this merger, we believe Cartesian is best positioned for future success and value creation, and to ultimately unlock the full potential of RNA-cell therapies for autoimmune diseases.
+I'd like to take the time and thank all those involved in this merger for the teamwork and collaboration. Most importantly, I'd like to thank the Selecta and Cartesian teams for their unwavering commitment to improving the lives of patients suffering from autoimmune diseases. Without your hard work, we would not be where we are today. We're excited for the journey ahead. And with that, we can open the call for Q&A. Operator?
+
+================================================================================
+q-and-a
+--------------------------------------------------------------------------------
+Operator,     [1]
+--------------------------------------------------------------------------------
+Thank you. (Operator Instructions) Kristen Kluska, Cantor Fitzgerald.
+--------------------------------------------------------------------------------
+Jason Bouvier, Cantor Fitzgerald, L.P. - Analyst    [2]
+--------------------------------------------------------------------------------
+Hi, this is Jason Bouvier on for Kristen Kluska. One question from us. Can you talk a little bit about the size -- actually, two questions, sorry. The size of the other opportunities for Descartes-08 outside of MG?
+And then, it looks like for Descartes-15 is conferring a bit more potent properties. I'm wondering what the mechanism is there? And then, what further indications that technology could extend into? Thank you.
+--------------------------------------------------------------------------------
+Carsten Brunn, Selecta Biosciences, Inc. - President, CEO, and Director    [3]
+--------------------------------------------------------------------------------
+Yeah. Jason, that's a that's a great question. I think first of all, we're really excited about the potential actually in MG, given the results that Murat just showed you and they're published in Lancet Neurology, we see a deep and durable response. We believe actually, is truly differentiated potentially versus other competitors in this marketplace and could be really transformational for patients. So that alone, we see tremendous commercial opportunity to begin with.
+As Murat mentioned, we are clear to start the IND and start a study in SLE the first half of next year. That obviously is a large unmet need. And we're also looking at other therapeutic areas in terms of where this therapy might be applicable.
+We're doing two -- or we're kicking off two basket trials. One in autoimmune ocular diseases, and the other one, vasculitic autoimmune diseases as well. So I think there's really multiple applications. We're really excited about actually having really strong Phase-2A data in MG, which we think is a very strong commercial play.
+On Descartes-15, I hand over to Murat. Just talk again a little bit about the differentiation action, why is it more potent based on the recycling of the CAR-T receptor?
+--------------------------------------------------------------------------------
+Murat Kalayoglu, Cartesian Therapeutics, Inc. - Director and Co-Founder    [4]
+--------------------------------------------------------------------------------
+Sure. Thanks, Carsten. Yeah, so the Descartes-15 was engineered with an approach that has been years in the making, that reduces the recycling of the CAR upon binding to its antigen. So typically, what happens is when a CAR binds its target there, that the CAR gets internalized, and we've engineered the CAR to dramatically slowdown that internalization recycling. And as a result, even after multiple exposures, we see that Descartes-15 is capable of persisting in its killing activity at relative to Descartes-08. We’ve actually now applied that technology across our platform of RNA CAR-Ts for our next-generation autologous CAR-T programs.
+--------------------------------------------------------------------------------
+Jason Bouvier, Cantor Fitzgerald, L.P. - Analyst    [5]
+--------------------------------------------------------------------------------
+Thanks a lot.
+Thank you. Joseph Schwartz, Leerink.
+--------------------------------------------------------------------------------
+Joseph Schwartz, Leerink Partners LLC - Analyst    [6]
+--------------------------------------------------------------------------------
+Great. Thanks very much. I was wondering if you could talk a little bit more about the work you've done to establish the optimal dose level and schedule for Descartes-08? And do you think the dosing will need to be any different in different settings?
+And then, I noticed that the retinitis data in your deck was from 2000. So I was wondering why wasn't that pursued initially? Does Descartes-08 readily cross the blood-brain barrier or get to the retinal compartment sufficiently? And yeah, those are my first two questions. Thank you.
+--------------------------------------------------------------------------------
+Murat Kalayoglu, Cartesian Therapeutics, Inc. - Director and Co-Founder    [7]
+--------------------------------------------------------------------------------
+Sure. Yeah. With respect to your first question around the dose optimization on slide 14, you'll see that in Part 1 of the study, we interrogated a low and then, a medium and then, a high dose in an intra-patient dose escalation arm. And then, advance the highest dose into Part 2, where we administered it at various different schedules. Twice a week, once a week, or once a month, and what we saw is that the weekly administration at the highest dose that we administered from Part 1 gave the deep, durable responses that you saw.
+In addition, of course, the once weekly schedule tends to be more convenient for patients as well as for clinic scheduling infusions. So that was how we interrogate at that dose. We're comfortable with that dose moving forward with Descartes-08. And of course, with our next-gen products, whether it's 15 or others that target other antigens, that interrogation will need to be done again because of the differences in pharmacokinetics. So it could be that Descartes-15 is as a less frequent administration schedule for example, we'll have to determine that empirically.
+With respect to your question around the autoimmune retinitis data, so those slides, those -- sorry. Those graphics, those photos were some taken from an article from Heckenlively from 2000. They are not related to the patient that we recently completed treatment for. They're representative photos of what autoimmune retinitis looks like.
+--------------------------------------------------------------------------------
+Joseph Schwartz, Leerink Partners LLC - Analyst    [8]
+--------------------------------------------------------------------------------
+Okay. Yeah, it is fun. Just photographs. Right. So what about the ability of Descartes-08 to penetrate the retina and cross the blood-brain barrier, given it's different disease compartments in MG? I'm just curious about that.
+--------------------------------------------------------------------------------
+Murat Kalayoglu, Cartesian Therapeutics, Inc. - Director and Co-Founder    [9]
+--------------------------------------------------------------------------------
+Yeah. I think that it's unlikely that that is what the mechanism is. I think the mechanism is, first and foremost, the elimination of the long-lived plasma cell niches that are actively secreting autoantibody that is attacking the retina, right? So the LLPCs are sequestered in various niches, including the bone marrow, et cetera, and pathogenic autoantibody producing plasma cells as well as the BCMA positive plasmacytoid dendritic cells are what are being targeted with respect to anti-BCMA RNA CAR-T.
+--------------------------------------------------------------------------------
+Joseph Schwartz, Leerink Partners LLC - Analyst    [10]
+--------------------------------------------------------------------------------
+That's very helpful. Thank you.
+--------------------------------------------------------------------------------
+Carsten Brunn, Selecta Biosciences, Inc. - President, CEO, and Director    [11]
+--------------------------------------------------------------------------------
+Thank you, Joe.
+--------------------------------------------------------------------------------
+Operator,     [12]
+--------------------------------------------------------------------------------
+John Newman, Canaccord.
+--------------------------------------------------------------------------------
+John Newman, Canaccord Genuity Group Inc. - Analyst    [13]
+--------------------------------------------------------------------------------
+Hi there. Thanks for taking my questions. Just had a question on Descartes-08 in terms of the mechanism. Just curious as to what you currently understand regarding the long-term levels of B cells. Is the treatment eliminates the B cells or if it just modulates the levels and B cells long term?
+--------------------------------------------------------------------------------
+Murat Kalayoglu, Cartesian Therapeutics, Inc. - Director and Co-Founder    [14]
+--------------------------------------------------------------------------------
+Sure. Yeah. So the mechanism of I think CAR-T in general and autoimmunity is a work in progress, right? So it's important to differentiate B cells in this regard from long-lived plasma cells. These cells mature into plasma blasts, and then, into plasma cells, long-lived plasma cells which persist for potentially decades.
+And along the path of maturation, they change expression of antigens. So B cells which really, from the most part, hang onto the antibody they make on their cell membrane, are expressing CD19 and not BCMA. Whereas as they mature and become long-lived plasma cells, they are no longer hanging on to the antibody on the surface, but rather, secreting that auto antibody and not expressing CD19 but expressing BCMA.
+So there are multiple targets within autoimmunity. We certainly think that B cells that express CD19 are a viable target, as are the plasma cells that express BCMA that are actually secreting the vast majority of the auto antibody. We think that it's important to go after and interrogate multiple targets in autoimmunity.
+There's likely -- and the -- I think, the emerging consensus of CAR-T therapy, not just our approaches but others within autoimmunity, is likely more complex than even going after the target. These are complex cell therapies, and we and others are seeing other activities beyond killing BCMA-positive or CD19-positive cells such as reductions in inflammatory cytokine, such as dramatic shifts in T and B cell repertoires, with some clones that come to dominate the repertoire and other clones that contract and disappear after infusion.
+So it will be quite interesting and important to define the different mechanisms at play because I think ultimately, the capacity of CAR-Ts to target multiple nodes of the disease process simultaneously will help explain the deep and durable responses that are seen with CAR-Ts and autoimmunity, in contrast to some of the more typical, you know, antibody therapies that might have more single mechanisms that might have more modest and transient responses.
+--------------------------------------------------------------------------------
+John Newman, Canaccord Genuity Group Inc. - Analyst    [15]
+--------------------------------------------------------------------------------
+Okay, great. And then, I just had one additional question on the CVRs. Just curious if you're able to talk a little bit about how much of the CVRs are tied to the royalty on 212 versus other assets or value? Thanks.
+--------------------------------------------------------------------------------
+Carsten Brunn, Selecta Biosciences, Inc. - President, CEO, and Director    [16]
+--------------------------------------------------------------------------------
+Yeah. So that's a good question, John. And if you kind of look at our disclosure in the last couple of months, really look to get an unencumbered royalty stream actually around 212, the most recent announcement, that we transferred the manufacture of ImmTOR for 212 to Sobi with over 10 of our employees as well in manufacturing clinical operations.
+So we really have truly an unencumbered royalty stream. So that goes 100% of CVR plus all our legacy assets, ImmTOR, the IgA protease, Xork. So all of those actually apart of the CVR will flow back to legacy Selecta investors, John.
+--------------------------------------------------------------------------------
+John Newman, Canaccord Genuity Group Inc. - Analyst    [17]
+--------------------------------------------------------------------------------
+Great. Thank you.
+--------------------------------------------------------------------------------
+Operator,     [18]
+--------------------------------------------------------------------------------
+Thank you. Gil Blum, Needham & Company.
+--------------------------------------------------------------------------------
+Gil Blum, Needham & Company, LLC - Analyst    [19]
+--------------------------------------------------------------------------------
+Good morning, and thanks for taking our questions. So maybe a quick one on preclinical work that was done here. Do you have any ideas about what the durability is for CAR-T like this? I mean, I'm sure you've tried and booked out animal models to see how far it goes, and I have a follow up.
+--------------------------------------------------------------------------------
+Murat Kalayoglu, Cartesian Therapeutics, Inc. - Director and Co-Founder    [20]
+--------------------------------------------------------------------------------
+Sure. Yeah. So we've -- I would just draw your attention to slide 10. In thinking through the kind of area under the curve and exposure that we think about when we look at RNA-cell therapy, we designed these cells specifically to not have extended durability. This is a key area of contrast between RNA-cell therapy and DNA-cell therapy.
+So we are not actually interested in having a single administration with a cell that is potentially around for a very long period of time because we don't want to risk the proliferation of the cells across the toxicity threshold. Instead, we've engineered these cells to be administered over a course of six weeks, once a week for six weeks, to achieve the relevant clinical benefit long term by dosing within the therapeutic window and achieving the appropriate exposure over the course of that six-week period.
+So in our preclinical work, we see that the expression of CAR wanes to undetectable levels after about a week. And we've chosen the once weekly schedule in part, based on some of that work, as well as empirically showing that that dosing schedule appears to work the best relative to some of the others we tried. And finally, of course, because it's so convenient for patients and clinics alike to schedule weekly visits, as opposed to say twice weekly or something like that.
+--------------------------------------------------------------------------------
+Gil Blum, Needham & Company, LLC - Analyst    [21]
+--------------------------------------------------------------------------------
+Yeah. That was very helpful. And as a follow on, so these cells still expand on antigen interaction, right? I mean, they expand a little less, I guess, and then, lose their expansion over time because of dilution, but they still expand on antigen engagement. Is that correct?
+--------------------------------------------------------------------------------
+Murat Kalayoglu, Cartesian Therapeutics, Inc. - Director and Co-Founder    [22]
+--------------------------------------------------------------------------------
+Yeah, you're spot on. So it's not that these cells don't expand upon binding antigen activation, and then, they start proliferating like any other T cell. But unlike DNA CAR-Ts, where every division leads to the -- a daughter cell that looks genetically identical to the parent cell. With each division of an RNA CAR-T, you have a dilution of the amount of CAR, right? As one cell becomes two, becomes four, becomes eight. If you're a DNA CAR-T, you have exponential amplification of the CAR signal.
+But with an RNA CAR-T, as one cell becomes two, becomes four, et cetera, you actually have a dilution of the CAR signal because it's RNA that has a half-life, and you're, in essence, have a natural break in the proliferation of the number of functional CAR positive cells. Which is why you don't cross that toxicity threshold, and which is why we believe we don't see the cytokine release syndrome, neurotoxicity infections, et cetera.
+--------------------------------------------------------------------------------
+Gil Blum, Needham & Company, LLC - Analyst    [23]
+--------------------------------------------------------------------------------
+Okay. That makes sense. And maybe this is a little bit backwards considering you have functional data, but is there a biomarker that you guys follow?
+--------------------------------------------------------------------------------
+Murat Kalayoglu, Cartesian Therapeutics, Inc. - Director and Co-Founder    [24]
+--------------------------------------------------------------------------------
+So we are interrogating a number of different biomarkers. So these cells that we're targeting are not circulating in blood, right? So it's -- so the cells are tend to be sequestered in niches and tissues and bone marrow, et cetera, so there's no direct way to sample them. But we -- and we published on this.
+We've looked at a number of different markers. There's the plasma cell ligands back in April, which tend to correlate directly with the total load of plasma cells, are decreased significantly after the treatment and dose decreases appear to be a correlate with an improvement in disease severity. We see an improvement, the reduction is significant, reduction in auto antibody levels for example.
+So there are a number of indirect ways for us to be able to follow. And of course, as we gather more data and in particular, gather data in this controlled clinical study and the Phase-2B clinical study, we'll have an opportunity to fully interrogate the set of biomarkers to see something that correlates directly.
+--------------------------------------------------------------------------------
+Gil Blum, Needham & Company, LLC - Analyst    [25]
+--------------------------------------------------------------------------------
+All right. And one last one on your in vivo program. I'm assuming this is thinking about injecting naked RNA. Is that correct?
+--------------------------------------------------------------------------------
+Murat Kalayoglu, Cartesian Therapeutics, Inc. - Director and Co-Founder    [26]
+--------------------------------------------------------------------------------
+No. So the RNA that we would be introducing into the lymph node would be packaged and introduced with a nanoparticle.
+--------------------------------------------------------------------------------
+Gil Blum, Needham & Company, LLC - Analyst    [27]
+--------------------------------------------------------------------------------
+That makes sense. Really interesting. You can find a nanoparticle that goes directly to the lungs now without directly injected it into the lungs now, but something for next time.
+--------------------------------------------------------------------------------
+Murat Kalayoglu, Cartesian Therapeutics, Inc. - Director and Co-Founder    [28]
+--------------------------------------------------------------------------------
+Yeah. Thank you.
+--------------------------------------------------------------------------------
+Operator,     [29]
+--------------------------------------------------------------------------------
+Thank you. Boobalan Pachaiyappan, H.C. Wainwright & Co, LLC
+--------------------------------------------------------------------------------
+Boobalan Pachaiyappan, H.C. Wainwright & Co, LLC - Analyst    [30]
+--------------------------------------------------------------------------------
+Hi, good morning. Thanks for taking my questions, and congrats on the transaction. So do you potentially see opportunities to bring back any of Selecta's programs back into Cartesian's pipeline? Maybe -- I mean, you have not discussed anything about MMA program except the clinical trials at all. So maybe just to tie this with the previous question, do you plan to share any updates on the MMA program?
+--------------------------------------------------------------------------------
+Carsten Brunn, Selecta Biosciences, Inc. - President, CEO, and Director    [31]
+--------------------------------------------------------------------------------
+Yeah, that's a great question. So we actually -- as we said in the remarks, we actually put all the Selecta legacy assets into the CVR, and we continue to actively looking for partners. I think especially, ImmTOR is quite attractive since we went all the way through Phase 3 with 212 and have hundreds of patient data. So I think it's truly proven to induce immune tolerance.
+So there's definitely potential for additional partnerships, and the proceeds from those partners would flow back to legacy Selecta shareholders. But we've been very mindful actually to keep it separate from the Cartesian pipeline. So all the proceeds basically go towards the Cartesian pipeline.
+On the MMA program, we actually have not moved that program forward as we said. And we will not take the MMA program into the clinic.
+--------------------------------------------------------------------------------
+Boobalan Pachaiyappan, H.C. Wainwright & Co, LLC - Analyst    [32]
+--------------------------------------------------------------------------------
+All right. Thank you so much.
+--------------------------------------------------------------------------------
+Carsten Brunn, Selecta Biosciences, Inc. - President, CEO, and Director    [33]
+--------------------------------------------------------------------------------
+Thank you.
+--------------------------------------------------------------------------------
+Operator,     [34]
+--------------------------------------------------------------------------------
+Thank you. Uy Ear, Mizuho.
+--------------------------------------------------------------------------------
+Uy Ear, Mizuho Securities USA LLC - Analyst    [35]
+--------------------------------------------------------------------------------
+Guys, yeah, congrats on the merger. So big picture question. My first question is, could you talk a bit about the idea behind this merger? And when did the process start? I just wanted to get a better sense of how long ago this was into thinking. Thanks.
+--------------------------------------------------------------------------------
+Carsten Brunn, Selecta Biosciences, Inc. - President, CEO, and Director    [36]
+--------------------------------------------------------------------------------
+Yeah, that's a good question. And obviously, as I said earlier, we've been really working towards unlocking value for our stockholders around the 212-royalty stream and made excellent progress there. We actually have known Cartesian and Murat for over a year now actually. There's been mutual interest in the approach.
+Selecta was more of a direct approach, and we really initiated those discussions and felt the time was right this time to work together, and this came together all very quickly. I think it's a great bit, I think, for our stockholders to really retain the value of the royalty stream and the CVR and the legacy pipeline. And then, also, for Cartesian to go public and get the best of both worlds. Getting a functioning public company infrastructure, a very experienced Board, and a very high-profile investor, we thought was a very good fit strategically.
+--------------------------------------------------------------------------------
+Uy Ear, Mizuho Securities USA LLC - Analyst    [37]
+--------------------------------------------------------------------------------
+And my second question is have you spoken with the FDA? I guess, I just wanted a better clarification in terms of the Phase-2B studies with respect to the endpoint. Whether I think Carsten mentioned going into Phase 3. Just curious, is if the data then perhaps not sufficient to move forward into accelerated approval or something? Just wanted a better sense of the regulatory pathway for this study. Thanks.
+--------------------------------------------------------------------------------
+Carsten Brunn, Selecta Biosciences, Inc. - President, CEO, and Director    [38]
+--------------------------------------------------------------------------------
+Sure. Yeah. So the there really isn't any predicate that we are aware of for a placebo-controlled randomized controlled study for cell therapy and engineered adoptive cell therapy, and then, certainly not in autoimmunity. So we're going to learn a lot from this study, and we're going to allow the data to inform the size and design of a registration study.
+So when we -- when the data readout in mid-2024, we'll take a look at it and have the appropriate conversation with the agency at that time around the size and design of a pivotal Phase-3 study.
+--------------------------------------------------------------------------------
+Uy Ear, Mizuho Securities USA LLC - Analyst    [39]
+--------------------------------------------------------------------------------
+Do you envision a similar primary endpoint?
+--------------------------------------------------------------------------------
+Carsten Brunn, Selecta Biosciences, Inc. - President, CEO, and Director    [40]
+--------------------------------------------------------------------------------
+The agency encourages sponsors to interrogate a number of different endpoints in Phase-2 development, which is what we're doing. We've picked the MG-ADL as our primary, but certainly, are examining the array of different other endpoints along the way. So we'll take a look at all of it and make the appropriate decisions in collaboration with FDA for a pivotal study design.
+--------------------------------------------------------------------------------
+Uy Ear, Mizuho Securities USA LLC - Analyst    [41]
+--------------------------------------------------------------------------------
+Okay. And could you also speak a bit about the type of patient who would benefit from this or the type of patients who would initially benefit from this therapy?
+--------------------------------------------------------------------------------
+Carsten Brunn, Selecta Biosciences, Inc. - President, CEO, and Director    [42]
+--------------------------------------------------------------------------------
+We envision that patients with generalized myasthenia gravis who are Class 2, 3, and 4 would benefit from this treatment. The clinical -- the Phase-2B study includes that 93% plus of those patients that have non-MuSK disease. So you're pulling receptor autoantibody, other auto antibodies, as well as seronegative patients. So we'll again, we'll take a look at the data and design the Phase-3 study in a way that we believe is the most commercially relevant in helping the most patients with myasthenia.
+--------------------------------------------------------------------------------
+Uy Ear, Mizuho Securities USA LLC - Analyst    [43]
+--------------------------------------------------------------------------------
+Okay. Thank you.
+--------------------------------------------------------------------------------
+Carsten Brunn, Selecta Biosciences, Inc. - President, CEO, and Director    [44]
+--------------------------------------------------------------------------------
+Thank you.
+--------------------------------------------------------------------------------
+Operator,     [45]
+--------------------------------------------------------------------------------
+And ladies and gentlemen, this concludes your question-and-answer session. I would like to turn the conference back over to Dr. Carsten Brunn for closing remarks.
+--------------------------------------------------------------------------------
+Carsten Brunn, Selecta Biosciences, Inc. - President, CEO, and Director    [46]
+--------------------------------------------------------------------------------
+Thank you, operator, and thank you again to everyone for joining today's call. As you've heard, we look really forward to embarking on the next chapter of Cartesian Therapeutics and to providing future updates on the progress.
+And of course, if you have any questions or wish to connect in the near term, please don't hesitate to reach out to the team. Have a great day. Thank you.
+--------------------------------------------------------------------------------
+Operator,     [47]
+--------------------------------------------------------------------------------
+Thank you. This concludes today's conference call. We thank you all for attending today's presentation. You may now disconnect your lines and have a wonderful day.
+
+
+
+
+
+
+--------------------------------------------------------------------------------
+Definitions
+--------------------------------------------------------------------------------
+Preliminary Transcript: "Preliminary Transcript" indicates that the 
+Transcript has been published in near real-time by an experienced 
+professional transcriber.  While the Preliminary Transcript is highly 
+accurate, it has not been edited to ensure the entire transcription 
+represents a verbatim report of the call.
+
+EDITED TRANSCRIPT: "Edited Transcript" indicates that a team of professional 
+editors have listened to the event a second time to confirm that the 
+content of the call has been transcribed accurately and in full.
+
+--------------------------------------------------------------------------------
+Disclaimer
+--------------------------------------------------------------------------------
+Refinitiv reserves the right to make changes to documents, content, or other 
+information on this web site without obligation to notify any person of 
+such changes.
+
+In the conference calls upon which Event Transcripts are based, companies 
+may make projections or other forward-looking statements regarding a variety 
+of items. Such forward-looking statements are based upon current 
+expectations and involve risks and uncertainties. Actual results may differ 
+materially from those stated in any forward-looking statement based on a 
+number of important factors and risks, which are more specifically 
+identified in the companies' most recent SEC filings. Although the companies 
+may indicate and believe that the assumptions underlying the forward-looking 
+statements are reasonable, any of the assumptions could prove inaccurate or 
+incorrect and, therefore, there can be no assurance that the results 
+contemplated in the forward-looking statements will be realized.
+
+THE INFORMATION CONTAINED IN EVENT TRANSCRIPTS IS A TEXTUAL REPRESENTATION
+OF THE APPLICABLE COMPANY'S CONFERENCE CALL AND WHILE EFFORTS ARE MADE TO
+PROVIDE AN ACCURATE TRANSCRIPTION, THERE MAY BE MATERIAL ERRORS, OMISSIONS,
+OR INACCURACIES IN THE REPORTING OF THE SUBSTANCE OF THE CONFERENCE CALLS.
+IN NO WAY DOES REFINITIV OR THE APPLICABLE COMPANY ASSUME ANY RESPONSIBILITY FOR ANY INVESTMENT OR OTHER
+DECISIONS MADE BASED UPON THE INFORMATION PROVIDED ON THIS WEB SITE OR IN
+ANY EVENT TRANSCRIPT. USERS ARE ADVISED TO REVIEW THE APPLICABLE COMPANY'S
+CONFERENCE CALL ITSELF AND THE APPLICABLE COMPANY'S SEC FILINGS BEFORE
+MAKING ANY INVESTMENT OR OTHER DECISIONS.
+--------------------------------------------------------------------------------
+Copyright 2023 Refinitiv. All Rights Reserved.
+--------------------------------------------------------------------------------

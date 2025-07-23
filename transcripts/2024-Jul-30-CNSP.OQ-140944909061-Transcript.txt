@@ -1,0 +1,310 @@
+
+
+Refinitiv StreetEvents Event Transcript
+E D I T E D  V E R S I O N
+
+CNS Pharmaceuticals Inc Transaction with Cortice Biosciences Inc Call
+July 30, 2024 / 12:30PM UTC
+
+================================================================================
+Corporate Participants
+================================================================================
+
+ * John Climaco
+   CNS Pharmaceuticals Inc - Chief Executive Officer, Director
+ * Sandra Silberman
+   CNS Pharmaceuticals Inc - Chief Medical Officer
+ * Samuel Goldlust
+   Saint Luke's Cancer Institute - Medical Director
+
+================================================================================
+Conference Call Participants
+================================================================================
+
+ * Operator
+   
+
+================================================================================
+presentation
+--------------------------------------------------------------------------------
+Operator,     [1]
+--------------------------------------------------------------------------------
+Good morning and welcome to the CNS Pharmaceuticals corporate update webinar. This morning, the company announced the expansion of its pipeline with the in-licensing of late-stage novel potential blood-brain barrier permeable Avio taxane for the treatment of brain malignancies. My name is Jenene Thomas, Chief Executive Officer JTC IR , and I will be the moderator for today's event.
+(Operator Instructions) Note that this webinar is being recorded at the company's request and a replay will be made available on the company's website following the end of the event.
+At this time, I'd like to remind our listeners that remarks made during this webcast may state management's intentions, beliefs, expectations or future projections. These are forward-looking statements and involve risks and uncertainties. Forward-looking statements on this call are made pursuant to the Safe Harbor provisions of the federal securities laws and are based on CNS Pharmaceuticals current expectations and actual results could differ materially.
+As a result, you should not place undue reliance on any forward-looking statements. Some of the factors that could cause actual results to differ materially from these contemplated by such forward-looking statements are discussed in the periodic reports CNS Pharmaceuticals files with the Securities and Exchange Commission.
+These documents are available in the Investors section of the company's website and on the Securities and Exchange Commission's website. We encourage you to review these documents carefully. Additionally, certain information contained in this webcast relates to risk based on studies, publications, surveys and other data obtained from third party sources than the company's own estimates the research.
+While the company believes these third party sources to be reliable as the date of this presentation has not independently verified and makes no representation as to the adequacy fairness accuracy or completeness of or that any independent source has verified any information of term obtained by the third party sources.
+So here we are ready to get started and joining us on today's webinar from CNS Pharmaceuticals leadership team are John Climaco, Chief Executive Officer; Dr. Sandra Silberman, Chief Medical Officer, and we are also joined by Dr. Samuel Goldlust, Leading neuro ocologist and key opinion leader who served on the Medical Director of neurology or neurooncology at St. Luke's Health System.
+And I will now turn it over to you, John.
+--------------------------------------------------------------------------------
+John Climaco, CNS Pharmaceuticals Inc - Chief Executive Officer, Director    [2]
+--------------------------------------------------------------------------------
+All right. Thanks, Jenene, and thanks, everyone, for joining. Well as Jenene said, we made a major announcement today and we are really thrilled this has been a long time coming. And I want to introduce this just by kind of reminding everyone what our mission is. We are a drug development company, but we are a very specialized drug development company.
+We are working specifically on one of the worst of the worst cancers that's glioblastoma. This indiscriminate killer currently considered incurable. We have an incredible drug in a late-stage trial, but Berubicin and a novel anthracycline that crosses the blood-brain barrier. We are thrilled about that program. We are pushing it to its conclusion with the release of a data -- top line data for that potentially pivotal study planned for the first half of next year.
+Now we have been so laser focused, as we often say, on Berubicin that you might think that's all we are doing. But in fact, for years, we have been looking for another compound to build off the success that we've had with Berubicin and for this disease that has been an incredibly challenging process. We have spent over four years evaluating 200 plus compounds and projects in this space looking for something that we felt was as clinically impressive as Berubicin, and we have found just such a drug in TPI 287.
+Next slide, please. This drug is the equal in terms of our excitement to Berubicin. And this is, as Jenene said, a late-stage novel AAV taxane that crosses the blood-brain barrier and has some really outstanding clinical data behind it. So we think that this because of its mechanism of action, which is completely distinct from Berubicin how it could be used and the clinical data behind it.
+We think it is just an incredible complement to what we have in an expansion and furthering of our mission. We have always said as excited as we are about Berubicin, there is unfortunately not going to be a silver bullet for this very difficult-to-treat disease and metastatic brain cancers like it that, growth behind the blood-brain barrier, which make it very difficult to get potentially helpful drugs to the site of the tumor.
+So what we are announcing today is an exclusive license for TPI 287 from Cortice Biosciences in exchange for a little over 600,000 shares of the company's common stock. We will be developing this program starting immediately.
+And next slide, please. Let me tell you just a little bit without stealing the thunder from my colleagues, Dr. Silverman and Goldlust, but TPI 287, again, builds on the success that we have with Berubicin. We have developed an incredible clinical network, and I like to call an engine for developing drugs like this you it's one thing to have the molecule. It's an entirely different thing to plan, organize and execute the type of trial that we're doing for Berubicin that we've often talked about, which is a drug like this deserves a conclusive answer.
+The patients, the FDA, our shareholders deserve a conclusive answer, and that's what we designed with our CNS 201 study of Berubicin. We are moving in the same direction with a drug that is equally deserving of a pivotal study. And that is this late-stage blood-brain permeable AAV taxane that was designed specifically for the treatment of cancers like this.
+Let me just tell you a couple of really exciting things about this. First of all, this drug has been studied in a number of Phase 1 trials in over 350 patients to date. So this drug has seen a lot of action in human beings, demonstrating its safety and efficacy profile, which originally is what really excited us about this drug.
+Specific to GBM there's a few statistics. I think that should jump off the page for anybody that's been following our story, a 60% overall response rate, 40% of patients with progression-free survival at six months and most significantly, and I know doctors. So we're going to go less. We'll talk about this a lot, 13.4 month median overall survival for GBM, and these are recurrent patients.
+Again, these are patients that failed standard of care treatment and are back with their cancer growing aggressively. That's an incredible number. We didn't see in our evaluation of, as I said, over 200 different compounds and projects, anything that looked at exciting to us. This is an orphan designated disease. So again, that's excuse me, drug. So that's seven years of marketing exclusivity.
+So you can see we're lining up a program here. That sounds a lot like what we found in Berubicin something that could really change the game for these very, very sick patients. So we are just incredibly excited about this. It has taken a long, long time. We have always said that this was our mission and this was what we wanted to do, but we weren't just going to bolt on another project simply to have something else in our pipeline.
+We knew and believe very strongly that we have an incredible program in Berubicin we wanted an equally incredible program to follow up. And I think that we have found that. So without any more from me, let me turn it over to Sandra and to Dr. Goldlust to talk specifically about this really incredible drug and program. Thank you.
+--------------------------------------------------------------------------------
+Sandra Silberman, CNS Pharmaceuticals Inc - Chief Medical Officer    [3]
+--------------------------------------------------------------------------------
+As John said, we already have a program that is a potentially pivotal trial with Berubicin. But TPI 287 has been, as he said, also in number of patients with glioblastoma. And we find ourselves with that compound going into Phase 2 and discussions with regulatory authorities.
+So next slide, please. We know that glioblastoma, because of its steadiness, it's the most aggressive and currently incurable brain cancer. And the problem with it is that the blood-brain barrier limit the ability of cancer therapeutics to get access to them. So there are tight junctions, limiting the flow of materials into the brain and there's efflux transporters and those are lining the blood-brain barrier and transporting out of chemicals that are not considered that are considered toxic to the brain, which by most chemotherapeutics.
+So the next slide. So TPI 287 fits into our armamentarium of drugs that are permeable through the blood-brain barrier. It is mainly based on the fact that it's not a substrate for the MDR Peak like a protein glycoprotein transporter, and it was designed so that it can get across the blood-brain barrier, but it has the same properties as at taxi.
+Next slide, please. What you see here? Is it compared to both paclitaxel and docetaxel or two of the most well-known members of the taxane family to look at the permeability of the brain to these compounds. And as seen with wild-type PGP positive animals, we see that paclitaxel and docetaxel have almost no penetration of the brain, whereas TPI 287 does.
+And when we knock out the PGP, we see that probably the greatest reason for lack of permeability is that transporter. And when we look at the brain concentrations up compared to the plasma concentrations, we see that there are sustained and very high levels in the brain of animals.
+Next slide, so what is this compound. It's a -- it, as we said, an ABO taxing. And the reason that's an ABO tax in another taxane is because we it has a five member bring rather than a six member growing at the core. I'd also say change that change that give it the properties of that binding to the PGP receptor.
+The other thing to know about it is the mechanism of action is exactly that of the taxanes that bind to the microtubules and spindle and prevented the mitotic mechanism from moving forward. Also, as John said, it's been studied in over 350 patients. So we know a lot about its actual activity as well as it as it safety and in the Phase 2 studies where we've looked at glioblastoma, there was a considerable success.
+There was a 60% overall response rate. But even more important, as Dr. Goldlust will talk about, it was a 13.4 month median survival in a 64%, one year overall survival, and these were for heavily pretreated patients with glioblastoma. So again, it is an orphan drug that's been in this indication and for which CNS pharmaceuticals will be at talking with regulators and our team of investigators that we've already established to develop a Phase 3 program to look at the registration of this molecule.
+So I'll turn it over to Dr. Goldlust .
+--------------------------------------------------------------------------------
+Samuel Goldlust, Saint Luke's Cancer Institute - Medical Director    [4]
+--------------------------------------------------------------------------------
+So this is a little bit of background and double them with Sandra talked about. We've known and neurologists for decades that taxanes in a petri dish are particularly effective at treating glioblastoma cells. It's the in clinical practice of getting those that mechanism of action, that type of drug or class of drug into the brain. That's been the problem. I think if we if we look at this data here, it really speaks to and both support the idea that we know taxanes are effective in GBM, but also that it's getting into the brain is having a meaningful effect when it's formulated TPI 287.
+So as the investigator lead investigator in the Phase 1 study on this, this chart shows us a compilation of all the patients that were treated. And I think the real takeaway in addition to the fact that there were many durable survivors. Keep in mind that the average survival of recurrence is around six months. And there's no drugs that have been shown to prolong that six month interval.
+And we can see the median overall survival here is 13.4 months. In addition, as indicated by the purple triangles on some of these patients this 25, 24 patient group was heavily enriched with our MGMT unmethylated patients. Those are patients that historically don't respond to traditional chemotherapy with temozolomide, the first-line agent, but also historically and don't live as long as patients that have the opposite marker or MGMT methylated.
+So we have a 24 patient subset that had a long median overall survival, 64% alive at one year. And again, that's a recurrence coupled with the idea that these patients are some of the poor, prognostication patients from diagnosis. So really quick, really sort of puts this table rather was chart into perspective.
+We can take a look at the next slide. And although the combination of TPI 287 and Avastin was in dose escalation and wasn't compared in the trial to other combinations. We've just superimposed historical data in terms of progression-free survival and overall survival and historical data versus the outcome of our Phase 1 study.
+And you can see, I think I'd really encourage you to home in on the overall survival. We look at the brown curve of the TPI 287 and the vast and for purposes of I-Mab. And you can see it compares very favorably to other clinical trials of Avastin alone or Avastin plus. And if you look at that Avastin alone arm, it covers the six to nine range depending on the study. And again, the 13.4 months of overall survival is quite impressive. And so our plan, of course, is to verify this in a in a later-stage study.
+Also worth noting that the toxicity of the drug was in line with what we expected taxanes and so some peripheral neuropathy, some change in the white blood cell counts (technical difficulty).
+--------------------------------------------------------------------------------
+Sandra Silberman, CNS Pharmaceuticals Inc - Chief Medical Officer    [5]
+--------------------------------------------------------------------------------
+I think we lost a tactical list for now, but as he was saying, the safety is comparable to those of the other taxanes systemically. Again, what we saw was some myelosuppression with white counts lowering and some peripheral neuropathy, but there was no central cognitive changes in the patients and no obvious changes in neurological function. So I think we have characterized the drug quite well at this time and or are primed to go into a later-stage design study and have discussions with regulatory authorities on what they think the design of those studies could be.
+Back to John.
+--------------------------------------------------------------------------------
+John Climaco, CNS Pharmaceuticals Inc - Chief Executive Officer, Director    [6]
+--------------------------------------------------------------------------------
+Yeah. So as you can see from that data. Our excitement about this program I think is well founded. It fits with our lead program. It's a very similar type of drug situation in the sense that we have amazing data in terms of efficacy and safety from many, many patients in this in disease and this drug, we know that it does things to this disease. We see signal altering the course of this drug. As Dr. Goldlust said, we don't see these kinds of overall survival numbers. Anything like this from this disease, particularly in these unmethylated patients, which has such a poor prognosis.
+I want to point out one thing about this program that I'm sure is on investors minds. And that is what sort of does this do to the company overall in our in our focus. So to begin with this is our focus. This fits squarely within our mission. It fits squarely within our focus. It's completely complementary to Berubicin. But most importantly, I think from the perspective of where we go from here and how we execute, you have to understand that in order to, as I mentioned earlier, in order to develop a drug like this, it's one thing to have the molecule.
+It's another thing to have a program and a network of clinicians and the ability to execute a potentially pivotal study like the one that is warranted for TPI 287 based on the existing data that we have in that and that we've just gone over. The advantage that we have as a company and I think the thing that makes us the best folks in the world to investigate a drug like this and advanced the standard of care is we have already built that network. We have spent years developing our contacts, our relationships with key opinion leading investigators in the United States and in Europe that allow us to add to push the Berubicin program as fast as we did.
+I'll remind everyone with Berubicin we went from a standing start enrolling our first patient to complete enrollment of over 250 patients in a little more than 2.5 years, which is really remarkable, given that a program of that size in this disease. A lot of folks told us it might take five to six years to enroll. I think that speaks to the quality of our investigators, the quality of the study that Sandra design and the quality of our drug Berubicin, we can now repurpose that network.
+There is an equal amount of excitement in the neuro-oncology community based on Dr. Goldlust paper, which was recently published about the Phase 1 study of TBI 287, you can find a link to that paper in our press release today. But basically the community knows this is a very, very exciting cytotoxic chemotherapy, a possibility for this very desperate situation.
+We have that clinical network. We understand how to use it. We have built this program in conjunction with the fast-track designation at the FDA in terms of our Berubicin programs. So we have a very, very good rapport with the FDA. And we have a very good understanding of what it is that they are looking for in a drug like this.
+All of that will help us to reduce full time and importantly, cost developing this program a time really is money in the drug development business and the less time you can spend developing the less money you will spend and so we want to make certain. I think that investors understand that one of the things we're most excited about is really being able to borrow a phrase to push more content through the platform and the engine that we have already built.
+We have spent years and invested millions of dollars in building this system. We can now push another very exciting equally exciting program through it with our with our TPI 287 in license. So we really said we have spent years looking for a program like this negotiating with our friends at Cortice Bioscience to pull this drug in and on our work on this drug begins today.
+So with that, I think we can open it up to questions, Janene?
+
+================================================================================
+q-and-a
+--------------------------------------------------------------------------------
+Operator,     [1]
+--------------------------------------------------------------------------------
+(Operator Instructions) So we already have people that know the drill here.
+So we do have some questions in queue. So the first question is this looks like an excellent complementary asset. Can you talk about the differences in patient populations between the ongoing potentially pivotal program with Berubicin and the proposed Phase 3 study with TPI 287 for GPM? Are there patient characteristics that would make one asset more ideal than the other? And can you give us a sense of the additional GBM patients that this asset targets beyond your focus, but Berubicin?
+--------------------------------------------------------------------------------
+John Climaco, CNS Pharmaceuticals Inc - Chief Executive Officer, Director    [2]
+--------------------------------------------------------------------------------
+Okay. That's a great question. Sandra, why don't we start with you on that?
+--------------------------------------------------------------------------------
+Sandra Silberman, CNS Pharmaceuticals Inc - Chief Medical Officer    [3]
+--------------------------------------------------------------------------------
+Okay. And yeah, our program with Berubicin took all patients with recurrent GBM, and they were both MGMT methylated and unmethylated. I think what we've seen with TPI 287 in the poor prognosis patient population, which is the unmethylated that may be we would focus on patients with recurrent disease that are unmethylated for which current standard of care may not have as good of a outcome as it does with the methylated MGMT.
+The other thing is that we are probably going to move Berubicin because of its activity into an earlier stage disease. And so we made that big yet. We won't be overlapping as we go into primary recurrence after treatment with standard of care for TBI 287. As far as the combination, we've thought about that quite a bit. And anthracycline and taxane have been used for systemic disease throughout our treatment of major tumors.
+And anthracycline are actually limited by the fact that their cardio toxic what we filed with the Berubicin program is that there is no cardio toxicity as we've been seeing it. So that the use of this compound for other diseases that are metastatic to the brain that would be sensitive to anthracyclines would be very interesting to the use of TPI 287 in combination with relatively non overlapping toxicities, it would be something that we'd be exploring in the future.
+--------------------------------------------------------------------------------
+Operator,     [4]
+--------------------------------------------------------------------------------
+Okay. Our next question, we talked about Berubicin being a pipeline in a drug. Do you feel like to TPI 287 has a similar kind of potential?
+--------------------------------------------------------------------------------
+John Climaco, CNS Pharmaceuticals Inc - Chief Executive Officer, Director    [5]
+--------------------------------------------------------------------------------
+But you know, I'm going to get into remote over to Dr. Goldlust and Dr. Silverman. But my own personal opinion is absolutely is a very exciting drug with an incredible range of utility as I mentioned, it's been tested in over 350 patients in a variety of diseases comes from a well-known trusted family. You can hear a lot of similarities from what we talked about with Berubicin. And that is because this exactly the type of drug that we're looking for. So please doctors.
+--------------------------------------------------------------------------------
+Samuel Goldlust, Saint Luke's Cancer Institute - Medical Director    [6]
+--------------------------------------------------------------------------------
+I wanted to make sure I understand that. But could you repeat it for me, please?
+--------------------------------------------------------------------------------
+Operator,     [7]
+--------------------------------------------------------------------------------
+Apologies. So okay. So you guys talked about Erbitux and being a pipeline in a drug do you feel like TPI 287 has a similar kind of potential?
+--------------------------------------------------------------------------------
+Samuel Goldlust, Saint Luke's Cancer Institute - Medical Director    [8]
+--------------------------------------------------------------------------------
+But I think in addition to what was mentioned with the last question, because compared to its revenues slightly earlier in development into Berubicin. And we still have a dose expansion to do with TPI 287. And keep in mind that you read the Phase 1, we found the ideal dose, which was on the higher end of our escalation.
+So we saw all of this benefit, including with some patients that may have received, but we now know is a relatively subtherapeutic dose of the drug. So my expectation, my hope is that if we can treat all patients in those expansion at what we now know is the best those. We may even get more activity out of the drug than we have seen to date. So I think we have a little bit more to learn in terms of how much our mileage, so to speak, we can get out.
+--------------------------------------------------------------------------------
+Sandra Silberman, CNS Pharmaceuticals Inc - Chief Medical Officer    [9]
+--------------------------------------------------------------------------------
+Yeah. So let me add to that. In terms of pipeline, I will treat other diseases. And as I have alluded to. We think that taxanes are used in quite a number. It's very ubiquitously used for systemic disease to have one that actually gets into the brain and has activity in the brain opens up a host of different opportunities for us, including those that are sensitive to taxanes as well as anthracyclines.
+And we know that breast cancer for example is something is a disease that will metastasize to the brain and because it's a sanctuary and it doesn't get treated by systemic disease, will this no longer makes this drug is now no longer allowing the brand to be sanctuary. It's an area where the drug permeates and as we've noted that it has had success in a very difficult-to-treat disease, glioblastoma.
+And the safety is totally manageable because we've known taxanes for years over 50 years, working with them the same thing with anthracyclines. And I do think that getting these two drugs with access to the brain. It speaks to a lot of the attempts that are being made to try to get both anthracyclines like doxorubicin and the taxanes, paclitaxel, liposomal or albumin associated drug trying to get them into the brain. And I think that these two drugs exemplify what we've been looking for three years.
+--------------------------------------------------------------------------------
+Operator,     [10]
+--------------------------------------------------------------------------------
+Our next question, Dr Goldlust you were an investigator in the earlier trials. What is your personal take on 287 and what about the patients you tested?
+--------------------------------------------------------------------------------
+Samuel Goldlust, Saint Luke's Cancer Institute - Medical Director    [11]
+--------------------------------------------------------------------------------
+So I I've been an investigator on a lot of studies for recurrent GBM, including several immunotherapy studies. What I think we see what I've seen in trials is that there are a small subset of patients that respond to the drug of interest, but without sort of an overall benefit for the group. But I've never seen participated in a study that had such a profound improvement in our asset at recurrent. So it really stands out among the 20 or so studies are taking part for recurrent disease.
+--------------------------------------------------------------------------------
+Operator,     [12]
+--------------------------------------------------------------------------------
+And our next question is how did you find that asset? How does it compare to others you evaluated? And what was your selection criteria?
+--------------------------------------------------------------------------------
+John Climaco, CNS Pharmaceuticals Inc - Chief Executive Officer, Director    [13]
+--------------------------------------------------------------------------------
+Great question. So we found this drug, we've been aware of this drug for a number of years. Sandra and Dr. Don Picker, our Chief Scientific Officer, were actually too involved in the development of this drug at a previous sponsor. So we've been aware of this drug for some time, we worked with Dr. Goldlust on our Berubicin program.
+So we were aware of the work that he was doing and as exciting as it was, we knew as a company that we didn't want to suffer from any confirmation bias. So we said all the good things that we knew about this program aside and started canvassing the market and the scientific literature for other potential programs years ago, as I said, and I just sort of went back this morning to check this because it's a huge number.
+We did look at over 200 different molecules and programs of various stages in this space. We had a number of consultants working with us for over a year kicking the tires in diligence on this particular molecule on the clinical data, the CMC work behind it, which is actually extraordinary. Just as an aside, the a huge amount of time was spent by Cortice Bioscience developing a commercial pathway to manufacture this drug.
+So very advanced work there. But when we put all of those things together with the you might say, the amazing kind of cherry on top that really lights it up, which is that OS number at recurrence, it became clear that the drug that we knew from our colleagues work prior to the founding of CNS on this program. I really was the standout molecule in this space.
+And if I think about it from my somewhat biased perspective, I'm not surprised Sandra and Dan are two of the best drug developers in this space anywhere in the world. It's not surprising that they worked on this very exciting molecule early on, but we completed, I would say a full circle process. We started with something that we thought was interesting. We spent years evaluating it.
+We spent years evaluating other potential programs, all the while of course, focusing on our lead program and Berubicin but as we fully enrolled that study and saw its conclusion coming on the horizon, we felt that it was time as I said to take advantage of all the amazing work that we have done, building this drug development engine and spring boarding into another program. And it was clear based on our years of evaluation that this was the appropriate program for that.
+--------------------------------------------------------------------------------
+Operator,     [14]
+--------------------------------------------------------------------------------
+Okay. Next question. So how much additional cash you need to get to results? Why do this now if you're confident Berubicin since funding is limited?
+--------------------------------------------------------------------------------
+John Climaco, CNS Pharmaceuticals Inc - Chief Executive Officer, Director    [15]
+--------------------------------------------------------------------------------
+Yeah, that's a great question. I mean, the basic answer to the second part of the question is the time is right. We have the bandwidth to do it. We have the clinical network to do it. The sooner we get started on this program, the better we are incredibly confident in our Berubicin program that's going to deliver results next year and we want to get started. Now this drug was available and we wanted to pull it in now and get to work on it because time is of the essence for these patients. We think that this is going to be an amazing value creator for the company going forward.
+And to the first part of the question, let me say this, it's very important to understand that before you get to the point where you're dosing of first patient in a study of the kind that we've been executing with Berubicin and that we will execute for TPI 287. There are years of work and effort and planning that goes into developing a program like that. And getting the green light from the FDA to proceed getting all your investigators on board. All of that takes time. And all of that takes money.
+The important thing I think and we emphasize this in our press release today is that because we can repurpose so much of the work that we did Berubicin, we expect to be able to short cut a lot of that time and a lot of that effort and resource spend on this program to get it started. That said, there's still a year to 18 months of work prior, let's say, from today to the point where we expect to dose the first patient, but that's probably half the time that it might have taken otherwise where we've starting again from scratch as we did back in 2017 with this company in our Berubicin program.
+Overall, I would expect going forward that this program in terms of overall spend over the years that will be occupied. We'll probably cost us something similar to the Berubicin program. However, with a material savings upfront because of our ability, again, to repurpose that clinical program and all of the years spent building it and planning.
+All of those things really compress the timeframe significantly, which compresses the spend if we can save a year or a year and a half, we're probably looking at a savings of in the 10 plus $15 million range on the overall ticket for this program. So we think that again, we are the best people in the world to do this work because we have already done so much of this work. We have the machine ready. We're now going to push more content through it.
+--------------------------------------------------------------------------------
+Operator,     [16]
+--------------------------------------------------------------------------------
+Next question, do you see this cannibalizing for Berubicin commercially, but particularly with patient enrollment in clinical trials?
+--------------------------------------------------------------------------------
+John Climaco, CNS Pharmaceuticals Inc - Chief Executive Officer, Director    [17]
+--------------------------------------------------------------------------------
+Sure. That's a good question. I'll also just say one thing and then let my colleagues answer it, but I think the answer on both fronts is no. First of all, we've already fully enrolled the Berubicin study. So we there's no possibility that we'll be cannibalizing trial enrollment because one is already enrolled and the other hasn't started. In terms of the treatment and I'm going to let Dr. Goldlust and Dr. Silverman talk about that.
+--------------------------------------------------------------------------------
+Samuel Goldlust, Saint Luke's Cancer Institute - Medical Director    [18]
+--------------------------------------------------------------------------------
+Can I comment on that, John. The I think something to keep in mind as background is that most cancers aside from the Berubicin, I have a backbone of cytotoxic therapy that that has been and standard treatment for decades. GBM don't have that and we don't have anything that's biomarker agnostic to treat this disease aside from surgery radiation.
+And so there's a lot of progress to be made in GBM, Brazil survival. Just to sort of give it up to the level of other cancers so I think having two potentially active cytotoxic drugs and if you think of something like lung cancer, I mean, there's an order of magnitude more options than they certainly don't interfere with the progress of our glass stations age or so. I think the short answer is no. And the reason being that we have a lot of catching up to build rates and there's certainly space [five, four to five].
+--------------------------------------------------------------------------------
+Operator,     [19]
+--------------------------------------------------------------------------------
+And next question. What is your timing for entering a pivotal trial with TPI 287? And you have an idea on this design and size and will it be in combo with bevacizumab?
+--------------------------------------------------------------------------------
+John Climaco, CNS Pharmaceuticals Inc - Chief Executive Officer, Director    [20]
+--------------------------------------------------------------------------------
+Great question. Mostly from my colleagues. I will say kind of the top line answer is as soon as possible. We will be using all the work, as I've said many times now that we've done for Berubicin and in building this great clinical network and drug development engine to accelerate that process. Our hope is that we can be back in the clinic in 2025 with this drug. But Sandra, why don't you talk about your program.
+--------------------------------------------------------------------------------
+Sandra Silberman, CNS Pharmaceuticals Inc - Chief Medical Officer    [21]
+--------------------------------------------------------------------------------
+And so one of the great things is that quarters prior to us acquiring TPI 287 had already sat down with the FDA and designed what they thought would be the next study to do. And we know that there has been a myriad of compounds and cytotoxics that have been combined with Avastin bevacizumab previously that have not shown an overall survival benefit.
+And but they're looking at a thus having a program comparing a bevacizumab plus TPI 287 to bevacizumab alone. And that's what we're looking at right now and we will go back to the FDA and ensure that's the program that they think is most reasonable.
+Sam want to talk about the use of bevacizumab in combination with TPI.
+--------------------------------------------------------------------------------
+Samuel Goldlust, Saint Luke's Cancer Institute - Medical Director    [22]
+--------------------------------------------------------------------------------
+Sure I saw there was a question earlier and above progression-free survival and in that sort of a meaningful outcome and in a study the news they've asked and I think the short answer is probably not. And that's why we really honed in on a much more meaningful endpoint of survival. But the world of Neuro-Oncology is always evolving in terms of what people are using clinically as their standard of care.
+So I think going back to the FDA, we can sort of look at what experts are doing and design of clinical trials over the past five years since this concept was initiated and really make a thoughtful determination as to whether we're going to include bonuses imagine in future studies, knowing that we're going to be focusing on survival and we really want to make sure we can highlight the activity of the drug in that way. So I think we have a little bit of discovery to do over the coming months to really refine that study. And so it's environment.
+--------------------------------------------------------------------------------
+Operator,     [23]
+--------------------------------------------------------------------------------
+And our next question, how much cash do you need to get to Berubicin results?
+--------------------------------------------------------------------------------
+John Climaco, CNS Pharmaceuticals Inc - Chief Executive Officer, Director    [24]
+--------------------------------------------------------------------------------
+Yeah. So we have said that we will put a put results out in the first half of next year. So that's a kind of a six month window from starting roughly six months from now. And going to roughly a year from now, we burn about $1 million a month on the trial, although that is descending now as patients are rolling off the study and enrollment is fixed and we burn about $1 million a quarter on G&A. So the range there, you know, remaining to spend.
+Not what we have to raise is probably anywhere from roughly $8 million to about $12 million. So somewhere in that range actually maybe a little bit more on the high end, but that's kind of a rough estimate. So in exact, because we don't know exactly when our last patients will come off our CNS 201 study of Berubicin. And that will dictate, of course, when we take a top-line data and announce it. So again, but we are completely on track for that.
+In terms of our timing and our monitoring the study, I reiterate again to everyone. First half of next year, data is expected and our confidence in that remains very, very high, frankly, as it does in the performance of Berubicin based on everything that we've seen and talked about.
+--------------------------------------------------------------------------------
+Operator,     [25]
+--------------------------------------------------------------------------------
+In time for a couple of more questions from you showed superior PFS with bevacizumab? How does that compare with Bevil or 287 alone?
+--------------------------------------------------------------------------------
+John Climaco, CNS Pharmaceuticals Inc - Chief Executive Officer, Director    [26]
+--------------------------------------------------------------------------------
+I think we were talking about over the last quarters.
+--------------------------------------------------------------------------------
+Operator,     [27]
+--------------------------------------------------------------------------------
+Okay. Next Can you talk about the goals for the upcoming FDA meeting and what a Phase 3 program would look like for TPI 287?
+--------------------------------------------------------------------------------
+John Climaco, CNS Pharmaceuticals Inc - Chief Executive Officer, Director    [28]
+--------------------------------------------------------------------------------
+Sandra?
+--------------------------------------------------------------------------------
+Sandra Silberman, CNS Pharmaceuticals Inc - Chief Medical Officer    [29]
+--------------------------------------------------------------------------------
+Well, first of all we've just acquired the drug. So we need to sit down with the FDA and plan the meeting. But as I said, quarters had already discussed plans moving forward with it with them. And I think we will just use that as a template for us to use the fast-track designation that it does have to be able to design in the next. It's the that study.
+And as I said, I think the most useful study would be a repeat of are an expansion of the end of the bevacizumab TPI 287 at the recommended Phase 2 dose and then a randomized study against them, Avastin bevacizumab alone. And will you be using overall survival as the endpoints are very important.
+--------------------------------------------------------------------------------
+Operator,     [30]
+--------------------------------------------------------------------------------
+So what do you think would provide more investor confidence?
+--------------------------------------------------------------------------------
+John Climaco, CNS Pharmaceuticals Inc - Chief Executive Officer, Director    [31]
+--------------------------------------------------------------------------------
+Yeah, that's a great question. So I think what would provide more in investor confidence is an understanding that past is not necessarily prologue for this disease, GBM and pancreatic cancer to my understanding, have developed a sort of mystic quality in oncology in these diseases appear to be not just a difficult to manage and incurable today, but because so many have failed the bias I think is that everyone will fail.
+And I think if you listen carefully to what Dr. Goldlust than Silberman set here. And you think about our approach to Berubicin, and it's a very, very logical approach, which extends to what we're doing in TPI 287 and why we chose this drug. And that is something that I have said over and over again, and I think investors pay attention to what we've done and investors look at data growth, less paper on TPI 287 and understand just how extraordinary this OS data is for a drug like this.
+You will see that the approach that we have taken, I think is what's going to carry the day and create that foundational one size fits all cytotoxic chemotherapy foundation for this disease that is missing. While everyone has been fixated in recent years about these rifle shot programs to treat a handful of patients in precision medicine and believe me, I'm a huge believer in precision medicine.
+I spent a decade in that space. But when you see the gap that exists here in the foundation of a treatment algorithm for these patients, you have to understand that the best way to approach it is to go back to the drawing board and say what type of molecule actually destroys these cells, what do we know in essence, colloquially speaking works at the bench and how can we translate it to a patient care.
+So take a look at TPI 287, and you know that this family that it comes from the taxing family can destroy these type of cells. These cancer cells in the petri dish all day long, again, very similar to anthracyclines and how we've worked with Berubicin. And so what makes this so special? Well, it's a very logical eight step semi-synthetic process that turns this taxane molecule originally derived from a natural source in the market and you treat two a highly lipophilic, very specific molecule that bypasses both the active and passive mechanisms of the blood-brain barrier.
+And the way I see that the way our team sees that is a very logical stacking the deck in our favor because we're taking once again that hammer this taxane family in the case of TPI 287, the answer cycling family in the case of Berubicin, and we're saying we know this hammer works. We know this hammer can hit the nail as long as we can bring it to the deal.
+In this case, that's exactly what we can do with TPI 287, the modification to that sort of existing starting point of a taxane to allow this drug to be highly lipophilic bypass. The P glycoprotein MDR efflux pumps and get into the brain now puts us in a situation where as we have seen in the Phase 1 study, this drug has efficacy. It's well tolerated.
+To me the only question is can we demonstrate this conclusively at scale properly powered and designed for the FDA to approve. And that's what we're really good at. That's what we've done with Berubicin in a very short period of time. That's exactly what we're going to do here. And I think for investors that understand the disease that understand what these molecules can do and understand that this disease is not something that will never be defeated.
+It has to be defeated in a stepwise fashion with an armamentarium of drugs that make sense that were designed for this purpose that can actually get on their own to the side of the tumor when you understand all of that you realize, I think as an investor that, yes, maybe you're taking a contrarian position to those who invest in this space in general, because the common sense of valuation of the space would be well, it's GBM.
+Therefore, everything is going to fail. That's an easy bet on. But you get outsized returns, you know, by taking a contrarian position often. And I think that's really what investors have to understand here. We are 100% committed to this mission. We have demonstrated that commitment for years in our laser focused execution of our Berubicin study.
+You should expect the exact same commitment to TPI 287 and managing this disease in a way that others have been unsuccessful because they haven't taken the same approach. And I think that our approach is founded not just in optimism, not just in confirmation bias, but in very hard science that's now been published this drug, if I can speak, you know this way, this drug works, this disease doesn't spontaneously resolve.
+Now our mission just as it is with Berubicin is to prove that conclusively. And I think we've demonstrated our expertise and our ability to do that. So hopefully, over time, investors will see that. But my firm belief is that investors in this company, of which I have one will be handsomely rewarded for their fortitude here going forward.
+--------------------------------------------------------------------------------
+Samuel Goldlust, Saint Luke's Cancer Institute - Medical Director    [32]
+--------------------------------------------------------------------------------
+And just to build on John's export points there. I think if you take the there's some kind of a bird's eye view of the way the drug works and some of the surrounding data about nine, as John mentioned, we don't have a traditional chemotherapy backbone that works for all patients. We've run a lot of clinical trials of sort of similar targeted agents and immunotherapy agents as other cancers without having the benefit of that back bone, I at our disposal to help patients with GBM.
+But if you look at the Phase 1 data in terms of the survival. If you look at the drugs that we know have some benefit in those in this space, alkylating chemotherapies help of a subset of patients. So we know cytotoxic drugs can be an effective. But if you look at what else is approved for this disease, I'm sure savvy investors kind of know the options that are out there.
+If you look at a device of Optune, which is also FDA approved for the treatment of GBM. The mechanism of action proposed of Optune, it's the Interop, what's called meta phased array. That's where D&A is in one tumor cell splitting from one tumor cell, the tumor cells, and that's helped tumor cells grow. That's the almost identical mechanism of action of taxane drugs.
+Now one is based on electrical activity of about two and one and based on chemical activity with taxanes. But we know that that paradigm interrupting Medicaid's array, it has been a successful pursuit in GBM. So if we're just looking at what's out there and what's worked in the past, we don't have too many different options been drawn from.
+But this sort of borrows from both directions to cytotoxic drug, which we know it can be helpful. And also, mechanistically, we've seen it work in other ways in this disease. So I'm just the sort of culture in terms of all of the things that tell us about this from again,
+--------------------------------------------------------------------------------
+Operator,     [33]
+--------------------------------------------------------------------------------
+That does conclude the Q&A.
+Are John or Sandra, Dr. Goldlust, any closing remarks?
+--------------------------------------------------------------------------------
+John Climaco, CNS Pharmaceuticals Inc - Chief Executive Officer, Director    [34]
+--------------------------------------------------------------------------------
+I'll just say first of all. Thank you. This was a great program. Thank you, Dr. Goldlust, Dr. Silberman. I hope investors have a full picture of what we're up to know why we've done this how we found it why we're so excited. But I can just tell you from my personal perspective, this has been a year's long pursuit as I saw the company develop and our expertise, the proven out, my hope and wish all along was that we could push more opportunities for patients through this engine that we have built.
+There's not a ton of companies that are as committed to this space as we are no one else is really taking this approach. We think that this approach is going to carry the day for these patients. It's consistent with everything that we have said about our Berubicin program and our vision. The armamentarium for these patients is sorely lacking. We really need that one size fits all foundational cytotoxic chemotherapy treatment. And that's what we are developing in both programs. Now they are totally complementary to one.
+Another one we believe very strongly is going to deliver game-changing results in the first half of next year. And just as we're doing that, we will be springboard into the clinic with TPI 287 to give those patients hope again, that we can continue to expand their overall survival and their quality of life with well tolerated chemotherapy drugs because that's really the name of the game for these folks and that's what we're all about as a company. So we could not be more excited. This is the embodiment of a kind of everything that we have wanted to do since we founded the company.
+And now finally, here we are. So Thanks, Janene. We're just thrilled to get to work on this.
+--------------------------------------------------------------------------------
+Operator,     [35]
+--------------------------------------------------------------------------------
+And just although this does conclude the CNS Pharmaceuticals investor corporate update webcast, everyone can disconnect your lines. Thank you.
+
+
+
+
+
+
+--------------------------------------------------------------------------------
+Definitions
+--------------------------------------------------------------------------------
+Preliminary Transcript: "Preliminary Transcript" indicates that the 
+Transcript has been published in near real-time by an experienced 
+professional transcriber.  While the Preliminary Transcript is highly 
+accurate, it has not been edited to ensure the entire transcription 
+represents a verbatim report of the call.
+
+EDITED TRANSCRIPT: "Edited Transcript" indicates that a team of professional 
+editors have listened to the event a second time to confirm that the 
+content of the call has been transcribed accurately and in full.
+
+--------------------------------------------------------------------------------
+Disclaimer
+--------------------------------------------------------------------------------
+The London Stock Exchange Group and its affiliates (collectively, "LSEG") reserves the right to make changes to documents, content, or other information on this web site without obligation to notify any person of such changes. No content may be modified, reverse engineered, reproduced or distributed in any form by any means, or stored in a database or retrieval system, without the prior written permission of LSEG. The content shall not be used for any unlawful or unauthorized purposes. LSEG does not guarantee the accuracy, completeness, timeliness or availability of the content. LSEG is not responsible for any errors or omissions, regardless of the cause, for the results obtained from the use of the content. In no event shall LSEG be liable to any party for any direct, indirect, incidental, exemplary, compensatory, punitive, special or consequential damages, costs, expenses, legal fees, or losses (including, without limitation, lost income or lost profits and opportunity costs or losses caused by negligence) in connection with any use of the content even if advised of the possibility of such damages.
+
+In the conference calls upon which Summaries are based, companies may make projections or other forward-looking statements regarding a variety of items. Such forward-looking statements are based upon current expectations and involve risks and uncertainties. Actual results may differ materially from those stated in any forward-looking statement based on a number of important factors and risks, which are more specifically identified in the companies' most recent SEC filings. Although the companies may indicate and believe that the assumptions underlying the forward-looking statements are reasonable, any of the assumptions could prove inaccurate or incorrect and, therefore, there can be no assurance that the results contemplated in the forward-looking statements will be realized.
+
+LSEG assumes no obligation to update the content following publication in any form or format. The content should not be relied on and is not a substitute for the skill, judgment and experience of the user, its management, employees, advisors and/or clients when making investment and other business decisions. LSEG does not act as a fiduciary or an investment advisor except where registered as such.
+
+THE INFORMATION CONTAINED IN TRANSCRIPT SUMMARIES REFLECTS LSEG'S SUBJECTIVE CONDENSED PARAPHRASE OF THE APPLICABLE COMPANY'S CONFERENCE CALL AND THERE MAY BE MATERIAL ERRORS, OMISSIONS, OR INACCURACIES IN THE REPORTING OF THE SUBSTANCE OF THE CONFERENCE CALLS. IN NO WAY DOES LSEG OR THE APPLICABLE COMPANY ASSUME ANY RESPONSIBILITY FOR ANY INVESTMENT OR OTHER DECISIONS MADE BASED UPON THE INFORMATION PROVIDED ON THIS WEB SITE OR IN ANY SUMMARY. USERS ARE ADVISED TO REVIEW THE APPLICABLE COMPANY'S CONFERENCE CALL ITSELF AND THE APPLICABLE COMPANY'S SEC FILINGS BEFORE MAKING ANY INVESTMENT OR OTHER DECISIONS.
+--------------------------------------------------------------------------------
+Copyright 2024 LSEG. All Rights Reserved.
+--------------------------------------------------------------------------------

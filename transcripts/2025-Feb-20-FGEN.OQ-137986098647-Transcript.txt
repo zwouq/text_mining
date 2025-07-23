@@ -1,0 +1,177 @@
+
+
+LSEG StreetEvents Event Transcript
+E D I T E D  V E R S I O N
+
+FibroGen Inc Sale of FibroGen China Conference Call
+February 20, 2025 / 1:30PM UTC
+
+================================================================================
+Corporate Participants
+================================================================================
+
+ * Gaia Shamis
+   LifeSci Advisors - Director, IR Communications
+ * Thane Wettig
+   FibroGen Inc - Interim Chief Executive Officer, Chief Commercial Officer
+ * David DeLucia
+   FibroGen Inc - Chief Financial Officer
+
+================================================================================
+Conference Call Participants
+================================================================================
+
+ * Operator
+   
+ * Andy Hsieh
+   William Blair & Company, L.L.C. (Research) - Analyst
+ * Matthew Keller
+   H.C. Wainwright & Co., LLC - Analyst
+
+================================================================================
+presentation
+--------------------------------------------------------------------------------
+Operator,     [1]
+--------------------------------------------------------------------------------
+Good day, and thank you for standing by. Welcome to the FibroGen Sale of FibroGen China conference call. (Operator Instructions) Please be advised that today's conference is being recorded.
+I would now like to hand the conference over your speaker today, Gaia Shamis, with LifeSci Advisors. Please go ahead.
+--------------------------------------------------------------------------------
+Gaia Shamis, LifeSci Advisors - Director, IR Communications    [2]
+--------------------------------------------------------------------------------
+Thank you, Daniel. Good morning, everyone, and thank you for joining today's call to discuss the sale of FibroGen China. I'm Gaia Shamis with LifeSci Advisors.
+Joining me on today's call are Thane Wettig, Chief Executive Officer; and David DeLucia, Chief Financial Officer. Following the prepared remarks, we will open the call to your questions.
+I would like to remind everyone that remarks made on today's call include forward-looking statements about FibroGen. Such statements may include, but are not limited to, our collaboration with AstraZeneca and Astellas, financial guidance, the initiation, enrollment, design, contact and results of clinical trials, our regulatory strategies and potential regulatory results, our research and development activities, commercial results and results of operations, risks related to our business, and certain other business matters.
+Each forward-looking statement is subject to risks and uncertainties that could cause actual results and events to differ materially from those projected in the statement. A more complete description of these and other material risks can be found in FibroGen's filings with the SEC, including their most recent Form 10-K and Form 10-Q. FibroGen does not undertake any obligation to update publicly any forward-looking statement, whether as a result of new information, future events, or otherwise.
+The press release reporting the sale of FibroGen China and a webcast of today's conference call can be found on the Investors section of FibroGen's website at www.fibrogen.com.
+With that, I would like to turn the call over to the CEO, Thane Wettig. Thane?
+--------------------------------------------------------------------------------
+Thane Wettig, FibroGen Inc - Interim Chief Executive Officer, Chief Commercial Officer    [3]
+--------------------------------------------------------------------------------
+Thank you, Gaia. Good morning, everyone, and welcome to our conference call to discuss FibroGen's announcement of the sale of FibroGen China.
+On today's call, I will highlight the transformative nature of the announced transaction and how it supports our strategic priorities for 2025. Then, David DeLucia, our CFO, will review the transaction details, after which I will provide more color on the current go-forward strategic priorities for the company, which includes the exciting opportunity in metastatic castration-resistant prostate cancer, or mCRPC, for FG-3246 and FG-3180, our first-in-class antibody drug conjugate targeting CD46 and its companion PET imaging agent, and the potential for roxadustat development for the treatment of anemia due to lower-risk myelodysplastic syndrome. We will then open up the call for your questions.
+Starting with slide 3, the sale of FibroGen China is the final step in the transformation of the company into a US-focused organization developing differentiated assets in high-value therapeutic areas among oncology and oncology-related diseases. The transaction not only simplifies our operations, allowing us to become laser-focused on our US pipeline, but also allows us to pay off our senior-term loan facility with Morgan Stanley Tactical Value, simplifying our capital structure. A paydown of this loan, combined with full access to the company's net cash balance in China, extends the company's runway into 2027.
+This infusion of non-dilutive capital allows the company to advance the development of FG-3246 and FG-3180, our potential first-in-class antibody drug conjugate targeting CD46 and our PET imaging agent in mCRPC. We expect the initiation of the Phase 2 monotherapy study for FG-3246 in the second quarter of 2025. This study will also include a sub-study for FG-3180 as a companion diagnostic radiopharmaceutical.
+Lastly, we believe that roxadustat represents an important potential therapy for patients with anemia associated with lower-risk MDS. We plan to meet with the FDA in the second quarter of this year to further explore this opportunity, which we are considering developing on our own or via a potential partnership. We believe the regulatory interaction with the FDA next quarter will provide important clarity on the best path forward, with the aim of realizing additional value for roxadustat in this high-value indication.
+Before we jump into the specifics of the China transaction, I would like to personally thank the FibroGen China team, led by Christine Chung, our Head of China Operations, and her deeply experienced leadership team for their unwavering commitment to patients and successful commercialization of roxadustat in China. FibroGen China has been an exemplary organization since its inception, and we know the entity will be in good hands moving forward.
+With that, I will now turn the call over to Dave to discuss the details of the transaction. Dave?
+--------------------------------------------------------------------------------
+David DeLucia, FibroGen Inc - Chief Financial Officer    [4]
+--------------------------------------------------------------------------------
+Thanks, Thane. I would like to reiterate Thane's comments around the hard work and commitment of our China organization. It has been a pleasure working alongside such talented and dedicated individuals.
+On slide 4, we highlight the summary of key financial terms of the transaction. Under the terms of the agreement, FibroGen will receive an enterprise value of $85 million, plus FibroGen net cash held in China at closing, estimated to be approximately $75 million, totaling approximately $160 million. The value of FibroGen net cash in China includes FibroGen's portion of Falikang net cash, which is the joint distribution entity owned by FibroGen and AstraZeneca.
+The net cash payable at closing is subject to customary post-closing final adjustments. There is a $6 million holdback to serve as an offset against potential closing net cash adjustments, which will be released approximately 90 days post-closing, and there is a $4 million holdback to satisfy any indemnity claims, which will be released net of any claims paid or unresolved nine months post-closing.
+The transaction is expected to close by mid-2025, pending customary closing conditions, including regulatory review in China. The transaction does not include the Eluminex license agreement, whose rights will continue to be retained by FibroGen going forward. As Thane stated earlier, this transaction is truly transformative for FibroGen and allows the company to pay down its senior term loan facility with MSTV, fully access our cash in China, and extend the company's runway into 2027 to support our US development initiatives.
+I will turn the call back to Thane to provide an overview of our US pipeline opportunities. Thane?
+--------------------------------------------------------------------------------
+Thane Wettig, FibroGen Inc - Interim Chief Executive Officer, Chief Commercial Officer    [5]
+--------------------------------------------------------------------------------
+Thanks, Dave. I will now provide a brief overview of our exciting program in metastatic castration-resistant prostate cancer.
+Slide 5 highlights the unique opportunity that FG-3246 and FG-3180 present in mCRPC. FG-3246 is a potential first-in-class ADC with a novel antibody, YS5, which binds to a tumor-selective epitope of CD46 on the surface of cancer cells, including prostate cancer. The asset has already demonstrated promising early efficacy signals, both as a monotherapy and in combination with enzalutamide, in two Phase 1 studies with an acceptable safety profile consistent with other MMAE-based ADC therapies.
+The program also includes FG-3180, a companion PET imaging agent. We believe that having a patient selection biomarker would allow us to better enrich the patient population in the Phase 3 portion of the clinical development program, as well as enable the differentiation of FG-3246 in the prostate cancer treatment paradigm. In addition, FG-3180 could represent an important commercial opportunity as a companion diagnostic to FG-3246, similar to the PSMA PET imaging agents. Lastly, FG-3246 has potential in multiple lines of mCRPC, as well as in other solid tumors.
+Slide 6 highlights the Phase 2 monotherapy dose optimization trial design based on our discussion with the FDA. We plan to enroll 75 patients in the post-ARSI, pre-chemo setting across three dose levels to determine the optimal dose for Phase 3 based on efficacy, safety, and PK parameters. It is important to note that FG-3180 will be a key part of the study, as we seek to demonstrate the correlation between CD46 expression and response to the ADC in this all comers population.
+One other important design element is the primary prophylaxis with G-CSF, which is intended to mitigate adverse events associated with neutropenia, commonly seen with MMAE payloads. The addition of G-CSF may enable a better tolerated and more consistent treatment with the ADC, thereby extending duration of therapy and potentially enhancing efficacy measures, such as rPFS. We have an interim analysis planned for mid-2026, which will include efficacy, safety, PK, and exposure response data, and we intend to share relevant data to all stakeholders as they become available, given the open-label design of the trial.
+Slide 7 highlights the development strategy for FG-3246 and FG-3180, which we believe provides significant optionality in prostate cancer. We have a robust Phase 2 monotherapy trial in the pre-chemo setting in mCRPC to further build upon the compelling efficacy data of 8.7 months of rPFS in 40 heavily pre-treated biomarker unselected patients from the Phase 1 monotherapy study. The Phase 2 monotherapy trial is designed to select the optimal dose for Phase 3 based on the benefit/risk profile from this Phase 2 trial.
+We believe that there are three factors that could drive rPFS even higher than was observed in the Phase 1 monotherapy trial: first, preliminary evidence of exposure-response relationship, which allows us to focus our Phase 2 study on three of the highest tolerated doses from the Phase 1 dose escalation and expansion study; second, utilizing primary prophylaxis with G-CSF to mitigate against neutropenia and allow patients more consistent exposure to the ADC with fewer dose interruptions or adjustments; third, enrolling healthier patients in earlier lines of therapy versus the median five prior lines of therapy in the Phase 1 trial.
+In addition, the study will explore the correlation between CD46 expression and response to the ADC, potentially validating FG-3180 as a predictive patient selection biomarker in future studies. We are confident that our development pathway for FG-3246 unlocks sequential or parallel registration pathways, as FG-3246 will be evaluated in multiple lines of therapy, in monotherapy and/or in combination with an ARSI, and in all comers or potentially CD46-high selected patient populations.
+Turning to slide 8, we wanted to briefly touch on the potential opportunity for roxadustat in anemia associated with lower-risk MDS. Presently, there is a lack of effective and convenient second-line-and-beyond treatments, given the currently available therapies reduce transfusion burden in approximately 50% of patients and require in-office administration every three to four weeks. There are no oral options available or in late-stage development, which could be a meaningful differentiator for roxadustat and potentially translate into a significant commercial opportunity.
+Based on other lower-risk MDS development programs, we believe the indication would support an orphan drug designation, which would provide seven years of data exclusivity in the US. This potential exclusivity, combined with an attractive market opportunity and efficient commercial model, provides a significant economic opportunity for further development of roxadustat in the US. We look forward to our FDA meeting planned for the second quarter of 2025, which could pave the way for developing roxadustat for anemia associated with lower-risk MDS on our own or through a partnership.
+To conclude, on slide 9, we believe the sale of FibroGen China is a transformative transaction for FibroGen, and we are excited about the next chapter in the company's story. We are confident that the shift to a lean US organization focused on high-value indications in oncology and oncology-related diseases has the potential to create tremendous value for patients and stakeholders alike.
+With an extended cash runway into 2027, we plan to advance our exciting pipeline in the coming months, initiating the Phase 2 monotherapy study for FG-3246 and FG-3180 in mCRPC, as well as meet with the FDA to determine the potential development path for roxadustat and the treatment of anemia associated with lower-risk MDS. These events will set the stage for the remainder of 2025 and beyond.
+In summary, as a leaner and more focused organization, we will continue to execute on our strategic plan and strive towards a valuation that we believe is more reflective of our first-in-class Phase 2-ready CD46-targeting ADC and our potential Phase 3-ready opportunity in anemia associated with lower-risk MDS, bolstered by our strengthened balance sheet and elongated cash runway. We look forward to providing further updates to our stakeholders on our year-end earnings release next month.
+I will now turn the call over to the operator for Q&A.
+
+================================================================================
+q-and-a
+--------------------------------------------------------------------------------
+Operator,     [1]
+--------------------------------------------------------------------------------
+(Operator Instructions) Andy Hsieh, William Blair.
+--------------------------------------------------------------------------------
+Andy Hsieh, William Blair & Company, L.L.C. (Research) - Analyst    [2]
+--------------------------------------------------------------------------------
+Great. Thanks for taking our questions, and congratulations on the deal. Really transformative, as you mentioned. So just a couple of questions on the CD46 ADC asset. So with the cash infusion from the China territory rights, I'm curious if that would push the timing forward in terms of the opt-in to Fortis, so we can basically have more control over the entire development program. So that's kind of question number -- or part one.
+And so we also attended the ASCO GU Conference, and there's a KOL presentation on (inaudible) targets outside of PSMA. And CD46 came up as basically the next viable target. So I'm curious if you can share some of the KOL feedback on the target and how tractable it is in prostate cancer. Just curious about what you've heard from the community.
+And then lastly, maybe from a capital allocation standpoint, just curious about -- maybe this question is for Dave -- how you kind of balance out the development of 3246 and also the MDS anemia opportunity in the US. Thanks for taking our questions.
+--------------------------------------------------------------------------------
+Thane Wettig, FibroGen Inc - Interim Chief Executive Officer, Chief Commercial Officer    [3]
+--------------------------------------------------------------------------------
+Hey, Andy. Thanks so much for the questions. I'll handle the first two ones, and I will turn it over to Dave to talk about the capital allocation part of your question.
+First, as it relates to the opt-in period that we have with Fortis and whether or not this transaction allows us to pull that forward, it really doesn't. And the reason is because we've always based the option that we will ultimately choose to either move forward with or not based upon the outcome of the Phase 2 trial. And so the design that we have right now, where we will start the Phase 2 next quarter, will run through not only an interim analysis, but also then the final analysis, which will give us the data that we need to determine whether or not we've got a product that we think would be competitive as part of a Phase 3 design.
+And then if we do believe it would be competitive and we want to take it into Phase 3, that's when we would exercise the Fortis option. There's really no benefit for us pulling that option forward. We want to make sure that when we do exercise the $80 million option that it is based upon a complete set of data that gives us the confidence of what we would potentially see in the Phase 3 program.
+And then in terms of the CD46 target, it's potentially an exciting target in addition to the PSMA-focused therapies. We are hearing that from KOLs. We had a team that was at ASCO GU last week meeting with a number of the sites that we are lining up for the Phase 2 trial, and they're excited about the opportunity. They're excited about another option in the post-ARSI pre-chemo setting.
+One, because what we're hearing from thought leaders is this ARSI switch regimen, especially in the academic setting, is not as common or as attractive of an option for patients as previously thought, just because you don't get that much additional benefit when you switch from one ARSI to another. And what these KOLs tell us if they hear from patients is that patients want to put off chemotherapy as long as possible. And so we think that there's a really important sweet spot in the treatment paradigm post-ARSI and pre-chemo, and that's what we're hearing from thought leaders.
+And they do desire a non-PSMA approach. There's a number of PSMA options out there, and in their belief, based upon the data that's been generated to date, monotherapy data in the 8.7 months of rPFS that was disclosed last year, as well as the preliminary efficacy data that Rahul Aggarwal from UCSF has disclosed as part of his IST in combination with enzalutamide, give people the perspective, give the KOLs the perspective that the target is active. And so now, it's just a matter of making sure that we do the Phase 2 development and really highlight what we believe is the optimal dose from a benefit/risk profile, elucidate the role that the PET imaging agent can play in a potential Phase 3 design, and then move forward from there.
+Dave, you want to touch on the capital allocation question, and we'll loop back with Andy to see if this answered his questions?
+--------------------------------------------------------------------------------
+David DeLucia, FibroGen Inc - Chief Financial Officer    [4]
+--------------------------------------------------------------------------------
+Yeah, absolutely. So Andy, thank you for the questions. Appreciate it.
+I think for us and how we think about balance in the development of FG-3246 and MDS is, FG-3246 is our lead asset, and we are intent on kicking off the initiation of the Phase 2 study here in the second quarter. And from our perspective, from an MDS anemia opportunity, we really want to meet with the FDA to get a better feel for the development pathway go-forward for roxadustat in MDS.
+So as you think about our capital allocation, we are set on running our Phase 2 study and kicking that off for FG-3246, and then really want to take an opportunistic approach with the MDS opportunity based upon the feedback that we receive from the FDA and the potential development pathway forward. And as Thane alluded to earlier, we would potentially pursue that internally or seek a partner for that opportunity as well.
+--------------------------------------------------------------------------------
+Andy Hsieh, William Blair & Company, L.L.C. (Research) - Analyst    [5]
+--------------------------------------------------------------------------------
+Yeah, that's super helpful. Thank you so much.
+--------------------------------------------------------------------------------
+Operator,     [6]
+--------------------------------------------------------------------------------
+(Operator Instructions) Matthew Keller, H.C. Wainwright.
+--------------------------------------------------------------------------------
+Matthew Keller, H.C. Wainwright & Co., LLC - Analyst    [7]
+--------------------------------------------------------------------------------
+Great. Good morning, and congrats on today's announcement. Obviously, very exciting news.
+Two quick questions from us, kind of touched on previously, but can you talk about maybe how today's announcement may alter calculus behind your own internal development, US development of roxa? And relatedly, is it possible that the extension and really the improvement of your cash runway changes or even accelerates timelines for the other clinical programs, such as 3246?
+--------------------------------------------------------------------------------
+Thane Wettig, FibroGen Inc - Interim Chief Executive Officer, Chief Commercial Officer    [8]
+--------------------------------------------------------------------------------
+Hey, Matt. Thanks for the questions. I'll tackle them, and then I'll let Dave add in as well.
+The transaction really doesn't change the dynamics of the potential development of roxadustat. As Dave said, we have an important interaction coming up next quarter with the FDA, where we're going to seek their feedback and their guidance on what that potential development pathway could look like. You'll be exploring a couple of key questions, one around dosing and another around the patient population that we would target with an additional Phase 3 trial.
+And then, based upon that feedback, then we would potentially look to bolster our current cash position with additional capital to assist us in the startup of that program if, in fact, we decide to do it and if, in fact, we decide to do it on our own. We could also seek a development partner, which would then likely reduce our needs from an external capital perspective. But really, the transaction doesn't change the roxadustat portion.
+And then in terms of the additional development opportunities that we have for the ADC, it doesn't speed those up. We've got the clinical development pathway very well lined out. We've got 75 patients that we're going to enroll across three different dose cohorts. We plan on enrolling these patients at 25 different sites. And just based upon our estimates of ramp rate and enrollment rate, we would see an interim analysis sometime in the middle of 2025. And so this transaction won't speed that up. We're continuing to plan on the start of that trial next quarter.
+--------------------------------------------------------------------------------
+Matthew Keller, H.C. Wainwright & Co., LLC - Analyst    [9]
+--------------------------------------------------------------------------------
+Yeah. No, it totally makes sense. Congrats again, and thanks for taking our questions.
+--------------------------------------------------------------------------------
+Thane Wettig, FibroGen Inc - Interim Chief Executive Officer, Chief Commercial Officer    [10]
+--------------------------------------------------------------------------------
+No. Thanks, Matt.
+--------------------------------------------------------------------------------
+Operator,     [11]
+--------------------------------------------------------------------------------
+Thank you. I'm showing no further questions at this time. I would now like to turn it back to Thane Wettig for closing remarks.
+--------------------------------------------------------------------------------
+Thane Wettig, FibroGen Inc - Interim Chief Executive Officer, Chief Commercial Officer    [12]
+--------------------------------------------------------------------------------
+No, thanks. We appreciate everybody joining us for today's conference call and hearing our commentary on what we believe is the transformative nature of this transaction with AstraZeneca in China. We're very excited about the go-forward opportunities for FibroGen in terms of our ability to create value for stakeholders.
+Enjoy the rest of your day. Thanks, everyone.
+--------------------------------------------------------------------------------
+Operator,     [13]
+--------------------------------------------------------------------------------
+This concludes today's conference call. Thank you for participating. You may now disconnect.
+
+
+
+
+
+
+--------------------------------------------------------------------------------
+Definitions
+--------------------------------------------------------------------------------
+Preliminary Transcript: "Preliminary Transcript" indicates that the 
+Transcript has been published in near real-time by an experienced 
+professional transcriber.  While the Preliminary Transcript is highly 
+accurate, it has not been edited to ensure the entire transcription 
+represents a verbatim report of the call.
+
+EDITED TRANSCRIPT: "Edited Transcript" indicates that a team of professional 
+editors have listened to the event a second time to confirm that the 
+content of the call has been transcribed accurately and in full.
+
+--------------------------------------------------------------------------------
+Disclaimer
+--------------------------------------------------------------------------------
+THE LONDON STOCK EXCHANGE GROUP AND ITS AFFILIATES (COLLECTIVELY, "LSEG") RESERVES THE RIGHT TO MAKE CHANGES TO DOCUMENTS, CONTENT, OR OTHER INFORMATION ON THIS WEB SITE WITHOUT OBLIGATION TO NOTIFY ANY PERSON OF SUCH CHANGES. NO CONTENT MAY BE MODIFIED, REVERSE ENGINEERED, REPRODUCED, OR DISTRIBUTED IN ANY FORM BY ANY MEANS, OR STORED IN A DATABASE OR RETRIEVAL SYSTEM, WITHOUT THE PRIOR WRITTEN PERMISSION OF LSEG. THE CONTENT SHALL NOT BE USED FOR ANY UNLAWFUL OR UNAUTHORIZED PURPOSES. LSEG DOES NOT GUARANTEE THE ACCURACY, COMPLETENESS, TIMELINESS, OR AVAILABILITY OF THE CONTENT. LSEG IS NOT RESPONSIBLE FOR ANY ERRORS OR OMISSIONS, REGARDLESS OF THE CAUSE, FOR THE RESULTS OBTAINED FROM THE USE OF THE CONTENT. IN NO EVENT SHALL LSEG BE LIABLE TO ANY PARTY FOR ANY DIRECT, INDIRECT, INCIDENTAL, EXEMPLARY, COMPENSATORY, PUNITIVE, SPECIAL, OR CONSEQUENTIAL DAMAGES, COSTS, EXPENSES, LEGAL FEES, OR LOSSES (INCLUDING, WITHOUT LIMITATION, LOST INCOME OR LOST PROFITS AND OPPORTUNITY COSTS OR LOSSES CAUSED BY NEGLIGENCE) IN CONNECTION WITH ANY USE OF THE CONTENT EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGES.
+--------------------------------------------------------------------------------
+Copyright 2025 LSEG. All Rights Reserved.
+--------------------------------------------------------------------------------

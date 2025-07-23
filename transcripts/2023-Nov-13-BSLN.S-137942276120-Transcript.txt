@@ -1,0 +1,233 @@
+
+
+Refinitiv StreetEvents Event Transcript
+E D I T E D  V E R S I O N
+
+Basilea Pharmaceutica AG Allschwil to Acquire the Rights to Fosmanogepix from Amplyx Pharmaceuticals Inc Call
+November 13, 2023 / 3:00PM UTC
+
+================================================================================
+Corporate Participants
+================================================================================
+
+ * David Veitch
+   Basilea Pharmaceutica AG - CEO
+ * Marc Engelhardt
+   Basilea Pharmaceutica AG - Chief Medical Officer
+ * Adesh Kaul
+   Basilea Pharmaceutica AG - CFO
+
+================================================================================
+Conference Call Participants
+================================================================================
+
+ * Operator
+   
+ * Brian Templeton White
+   Calvine Partners LLP - Partner
+ * Chien-Hsun Lee
+   Pareto Securities AS, Research Division - Research Analyst
+ * Soo Romanoff
+   Edison Investment Research Limited - MD & Head of Content of Healthcare
+
+================================================================================
+presentation
+--------------------------------------------------------------------------------
+Operator,     [1]
+--------------------------------------------------------------------------------
+Ladies and gentlemen, welcome to the Basilea Pharmaceutica Acquisition of Fosmanogepix Conference Call and Live Webcast. I am Sandra, the Chorus Call operator. (Operator Instructions) And the conference is being recorded. The conference must not be recorded for publication or broadcast.
+At this time, it's my pleasure to hand over to David Veitch, Chief Executive Officer. Please go ahead, sir.
+--------------------------------------------------------------------------------
+David Veitch, Basilea Pharmaceutica AG - CEO    [2]
+--------------------------------------------------------------------------------
+Thank you very much. Hello. I'm David Veitch, CEO of Basilea, and I'd like to welcome you to our conference call and webcast to discuss the acquisition of the broad spectrum antifungal, fosmanogepix, from Amplyx Pharmaceuticals, an affiliate of Pfizer, which we have reported this morning as an ad hoc announcement. The ad hoc release is available on our website at basilea.com.
+I would also like to mention that this call contains forward-looking statements. Joining me on our call today are Dr. Marc Engelhardt, our Chief Medical Officer; and Adesh Kaul, our Chief Financial Officer.
+Basilea is a leading company in the field of anti-infective treatments, specifically the treatment of severe bacterial and fungal infections. This is demonstrated by our two marketed brands, Cresemba and Zevtera. Within the last few weeks, we have entered into 3 transactions of anti-infective assets and significantly strengthened our clinical pipeline. Today, we announced the acquisition of the rights for fosmanogepix, a Phase III-ready broad-spectrum antifungal. We are very excited to have acquired the rights to fosmanogepix because it holds a lot of promise in the fight against invasive fungal infections. It has the potential to become our next lead commercial product, a midterm value driver.
+Fosmanogepix is a potential first-in-class antifungal drug. It has a novel mechanism of action that Marc will explain in more detail in a moment. As it has already successfully completed a number of Phase II studies in both yeast and mold infections, we believe that we will be able to quickly move the compound into Phase III development, and are planning to start the first of the Phase III studies in yeast infections as early as mid-2024.
+Pfizer is already a licensed partner for our current lead product, Cresemba. And similar to our long-standing licensing partner, Astellas, for the U.S., they are doing a great job commercializing Cresemba in most parts of Europe as well as China and Asia-Pacific. Pfizer also maintains the right of first negotiation for the commercialization of fosmanogepix.
+Fosmanogepix has a broad-spectrum activity, including strong activity against Candida auris, a pathogen that has made its way to the media this year as the U.S. CDC warned that infections caused by Candida auris have been increasing at an alarming rate. Fosmanogepix provides activity against all fungi that the WHO has included in their list of critical priority pathogens that must be addressed as the mortality rates of yeast and mold infections remained high.
+We had previously indicated that one of our key goals for 2023 was to complement our clinical pipeline. With its novel mechanism of action, the fact that it is a Phase III-ready asset and addresses areas where patients have the highest unmet medical needs, the potential for gaining benefits through orphan drug pathways and its overall innovative and differentiated profile, just to name a few features. We believe that fosmanogepix fits perfectly with our in-licensing priorities.
+Through our 3 recent transactions, we have significantly strengthened our clinical pipeline and have positioned ourselves as a preferred partner for late preclinical to Phase II assets, and we are looking forward to further attractive opportunities for future transactions.
+I will now hand over to Marc.
+--------------------------------------------------------------------------------
+Marc Engelhardt, Basilea Pharmaceutica AG - Chief Medical Officer    [3]
+--------------------------------------------------------------------------------
+Thank you, David. Fosmanogepix is the prodrug of the active compound manogepix and is rapidly cleaved by systemic phosphatases which are ubiquitous in humans. Manogepix has a unique mechanism of action by inhibiting the cell wall protein Gwt1, which impedes the production of cell wall mannoproteins that are essential for the cell wall function of fungi. This inhibition causes cell wall fragility, fungal cell death, decreased potential for biofilm formation. Manogepix has potent antifungal activity and provides broad-spectrum coverage against yeast, molds and dimorphic fungi.
+This includes activity against common species of candidiasis, aspergillosis, including multidrug-resistant strains, such as Candida auris and Candida glabrata as well as rare, difficult-to-treat molds, including through Fusarium species, Scedosporium species and some times from the Mucorales order. Fosmanogepix is available IV and Oral, with high oral bioavailability and can therefore be used in both inpatient and outpatient settings.
+Fosmanogepix has received fast track and orphan drug designations from the U.S. FDA for 7 separate indications, including invasive candidiasis, invasive aspergillosis, scedosporiosis, fusariosis, mucormycosis, cryptococcosis and coccidioidomycosis, and has received QIDP designation for the treatment of 4 indications.
+As mentioned before, the spectrum of fosmanogepix covers resistant yeast such has Candida auris and difficult-to-treat molds such as Fusarium species or Scedosporium species. The broad tissue distribution of fosmanogepix enables penetration into the central nervous system, and due to the ability to penetrate the CNS and his excellent activity against Fusarium species, fosmanogepix has recently been recommended as a treatment option by the U.S. CDC in the context of an outbreak of Fusarium meningitis in the U.S.
+Finally, fosmanogepix has a favorable drug-drug interaction profile and may be synergistic with amphotericin B and echinocandins, which enables additional options in difficult-to-treat patients. The efficacy of fosmanogepix has been demonstrated in numerous in-vivo fungal infection models, including disseminated models or central nervous system infection fungal models with various Candida species, Cryptococcus neoformans and Fusarium solani and pulmonary infection fungal models with Aspergillus fumigatus, Aspergillus flavus, Coccidioides immitis, Lomentospora prolificans, Rhizopus species and Scedosporium apiospermum.
+In addition to increased survival, reduction of fungal burden in lung, kidneys, spleen, eye and brain was shown in several animal models. Fosmanogepix is ready for clinical Phase III, and we plan to initiate the first Phase III study in invasive candidiasis around mid-2024, followed by an invasive mold Phase III study towards the end of 2024. The experience from clinical trial pertains to more than 300 patients treated to up to 6 weeks with fosmanogepix in seven Phase I studies, one Phase IIb study and three Phase II studies in indications of candidemia, Candida auris candidemia and invasive mold infections.
+The double-blind Phase III non-inferiority in candidemia and invasive candidiasis will include approximately 450 patients randomized to initial intravenous therapy with fosmanogepix or caspofungin. An oral step-down option is for -- fosmanogepix in the fosmanogepix group and fluconazole in caspofungin group. Primary endpoint for the FDA is a 30-day survival and for the EMA is overall response at the end-of-study treatment.
+Initial health authority approvals have been obtained for this protocol, and we expect study initiation at mid-2024. The Phase III study in invasive mold infection is an open-label randomized study comparing fosmanogepix with the respective best available therapy or standards of care in various mold and rare mold infections. We anticipate the study being initiated at the end of 2024.
+I will now hand over to Adesh.
+--------------------------------------------------------------------------------
+Adesh Kaul, Basilea Pharmaceutica AG - CFO    [4]
+--------------------------------------------------------------------------------
+Thank you, Marc. Let me explain the key financial terms of the asset purchase agreement.
+Fosmanogepix was initially developed by Eisai, who licensed to Amplyx, which was subsequently acquired by Pfizer in 2021. Hence, we not only acquired the intellectual property data and regulatory files generated by Amplyx and Pfizer, respectively, but we were also signed the license agreement with Eisai. Under the terms of the agreement, we make an upfront payment of USD 37 million. If we are able to successfully develop the product and commercialize it, Pfizer will be eligible for future commercial milestone payments of up to USD 110 million based on global net sales of the product.
+Pfizer has the right of first negotiation for commercializing fosmanogepix, which it can exercise by making an offer for commercialization rights once Phase III results are published.
+As I mentioned before, we are also assuming all rights as well as obligations from previous agreements. This comprises a total of up to USD 396 million of potential milestone payments, mostly regulatory and commercial as well as tiered single-digit royalty payments. With respect to midterm guidance, we expect to make a total of mid-single-digit million payments in the coming years.
+We believe that our investment is well warranted in the light of the great business opportunity fosmanogepix provides for us as a potential key menu driver beyond Cresemba. With its extended spectrum covering both yeast and molds, fosmanogepix opens up a significant opportunity in the entire market of antifungals for the treatment of invasive fungal infections. Its differentiated profile and the long commercial life span of at least 10 to 12 years in key markets, based on the extended exclusivity granted to orphan drugs and the FDA designation of fosmanogepix as a qualified infectious disease product, provides the potential for significant long-term value creation.
+The upfront payment of USD 37 million is reflected in our P&L statement and is not capitalized. We are, therefore, updating our full year guidance accordingly. The transaction is reflected in operating expenses, which are expected to increase from previously guided CHF 80 million to approximately CHF 115 million. Our continued strong revenues enabled us to absorb fully the impact of all our transactions this year. We continue to expect positive operating and net profit for full year 2023. The operating result is expected to amount to between CHF 11 million and CHF 15 million versus previously CHF 50 million to CHF 55 million. And the net result is expected at between CHF 2 million and CHF 6 million versus previously CHF 41 million to CHF 46 million.
+One additional explanation on the development of total revenue. While the transaction has no impact on revenue per se, we are reducing our guidance on total revenue by CHF 3 million. The reason for this is that the U.S. Food and Drug Administration, FDA, has waived the application fee for our new drug application for our antibiotic ceftobiprole in the United States as part of a program to support small businesses.
+As you may recall, the Phase III development of ceftobiprole is largely funded by the U.S. Biomedical Advanced Search and Development Authority, BARDA. Basilea would have paid the application fee and showed it as R&D costs in operating expenses, while the subsequent refund by BARDA would have been shown in other revenue. Due to the waiver, the BARDA reimbursements as well as operating expenses will be reduced by the amount of the application fee. Although it is too early to provide detailed financial guidance for 2024, we are comfortable to state that we also expect positive operating and net results in 2024 from today's perspective.
+I will now turn it over to David.
+--------------------------------------------------------------------------------
+David Veitch, Basilea Pharmaceutica AG - CEO    [5]
+--------------------------------------------------------------------------------
+Thank you, Adesh. With the 3 recent transactions, we have significantly strengthened our clinical pipeline beyond Cresemba and Zevtera, which was one of our key corporate goals for this year. Let me highlight a few important milestones for the coming months.
+For our antibiotic ceftobiprole, we're looking forward to an FDA decision on our NDA. The PDUFA target date for this is April 3, 2024. The U.S. is the most important market for branded hospital-based anti-MRSA drugs. Therefore, an approval in the U.S., together with the 10-year market exclusivity in the U.S., is very important for this brand. Prior to the FDA decision, we are planning to execute a partnership with a commercialization partner for ceftobiprole US.
+In the first half year 2024, we're also expecting a decision by the EMA granting a 2-year pediatric extension for our antifungal Cresemba in Europe, which would extend the commercial life until October 2027. For fosmanogepix, we're expecting to initiate the two Phase III studies in 2024. The first one in candidemia invasive candidiasis in mid-2024 and the second one in mold infections around year-end.
+In addition to that, we'll continue to increase the Cresemba and Zevtera revenues, which are providing us with the financial strength to keep on making the right investments for expanding and progressing our R&D portfolio to create long-term value in areas that offer significant opportunities for sustainable long-term growth.
+Thank you for your attention, and we're happy to now open the line for any questions you might have.
+
+================================================================================
+q-and-a
+--------------------------------------------------------------------------------
+Operator,     [1]
+--------------------------------------------------------------------------------
+Our first question comes from Brian White from Calvine Partners.
+--------------------------------------------------------------------------------
+Brian Templeton White, Calvine Partners LLP - Partner    [2]
+--------------------------------------------------------------------------------
+Congratulations on securing such transformative assets. A couple of questions just in terms of the agreement to sell thinking about your relationship with Pfizer, just now, and I just wondered how important the experience with Cresemba had been in terms of securing this asset from Pfizer? And then secondly, looking at the start date of the Phase III studies, just wondering what else has to be done [as all the CMC want] being completed in terms of the Phase III start? And then just finally, if -- I know it's very early, but if you had any guidance on how long the Phase III program might take?
+--------------------------------------------------------------------------------
+David Veitch, Basilea Pharmaceutica AG - CEO    [3]
+--------------------------------------------------------------------------------
+Okay. So thank you, Brian, for your questions. I'll kick off, first of all, in terms of the -- yes, I think the relationship we have with Pfizer, which as I said, I think, earlier, is a successful one with Cresemba, that, I guess, I can only imagine that was a positive factor, but it's clear for us that this was a competitive process. And so Pfizer looked at the number of companies, including ourselves, and so it was a competitive process that actually led to a final decision that they would move forward with us. But yes, I think the relationship, which is, I think, a good successful one must have been a factor but not the only factor. I mean, Adesh, would -- your team were involved heavily in this. So would you add anything to that?
+--------------------------------------------------------------------------------
+Adesh Kaul, Basilea Pharmaceutica AG - CFO    [4]
+--------------------------------------------------------------------------------
+No, I think that's absolutely right. So I think if the relationship would not be good, probably it wouldn't have helped the transaction.
+--------------------------------------------------------------------------------
+David Veitch, Basilea Pharmaceutica AG - CEO    [5]
+--------------------------------------------------------------------------------
+Yes. Okay. And then your question about the Phase III, what needs to happen now to get the Phase III study up and running in mid-2024? Maybe, Marc, at a high level, you could just mention the key steps.
+--------------------------------------------------------------------------------
+Marc Engelhardt, Basilea Pharmaceutica AG - Chief Medical Officer    [6]
+--------------------------------------------------------------------------------
+Yes. So one of the steps is that we are engaging in transition with Pfizer, this will result in the transfer of the sponsorship and then we will run these studies as sponsors. The studies need to be operationally set up. So we will be engaging with the help of (inaudible) to do this. And we've already have thought about this. So this will be relatively fast approach. And we are quite confident that by mid-2024, we will be able to start these studies. I think you've also asked about the duration. I think we are expecting this type of study could be done within a time frame of 3 to 4 years.
+--------------------------------------------------------------------------------
+David Veitch, Basilea Pharmaceutica AG - CEO    [7]
+--------------------------------------------------------------------------------
+So just, Brian, presumably the reason you asked the question because the 3 to 4 years then, obviously, we're expecting we believe Cresemba will continue to grow in revenues through to the end of 2027. And then in 2028, we believe the product will probably start to decline as the U.S. and European exclusivity stops. So actually, I think this, therefore, fits nicely, we believe, with that sort of time frame about in addition to, hopefully, the Zevtera revenues will be growing nicely at this time. And then in addition, we would have around this time the launch of fosmanogepix if everything goes well in terms of the studies and the regulatory approval.
+--------------------------------------------------------------------------------
+Operator,     [8]
+--------------------------------------------------------------------------------
+The next question comes from Lee Chien from Pareto Securities.
+--------------------------------------------------------------------------------
+Chien-Hsun Lee, Pareto Securities AS, Research Division - Research Analyst    [9]
+--------------------------------------------------------------------------------
+And yes, congrats with the deal. So I have two questions. So the first one is, how do you think about the potential market size since Candida species do not seem to be a major type of fungal infection that is as prevalent as Aspergillus for example? Do you expect you will have the same market potential as Cresemba? And my second question is, so regarding the two Phase III trials, how much do you think you need to run the trials?
+--------------------------------------------------------------------------------
+David Veitch, Basilea Pharmaceutica AG - CEO    [10]
+--------------------------------------------------------------------------------
+Okay. Maybe -- yes, thanks for the questions. What I would say is, Adesh, do you want to -- as you alluded to this in your words earlier, do you want to talk about the market potential in terms of this product in relation to Candida and Aspergillus?
+--------------------------------------------------------------------------------
+Adesh Kaul, Basilea Pharmaceutica AG - CFO    [11]
+--------------------------------------------------------------------------------
+Yes. So I think what you can see actually when you go back to the presentation that all the slides that we had, in essence, both areas offer significant market opportunities. So the way that we define the market, actually, the market is almost split 50-50 when it comes to value between the Candida market and the market for treating mold infections. So overall, we believe that both markets offer significant market opportunities. Hence, the profile of fosmanogepix actually in both markets, in both potential indications, we would actually be sufficiently differentiated to have a meaningful impact. So overall, we believe that fosmanogepix can be a very meaningful product in this overall market.
+--------------------------------------------------------------------------------
+David Veitch, Basilea Pharmaceutica AG - CEO    [12]
+--------------------------------------------------------------------------------
+And then the question around the Phase III cost of the studies, I mean, I'll give a first stab at that, and then Marc or Adesh, you can jump in. I mean I think we just -- it's sort of public knowledge because of the BARDA funding and the cost of our ceftobiprole Phase III program, which -- with the FDA, and that was a two study like this would be fosmanogepix. So we're sort of -- we were looking at around the sort of $140 million cost of which for ceftobiprole, 70% was paid for by BARDA.
+I mean what we would say is that we've done the business case for fosmanogepix, assuming no -- nondilutive funding. But obviously, now we've got the asset in our hands, one of the first things we would do and we believe it addresses many of the priority pathogen areas that actually with interest an organization such as BARDA, so we would approach them clearly as a priority to try and also see if they would fund the product and the program, I think, though, but that gives you an indication if there was no funding from any sort of third-party, then ballpark, you could -- we've got the cost of the ceftobiprole program, which was about $140 million.
+But maybe Marc or Adesh, do you want to add something to that?
+--------------------------------------------------------------------------------
+Adesh Kaul, Basilea Pharmaceutica AG - CFO    [13]
+--------------------------------------------------------------------------------
+No, I think that's exactly right. So maybe just to-- then bear in mind that the total cost, of course, will be spread over the study period. So it's not sort of that double the cost within a specific given year.
+--------------------------------------------------------------------------------
+Operator,     [14]
+--------------------------------------------------------------------------------
+The next question comes from Soo Romanoff from Edison.
+--------------------------------------------------------------------------------
+Soo Romanoff, Edison Investment Research Limited - MD & Head of Content of Healthcare    [15]
+--------------------------------------------------------------------------------
+Congratulations. It's nice to see that you're kind of focused on growth now. We had -- the call kind of broke up a little bit, so I might have missed some of this, so apologies if I'm kind of repeating anything you might have covered. Can you give us an idea of what the events or details on how the milestone payments will be triggered?
+--------------------------------------------------------------------------------
+David Veitch, Basilea Pharmaceutica AG - CEO    [16]
+--------------------------------------------------------------------------------
+So maybe, Adesh, do you want to take that question?
+--------------------------------------------------------------------------------
+Adesh Kaul, Basilea Pharmaceutica AG - CFO    [17]
+--------------------------------------------------------------------------------
+Yes, sure. And it is actually a little bit convoluted or complex. So in essence, you can think about it, payments under the existing agreements that we just announced or the new agreements that payments to Amplyx or Pfizer. There's -- the upfront payment of USD 37 million, which we will be recognizing already this year in full, and which is now reflected in our guidance. And the USD 100 million and up to USD 110 million in commercial milestones, which is just a typical setup where you have depending on certain sales levels, different milestones are being configured. So that's sort of that portion.
+When it comes to the previous agreements, the total milestone payments there are USD 396 million. What we have indicated is really that the majority of those are related to regulatory and commercial events and especially the commercial milestones, are again, very similar when you reach certain commercial thresholds or sales thresholds that are being triggered. As a near-term guidance, what we have indicated is that over the coming years, overall, we're expecting to have a mid-single-digit million milestone payments under those agreements.
+In addition, even though you didn't ask for it, specifically, there are also payments due on sales with respect to royalties. So they are tiered royalties, and that's also very, very typical, again, depending on the sales level, you have different tiers different royalty rates. And overall, they range from single digits to -- single digits, so to say.
+--------------------------------------------------------------------------------
+Soo Romanoff, Edison Investment Research Limited - MD & Head of Content of Healthcare    [18]
+--------------------------------------------------------------------------------
+Yes. No, that's really helpful. My second question is really your focus seems to make sense, right? I mean are there any -- is there any insight you can give me based on the studies that have been done to date that give you a competitive edge over the standard of care?
+--------------------------------------------------------------------------------
+David Veitch, Basilea Pharmaceutica AG - CEO    [19]
+--------------------------------------------------------------------------------
+Yes. So maybe -- yes, I mean -- standard of care and maybe also looking at other compounds in development at maybe a similar stage. But maybe, Marc, do you want to take that question?
+--------------------------------------------------------------------------------
+Marc Engelhardt, Basilea Pharmaceutica AG - Chief Medical Officer    [20]
+--------------------------------------------------------------------------------
+Yes. so I think from a medical perspective, this is really a fascinating asset. I mean the spectrum is very broad. It's highly fungicidal against yeast, including Candida auris. Has a different mechanism of action. So it will work in fungi that are resistant to current treatments. It's IV and Oral, which is really important, and I think also differentiates against, for example, aspergillus fungi or oral film that currently have only oral formulations.
+So for these patients that are severely immuno-suppressed often have chemotherapy-related mucositis or gastrointestinal graft-versus-host disease, it's really important to have an agent that can give an oral when patients can take oral medication but also IV when they cannot take oral medication. So I think it's really a combination of broad-spectrum side activity against also resistant Candida relate activity in rare mold infection, for example Fusarium -- also Scedosporium, Lomentospora and then finally, it also seems that the CYP34A (sic) CYP3A4 mediated drug in actions will not be a major issue with this compound. So there's -- this is a spectrum that will be very useful in difficult-to-treat patients with invasive fungal infections.
+--------------------------------------------------------------------------------
+Operator,     [21]
+--------------------------------------------------------------------------------
+Gentlemen, further no more questions from the phone.
+--------------------------------------------------------------------------------
+David Veitch, Basilea Pharmaceutica AG - CEO    [22]
+--------------------------------------------------------------------------------
+Okay. Thank you, everyone, for joining us on our call today. I wish you enjoy the rest of the day. Thank you.
+--------------------------------------------------------------------------------
+Operator,     [23]
+--------------------------------------------------------------------------------
+Ladies and gentlemen, the conference is now over. Thank you for choosing Chorus Call, and thank you for participating in the conference. You may now disconnect your lines. Goodbye.
+
+
+
+
+
+
+--------------------------------------------------------------------------------
+Definitions
+--------------------------------------------------------------------------------
+Preliminary Transcript: "Preliminary Transcript" indicates that the 
+Transcript has been published in near real-time by an experienced 
+professional transcriber.  While the Preliminary Transcript is highly 
+accurate, it has not been edited to ensure the entire transcription 
+represents a verbatim report of the call.
+
+EDITED TRANSCRIPT: "Edited Transcript" indicates that a team of professional 
+editors have listened to the event a second time to confirm that the 
+content of the call has been transcribed accurately and in full.
+
+--------------------------------------------------------------------------------
+Disclaimer
+--------------------------------------------------------------------------------
+Refinitiv reserves the right to make changes to documents, content, or other 
+information on this web site without obligation to notify any person of 
+such changes.
+
+In the conference calls upon which Event Transcripts are based, companies 
+may make projections or other forward-looking statements regarding a variety 
+of items. Such forward-looking statements are based upon current 
+expectations and involve risks and uncertainties. Actual results may differ 
+materially from those stated in any forward-looking statement based on a 
+number of important factors and risks, which are more specifically 
+identified in the companies' most recent SEC filings. Although the companies 
+may indicate and believe that the assumptions underlying the forward-looking 
+statements are reasonable, any of the assumptions could prove inaccurate or 
+incorrect and, therefore, there can be no assurance that the results 
+contemplated in the forward-looking statements will be realized.
+
+THE INFORMATION CONTAINED IN EVENT TRANSCRIPTS IS A TEXTUAL REPRESENTATION
+OF THE APPLICABLE COMPANY'S CONFERENCE CALL AND WHILE EFFORTS ARE MADE TO
+PROVIDE AN ACCURATE TRANSCRIPTION, THERE MAY BE MATERIAL ERRORS, OMISSIONS,
+OR INACCURACIES IN THE REPORTING OF THE SUBSTANCE OF THE CONFERENCE CALLS.
+IN NO WAY DOES REFINITIV OR THE APPLICABLE COMPANY ASSUME ANY RESPONSIBILITY FOR ANY INVESTMENT OR OTHER
+DECISIONS MADE BASED UPON THE INFORMATION PROVIDED ON THIS WEB SITE OR IN
+ANY EVENT TRANSCRIPT. USERS ARE ADVISED TO REVIEW THE APPLICABLE COMPANY'S
+CONFERENCE CALL ITSELF AND THE APPLICABLE COMPANY'S SEC FILINGS BEFORE
+MAKING ANY INVESTMENT OR OTHER DECISIONS.
+--------------------------------------------------------------------------------
+Copyright 2023 Refinitiv. All Rights Reserved.
+--------------------------------------------------------------------------------

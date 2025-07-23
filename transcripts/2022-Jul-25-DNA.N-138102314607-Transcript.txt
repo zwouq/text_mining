@@ -1,0 +1,489 @@
+
+
+Refinitiv StreetEvents Event Transcript
+E D I T E D   V E R S I O N
+
+Ginkgo Bioworks Holdings, Inc., Zymergen Inc. - M&amp;A Call
+JULY 25, 2022 / 12:30PM GMT
+
+================================================================================
+Corporate Participants
+================================================================================
+
+ * Mark E. Dmytruk
+   Ginkgo Bioworks Holdings, Inc. - CFO
+ * Anna Marie Wagner
+   Ginkgo Bioworks Holdings, Inc. - SVP of Corporate Development
+ * Jason Kelly
+   Ginkgo Bioworks Holdings, Inc. - Co-Founder, CEO & Director
+
+================================================================================
+Conference Call Participiants
+================================================================================
+
+ * Tejas Rajeev Savant
+   Morgan Stanley, Research Division - Equity Analyst
+ * Michael Leonidovich Ryskin
+   BofA Securities, Research Division - Director in Equity Research & Research Analyst
+ * Poon Mah
+   Cowen and Company, LLC, Research Division - Senior Analyst
+ * Matthew Carlisle Sykes
+   Goldman Sachs Group, Inc., Research Division - Research Analyst
+ * Matthew Richard Larew
+   William Blair & Company L.L.C., Research Division - Research Analyst
+ * Mark Anthony Massaro
+   BTIG, LLC, Research Division - MD & Life Science & Diagnostic Tools Analyst
+ * Rahul Sarugaser
+   Raymond James Ltd., Research Division - MD and Equity Analyst of Healthcare, Biotechnology & Cannabis
+
+================================================================================
+Presentation
+--------------------------------------------------------------------------------
+Anna Marie Wagner,  Ginkgo Bioworks Holdings, Inc. - SVP of Corporate Development    [1]
+--------------------------------------------------------------------------------
+Good morning. This is Anna Marie Wagner. I'm the Senior Vice President of Corporate Development at Ginkgo Bioworks. I'm joined by Jason Kelly, our CEO and Co-Founder; and Mark Dmytruk, our CFO. 
+We're excited to host this special call with you today to update you on 2 exciting new acquisitions that were signed over the weekend. You can see more information in our press releases and Form 8-Ks that were released earlier this morning.
+Also as a reminder, during the presentation today, we'll be making forward-looking statements, which involve risks and uncertainties. Please refer to our filings with the Securities and Exchange Commission to learn more about these risks and uncertainties. 
+And now without further ado, I'll hand it over to Jason.
+
+--------------------------------------------------------------------------------
+Jason Kelly,  Ginkgo Bioworks Holdings, Inc. - Co-Founder, CEO & Director    [2]
+--------------------------------------------------------------------------------
+Thanks, Anna Marie. So our mission at Ginkgo is to make biology easier to engineer. And that's going to be especially important today. So we do this by combining industrial scale economics and process optimization with deep biological expertise across a range of markets. 
+So today, we're very excited to announce that we've signed definitive agreements to acquire 2 technologies in this vein. One from Bayer and Joyn that builds our vertical capabilities in agricultural biologicals. And the other Zymergen that brings in-house core hardware and software that accelerates our horizontal foundry capabilities. 
+I have to say it's pretty neat visually to see sort of industrial automation alongside biological scale. So the top image there is one of the greenhouse facilities that we'll have following closing our deal with Bayer. And down at the bottom, you can see some of the robotic automation at Ginkgo and at Zymergen's facility. 
+We are building this platform really for our customers. And as a reminder, we showed this slide a lot. Our customers come to us with their biological design challenges and product ideas. And it's unusual in the biotech industry for companies not to be building their own products, right? By and large, in the biotech industry companies are vertically integrated to produce their own end products, whereas at Ginkgo, we're interested in building a platform that allows our customers to ultimately deploy biology as a solution for their hardest challenges. 
+We talked about the challenges and opportunities that the current market environment presents for companies like Ginkgo. And today, I want to talk especially about some of the opportunities that we're able to take advantage of given this climate. So first, I do want to mention upfront. We're in a fortunate position. We ended last quarter with about $1.5 billion of cash in the bank. And we have a business model that allows us sort of flex to suit the economic climate. 
+So in other words, if a certain market vertical is having a challenge, there's some issue in an area of pharmaceuticals, we can focus more of our commercial efforts in agriculture or in food, right? If the large companies are tightening R&D budgets, we could focus more effort on small companies. The types of deals that we do, we can sort of balance between taking upfront fees and downstream value share when we do our deals with our customers. This fundamental flexibility in our platform business model, I think, is a strength for us. 
+But secondly, I'd say the market has really changed, in particular, for M&A. So last year, it was very hard for us to do M&A. A company saw more lucrative opportunities staying independent and pursuing their next private financing or taking their companies public. This year, our M&A pipeline, Anna Marie will tell you, is overflowing with high-quality technologies as companies are facing liquidity concerns and other challenges. 
+So we previously discussed the headwinds that this type of environment can create for an R&D service provider, which is what Ginkgo is. For example, large companies might cut back on R&D budgets. But it can also serve as a tailwind. It can help us out. If companies are more open to the idea of outsourcing their biological R&D to take advantage of a more efficient platform and also variable cost structure, being able to spend when they need to, rather than always having to carry that constant R&D cost. 
+And so I think this is -- this deal we're doing with Bayer right now. It's a good indication of this, right? This is a -- they're choosing in this partnership with us to really be outsourcing their biologics R&D to our platform. So this is very similar in spirit to what you saw with outsourcing IT departments kind of to the cloud 10 or 15 years ago. That's really the model we want to go for, but in the area of biotech R&D. 
+I do want to emphasize that while Ginkgo plans to be aggressive in its scaling goals, you're seeing that, both organic and inorganic. We've always been focused on maintaining a multiyear runway or sort of margin of safety as we like to call it. And both the Joyn, Bayer and Zymergen transactions are going to demonstrate how we think about that. 
+And for those who don't know, the early history of Ginkgo, we actually bootstrapped the company for the first 4 or 5 years, didn't raise any external capital. So we have a good long-standing appreciation for the importance of cash. 
+Okay. So I want to talk a little bit just some framing about how we think about both kind of vertical and horizontal technologies. At Ginkgo, we have a history over quite a few years now of integrating technology acquisitions and using M&A to build both vertically and horizontally at Ginkgo. 
+So I'll speak vertically first. To be clear, we -- I know I'm a broken record on this. We do not vertically integrate end-to-end product development at Ginkgo and commercialization. In other words, we don't develop drugs, we're not launching burgers or fragrances, our customers do that. But we do recognize the need to ensure that we have enough vertical-specific R&D expertise to hand off, sell programs to customers successfully, okay? 
+And also that we have enough expertise in that vertical to attract customers onto the platform, right? So if you look back in 2019, our first acquisition sort of vertically focused code-based asset was the Warp Drive Bio team and technology and particularly DNA sequence collection that they had. That came from sequencing large microbial collections from big pharma partners. This asset has proven useful for current drug discovery work, like our project with Roche, in pharma, but it has also demonstrated value in other markets, right? And that's a really important point for us. 
+Even though we're investing in vertically focused technologies like we're doing here with Bayer, we expect the biological parts of that can often be reused in other markets, right? And this makes sense to us sort of intuitively because there are not like biologies out there in nature, cleanly evolving by market, right? If there's an enzyme that evolved that happens to be useful in agriculture, there's a chance that might be useful in pharmaceuticals. And so that's the thing that we can take advantage of, again, by nature of our platform business model. 
+We've also acquired a couple of companies with interesting strain assets and capabilities like Novogy and Dutch DNA. Novogy had real experience in lipid like fat production, which can be useful for industrial applications. And Dutch DNA had a really terrific strain for high-yield protein production. And this is a trait, which is kind of broadly useful. There's a lot of markets that could use that, but it's especially critical in emerging food opportunities, things like animal-free meat, where the key challenge is getting fermented proteins down to a cost point that works for consumers in the food industry. 
+So today, we're excited to announce that we've officially signed a definitive agreement for our previously disclosed transaction with Bayer. And I'm going to dive into that in just a second. But before that, I want to also explain to frame it, how we think about things on the horizontal side. So we also see a ton of value in improving our horizontal platform through acquisitions, which are typically adding foundry technologies that we can deploy broadly in our program. 
+So this goes all the way back, for example, in 2017, we acquired Gen9, right? So Gen9 was a DNA synthesis company and it's very well integrated at Ginkgo today. That platform runs at scale in-house. Many of the employees are still here at Ginkgo today, they're key technology leaders for us. And most recently, this year, we acquired FGen and Bitome, and both teams are contributing to developing sort of this next generation of broadly applicable tech. 
+So we'll spend most of the time today actually spend in this category on the horizontal side, including our just announced acquisition of Zymergen. But before that, I want to briefly walk through our transaction with Bayer. 
+So we've extensively discussed the strategic rationale for this transaction in our Q1 earnings call, and I put a few slides in the appendix of this presentation. And also I recommend if you want to go watch our YouTube video on that, I encourage you to do so. So I'm not going to spend as much time on that today. But I do want to update on some of the transaction details to help answer questions we've gotten since the earlier announcement. 
+So first, the transaction involves 2 businesses. Joyn is one and then Bayer's West Sacramento R&D site. So for the West Sacramento site, this is a traditional asset purchase. We'll be acquiring the entire site, which involves a fully owned 175,000 square foot facility, a robust strain collection and an experienced team from Bayer, and that will cost $83 million in total, which we can pay in cash or stock in our choosing. 
+In the second step of the transaction, Joyn, which was a 50-50 joint venture between Cooksonia, which is the holding company where Ginkgo is the majority shareholder and Bayer, were the sort of parents of Joyn, that will be dissolved and integrated into the parents. So after the transaction, the assets of Joyn will go to the parents and to explain it simplistically, you can generally think about it as Ginkgo's integrating the platform assets. So the intellectual property team, et cetera, Joyn, and Bayer is integrating the nitrogen fixation program. So this is one of the cell programs that was being done through that joint venture as well as getting certain IP rights associated with the JV termination. 
+So in exchange for our equity stake in other words, kind of losing that 50-50 split in Joyn and that Bayer's going to be retaining the nitrogen fixation program, ginkgo, via Cooksonia, will be entitled to tiered royalties on net sales of Bayer's nitrogen fixation product. These royalty rates are above market to account for the exchange of the equity interest. 
+So finally, we're very excited about our new and expanded collaboration with Bayer, which will advance multiple programs. This represents our largest ever cell programming contract in terms of R&D service fees and also comes with the opportunity for standard royalty-based downstream value. So we're really excited to be bringing that in and working with Bayer in the future. 
+While this is a capability acquisition, it also does tie to a big commercial opportunity, like I spoke about in the last -- our last earnings call. And while there's clearly a significant long-term opportunity here, it's important to note that in the near term, the collaboration with Bayer in other words, that R&D partnership we have does significantly derisk this acquisition. 
+So we talked in the beginning about the importance of maintaining that sort of margin of safety in our financials so that we can continue to invest in our platform. In this case, we will pursue a combination of cost structure rightsizing, focusing on platform capabilities, while products will be advanced by Bayer or other customers, right? We can have other customers on the platform. But the Bayer contract alone will significantly offset the run rate operating expenses in the early years. 
+So beyond this, we will be free to work with other customers in the space. So if you're a small ag or a large ag company interested in our biologics platform at Ginkgo, please do reach out, and that will create, we expect further revenue opportunities for us. 
+Okay. So that's a quick update on Bayer, which I said is a sort of a strong vertical capability addition. So now I'm excited to announce our latest horizontal capability addition, the acquisition of Zymergen. I'll dig into why we're excited about this one as we come up here. But first, I wanted to share the high level just sort of summary of the transaction itself. 
+So as Anna Marie mentioned at the beginning, you can find much more information including the filed merger agreement through our 8-K from earlier this morning. The merger will be all stock with a fixed exchange ratio at signing. Zymergen shareholders will be receiving 0.9179 shares of Ginkgo Class A common stock at closing for each share of Zymergen they currently own. This reflects 5.25% pro forma ownership in Ginkgo following the close of the transaction and implies a market cap of Zymergen of approximately $300 million. 
+The transaction is subject to a number of customary closing conditions as well as the lack of a material and adverse change to Zymergen's real estate build-out or securities litigation. 
+As part of signing, we have obtained voting agreements from shareholders representing approximately 40% of outstanding common stock. Again, for more information, please see the 8-K and associated exhibits filed with the SEC this morning. At this time, we expect to file our Form S-4 relating to the merger shortly after reporting our Q2 earnings and expect the transaction to close by the first quarter of 2023. 
+In the meantime, we'll be focused on integration planning, which we'll talk about more in a moment. 
+So I want to spend a minute on the technology. So I want to say upfront, we've always had a ton of respect for the team and technology in Zymergen. You can see this in my personal comments to analyst questions about them previously. 
+They did choose a very different business model at Zymergen than we did at Ginkgo, focusing primarily on internal product development over the last 4 to 5 years. But they've developed scalable and flexible technologies in part because of the breadth of products they were going after that we believe will add tremendous value to our customers at Ginkgo. 
+And that's really what this is about, right? It is about bringing in, again, as we think both vertically and horizontally, better technologies into our platform to deliver that value to our customers. In particular, we're excited about their automation platform at Zymergen, which is integrated with a mature software and data architecture. These technologies map well into our development goals at Ginkgo and we expect them to help drive productivity improvements across our foundry. And that's something that, as you know, is a big driver for us here. 
+The company is to see that as we grow in scale, we are able to improve the unit economics of our facility and then ultimately pass those types of savings on to our customers, so that we can have a better platform for them and get more people to use our infrastructure. 
+Beyond that core hardware software technology stack, Zymergen has pursued a diverse array of product concepts resulting in a rich biological database and strong cell engineering tools. 
+Okay. So why should we do this now? So one of the reasons that it seemed like the right time to pursue a merger with Zymergen is that their announced restructuring plans over the last year align very well with how we would think about operating and organizing the business. You can go back and hear from Jay Flatley, their CEO, some of the changes in focus and tightening that they've been doing over the last 6 to 12 months. 
+And what Zymergen did would simplify its business into 3 core areas: Advanced materials, drug discovery and automation. Then they began discussing their thoughts around spinning out some of these assets. And it became clear that at Ginkgo, we could likely better enable some of the strategic opportunities that Zymergen saw, helping them spin out the products independently. That's something we've done a lot at Ginkgo, sort of spinning out assets in the cell engineering space and allowing the combined platform assets to more quickly and effectively serve a wide customer base. 
+Specifically, we have deep experience in helping with company launch information, like I mentioned. And so Zymergen explores plans to spin out or sell their advanced materials and the therapeutics sort of drug discovery business, we believe we can be helpful. 
+This leads the core automation and technology platforms, so the automation, enabling software and data tools, the biological assets and know-how, all of which we're excited to integrate into our business here at Ginkgo to offer customers a more effective platform. 
+So, I'll note the Zymergen transaction looks quite different from Bayer in that we're not assuming it comes with any material revenue, although there is upside opportunity here, if we're successful in goals to spin out the Advanced Materials and therapeutics asset, you could see that. But rather, we're really looking at Zymergen as accelerating growth of our capabilities at Ginkgo, enabling us to provide attractive solutions to more customers sooner, all while not dramatically increasing our planned run rate operating expenditures. 
+Like with Bayer, there will be some stand-alone cost reduction, most of which we expect Zymergen will complete prior to closing, in accordance with their previously announced and continuing restructuring and program rationalization efforts. These efforts are expected to meaningfully reduce Zymergen's run rate operating expenses. 
+Additionally, we had already planned to grow our team at Ginkgo and make investments in automation, software, data and code-based teams here. And we couldn't think of better future teammates than the incredible team at Zymergen. It is rare to find people who have both the horizontal expertise, so I think things like mechanical engineering, computer science, data science, automation, but also have a deep passion for biology and a desire to see biology transform the material world. 
+As such, we do not consider these to be incremental expenses versus our planned growth at Ginkgo instead, it will enable us to accelerate our growth and also invest in more advanced capabilities. Those teams can build on the technology assets that we'll ultimately be bringing in here. 
+As we work through our integration planning process and get closer to close, we'll provide more details on this topic. But at this point, we're comfortable that we will be able to maintain our financial margin and safety after these 2 acquisitions. 
+So in summary, we're really excited about our ability to improve our offering to customers in the coming years with this acquisition. This technology should support our platform scaling efforts, driving down costs and yielding better customer program outcomes. 
+On a personal level, I'll say, it -- I believe it's really, really important for us to be investing in technologies like this in the United States. So you probably have been hearing on the news of this $52 billion chips bill that's going through Congress right now. That is the result of the U.S. giving up our technology leadership in advanced manufacturing of semiconductors over the last 20-odd years and sending it overseas. 
+We firmly believe that biology is going to be the most impactful tool towards combating some of our most significant challenges in the next century: Climate change, food security, water purity, human health, biosecurity, right? These are all things in the world of atoms, right? It's real stuff out there. And biology is the technology that we can program to work on those problems. It's much harder -- the world of bits, the world of computers, I think, has a lot less to add here. 
+So we need to build biology foundries in this country in addition to semiconductor foundries and have them onshore. And we think Zymergen brings a strong technology platform to support and accelerate this effort. And at Ginkgo, we're excited to drive this technology forward with them so that the U.S. can ultimately lead in what we hope will be actually the more important foundries of the next half century. 
+All right. That just about wraps it up. As you can see, we're super excited about both of these transactions in the year ahead. Signing a deal is obviously the easy part, although I am extraordinarily grateful to our team at Ginkgo for the immense amount of work that went into getting both of these deals done, particularly sort of at the same time and to both Bayer and Zymergen teams who also did an enormous amount of work and we're extremely good partners in candid throughout this process. But now we're focused on the real job, planning and after closing, executing a robust integration. 
+With that, I think we're ready to open it up to questions. Mark and Anna Marie will join me for Q&A. Anna Marie, do you want to kick things off?
+
+
+================================================================================
+Questions and Answers
+--------------------------------------------------------------------------------
+Anna Marie Wagner,  Ginkgo Bioworks Holdings, Inc. - SVP of Corporate Development    [1]
+--------------------------------------------------------------------------------
+Sure. Thanks, Jason. All right, I'm going to go ahead and stop sharing here. We've got a number of analysts on the line. And so if you'd like to ask a question, as usual, please just raise your hand, and I will call on you and unmute your line. 
+So I think first, this morning, we've got Tejas, you should be able to speak now.
+
+--------------------------------------------------------------------------------
+Tejas Rajeev Savant,  Morgan Stanley, Research Division - Equity Analyst    [2]
+--------------------------------------------------------------------------------
+Guys, congrats on the deal here. Just one, a couple of actually quick ones for you, Jason. I mean, as you thought about sort of acquiring the talent from Zymergen versus acquiring the company itself, can you just sort of help us think through how you came about sort of this decision? And then secondly, to your point around sort of horizontal versus the vertical approach, were you tempted to sort of like keep some of these programs in-house, particularly the stuff they're doing around screens, et cetera, which is the most mature and near-term opportunity. And is that sort of, both the cost reduction targets that you've laid out as well as the potential evaluation of strategic alternatives for those commercial or, I guess, advanced pre-commercial programs part of the framework here as you think about deal close? Any color on that would be helpful.
+
+--------------------------------------------------------------------------------
+Jason Kelly,  Ginkgo Bioworks Holdings, Inc. - Co-Founder, CEO & Director    [3]
+--------------------------------------------------------------------------------
+Yes, happy to comment on that. So maybe I'll take them in turn. So you first asked about how do we think about acquiring the whole company versus just say, hiring, talent that is coming out of Zymergen if people are leaving and that we were pointing out that we had sort of needs for a lot of these roles already, I can go on.
+So one of the reasons I want to point that out is really just about incremental spending. In other words, like we were planning to grow into a lot of these areas, so having these folks come in saves a lot of recruiting effort, but also importantly, it's sort of like a dollars and cents topic. 
+When it comes to acquiring the whole company, the magic is the people plus the technology they've been spending the last decade building, right? So there's a lot of a) implicit value in that technology, but also the know-how of the folks associated with it really to understand the history of creating it or some of the best people to then build on that technology in the future. So really, we think the 2 together is particularly important, and we are very, very excited about the technology itself and using that to help continue (inaudible) and driving down our costs at Ginkgo and increasing our scale for our customers. 
+You also asked about, hey, okay, I know I've heard it, Ginkgo to a platform business, you don't do end products. But Zymergen have some cool product assets in areas like thin film screens and things like that. 
+So there are great assets there. It is part of the business case at Ginkgo for this because it is a different business model than we have, right? 
+And I think one of the things that was appealing about Ginkgo is we do have this experience of having launched a number of spinout companies and finding the right strategic partners and investors to take the sort of cell engineering assets and ultimately help them go commercial. But that would be our plan here with those assets, as I said, Tejas.
+
+--------------------------------------------------------------------------------
+Anna Marie Wagner,  Ginkgo Bioworks Holdings, Inc. - SVP of Corporate Development    [4]
+--------------------------------------------------------------------------------
+The only thing I would add to that, Tejas, is that we do view that as upside. And we think there is real value there. We are partnering those programs or spinning them out. But the core thesis for us was really around the underlying technology platform.
+
+--------------------------------------------------------------------------------
+Tejas Rajeev Savant,  Morgan Stanley, Research Division - Equity Analyst    [5]
+--------------------------------------------------------------------------------
+Got it. One quick follow-up for you guys. Jason, I mean, as you went through the transaction, I mean, any early read on sort of any potential FTC issues? I mean this has obviously come up more and more given how, I guess, skeptical they've been about like-for-like sort of transactions in the space. 
+And second, one for you, Mark. I mean, as we think about that EBITDA positive target that you've laid out at the time of the lease back in that 2025 time frame, do either the Bayer transaction or the Zymergen deal sort of change that? Or do you still feel there's good line of sight to that being a realistic sort of scenario by 2025?
+
+--------------------------------------------------------------------------------
+Anna Marie Wagner,  Ginkgo Bioworks Holdings, Inc. - SVP of Corporate Development    [6]
+--------------------------------------------------------------------------------
+Sure. I can go ahead and take the first one on just overall deal timing and process. As we've described, this combination for us is very complementary, and we think it provides a significant benefit to customers through lower program costs, increased probability of technical success. So for us, this has been no-brainer and in keeping with the other kind of technical acquisitions that we've made in the past to support our customers. 
+I'd say at this time, we're expecting a typical kind of 4- to 5-month process as we go through the S-4 review process, shareholder vote, et cetera, and regulatory approvals, but that's I'd say where we're looking right now.
+
+--------------------------------------------------------------------------------
+Mark E. Dmytruk,  Ginkgo Bioworks Holdings, Inc. - CFO    [7]
+--------------------------------------------------------------------------------
+Yes. And Tejas, on the sort of longer-term EBITDA question. So first of all, I do want to just sort of reiterate and make the point that since becoming a public company, we have adopted the approach of only issuing guidance for the current year. And so with respect -- and we're not providing any comments today, of course, on Q2 performance or guidance for this year. We'll do that during our Q2 earnings call. 
+Now with that said, so we've not provided any guidance on long-term EBITDA. That said, we do think these transactions are very consistent with our long-range planning. As mentioned, we think from an OpEx perspective, the sort of road map that Jason laid out on the Zymergen transaction with restructuring that's occurring prior to closing by Zymergen in accordance with its sort of previous plan, that will reduce to a very significant level of the OpEx run rate that we bring on. 
+Secondly, we would, of course, further cost optimize. And then finally, we think, as Jason mentioned, we think that the Zymergen team that we would be bringing on in effect, fills planned hiring needs that Ginkgo was already going to incur.  And so -- from that -- and then the Bayer transaction is different because it comes with revenue that significantly offsets the OpEx burn. So when you take sort of all that together, these 2 transactions in and of themselves wouldn't change kind of any long-term view we have on things like path to profitability.
+
+--------------------------------------------------------------------------------
+Anna Marie Wagner,  Ginkgo Bioworks Holdings, Inc. - SVP of Corporate Development    [8]
+--------------------------------------------------------------------------------
+Rahul, I'm going to go ahead and unmute your line and then Steve Mah you'll be next.
+
+--------------------------------------------------------------------------------
+Rahul Sarugaser,  Raymond James Ltd., Research Division - MD and Equity Analyst of Healthcare, Biotechnology & Cannabis    [9]
+--------------------------------------------------------------------------------
+Good morning. Can you hear me?
+
+--------------------------------------------------------------------------------
+Anna Marie Wagner,  Ginkgo Bioworks Holdings, Inc. - SVP of Corporate Development    [10]
+--------------------------------------------------------------------------------
+Yes.
+
+--------------------------------------------------------------------------------
+Rahul Sarugaser,  Raymond James Ltd., Research Division - MD and Equity Analyst of Healthcare, Biotechnology & Cannabis    [11]
+--------------------------------------------------------------------------------
+Terrific. Anna Marie, Jason, Mark, congratulations on the transactions. So I'll try and keep mine tight here. So recognizing your comment, Anna Marie, that the core thesis really is underlying -- is the underlying tech platform. And given that both Zymergen and Ginkgo have built these such a unique integrated machines of systems, and then combining these 2 very large, uniquely developed machines is probably not a simple task. So I wanted to understand how you see the -- how you see integrating these over time. And how does the synergy creates sort of 1 plus 1 equals 3 as you do this?
+
+--------------------------------------------------------------------------------
+Jason Kelly,  Ginkgo Bioworks Holdings, Inc. - Co-Founder, CEO & Director    [12]
+--------------------------------------------------------------------------------
+Yes. Super good question. So yes, we thought a lot about this going into the transaction. So the way to think about Ginkgo, again, there's -- we talked about these 2 parts to the platform, right? There's the foundry, right, which is the physical infrastructure, and it's basically trying to solve the problem of lab work done in the traditional way, like in other words, like what our -- what we're competing with at our customers where they're doing it themselves at a lab bench by hand, right, is very expensive and low throughput. 
+And so the idea is -- can we automate that in order to reduce cost with scale like you've seen in things from auto manufacturing to chip fabs and so on. That's one half. And then the other half is our code-base, right? So the data, the learning, the genetic assets that make it easier to do the next project, okay? 
+There's a bit of both of these actually that are coming in through the Zymergen transaction, but I'd say like probably 70% on the foundry and automation side in terms of the  technology value to Ginkgo. 
+Okay. So what are we trying to solve for in the foundry? Well, if you speak with my Co-Founder, Barry Canton , our CTO, he'll have a road map over the coming years of the technologies we would plan to invest in and deploy in order to continue to drive upscale and reduce sort of unit costs in our facility, right? 
+And so what we're doing basically is looking at the technology, as Anna Marie was just saying, how does that fit into our road map? Is it something that can be useful to us?
+And I would say (inaudible) out for a minute, they did focus on sort of a very general purpose and repurposeable automation. They sort of rack systems and things like that, that allow you to quickly deploy automation in a customized way. It's pretty -- it's quite impressive tech. It's one of the reasons we're excited to do the transaction. And it would be on the road map for us in the future. And so by bringing this in it sort of both speeds it up and makes it more sure that we develop that technology correctly as they've done at Zymergen. 
+So I think that's one of the things that as a specific example, is sort of like ability for us to speed up and improve surety on delivering on those scaling challenges. It's also, like I said earlier, a great team of folks associated with that technology who really know it. And can help us out figuring out what has to come after that, right? Because this is the magic of doing something like what the semiconductor industry did with Moore's Law, you're always having to invent what the technology is going to be 3 or 4 years from now because you're going to -- you want to keep pushing it, right? And so having these folks here at Ginkgo also will help us invent the next thing. Does that make sense, Rahul?
+
+--------------------------------------------------------------------------------
+Rahul Sarugaser,  Raymond James Ltd., Research Division - MD and Equity Analyst of Healthcare, Biotechnology & Cannabis    [13]
+--------------------------------------------------------------------------------
+Yes, absolutely. And if you would indulge me with one more quick question in. So maybe thinking about both the Bayer and the Zymergen transaction given the relative co-location between the bay area and Sacramento, can you talk about maybe the additional synergies between that, but also this 3-year partnership with Bayer. Could you give us a little bit more color in terms of what has been committed to over that period? And from there, I'll yield the floor.
+
+--------------------------------------------------------------------------------
+Jason Kelly,  Ginkgo Bioworks Holdings, Inc. - Co-Founder, CEO & Director    [14]
+--------------------------------------------------------------------------------
+Anna Marie, do you want to take part of that?
+
+--------------------------------------------------------------------------------
+Anna Marie Wagner,  Ginkgo Bioworks Holdings, Inc. - SVP of Corporate Development    [15]
+--------------------------------------------------------------------------------
+I can talk about that for a little bit. So -- and then there was just one other thing I wanted to add to what Jason was sharing, which is one of the things that's been most interesting to see at Zymergen over the last few months is how they've been partnering their automation platform. which really gives us confidence in their ability to deploy automation in new environments with different systems and integrate with those systems. 
+So having that like strong kind of interface and having pressure tested that out in the real world is really important to us as well. 
+In terms of sort of West Coast presence question, I will note that West Sacramento and Emeryville are still about an hour away. So probably not combining these locations. And we do have a small office out in the Emeryville right now. So we'll certainly look to consolidate the footprint just so that the team could be together, and we can obviously be rational about real estate costs over time. But I would not expect that the West Sacramento facility would integrate with our other Emeryville facilities in a meaningful way, although, obviously, it gives the employees a little bit more flexibility there.
+
+--------------------------------------------------------------------------------
+Mark E. Dmytruk,  Ginkgo Bioworks Holdings, Inc. - CFO    [16]
+--------------------------------------------------------------------------------
+Yes. And then on the Bayer collaboration in terms of what's been committed to. So the best way to think about it is they -- Bayer becomes a customer of Ginkgo's just like other large customers. And we would be providing services to Bayer sort of pursuant to programs, again, very typical of other customers and Bayer would be paying us cash revenues for those services. 
+We haven't disclosed the specific commercial terms here other than to say that it is a multiyear collaboration. And in aggregate, it is the largest customer collaboration that Ginkgo has had.
+
+--------------------------------------------------------------------------------
+Anna Marie Wagner,  Ginkgo Bioworks Holdings, Inc. - SVP of Corporate Development    [17]
+--------------------------------------------------------------------------------
+Steve, I'm going to go ahead and unmute your line. And then Mike, you'll be next.
+
+--------------------------------------------------------------------------------
+Poon Mah,  Cowen and Company, LLC, Research Division - Senior Analyst    [18]
+--------------------------------------------------------------------------------
+Okay. Got it. Can you guys hear me? Great. Congrats on the deals. One question -- one follow-up question on the consolidation question that you guys have been getting. With maintaining Zymergen facilities are consolidating, how should we think about the 10-year operating leases that Zymergen has right now? Just let us know how we should think about that going forward?
+
+--------------------------------------------------------------------------------
+Anna Marie Wagner,  Ginkgo Bioworks Holdings, Inc. - SVP of Corporate Development    [19]
+--------------------------------------------------------------------------------
+Yes, I can comment a bit and then maybe Mark can add on. So this is obviously something that we spent quite a bit of time thinking about during diligence, well aware of the real estate footprint and the sort of headquarter build-out that Zymergen has been pursuing. As I mentioned earlier, we will be looking to consolidate the footprint there, whether it's subleasing out spaces. Zymergen actually has started that process to some extent, they've been trying to consolidate their real estate portfolio. So I think we'll be building on the good work that, that team has already done.
+
+--------------------------------------------------------------------------------
+Poon Mah,  Cowen and Company, LLC, Research Division - Senior Analyst    [20]
+--------------------------------------------------------------------------------
+Okay. Got it. And then a question on Zymergen's automation business where they're selling racks. Are you guys going to be potentially adding any sort of Ginkgo capabilities to those rack offerings? And a follow-up question, is that going to potentially cannibalize boundary service revenue as it enables sort of like do-it-yourself work?
+
+--------------------------------------------------------------------------------
+Jason Kelly,  Ginkgo Bioworks Holdings, Inc. - Co-Founder, CEO & Director    [21]
+--------------------------------------------------------------------------------
+Yes. So super good question. So yes. So the first thing to point out is Ginkgo has view that by consolidating scale, you can basically drive costs down, right? 
+So I think like data centers at Amazon, right? Like you want to have a giant data center, that gives you the lowest cost per compute. At the same time, like certain companies do have their own internal data centers, right, whether it's for some special security reasons or other things, there are reasons to do it. 
+I mean, I think we'll have to see how the market develops. I think we would have that optionality here. My impulse is that we're primarily going to be building it out here in Boston that continue to drive scale and actually make it cheaper and faster and easier for our customers to engineer cells, that's actually the dominant thing that people want. 
+But I do think you could see situations where people want to have for, again, a particular reason, their own kind of data center, their own foundry. 
+We also see in the academic market some opportunities for that. I think you've seen other companies often kind of launch their sort of platform technologies in academia, so that people learn to use them, right? Because that's anything that we would really benefit from would be more... 
+Because one of the challenges -- I got a PhD in Bioengineering, right? Like you learn to use your 2 hands to do lab work for 5 years and you go to a company that tells you to use your 2 hands and do lab work. And we're over here at Ginkgo saying like stop, just stop, right? Like it needs to move on to robotics automation. And you haven't actually been trained to design cells into engineered biology using that kind of infrastructure. 
+And so we have to -- even to hire people at Ginkgo, they have to do a whole training exercise, it would be a lot better if people during their training were learning how to leverage automation platforms like what we have. And so there's maybe an edge case there too in places where you're seeing a lot of training. But it's a great question, Steve. 
+You're muted, Anna Marie.
+
+--------------------------------------------------------------------------------
+Anna Marie Wagner,  Ginkgo Bioworks Holdings, Inc. - SVP of Corporate Development    [22]
+--------------------------------------------------------------------------------
+Thanks, Steve. Mike, I just unmuted your line. So go ahead if you've got a question.
+
+--------------------------------------------------------------------------------
+Michael Leonidovich Ryskin,  BofA Securities, Research Division - Director in Equity Research & Research Analyst    [23]
+--------------------------------------------------------------------------------
+Great. Thanks. Can you hear me?
+
+--------------------------------------------------------------------------------
+Anna Marie Wagner,  Ginkgo Bioworks Holdings, Inc. - SVP of Corporate Development    [24]
+--------------------------------------------------------------------------------
+Yes.
+
+--------------------------------------------------------------------------------
+Michael Leonidovich Ryskin,  BofA Securities, Research Division - Director in Equity Research & Research Analyst    [25]
+--------------------------------------------------------------------------------
+Great. This is Mike Ryskin on for Derik De Bruin of BofA.  A couple of quick questions. One on sort of everything you walked through as it relates to Zymergen, the integration, some of the restructuring, the cost synergies, the divestments or the spins of some of those verticals. Could you give us a sense of timing here? Because as you said, Zymergen was already pursuing some of these restructuring and cost-cutting efforts themselves. So everything you kind of walked through on Slide 13, Slide 14, is that a 2-year plan, a 5-year plan. Just to get a better sense for sort of what the OpEx ramp and things like that.
+
+--------------------------------------------------------------------------------
+Anna Marie Wagner,  Ginkgo Bioworks Holdings, Inc. - SVP of Corporate Development    [26]
+--------------------------------------------------------------------------------
+Great question, Mike. So as Zymergen sort of announced this morning, they are continuing the restructurings that they've been doing really for the past year or so. And so quite a lot of this, at least on their side, will happen prior to close over the coming months, which is certainly helpful from a timing perspective of getting to sort of a steady state. 
+Post close, obviously, will need time to integrate and to sort of complete that work, transition systems over to all the normal kind of back-office integration work as well, but we would expect that all of that work would certainly be completed within the first year post acquisition.
+
+--------------------------------------------------------------------------------
+Michael Leonidovich Ryskin,  BofA Securities, Research Division - Director in Equity Research & Research Analyst    [27]
+--------------------------------------------------------------------------------
+Okay. Great. And then you also, Jason, you talked earlier about flexibility when it comes to M&A and capital deployment, but you also do have a sizable cash and equivalent balance. So can you talk about why this is an all-equity deal instead of mixing in a cash component or doing all cash. And then at the same time, we're in late July. Is there a reason you guys didn't factor in like a flash 2Q update as part of the announcement?
+
+--------------------------------------------------------------------------------
+Anna Marie Wagner,  Ginkgo Bioworks Holdings, Inc. - SVP of Corporate Development    [28]
+--------------------------------------------------------------------------------
+Sure. I'm happy to take the first one, and Jason and Mark can feel free to chime in. I'd say, look, from our perspective and I think from Zymergen's perspective as well, continuing to recognize the growth in the story is important to everybody. And so we want we want shareholders and employees who are excited to build Ginkgo. 
+I think there are no better group of employees and shareholders than the folks that are over at Zymergen to help continue to invest in and realize that story. And as Jason alluded to at the beginning as well, we do have a large balance sheet, but that balance sheet is important to us to ensure that we can continue to make the kinds of strategic decisions like this, while continuing to have that margin of safety. 
+And so it's helpful to have the optionality. And in this case, we certainly thought that incentives would be better aligned and that the deal would be more attractive for all parties if we structure this as equity. Mark, I'll let you chime on this too.
+
+--------------------------------------------------------------------------------
+Mark E. Dmytruk,  Ginkgo Bioworks Holdings, Inc. - CFO    [29]
+--------------------------------------------------------------------------------
+Yes. I mean, look, it was really an unplanned coincidence that these 2 transactions occurred this past weekend that came together at the same time, and all of that occurring in just a couple of weeks before our 10-Q filing deadline. 
+And so, no particular reason, Mike, why we didn't provide a flash today other than the sort of normal, I think, consideration that we wanted to get through our full process, and that includes the review with our auditors of the quarter, the discussions that we have with the Audit Committee, et cetera. So we want to just go through the process, complete that before we talk about Q2 performance.
+
+--------------------------------------------------------------------------------
+Anna Marie Wagner,  Ginkgo Bioworks Holdings, Inc. - SVP of Corporate Development    [30]
+--------------------------------------------------------------------------------
+We did plan for that call to be in mid-August, just so folks can look forward to it. 
+All right. Matt, you're up. So Matt Sykes you're up next. And then Matt Larew, you'll be right after that.
+
+--------------------------------------------------------------------------------
+Matthew Carlisle Sykes,  Goldman Sachs Group, Inc., Research Division - Research Analyst    [31]
+--------------------------------------------------------------------------------
+Great. (technical difficulty) .
+
+--------------------------------------------------------------------------------
+Anna Marie Wagner,  Ginkgo Bioworks Holdings, Inc. - SVP of Corporate Development    [32]
+--------------------------------------------------------------------------------
+Sorry, that was totally fault.
+
+--------------------------------------------------------------------------------
+Matthew Carlisle Sykes,  Goldman Sachs Group, Inc., Research Division - Research Analyst    [33]
+--------------------------------------------------------------------------------
+Okay. Can you hear me now?
+
+--------------------------------------------------------------------------------
+Anna Marie Wagner,  Ginkgo Bioworks Holdings, Inc. - SVP of Corporate Development    [34]
+--------------------------------------------------------------------------------
+Yes, we can.
+
+--------------------------------------------------------------------------------
+Matthew Carlisle Sykes,  Goldman Sachs Group, Inc., Research Division - Research Analyst    [35]
+--------------------------------------------------------------------------------
+Okay. Congrats on the deal. I just wanted to -- Jason, you've talked in the past about as the foundry scales, the economies of scale will allow for lower costs that will enable you to earn margin on the foundry or a higher margin on the foundry. I'm just wondering, post the integration of Zymergen's automation technology, do you think that accelerates the scalability? And if so, can you give sort of a time frame as to what you think you might have pulled forward that scalability with the addition of this automation technology, obviously, incumbent upon integration, et cetera, but just wanted to get an idea from you.
+
+--------------------------------------------------------------------------------
+Jason Kelly,  Ginkgo Bioworks Holdings, Inc. - Co-Founder, CEO & Director    [36]
+--------------------------------------------------------------------------------
+Yes. It's an important point. I mean,  so here's what I'd say. So 100% of our goal is to drive down unit economics in our facilities by virtue of increasing scale. That can then affect customers in 2 ways. One, they can do the same -- they could ask for the same project, and we can make more margin on it. And I can sort of say like, "Hey, this is what a project looks like." And as my cost fall down, I read more value from it, right?
+Our attitude at Ginkgo largely has been that customers of cell engineering technologies are like getting the short end of the stick right now, right? Like they are being asked to do things at incredibly low throughput by hand using technologies that simply don't get that much better every year. And so as our technologies improve, the other way to approach it is to pass those improvements on to our customers so that they drive innovation. That they decide to develop new cell programs and apps that they would never have done before. And then we make money through to the part of our business model that is the downstream value share, right, which kind of the analogies like a mobile app store, right, like taking a piece of the value of the applications. 
+That really just has to do with how many how many programs customers go after and how successful they are, right, which is another real challenge in biotechnology is sort of the failure rate of a lot of these programs, again, with the technology of today. Not that people aren't trying hard, but it's just the technology is at a certain state. And if that gets better, you could also hope to see improvements in sort of likelihood of success. 
+So that's a real balance, right? That is what I was kind of talking about with having the knobs right, like -- I don't know, right? It depends on the market conditions. If we're in a spot where we have a strong margin of safety, it may be hell of a lot smarter for us to just get more programs on the platform by really reducing our cost and making money in downstream value share, right? 
+So we'll see. I don't actually know like how we will make the most of improvements. I know that it is important for us to make improvements in scale and platform. 
+So that's to your second question, should we -- like how much faster will it make it and all that sort of thing. What I would say again is we already have a very aggressive sort of scaling goals internally with Nightstar, where we've been sort of roughly tripling our output and having our unit cost annually, that's already a very fast rate. A lot of what we're trying to do here is really just bring in the technologies to keep that going. 
+And so nothing more than we're trying to shore up and ensure that we can do that and have access to some technology. Probably that like we would have had to build something like it anyway and that would have been its own expense, we're able to bring that in a little faster. But I'd say it's more about trying to be sure that we can do it.
+
+--------------------------------------------------------------------------------
+Matthew Carlisle Sykes,  Goldman Sachs Group, Inc., Research Division - Research Analyst    [37]
+--------------------------------------------------------------------------------
+Great. And then just one follow-up. You had mentioned maybe for Anna Marie and Mark, you mentioned that the acquisition of Zymergen helps fill your hiring plans. Was that for 2022? Or is that beyond? Could you just give us a bit of an idea of to what extent does it fill your hiring plans?
+
+--------------------------------------------------------------------------------
+Mark E. Dmytruk,  Ginkgo Bioworks Holdings, Inc. - CFO    [38]
+--------------------------------------------------------------------------------
+Yes. I mean, largely, I would characterize it as 2023 hiring plans, maybe a little bit beyond because the Zymergen deal isn't expected to close until Q1 of this year. We're not necessarily thinking of it as replacing a lot of this year's hiring plans, but maybe it does, some of that as well indirectly.
+
+--------------------------------------------------------------------------------
+Anna Marie Wagner,  Ginkgo Bioworks Holdings, Inc. - SVP of Corporate Development    [39]
+--------------------------------------------------------------------------------
+Alright, Matt Larew. I'm unmuting your line.
+
+--------------------------------------------------------------------------------
+Matthew Richard Larew,  William Blair & Company L.L.C., Research Division - Research Analyst    [40]
+--------------------------------------------------------------------------------
+Okay. Thanks, Anna Marie. Jason, I think you referenced that maybe 70% of the value from a tech perspective, you saw coming from foundry and automation. But just curious in terms of their metagenomics database, if you all had a chance to look at that, obviously. And if there's anything of particular interest, maybe specific segments or areas that you found might bolster your capabilities, maybe take the place of other M&A you were looking at? Just kind of curious what you found as you looked at that?
+
+--------------------------------------------------------------------------------
+Jason Kelly,  Ginkgo Bioworks Holdings, Inc. - Co-Founder, CEO & Director    [41]
+--------------------------------------------------------------------------------
+Yes. So Zymergen has built up an internal genomics database. It's sort of -- you remember I mentioned that Warp Drive Bio acquisition, they made some acquisitions of Lodo therapeutics and Radiant Genomics .  And so they have access to kind of a DNA sequence library and also like physical assets, in some cases, strains and so on.
+That -- absolutely, that's of interest to us. Sometimes, we can pull specific strain out of that, right? Like we also have this with the Bayer transaction, it's like the strain collection. But also very importantly, it's just a raw DNA data can be useful, right? So with the Warp Drive Bio  asset, that was an asset development pharmaceuticals, we have found enzymes in that genome databases at the base that have been useful outside of pharmaceuticals, right? 
+So part of the hope here is yes, it would. Those would add value as well. And so that is value we hope to be getting. Yes. It's a great thing to bring out, Matt.
+
+--------------------------------------------------------------------------------
+Matthew Richard Larew,  William Blair & Company L.L.C., Research Division - Research Analyst    [42]
+--------------------------------------------------------------------------------
+Okay. And then just the other one, the strategic alternatives process, while you intend to help them, are those things you expect to be resolved before the deal closes next year, that would be piece one. And I think someone mentioned the deal was in part contingent on some real estate actions or nonaction. Could you maybe just confirm what exactly that was referring to?
+
+--------------------------------------------------------------------------------
+Anna Marie Wagner,  Ginkgo Bioworks Holdings, Inc. - SVP of Corporate Development    [43]
+--------------------------------------------------------------------------------
+Sure. Happy to chat about both of those. So on the strategic alternatives, again, as we mentioned, as we've been having conversations with the Zymergen team over the past several months, it's clear that they've been interested in exploring a variety of different types of partnerships for their product portfolio across advanced materials and drug discovery. And that's something that we're very supportive of them continuing to do. Obviously, that's a process they'll need to run until the deal is closed. And so we can't comment on likelihood of timing at this point, but it's something we're certainly supportive of. And if it has not occurred prior to close, then something we would continue to explore post-close. 
+In terms of the contingencies that you mentioned, I would suggest that you read the 8-K and the merger agreement filed alongside it for more details, of course. But there is a condition around certain discrete events, in particular, the build-out of their real estate, their new headquarters and just unanticipated risk of just build out cost skyrocketing needed to make sure that there was protection there, as well as securities litigation matter. 
+And so those 2 items fall into this category where if there has been a material and adverse development in those that is quantified at about $25 million combined cost to the company and Ginkgo in cash, then we would have the opportunity to evaluate that in the context of the overall transaction. 
+All right. Last but not least, Mark Massaro.
+
+--------------------------------------------------------------------------------
+Mark Anthony Massaro,  BTIG, LLC, Research Division - MD & Life Science & Diagnostic Tools Analyst    [44]
+--------------------------------------------------------------------------------
+Guys, can you hear me? .
+
+--------------------------------------------------------------------------------
+Anna Marie Wagner,  Ginkgo Bioworks Holdings, Inc. - SVP of Corporate Development    [45]
+--------------------------------------------------------------------------------
+Yes.
+
+--------------------------------------------------------------------------------
+Jason Kelly,  Ginkgo Bioworks Holdings, Inc. - Co-Founder, CEO & Director    [46]
+--------------------------------------------------------------------------------
+Yes.
+
+--------------------------------------------------------------------------------
+Mark Anthony Massaro,  BTIG, LLC, Research Division - MD & Life Science & Diagnostic Tools Analyst    [47]
+--------------------------------------------------------------------------------
+Great. So I recognize Zymergen is undergoing a restructuring. But can you maybe provide a sense for the number of people that might be coming over to Ginkgo? Can you comment about any potential Board member additions? And then specifically, can you comment on Jay Flatley?
+
+--------------------------------------------------------------------------------
+Jason Kelly,  Ginkgo Bioworks Holdings, Inc. - Co-Founder, CEO & Director    [48]
+--------------------------------------------------------------------------------
+So I don't think we have disclosed -- Anna Marie, do you want to chime in on...
+
+--------------------------------------------------------------------------------
+Anna Marie Wagner,  Ginkgo Bioworks Holdings, Inc. - SVP of Corporate Development    [49]
+--------------------------------------------------------------------------------
+Yes, I can start with what's been disclosed at least. So Zymergen this morning in their 8-K did disclose that they are continuing their restructuring plans and that there will be a series of reductions in force over the coming months, the first of which will impact about 80 employees in the near term. Beyond that, it wouldn't be appropriate for us to comment on that.
+And then we have not shared any details around any planned changes to the Board or Jay, but, Jason, I think it's fine for you to comment on that.
+
+--------------------------------------------------------------------------------
+Jason Kelly,  Ginkgo Bioworks Holdings, Inc. - Co-Founder, CEO & Director    [50]
+--------------------------------------------------------------------------------
+Always happy to have Jay if he wants to come over. No specific plans.
+
+--------------------------------------------------------------------------------
+Mark Anthony Massaro,  BTIG, LLC, Research Division - MD & Life Science & Diagnostic Tools Analyst    [51]
+--------------------------------------------------------------------------------
+Understood. Understood. Thank you for indulging that question.  When I look at, say, consensus estimates on Zymergen, you talked about how you're not expecting Zymergen to provide material revenue and recognizing that it's small relative to your pie at this time, it looks like analysts are looking for $20 million or $33 million of revenue in '23 and '24, respectively, but they're also baking in net losses of about $300 million and $200 million, respectively. So maybe can you just comment about -- obviously, you're bringing some people over. I know maybe you're not prepared to talk about how many at this time. But how should we think about potential revenue contribution and potential changes to your P&L in terms of any expenses you're bringing over?
+
+--------------------------------------------------------------------------------
+Mark E. Dmytruk,  Ginkgo Bioworks Holdings, Inc. - CFO    [52]
+--------------------------------------------------------------------------------
+Yes. So in terms of revenue contribution, I mean, the best way to think about it, Mark, is that we have not baked in a revenue contribution into how we're thinking about the deal. And so when we make comments like our ability to maintain a multiyear cash runway with this transaction, we're not assuming a bunch of revenue comes over to mitigate expenses. 
+Now there is some upside opportunity there for sure. And we think certainly in the medium term, the capabilities that Zymergen brings from a technology perspective, we think will help drive program growth, will help drive program success rates. But we're not layering in sort of a revenue contribution into our math on the impact of the deal. 
+On the sort of OpEx side, when you look at what Zymergen does disclose with respect to its OpEx run rate, so the numbers that you just talked about, Mark, you'll want to sort of consider that today they announced additional restructuring efforts, which wouldn't have been factored into that sort of consensus view. And so that's new. That would provide sort of a further mitigant to the cash OpEx. And as we discussed, we think a lot of that would be completed before closing. 
+But to the extent it isn't, then Ginkgo would sort of continue on that path of finishing that restructuring. And then there would be further cost optimizing that Ginkgo would do as we complete the integration. 
+And then finally, the Zymergen employees that would be joining Ginkgo again, we said would fill future planned kind of hiring growth needs. 
+So really, there's -- we put an enormous amount of thought around this particular point, Mark. So that this transaction doesn't become sort of an undue burden from a future cash OpEx point of view on the Ginkgo long-term profile.
+
+--------------------------------------------------------------------------------
+Mark Anthony Massaro,  BTIG, LLC, Research Division - MD & Life Science & Diagnostic Tools Analyst    [53]
+--------------------------------------------------------------------------------
+Perfect. And if I can sneak one last one in. Obviously, the additional foundry coming in and building your code-based asset is important. But for investors that are not super familiar with Zymergen; can you maybe just expand on any programs or opportunities within their Advanced Materials and drug discovery businesses, which made you excited and maybe as a source or rationale to go out and acquire them?
+
+--------------------------------------------------------------------------------
+Jason Kelly,  Ginkgo Bioworks Holdings, Inc. - Co-Founder, CEO & Director    [54]
+--------------------------------------------------------------------------------
+Yes. So I mean, what I would say there, we've been very familiar with the like the kind of history of synthetic biology. And again, the way to get to that biology in your head is it's like underlying technologies that make it cheaper and easier and faster to engineer cells separate from the applications.
+A lot of people confuse it and they think synthetic biology just equals non-pharmaceutical biotechnology. So why is that? Well, that's because most of the effort in syn bio and the beginnings of it was outside of pharmaceuticals. And there's some technical reasons for that and so on. And so we know that space really well, the industrial space, like a part of which is the material space Zymergen has been operating in. 
+I think what was unique about what they did was you've seen a lot of folks in that space really focus on basically replacements for existing things. So there's this cosmetic ingredient. There is this, in some cases, commodity chemicals, right? We work with partner Genomatica, they have amazing large-scale fermentation to produce commodity -- certain commodity chemicals, right? So it's replacing a thing in the market. 
+What Zymergen really focused on was novel, new materials, right? And you saw obviously highly in a few others, but they have a pipeline of things that were, "Hey, I want to try to make a thing based on chemistry that biology can make that you actually can't get from synthetic chemistry, or not easily or not economically. And that's going to open up new markets in the specialty chemical and ultimately hopefully even commodity chemical space.  That's the thing they did that was new, right? 
+I think it was hard, right? And some of the early things didn't hit, which created some challenges. But that's a great -- I mean what the heck, like do we think we're done with chemistry, like I hope not, right? So I like that line of work. And so that pipeline there, I do think is pretty unique and interesting to go take out to big chemical players and say, "Hey, listen, this is a way to explore chemical space that you have no other way to get to." And so that's -- in the general sense. And then you can go read obviously, they speak better to their products than I do. So you should go take a look at the specifics. But that's kind of how I get it in my head in terms of where it fits in the market.
+
+--------------------------------------------------------------------------------
+Anna Marie Wagner,  Ginkgo Bioworks Holdings, Inc. - SVP of Corporate Development    [55]
+--------------------------------------------------------------------------------
+Thanks. Well, seeing no further questions, I think that concludes our call this morning. Thanks for everyone who joined, and this recording will be up online on YouTube. So thanks, everyone.
+
+--------------------------------------------------------------------------------
+Jason Kelly,  Ginkgo Bioworks Holdings, Inc. - Co-Founder, CEO & Director    [56]
+--------------------------------------------------------------------------------
+Thanks, everybody. Bye.
+
+
+
+
+
+
+
+--------------------------------------------------------------------------------
+Definitions
+--------------------------------------------------------------------------------
+PRELIMINARY TRANSCRIPT: "Preliminary Transcript" indicates that the 
+Transcript has been published in near real-time by an experienced 
+professional transcriber.  While the Preliminary Transcript is highly 
+accurate, it has not been edited to ensure the entire transcription 
+represents a verbatim report of the call.
+
+EDITED TRANSCRIPT: "Edited Transcript" indicates that a team of professional 
+editors have listened to the event a second time to confirm that the 
+content of the call has been transcribed accurately and in full.
+
+--------------------------------------------------------------------------------
+Disclaimer
+--------------------------------------------------------------------------------
+Refinitiv reserves the right to make changes to documents, content, or other 
+information on this web site without obligation to notify any person of 
+such changes.
+
+In the conference calls upon which Event Transcripts are based, companies 
+may make projections or other forward-looking statements regarding a variety 
+of items. Such forward-looking statements are based upon current 
+expectations and involve risks and uncertainties. Actual results may differ 
+materially from those stated in any forward-looking statement based on a 
+number of important factors and risks, which are more specifically 
+identified in the companies' most recent SEC filings. Although the companies 
+may indicate and believe that the assumptions underlying the forward-looking 
+statements are reasonable, any of the assumptions could prove inaccurate or 
+incorrect and, therefore, there can be no assurance that the results 
+contemplated in the forward-looking statements will be realized.
+
+THE INFORMATION CONTAINED IN EVENT TRANSCRIPTS IS A TEXTUAL REPRESENTATION
+OF THE APPLICABLE COMPANY'S CONFERENCE CALL AND WHILE EFFORTS ARE MADE TO
+PROVIDE AN ACCURATE TRANSCRIPTION, THERE MAY BE MATERIAL ERRORS, OMISSIONS,
+OR INACCURACIES IN THE REPORTING OF THE SUBSTANCE OF THE CONFERENCE CALLS.
+IN NO WAY DOES REFINITIV OR THE APPLICABLE COMPANY ASSUME ANY RESPONSIBILITY FOR ANY INVESTMENT OR OTHER
+DECISIONS MADE BASED UPON THE INFORMATION PROVIDED ON THIS WEB SITE OR IN
+ANY EVENT TRANSCRIPT. USERS ARE ADVISED TO REVIEW THE APPLICABLE COMPANY'S
+CONFERENCE CALL ITSELF AND THE APPLICABLE COMPANY'S SEC FILINGS BEFORE
+MAKING ANY INVESTMENT OR OTHER DECISIONS.
+--------------------------------------------------------------------------------
+Copyright 2023 Refinitiv. All Rights Reserved.
+--------------------------------------------------------------------------------

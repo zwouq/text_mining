@@ -1,0 +1,159 @@
+
+
+Refinitiv StreetEvents Event Transcript
+E D I T E D   V E R S I O N
+
+Idera Pharmaceuticals Inc Acquisition of Aceragen Inc - M&amp;A Call
+SEPTEMBER 28, 2022 / 9:00PM GMT
+
+================================================================================
+Corporate Participants
+================================================================================
+
+ * John Taylor
+    - 
+ * Carl N. Kraus
+   Aceragen, Inc. - Chief Medical Officer
+ * Bryant David Lim
+   Idera Pharmaceuticals, Inc. - Senior VP, Chief Business Officer & General Counsel
+ * Vincent J. Milano
+   Idera Pharmaceuticals, Inc. - President, CEO & Director
+
+================================================================================
+Presentation
+--------------------------------------------------------------------------------
+Operator    [1]
+--------------------------------------------------------------------------------
+Greetings, everyone, and welcome to the Idera Pharmaceuticals Investor Conference Call. Today's call is being recorded and now -- and is expected to last up to 1 hour.
+I would now like to turn the conference over to Mr. Vin Milano from Idera. Please go ahead, sir.
+
+--------------------------------------------------------------------------------
+Vincent J. Milano,  Idera Pharmaceuticals, Inc. - President, CEO & Director    [2]
+--------------------------------------------------------------------------------
+Thank you, Chuck. Hello and welcome to everyone joining us today.
+Earlier this year, in the best interests of the company and its stockholders, we began the process of conducting a comprehensive review of strategic alternatives for Idera, with a focus on maximizing stockholder value. I am today very pleased to kick off this call regarding the results of that effort. Idera's acquisition of Aceragen, a privately held biotechnology company addressing rare orphan diseases that typically have no available treatment; and to be assuming my new role as Idera's Chair of the Board.
+Thank you for taking the time to be with us and sharing in our excitement. We believe the acquisition of Aceragen represents the highest-potential value creation opportunity for Idera stockholders and provides a strong foundation to work towards better lives for patients living with rare diseases. Please refer to the Investor Relations section of Idera's corporate website for the presentation to reference during our call.
+Before we proceed any further, Bryant Lim, our Chief Business Officer and General Counsel, will tell you of our potential to make forward-looking statements.
+Bryant?
+
+--------------------------------------------------------------------------------
+Bryant David Lim,  Idera Pharmaceuticals, Inc. - Senior VP, Chief Business Officer & General Counsel    [3]
+--------------------------------------------------------------------------------
+Thanks, Vin.
+Please direct your attention to Slide 2 of the presentation. During this call, we may make forward-looking statements within the meaning of federal securities laws. Such statements may be identified -- words like anticipate, expect, believe, estimate, potential, plan; and similar words. Certain statements such as those regarding our ability to successfully integrate the Aceragen operations, our ability to comply with the listing requirements of the NASDAQ stock market, whether our stockholders approve the conversion of the Series Z preferred shares, whether our cash resources will be sufficient to fund the company's continuing operations and the newly acquired Aceragen operations, our expectations for future clinical trials, the timing and results of clinical studies and interactions with regulatory authorities and potential commercial opportunities are examples of such forward-looking statements. As you know, forward-looking statements are subject to factors that may cause our results and plans to materially different -- differ from those expected. Factors that may cause these differences include but are not limited to those described in the Risk Factors section of our annual report filed on Form 10-K for the year ended December 31, 2021, as filed with the SEC; and in our other filings with the SEC. Please refer to the press release issued this afternoon and to our filings with the SEC for more information about the risks and uncertainties that could cause future results to differ materially from the expectations expressed in this conference call.
+Forward-looking statements made during this call speak only as of today, and we disclaim any intention or obligation to update them.
+Vin?
+
+--------------------------------------------------------------------------------
+Vincent J. Milano,  Idera Pharmaceuticals, Inc. - President, CEO & Director    [4]
+--------------------------------------------------------------------------------
+Thank you, Bryant.
+Joining me today is John Taylor, Idera's new CEO, along with members of Idera's new leadership team. It is now my pleasure to turn the call over to John.
+
+--------------------------------------------------------------------------------
+John Taylor,   -     [5]
+--------------------------------------------------------------------------------
+Thank you, Vin.
+Since Aceragen was founded in early 2021, our mission has been to provide a better life for patients living with rare diseases, with an eye toward developing meaningful treatment options for pulmonary and rheumatic diseases where few or no other treatment options exist. With the announcement today, I believe we together have an excellent foundation to deliver on this mission. Idera's portfolio now includes 3 advanced rare disease programs, each with strong regulatory exclusivity and intellectual property protection, 2 of which have the opportunity to be awarded priority review vouchers and with the first approval possible as early as late 2024. Next year, 2023, will be a busy year for our team as we plan for data readouts in 2 of our programs and the third in early 2024. We believe the commercial potential of these initial programs is strong, with combined annual peak sales estimated at $650 million and revenue anticipated as early as 2025 from a possible national stockpiling contract.
+The combination of Idera and Aceragen also provides a strong financial foundation. Cash on hand is expected to provide runway into the third quarter of 2023, a time frame that encompasses planned late-stage data readouts for 2 of our lead programs. That foundation is further bolstered by significant nondilutive funding from our agreements with the Defense Threat Reduction Agency, DTRA; and the Cystic Fibrosis Foundation. The company will also benefit from leadership from both Idera and Aceragen. I am very pleased that Vin will remain a part of Idera in his new role as Board Chair and that both the Board of Directors and management team benefit from having strong leaders from both companies. I'm privileged to be working with such an accomplished team.
+In our mission to address the unmet needs of patients living with rare diseases, we initially are advancing 2 compounds across 3 programs. In the fourth quarter of this year, we expect to begin enrolling patients in a Phase II trial of ACG-701, a proprietary formulation of sodium fusidate in acute exacerbations associated with cystic fibrosis, a major driving factor behind lung function decline in patients struggling with CF. We are honored to have funding support for the study from the Cystic Fibrosis Foundation. We're also currently enrolling patients in a Phase II government-funded trial for ACG-701 in melioidosis, a life-threatening infection that, like cystic fibrosis, often has severe respiratory complications.
+In addition, we have ACG-801, recombinant human acid ceramidase, for which we expect to initiate a trial in Farber disease, a lysosomal storage disorder with profound morbidity and often premature death, for which there are no other available treatments.
+Across these 3 programs, we have 8 clinical and regulatory milestones anticipated by the end of 2024, including 2 key data points anticipated in the first half of 2023 and the third anticipated in early 2024; potential regulatory submissions anticipated beginning in mid-2024. In addition, both ACG-701 and ACG-801 have the potential for utility in additional complementary indications that are unserved or underserved by current approved treatments.
+I would like now to turn the call over to Dr. Carl Kraus, our Chief Medical Officer, to review each of these programs in greater detail.
+Carl?
+
+--------------------------------------------------------------------------------
+Carl N. Kraus,  Aceragen, Inc. - Chief Medical Officer    [6]
+--------------------------------------------------------------------------------
+Thank you, John.
+Let's first dive into ACG-701, our proprietary formulation of sodium fusidate. Sodium fusidate is an oral anti-infective compound with mucin inhibitory and anti-inflammatory properties. There is a significant history of its clinical use in the treatment of MRSA and related pathogens that cause exacerbations in the lungs. The generic formulation is already approved outside the U.S., and it has an established efficacy and safety profile from more than 50 years of use.
+ACG-701, our proprietary formulation, has been shown to offer superior pharmacokinetics over the ex U.S. generic formulation, achieving steady state far earlier with a higher peak concentration as well. If approved, it has the potential for 12 years of exclusivity from first approval in the U.S. and the potential for 10 years of exclusivity in Japan and Europe. Sodium fusidate also has 50-plus-year history of use and safety profile with either limited adverse events or adverse events limited to gastrointestinal events. In fact, a review of published literature describing sodium fusidate use showed that nearly 3/4 of the 2,500 patients captured in the review had no reported adverse events.
+Many properties of ACG-701 may make it well suited to address chronic respiratory diseases. Sodium fusidate has been shown to decrease the elevated mucin expression commonly experienced during episodes of exacerbation. Sodium fusidate also is a potent oral anti-MRSA agent available outside U.S., which is key given Staphylococcus aureus' common presence in chronic lung disease. Thirdly, biofilm-related infections are common in chronic pulmonary disease. Sodium fusidate has been shown to be active in biofilm models and is synergistic with other antibiotics in those models too.
+Sodium fusidate's potential efficacy is further supported by the data that shows it accumulates inside host cells. Since many antibiotics have poor accumulations within cells, pathogens that have an intracellular element as part of their life cycle are more challenging to address. In addition, although actively inflamed lungs can result in declining pH, which can potentially decrease the potency of most antibiotics, sodium fusidate has been shown to maintain activity in this hostile environment and to have increased potency as pH declines. And sodium fusidate has been shown to inhibit production of several pro-inflammatory cytokines that typically worsen pulmonary exacerbations.
+Based on these properties, an initial indication for ACG-701 is in targeting treatment of pulmonary exacerbations of patients living with cystic fibrosis. Pulmonary exacerbations and related complications are the primary drivers of declining lung function in patients with cystic fibrosis and account for nearly 2/3 of patient deaths. Despite treatment advances, patients still experience exacerbations, with no FDA-approved therapies to address that complication.
+So what is the basis for our belief in this program? The answer is manyfold. First, sodium fusidate treats the drivers of exacerbation such as increased mucin production, inflammation and infection. And our proprietary formulation does so while achieving steady state within 24 hours, critical to addressing an acute illness. In addition, chronic infection in CF lungs is commonly treated with sodium fusidate outside the U.S. A prior clinical trial in pulmonary exacerbations of cystic fibrosis showed an improvement in lung function, including both improvement in oxygen saturation and improvement of respiratory rate when sodium fusidate was included in the treatment regimen. Importantly, sodium fusidate is recommended for treatment of CF exacerbations by United Kingdom and Australian treatment guidelines. Lastly and as we touched on earlier, the strong safety profile generated from decades of sodium fusidate use give us confidence in the potential for ACG-701 to deliver its benefits to patients safely.
+With this outlook and with support from the Cystic Fibrosis Foundation, we are gearing up to begin our Phase II REPRIEVE study in cystic fibrosis later this year. It will be a double-blinded placebo-controlled study evaluating treatment with ACG-701 in approximately 80 adult patients with pulmonary exacerbations. The primary end point is a composite score that encompasses the chronic respiratory infection symptom score or CRISS. We have met with the FDA regarding use of this instrument as an outcome measure in our trial, and they have been supportive. We have obtained orphan drug, qualified infectious disease product and fast track designations for these programs as well. We expect to begin this study later this year and to have data in approximately the second quarter of 2023.
+Moving on to our other key indication for ACG-701, melioidosis. Melioidosis is a tropical disease caused by the pathogen Burkholderia pseudomallei. The disease is endemic to Southeast Asia, though it has also recently been found in the Southeastern United States. Infection tends to most profoundly impact the lungs, with the pathogen Burkholderia pseudomallei residing intracellularly for a large portion of its life cycle and in the potentially low-pH environment, 2 characteristics where sodium fusidate offers key properties such as the potential for high concentrations within cells and increased potency at low pH.
+Due to no FDA-approved therapies, intrinsic high resistance to most antibiotics and the potential for melioidosis to be [weaponized], ACG-701 has been awarded $51 million from the Defense Threat Reduction Agency with the aim of leading to FDA approval for use as a medical countermeasure. That funding covers a significant portion of melioidosis development costs and a portion of the ACG-701 NDA requirements. Given the potential for a national stockpiling contract with the U.S. government and the anticipated priority review voucher, together with the properties of sodium fusidate and nonclinical data that show its high potency against Burkholderia pseudomallei, we are excited about the potential for ACG-701 in this indication.
+Our TERRA study in melioidosis is a double-blinded placebo-controlled trial and is currently enrolling patients. We expect to share interim results from the study in early 2023 and would expect to follow that with final data in the second quarter of that year.
+As an infectious disease physician by training, I am passionate about the 701 program, but I am equally excited about the potential for our third program, which involves ACG-801, a recombinant human acid ceramidase with several potential indications. We first plan to evaluate 801 in Farber disease. For that indication, we have both orphan and fast track designations, along with the potential for a rare pediatric disease priority review voucher.
+Let me start with the mechanism of action. Ceramides are molecules that help maintain cell membranes and perform other critical life-sustaining tasks. However, in the absence of the acid ceramidase enzyme to break down the ceramides, the ceramides become toxic due to their pro-inflammatory potential. Excess ceramide levels are implicated in multiple inflammatory diseases such as cystic fibrosis, atopic dermatitis and ulcerative colitis. A disease where there is a deficiency in the enzyme has the potential to be addressed with enzyme replacement such as ACG-801. In such a case, we believe ACG-801 may break down the excess ceramides, thus potentially alleviating bone, joint and soft tissue lesions; and consequent inflammations that are common complications from the excess ceramides.
+Our first planned indication for ACG-801 is in Farber disease, a rare, inherited and progressive lysosomal storage disease caused by mutations in the acid ceramidase gene. Although difficult to initially diagnose, Farber disease symptoms may appear from birth. The most severe cases often end in death from respiratory failure at a very early age. Our planned trial for this indication, the ADVANCE study, will be a first-in-human study of ACG-801. Our conviction for 801's potential utility in Farber disease stems in part from the preclinical data that showed several treatment benefits shown here, including a reduction of ceramide deposits in target tissues; a reduction of inflammatory biomarkers to wild type levels; amelioration of bone, joint and soft tissue lesions; and an increased lifespan in newborn mice. These preclinical data are indeed compelling, but what adds to our conviction is the fact that, for 5 FDA-approved enzyme replacement therapies targeting lysosomal storage disorders, animal model success in the target indication was highly predictive of human efficacy. We similarly anticipate that ACG-801's animal data may predict clinical benefit for patients with Farber disease.
+Our ADVANCE study of 801 in Farber disease may begin as soon as the beginning of 2023. It will be a double-blinded placebo-controlled study among approximately 15 pediatric and adult patients. And it will evaluate subcutaneous nodule changes, a hallmark of this disease; and common clinical outcomes such as pain and mobility. Final data from that study would be expected in early 2024.
+As I hope you've gleaned, we have a strong pipeline of late-stage assets that we believe will lead to multiple key milestones as early as about 9 months from now in 3 indications that have no other approved therapies in the United States. We are excited for what that may mean for our patients and are extremely privileged to be working on their behalf. I'd be happy to answer questions about any of our clinical programs during the Q&A portion of our call, but I'll turn things back to John now.
+
+--------------------------------------------------------------------------------
+John Taylor,   -     [7]
+--------------------------------------------------------------------------------
+Thank you, Carl.
+Before concluding the call, I'd like to review the details on the structure of the merger transaction. The acquisition of Aceragen was structured as a stock-for-stock transaction in which Aceragen's outstanding equity interests were exchanged in a combination of -- exchanged for a combination of Idera common stock and shares of a newly designated class of nonvoting Series Z convertible preferred stock. Subject to stockholder approval, which is targeted before the end of this year, each share of Series Z preferred stock will convert to 1,000 shares of Idera common stock.
+On a pro forma basis based on the number of shares of Idera common stock and preferred stock issued with the acquisition, Idera equity holders immediately prior to the acquisition will immediately, following the merger, own approximately 33% of the combined company on an as-converted fully diluted basis, excluding certain "out of the money" options and warrants held by Idera's equity holders.
+With our funding agreements with DTRA and the Cystic Fibrosis Foundation, the estimated $27 million cash on hand of the company will be used to advance our pipeline and for general corporate purposes.
+I will echo Carl's earlier sentiment, which I know we all share. We are excited about these opportunities ahead of us and honored to be driving these opportunities forward on behalf of patients. We are further energized by bringing together of our 2 companies and the Idera resources that will complement and bolster Aceragen's pipeline and team. Our combined financial resources are strong, enabling us to reach key clinical milestones as soon as the second quarter of 2023. Our commercial potential is significant with estimated peak sales potential of more than $500 million for ACG-701 in cystic fibrosis and melioidosis and more than $150 million for ACG-801 in Farber disease. And our future is -- potential is bright with the possibility to develop both 701 and 801 for additional indications as our company evolves. We believe the Aceragen acquisition provides a value creation opportunity for Idera stockholders, and we invite you to join us as we embark on the next stage of Idera's journey.
+This concludes our prepared remarks. Let's now open the call for questions. Operator, are there any questions?
+
+--------------------------------------------------------------------------------
+Operator    [8]
+--------------------------------------------------------------------------------
+(Operator Instructions) This concludes our question-and-answer session. I would like to turn the conference back over to Mr. John Taylor for any closing remarks. Please go ahead, sir.
+
+--------------------------------------------------------------------------------
+John Taylor,   -     [9]
+--------------------------------------------------------------------------------
+I want to again thank everyone for your time and interest and continued support to our journey. Have an outstanding rest of your day.
+
+--------------------------------------------------------------------------------
+Operator    [10]
+--------------------------------------------------------------------------------
+The conference has now concluded. Thank you for attending today's presentation. You may now disconnect.
+
+
+
+
+
+
+
+--------------------------------------------------------------------------------
+Definitions
+--------------------------------------------------------------------------------
+PRELIMINARY TRANSCRIPT: "Preliminary Transcript" indicates that the 
+Transcript has been published in near real-time by an experienced 
+professional transcriber.  While the Preliminary Transcript is highly 
+accurate, it has not been edited to ensure the entire transcription 
+represents a verbatim report of the call.
+
+EDITED TRANSCRIPT: "Edited Transcript" indicates that a team of professional 
+editors have listened to the event a second time to confirm that the 
+content of the call has been transcribed accurately and in full.
+
+--------------------------------------------------------------------------------
+Disclaimer
+--------------------------------------------------------------------------------
+Refinitiv reserves the right to make changes to documents, content, or other 
+information on this web site without obligation to notify any person of 
+such changes.
+
+In the conference calls upon which Event Transcripts are based, companies 
+may make projections or other forward-looking statements regarding a variety 
+of items. Such forward-looking statements are based upon current 
+expectations and involve risks and uncertainties. Actual results may differ 
+materially from those stated in any forward-looking statement based on a 
+number of important factors and risks, which are more specifically 
+identified in the companies' most recent SEC filings. Although the companies 
+may indicate and believe that the assumptions underlying the forward-looking 
+statements are reasonable, any of the assumptions could prove inaccurate or 
+incorrect and, therefore, there can be no assurance that the results 
+contemplated in the forward-looking statements will be realized.
+
+THE INFORMATION CONTAINED IN EVENT TRANSCRIPTS IS A TEXTUAL REPRESENTATION
+OF THE APPLICABLE COMPANY'S CONFERENCE CALL AND WHILE EFFORTS ARE MADE TO
+PROVIDE AN ACCURATE TRANSCRIPTION, THERE MAY BE MATERIAL ERRORS, OMISSIONS,
+OR INACCURACIES IN THE REPORTING OF THE SUBSTANCE OF THE CONFERENCE CALLS.
+IN NO WAY DOES REFINITIV OR THE APPLICABLE COMPANY ASSUME ANY RESPONSIBILITY FOR ANY INVESTMENT OR OTHER
+DECISIONS MADE BASED UPON THE INFORMATION PROVIDED ON THIS WEB SITE OR IN
+ANY EVENT TRANSCRIPT. USERS ARE ADVISED TO REVIEW THE APPLICABLE COMPANY'S
+CONFERENCE CALL ITSELF AND THE APPLICABLE COMPANY'S SEC FILINGS BEFORE
+MAKING ANY INVESTMENT OR OTHER DECISIONS.
+--------------------------------------------------------------------------------
+Copyright 2022 Refinitiv. All Rights Reserved.
+--------------------------------------------------------------------------------

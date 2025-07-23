@@ -1,0 +1,597 @@
+
+
+Refinitiv StreetEvents Event Transcript
+E D I T E D   V E R S I O N
+
+Genmab A/S to Discuss Proposed Acquisition of ProfoundBio Inc Call
+APRIL 03, 2024 / 11:00AM GMT
+
+================================================================================
+Corporate Participants
+================================================================================
+
+ * Anthony Pagano
+   Genmab A/S - Executive VP & CFO
+ * Anthony Mancini
+   Genmab A/S - Executive VP & COO
+ * Jan G.J. van de Winkel
+   Genmab A/S - Co-Founder, President & CEO
+ * Judith V. Klimovsky
+   Genmab A/S - Executive VP & Chief Development Officer
+ * Tahamtan Ahmadi
+   Genmab A/S - Executive VP, Chief Medical Officer & Head of Experimental Medicines
+
+================================================================================
+Conference Call Participiants
+================================================================================
+
+ * James Daniel Gordon
+   JPMorgan Chase & Co, Research Division - Senior Analyst
+ * Suzanne van Voorthuizen
+   Kempen & Co. N.V., Research Division - Analyst
+ * Unidentified Analyst
+    - 
+ * Paul Jeng
+   Guggenheim Securities, LLC, Research Division - Equity Research Associate
+ * Xian Deng
+   UBS Investment Bank, Research Division - Analyst
+ * Rajan Sharma
+   Goldman Sachs Group, Inc., Research Division - Research Analyst
+ * Yifeng Liu
+   HSBC, Research Division - Analyst of Healthcare Research
+ * Yaron Benjamin Werber
+   TD Cowen, Research Division - MD & Senior Biotechnology Analyst
+ * Matthew Christopher Phipps
+   William Blair & Company L.L.C., Research Division - Senior Biotechnology Research Analyst
+ * Vikram Purohit
+   Morgan Stanley, Research Division - VP & Equity Analyst
+ * Asthika Sarith Goonewardene
+   Truist Securities, Inc., Research Division - Research Analyst
+ * Wei Ji Chang
+   Leerink Partners LLC, Research Division - Senior MD of Emerging Oncology & Senior Research Analyst
+
+================================================================================
+Presentation
+--------------------------------------------------------------------------------
+Operator    [1]
+--------------------------------------------------------------------------------
+Hello, and welcome to Genmab's conference call regarding its proposed acquisition of ProfoundBio. As a reminder, this conference call is being recorded. During this telephone conference, you may be presented with forward-looking statements that include words such as beliefs, anticipates, plans or expects. Actual results may differ materially, for example, as a result of delayed or unsuccessful development projects.  
+Genmab is not under any obligation to update statements regarding the future nor to confirm such statements in to actual results, unless this is required by law. Please also note that Genmab may hold your personal data as indicated by you as part of our Investor Relations outreach activities in order to update you on Genmab going forward. Please refer to our website for more information on Genmab and our privacy policy.  
+I would now like to hand the conference over to your first speaker today, Jan van de Winkel. Please go ahead.
+
+--------------------------------------------------------------------------------
+Jan G.J. van de Winkel,  Genmab A/S - Co-Founder, President & CEO    [2]
+--------------------------------------------------------------------------------
+Hello, and welcome to today's conference call to discuss Genmab's acquisition of ProfoundBio, an event that excellently aligns with our long-term strategy and our ambitious 2030 vision. With me today to present this exciting news, are our Chief Medical Officer, Tahi Ahmadi; and our CFO, Anthony Pagano. For the Q&A, we will be joined by Genmab's Chief Development Officer, Judith Klimovsky; and Chief Operating Officer, Anthony Mancini.  
+Before we continue,  just a reminder that we will be making forward-looking statements, so please keep that in mind as we go through the rest of this call. We are fully committed to evolving Genmab into a leading fully integrated biotech innovation powerhouse. And we are doing it by following our ambitious 2030 vision and developing and commercializing knock-your-socks-off antibody medicines with the potential to transform the lives of patients.
+The acquisition of ProfoundBio allows us to progress towards that ambition by enhancing our long-term growth profile. We are convinced that the transaction perfectly aligns with our core vision and strategy of transforming the lives of people with cancer and other serious diseases. It is complementary to our mid- to late-stage clinical pipeline, giving us novel ADC technology platforms and ADC product candidates. And this will strengthen and accelerate our capabilities in the ADC space in addition to helping to propel us towards a 100% owned model with more value captured. So we are investing to unlock meaningful value by the end of the decade with significant upside into the 2030s.
+At Genmab, we have been true innovators in the antibody medicines we have developed. A lot of what we have achieved is down to the very strategic choices we have made. Today, our strategic choice is ProfoundBio, a company focused on truly differentiated next-generation ADCs. Looking first at ProfoundBio's most advanced program, rinatabart sesutecan, also known as Rina-S, Rina-S is a potentially best-in-class, next-generation folate receptor alpha-targeted ADC in clinical development for the treatment of ovarian cancer and other folate receptor alpha expressing solid tumors.  
+Encouraging Phase I/II efficacy and safety data suggests that Rina-S has the potential to address a broader patient population than first-generation folate receptor alpha-targeted ADCs. Rina-S is the result of ProfoundBio's novel ADC technology platforms and capabilities. ProfoundBio has 2 other programs currently in the clinic, powered by this technology, and the potential for several more ADC INDs in the coming years.
+These programs and capabilities are strongly synergistic to our existing ADC development and commercialization expertise. Rina-S is also a complementary fit to our gyn-onc experience with TIVDAK and as a registration-ready program, Rina-S has the potential to take us closer to our goal of 100% ownership of a commercialized medicine.
+Tahi will now provide you with a bit of additional detail on why we are so very excited about Rina-S and ProfoundBio's novel ADC technology. Tahi, the floor is yours.
+
+--------------------------------------------------------------------------------
+Tahamtan Ahmadi,  Genmab A/S - Executive VP, Chief Medical Officer & Head of Experimental Medicines    [3]
+--------------------------------------------------------------------------------
+Thank you, Jan. This slide summarizes why Rina-S aligns with our vision to transform the lives of patients. Based on the data that we have seen, both the data that was published at SITC in 2023, as well as data that has not yet been made public, we are confident that Rina-S has the potential to become a best-in-class treatment for ovarian cancer and other receptor alpha-expressing solid tumors.
+We believe it has the potential to broaden, deepen and consequently expand activity beyond what has been seen with first-generation folate receptor alpha approaches. In addition to efficacy, it also has a differentiated safety profile, avoiding interstitial lung disease or ILD and corneal toxicities seen with other ADC therapies.
+This differentiation, both in efficacy and safety is a direct result of the novel proprietary hydrophilic linker technology developed by ProfoundBio. Following the encouraging SITC data in 2023, we anticipate additional data sets will be available in the second half of this year. This data will support our strong conviction in Rina-S as a registration-ready asset with FDA fast track designation, a de-risked target biology, validated payload modality and a best-in-class profile based on its novel linker technology. We anticipate the first potential approval for Rina-S could be in 2027. Importantly, we anticipate blockbuster peak sales potential. We are exceptionally well positioned to maximize the potential of Rina-S given both our proven clinical development capabilities and track record of acceleration as well as our experience in the gyn-onc space with TIVDAK.
+Despite recent advancements, there is still a significant unmet medical need for novel effective and safe treatments with in late-stage platinum-resistant ovarian cancer. We believe Rina-S has a potential to address this need. Here, you can see some of the dose escalation data presented at SITC last year where we saw encouraging early signals.
+In 21 response evaluable ovarian and endometrial cancer patients, Rina-S showed a robust single-agent activity with a 38% overall response rate across all those levels. These patients represent a typical Phase I population. That is, they have exhausted every standard of care with no limit of prior lines of therapy, nor preselection by folate receptor alpha expression.
+Even more encouraging in these heavily pretreated patients, antitumor activity was seen across the full spectrum of folate receptor alpha expression. This includes a 67% of response rate in patients with ovarian and endometrial cancer having greater than 1% folate receptor alpha expression. As I alluded to earlier, equally important is the differentiated and manageable safety profile for Rina-S. This leads to an exceptionally low discontinuation rate and therefore longer durability of responses. Rina-S has been overall well tolerated with no ILD or pneumonitis to date, no infusion-related reactions and no corneal toxicity. The most common treatment-related adverse events were manageable and predominantly grade 1 or 2, mostly restricted to neutropenia and thrombocytopenia.
+Based on the data we have seen, we are planning for a broad development of Rina-S in ovarian cancer and other folate receptor alpha expressing solid tumors. As we noted, Rina-S is registration ready, and we intend to expeditiously initiate pivotal registration-enabling trials, including Phase III trials. As our plans develop, we will provide you with additional details.
+Our proprietary technology platforms have always been the backbone of our innovative pipeline, including the well-validated DuoBody platform, which is the basis of 4 approved medicines to date. ProfoundBio provides us access to novel ADC technology and their best-in-class and clinically validated proprietary hydrophilic linker platforms achieve a differentiated safety and more potent efficacy. We believe this linker drug platform, which is the basis of 3 clinical programs as well as a suite of novel payloads are a highly complementary fit to our own capabilities and will position us very well in the ADC space.
+We anticipate several potential additional IND filings in the next 12 to 18 months. The combination of the technological capabilities and deep scientific expertise of both organizations will provide us with an even more robust and stronger pipeline of potentially first-in-class and best-in-class programs that can make a more meaningful difference for patients while also providing us with long-term growth opportunities.
+In summary, ProfoundBio has potential to fundamentally enhance Genmab's position as a leader in antibody-based therapeutics with a best-in-class linker technology and novel proprietary payloads. This linker technology is already the basis of their potentially best-in-class folate receptor alpha ADC, Rina-S. We are confident that Rina-S, the early clinical as well as preclinical pipeline and this expansion of our internal capabilities will set Genmab up for a very bright future. Indeed, we believe that this is just the beginning.
+I would now like to hand it over to Anthony Pagano to take you through the financial details of the transaction.
+
+--------------------------------------------------------------------------------
+Anthony Pagano,  Genmab A/S - Executive VP & CFO    [4]
+--------------------------------------------------------------------------------
+Thanks, Tahi. Today, we've announced that Genmab will acquire ProfoundBio for $1.8 billion in all cash debt-free transaction. We expect to close the acquisition in the first half of 2024, subject to receipt of regulatory clearances. As I noted, this is an all-cash transaction, funded through our existing cash on hand. As a result, we will maintain significant balance sheet flexibility while adding significant potential to enhance our growth.
+This transaction is fully in line with our plan to pursue business development and M&A opportunities that have an absolute clear fit with our core focuses. 
+Here, we have 2 objectives. First, further leverage the significant development and commercialization capabilities we've built out over the last several years; and second, accelerate our growth trajectory and broaden our portfolio. The acquisition of ProfoundBio is in clear alignment with these objectives. As Tahi told you, we anticipate the first potential approval for Rina-S could be in 2027. Importantly, we anticipate blockbuster peak sales potential. And we are exceptionally well positioned to maximize the potential of Rina-S, given our proven clinical development capabilities, our successful track record of acceleration and commercialization as well as our experience in the gyn-onc space with TIVDAK.
+Our high conviction around the strong potential for Rina-S is based on the data that we've seen so far. That's both the data that was published at SITC in 2023 as well as data that has not yet been made public. And we look forward to sharing more data with you later this year. It's clear that Rina-S is an excellent fit with our existing portfolio. And with its addition, together with EPKINLY, TIVDAK, GEN1046 and GEN1042, we have a highly compelling mid- to late-stage portfolio with significant potential for robust revenue growth in the medium to long term.
+Turning now to our financials. As you would expect, we anticipate that this deal will impact our 2024 guidance. Pending closing of the deal, operating expenses before transaction expenses are now anticipated to be at or moderately above the upper end of the guidance range of DKK 12.4 billion to DKK 13.4 billion. The anticipated increase reflects the incremental R&D investment to support the advancement of ProfoundBio's clinical programs, primarily Rina-S.
+This potential incremental investment is fully in line with our previously communicated priority of increasingly focusing our investment on mid- to late-stage R&D programs with high potential. Our revenue guidance is unchanged and expected to be in the range of DKK 18.7 billion to DKK 20.5 billion. And we plan to update our overall guidance later in our second quarter 2024 earnings call.
+As you'd expect, we'll invest to unlock the full potential of Rina-S, as well as our existing mid- to late-stage programs. So we expect R&D investments to step up over the near to medium term. What you should be clear on though is that we fully intend to remain substantially profitable throughout the investment period. So we'll manage our expenses accordingly. That means that moving forward, we will continue to be focused and disciplined in our approach to allocating capital to the mid- to late-stage R&D programs with the most potential.
+And as we've done in the past, we won't shy away from deprioritizing other programs, particularly early-stage programs that don't meet our high bar for continued development. We anticipate that Rina-S could be accretive to earnings by the first full year of launch given its potential approval in late '27. And we anticipate that we will unlock meaningful value from this program by the end of the decade with significant further upside into the 2030s. So in summary, we are confident that the combination of ProfoundBio's pipeline, technology and capabilities with Genmab's innovations and expertise will significantly enhance our medium- to long-term growth profile. 
+So with that, I'm going to hand you back over to Jan.
+
+--------------------------------------------------------------------------------
+Jan G.J. van de Winkel,  Genmab A/S - Co-Founder, President & CEO    [5]
+--------------------------------------------------------------------------------
+Thanks, Anthony. So let me summarize. The acquisition of ProfoundBio has clear alignment with our core vision and strategy. It is highly complementary to our business and the addition of ProfoundBio's next-generation ADCs, including Rina-S plus it's novel ADC technology will further strengthen our already very strong innovative mid- to late-stage clinical pipeline.
+We look forward to initiating several registrational trials in the near term to maximize the potential of Rina-S. The acquisition of ProfoundBio will enhance our medium- to long-term growth profile, propelling us towards a 100% owned model with more value captured. And with this acquisition, we are fully positioned to continue our evolution into a leading biotech innovation powerhouse.
+We're now pleased to answer any questions you may have. So we'll now turn the call back to the operator to open the call for questions.
+
+
+================================================================================
+Questions and Answers
+--------------------------------------------------------------------------------
+Operator    [1]
+--------------------------------------------------------------------------------
+(Operator Instructions) First question is from the line of James Gordon from JPMorgan.
+
+--------------------------------------------------------------------------------
+James Daniel Gordon,  JPMorgan Chase & Co, Research Division - Senior Analyst    [2]
+--------------------------------------------------------------------------------
+James Gordon, JPMorgan. The first question was clinical and the breadth of efficacy. So the logic for the broader efficacy by folate expression versus what have been shown for ELAHERE, is that purely bystander effect due to the cleavable linker or are there other factors why you think this is going to work more broadly? And then a follow up to that question. So where are you going to put your threshold? So what proportion of ovarian cancer patients do you think the product would target in Phase III and is it just only 1 Phase III and you pick 1 level of folate expression? Or might you do different trials testing different levels to see how low you can go?
+Second question was on commercial. So assuming success in Phase III, I had a comment about 100% owned model, but you would be competing with some quite big other players also in various ADCs like AbbVie and Merck and Daiichi coming. So would you consider partnering in some places? Or you'd try and compete with them in every country? And then just finally, other deals, I think I heard you saying you'd retain balance sheet optionality. So does that mean you are still looking for a significant immunology deal in the near term? I know you talked about in Q4 or is that a bit less likely now?
+
+--------------------------------------------------------------------------------
+Jan G.J. van de Winkel,  Genmab A/S - Co-Founder, President & CEO    [3]
+--------------------------------------------------------------------------------
+Thanks, James, for the questions. You sneaked in 4, I think. The first one on clinical efficacy, versus folate receptor alpha expression. I will ask Tahi to actually comment on that, James, and also for the threshold -- or potential threshold strategy for ovarian cancers in Phase III. Then the commercial questions can go to Anthony Mancini to see how we actually will deal with the worldwide territory. And then the final one, the I&I type deal, I will hand over to Anthony Pagano. So Tahi, why don't you start? Tahi? I don't see Tahi. Maybe Judith you can step in here.
+
+--------------------------------------------------------------------------------
+Judith V. Klimovsky,  Genmab A/S - Executive VP & Chief Development Officer    [4]
+--------------------------------------------------------------------------------
+Thank you, Jan. So your question was why the broader coverage in terms of folate receptor expression, and you have mentioned the possibility of the bystander effect to play a role. Definitely plays a role, but in addition, the most important component is the differentiation of the linker and the hydrophilic nature, which makes it very potent because of the DAR 8 and this is even further strengthened by the potency of exatecan isotope 1 best-in-class payload. 
+So it's a combination of all the mechanism of action, driven by this differentiated linker and potent payload and DAR. And then you asked about the threshold. As Tahi alluded, in the limited data set already presented, you have seen then folate receptor expression above 1%, the ORR is above 60%. So telling you what could be the threshold potentially in further development prior.
+
+--------------------------------------------------------------------------------
+Jan G.J. van de Winkel,  Genmab A/S - Co-Founder, President & CEO    [5]
+--------------------------------------------------------------------------------
+Thanks very much Judith. I don't know whether we have Tahi back, he may have lost the connection. Tahi, are you back? Not yet. So maybe we can move over for the third question then, James, to Anthony Mancini to the commercial landscape, basically in view of the competition by big pharma players, how we're dealing with that beyond Japan and the U.S.,  Anthony?
+
+--------------------------------------------------------------------------------
+Anthony Mancini,  Genmab A/S - Executive VP & COO    [6]
+--------------------------------------------------------------------------------
+Yes. Thanks, Jan, and thanks, James, for the question. This is really an acquisition that that's both a strong strategic and operational fit and really allows us to become a key player in the gynecologic-oncology space. As Tahi outlined, the lead asset is really a potential best-in-class ADC in ovarian cancer and it adds a second ADC in gynecologic-oncology in addition to TIVDAK, which, as you know, we are working on and is approved in the metastatic and recurrent cervical cancer space. 
+In the U.S. and Japan, given the shared audience in gynecologic-oncology, it really allows us to deepen our relationships with an audience we know well. And we're doing the same in preparing the launch in Japan. As it relates to other countries, this is a small audience that we know well and so we will assess on a country-by-country basis how we go about doing that and we're really excited to expand our footprint in so doing. 
+So I'll leave it there. Back over to you, Jan.
+
+--------------------------------------------------------------------------------
+Jan G.J. van de Winkel,  Genmab A/S - Co-Founder, President & CEO    [7]
+--------------------------------------------------------------------------------
+Thanks very much, Anthony.  Let me -- before Anthony Pagano jumps in, let me restate again, James, that we are continuously evaluating potential opportunities that align with our core focus areas. Also not only cancer, but also I&I, we have the capacity to make additional acquisitions if we see long-term value to supplement and enhance our pipeline. 
+So we are continuously looking at opportunities. We are only going to strike, like we did today, James, when these opportunities are basically clearing or very high bar -- they need to be either best-in-class or first-in-class opportunities. And then we will move forward very aggressively as you have seen from today's move. So we are definitely looking at opportunities still in the cancer as well as I&I area, but I will let Anthony speak more about our firepower. Anthony Pagano.
+
+--------------------------------------------------------------------------------
+Anthony Pagano,  Genmab A/S - Executive VP & CFO    [8]
+--------------------------------------------------------------------------------
+Yes, Jan, I mean, I think you covered it very well. I think maybe the first message, James, that I want to leave you with is really for now, the team is absolutely focused on closing this proposed acquisition of ProfoundBio. And then once it's closed, really going to be laser sharp focused on integration and execution and really putting our foot on the gas pedal for Rina-S.
+So that's absolutely now priority #1 as it relates to external opportunities, really closing ProfoundBio, get that done and then integrate and execute and again, reiterate, put our foot on that gas pedal. And then beyond that, as Jan already said, we can continue to look outside the 4 walls of Genmab. We outlined last February, our clear appetite to think about external BD and M&A. Again, historically, we've been really focused on bringing in tools and components for our research and discovery engine. That remains unchanged. 
+And as Jan said, once we get this acquisition under our belt, we can certainly again continue to look outside the 4 walls of Genmab, as you would expect us to do. I'm not going to comment any directly on a potential deal size or anything of that nature. Again, it has to be a deal that ultimately makes sense for Genmab. And the starting point would be the overall logic (technical difficulty) something into Genmab.
+
+--------------------------------------------------------------------------------
+Jan G.J. van de Winkel,  Genmab A/S - Co-Founder, President & CEO    [9]
+--------------------------------------------------------------------------------
+Thanks, Anthony. I think, James, that hopefully answers your questions.
+
+--------------------------------------------------------------------------------
+James Daniel Gordon,  JPMorgan Chase & Co, Research Division - Senior Analyst    [10]
+--------------------------------------------------------------------------------
+Yes.
+
+--------------------------------------------------------------------------------
+Operator    [11]
+--------------------------------------------------------------------------------
+We'll take our next question and this is from the line of Rajan Sharma from Goldman Sachs.
+
+--------------------------------------------------------------------------------
+Rajan Sharma,  Goldman Sachs Group, Inc., Research Division - Research Analyst    [12]
+--------------------------------------------------------------------------------
+So firstly, just could you discuss how the ProfoundBio assets could coexist with your current programs? For example, is there a potential for combination with GEN1046, which you're also developing in endometrial cancer? And then secondly, just on the data update second half of this year. Could you just help us understand what we should expect from that? Could it be more patients, longer follow-up?
+
+--------------------------------------------------------------------------------
+Jan G.J. van de Winkel,  Genmab A/S - Co-Founder, President & CEO    [13]
+--------------------------------------------------------------------------------
+Absolutely, Rajan. Thank you for the questions. And I hope that we have Tahi back, but I can give it a go at the first question.
+
+--------------------------------------------------------------------------------
+Tahamtan Ahmadi,  Genmab A/S - Executive VP, Chief Medical Officer & Head of Experimental Medicines    [14]
+--------------------------------------------------------------------------------
+Yes, I'm back. Sorry, Yes. I mean, let's take the last part first. We stated that there will be data available in the second half of this year. Obviously, this is data that ProfoundBio will have to put together. So it's a little bit hard for us to comment on what it is. But I think, broadly speaking, directionally, what you indicated is probably what you can expect additional data and more follow-up. 
+As it relates to the combination, I think there's -- we always look for synergism between assets in our portfolio pipeline. And as you have correctly alluded to, (inaudible) is an asset that we are interrogating and in the meanwhile the 4vub biology plays a specific role in endometrial. So this is certainly something that could play out in the future.
+
+--------------------------------------------------------------------------------
+Jan G.J. van de Winkel,  Genmab A/S - Co-Founder, President & CEO    [15]
+--------------------------------------------------------------------------------
+Thanks, Tahi. I have nothing to add. I think perfect answers, Rajan. I hope that answered your questions.
+
+--------------------------------------------------------------------------------
+Operator    [16]
+--------------------------------------------------------------------------------
+We'll now take the next question and this is from the line of Jonathan Chang from Leerink.
+
+--------------------------------------------------------------------------------
+Wei Ji Chang,  Leerink Partners LLC, Research Division - Senior MD of Emerging Oncology & Senior Research Analyst    [17]
+--------------------------------------------------------------------------------
+First question, what would you highlight as the key differentiating clinical features of Rina-S versus ELAHARE? And second question, what could the development path forward look like for Rina-S in platinum-resistant ovarian cancer in earlier stages of disease?
+
+--------------------------------------------------------------------------------
+Jan G.J. van de Winkel,  Genmab A/S - Co-Founder, President & CEO    [18]
+--------------------------------------------------------------------------------
+Thanks, Jonathan, for the question. I will move both of them to Tahi. Tahi, maybe you can speak a bit about clinical differentiation.
+
+--------------------------------------------------------------------------------
+Tahamtan Ahmadi,  Genmab A/S - Executive VP, Chief Medical Officer & Head of Experimental Medicines    [19]
+--------------------------------------------------------------------------------
+Yes. So I touched a little bit on this in the presentation. I think the first part is, it's very clear that based on the hydrophilic linker and the DAR and the payload, you have a profile for Rina-S that allows efficacy in folate receptor expression of 1 plus and above at minimum. So across the spectrum of folate receptor expression, which is already a differentiating aspect. Rina-S does not have corneal toxicities. And broadly speaking, the discontinuation (inaudible) is extremely low. 
+It is well manageable and tolerable from a safety profile, which also leads to longer durability responses but also provides more opportunity as you think about down the line in terms of combination. So we feel quite strongly that Rina-S has very much the potential to be the best-in-class folate receptor alpha ADC based both on efficacy, expansion of patient population and safety.
+
+--------------------------------------------------------------------------------
+Jan G.J. van de Winkel,  Genmab A/S - Co-Founder, President & CEO    [20]
+--------------------------------------------------------------------------------
+And the second question was, are you willing to say a bit more about the development part.
+
+--------------------------------------------------------------------------------
+Tahamtan Ahmadi,  Genmab A/S - Executive VP, Chief Medical Officer & Head of Experimental Medicines    [21]
+--------------------------------------------------------------------------------
+I deliberately was a little bit quiet on this. On PoC, I think if you take what I just said, I think you can imagine what our strategy might very well be in PoC. And then I do think we generally don't tend to preface our development strategy, particularly in this situation, which is, of course, a very hypercompetitive environment. I think it's prudent to just say that we will do what we have done in the past and what is our track record in developing this particular asset, if it so it comes under our control in the most expeditious and expansive manner that is possible and we will continue to do that.
+
+--------------------------------------------------------------------------------
+Wei Ji Chang,  Leerink Partners LLC, Research Division - Senior MD of Emerging Oncology & Senior Research Analyst    [22]
+--------------------------------------------------------------------------------
+If I could just sneak in a third one then, since I didn't get a real answer for the second one. Is there a path forward for Rina-S in tumor types beyond ovarian and what are the reasons for confidence there?
+
+--------------------------------------------------------------------------------
+Jan G.J. van de Winkel,  Genmab A/S - Co-Founder, President & CEO    [23]
+--------------------------------------------------------------------------------
+Tahi?
+
+--------------------------------------------------------------------------------
+Tahamtan Ahmadi,  Genmab A/S - Executive VP, Chief Medical Officer & Head of Experimental Medicines    [24]
+--------------------------------------------------------------------------------
+Yes. Thank you for that question. So I mean there is already data that -- it's really encouraging in endometrial, albeit limited. So that's the first part. The second part is, again, going back to the linker and the stability of the linker and the hydrophilic nature and the payload, there are other folate receptor alpha-positive oncologic diseases where we see a potential as well.
+
+--------------------------------------------------------------------------------
+Jan G.J. van de Winkel,  Genmab A/S - Co-Founder, President & CEO    [25]
+--------------------------------------------------------------------------------
+Thanks, Tahi. I think, Jonathan, that will hopefully satisfy you. Let's move to the next speaker.
+
+--------------------------------------------------------------------------------
+Operator    [26]
+--------------------------------------------------------------------------------
+We'll now take our next question. This is from the line of Xian Deng from UBS.
+
+--------------------------------------------------------------------------------
+Xian Deng,  UBS Investment Bank, Research Division - Analyst    [27]
+--------------------------------------------------------------------------------
+Two, please. The first one is, you mentioned several times that drug antibody ratio of 8, which is actually quite high. But yes, the safety data so far looks quite good. I mean you already kind of touched on it, but just wondering if you could elaborate a little bit what do you think is -- the reason for this, do you think is, i.e., the half-life of a payload or specificity of the antibody or the linker, et cetera, or something else? 
+And then the second question is kind of a follow-up on the Jonathan's question is that, is there any data that you could possibly share today on non-ovarian and endometrial cancer?
+
+--------------------------------------------------------------------------------
+Jan G.J. van de Winkel,  Genmab A/S - Co-Founder, President & CEO    [28]
+--------------------------------------------------------------------------------
+Thanks, Xian, for the questions. And I think both of them are again for Tahi. I am delighted with this question because we think this is really unique, the (inaudible) DAR ratio is quite, I think, quite prototypical for the new technology from Profound. But Tahi, why don't you address both questions on the data and on the reasons for why we can conjugate such high numbers of warheads on antibody molecules?
+
+--------------------------------------------------------------------------------
+Tahamtan Ahmadi,  Genmab A/S - Executive VP, Chief Medical Officer & Head of Experimental Medicines    [29]
+--------------------------------------------------------------------------------
+So the first question. The first question actually goes at the heart of the opportunity that comes with ProfoundBio and that is, it all boils down to the linker technology. And I think ProfoundBio took a somewhat differentiated point of view that now in the clinic appears to be validated, and that is the extreme version of a hydrophilic linker technology, which is why we are so excited about ProfoundBio and that plays out in Rina-S, but it also plays out in all the other assets that are in the clinic already. 
+It allows you to get this stability with a higher DAR (inaudible) ensure that the -- through the hydrophilic nature, you ensure that the release of the drug happens in the place where you intend it to be. So it seems to be, to us, a potentially best-in-class linker technology, which gives us a number of opportunities also in the future. Unfortunately, we cannot share any other data as we -- I think, many times I mentioned the data that we at this point can share is the one that is in the public domain. And that is the one that was presented at SITC. Obviously, as per due diligence, we had access to significantly more data as we alluded.
+
+--------------------------------------------------------------------------------
+Jan G.J. van de Winkel,  Genmab A/S - Co-Founder, President & CEO    [30]
+--------------------------------------------------------------------------------
+Thank you, Xian, for the questions. Let's move to the next question.
+
+--------------------------------------------------------------------------------
+Operator    [31]
+--------------------------------------------------------------------------------
+We'll take our next question. This is from the line of Michael Schmidt from Guggenheim.
+
+--------------------------------------------------------------------------------
+Paul Jeng,  Guggenheim Securities, LLC, Research Division - Equity Research Associate    [32]
+--------------------------------------------------------------------------------
+This is Paul on for Mike. First is just a quick question on the near-term clinical development strategy for Rina-S in ovarian and whether you plan to include your expressor patients in the registrational study. And then secondly, you alluded to the evolving competitive landscape in folate receptor alpha ovarian cancer. Perhaps, could you comment on how Rina-S compares to Sutro's ADC, which clinically shown some activity in low expressors as well and how that dynamic might play out in the low and medium expressor patients in the future?
+
+--------------------------------------------------------------------------------
+Jan G.J. van de Winkel,  Genmab A/S - Co-Founder, President & CEO    [33]
+--------------------------------------------------------------------------------
+Thanks, Paul. I think both questions again for you Tahi, you're going to be busy. So the clinical developments in ovarian cancer and then the differentiation versus Sutro's compound.
+
+--------------------------------------------------------------------------------
+Tahamtan Ahmadi,  Genmab A/S - Executive VP, Chief Medical Officer & Head of Experimental Medicines    [34]
+--------------------------------------------------------------------------------
+All right. Again, so let's take the first one on Sutro. It's hard to comment on other company's ADC technology. So -- but the asset is where it is. And I think the ProfoundBio asset is in a completely different stage of its development phase. Differentiation has a lot to do also with the technology that Sutro uses on the CMC side. 
+I think that's probably the most important part of where I see differentiation. On the data with regards to what our strategy is, without previewing our strategy, I would say, on the SITC abstract, I can guide you there is a patient who is most exposed and I think it's a fair statement to say that (inaudible) is a fully approved drug under the FDA guidance.
+
+--------------------------------------------------------------------------------
+Jan G.J. van de Winkel,  Genmab A/S - Co-Founder, President & CEO    [35]
+--------------------------------------------------------------------------------
+Thanks, Tahi. Paul, I think that's where we need to keep it at this time.
+
+--------------------------------------------------------------------------------
+Operator    [36]
+--------------------------------------------------------------------------------
+We'll take our next question. This is from the line of Yaron Werber from TD Securities.
+
+--------------------------------------------------------------------------------
+Yaron Benjamin Werber,  TD Cowen, Research Division - MD & Senior Biotechnology Analyst    [37]
+--------------------------------------------------------------------------------
+Great. And this looks like a pretty strategic deal for you. So I have a couple of questions maybe, again, on the clinical side. Just maybe help us understand some of the data in the SITC poster, There's 21 patients evaluable for the response. There were 8 responses. So 1 CR and 7 PR. So I'm sort of looking at a 38% ORR. But you quoted 60%. And in figure 3, 20 patients are actually shown there and all 3 lows responded to -- I think you mentioned anything about 1% was a 60% ORR and obviously, a low is anything below 25%. So that would count too. So I'm just trying to figure out, where do you get -- maybe help us get to the 60% that you're seeing? And then secondly, in the 2027 approval, that sounds like based on Phase III, so does that mean you're going to be going for a full approval and looking at an overall survival endpoint at that point as well?
+
+--------------------------------------------------------------------------------
+Jan G.J. van de Winkel,  Genmab A/S - Co-Founder, President & CEO    [38]
+--------------------------------------------------------------------------------
+Thanks, Yaron for the questions. And again, these 2 are for Tahi and maybe Judith can add to that as well. Tahi, a bit more on the SITC data from last year and then on the strategy for 2027 potential approval.
+
+--------------------------------------------------------------------------------
+Tahamtan Ahmadi,  Genmab A/S - Executive VP, Chief Medical Officer & Head of Experimental Medicines    [39]
+--------------------------------------------------------------------------------
+Yes. So on the response rate as I quoted you're absolutely correct. As I said, 38% response rate across all those levels. And if you then look at those patients in the denominator, who have folate receptor expression 1 plus above, then you end up at 68 (inaudible). And on the strategy of how we move forward, I think we have said this now a couple of times, we will not preview, without a doubt there will be a Phase III with (inaudible) endpoint. But we will not preview all the strategy and the plans that we have in place to accelerate the approval as much as possible. So far right now, it's 2027.
+
+--------------------------------------------------------------------------------
+Yaron Benjamin Werber,  TD Cowen, Research Division - MD & Senior Biotechnology Analyst    [40]
+--------------------------------------------------------------------------------
+Okay. Great. And can I just ask a follow-up? Are the dosing going to be also 60 to 140, I'm imagining or 60 to 120?
+
+--------------------------------------------------------------------------------
+Jan G.J. van de Winkel,  Genmab A/S - Co-Founder, President & CEO    [41]
+--------------------------------------------------------------------------------
+Tahi, do you want to comment on the dosing?
+
+--------------------------------------------------------------------------------
+Tahamtan Ahmadi,  Genmab A/S - Executive VP, Chief Medical Officer & Head of Experimental Medicines    [42]
+--------------------------------------------------------------------------------
+No, I don't want to comment because I don't think this is -- we won't comment on this. Let's just say the asset is ready for registration-enabling studies as we, I think, stated many times on this call and we should leave it at that at this point.
+
+--------------------------------------------------------------------------------
+Jan G.J. van de Winkel,  Genmab A/S - Co-Founder, President & CEO    [43]
+--------------------------------------------------------------------------------
+All right. More to come this year, Yaron, for sure. All right. Let's move to the next question.
+
+--------------------------------------------------------------------------------
+Operator    [44]
+--------------------------------------------------------------------------------
+We'll take our next question. This is from the line of Matthew Phipps from William Blair.
+
+--------------------------------------------------------------------------------
+Matthew Christopher Phipps,  William Blair & Company L.L.C., Research Division - Senior Biotechnology Research Analyst    [45]
+--------------------------------------------------------------------------------
+Congrats on the acquisition. Tahi, another one for you. I know you'll give an update later this year, but only 2 of the 8 responses were confirmed in the SITC poster last year. Can you at least comment on whether those responses have been confirmed?
+
+--------------------------------------------------------------------------------
+Jan G.J. van de Winkel,  Genmab A/S - Co-Founder, President & CEO    [46]
+--------------------------------------------------------------------------------
+Tahi?
+
+--------------------------------------------------------------------------------
+Tahamtan Ahmadi,  Genmab A/S - Executive VP, Chief Medical Officer & Head of Experimental Medicines    [47]
+--------------------------------------------------------------------------------
+I think you will appreciate this. So I think it's really hard for us to comment on data that is not yet public. And then so we have to stick to what SITC says. I would say and as I said before, we obviously had access to data that is nonpublic, both longer follow-up on the SITC (inaudible) as well as additional data ProfoundBio has generated. And based on what we have seen, which is quite substantial, we are very, very confident, and that's all I can say.
+
+--------------------------------------------------------------------------------
+Matthew Christopher Phipps,  William Blair & Company L.L.C., Research Division - Senior Biotechnology Research Analyst    [48]
+--------------------------------------------------------------------------------
+And then I know there's a couple of other assets in clinics here, but not really much time to spend. Any -- do you have any excitement for the CD70 or other assets that we should be thinking about as well?
+
+--------------------------------------------------------------------------------
+Jan G.J. van de Winkel,  Genmab A/S - Co-Founder, President & CEO    [49]
+--------------------------------------------------------------------------------
+Tahi?
+
+--------------------------------------------------------------------------------
+Tahamtan Ahmadi,  Genmab A/S - Executive VP, Chief Medical Officer & Head of Experimental Medicines    [50]
+--------------------------------------------------------------------------------
+What -- without -- I don't want to distract from (inaudible) which you are incredibly excited about. But it almost is equally exciting as the linker technology and the optionality that comes with that. And that leads to, we had a previous question on the DAR load, leads to very differentiated molecules for the CD70 assets as well as the PTK7 asset are differentiated from previous ADCs that have approached this target. And so we're very much excited about not only Rina-S but also the clinical, but also the near-term preclinical pipeline, more to come.
+
+--------------------------------------------------------------------------------
+Jan G.J. van de Winkel,  Genmab A/S - Co-Founder, President & CEO    [51]
+--------------------------------------------------------------------------------
+Maybe what I can add, not to make it more confusing, Matt, is that at AACR coming Saturday and further on, there will be an oral presentation of a bispecific antibody targeting each of our cMets and ADC from ProfoundBio and 2 poster presentations, 1 on a molecule called SLITRK6, which is an ADC for bladder cancer and another poster for CD98 ADC, a broad range of tumors. So there's a lot more to come than Rina-S. But for the moment, let's focus on Rina-S because that is a super, super exciting molecule, which we believe has the potential to be best in class.
+
+--------------------------------------------------------------------------------
+Operator    [52]
+--------------------------------------------------------------------------------
+We'll now move to our next question. And this is from the line of Suzanne van Voorthuizen from Van Lanschot Kempen.
+
+--------------------------------------------------------------------------------
+Suzanne van Voorthuizen,  Kempen & Co. N.V., Research Division - Analyst    [53]
+--------------------------------------------------------------------------------
+This is Suzanne. Congrats on the deal. Maybe one from my side, with the ADC space attracting a lot of suiters, can you provide some ground on how the process went? Speak to the competitiveness, for example, which preceded today's announcement?
+
+--------------------------------------------------------------------------------
+Jan G.J. van de Winkel,  Genmab A/S - Co-Founder, President & CEO    [54]
+--------------------------------------------------------------------------------
+Thanks, Suzanne, for the question. I think I will ask Anthony Pagano to start off here, and then I can potentially step in there. Anthony?
+
+--------------------------------------------------------------------------------
+Anthony Pagano,  Genmab A/S - Executive VP & CFO    [55]
+--------------------------------------------------------------------------------
+Thanks, Suzanne. I mean, as you know, this is a private company transaction. So as it relates to the overall process and the competition involved is something we're really just not going to comment on. What I can say, as we highlighted as part of our capital allocation framework in February of this year, and I talked about it in the months prior, as we thought about building out our business over the near to medium and even to the long term, we saw opening up the aperture to build out our company and leverage the important investments we've made in terms of development and commercial capabilities with something that was really, really top of mind for us.
+As we thought about evaluating opportunities. ProfoundBio and indeed, Rina-S, really stood out. Based upon the overall profile of both the compound as well as the ADC technology more broadly. And based upon that, we were able to come to agreement and we're really excited to make this announcement today and really look forward to getting this deal closed and integrate it.
+So again, just to summarize, Suzanne, I appreciate the question. But given the private company nature of the transaction, we're not going to comment on the competitiveness, but let's be rest assured, it's something that we really, really studied very, very carefully. The tons of bottom work on the company and the assets and the technology and are really excited to be announcing this transaction today and really can't wait to get the deal closed, again, to really put our foot on the gas pedal, particularly around Rina-S.
+
+--------------------------------------------------------------------------------
+Jan G.J. van de Winkel,  Genmab A/S - Co-Founder, President & CEO    [56]
+--------------------------------------------------------------------------------
+Thank you, Anthony, for that. To add to that, Suzanne, there's real complementarity here. I mean the ADC platform from ProfoundBio, are very, very perfectly complementary to some of the immuno-oncology approaches of Genmab at this moment. On top of that, of course, the lead candidate, Rina-S is perfect complementarity for the space we already know quite well, the gyn-onc space. So we have TIVDAK there, which is also going for a broader and broader market. So this one, as Anthony Pagano already said, really checked all the boxes. So all the indicator lights are on green, and we very strongly accelerated the process to really get our hands on bringing the 2 companies together, and we are super excited.
+We believe this is a very significant step to really build the next phase of growth and development for the company. So we are thrilled as you can hear from all of us.
+
+--------------------------------------------------------------------------------
+Operator    [57]
+--------------------------------------------------------------------------------
+We'll now move to our next question. This is from the line of Etzer Darout from BMO.
+
+--------------------------------------------------------------------------------
+Unidentified Analyst,   -     [58]
+--------------------------------------------------------------------------------
+This is Luke on for Etzer. Just a real quick one. When do you think we'd be able to expect an update on the 2 earlier clinical programs, PRO1160 and PRO1107?
+
+--------------------------------------------------------------------------------
+Jan G.J. van de Winkel,  Genmab A/S - Co-Founder, President & CEO    [59]
+--------------------------------------------------------------------------------
+Tahi, do we know when the data is expected? Because I know the data is progressing really, really well for the CD70 program and the PTK7 program has just started. So any idea on data, clinical data from those programs, Tahi?
+
+--------------------------------------------------------------------------------
+Tahamtan Ahmadi,  Genmab A/S - Executive VP, Chief Medical Officer & Head of Experimental Medicines    [60]
+--------------------------------------------------------------------------------
+Yes. So I think you already said like that the CD70 program is a little bit longer in the clinic, the PTK7 started beginning of the year. They are both in dose escalation and I think stay tuned, but I cannot preview at what point -- what data will be presented, that's also at this point still in the hands of ProfoundBio.
+
+--------------------------------------------------------------------------------
+Operator    [61]
+--------------------------------------------------------------------------------
+We'll now take our next question. And this is from the line of Yifeng Liu from HSBC.
+
+--------------------------------------------------------------------------------
+Yifeng Liu,  HSBC, Research Division - Analyst of Healthcare Research    [62]
+--------------------------------------------------------------------------------
+I've got 2 questions. The first one is on the potential synergy of this ADC platform and your proprietary antibody technology. Just thinking about how you think about synergy, how moving forward, especially on -- on the sort of early-stage discovery stage or early-stage clinical stage. And you mentioned about R&D this year tied into the guidance, increasing on R&D basically on late stage. Just wonder going forward, whether you'd increase the R&D for early stage as well based on this deal. 
+The second question is, could you talk about a bit more about the time line process about this transaction clearances, please? A third one, if I may, and just any other disease areas you're thinking of to sort of leverage the ADC platform and maybe -- I mean, sort of branching out the oncology space.
+
+--------------------------------------------------------------------------------
+Jan G.J. van de Winkel,  Genmab A/S - Co-Founder, President & CEO    [63]
+--------------------------------------------------------------------------------
+I think you sneaked in, I think, 4 questions. I'm counting here. About the synergy on the ADCs and our own technologies, I'll let Tahi speak a bit more about that because there's great synergies, we believe, preclinically and as well as clinically. Then on the guidance -- the guidance and the step-up, Anthony Pagano can handle as well as the time lines for clearance of this proposed acquisition. And then maybe Judith can speak at the end, a bit more about other areas, basically where ADCs could potentially be used outside of. So maybe Tahi, you start with synergies.
+
+--------------------------------------------------------------------------------
+Tahamtan Ahmadi,  Genmab A/S - Executive VP, Chief Medical Officer & Head of Experimental Medicines    [64]
+--------------------------------------------------------------------------------
+Sure. I think, again, an important part of this acquisition is indeed not only the pipeline, the preclinical pipeline, but also the suite of linkers and a suite of not -- we had publicly disclosed payloads that come into our hands. And so in the very near term, it will give us a lot of optionalities because we now will have access to really a suite of best-in-class hydrophilic linkers as well as a set of payloads that we can then combine with our own capabilities. 
+That's the extreme near term. And then I think it also gives us optionality for looking forward into exploring novel payloads, some of which are already coming as part of the utilization and expand from the way ADCs are currently viewed into a more future looking and then that also broadly touches on what Judith can expand.  Once you have a linker and an antibody, you can imagine a number of potential mechanism of actions that may have a biological relevance in other disease areas, immunology being one of them, but not only the only one.
+
+--------------------------------------------------------------------------------
+Jan G.J. van de Winkel,  Genmab A/S - Co-Founder, President & CEO    [65]
+--------------------------------------------------------------------------------
+Thanks, Tahi and maybe move over to Anthony Pagano to say a bit more about R&D step-ups and really for early clinical development and guidance process for this year, for '24, Anthony?
+
+--------------------------------------------------------------------------------
+Anthony Pagano,  Genmab A/S - Executive VP & CFO    [66]
+--------------------------------------------------------------------------------
+Yes. Thanks. Look, what I want to leave you with is it's, what we've told you before, probably over the last 12 to 18 months, as we move forward, as it relates to R&D, the lion's share of the incremental investment here is going to be in our mid- to late-stage portfolio. We're going to continue to be rigorous in our approach and look at each investment case individually, as we're allocating the lion's share of the capital, again into these mid- to late-stage programs with the most potential and the highest potential indeed.
+Now what are the implications of that? As we've highlighted, if we kind of break out R&D into, let's call it, research and discovery early stage and late stage, mid- to late stage, excuse me, as we mentioned historically that we made significant investments to step up our overall scale and breadth of our discovery activities over the last number of years.
+Moving forward, we expect any increment here to be really on the moderate side. Likewise, for early stage, we've increased the number of late-stage preclinical programs and INDs and early-stage programs. Again, any increase here, expect to be moderate. We really are going to be focused moving forward to see incremental investment be super focused on these mid- to late-stage programs. 
+So what does that actually mean in practice? As we've highlighted, including on the call today, that includes, of course, EPKINLY, there we've outlined a rather robust clinical development program. It also includes some of the ongoing work, including late-stage work for 1046 potentially, as well as some of the plans we've highlighted for TIVDAK. And beyond that, with Genmab's portfolio in mid-stage development, we have 1042, and now with the addition of Rina-S, gives us another registration-ready asset to really put our foot on the gas pedal.
+So what I'm going to leave you with here is really moving forward we're going to be laser sharp focused, continue to be focused and disciplined and that the incremental investment moving forward in R&D to a very large extent, is going to be driven by the mid- to late-stage portfolio. In terms of time lines, what I can just offer you is what I said in my prepared remarks, is we're expecting closing in H1 of this year.
+
+--------------------------------------------------------------------------------
+Jan G.J. van de Winkel,  Genmab A/S - Co-Founder, President & CEO    [67]
+--------------------------------------------------------------------------------
+Thanks, Anthony. Very clear. Judith maybe a bit more on how -- what can we use as a company, ADC concepts outside of cancer.
+
+--------------------------------------------------------------------------------
+Judith V. Klimovsky,  Genmab A/S - Executive VP & Chief Development Officer    [68]
+--------------------------------------------------------------------------------
+Yes. So I think that it is based on the center pillar of this transaction, which is a differentiated technology with a linker that allows us to think broad in terms of payloads. And when you think of it in the context of Genmab and being an innovation powerhouse and putting patient first, so we do innovation day in, day out. This -- with this differentiated linker allow us to think on a really broad spectrum on diseases. And as Tahi alluded and based on recent publications, you can imagine that anti-inflammatory modulators could be something that we can leverage on potentially based on these differentiated technology. 
+So I think that potentially the sky is the limit because we got -- we're potentially divesting this technology to accomplish that.
+
+--------------------------------------------------------------------------------
+Jan G.J. van de Winkel,  Genmab A/S - Co-Founder, President & CEO    [69]
+--------------------------------------------------------------------------------
+Thanks, Judith. I think this should be plenty, I think, for HSBC (inaudible).
+
+--------------------------------------------------------------------------------
+Operator    [70]
+--------------------------------------------------------------------------------
+We'll take our next question. This is from the line of Vikram Purohit from Morgan Stanley.
+
+--------------------------------------------------------------------------------
+Vikram Purohit,  Morgan Stanley, Research Division - VP & Equity Analyst    [71]
+--------------------------------------------------------------------------------
+We actually just had one as a follow-up to the pipeline prioritization question that was asked recently. So I think you mentioned in your prepared remarks that as you progress investments in this asset and potentially other assets that you may bring in to Genmab's platform, that you wouldn't shy away from moving investments out of programs that didn't meet your internal hurdle and prioritizing it towards some of these later-stage assets.
+So on that point, could you provide any context and color on how the bar for some of those earlier-stage assets internally might be changing, now that you've brought Rina-S into your pipeline. And when you might be making -- if there is a formal time, when you might be making some of these go, no-go decisions on the earlier-stage pipeline assets now that you're more focused on other later-stage programs.
+
+--------------------------------------------------------------------------------
+Jan G.J. van de Winkel,  Genmab A/S - Co-Founder, President & CEO    [72]
+--------------------------------------------------------------------------------
+Thank you very much for the question. I think I can take that myself. I think we have to potentially rank all of our programs following this proposed acquisition. We cannot do anything before the acquisition is materialized. So we first need to work on the clearance -- regulatory clearance, which we think, we hope is quite straightforward in the coming months. And then once we actually combine the pipelines of the 2 companies, we are going to very, very rigorously look at the  potential of each of the programs and then rank order them. And then focus, as Anthony Pagano has already highlighted, focus on the most impactful and most differentiated programs which are in the clinic and on to the clinic and then potentially deprioritizing, either shelving or potentially partnering other molecules which have less priority for the company. 
+We have an amazing pipeline. I can tell you that in addition to Rina-S, we have EPKINLY, which we're going to broaden together with AbbVie. We have TIVDAK, which we're going to broaden, together with Pfizer. We have 2 later-stage biotech assets, acasunlimab or 1046, where we already made the decision to move to Phase III this year and 1042, where we hope to make a decision on late-stage clinical development also this year in head and neck cancer and a very, very rapidly growing portfolio of other clinical molecules. 
+So we have to rank order them and focus on the ones that make the biggest impact on patients and the biggest impact on the company. We will not shy away from deprioritizing molecules. But it's a bit too early. I think that prioritization and rank ordering will happen in the second half of this year, everything thing goes well with today's proposed acquisition of ProfoundBio. Anthony Pagano, do you want to add anything to that?
+
+--------------------------------------------------------------------------------
+Anthony Pagano,  Genmab A/S - Executive VP & CFO    [73]
+--------------------------------------------------------------------------------
+No. Yes, you covered it very well. Maybe the only thing I would add, Vikram, this is more of the same, right? We've always had a very high bar for what programs get put into the clinic at Genmab. That's not going to change. And likewise, we have a very high bar for what things will push into mid and ultimately to registrational activity. So I really kind of contextualize it as more of the same. But to be clear, as we move forward, we certainly are going to prioritize in terms of the incremental investment, the mid- to late-stage programs.
+
+--------------------------------------------------------------------------------
+Jan G.J. van de Winkel,  Genmab A/S - Co-Founder, President & CEO    [74]
+--------------------------------------------------------------------------------
+Maybe Vikram to add to that. I mean we have a amazing track record, in 25 years we actually filed 44 INDs. Today, 20 of these programs -- active clinical developments by Genmab or with partners. And 8 of the 20 are on the market as FDA-approved medicines and more to come. So we have an amazing track record, and I hope that we actually get better, not worse, going forward because we keep learning and keep optimizing our model and actually propelling Genmab to become a leading innovation powerhouse like we said in the introductory remarks.
+Operator?
+
+--------------------------------------------------------------------------------
+Operator    [75]
+--------------------------------------------------------------------------------
+We're taking 1 more question today. Your final question from the line of Asthika Goonewardene from Truist.
+
+--------------------------------------------------------------------------------
+Asthika Sarith Goonewardene,  Truist Securities, Inc., Research Division - Research Analyst    [76]
+--------------------------------------------------------------------------------
+Congrats on this deal, pretty cool stuff. Okay. So I'm going to ask Jonathan's question in another way. And the reason I am asking is because with activity in low folate receptor alpha expression levels and the safety of Rina-S, it means you can open up some other indications where FRA is lower, like lung cancer. We know Sutro should be getting an IND cleared for doing an exploratory lung cancer study in the first half and potentially some data later this year or by month end. So Tahi, you talked about how you've seen a lot of data that we haven't seen. Let me ask you this way. Have you seen proof-of-concept clinical data in lung cancer? You don't have to tell what it looks like, but have you seen this? Second question, if I may. Can you remind me how is this linker cleaved and sort of related to the technology, are you getting true site-specific conjugation from ProfoundBio or are you achieving the DAR of 8 or are they achieving the DAR of 8 because they (inaudible) residues.
+
+--------------------------------------------------------------------------------
+Jan G.J. van de Winkel,  Genmab A/S - Co-Founder, President & CEO    [77]
+--------------------------------------------------------------------------------
+Thanks, Asthika for the questions. And we would characterize this deal as sub-zero cool, not only it's cool but very, very cool, actually. The first question, I think, is a tough one, I think, for Tahi to comment on because we don't want to give the data in other cancers. But the second one you can definitely focus on in detail on the linker technology for the cleavable. Tahi, over to you.
+
+--------------------------------------------------------------------------------
+Tahamtan Ahmadi,  Genmab A/S - Executive VP, Chief Medical Officer & Head of Experimental Medicines    [78]
+--------------------------------------------------------------------------------
+Yes. So I think -- thank you, Jan, for helping me with the first part. As Jan said, it's impossible to comment on data that's not in the public domain. Essentially, there are 3 components to a linker. And if you look at the ProfoundBio linker the only part that is really differentiated and that then makes the difference is the very heavy use of Sorbitol in order to increase the hydrophilicity if you will at the middle part of the linker (inaudible) antibody, on the cancer -- the payload and then the middle part. That really is a proprietary technology. The 2 other components are essentially off the shelf. But that -- the hydrophilicity of the linker and then broadly speaking, the hydrophilic -- hydrophobic balance of the whole asset is driving both the ability to load up on this high DAR in having a stable asset. And then also appears to driving the entire biology of uptake and release. 
+So it's a little bit almost like a Goldilocks phenomenon, if that helps. So my encouragement would be to look a little bit into the, well, it's probably what they have publicly presented, which they have at SITC into the chemical structure, then you will see what I mean.
+
+--------------------------------------------------------------------------------
+Jan G.J. van de Winkel,  Genmab A/S - Co-Founder, President & CEO    [79]
+--------------------------------------------------------------------------------
+Thanks, Tahi. Thanks, Asthika, for the questions.
+
+--------------------------------------------------------------------------------
+Operator    [80]
+--------------------------------------------------------------------------------
+I will hand back to the speakers for any closing remarks.
+
+--------------------------------------------------------------------------------
+Jan G.J. van de Winkel,  Genmab A/S - Co-Founder, President & CEO    [81]
+--------------------------------------------------------------------------------
+All right. Thank you all for calling in today to discuss this exciting step in Genmab's evolution.  And if you have any additional questions, please reach out to our Investor Relations team. I hope that you will all stay safe, optimistic and remain healthy, and we very much look forward to speaking with you all again soon.
+
+--------------------------------------------------------------------------------
+Operator    [82]
+--------------------------------------------------------------------------------
+Thank you. This does conclude the conference for today. Thank you for participating, and you may now disconnect. Speakers, please stand by.
+
+
+
+
+
+
+
+--------------------------------------------------------------------------------
+Definitions
+--------------------------------------------------------------------------------
+PRELIMINARY TRANSCRIPT: "Preliminary Transcript" indicates that the 
+Transcript has been published in near real-time by an experienced 
+professional transcriber.  While the Preliminary Transcript is highly 
+accurate, it has not been edited to ensure the entire transcription 
+represents a verbatim report of the call.
+
+EDITED TRANSCRIPT: "Edited Transcript" indicates that a team of professional 
+editors have listened to the event a second time to confirm that the 
+content of the call has been transcribed accurately and in full.
+
+--------------------------------------------------------------------------------
+Disclaimer
+--------------------------------------------------------------------------------
+Refinitiv reserves the right to make changes to documents, content, or other 
+information on this web site without obligation to notify any person of 
+such changes.
+
+In the conference calls upon which Event Transcripts are based, companies 
+may make projections or other forward-looking statements regarding a variety 
+of items. Such forward-looking statements are based upon current 
+expectations and involve risks and uncertainties. Actual results may differ 
+materially from those stated in any forward-looking statement based on a 
+number of important factors and risks, which are more specifically 
+identified in the companies' most recent SEC filings. Although the companies 
+may indicate and believe that the assumptions underlying the forward-looking 
+statements are reasonable, any of the assumptions could prove inaccurate or 
+incorrect and, therefore, there can be no assurance that the results 
+contemplated in the forward-looking statements will be realized.
+
+THE INFORMATION CONTAINED IN EVENT TRANSCRIPTS IS A TEXTUAL REPRESENTATION
+OF THE APPLICABLE COMPANY'S CONFERENCE CALL AND WHILE EFFORTS ARE MADE TO
+PROVIDE AN ACCURATE TRANSCRIPTION, THERE MAY BE MATERIAL ERRORS, OMISSIONS,
+OR INACCURACIES IN THE REPORTING OF THE SUBSTANCE OF THE CONFERENCE CALLS.
+IN NO WAY DOES REFINITIV OR THE APPLICABLE COMPANY ASSUME ANY RESPONSIBILITY FOR ANY INVESTMENT OR OTHER
+DECISIONS MADE BASED UPON THE INFORMATION PROVIDED ON THIS WEB SITE OR IN
+ANY EVENT TRANSCRIPT. USERS ARE ADVISED TO REVIEW THE APPLICABLE COMPANY'S
+CONFERENCE CALL ITSELF AND THE APPLICABLE COMPANY'S SEC FILINGS BEFORE
+MAKING ANY INVESTMENT OR OTHER DECISIONS.
+--------------------------------------------------------------------------------
+Copyright 2024 Refinitiv. All Rights Reserved.
+--------------------------------------------------------------------------------

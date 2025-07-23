@@ -1,0 +1,388 @@
+
+
+Refinitiv StreetEvents Event Transcript
+E D I T E D  V E R S I O N
+
+Suven Pharmaceuticals Ltd Acquisition Of Sapala Organics M&A Call
+June 19, 2024 / 12:00PM UTC
+
+================================================================================
+Corporate Participants
+================================================================================
+
+ * Cyndrella Carvalho
+   Suven Pharmaceuticals Ltd - Head, Investor Relations
+ * Vaidheesh Annaswamy
+   Suven Pharmaceuticals Ltd - Executive Chairman of the Board
+ * Vetukuri Venkata Prasada Raju
+   Suven Pharmaceuticals Ltd - Managing Director, Additional Executive Director
+ * HIMANSHU AGARWAL
+   Suven Pharmaceuticals Ltd - Chief Financial Officer
+
+================================================================================
+Conference Call Participants
+================================================================================
+
+ * Operator
+   
+ * Amey Chalke
+   JM Financial Institutional Securities Pvt. Ltd. - Analyst
+ * Surya Patra
+   PhillipCapital (India) Pvt. Ltd. - Analyst
+ * Ritu Kumari
+   L K Investment - Analyst
+ * Hrishikesh Patole
+   B&K Securities - Analyst
+ * Jainil Shah
+   JM Financial Ltd - Analyst
+
+================================================================================
+presentation
+--------------------------------------------------------------------------------
+Operator,     [1]
+--------------------------------------------------------------------------------
+Ladies and gentlemen, good day and welcome the Suven Pharmaceuticals Limited conference call. (Operator Instructions) Please note that this conference is being recorded.
+I now hand the conference over to Ms. Cyndrella Carvalho, Head of Investor Relations at Suven Pharmaceuticals Limited. Thank you and over to you, ma'am.
+--------------------------------------------------------------------------------
+Cyndrella Carvalho, Suven Pharmaceuticals Ltd - Head, Investor Relations    [2]
+--------------------------------------------------------------------------------
+Thank you, Darwin. Good evening, everyone. I welcome you all to today's conference call to update on the acquisition of a strategic controlling stake in Sapala Organics. Our management team present here with us today includes Mr. Annaswamy Vaidheesh, Executive Chairman; Dr. V. Prasada Raju, Managing Director; and Mr. Himanshu Agarwal, Chief Financial Officer. Let's dwell into the key highlights of the transaction and (technical difficulty) the floor for Q&A.
+Now I invite Mr. Annaswamy Vaidheesh, our Executive Chairman, to share his thoughts on this acquisition.
+--------------------------------------------------------------------------------
+Vaidheesh Annaswamy, Suven Pharmaceuticals Ltd - Executive Chairman of the Board    [3]
+--------------------------------------------------------------------------------
+Thank you, Cyndrella. Good evening, everyone. We are pleased to announce that Suven has entered into a definitive agreement for the acquisition of a controlling stake in Sapala Organics. To give you some background, Sapala is a Hyderabad-based CDMO that specializes in oligonucleotide drugs and nucleic acid building blocks.
+Dr. P. Yella, the promoter and CEO of Sapala, who has deep domain expertise in the space and 20-plus years of working experience in Japan, has built this company into a unique CDMO player over the last two decades. I feel extremely delighted to welcome Dr. P. Yella Reddy and the Sapala's team to the Suven family. We are very much delighted to partner with Sapala as it represents a strategic fit for Suven.
+Oligonucleotide space is a niche [tech], rapidly growing space with immense potential. As you may be aware, nucleic acid based-therapies target diseases at the genetic level, offering hope for a condition that were previously deemed incurable. With Sapala's acquisition, we are enhancing our technology platforms, which now include ADCs, oligonucleotides, and more.
+This aligns with our strategy of investing in high-growth, high-impact areas, both organically and inorganically and marks another stride in our journey towards establishing a deep, domain-led, integrated CDMO platform from India. I will now request Dr. Prasada to say a few words and explain to you more about the rationale. Thank you.
+--------------------------------------------------------------------------------
+Vetukuri Venkata Prasada Raju, Suven Pharmaceuticals Ltd - Managing Director, Additional Executive Director    [4]
+--------------------------------------------------------------------------------
+Thank you, Mr. Vaidheesh. Very good evening to all of you. So quite exciting times for us. Sapala has actually built unique capabilities in the oligonucleotide building block segment. This market is currently valued at approximately $750 million, and it is expected to grow at an impressive 20%-plus of coverage.
+The segment has seen increasingly interest and investments from large pharmas and also oligo focus to biopharm companies with many of our customers are also looking to expand in this space. The segment currently has 17 approved drugs with a very healthy pipeline that is expected to quadruple the approved drugs by 2030, which is supported by the fact that a very interesting number on both [P4 -- P3] stage, which is on Phase 3, as well as similar or double the number in a preclinical to clinical as well.
+Sapala capabilities in locked and bridged nucleic acid price, tricyclo DNAs, and the GalNAc position, it's one of the few players globally capable of delivering such specialized solution, which market is looking for. Combining Sapala's R&D depth and experience to team with our customer access and expanded manufacturing capabilities will certainly drive meaningful synergies across our platform.
+I will now hand over to Himanshu to discuss the financial and structure-related aspects of the deal. Thank you. Over to you, Himanshu.
+--------------------------------------------------------------------------------
+HIMANSHU AGARWAL, Suven Pharmaceuticals Ltd - Chief Financial Officer    [5]
+--------------------------------------------------------------------------------
+Thank you, Dr. Prasada. So from a financial perspective, this acquisition is structured to deliver long-term value. In FY24, Sapala revenues were over INR670 million and the adjusted EBITDA margins being at 45%-plus. As shared in the investor deck, the adjusted revenue has been growing at CAGR of 18% for the last two years.
+Subject to the customary adjustments for net cash and working capital, the initial consideration is INR2,295 million for an acquisition of 51% stake on a fully diluted basis. We expect the 100% acquisition to be valued at 13 to 15 times EBITDA multiple, contingent on the financial performance for monthly EBITDA over the next three years, which ensures alignment of interest and sustainable growth. Therefore, the overall EBITDA multiple for the 100% business will likely to be 13x to 15x EBITDA multiple range.
+This is expected to be financed through cash reserves or internal accruals of Suven Pharma. And the initial acquisition is expected in quarter two of the current year while the balance stake acquisition is expected to be in three years, subject to the necessary regulatory approvals.
+We plan to operate this business collaboratively with the current promoter working as the CEO of Sapala Organics for the next few years as well as the strategic advisor for Japan region before we fully acquire 100% of Sapala. The transaction is expected to be EPS-accretive in the first year of acquisition, and we do not expect this acquisition to affect the current merger scheme with Cohance.
+We will now open the floor for any questions.
+
+================================================================================
+q-and-a
+--------------------------------------------------------------------------------
+Operator,     [1]
+--------------------------------------------------------------------------------
+(Operator Instructions) Amey Chalke, JM Financial.
+--------------------------------------------------------------------------------
+Amey Chalke, JM Financial Institutional Securities Pvt. Ltd. - Analyst    [2]
+--------------------------------------------------------------------------------
+Yeah, thank you so much for giving me an opportunity. So the first question I have, considering the market is growing at 20% CAGR, what would be expectation from Sapala's business going ahead for the segments?
+--------------------------------------------------------------------------------
+Vetukuri Venkata Prasada Raju, Suven Pharmaceuticals Ltd - Managing Director, Additional Executive Director    [3]
+--------------------------------------------------------------------------------
+Thank you, Amey. Thank you for the question. In a mid-term to long-term, it will match or exceed the current market growth. That's our internal view that we have because the base is lower and smaller.
+--------------------------------------------------------------------------------
+Amey Chalke, JM Financial Institutional Securities Pvt. Ltd. - Analyst    [4]
+--------------------------------------------------------------------------------
+Sir, is it possible for us to give some color apart from the oligonucleotide? Any other segment currently are they working on any other project or segment they are present in?
+--------------------------------------------------------------------------------
+Vetukuri Venkata Prasada Raju, Suven Pharmaceuticals Ltd - Managing Director, Additional Executive Director    [5]
+--------------------------------------------------------------------------------
+So the predominant area of our focus is on oligonucleotides only. But as you understand, within the oligonucleotides, there are multiple varieties of compounds that they have. One is specialized building blocks, which includes tricyclo DNA. Number of projects are also getting used using that as a core. And the bridged nucleic acid is one more type of compounds. GalNAc compounds are another division. So there are variants in the designer level oligonucleotides which Sapala is able to build the competency within the segment of oligonucleotides and nucleotides.
+--------------------------------------------------------------------------------
+Amey Chalke, JM Financial Institutional Securities Pvt. Ltd. - Analyst    [6]
+--------------------------------------------------------------------------------
+And is it possible for us to give us some color on the number of projects currently they are working in, specifically Phase 3, or any commercial project in the future?
+--------------------------------------------------------------------------------
+Vetukuri Venkata Prasada Raju, Suven Pharmaceuticals Ltd - Managing Director, Additional Executive Director    [7]
+--------------------------------------------------------------------------------
+So as you understand, currently, most of the Sapala projects are in early to mid-stage development. And there are a couple of projects in Phase 1 as well. But again, as we go deeper and deeper, we should be able to really get more color on it. As we know, definitely, we'll communicate back to you.
+--------------------------------------------------------------------------------
+Amey Chalke, JM Financial Institutional Securities Pvt. Ltd. - Analyst    [8]
+--------------------------------------------------------------------------------
+Sure, sir. Just the last question, how does this acquisition gel with the proven capability? If you can explain that. Thank you for that. And I will join the queue.
+--------------------------------------------------------------------------------
+Vetukuri Venkata Prasada Raju, Suven Pharmaceuticals Ltd - Managing Director, Additional Executive Director    [9]
+--------------------------------------------------------------------------------
+Sure. So as we also have communicated in our previous earning calls, one of the key driver of our strategic intent is to invest in niche and unique technologies, which are evolving as emerging trends in the small molecule space, which helped us to stay relevant and close to our customers. And ADC warheads has proven it right. And therefore, we thought we should invest in additional adjacencies, including the oligonucleotides. Thereby, it will also help us to be a preferred partner of choice for existing customers and also potential customers.
+--------------------------------------------------------------------------------
+Amey Chalke, JM Financial Institutional Securities Pvt. Ltd. - Analyst    [10]
+--------------------------------------------------------------------------------
+Sure, thank you.
+--------------------------------------------------------------------------------
+Vetukuri Venkata Prasada Raju, Suven Pharmaceuticals Ltd - Managing Director, Additional Executive Director    [11]
+--------------------------------------------------------------------------------
+Thank you.
+--------------------------------------------------------------------------------
+Operator,     [12]
+--------------------------------------------------------------------------------
+Surya Narayan Patra, PhillipCapital India Private Limited.
+--------------------------------------------------------------------------------
+Surya Patra, PhillipCapital (India) Pvt. Ltd. - Analyst    [13]
+--------------------------------------------------------------------------------
+Thanks for this opportunity and congratulations for the great asset additions, sir. So my first question is on, let's say, about -- it looks like it is a targeted acquisition, and so there was some kind of acquisition that was there. So is there any target in terms of the opportunity that is also been there so that's why it was a targeted acquisition or how is it, sir?
+--------------------------------------------------------------------------------
+Vetukuri Venkata Prasada Raju, Suven Pharmaceuticals Ltd - Managing Director, Additional Executive Director    [14]
+--------------------------------------------------------------------------------
+So partially -- first of all, Surya Narayan, thank you for your compliments and it's really exciting times for all of us. As I have partially explained to Amey, it's a part of our strategic assessment of -- to accelerate our Suven growth, we have decided to invest in niche and the newer technologies, which are unique and emerging as future trends.
+With this intent, we have been scouting for opportunities and very few and limited are available. And it has so happened that Sapala is found to be one. So that is the primary driver of what we are today.
+--------------------------------------------------------------------------------
+Surya Patra, PhillipCapital (India) Pvt. Ltd. - Analyst    [15]
+--------------------------------------------------------------------------------
+Okay, and so given the fact -- given the understanding that both the oligonucleotide as well as the ADC, these are like really complex areas, so what would be the formula for success is? Whether it is to -- closer to the customer kind of means. That is one condition and what we are not having the operation here in India. So odd -- what could be the new formula for success in these two areas?
+--------------------------------------------------------------------------------
+Vetukuri Venkata Prasada Raju, Suven Pharmaceuticals Ltd - Managing Director, Additional Executive Director    [16]
+--------------------------------------------------------------------------------
+Okay. So the confidence on antibody drug conjugates has actually taught us several aspects. One is you have to travel along with innovator form and via partner, along with the development. As you understand, it's not just the service sale. It is a more of a technology and the design, the molecule in line with what they expect.
+So definitely, your chemistry skill and abilities to scale up and provide the material on time are the three important drivers for us to be able to partner with innovative companies, which we feel strong about Sapala as well. We would be able to replicate the same model. That's how success looks like.
+--------------------------------------------------------------------------------
+Surya Patra, PhillipCapital (India) Pvt. Ltd. - Analyst    [17]
+--------------------------------------------------------------------------------
+Okay. Having operation outside of advance world is not a kind of impediment. That is what I want to think. Is that right?
+--------------------------------------------------------------------------------
+Vetukuri Venkata Prasada Raju, Suven Pharmaceuticals Ltd - Managing Director, Additional Executive Director    [18]
+--------------------------------------------------------------------------------
+And it's not, definitely. Because what happens is majority of our customers are taking either inorganic approach of getting into this space, or they're also looking for a product level-selected deals, or they are looking for a complete in-licensing of the molecule. They're also wanting somebody to be a part of their GMP manufacturing, which we secure the highest chance because for the last two decades, we are with most of innovator companies. Therefore, our strength is going to be really helpful for us to really accelerate the qualifications with some of these customers while we try and work with some of the biopharmas, which are active in this space as pioneers in oligonucleotides.
+--------------------------------------------------------------------------------
+Surya Patra, PhillipCapital (India) Pvt. Ltd. - Analyst    [19]
+--------------------------------------------------------------------------------
+Okay, so given the given the complexity that is there about customer acquisition for the complex areas and the timeline required also to get the -- or to progress the molecule to the commercialized levels, so what is the timeline that you are thinking when you're saying that the synergetic benefit from these acquisitions will really be supplementing the combined business of Suven going ahead? Whether it is FY27 onwards or it is even beyond that, when should we really see the benefit of these efforts really contributing to the overall earnings for the company?
+--------------------------------------------------------------------------------
+Vetukuri Venkata Prasada Raju, Suven Pharmaceuticals Ltd - Managing Director, Additional Executive Director    [20]
+--------------------------------------------------------------------------------
+So what we actually decided was to really go deeper on the existing customers and also start looking for new customer. More importantly, some of our Suven customers are extremely critical for having this competency. But as you understand, our success is depending on the clinical success of the pipeline, which means anywhere, visible case studies can be built with synergies between at least, [fastest], two to four years timeframe is what we see, so which comes back to the same time period or which can be little earlier also. Two to four years in the timeframe that we see to have the synergies coming in.
+--------------------------------------------------------------------------------
+Surya Patra, PhillipCapital (India) Pvt. Ltd. - Analyst    [21]
+--------------------------------------------------------------------------------
+Okay. And just last one, sir, from my side, if the kind of -- the size of the business what it has been acquired now, so is it fair to believe that now, the oligo is very -- larger than the ADCs what we have been having?
+--------------------------------------------------------------------------------
+Vetukuri Venkata Prasada Raju, Suven Pharmaceuticals Ltd - Managing Director, Additional Executive Director    [22]
+--------------------------------------------------------------------------------
+Our wish is to grow both to highest level and that comparison might be a little difficult to comment right now. And the oligo is relatively at an early stage because we don't have any commercial product. But in case of antibody drug conjugates, as you understand, the two warheads are being supplied for commercial pipeline molecules.
+So which is different than what we are in Sapala. And to your first question, two to four years down the line, probably oligo also will start seeing the similar kind of a texture, but not right now. It's at evolving field at this stage.
+--------------------------------------------------------------------------------
+Surya Patra, PhillipCapital (India) Pvt. Ltd. - Analyst    [23]
+--------------------------------------------------------------------------------
+Sure, sir. I'll join back in the queue, sir. Thank you.
+--------------------------------------------------------------------------------
+Vetukuri Venkata Prasada Raju, Suven Pharmaceuticals Ltd - Managing Director, Additional Executive Director    [24]
+--------------------------------------------------------------------------------
+Thank you.
+--------------------------------------------------------------------------------
+Operator,     [25]
+--------------------------------------------------------------------------------
+(Operator Instructions) [Ritu Kumari, LK Investment].
+--------------------------------------------------------------------------------
+Ritu Kumari, L K Investment - Analyst    [26]
+--------------------------------------------------------------------------------
+Yeah, good evening, gentlemen. Hello?
+--------------------------------------------------------------------------------
+Vetukuri Venkata Prasada Raju, Suven Pharmaceuticals Ltd - Managing Director, Additional Executive Director    [27]
+--------------------------------------------------------------------------------
+Good evening, ma'am. You are audible to us. Please go ahead.
+--------------------------------------------------------------------------------
+Ritu Kumari, L K Investment - Analyst    [28]
+--------------------------------------------------------------------------------
+Okay, yeah. So I have a couple of questions. My first question is what is the contribution from the top five products or maybe customers, if you could just add to that?
+--------------------------------------------------------------------------------
+Vetukuri Venkata Prasada Raju, Suven Pharmaceuticals Ltd - Managing Director, Additional Executive Director    [29]
+--------------------------------------------------------------------------------
+It's a fairly diversified in terms of product as the products are customized for specific customers and requirements. And today, top five customers contribute for less than 50% of the revenue on an average in last 40 years and last few years.
+--------------------------------------------------------------------------------
+Ritu Kumari, L K Investment - Analyst    [30]
+--------------------------------------------------------------------------------
+Last year, okay. And what is the current market growth drivers and how do we see it evolve?
+--------------------------------------------------------------------------------
+Vetukuri Venkata Prasada Raju, Suven Pharmaceuticals Ltd - Managing Director, Additional Executive Director    [31]
+--------------------------------------------------------------------------------
+So as we have explained that, definitely, you have to travel along with existing customers. And also, I was answering to Surya Narayan's question, while the synergies are relatively mid-term to long-term, but immediate onboarding of the existing customers of Suven is one of the important priority that we kept it for us. And most of the customers are actually asking for the new technologies and capacities coming in.
+So that is one of the growth driver. However, we also tried to continue with the existing relationship of Sapala between US, Europe, and Japan also. They have over 20%-plus of revenue exposure. We tried to grow existing leverage of Suven customers as well. These are all the two priorities, which can drive the growth.
+--------------------------------------------------------------------------------
+Ritu Kumari, L K Investment - Analyst    [32]
+--------------------------------------------------------------------------------
+Okay, got it. Okay, thank you. I'll join back.
+--------------------------------------------------------------------------------
+Vetukuri Venkata Prasada Raju, Suven Pharmaceuticals Ltd - Managing Director, Additional Executive Director    [33]
+--------------------------------------------------------------------------------
+Thank you.
+--------------------------------------------------------------------------------
+Operator,     [34]
+--------------------------------------------------------------------------------
+Darshit Shah, Nirvana Capital. Darshit Shah, the line for you has been unmuted. You may proceed with your question.
+As there's no response from the current participant, we will move to the next question. Hrishikesh Patole, B&K Securities.
+--------------------------------------------------------------------------------
+Hrishikesh Patole, B&K Securities - Analyst    [35]
+--------------------------------------------------------------------------------
+Hi, am I audible?
+--------------------------------------------------------------------------------
+Operator,     [36]
+--------------------------------------------------------------------------------
+Yes, you are audible, sir.
+--------------------------------------------------------------------------------
+Hrishikesh Patole, B&K Securities - Analyst    [37]
+--------------------------------------------------------------------------------
+Just on the customer profile, sir, can you briefly highlight what is the customer profile like -- or like what are our key customers? Are they emerging biotech firm or well-established big pharma players? Can you give a broad like -- that would be helpful.
+--------------------------------------------------------------------------------
+Vetukuri Venkata Prasada Raju, Suven Pharmaceuticals Ltd - Managing Director, Additional Executive Director    [38]
+--------------------------------------------------------------------------------
+So thank you, Hrishikesh. Today, Sapala has innovator customer base across US, Europe, and Japan. But our geography average sales split in the last few years between US, Europe, and Japan is around 40, 30, and 20, which also means is a good mix of big biofirms, which includes oligo-focused CDMO players. And that's how the current business mix is around the companies.
+--------------------------------------------------------------------------------
+Hrishikesh Patole, B&K Securities - Analyst    [39]
+--------------------------------------------------------------------------------
+And just to add on that, have we been adding clients regularly? What has been the trend on that?
+--------------------------------------------------------------------------------
+Vetukuri Venkata Prasada Raju, Suven Pharmaceuticals Ltd - Managing Director, Additional Executive Director    [40]
+--------------------------------------------------------------------------------
+The question is bit unclear. Can you just elaborate --?
+--------------------------------------------------------------------------------
+Hrishikesh Patole, B&K Securities - Analyst    [41]
+--------------------------------------------------------------------------------
+What I wanted to ask, have we been adding clients regularly for the past few years?
+--------------------------------------------------------------------------------
+Vetukuri Venkata Prasada Raju, Suven Pharmaceuticals Ltd - Managing Director, Additional Executive Director    [42]
+--------------------------------------------------------------------------------
+Yes. The addition here of the customers is happening on top of it. The addition of molecules for the same line of customers is also happening. Finally, product progress is actually seen and the Sapala is along with the product progress as well.
+--------------------------------------------------------------------------------
+Hrishikesh Patole, B&K Securities - Analyst    [43]
+--------------------------------------------------------------------------------
+And now, with Suven, you expect that to be faster going ahead or --?
+--------------------------------------------------------------------------------
+Vetukuri Venkata Prasada Raju, Suven Pharmaceuticals Ltd - Managing Director, Additional Executive Director    [44]
+--------------------------------------------------------------------------------
+That's right, that's right. Because we have a long relationship with the top innovator companies, and the majority of them are extremely active on oligonucleotide basis. And because we are actually qualified suppliers for them, our existing relationship can be properly leveraged with Sapala's competencies.
+--------------------------------------------------------------------------------
+Hrishikesh Patole, B&K Securities - Analyst    [45]
+--------------------------------------------------------------------------------
+Sure, sure. That's very helpful. Thank you. That's it from my side.
+--------------------------------------------------------------------------------
+Vetukuri Venkata Prasada Raju, Suven Pharmaceuticals Ltd - Managing Director, Additional Executive Director    [46]
+--------------------------------------------------------------------------------
+Thank you, thank you.
+--------------------------------------------------------------------------------
+Operator,     [47]
+--------------------------------------------------------------------------------
+(Operator Instructions) Jainil Shah, JM Financial.
+--------------------------------------------------------------------------------
+Jainil Shah, JM Financial Ltd - Analyst    [48]
+--------------------------------------------------------------------------------
+Hi. Thank you for the opportunity and congratulations on the acquisition. I have two questions. One is on what is the current capacity utilization? And second one is if you can elaborate a little bit more on how the current competitive landscape is and who are we competing with in India and outside India?
+--------------------------------------------------------------------------------
+Vetukuri Venkata Prasada Raju, Suven Pharmaceuticals Ltd - Managing Director, Additional Executive Director    [49]
+--------------------------------------------------------------------------------
+Sure, thank you, Jainil. From a capacity standpoint, I just wanted to clarify, this is predominantly R&D-led activity. And today, the basic amidites or some of the compounds that we do are manufacturing in kiloliters capacity. Otherwise, from a capacity standpoint, it is predominantly on R&D side of it. However, when the molecule grows into the clinical phase from preclinical and to commercial, what we need is GMP facilities.
+And one of the important element as a part of the deal is we end up supporting the growth of the organization by creating a GMP manufacturing facility. Hence, we don't have any capacity constraint right now. And as it is predominantly R&D, we have enough capacities. However, in view of the future growth, we have plans to create a GMP manufacturing site in one of our expanded platform sites.
+Second question is on the competition landscape. As you understand, there is a very unique combination of having the bridged nucleotides and the GalNAc compounds and tricyclo compounds. So it's very hard to decide.
+However, there are some companies who are closely related but not exactly comparable. Hence, we'll be able to exactly define who is our right competition because that's a struggle for us itself, which we are not able to come to a conclusion. They're closely related, but nowhere comparable because the extent of competencies Sapala has built. All the competencies are not existed as one-roof solution in any of the pharms that what we had assessed.
+--------------------------------------------------------------------------------
+Jainil Shah, JM Financial Ltd - Analyst    [50]
+--------------------------------------------------------------------------------
+Sure, that is helpful. Thank you.
+--------------------------------------------------------------------------------
+Vetukuri Venkata Prasada Raju, Suven Pharmaceuticals Ltd - Managing Director, Additional Executive Director    [51]
+--------------------------------------------------------------------------------
+Thank you, Jainil.
+--------------------------------------------------------------------------------
+Operator,     [52]
+--------------------------------------------------------------------------------
+(Operator Instructions) Surya Narayan Patra, PhillipCapital India Private Limited.
+--------------------------------------------------------------------------------
+Surya Patra, PhillipCapital (India) Pvt. Ltd. - Analyst    [53]
+--------------------------------------------------------------------------------
+Yeah, sir, if you can just add something about Mr. Yella Reddy's strength and his likely contribution to Suven?
+--------------------------------------------------------------------------------
+Vetukuri Venkata Prasada Raju, Suven Pharmaceuticals Ltd - Managing Director, Additional Executive Director    [54]
+--------------------------------------------------------------------------------
+Yes, our Chairman, Mr. Vaidheesh has briefly touched upon in the opening remarks. He has close to four decades of technical experience, worked in Japan and lived in Japan, and he speaks Japanese language, and he has a very strong connect. And he's a product of Toyota.
+Also, by training, he did his entire science in sugar-based chemistry. As you understand, oligonucleotides comes with organic chemistry, inorganic chemistry, physical chemistry, combination of all only somebody can really isolate. So he has a blend of technical experience and expertise, and a deeper understanding about the science of oligonucleotide, coupled with exposure in Japan, while he runs Sapala business as the CEO of the company. What we have also decided is we wanted to leverage his network in Japan and he will serve as an advisor for the Japan market entry at the overall Suven and Cohance platform. That's the view that we have it today, Surya.
+--------------------------------------------------------------------------------
+Surya Patra, PhillipCapital (India) Pvt. Ltd. - Analyst    [55]
+--------------------------------------------------------------------------------
+Okay. And whether that association will be a kind of beneficial aspect so far as CDMO chemical, specialty chemical, and all that also?
+--------------------------------------------------------------------------------
+Vetukuri Venkata Prasada Raju, Suven Pharmaceuticals Ltd - Managing Director, Additional Executive Director    [56]
+--------------------------------------------------------------------------------
+That's right. Because his strength is under CDMO space only, predominantly.
+--------------------------------------------------------------------------------
+Surya Patra, PhillipCapital (India) Pvt. Ltd. - Analyst    [57]
+--------------------------------------------------------------------------------
+Okay. Sir, in fact, in the opening remark, you have alluded about kind of acquisition cost. There is some [disturbance I could not catch]. So if you can share your view. Can you repeat it, please?
+--------------------------------------------------------------------------------
+Vetukuri Venkata Prasada Raju, Suven Pharmaceuticals Ltd - Managing Director, Additional Executive Director    [58]
+--------------------------------------------------------------------------------
+Sure. Himanshu, can you just to take up this question?
+--------------------------------------------------------------------------------
+HIMANSHU AGARWAL, Suven Pharmaceuticals Ltd - Chief Financial Officer    [59]
+--------------------------------------------------------------------------------
+Yeah, sure. I think what we had said -- I'll just kind of repeat what we had articulated. Essentially, as you would have read, they were quite at an initial consideration of INR229 crores. And that's for 51% stake (technical difficulty) and expecting to acquire 100% in three to four years is, which again, would be valued at 13 to 15 EBITDA multiple in the next -- that's effectively what -- does that help you?
+--------------------------------------------------------------------------------
+Surya Patra, PhillipCapital (India) Pvt. Ltd. - Analyst    [60]
+--------------------------------------------------------------------------------
+Yeah, yeah. So that means 13 to 15, you said, for the EBITDA, what was that you will be getting in the time and on a future date.
+--------------------------------------------------------------------------------
+Vetukuri Venkata Prasada Raju, Suven Pharmaceuticals Ltd - Managing Director, Additional Executive Director    [61]
+--------------------------------------------------------------------------------
+That is correct.
+--------------------------------------------------------------------------------
+Surya Patra, PhillipCapital (India) Pvt. Ltd. - Analyst    [62]
+--------------------------------------------------------------------------------
+Okay, okay. Sure. Yeah, thank you, sir.
+--------------------------------------------------------------------------------
+Vetukuri Venkata Prasada Raju, Suven Pharmaceuticals Ltd - Managing Director, Additional Executive Director    [63]
+--------------------------------------------------------------------------------
+Thank you.
+--------------------------------------------------------------------------------
+Operator,     [64]
+--------------------------------------------------------------------------------
+Thank you. We have no further questions, ladies and gentlemen. I would now like to hand the conference over to the management for closing comments. Over to you.
+--------------------------------------------------------------------------------
+Cyndrella Carvalho, Suven Pharmaceuticals Ltd - Head, Investor Relations    [65]
+--------------------------------------------------------------------------------
+Thank you, Darwin, and thank you, everyone, for your time. And we look forward to hear and learn more with you. Thanks a lot.
+--------------------------------------------------------------------------------
+Operator,     [66]
+--------------------------------------------------------------------------------
+Thank you.
+--------------------------------------------------------------------------------
+Vetukuri Venkata Prasada Raju, Suven Pharmaceuticals Ltd - Managing Director, Additional Executive Director    [67]
+--------------------------------------------------------------------------------
+Thank you, everyone.
+--------------------------------------------------------------------------------
+Operator,     [68]
+--------------------------------------------------------------------------------
+On behalf of Suven Pharmaceuticals Limited, that concludes this conference. Thank you all for joining us and you may now disconnect your lines.
+
+
+
+
+
+
+--------------------------------------------------------------------------------
+Definitions
+--------------------------------------------------------------------------------
+Preliminary Transcript: "Preliminary Transcript" indicates that the 
+Transcript has been published in near real-time by an experienced 
+professional transcriber.  While the Preliminary Transcript is highly 
+accurate, it has not been edited to ensure the entire transcription 
+represents a verbatim report of the call.
+
+EDITED TRANSCRIPT: "Edited Transcript" indicates that a team of professional 
+editors have listened to the event a second time to confirm that the 
+content of the call has been transcribed accurately and in full.
+
+--------------------------------------------------------------------------------
+Disclaimer
+--------------------------------------------------------------------------------
+The London Stock Exchange Group and its affiliates (collectively, "LSEG") reserves the right to make changes to documents, content, or other information on this web site without obligation to notify any person of such changes. No content may be modified, reverse engineered, reproduced or distributed in any form by any means, or stored in a database or retrieval system, without the prior written permission of LSEG. The content shall not be used for any unlawful or unauthorized purposes. LSEG does not guarantee the accuracy, completeness, timeliness or availability of the content. LSEG is not responsible for any errors or omissions, regardless of the cause, for the results obtained from the use of the content. In no event shall LSEG be liable to any party for any direct, indirect, incidental, exemplary, compensatory, punitive, special or consequential damages, costs, expenses, legal fees, or losses (including, without limitation, lost income or lost profits and opportunity costs or losses caused by negligence) in connection with any use of the content even if advised of the possibility of such damages.
+
+In the conference calls upon which Summaries are based, companies may make projections or other forward-looking statements regarding a variety of items. Such forward-looking statements are based upon current expectations and involve risks and uncertainties. Actual results may differ materially from those stated in any forward-looking statement based on a number of important factors and risks, which are more specifically identified in the companies' most recent SEC filings. Although the companies may indicate and believe that the assumptions underlying the forward-looking statements are reasonable, any of the assumptions could prove inaccurate or incorrect and, therefore, there can be no assurance that the results contemplated in the forward-looking statements will be realized.
+
+LSEG assumes no obligation to update the content following publication in any form or format. The content should not be relied on and is not a substitute for the skill, judgment and experience of the user, its management, employees, advisors and/or clients when making investment and other business decisions. LSEG does not act as a fiduciary or an investment advisor except where registered as such.
+
+THE INFORMATION CONTAINED IN TRANSCRIPT SUMMARIES REFLECTS LSEG'S SUBJECTIVE CONDENSED PARAPHRASE OF THE APPLICABLE COMPANY'S CONFERENCE CALL AND THERE MAY BE MATERIAL ERRORS, OMISSIONS, OR INACCURACIES IN THE REPORTING OF THE SUBSTANCE OF THE CONFERENCE CALLS. IN NO WAY DOES LSEG OR THE APPLICABLE COMPANY ASSUME ANY RESPONSIBILITY FOR ANY INVESTMENT OR OTHER DECISIONS MADE BASED UPON THE INFORMATION PROVIDED ON THIS WEB SITE OR IN ANY SUMMARY. USERS ARE ADVISED TO REVIEW THE APPLICABLE COMPANY'S CONFERENCE CALL ITSELF AND THE APPLICABLE COMPANY'S SEC FILINGS BEFORE MAKING ANY INVESTMENT OR OTHER DECISIONS.
+--------------------------------------------------------------------------------
+Copyright 2024 LSEG. All Rights Reserved.
+--------------------------------------------------------------------------------

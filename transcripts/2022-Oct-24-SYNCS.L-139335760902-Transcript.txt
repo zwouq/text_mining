@@ -1,0 +1,146 @@
+
+
+Refinitiv StreetEvents Event Transcript
+E D I T E D   V E R S I O N
+
+Syncona Ltd to Acquire Applied Genetic Technologies Corp Call
+OCTOBER 24, 2022 / 11:30AM GMT
+
+================================================================================
+Corporate Participants
+================================================================================
+
+ * Jonathan I. Lieber
+   Applied Genetic Technologies Corporation - CFO
+ * Susan B. Washer
+   Applied Genetic Technologies Corporation - President, CEO & Director
+ * Christopher J. Hollowood
+   Syncona Limited - CIO & Managing Partner of Syncona Investment Management Ltd.
+
+================================================================================
+Presentation
+--------------------------------------------------------------------------------
+Operator    [1]
+--------------------------------------------------------------------------------
+Good morning, and welcome to the AGTC Conference Call. Today's call is being recorded. Before we get started, I would like to remind everyone that during this conference call, AGTC may make forward-looking statements, including statements about the proposed transactions between subsidiaries of Syncona Limited and AGTC, the expected time line for completing the transaction, future financial and operating results and benefits of the transaction, future opportunities for the combined company and any other statements about future expectations, beliefs, goals, plans or prospects constitute forward-looking statements. Any statements that are not statements of historical fact, including statements containing believes, anticipates, plans, expects, may, will, would, intends, estimates and similar expressions should also be considered to be forward-looking statements. 
+There are a number of important factors that could cause actual results or events to differ materially from those indicated by such forward-looking statements, including the risk that the proposed transactions may not be completed in a timely manner or at all; the failure to satisfy all of the closing conditions of the proposed transactions; the occurrence of any event, change or other circumstances that could give rise to the termination of the merger agreement and the tender offer thereunder; the effect of the announcement or pendency of the proposed transactions on AGTC's business and operating results; the risk that the proposed transactions may disrupt AGTC's current plans and business operations; potential difficulties retaining employees as a result of the proposed transactions; risks related to the diverting of management's attention from AGTC's ongoing business operations; the outcome of any legal proceedings that may be instituted against AGTC related to the merger agreement or the tender offer thereunder; the company's product development and regulatory progress, including statements about timing and outcomes from the data expected in its SKYLINE and VISTA trials and the type of data that may support registration and potential approval.
+Actual results could differ materially from those discussed in these forward-looking statements due to a number of important factors, including uncertainty inherent in the clinical development and regulatory process, the extent and duration of the impact of the COVID-19 pandemic and other risks described in the Risk Factors section of AGTC's most recently filed annual report on Form 10-K and other periodic reports filed with the SEC. AGTC undertakes no obligation to update any forward-looking statements after the date of this call.
+On October 23, 2022, AGTC issued a press release announcing its entry into a definitive agreement for the acquisition by tender offer of AGTC by an indirect subsidiary of Syncona Limited. The tender offer or the offer for the outstanding shares of the company referenced in the press release has not yet commenced.
+This call is for informational purposes only and is neither an offer to purchase nor a solicitation of an offer to sell securities, nor is it a substitute for the tender offer materials that Syncona will file with the Securities and Exchange Commission, or the SEC, upon commencement of the offer.
+At the time the offer is commenced, subsidiaries of Syncona will file a tender offer statement on Schedule TO, and therefore, the company will file a solicitation or recommendation statement on Schedule 14D-9 with the SEC with respect to the offer. The tender offer materials, including an offer to purchase a related letter of transmittal and certain other tender offer documents and the solicitation or recommendation statement on Schedule 14D-9 will contain important information.
+The company's stockholders are urged to read these documents carefully when they become available as each may be amended or supplemented from time to time because they will contain important information that holders of the company's securities should consider before making any decision regarding tendering their securities. Holders of shares can obtain these documents when they are filed and become available free of charge from the SEC's website at www.sec.gov or on the company's website at www.agtc.com.
+For introduction and opening remarks, I'd like to turn the call over to Sue Washer, Chief Executive Officer of AGTC. Please go ahead.
+
+--------------------------------------------------------------------------------
+Susan B. Washer,  Applied Genetic Technologies Corporation - President, CEO & Director    [2]
+--------------------------------------------------------------------------------
+Good morning, and thank you all for joining us today. With me on the call is Jon Lieber, our Chief Financial Officer; and Chris Hollowood, Chief Investment Officer of Syncona. We are pleased to discuss today's announcement of AGTC's proposed acquisition by a newly established portfolio company of Syncona for a total transaction consideration of up to approximately $73.5 million.
+The decision to be acquired by Syncona was made following an extensive strategic process and is being recommended because we believe this acquisition represents an attractive offer for shareholders with certain cash upfront and with the potential to receive significant premium returns through future contingent value rights, or CVRs, which we will review shortly.
+As many of you are aware, in May of this year, we reported positive interim 3-month data from the expansion phase of our XLRP Phase I/II clinical trial program known as SKYLINE. And throughout the development of our XLRP and achromatopsia product candidates, we have regularly reviewed potential financing and strategic options with the Board to ensure that we were optimizing our potential to create value for stockholders and patients. 
+In the month since the SKYLINE data were reported, the Board has continued to evaluate a variety of financing and partnership scenarios. Based on these ongoing discussions, we successfully executed a public offering of AGTC common stock that raised approximately $10 million. However, we have ongoing needs for additional capital to support the continued development of our XLRP program, and despite the favorable SKYLINE data, raising additional funds in the current capital markets environment for biotechnology companies is not a viable option on the time line our company requires financing.
+After careful analysis and deliberations, the Board unanimously agreed that the offer by the Syncona clearly delivered the best strategic option and value to our stockholders. We are pleased that Syncona shares our belief in the potential of our assets and believe that they are ideally placed to deliver the next phase of bringing this transformational therapy to patients.
+I will now pause and pass to Chris Hollowood, Syncona's Chief Investment Officer, to provide some background on Syncona. Chris?
+
+--------------------------------------------------------------------------------
+Christopher J. Hollowood,  Syncona Limited - CIO & Managing Partner of Syncona Investment Management Ltd.    [3]
+--------------------------------------------------------------------------------
+Good morning all, and thank you, Sue, for the introduction. I'm pleased to be here to discuss today's announcement and wanted to take the opportunity to provide some background on Syncona. We're a leading health care investor based in the U.K. We were founded in 2012 by the Wellcome Trust and have developed a strong track record in creating life science companies and building and scaling them through the clinic.
+At the heart of our vision is to deliver transformational treatments to patients in areas of high unmet need, and we believe there is a significant opportunity here to support a product with the potential to reach patients.
+Our team has extensive experience in the field of retinal disease and gene therapy. For example, Nightstar and Gyroscope were companies we built from previously in our portfolio, which we sold to Biogen and Novartis, respectively. We founded these companies and took them through to pivotal and Phase II studies, remaining significant owners over 6 years for each of them.
+More broadly, across the field of gene therapy, we have a further 3 gene therapy companies in our current portfolio and so have created 5 since our foundation. We have an extensive network across the retinal community, and part of our success has been to leverage this, and the management teams we build and the clinical and academic centers we work with. We intend to bring all of this experience to bear here to ensure high-quality execution.
+We believe that AGTC-501 has the potential to be a best-in-class product that could transform the lives of patients suffering with this devastating blinding condition and believe we have the domain expertise and track record to enable our new portfolio company to advance this product through to patients.
+After the closing, we intend to work with the management team to support them to deliver the clinical plan for AGTC-501, which, if successful, has the potential to provide value to AGTC's stockholders through the CVR.
+I'll now pass back to Sue to provide more background and the factors contributing to the Board's recommendation of this acquisition.
+
+--------------------------------------------------------------------------------
+Susan B. Washer,  Applied Genetic Technologies Corporation - President, CEO & Director    [4]
+--------------------------------------------------------------------------------
+Thank you, Chris. There were multiple factors that contributed to the Board's unanimous recommendation for this acquisition. The first was the status of our financing. The company has limited cash resources, which, in the absence of a transaction, would only support future operations through the end of calendar year 2022.
+In the context of challenging biotech technology capital markets, the Board considered our current share price and recognize the limitations on our ability to raise public equity.
+In the event that we were not able to raise public equity, the company would have no alternative but to pursue a bankruptcy case where there would be likely a lack of capital available for distribution to shareholders.
+The company's operations were clearly considered in the context of our finances with the Board taking into consideration the cost and risk of the current -- company's current product development pipeline.
+In addition, the Board considered the competitive nature of the biopharmaceutical industry, particularly for small-cap biotechs such as AGTC, the current perception of ophthalmology gene therapy by public market investors, our financial resources relative to those of our competitors, the potential impact of government health care reform on the company's business and other general risks and market conditions that could reduce the market price of AGTC shares. The Board also recognized that there are several well-financed companies partnered with large pharmaceutical companies, which are developing gene therapy products, even specifically to treat XLRP.
+The possibility of exploring additional licensing and collaboration opportunities, the potential benefits and the potential risks of those alternatives to the company and its stockholders and the timing and likelihood of effecting such alternatives considering our limited financial resources was also considered.
+The Board determined that none of the possible alternatives were reasonably likely to present superior opportunities in a reasonable time for us to create greater value for the company's stockholders and could result in significantly lower value for the stockholders.
+Another important factor in the Board's decision was the relationship of the offer price to the current and historical market prices of the shares. The offer price to be paid in cash for each share would provide stockholders with the opportunity to receive a significant premium over the current market price of the shares in cash as well as provide the opportunity for potential additional value in the future through CVRs.
+Certainty of value was also a key driver for the Board's recommendation. The consideration to be received by the AGTC stockholders and the offer and the merger will have a portion received as upfront cash, which provides liquidity and certainty of value to our stockholders.
+Considering the various risks that we would face by remaining independent and pursuing capital raising and/or business development opportunities to support continued operations, the Board believes that the certainty of value was compelling compared to the expected long-term value creation of our business.
+Finally, this acquisition provides an attractive opportunity to potentially realize additional cash value in contingent value rights, or CVRs. The Board considered the fact that in addition to the cash to be paid at closing, AGTC stockholders will receive one CVR per share held by them. The CVR provides the opportunity to realize up to $0.73 additional per share in additional cash value if 4 milestones are met in accordance with their terms. The Board considers the estimated probability of success and estimated timing for achieving each milestone in evaluating the transaction.
+Importantly, this acquisition will enable the continued advancement of our XLRP clinical program by a company which has a positive track record in building portfolio companies developing similar candidates. We remain confident that our XLRP candidate has best-in-class potential in a serious indication for which there are currently no therapies.
+At this time, I will now turn the call to Jon, who will review the financial details of the merger agreement. Jon?
+
+--------------------------------------------------------------------------------
+Jonathan I. Lieber,  Applied Genetic Technologies Corporation - CFO    [5]
+--------------------------------------------------------------------------------
+Thanks, Sue. Under the terms of the definitive agreement, the upfront cash consideration in the transaction will consist of $0.34 per share of AGTC common stock, including common stock underlying restricted stock units and in the money stock options. AGTC equity holders would also be entitled to receive for each share of AGTC common stock one nontradable CVR. The holders of the CVRs would be entitled to receive payments of up to an additional $50 million in the aggregate upon the achievement of certain milestones, including the maximum CVR payment AGTC stockholders will receive up to an aggregate of $73.5 million in cash. The total payment represents a premium of up to approximately 344% for the closing share price on Friday and a premium of approximately 268% over the 30-day volume-weighted average closing price per share of AGTC's common stock.
+The transaction, which has been unanimously approved by the members of the AGTC Board, is expected to close within 30 business days, subject to customary closing conditions, including AGTC's stockholders tendering a majority of AGTC's outstanding shares. The transaction is not subject to a financing condition.
+AGTC's Board of Directors unanimously recommends that AGTC stockholders tender their shares in the tender offer as the best alternative to the likely lack of cash available for distribution to stockholders in the event the company has no alternative but to pursue a bankruptcy case.
+Upon the successful completion of the tender offer, AGTC will merge with a newly established portfolio company of Syncona, and any remaining shares of common stock of AGTC that were not tendered in the tender offer will be canceled and converted into the rights received the same consideration payable in the tender offer. 
+I'll now turn the call back over to Sue for concluding remarks.
+
+--------------------------------------------------------------------------------
+Susan B. Washer,  Applied Genetic Technologies Corporation - President, CEO & Director    [6]
+--------------------------------------------------------------------------------
+Thank you, Jon. We are pleased to announce this transaction with Syncona, which has a passion and a deep commitment to bringing treatment solutions to patients in desperate need, as discussed by Chris today.
+The decision to accept this offer was not only in our belief that it is the best interest of stockholders but that Syncona will continue advancing our leading XLRP candidate and has the best chance of bringing that product to market as a treatment for patients that have been sought for years. 
+Since our inception, AGTC has been committed to developing therapies for patients living with serious inherited retinal diseases. Realizing that commitment has not always been easy, but it has remained our guiding principle.
+I and the rest of the AGTC's fleet leadership team agree with the Board's unanimous recommendation that this acquisition agreement is the best possible option for remaining true to this ideal. AGTC's Board of Directors unanimously recommend that AGTC stockholders tender their shares in the tender offer as the best alternative to the likely lack of cash available for distribution to stockholders in the event that the company has no alternative but to pursue a bankruptcy case.
+The cash and CVR payments are a significant premium to our current share price, providing stockholders with an opportunity to benefit from the longer-term potential of our XLRP program and other assets. It also ensures that stockholders will receive a cash distribution.
+We intend to provide additional information in the days and weeks ahead and look forward to sharing additional information with you as this transaction progresses.
+Thank you all for joining us on today's call.
+
+--------------------------------------------------------------------------------
+Operator    [7]
+--------------------------------------------------------------------------------
+Thank you, ladies and gentlemen. That concludes our conference for today. Thank you for your participation. You may now disconnect.
+
+
+
+
+
+
+
+--------------------------------------------------------------------------------
+Definitions
+--------------------------------------------------------------------------------
+PRELIMINARY TRANSCRIPT: "Preliminary Transcript" indicates that the 
+Transcript has been published in near real-time by an experienced 
+professional transcriber.  While the Preliminary Transcript is highly 
+accurate, it has not been edited to ensure the entire transcription 
+represents a verbatim report of the call.
+
+EDITED TRANSCRIPT: "Edited Transcript" indicates that a team of professional 
+editors have listened to the event a second time to confirm that the 
+content of the call has been transcribed accurately and in full.
+
+--------------------------------------------------------------------------------
+Disclaimer
+--------------------------------------------------------------------------------
+Refinitiv reserves the right to make changes to documents, content, or other 
+information on this web site without obligation to notify any person of 
+such changes.
+
+In the conference calls upon which Event Transcripts are based, companies 
+may make projections or other forward-looking statements regarding a variety 
+of items. Such forward-looking statements are based upon current 
+expectations and involve risks and uncertainties. Actual results may differ 
+materially from those stated in any forward-looking statement based on a 
+number of important factors and risks, which are more specifically 
+identified in the companies' most recent SEC filings. Although the companies 
+may indicate and believe that the assumptions underlying the forward-looking 
+statements are reasonable, any of the assumptions could prove inaccurate or 
+incorrect and, therefore, there can be no assurance that the results 
+contemplated in the forward-looking statements will be realized.
+
+THE INFORMATION CONTAINED IN EVENT TRANSCRIPTS IS A TEXTUAL REPRESENTATION
+OF THE APPLICABLE COMPANY'S CONFERENCE CALL AND WHILE EFFORTS ARE MADE TO
+PROVIDE AN ACCURATE TRANSCRIPTION, THERE MAY BE MATERIAL ERRORS, OMISSIONS,
+OR INACCURACIES IN THE REPORTING OF THE SUBSTANCE OF THE CONFERENCE CALLS.
+IN NO WAY DOES REFINITIV OR THE APPLICABLE COMPANY ASSUME ANY RESPONSIBILITY FOR ANY INVESTMENT OR OTHER
+DECISIONS MADE BASED UPON THE INFORMATION PROVIDED ON THIS WEB SITE OR IN
+ANY EVENT TRANSCRIPT. USERS ARE ADVISED TO REVIEW THE APPLICABLE COMPANY'S
+CONFERENCE CALL ITSELF AND THE APPLICABLE COMPANY'S SEC FILINGS BEFORE
+MAKING ANY INVESTMENT OR OTHER DECISIONS.
+--------------------------------------------------------------------------------
+Copyright 2023 Refinitiv. All Rights Reserved.
+--------------------------------------------------------------------------------

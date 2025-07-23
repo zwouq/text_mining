@@ -1,0 +1,355 @@
+
+
+Refinitiv StreetEvents Event Transcript
+E D I T E D   V E R S I O N
+
+Vifor Pharma AG to Discuss Acquisition of Sanifit Therapeutics and Inositec AG Call
+NOVEMBER 22, 2021 / 2:30PM GMT
+
+================================================================================
+Corporate Participants
+================================================================================
+
+ * Christoph Springer
+   Vifor Pharma Ltd. - Head of Global Business Development and Vice CEO of Vifor Fresenius Medical Care Renal Pharma Ltd
+ * Shah Abbas Hussain
+   Vifor Pharma AG - CEO
+
+================================================================================
+Conference Call Participiants
+================================================================================
+
+ * James Daniel Gordon
+   JPMorgan Chase & Co, Research Division - Senior Analyst
+ * Christian Glennie
+   Stifel, Nicolaus & Company, Incorporated, Research Division - Analyst
+ * Rosie Turner
+   Barclays Bank PLC, Research Division - Research Analyst
+
+================================================================================
+Presentation
+--------------------------------------------------------------------------------
+Operator    [1]
+--------------------------------------------------------------------------------
+
+          Good afternoon, ladies and gentlemen, and welcome to the Vifor Pharma Update Call on the acquisition of Sanifit Therapeutics and Inositec. (Operator Instructions) Now I'd like to hand over to Abbas Hussain, Chief Executive Officer. Please go ahead.
+
+--------------------------------------------------------------------------------
+Shah Abbas Hussain,  Vifor Pharma AG - CEO    [2]
+--------------------------------------------------------------------------------
+
+          Yes. Thanks very much, and thank you to everyone for joining this call on the back of the announcements that we've made today. It's been great, actually, over the last few weeks to actually meet many of you either at the sell-side meeting or even just last week at the Credit Suisse hosted meeting and I really get to hope to get to meet you all over the next few weeks and months ahead. 
+I'm joined for this call by Chris Springer, our Chief Strategy Officer; who will spend the time doing the double clicks in particular as it relates to the 2 deals and the assets that we have acquired. But I thought I might just take 5 minutes of your time to maybe put these deals into context as it relates to the overall strategy for Vifor as I see it. It's sort of 90 days into my time here. 
+The way I look at Vifor is essentially, we have 3 pillars to our business. The first is the Iron Franchise, which, as you know, is almost [1 billion] franchise these days, which has strong growth rates, very, very high market shares and actually has a great deal of future potential still to go, particularly as it relates to the existing indications, whether that's heart failure or PBM, but also some of the geographic expansion that we're doing into markets such as China, Brazil and Latin America. 
+But also increasingly, we see a massive opportunity in the heart failure space, initially, of course, in Europe with the European guidelines, but increasingly so, once we get regulatory approvals in the U.S. The second area is dialysis where obviously, we have a very strong relationship with our partner, Fresenius Medical Care. This has obviously been challenged from an Easter perspective of late as a consequence of the unfortunate excess mortality in the dialysis setting as related to COVID. But clearly, as this washes out, we fully expect the ESA portfolio to start to return back to historical epidemiological growth rates. 
+And also in that portfolio, we have Velphoro, where both in the U.S. and Japan, we continue to get very, very strong performance. And in the dialysis setting, we will be introducing, as you know, later this year, Korsuva for pruritus once we have secured pricing and reimbursement. And we hear about better late March next year as well. 
+And Sanifit 472 initially, of course, was CUA but in the future for PAD, firmly fits into this segment and to this pillar of business. The great thing with the announcement of these 2 deals is not only do we have an accelerator, if you like, for the dialysis space, but with the deal that we've also done within Inositec. It allows us to then expand those very same indications outside of the dialysis setting and into the pure nephrology space, where we're also starting to build a very, very strong portfolio with Veltassa our hyperkalemia product and with the approval of TAVNEOS and also we will be launching Rayaldee early next year. 
+The other interesting aspect of the CUA piece, at least as it relates to Sanifit is you start to see a nice build with Avacopan, Sparsentan and Sanifit and CUA of a capability that relates to rare diseases in the nephrology space, which is something I think we might even look to exploit further as we go forward.
+Next slide, please. The other great thing about this deal is it starts to fill a couple of gaps that we had in our pipeline, both in the early-stage pipeline and the mid-stage pipeline. And you can see from this chart, that we have a very, what I would call, a very nice fill and flow aspect now to the pipeline in terms of products that are either approved, recently approved and/or potentially about to be approved or moved through the phases, Phase I to II or Phase II to III, which obviously secures us from a perspective, the second half of the decade where the nephrology pivot becomes a much stronger contribution to the growth of the company.  
+So with that, I'm going to hand over to Chris Springer, who will take you into some of the detailed views on the 2 acquisitions today.
+
+--------------------------------------------------------------------------------
+Christoph Springer,  Vifor Pharma Ltd. - Head of Global Business Development and Vice CEO of Vifor Fresenius Medical Care Renal Pharma Ltd    [3]
+--------------------------------------------------------------------------------
+
+          Thank you, Abbas. And let's go to the next slide. This slide illustrates the pipeline a little bit from a different angle. Well, in essence, it really tells the story that with the license that we obtained back in 2015 from Roche for Mircera, we really started to build up our nephrology presence leveraging our strong partnership with Fresenius Medical Care in dialysis. Since then, we have added 8 innovative assets to our pipeline at various stages of development. Some of them, as Abbas just mentioned, have matured and are close to launch. 
+So we're looking forward to launch 3 assets, Rayaldee, Korsuva and TAVNEOS in next year. And obviously, we will hear in end of March next year from FDA on Vadadustat and provided it gets approved. So it's a fourth product that we can launch, which means our pipeline has over the years now aged and we basically have a very derisked pipeline, which also means we needed to fill earlier-stage assets so that we can also as of mid of the decade, towards the end of the decade, launched some products. 
+To this end, we have obtained earlier this year a license for Sparsentan from Travere. This is an asset that is in late-stage development. We had some interim results particularly from -- for IgAN, where the product has really shown quite some interesting features, a reduction of proteinuria of 50% was really above the expectations. And so we're looking forward to submit for at least conditional approval during next year's Sparsentan in FSGS and IgAN. 
+But so let's turn to the 2 assets that we acquired with the acquisitions of Sanifit and in Inositec that we just announced today. Those assets are addressing calcification in kidney patients.
+Kidney patients calcified by far faster actually 4x faster than healthy normal. And as a consequence, they basically have roughly a 10x higher calcification of their vessels, and that leads to even [20% to 30%] for higher risk for cardiovascular disease. So this is really unmet need in this population. There is no real therapy addressing calcification in kidney patients. 
+And with SNF472, we have an asset in dialysis that addresses firstly with Calciphylaxis and very, very aggressive form of calcification. Patients typically have a 50% mortality rate over the first 12 months after diagnosis, and there is really nothing that is able to treat this condition. There was a very successful Phase II study and currently, the development of the asset in Calciphylaxis is in Phase III, almost 3/4 of the patients are recruited into that trial. We are expecting to have -- to file in the course of '23 and hopefully can bring that assets to those patients in need in '24.
+Roughly 10,000 patients between the U.S. and Europe are suffering from this disease and its highly specialized in dialysis. So it's spot on with our collaboration with Fresenius. There is a second indication that we're pursuing with the same asset. It's called peripheral artery disease and again and disease that affects dialysis patients, but also patients with kidney disease pre-dialysis. Pre-dialysis, it's roughly 100,000 patients that are affected. It's again an unmet need typically as a consequence of peripheral artery disease so patients can really immobilized, limb amputations are the consequence. So again, a very severe condition for which there is currently no known treatment options.  
+So that is the target for our assets that we acquired from Sanifit SNF472. But even outside of dialysis study, there is an enormous need for patients to address their rapid progression of their calcification that starts in those patients as early as Stage I kidney disease. This asset is much earlier in each life cycle. It's basically just reached the IND-enabling Phase II, Phase I is imminent. We're basically looking forward to dose the first patient in Phase I very, very soon as we speak. There are a couple of different indications that we can progress for a few here. Of course, there is a potential to address the same disease, peripheral artery disease in the non-dialysis population. This is roughly affecting 1 million patients between the U.S. and Europe. So it's a larger population. 
+And obviously, the earlier we can address this disease, the calcification that the more promising is for patients not to progress to the end stage that they have in dialysis. But there is other opportunities with that assets such as (inaudible) growth stenosis, which affects roughly 1 million patients as well. Currently, there is the only option to address this with surgery, which in this vulnerable population has its own risks. 
+And so bringing the first therapeutic assets in this market that certainly also very, very important new unmet need that we're addressing. But there is other areas we have to think of to develop this accessing. We all know that the maturation of fistula in CKD patients preparing them for dialysis is a challenge and is affected by calcification as well.  
+So there is a pipeline in the drop here that we can address all basically addressing a high unmet need in kidney patients, which is calcification.  
+Before going to the next slide, you can see here a little bit how those 2 assets fit together in our pipeline with SNF472 clearly. In a late stage development this Calciphylaxis followed by peripheral artery disease and then obviously moving towards the end of the decade into the ND-CKD population with the Inositec (inaudible) INS-3001 and clearly showing that with those 2 assets, we can really build here at Vifor a complete portfolio addressing calcification in these populations.  
+And with that, I think, I'm giving back to the moderator.
+
+--------------------------------------------------------------------------------
+Shah Abbas Hussain,  Vifor Pharma AG - CEO    [4]
+--------------------------------------------------------------------------------
+
+          Yes. Thanks, Chris. Then we'll move -- pretty move to questions now.
+
+
+================================================================================
+Questions and Answers
+--------------------------------------------------------------------------------
+Operator    [1]
+--------------------------------------------------------------------------------
+
+          (Operator Instructions) 
+Your first question comes from the line of Christian Glennie from Stifel.
+
+--------------------------------------------------------------------------------
+Christian Glennie,  Stifel, Nicolaus & Company, Incorporated, Research Division - Analyst    [2]
+--------------------------------------------------------------------------------
+
+          So I guess the first 1 on the Sanifit asset and particularly in CUA, just to get a bit more of a sense for the ongoing Phase III and the endpoints, the dosing regimen and things as it relates to the Phase II data, how much of it is a sort of a repeat just essentially a repeat of that Phase II, but in a larger patient population? And then just on the timing, I know you mentioned 3 quarters the patients recruited, but depending on the cadence of that recruitment rate, what's the expectation of actually seeing that headline data? That's the first question.
+
+--------------------------------------------------------------------------------
+Shah Abbas Hussain,  Vifor Pharma AG - CEO    [3]
+--------------------------------------------------------------------------------
+
+          Chris, do you want to take that?
+
+--------------------------------------------------------------------------------
+Christoph Springer,  Vifor Pharma Ltd. - Head of Global Business Development and Vice CEO of Vifor Fresenius Medical Care Renal Pharma Ltd    [4]
+--------------------------------------------------------------------------------
+
+          Sure. Okay. So thank you for this question. And the first part of the question, the design of the Phase III is slightly modified from the design of the Phase II. Obviously, it's the same patient population, but the endpoints were slightly changed; pain, obviously, is a key element in this population, and we're looking at the reduction of pain, which we have nicely seen in the Phase II. But our secondary endpoints, we're also looking at wound healing, which clearly was very successful in Phase II. At the same time, the time point at which we're looking at, has slightly changed, where obviously we had to allow the room to heal further. But in essence, it's the same protocol, but we have changed the endpoints.
+Now for timing, we have, as I indicated, recruited 3/4 of the patients. Now based on the time lines and the projections, we basically are ahead. We basically had the projection that at the point now, we would have 2/3, so we slightly ahead in recruitment. And that makes us confident that during the course of '23, we will be able to file for that indication, both in Europe as well as in U.S.
+
+--------------------------------------------------------------------------------
+Christian Glennie,  Stifel, Nicolaus & Company, Incorporated, Research Division - Analyst    [5]
+--------------------------------------------------------------------------------
+
+          Okay. So data at some point in the second half of next year of '22? .
+
+--------------------------------------------------------------------------------
+Shah Abbas Hussain,  Vifor Pharma AG - CEO    [6]
+--------------------------------------------------------------------------------
+
+          Yes, that's right, Christian.
+
+--------------------------------------------------------------------------------
+Christian Glennie,  Stifel, Nicolaus & Company, Incorporated, Research Division - Analyst    [7]
+--------------------------------------------------------------------------------
+
+          Yes. Okay. And then if I can, on the PAD side. Could you explain a little bit more about the prior Phase II, there were some hits on some endpoints and then somewhere they didn't quite hit just to understand the sort of relative importance of the endpoints that we used in the Phase II. 
+And then as it relates to Phase III, is that going to have to be looking at some more sort of cardiovascular event outcomes metrics in that Phase III, more than maybe what previously more sort of surrogate looking endpoint?
+
+--------------------------------------------------------------------------------
+Christoph Springer,  Vifor Pharma Ltd. - Head of Global Business Development and Vice CEO of Vifor Fresenius Medical Care Renal Pharma Ltd    [8]
+--------------------------------------------------------------------------------
+
+          Yes, I'll take that one as well. So I guess you're referring to the Calypso study, which was a Phase II study, looking at calcification in general in adolescents population. If you recollect correctly, several quite some positive and significant results in reducing the calcification of the calcium load in coronary arteries as well as in the heart valves.  The results were not that clear when it came to thoracic or towards arteria. 
+Now there is some explanations had a thoracic arteria in this patient pool was very, very heavily calcified to start with. And so showing a delta in this stage was not that easy. There were also some issues with analyzing the data. 
+So the data was by far easier to analyze in the cardiac arteries as well as at the valves. Now when we look at the mode of action in PAD then those vessels more [prologically] and physiologically are more like the coronary arteries. And hence, I think it's a very good model to use for PAD indication. The -- what we have, basically, we have some preclinical data in multianimal models for PAD where we're very, very positive data. We have some observational results out of PAD patients. And all that basically supports that we have a very good model for PAD moving forward.
+
+--------------------------------------------------------------------------------
+Shah Abbas Hussain,  Vifor Pharma AG - CEO    [9]
+--------------------------------------------------------------------------------
+
+          And Chris, you see, there's another part to the question as to whether we're going for a cardiac outcomes or?
+
+--------------------------------------------------------------------------------
+Christoph Springer,  Vifor Pharma Ltd. - Head of Global Business Development and Vice CEO of Vifor Fresenius Medical Care Renal Pharma Ltd    [10]
+--------------------------------------------------------------------------------
+
+          So we basically have agreed with FDA on the protocol and the result is that primary endpoint will be on six-minute walk test, which is kind of the cardiovascular outcome data.
+
+--------------------------------------------------------------------------------
+Christian Glennie,  Stifel, Nicolaus & Company, Incorporated, Research Division - Analyst    [11]
+--------------------------------------------------------------------------------
+
+          Sorry, say that again, I've didn't quite catch that. The primary endpoint...
+
+--------------------------------------------------------------------------------
+Christoph Springer,  Vifor Pharma Ltd. - Head of Global Business Development and Vice CEO of Vifor Fresenius Medical Care Renal Pharma Ltd    [12]
+--------------------------------------------------------------------------------
+
+          Standpoint is the distance in six-minute walking test.
+
+--------------------------------------------------------------------------------
+Christian Glennie,  Stifel, Nicolaus & Company, Incorporated, Research Division - Analyst    [13]
+--------------------------------------------------------------------------------
+
+          Okay, yes.
+
+--------------------------------------------------------------------------------
+Christoph Springer,  Vifor Pharma Ltd. - Head of Global Business Development and Vice CEO of Vifor Fresenius Medical Care Renal Pharma Ltd    [14]
+--------------------------------------------------------------------------------
+
+          And I mean this is a population that is severely impacted in their mobility. And so that endpoint is really meaningful for those patients.
+
+--------------------------------------------------------------------------------
+Christian Glennie,  Stifel, Nicolaus & Company, Incorporated, Research Division - Analyst    [15]
+--------------------------------------------------------------------------------
+
+          Okay. Is just an agreed protocol, maybe not of SBA as such, but an agreed protocol.
+
+--------------------------------------------------------------------------------
+Christoph Springer,  Vifor Pharma Ltd. - Head of Global Business Development and Vice CEO of Vifor Fresenius Medical Care Renal Pharma Ltd    [16]
+--------------------------------------------------------------------------------
+
+          Yes. So FDA agreed to the endpoint and to the study design.
+
+--------------------------------------------------------------------------------
+Operator    [17]
+--------------------------------------------------------------------------------
+
+          Your next question comes from the line of James Gordon from JPMorgan.
+
+--------------------------------------------------------------------------------
+James Daniel Gordon,  JPMorgan Chase & Co, Research Division - Senior Analyst    [18]
+--------------------------------------------------------------------------------
+
+          James Gordon, JPMorgan. First question was just about cost. Can you talk about what the incremental OpEx could be from the 2 products in '22 and '23? 
+So how big would these trials be in terms of patients and cost per patient? How do you think about the incremental R&D expense? I know you're taking on much extra sort of central cost or SG&A with this deal? And would that largely be offset by cost savings? That's the first question, please. 
+And the second question was about pricing. So CUA is often whereas PAD is more common. So how would this work? If they both work, do you start with a high price and then potentially reduce the price when you're going after a bigger volume opportunity? How should we think about that, please?
+
+--------------------------------------------------------------------------------
+Christoph Springer,  Vifor Pharma Ltd. - Head of Global Business Development and Vice CEO of Vifor Fresenius Medical Care Renal Pharma Ltd    [19]
+--------------------------------------------------------------------------------
+
+          So thank you, James, for those questions. Let me start first with your question on pricing. I mean, naturally, as we are well progressed with the Calciphylaxis indication, that will be the first to file and to market, which will then follow -- be followed by PAD. 
+Now -- yes, Calciphylaxis is, I would call even ultrarare, but even for PAD in dialysis we're talking about the rare disease. For both indications, both in Europe and in the U.S., we do have obtained orphan, orphan designation. Now you can think about the price point starting in CUA in the U.S., roughly what we're used to in those ultra-orphan diseases, and it might then drop when we're going into PAD, but not significantly as both are high unmet needs with the high burden to the system and also for the patients. So that should give you a little bit to thinking we have on pricing.
+
+--------------------------------------------------------------------------------
+Shah Abbas Hussain,  Vifor Pharma AG - CEO    [20]
+--------------------------------------------------------------------------------
+
+          And sorry, just to comment in Europe. Obviously, in Europe, as you know, typically in most markets, as you do increase the patient numbers, there is a negotiate to be had with most authorities around price. So a; the price point will be different to the U.S. one and b; as you increase your volumes, there would be a discount to the initial CUA price. 
+And Chris, and then?
+
+--------------------------------------------------------------------------------
+Christoph Springer,  Vifor Pharma Ltd. - Head of Global Business Development and Vice CEO of Vifor Fresenius Medical Care Renal Pharma Ltd    [21]
+--------------------------------------------------------------------------------
+
+          So your second question was related to the investments in clinical trials. There, obviously, you can think of that it's both trials in CUA as well as in PAD or trials was roughly between 250, 350 patients. That's the size of that study. Now obviously, there are synergies that we're having leveraging the patient pool at Fresenius. Here, we're really talking about patients, who are recruiting in the volatile setting, where we can certainly accelerate that recruitment and through that, obviously, the duration of trials and also the cost. 
+But that's the ballpark for those 2 trials. And then for Inositec, we're just entering Phase II, so you need to stay at Phase I. So you need to think about minimal costs for a Phase I. And in the course of next year, basically design and then obviously we'll keep up the Phase II, which is similar size at the moment sort of like the one that I was sharing. So it's basically at the end and in the midterm, three trials that are running with roughly 250 to 300 patients.
+
+--------------------------------------------------------------------------------
+Shah Abbas Hussain,  Vifor Pharma AG - CEO    [22]
+--------------------------------------------------------------------------------
+
+          Did that answer your questions, James?
+
+--------------------------------------------------------------------------------
+James Daniel Gordon,  JPMorgan Chase & Co, Research Division - Senior Analyst    [23]
+--------------------------------------------------------------------------------
+
+          Yes. And maybe just a quick follow-up. Is it just a case of extra R&D? Or does there any extra central cost will you take over any researches? Are they just individual products you've licensed or other people coming over with fixed cost attached?
+
+--------------------------------------------------------------------------------
+Christoph Springer,  Vifor Pharma Ltd. - Head of Global Business Development and Vice CEO of Vifor Fresenius Medical Care Renal Pharma Ltd    [24]
+--------------------------------------------------------------------------------
+
+          So in the case of Inositec, it plays a clear team of 2 people for which we basically ensure that they stay on for period that we can hand over all the know-how. 
+When it comes to Sanifit, it's roughly a team of 20 people. Some of them, we certainly will need to run those programs because they are in the middle of being executed. So we're talking about keeping the people involved in CMC, people involved in supply chain, the early-stage development as well as the clinical people running physically those studies in order that we're not delaying or interrupting the course of those ongoing studies.
+
+--------------------------------------------------------------------------------
+Shah Abbas Hussain,  Vifor Pharma AG - CEO    [25]
+--------------------------------------------------------------------------------
+
+          And James, some of these costs are not additional because we've identified this area as a little bit of a bottleneck and -- So in fact, by doing this, we actually help fill some of that capacity. And importantly as well, we retain the capabilities that these people bring.
+
+--------------------------------------------------------------------------------
+Operator    [26]
+--------------------------------------------------------------------------------
+
+          Your next question comes from the line of Rosie Turner from Barclays.
+
+--------------------------------------------------------------------------------
+Rosie Turner,  Barclays Bank PLC, Research Division - Research Analyst    [27]
+--------------------------------------------------------------------------------
+
+          Just a couple, if I may. Just going back to PAD, it does look like there are a few other companies considering this disease. 
+And I guess what you're saying it's still kind of a lot more size what I say than others. But is that -- if that's not in kidney disease? Is that why this is a kind of first-in-class drug and I guess, is there any potential that you may face competition there? And then just trying to understand on our clinicaltrials.gov, and it says that you will have a Phase III reading out for Sanifit in March 2022 is that just something that is misrepresented on that?
+
+--------------------------------------------------------------------------------
+Shah Abbas Hussain,  Vifor Pharma AG - CEO    [28]
+--------------------------------------------------------------------------------
+
+          Yes, Rosie, maybe I'll take the first bit and have Chris do the second piece. And I think Chris tapped in on this, particularly with the Sanifit asset in PAD, I think the great advantage here is -- well, firstly, where it is and the data that we already have on the medicine. But I think the ability with our partner, Fresenius, to really accelerate the studies in the dialysis setting because of the captive patient group that they have, and we've done this in the past, as you probably are aware, either with Velphoro when we did a study with them and also the option -- and adoption of Mircera when we introduced that product into the dialysis setting. 
+So -- So I think whilst there may be competition which Chris can talk about, I think we do have a very significant advantage here in terms of speed to market and availability of patients as well. And then maybe also the trial in the government.org.
+Chris, do you want to comment that?
+
+--------------------------------------------------------------------------------
+Christoph Springer,  Vifor Pharma Ltd. - Head of Global Business Development and Vice CEO of Vifor Fresenius Medical Care Renal Pharma Ltd    [29]
+--------------------------------------------------------------------------------
+
+          So on your question on the competition in the field, PAD obviously has many different parts of physiology, particularly also connected to cardiovascular disease. while in the CKD population and the kidney population, it's less driven by lipids and really more driven by calcium and the distorted mineral and bone disease. And therefore, what is there at the moment this is addressing the lipid part and is addressing some lipid-lowering drugs that could address PAD in a population that is less and the CKD population. 
+When it comes to CKD, we really think that there are not aware of any development compounds at currently. So it's obviously, I ask, on the Inositec and Sanifit, we now have a complete portfolio addressing this very specific calcium-driven PAD in this population. 
+Now to the trials of gov-fund, I'm not sure what you're referring to, but if it could well be that it's meant that in March, we should have basically completed the recruitment of patients into that Phase III, but that's basically the plan. And we're well on track to achieve that based on what I have said. I was not aware that we were planning to end the trial in March next year.
+
+--------------------------------------------------------------------------------
+Operator    [30]
+--------------------------------------------------------------------------------
+
+          Your next question comes from the line of Christian Glennie from Stifel.
+
+--------------------------------------------------------------------------------
+Christian Glennie,  Stifel, Nicolaus & Company, Incorporated, Research Division - Analyst    [31]
+--------------------------------------------------------------------------------
+
+          Just a quick couple of ones. Firstly, on the Sanifit asset and the expected patent life, I'm not sure how long it's been development or what's the patent situation there maybe with patent term extensions.  What's the estimate there? And then is this a -- obviously, this is a Vifor deal,but just how much did maybe FMC get involved with assessing and validating the asset?
+
+--------------------------------------------------------------------------------
+Christoph Springer,  Vifor Pharma Ltd. - Head of Global Business Development and Vice CEO of Vifor Fresenius Medical Care Renal Pharma Ltd    [32]
+--------------------------------------------------------------------------------
+
+          So when it comes to the protection, we basically have a portfolio of IP and obviously orphan designations that should lead to around [35] for that asset.
+And of course, we are leveraging our expert -- the expertise of Fresenius whenever we are looking at assets, we're bringing in the specialist from the nephrology network of Fresenius. And so of course, they have helped us validate the clinical as well as the unmet need and the data so far. So that is what we're leveraging, and I think that's all -- that's the benefit we're getting out of that collaboration. 
+As you have seen in the past typically, Fresenius is not stepping indirectly in those transactions, but has an option to step in later.
+
+--------------------------------------------------------------------------------
+Operator    [33]
+--------------------------------------------------------------------------------
+
+          Okay. There are no more questions in the queue. Please, go ahead.
+
+--------------------------------------------------------------------------------
+Shah Abbas Hussain,  Vifor Pharma AG - CEO    [34]
+--------------------------------------------------------------------------------
+
+          Yes. So thanks very much for joining us. Chris and I plan certainly to be out and about and meeting with all of you and giving a lot more flavor, not only around these 2 new deals, but I think in more greatly the overall strategy and the opportunities in the 3 pillars that I've talked about of the business going forward. I really appreciate your time and look forward to meeting you live. Thanks.
+
+--------------------------------------------------------------------------------
+Operator    [35]
+--------------------------------------------------------------------------------
+
+          This concludes today's call. You may now disconnect. Have a good day.
+
+
+
+
+
+
+
+--------------------------------------------------------------------------------
+Definitions
+--------------------------------------------------------------------------------
+PRELIMINARY TRANSCRIPT: "Preliminary Transcript" indicates that the 
+Transcript has been published in near real-time by an experienced 
+professional transcriber.  While the Preliminary Transcript is highly 
+accurate, it has not been edited to ensure the entire transcription 
+represents a verbatim report of the call.
+
+EDITED TRANSCRIPT: "Edited Transcript" indicates that a team of professional 
+editors have listened to the event a second time to confirm that the 
+content of the call has been transcribed accurately and in full.
+
+--------------------------------------------------------------------------------
+Disclaimer
+--------------------------------------------------------------------------------
+Refinitiv reserves the right to make changes to documents, content, or other 
+information on this web site without obligation to notify any person of 
+such changes.
+
+In the conference calls upon which Event Transcripts are based, companies 
+may make projections or other forward-looking statements regarding a variety 
+of items. Such forward-looking statements are based upon current 
+expectations and involve risks and uncertainties. Actual results may differ 
+materially from those stated in any forward-looking statement based on a 
+number of important factors and risks, which are more specifically 
+identified in the companies' most recent SEC filings. Although the companies 
+may indicate and believe that the assumptions underlying the forward-looking 
+statements are reasonable, any of the assumptions could prove inaccurate or 
+incorrect and, therefore, there can be no assurance that the results 
+contemplated in the forward-looking statements will be realized.
+
+THE INFORMATION CONTAINED IN EVENT TRANSCRIPTS IS A TEXTUAL REPRESENTATION
+OF THE APPLICABLE COMPANY'S CONFERENCE CALL AND WHILE EFFORTS ARE MADE TO
+PROVIDE AN ACCURATE TRANSCRIPTION, THERE MAY BE MATERIAL ERRORS, OMISSIONS,
+OR INACCURACIES IN THE REPORTING OF THE SUBSTANCE OF THE CONFERENCE CALLS.
+IN NO WAY DOES REFINITIV OR THE APPLICABLE COMPANY ASSUME ANY RESPONSIBILITY FOR ANY INVESTMENT OR OTHER
+DECISIONS MADE BASED UPON THE INFORMATION PROVIDED ON THIS WEB SITE OR IN
+ANY EVENT TRANSCRIPT. USERS ARE ADVISED TO REVIEW THE APPLICABLE COMPANY'S
+CONFERENCE CALL ITSELF AND THE APPLICABLE COMPANY'S SEC FILINGS BEFORE
+MAKING ANY INVESTMENT OR OTHER DECISIONS.
+--------------------------------------------------------------------------------
+Copyright 2021 Refinitiv. All Rights Reserved.
+--------------------------------------------------------------------------------

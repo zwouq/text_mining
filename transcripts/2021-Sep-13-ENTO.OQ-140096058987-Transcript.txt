@@ -1,0 +1,291 @@
+
+
+Refinitiv StreetEvents Event Transcript
+E D I T E D   V E R S I O N
+
+AzurRx BioPharma Inc Acquisition of First Wave Bio M&amp;A Call
+SEPTEMBER 13, 2021 / 12:30PM GMT
+
+================================================================================
+Corporate Participants
+================================================================================
+
+ * James Pennington
+   AzurRx BioPharma, Inc. - CMO
+ * James Sapirstein
+   AzurRx BioPharma, Inc. - Chairman, CEO, President
+ * Jason Rando
+   Tiberend Strategic Advisors, Inc. - Investor Relations
+
+================================================================================
+Conference Call Participiants
+================================================================================
+
+ * Naz Rahman
+   Maxim Group LLC - Analyst
+ * Jonathan Aschoff
+   ROTH Capital Partners, LLC - Analyst
+
+================================================================================
+Presentation
+--------------------------------------------------------------------------------
+Operator    [1]
+--------------------------------------------------------------------------------
+Good day and thank you for standing by.  Welcome to the AzurRx BioPharma webcast and conference call.
+(Operator Instructions)
+I would now like to hand the conference over to your speaker today, Jason Rando, with Tiberend Strategic Advisers.  Thank you and please go ahead.
+
+--------------------------------------------------------------------------------
+Jason Rando,  Tiberend Strategic Advisors, Inc. - Investor Relations    [2]
+--------------------------------------------------------------------------------
+Good morning and thank you everyone for joining today's call to discuss AzurRx BioPharma's acquisition of First Wave Bio and the renaming of the company to First Wave BioPharma.
+Before we begin, I would like to remind our listeners that remarks made during this call may contain forward-looking statements that involve risks and uncertainties and are subject to change at any time, including but not limited to statements about as AzurRx's expectations regarding future operating results.  Forward-looking statements are made pursuant to the Safe Harbor provisions of the Federal Securities Laws and represent management's current expectations.  Actual results may differ materially.
+AzurRx disclaims any obligation to update or revise its forward-looking statements except as required by law.  More complete information regarding forward-looking statements, risks, and uncertainties can be found in the reports AzurRx files with the SEC, which are available on both www.azurrx.com and now www.firstwavebio.com under the investors section.  We encourage you to review these documents carefully.
+Speaking on today's call will be James Sapirstein, Chairman, CEO, and President of AzurRx, now First Wave BioPharma and Dr. James Pennington, Chief Medical Officer.  Following their remarks, we'll open the call to questions.
+With that, it is my pleasure to introduce James Sapirstein.
+
+--------------------------------------------------------------------------------
+James Sapirstein,  AzurRx BioPharma, Inc. - Chairman, CEO, President    [3]
+--------------------------------------------------------------------------------
+Good morning.  As I address the First Wave BioPharma shareholders for the first time, great excitement and enthusiasm that we announced this morning our merger of AzurRx BioPharma and First Wave Bio and we are now called First Wave BioPharma.  We are a clinical stage biotechnology company developing gut -- novel gut targeted small molecules for inflammatory bowel disease and serious gastrointestinal conditions.
+The company will now be trading under a new ticker symbol, FWBI, which will be effective approximately on or about September 23rd.  This series of events represents a transformative moment for our company as well as weeks of hard work and dedication of many talented people.
+I am proud to take this opportunity to discuss the company's mission and what we believe we can achieve in the future.  We've been looking at this opportunity for a very long time.  So, despite the new name, the mission of First Wave BioPharma has not changed.  We remain committed to developing a new wave of targeted non-systemic therapies in GI space, which will improve treatment options and restore the quality of life of millions of patients, and by doing so generate further value for our shareholders.
+We now have several shots on goal.  We are pursuing to have literally double the number.  We're advancing a pipeline built around two gut-restricted GI technologies; niclosamide, which is a small molecule with antiviral and anti-inflammatory properties and adrulipase, a recombinant lipase enzyme designed to help with the digestion of fats and other nutrients.  As you might recall, adrulipase was formerly known as MS1819.
+In total, we have developed several clinical stage programs that will span six gastrointestinal indications, including Crohn's Disease, Crohn's disease and ulcerative colitis, also with proctitis, COVID-19 related GI infections, immune checkpoint inhibitor colitis, and several other digestive disorders including exocrine pancreatic insufficiency in patients with cystic fibrosis and chronic pancreatitis.
+At its core, the merger with First Wave Bio is driven by the immense opportunity that we see for niclosamide in inflammatory bowel disease, which is a multibillion dollar commercial market.  We now wholly own all the rights to First Wave Bio's proprietary formulations on niclosamide, a technology whose potential we have valued for quite some time.
+Back in 2021, we in-licensed The First Wave Bio assets of niclosamide FW-1022, a treatment for COVID-19 related GI infections and SW-420, a treatment for checkpoint inhibitor colitis, a condition that affects cancer patients that are receiving treatment with specific types of immunotherapy.
+We've seen some impressive data for First Wave Bio's ongoing clinical trial for niclosamide in ulcerative proctitis and that really convinced us of the drug's broader potential in multiple IBD indications, which includes Crohn's Disease and ulcerative colitis, all with very large and growing patient populations.
+Based on this potential, we started our negotiations to acquire the company and we're pleased to reach a cash attractive transaction valued at over $200 million.  We will be disclosing in an 8-K the specifics of this transaction.
+With the completion of this merger and acquisition, our internal pipeline now includes three niclosamide formulations, which we will rename as FW-UP, FW-UC, and FW-CD.  I can't overestimate or overstate the potential opportunities with these new assets and indications, which could afford First Wave BioPharma.
+Last year alone, there were estimated 825,000 UC diagnoses and 625,000 Crohn's Disease diagnoses.  These numbers are expected to increase to 850,000 and 810,000 by 2026, respectively.
+Yet, despite the growing patient populations, there has been very little recent innovation to address the growing need, especially treatments for patients with these mild to moderate diseases.  We hope to be able to provide an oral formulation for these folks which will lead them to a much more productive life.
+We believe our new niclosamide formulations provide a new paradigm with significant advantages over other currently available treatments, much of it -- many of them are anti-inflammatories or injectable anti-inflammatories or injectable products which can be expensive and also administered with needles.  So, we expect that the oral formulations that we're designing where these patients need some care in the mild to moderate area will be significantly meet patients' unmet needs.
+The months to come will be busy for First Wave Bio as we advance towards several clinical and regulatory milestones.  By the end of 2021, we expect to have three clinical programs for niclosamide in Phase 2 trials; the RESERVOIR trial, which is our Phase 2 study evaluating the utility of FW-COV in patients with COVID-19.  We recently had an announcement on that that our DMC is allowing us to go into the second part of the protocol.
+We just filed an IND for our checkpoint inhibitor colitis product.  And then through this acquisition, we're acquiring a Phase 2 study for FW-UP in ulcerative proctitis.  So, that along with our programs with adrulipase, we have several programs already in Phase 2.  As you may recall, we reported top line data in two Phase 2 studies earlier this year for ADRULIPASE-1 in our monotherapy trial and a second recently in August in our combination trial.
+The combination trial clearly was a success for us.  We showed data that had clinical meaningful improvement of the coefficient of fat absorption, the CFA.  We are continuing to work on a new formulation for adrulipase, which we hope will bring even better results forward.  We hope to be able to evaluate this formulation by midyear or earlier in 2022.
+The key to our adrulipase program is our belief that the drug offers key advantages over PERT and has the potential to replace it as standard of care.  EPI is an enzyme deficiency that makes it difficult for patients to digest fat and nutrients needed to maintain healthy weight, healthy growth, and in the case of cystic fibrosis patients, good lung function.  In the U.S. alone, the EPI market is worth well over $1.4 billion and is populated by more than 30,000 cystic fibrosis patients as well as 90,000 chronic pancreatitis patients.
+As we've stated several times, the PERT medications that are on the market are made from crushed pig pancreases from pigs, which represents manufacturing challenges.  There's been shortages throughout the years.  We are not.  We're made from yeast cells and we will not have that kind of problem specific to animal antigenicity as well.
+We continue to believe that adrulipase has strong potential with the ability to attract partnership opportunities and licensing interests from big pharma.  So, as we look forward, our outlook for First Wave BioPharma is extremely exciting for all of us.  As a team, we're excited to take on new compounds and move the company forward.
+At this point in time, I will stop to see if there are any questions.
+
+
+================================================================================
+Questions and Answers
+--------------------------------------------------------------------------------
+Operator    [1]
+--------------------------------------------------------------------------------
+At this time, we would like to take any questions you might have for us today.  (Operator Instructions).  We'll pause for a moment to compile the Q&A list.  This will only take a few moments.
+We have our first question, comes from the line of Jonathan Aschoff from ROTH Capital Partners.  Your line is open.  Please go ahead.
+
+--------------------------------------------------------------------------------
+Jonathan Aschoff,  ROTH Capital Partners, LLC - Analyst    [2]
+--------------------------------------------------------------------------------
+Thank you.  James, congrats on the acquisition.  And my first question is, given that the proprietary value of First Wave is in the formulation rather than the API, can you give us a little more detail about what gives you confidence in the uniqueness and strength of First Wave's formulation IP portfolio?  And I asked just because a few institutions and a couple other companies are also doing trials with oral niclosamide.
+
+--------------------------------------------------------------------------------
+James Sapirstein,  AzurRx BioPharma, Inc. - Chairman, CEO, President    [3]
+--------------------------------------------------------------------------------
+Thanks, Jonathan.  That's an important question.  Well, our proprietary version, by the way that we have some terrific pan coverage with, is a micronized version of niclosamide, so a little different than what's out there.
+For instance, in the other formulations in order to get an effect, because it's a non-systemic product, you have to dose it so that you get about 60-plus micrograms of drug alone across the gut.  Our micronized version is a little less than seven micrograms, but it allows for a larger distribution through the GI tract.  So, you can give far less of our drug in order to get the same effect.
+Therefore, by giving a normal dosage, we can actually maximize our effect in this area.  So, when tested, for instance, against remdesivir, we showed an 80-fold increase in activity versus COVID, for example, and we believe that micronization, while giving stronger opportunity for efficacy, also does not increase any problems in safety at all.
+So, I can tell you, even in our COVID trial, while we were able to go to face the second part of the protocol, is because the DNC found no safety issues and allowed us to move forward.  So, even at a -- this micronization allows us to go in with a higher dose of niclosamide, we're seeing a strong effect with no impact on safety.
+Jim Pennington's on the phone.  So, I'm not sure if he wants to add to that.
+
+--------------------------------------------------------------------------------
+James Pennington,  AzurRx BioPharma, Inc. - CMO    [4]
+--------------------------------------------------------------------------------
+That's a perfect description.  Thank you.
+
+--------------------------------------------------------------------------------
+Jonathan Aschoff,  ROTH Capital Partners, LLC - Analyst    [5]
+--------------------------------------------------------------------------------
+Okay.  So, my last question is, what role did the TFF PTO with union play in determining the value of this transaction?
+
+--------------------------------------------------------------------------------
+James Sapirstein,  AzurRx BioPharma, Inc. - Chairman, CEO, President    [6]
+--------------------------------------------------------------------------------
+Yes.  Well, so interestingly enough, it had a big role.  Just to give you some backroom play, we had been talking to First Wave for a very long time even before the COVID pandemic.  And then, the Institut of Pasteur in Korea started looking at drugs that are repurposed during the pandemic and they discovered that niclosamide had the most activity versus COVID.
+So, it generate a lot of activity around the globe and union and TFF, while I was negotiating a deal with First Wave Bio last year, they announced their deal of well north, I think it was $240 million.  So that, unfortunately for us, put a higher price tag on the deal that we wanted to get for niclosamide.
+Now, I will say that we're really happy with our deal and I've known Gary Glick, who was the Founder of First Wave Bio since my days in college and they secured a lot of terrific IP around the GI area, which is really what our strength is.  So, the COVID was kind of something was a [throwing] for us, but last year the price tag was pretty high.  So, we decided to in-license two indications instead with the option to come back and we -- once we had our study started this summer, we started talking to them again about a potential merger.  But I think the differences for the price tag, we were able to get several indications where we could use niclosamide, not just COVID.
+
+--------------------------------------------------------------------------------
+Jonathan Aschoff,  ROTH Capital Partners, LLC - Analyst    [7]
+--------------------------------------------------------------------------------
+Okay.  Thanks a lot, James.  Congrats.
+
+--------------------------------------------------------------------------------
+James Sapirstein,  AzurRx BioPharma, Inc. - Chairman, CEO, President    [8]
+--------------------------------------------------------------------------------
+Thank you.  Any other questions?
+
+--------------------------------------------------------------------------------
+Operator    [9]
+--------------------------------------------------------------------------------
+We have our next question comes from the line of Yi Chen from H.C. Wainwright.  Your line is open.  Please go ahead.
+
+--------------------------------------------------------------------------------
+Unidentified Audience Member    [10]
+--------------------------------------------------------------------------------
+Hey guys, sorry about that.  I was on mute.  Congratulations on the acquisition, and just -- I'm [Kay] on behalf of Yi Chen from H.C. Wainwright.  Just a couple of quick questions.
+I know you mentioned about the catalysts.  Any changes in them any -- are you able to accelerate some of the readouts or - I know you spoke about a potential Phase 2 in UP.  Maybe could you provide some additional color on the upcoming milestones or any additional milestones following this acquisition?
+And the second question is, I know you spoke about the fact that you're evaluating a new formulation for adrulipase, maybe provide some color on that as well.  Thank you.
+
+--------------------------------------------------------------------------------
+James Sapirstein,  AzurRx BioPharma, Inc. - Chairman, CEO, President    [11]
+--------------------------------------------------------------------------------
+Sure.  Let me start and thanks to you for the questions.  Let me start with adrulipase first.  We're confident that the drug works.  I just want to make that statement.
+The issue that we saw in our clinical trials this year was that some of the patients did really well and some of the patients didn't.  The drug kind of processed itself right through the gut.  And because of the pH imbalance or the way the drug is metabolized -- the enzyme is metabolized, some patients just didn't process the enzyme at all.
+And unfortunately, the way the protocol is set up is we take an average of CFA increases across the board.  You just can't take half the patients where it worked and the half of the patients where it didn't work.  So, what we need to do is -- and we've made that decision -- is we need to find a formulation where we have some consistency across the gut.
+So, what we've done is we actually went to look at our competitors, which are very private in terms of who they use for manufacturing, but we found the right contract manufacturing organization that literally has done AbbVie and Nestle.  They've done the major perks with these micro beadlets, enteric coated micro beadlets.
+So, it's the same company and they are working right now on our manufacturing process.  Those microbeadlets should release the enzyme at a certain pH and it's basically going to provide, what we hope is, consistency for every patient, not just half or a third of the patients that go through the trial.
+So, these kind of manufacturing programs take some time.  You have to find the right enzyme that works, you got to find the right coating that works, and you have to do a certain spray drying.  Hopefully we -- because these people -- these patients have to take the drug with food, so you have to test the mixtures with food.  So, there's a lot of scientific, what we call in vitro testing that has to happen, and then in vivo in animals before we can get back into humans.
+So, once we establish consistency across all these models, we will start what we're calling a small bridging study to get that into human beings, the new formulations, but we don't expect that until the first half of next year.
+With that said, we're moving pretty quickly.  I tell you, I worked at big pharma for many, many years.  And usually, when you have a change in formulation, it will take you a couple years, two or three years to get that done.  We're working pretty quickly because we found the right chief - we found the right contract manufacturing organization.
+So, that's the expectations we have with adrulipase.  Bad news is the formulation that we had, which is proprietary; it didn't work.  The good news is the drug works, which is half the battle in most -- in big pharma and a lot of -- every biotech, you go all the way to Phase 3 sometimes.  You're not really sure that the drugs are going to do exactly what you want it to do.  So, we're pretty confident there.
+In terms of the milestones coming up for niclosamide, our other compound, let's start with the trial that's currently in progress, which is COVID.  We announced this last week that we will open up more sites in the Ukraine and India.  We've got new sites in the United States as well.  For good or for bad, the misfortune that we have with the Delta virus around the world, the United States has opened us up to new opportunities.
+So, I really cannot comment in terms of how quickly we can get this trial done.  If the outbreak or the breakthrough infections happens faster, we might be able to enroll patients faster.  We might be able to get the trial done sooner.  But the guidance I've given, and I'm going to stick to it, is first half, end of first quarter next year, to have top line data on COVID.  Hopefully, we can move that faster.  And in fact, if the data looks good, we would be applying for emergency use authorization.  So, major milestones are available on the COVID indication.
+Checkpoint inhibitor colitis, which we just filed the IND, we have a steering committee that Jim Pennington runs, made up of our investigators at Memorial Sloan Kettering and the Anderson, just to name a few.  We are in the midst of protocol review with them.  So, we want to make sure we have the right protocol in place before we announce starting a trial.
+The trial will be a 1B/2 trial.  So, why is it not a full Phase 2?  Because the dosing is going to be a little different.  These patients are pretty sick.  We want to make sure we have the right dose in place.  So, the first half of the protocol or the first part of it will be not only efficacy, but safety.  We want to make sure we have the right safety dosage for these patients before we go into full blown Phase 2.  We hope that we can get this started by the end of the year but we'll see how quickly we can get moving.
+The UP, which is the proctitis study of First Wave Bio, which is a company we're merging with, they are in the midst of that study right now.  We are going to take it over starting today, really.  And obviously, some paperwork needs to be completed.  Some of you know that we're now the sponsor.  So, we need to file paperwork with the FDA and all the regulatory bodies and that obviously takes some time.  We'll have to get in touch with the investigators but we plan on getting the study enrolled as quickly as possible.
+The guidance that was given to us from Gary Glick was that the study was going to take about 18 months.  So, we - they're about four months in.  So, we expect within the next 14, 15 months that we should be pretty far along with the study.
+The rest of the indications that we acquired, stay tuned.  We will prioritize what we need to do.  We're a small company.  We obviously can't do everything at one time but we will prioritize.  What's great about this space is that there are not -- it's been bad, but there's just not a lot of partners that are full time gastrointestinal companies.
+There's about seven or eight large ones and a bunch of smaller ones.  We will be in touch with them.  And let's face it, if they have an indication that they want to see move forward that gives us an opportunity to partner with somebody and get one of those indications moving forward.
+Sorry, long-winded answer to you but I hope I answered your question.
+
+--------------------------------------------------------------------------------
+Unidentified Audience Member    [12]
+--------------------------------------------------------------------------------
+Absolutely.  Thank you so much and congrats again.
+
+--------------------------------------------------------------------------------
+James Sapirstein,  AzurRx BioPharma, Inc. - Chairman, CEO, President    [13]
+--------------------------------------------------------------------------------
+Thank you.
+
+--------------------------------------------------------------------------------
+Operator    [14]
+--------------------------------------------------------------------------------
+Our next question comes from the line of Naz Rahman from Maxim Group.  Your line is open.  Please go ahead.
+
+--------------------------------------------------------------------------------
+Naz Rahman,  Maxim Group LLC - Analyst    [15]
+--------------------------------------------------------------------------------
+Hey, guys.  Congrats on the transaction.  Just a couple of questions.  Our first one is on niclosamide.  Do you guys have to do any additional manufacturing work for the additional indications or is everything CGMP compliant and there's no additional work to do there?
+
+--------------------------------------------------------------------------------
+James Sapirstein,  AzurRx BioPharma, Inc. - Chairman, CEO, President    [16]
+--------------------------------------------------------------------------------
+Also very important question.  So, all the manufacturing is GMP.  At this point, we don't have to do any additional formulation work.  The work that we need to do is to find the right dose based on the indication because not all indications are created the same and that, obviously, you'll have to -- we have to do some small dose ranging studies to make sure that we're in the right ballpark.
+What's beautiful about this merger and acquisition is that the cost of goods on this product is pretty low and it's pretty easy to produce.  Gary, our partner in this, is an exceptional organic chemist.  He's done a great job of putting this formulation together.
+
+--------------------------------------------------------------------------------
+Naz Rahman,  Maxim Group LLC - Analyst    [17]
+--------------------------------------------------------------------------------
+Thank you.  My next question is on the COVID-19 trial.  I know it's a Phase 2 trial reading out in 1Q '22, but is there a potential for that to serve as a [parallel] trial for EUA or would you guys need to potentially run another trial?  Have you had discussions with the FDA about this?
+
+--------------------------------------------------------------------------------
+James Sapirstein,  AzurRx BioPharma, Inc. - Chairman, CEO, President    [18]
+--------------------------------------------------------------------------------
+We have not had any discussions with the FDA.  Once the data -- we have a data readout, we've got a lot of patients in the trial.  So, it's going to be a very heavy Phase 2.  And Jim, thanks for standing by, because you're going to give him more complete answer than I possibly can.
+But I think that if the data is good, I don't see why the FDA would ask us to do a Phase 3 trial.  Niclosamide has been around for a very, very long time with a huge safety profile and we need answers on therapeutics.  Despite everyone's excitement around the vaccines, we see clearly that the vaccines don't provide all the answers.
+As you all know, the vaccines work on the strands of the messenger RNA strands outside the virus.  Our product is going to be a variant agnostic because we don't work on the mRNA.  We work, basically, as an autophagy to destroy the cell.  So, it doesn't matter which variant.  We're not -- we don't need an immune response like the vaccines do.  We will just kill the virus.  So, that would be a potentially great answer for everybody.  Jim, I'll send it to you.
+
+--------------------------------------------------------------------------------
+James Pennington,  AzurRx BioPharma, Inc. - CMO    [19]
+--------------------------------------------------------------------------------
+Yes.  I'll just follow on to that starting in the emergency use authorization and our trial has the potential.  As a Phase 2 study, this is pretty robust.  We've got -- we're going to be doing up to 150 patients here. That's point one.
+And point two is placebo controlled.  That's a couple of things the FDA appreciates to take the bias out of this thing.  And when you're dealing with a very serious unmet medical need, such as GI infection and COVID, you've got 150-patient, placebo controlled trial.  If that data is significant, yes, we'll certainly be in very intense discussions with the FDA regarding an EUA.  If the data is significant, my guess is that we will receive this, that we may be asked for some sort of a post-marketing follow-on study that's possible, but we'll cross that bridge when we come to it.
+As far as predictions go, who knows?  I'm optimistic about this.  The drug has excellent in-vitro activity against the SARS virus.  Not only that, but it's micronized, so it has a much better solubility.  It reaches drug levels in the gut that are considerably higher than that needed to kill the virus, so with -- because its solubility is so good.  So, I'm optimistic but time will tell.
+
+--------------------------------------------------------------------------------
+Naz Rahman,  Maxim Group LLC - Analyst    [20]
+--------------------------------------------------------------------------------
+Just a quick follow up.  Were your (inaudible) priorities based around the idea that you might not have to run another trail or are you prepared to run another trial if necessary?
+
+--------------------------------------------------------------------------------
+James Sapirstein,  AzurRx BioPharma, Inc. - Chairman, CEO, President    [21]
+--------------------------------------------------------------------------------
+Well, we're prepared to deal with the FDA as our customer.  We have to please them.  Without knowing how robust the data turns out to be, it's hard to say.  If they came and said you can market this drug under EUA but you need more data, of course, we'll do that.  I mean, what's your alternative?  They may not.  They may say, we're convinced (technical difficulty).  They did not do that with the vaccines.  The vaccine people have had to provide quite a bit more data and are still providing it.  So, I just wish I had a crystal ball and I could tell you but I don't.
+
+--------------------------------------------------------------------------------
+Naz Rahman,  Maxim Group LLC - Analyst    [22]
+--------------------------------------------------------------------------------
+All right.  Thanks for the [help].
+
+--------------------------------------------------------------------------------
+Operator    [23]
+--------------------------------------------------------------------------------
+There are no phone questions at this time.  James, you may continue.
+
+--------------------------------------------------------------------------------
+James Sapirstein,  AzurRx BioPharma, Inc. - Chairman, CEO, President    [24]
+--------------------------------------------------------------------------------
+Okay.  Before I sign off, I just wanted to add something to the last response.  Our COVID trial is called RESERVOIR and the reason we named it that way is I firmly believe, as do many others, that the SARS virus hides in the gut.  Like several other viruses that are transmissible even after you test people and you don't see any detectability of that virus, somehow people transmit the virus that's because we believe the virus hides.  It's not that easy.
+This particular virus, as you know, everyone's being tested through the nose, right?  The nasal pharynx is where people trying to take a swab and find out what the virus is there.  The reason is, for people getting such infection around the world, I personally have been in the infectious diseases most of my career, I don't really believe it's just in the nasal pharynx.  I believe it's elsewhere.
+If you see a lot of people who have long COVID or the long haulers, as they're called, experienced these brain issues called brain fog, they still don't have the clinical data to show why.  We know there's been a lot of testing out there that over or across the 48% of all COVID-positive patients have COVID RNA in their stools.  So, it's in the guts, not just in the nasal pharynx.
+This is an interesting virus and it's not one that we're going to get away from very, very easily.  And we need -- I personally believe it's not going to be too dissimilar to HIV where you're going to need a combination of modalities to beat this.
+So, we're happy that niclosamide has great activity.  And I truly believe no matter what the outcomes will be, our product will be part of the solution moving forward and that's why we aimed to prove this in the reservoir trial.
+So, sorry.  I wanted to give a little bit more of a complete answer to my earlier response.  And I guess I'll stop there.  I guess there are no more questions.  I want to thank everyone for joining the conference call.
+We are extremely excited by this.  It's a whole new day for people who are AzurRx shareholders and now First Wave BioPharma shareholders.  We're going in a completely new direction but also taking our old product, MS1819, adrulipase, with us.  Our focus on that product has not changed.  We hope to find a partner for that product and bring it forward.
+But in essence, we believe in a very short amount of time, we've been able to provide a lot of new value to all the shareholders out there.  So, thank you in advance.  Thank you for sticking with us and I look forward to speaking to you again in the near future.
+
+--------------------------------------------------------------------------------
+Operator    [25]
+--------------------------------------------------------------------------------
+This concludes today's conference call.  Thank you for participating.  You may now disconnect.  Have a good day.
+
+--------------------------------------------------------------------------------
+James Sapirstein,  AzurRx BioPharma, Inc. - Chairman, CEO, President    [26]
+--------------------------------------------------------------------------------
+Thank you.
+
+
+
+
+
+
+
+--------------------------------------------------------------------------------
+Definitions
+--------------------------------------------------------------------------------
+PRELIMINARY TRANSCRIPT: "Preliminary Transcript" indicates that the 
+Transcript has been published in near real-time by an experienced 
+professional transcriber.  While the Preliminary Transcript is highly 
+accurate, it has not been edited to ensure the entire transcription 
+represents a verbatim report of the call.
+
+EDITED TRANSCRIPT: "Edited Transcript" indicates that a team of professional 
+editors have listened to the event a second time to confirm that the 
+content of the call has been transcribed accurately and in full.
+
+--------------------------------------------------------------------------------
+Disclaimer
+--------------------------------------------------------------------------------
+Refinitiv reserves the right to make changes to documents, content, or other 
+information on this web site without obligation to notify any person of 
+such changes.
+
+In the conference calls upon which Event Transcripts are based, companies 
+may make projections or other forward-looking statements regarding a variety 
+of items. Such forward-looking statements are based upon current 
+expectations and involve risks and uncertainties. Actual results may differ 
+materially from those stated in any forward-looking statement based on a 
+number of important factors and risks, which are more specifically 
+identified in the companies' most recent SEC filings. Although the companies 
+may indicate and believe that the assumptions underlying the forward-looking 
+statements are reasonable, any of the assumptions could prove inaccurate or 
+incorrect and, therefore, there can be no assurance that the results 
+contemplated in the forward-looking statements will be realized.
+
+THE INFORMATION CONTAINED IN EVENT TRANSCRIPTS IS A TEXTUAL REPRESENTATION
+OF THE APPLICABLE COMPANY'S CONFERENCE CALL AND WHILE EFFORTS ARE MADE TO
+PROVIDE AN ACCURATE TRANSCRIPTION, THERE MAY BE MATERIAL ERRORS, OMISSIONS,
+OR INACCURACIES IN THE REPORTING OF THE SUBSTANCE OF THE CONFERENCE CALLS.
+IN NO WAY DOES REFINITIV OR THE APPLICABLE COMPANY ASSUME ANY RESPONSIBILITY FOR ANY INVESTMENT OR OTHER
+DECISIONS MADE BASED UPON THE INFORMATION PROVIDED ON THIS WEB SITE OR IN
+ANY EVENT TRANSCRIPT. USERS ARE ADVISED TO REVIEW THE APPLICABLE COMPANY'S
+CONFERENCE CALL ITSELF AND THE APPLICABLE COMPANY'S SEC FILINGS BEFORE
+MAKING ANY INVESTMENT OR OTHER DECISIONS.
+--------------------------------------------------------------------------------
+Copyright 2021 Refinitiv. All Rights Reserved.
+--------------------------------------------------------------------------------

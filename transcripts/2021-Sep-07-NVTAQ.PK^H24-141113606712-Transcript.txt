@@ -1,0 +1,696 @@
+
+
+Refinitiv StreetEvents Event Transcript
+E D I T E D   V E R S I O N
+
+Invitae Corp to Acquire Ciitizen Corp M&amp;A Call
+SEPTEMBER 07, 2021 / 12:30PM GMT
+
+================================================================================
+Corporate Participants
+================================================================================
+
+ * Karthik Suri
+   Invitae Corporation - Chief Digital Officer
+ * Yafei Wen
+   Invitae Corporation - CFO
+ * Amy Hadsock
+    - 
+ * Anil Sethi
+   Ciitizen Corporation - Founder & CEO
+ * Sean Emerson George
+   Invitae Corporation - Co-Founder, President, CEO & Director
+ * Unidentified Company Representative
+    - 
+
+================================================================================
+Conference Call Participiants
+================================================================================
+
+ * Bruce David Jackson
+   The Benchmark Company, LLC, Research Division - Senior Equity Analyst
+ * Unidentified Analyst
+    - 
+ * Puneet Souda
+   SVB Leerink LLC, Research Division - MD of Life Science Tools & Diagnostics and Senior Research Analyst
+ * Casey Rene Woodring
+   JPMorgan Chase & Co, Research Division - Research Analyst
+ * Jeffrey Scott Cohen
+   Ladenburg Thalmann & Co. Inc., Research Division - MD of Equity Research
+ * Doug Schenkel
+   Cowen and Company, LLC, Research Division - MD & Senior Research Analyst
+ * Andrew Harris Cooper
+   Raymond James & Associates, Inc., Research Division - Senior Research Associate
+
+================================================================================
+Presentation
+--------------------------------------------------------------------------------
+Operator    [1]
+--------------------------------------------------------------------------------
+
+          Good day, and thank you for standing by. Welcome to the Invitae-Ciitizen  Announcement Conference Call. (Operator Instructions) I would now like to hand the conference over to your speaker today, Amy Hadsock Communications for Invitae. Please go ahead, ma'am.
+
+--------------------------------------------------------------------------------
+Amy Hadsock,   -     [2]
+--------------------------------------------------------------------------------
+
+          Thank you, operator, and good morning, everyone. Thank you for joining us for our call today. Joining us from Invitae are Sean George, Co-Founder and CEO; Roxi Wen, CFO; Karthik Suri, our Chief Product and Technology Officer; and we're happy to introduce Anil Sethi, CEO and Founder of Ciitizen, a breakthrough consumer Health Tech Company located in the San Francisco Bay Area. 
+As you listen to today's conference call, we encourage you to read our press release, which was issued and is posted on the Invitae Investor Relations website, which includes details and commentary on the transaction. The slides we'll be using today are also available under the News and Events section of the Invitae Investor Relations website. 
+Before we begin, I'd like to remind you that various remarks that we make on this call that are not historical, including those about our future financial and operating results, our plans and prospects, the focus of our business strategy, our plans to integrate and manage businesses we acquire and potential synergies from such acquisitions, market opportunities, future products, services, our product pipeline and the timing thereof, demand for and reimbursement of our services, our investment in our infrastructure and operations, and finally, the outcome of ongoing conversations with our auditors regarding the accounting associated with the acquisition. These statements constitute forward-looking statements within the meaning of the safe harbor provisions of the Private Securities Litigation Reform Act. 
+It's difficult to accurately predict the long-term benefits and demand for services that will come from our proposed acquisition of Ciitizen or integration with previous acquisitions mentioned on this call, and therefore, actual results could differ materially from our stated outlook. Statements on future company performance assumes, among other things, that we don't conclude any additional investments, restructuring or legal settlements and that the acquisition closes. 
+We refer you to our 10-Q for the quarter ended June 30, 2021, in particular, to the section titled Risk Factors for additional information on factors that could cause actual results to differ materially from our current expectations. These forward-looking statements speak only as of the date hereof. 
+With that, I will now turn the call over to Sean.
+
+--------------------------------------------------------------------------------
+Sean Emerson George,  Invitae Corporation - Co-Founder, President, CEO & Director    [3]
+--------------------------------------------------------------------------------
+
+          Thank you, Amy, and thank you all again for joining the call. From the beginning, Invitae's mission has been to bring comprehensive genomic data into mainstream medicine, improving health care for billions of people. The acquisition of Ciitizen, along with other recent data and technology companies, sets the stage for Invitae to bring even more value to patients and is aligned with our vision that utilizing patient data to unlock the power of the genome is central to optimizing outcomes and driving a seismic shift across the medical and health care spectrum. 
+As we continue the relentless execution of our vision, we are demonstrating through our results that the world is moving ever closer to genomics as a routine part of health care. Over the past decade, Invitae has become the most trusted name in medical genetics. 
+We have performed and reported more than 2 million tests, interpreted and submitted more than 1 million variants to ClinVar and continue to drive the rapid expansion of the market for individuals who have genetics put to use for their health care. Behind every sample that lands in our loading docks is a patient, a patient that needs answers, a patient that may need other tests, other information or a better understanding of the context of the symptoms they or their family members are living with. 
+Adding to our previous work with the addition of Ciitizen, we have now laid the foundation to accelerate our strategic flywheel to better understand those questions with an exponentially growing data set for those patients. This next phase of our model is represented by the platform data and services revenue breakout we provided last quarter. And it is a business that overlays our testing platform and prioritizes patient data, responsible aggregation, analysis and sharing of this data across the ecosystem. 
+In addition to our size, scale, breadth and depth in the provisioning of genomic information, Invitae has a number of key differentiators and advantages to drive our vision toward a new healthcare reality. First and foremost is a proven corporate ethos that always and authentically places the patient first. That north star has led a strategy that places greater importance on patients' access, rights, security and privacy than simply accessing and monetizing the information. 
+From the founding of the company, we have had 2 primary tenets regarding the patient data produced by testing: one, genomic and health data are owned by and should be managed by patients; two, health data is more valuable when shared. Our acquisition of Ciitizen brings together 2 companies that share this view and provides Invitae with an established platform to enable both tenets to be played out for the benefit of patients. 
+Simply put, we believe Ciitizen will allow patients to easily collect and store their clinical and genomic information, which they can use to better guide their health care journey and contribute to the advancement of research and science. That patient-centric orientation also sets them and us apart from the other data companies emerging today, whose strategy is to aggregate data from various organizations and send that data to interested parties for their benefit, often times without the input permission or real transparency to the patient themselves. 
+This is the big differentiator at Ciitizen and Invitae and for our platform going forward. And it's the right direction for multiple reasons, ethical, practical and from an industry structure perspective. Ciitizen is a consumer health tech company that has been busy building a breakthrough platform for assisting patients in collecting, organizing and sharing their medical records digitally. They are backed by leading investors at the convergence of technology and life sciences, including Andreessen Horowitz, Section 32 and Verily. 
+And after only 4 years, they are already serving thousands of patients and dozens of customer organizations. The addition of Ciitizen, along with other recent technology platform acquisitions, paves the way for the development and launch of an enhanced personalized data platform for all people, which will enable an entirely new patient-owned and controlled open network of genetic and clinical information applied to the betterment of their health and that of their communities. 
+The build-out of this platform will enhance our ability to serve patients throughout their lifetime, bringing together the power of genomic and clinical information to improve health care decision-making. It will also enable a patient data network for drug discovery, clinical trial mapping, health care system management and a whole set of data resources for research and analysis. 
+This data platform also opens the door to new customer segments inside and outside of the traditional health care ecosystem, creating new opportunities for all of the players willing to engage in an open ecosystem that fosters more innovation for patients and providers. 
+Before we discuss the patient data platform in more detail, I would like to introduce you all to Anil Sethi, the founder of Ciitizen and someone whose personal experience and journey reflect the deep need for what we are looking to build. Anil?
+
+--------------------------------------------------------------------------------
+Anil Sethi,  Ciitizen Corporation - Founder & CEO    [4]
+--------------------------------------------------------------------------------
+
+          Thanks, Sean, and thanks to all of you for the opportunity to speak this morning. Today, we're going to talk about our health data platform, a 2-sided platform with supply and demand mapping to patients with their data and on the demand side, a new ecosystem of apps requesting patient consent for use cases, including clinical trial matching, second opinions, virtual tumor boards, feeding machine learning pipelines, AI and thousands of future users we haven't even thought about. 
+Think of it like iTunes. On the supply side is the on site the asset creator, creating an MP3 file as the digital asset, which goes across the iTunes [transit]. Money flows the other direction, and Apple takes a percentage as platform fees. 
+In much the same way, our platform monetizes the transaction between the 2 parties and not like many other data brokers, monetizing the data itself and only when directed by patients. We're the first platform to offer full transparency to patient-directed data sharing. 
+Typically, on the side in most Zoom meetings, I've been doing consumer digital health tech for over 3 decades with 5 start-ups behind me, most recently, Apple acquired Gliimpse, which was foundational to the launch of Apple Health Records in the spring of 2018. During my tenure in Cupertino, I ran the health records engineering team. 
+One day, I got the call from Johns Hopkins to come home because my little sister, Tania, who had earlier been diagnosed straight into stage IV metastatic breast cancer. Hopkins said she only had 2 weeks to live. So I left Apple to be with my sister, and we bought Tania 5 more months of life, but eventually, Tania died. She died on 9/11 of 2017. 
+So this origin story begins with my deathbed promise to Tania that I would not retire, take a sabbatical or go to the beach. I'd use everything in my power to help cure cancers and rare diseases in my lifetime. 
+While mine is a personal story, Tania's situation plays out thousands of times every day across the globe. Patients and physicians alike struggle with the language barrier between medical records and clinical trials. As a result, only 1 in 5 patients who would qualify for trials actually participate. And interoperability initiatives such as FHIR, F-H-I-R, an application interface connected to provider portals does not yet get enough deep clinical data. 
+Like a cocktail straw in an ocean of data, interfaces and portals currently access limited clinical data. It's tragic that in the most advanced health care system because of the lack of connectivity, standards and even personal access, there is no way for patients to fully arm themselves against cancer and other serious conditions. 
+And on the regulatory and legal fronts, the burden is again on the patient with no incentive for organizations to make records accessible or easy to gather and store. They hit the laws put on the books to protect patient privacy often make this access even more difficult. 
+I speak from firsthand experience because of the EMR medical record system, the patient portal where patients interact with Hopkins, it did release some records for Tania. Nothing wrong with that. However, when I used the HIPAA right of access to get everything they had on her, I got a PDF dump of over 2,200 pages. Much of it was unstructured clinical narratives. And folks, that's where the data is. 
+It's in the clinical narrative and in the notes. Getting that data was our problem to solve. So we founded Ciitizen to help patients navigate these challenges using the power of tech, analytics, AI and bioinformatics. The innovations we pioneered at Ciitizen included patients HIPAA right of access to get every record even if it's only available in document form. 
+We've effectively TurboTaxed this, so no one needs to travel for physical record collection. It's automated. We then turn documents into data, much like an oil refinery turns crude oil into 93 octane. This is the core of our IP machine learning pipeline. 
+We map and collate the different terminologies used at different institutions and in different therapeutic areas to ensure that the concept of myocardial infarction is linked to the concept of heart attack. Well, the results have already been remarkable for thousands of patients, many of whom are in disbelief how the system works so seamlessly. 
+And that's before we're integrated with the largest producer of genomic data, where patients reap the full benefits of integrating across the entire health care ecosystem. Here's how it works. We've built a software machine that reads clinical narrative and produces a longitudinal summary for free for a patient to use in clinical care for themselves. 
+The Ciitizen platform efficiently collects the records. It onboards patients and caregivers, obtaining permissions for various types of data donation and data sharing using the HIPAA right of access, obtaining all unstructured records, including past reports, genetics and genomics, pharmacy and physician notes. 
+The platform then converts those records into computable data assets. With records put through our machine learning pipeline, data elements are then abstracted and encoded for multiple use cases. At that point, the data undergoes the only human step, a complete QA process. After which, the collated patient data can be easily shared by the patient for many purposes via a Digital Health Wallet that's secured at stored at Ciitizen for all uses and benefits the patients may seek out. 
+In the case of my sister, Tania, if she were diagnosed only a few years later and had signed up with Ciitizen, things may have been different. She would have clicked on a link to see her trial options and found 19 trials, which she matched on all trial criteria. And with a single click, she would sort the trials by the distance from home, filtering them by stage and therapy type that drilled down into how to qualify. 
+All the information would be saved for review with her oncologist at her next visit, right on her smartphone. She could send her information to the trial site, where the researcher would receive a notification. A few more clicks, and she'd be on our way to a screening visit for a precision match trial and a possible therapeutic success. 
+Now with Ciitizen, more patients will find emerging treatments in clinical trials. Recruitment will accelerate. And those life-saving treatments will be approved faster and in many ways, will be more accessible and potentially more affordable. And by pairing Ciitizen with the leading genomic testing company, Invitae, we're poised to deliver even more for patients and their care teams. 
+With that, I'll hand the call back to Sean and team to talk about how the combined platform can lead to significant process and health care quality and efficiency as well as the unlocking of new uses and markets for consented health data. Sean?
+
+--------------------------------------------------------------------------------
+Sean Emerson George,  Invitae Corporation - Co-Founder, President, CEO & Director    [5]
+--------------------------------------------------------------------------------
+
+          Thank you, Anil, for sharing your story and the story of Ciitizen's mission. One of the primary motivations to get these companies together is the shared vision and the commitment, underscoring the idea that each patient owns their data and should benefit from that data, both personally or as a community. 
+Health care is, by definition, personal. So the intersection of medical and data sciences has to be approached thoughtfully and with more rigid guardrails than [ungovern the emergence] of data science for shopping, entertainment or Internet searches. 
+The first part of that equation is access to the full range of testing that takes place from before birth to the end of life. The second part of that equation is the information data platform that supports the decisions and actions of every other party in the ecosystem from physicians to hospitals and doctors' offices to researchers, payers, pharmacies and biotech companies. 
+As for the role data will play in that growth and development, we are just today scratching the surface. Only a fraction of the genome is actionable for patients. More data being used for more people will result in the unlocking of the unused and unknown parts of the genome. 
+That expansion will, of course, drive more utility and more demand for the provisioning of it, which generates even more data to drive increased utility, et cetera, et cetera, as Metcalfe's law takes over. Invitae has already built the engine room of testing data to drive a new paradigm. We are now working to complete the data platform, and Ciitizen is a key part of that. 
+For those of you who haven't met him, I'd like to introduce and hand the call over to Karthik Suri. Karthik is our Chief Product and Technology Officer, who also leads our data and digital strategy. He came to Invitae a little over a year ago from GE Digital, and before that, PayPal, eBay and Yahoo. He's a data visionary and has played a key role in developing our platform and strategy, including the drive to bring together these 2 companies. Karthik?
+
+--------------------------------------------------------------------------------
+Karthik Suri,  Invitae Corporation - Chief Digital Officer    [6]
+--------------------------------------------------------------------------------
+
+          Thank you, Sean. Patients own and control their data, and that data is more valuable when shared. And when it is shared, it can become the oxygen that fuels a differentiated and limitless source of information that benefits all patients. Those tenets and vision drive every decision we make at Invitae, and that foundation is a differentiator from every other data company or service for that matter. 
+In order to take advantage of this differentiation, trust must be earned and then demonstrated to our customers every single day. The pillars of that trust are consent and preference, security, privacy, transparency of usage, usefulness to patient and society at large and accuracy. We do everything we can to earn our patients' trust. 
+Now with trust established, the inflow of patient-empowered data derived from a massive testing platform and thousands of other permission sources can serve patients, clinicians and partners everywhere. We seek to identify common needs and make it easier for people to access their genetic and clinical information, make better health care decisions and gain transparency into the system of providers and payers. 
+Examples include parents searching for answers to why their child is having seizures, a grandfather diagnosed with metastatic prostate cancer seeking to know what's the next step, a therapeutic developer searching for genetic basis for a new precision therapy. For all these cases, connections in our network accelerate the time to a correct diagnosis, inform next steps and help bring therapies to market faster. 
+Building this comprehensive genetic and clinical information propels Invitae from being a testing company to a genome management company. We can think of the ecosystem at large as a set of capabilities in production and consumption of data for improved health care for billions of people. Such a patient-mediated data platform creates a direct and lifelong relationship between Invitae and patients. 
+This potentially leads to the creation of an ecosystem, the precision medicine marketplace that offer services whether provided directly by Invitae, other partners or eventually third-party providers [on top of our] platform. Over the past few years, we have created a highly interoperable genomic data platform already providing multiple interoperable capabilities for our patients and institutional customers. The primary building blocks of that platform include AI-based software components, automated interactivity tools, bioinformatics capabilities, decision support systems and measures for security and privacy. 
+We developed some of these platforms in-house and also have innovated other assets, including names like Gia, YouScript, Medneon, Moon, [IGT] and One Codex. The next steps in building out our platform include continuing investment in the development of real-world data, analytics and real-world evidence capabilities that help bring our ultimate vision to life. 
+It's towards this vision that we are excited to announce our acquisition of Ciitizen. What drew us to Ciitizen vision was a shared commission -- commitment to patient-empowered data platform and novel capabilities to efficiently and effectively collect and generate patient health and medical information in a usable fashion. 
+That information includes their genetics, clinical and health information over time, periodic assessments, patient-entered information, potentially other health data through a variety of health applications. We refer to that collected and usable data as a personalized health wallet. This wallet could accompany people throughout their lives stored in secure digital fashion and available for patients to access any time to help inform them and their providers of therapeutic options, care pathways, clinical trials, personalized medicine or leveraging the patient and clinician network to explore options they otherwise would not have had. 
+It will also allow patients to donate their data for research and improving the health care system. Since patients own and control their data, their personalized wallet will allow the patient to make all of their data decisions, including full or partial consent and reversal of that consent at any point in time. It also allows for portability, sharing, donation and even sharing the benefits derived from that data. Alternatively, they can keep their data locked up. 
+On the other side of the platform, there are hundreds of use cases that exist today, and that will emerge. That 360-degree view of patients in large numbers, including the ability to study a person's genotype and phenotype, has been difficult at scale. And this will lead to some unique advantages for partners and customers. 
+Ciitizen achieved high concentrates from patients, leveraging their data to further research and clinical care. This lifetime data also serves as a richest source of real-world data to further research, enable new therapies and precision medicine at scale, all with the patient's consent. With no data left behind and the ability to combine genotypic, phenotypic, lifestyle and other information, Ciitizen accelerates Invitae's footprint to power data services for partners and providers, enabling [NF1] personalized services beyond genetic testing. 
+This unique patient-centric network complements Invitae's provider-centric approach to testing. Most importantly, this accelerates Invitae's transformation from being a direct service provider to a true platform provider, enabling thousands of others to provide just-in-time services to patients plus inviting peers to directly engage with the patients, should the patients choose to. 
+We don't own the patient. We don't own the patient's data. Third parties can monetize the data consented through the patient on our platform potentially leading to a subscription revenue stream. The acquisition of Ciitizen is not just a revenue story today as it will generate only modest revenues in the coming year. But when integrated with our system and collated with millions of data sets already in place, the power of this platform will emerge as a new connection to current and hundreds of potential new partners and customers. 
+The use cases for this permissioned, patient-empowered data are essentially limitless. Today, we already serve key partner and customer groups, including patient advocacy groups seen to support advice and connect patients; biopharma companies who spend billions each year on incomplete, unstandardized and less usable data sets; health care provider networks seeking to assist decision-making, create efficiencies in delivering care and understanding the relationships between decisions and outcomes. 
+While these channels are active today, a resource providing fully permissioned, comprehensive data could expand the usefulness manifold, creating additional opportunities for those partners and entirely new sets of companies such as telemed providers to streamline patient onboarding and care coordination, pharmacies and retail health care companies who can connect directly to targeted patient groups with new products and services, payers and the employer insurance ecosystem which must today rely on incomplete data to make trillion-dollar operating decisions. 
+Well, the list gets too long to cover here today. But just as data from our everyday lives and activities has been harnessed in thousands of ways to make life more efficient and productive, health data has the potential to be harnessed as well. Watch for announcements as these partnerships are forged, expanded or created for data services in the coming year and beyond. 
+We're convinced that this is going to happen, and the value being driven by emerging health care data is evidence of that. But we believe fundamentally, health care and medical information is different. And so does the government and so do all of you here today. And because of that fundamental difference, because our health data is ours, we firmly believe the company that solves the data puzzle from a patient-centric, patient-empowered (inaudible) will truly succeed. 
+Now I'll turn over the call to Roxi to briefly outline the transaction terms. Roxi?
+
+--------------------------------------------------------------------------------
+Yafei Wen,  Invitae Corporation - CFO    [7]
+--------------------------------------------------------------------------------
+
+          Thank you, Karthik. Under the terms of the agreement, Invitae will acquire Ciitizen for approximately $325 million, consisting of approximately $125 million in cash and 7.07 million shares of Invitae common stock based upon a trading average closing price prior to the agreement date. The stock and cash considerations are subject to reduction based upon certain debt and transaction expenses determined at closing. 
+Invitae, we also issued $225 million in restricted stock units, RSUs, to be paid out over 3 years to Ciitizen employees who continue their employment at Invitae. We saw the structure of the transaction and RSUs delivered to the continuing employees demonstrate our commitment to maintaining the strong momentum that has been generated by the Ciitizen team and will serve to retain this very talented group in the coming years as we integrate our data platform and move forward as a single organization. 
+As a reminder, we raised more than $1.4 billion since the beginning of the year with the idea that some of the capital was earmarked for acquisitions and help bridge the company to our future as the integrated testing and patient-centric data platform. This is one of the key acquisitions, and it gets us much closer to that goal. 
+The transaction has been unanimously approved by the Board of Directors of both companies. Subject to customary closing conditions, we anticipate closing the transaction this month. Back to you, Sean.
+
+--------------------------------------------------------------------------------
+Sean Emerson George,  Invitae Corporation - Co-Founder, President, CEO & Director    [8]
+--------------------------------------------------------------------------------
+
+          Thanks, Roxi. In the context of our overall strategy, the Ciitizen platform accelerates our journey up the curve towards enabling genome management or the provision of genetic information services, backed by real-world clinical history and outcomes data that inform health care throughout life. This in no way changes where we have been going since we founded the company over a decade ago, but rather enables an important part of the platform we have envisioned. 
+Genomics is currently a lab industry, but is already showing signs of change in becoming something very different, something in the intersection of the laboratory, biotech, CRO and information industries, purpose-built at every level on patient impact. Achieving genome management takes more than interactions between a patient and their own personal data or consolidate their [inventoried] data. 
+It will require hundreds of millions of patients taking billions of tests and choosing to share their collective data with a trusted partner to be analyzed and harnessed on their behalf by multiple participants across the health care ecosystem. We believe Invitae's strong track record as a transparent and honest partner to patients puts us in an ideal position to execute on this opportunity. 
+I would like to thank Anil and his entire team who have been real champions through this process and proven their commitment to putting patients first in every aspect of the Ciitizen culture, a great fit and example for the Invitae team as we move forward. In addition, I'd like to thank Karthik, Roxi and the entire invite team for driving this across the finish line and keeping their eyes on the big vision we are all chasing. 
+With that, I'll now turn the call over to operator for Q&A.
+
+
+================================================================================
+Questions and Answers
+--------------------------------------------------------------------------------
+Operator    [1]
+--------------------------------------------------------------------------------
+
+          (Operator Instructions) The first question comes from the line of Puneet Souda with SVB Leerink.
+
+--------------------------------------------------------------------------------
+Puneet Souda,  SVB Leerink LLC, Research Division - MD of Life Science Tools & Diagnostics and Senior Research Analyst    [2]
+--------------------------------------------------------------------------------
+
+          Yes, Sean. So first one, just wanted to understand, do you expect to bring the Ciitizen's capability to derm line and women's health side of business? And then can you explain to us monetization of this platform under Invitae, how do you plan to monetize that? Or would -- do you expect to provide the service more broadly and freely to patients in the hope that the monetization is going to be happening through the test? Or is there a subscription type of a model here?
+
+--------------------------------------------------------------------------------
+Sean Emerson George,  Invitae Corporation - Co-Founder, President, CEO & Director    [3]
+--------------------------------------------------------------------------------
+
+          Yes. So the disease area is currently enabled by this is a platform of cancer and some pediatric neurological and rare diseases. We'll, of course, continue expanding as Anil and the team have already have begun. So the diseases covered will expand. 
+The -- as it gets incorporated in the Invitae platform, the model is essentially the same. It's not the patients who pay or subscribe at this point. Partners in the health care ecosystem do. And it's very similar to the data revenue line that we broke out on our last call. This is payment to accelerate clinical trial enrollment, accelerate time to market or peak your sales on pharmaceutical sales, data analysis, services and packages, et cetera. 
+And we actually see, as Karthik pointed out, an explosion of the different use cases here, but very similar to the kind of platform data service revenue that we generate presently. This is where the Ciitizen platform will come in. 
+We have ambitions even to, in the future, have a patient share in that revenue. But we'll have to see where that goes. That's a concept that we all firmly believe in and have a strong opinion of that, but pulling it up in health care is a little tricky. So we'll stay posted on that.
+
+--------------------------------------------------------------------------------
+Puneet Souda,  SVB Leerink LLC, Research Division - MD of Life Science Tools & Diagnostics and Senior Research Analyst    [4]
+--------------------------------------------------------------------------------
+
+          Okay. Great. And I apologize if I missed this, but what is the current revenue contribution from Ciitizen and then overall growth expectation in terms of either the revenue or the patients add and really anything you can provide there? 
+And then just one last question. Could you remind us the level of integration of Invitae currently with the major EMRs, including the [concerns] and others? And wondering if Ciitizen helps you get closer to that.
+
+--------------------------------------------------------------------------------
+Sean Emerson George,  Invitae Corporation - Co-Founder, President, CEO & Director    [5]
+--------------------------------------------------------------------------------
+
+          Yes. So as usual, we won't be breaking out explicitly Ciitizen current go forward and contribution. We will point everyone to that platform, the platform services and data revenue line. And that's the one where -- as we suggest, that line should grow faster than our overall north of 50% growth rate year-over-year. That will be the way everybody can mark the contribution of Ciitizen in combination with our other data assets. As for -- sorry, Puneet, I forgot the -- the second question. 
+Right. Yes. So on the EMR integration, we are currently integrated with hundreds and hundreds of EMRs across our customer segment, including, of course, the major ones, Epic and Cerner and all those as well as all of the independently run ones.
+The Ciitizen capability, it's a little distinct. There's certainly a lot of integration in the EMRs and the HIEs, et cetera, but it's about -- it's really like getting more and more of that exclusively detailed health care information from that patient as opposed to the interoperatively of ordering and receiving results, which is where we spent most of the time in the past. So it's a real augmentation of our capabilities to get more patient data.
+
+--------------------------------------------------------------------------------
+Operator    [6]
+--------------------------------------------------------------------------------
+
+          And your next question comes from the line of Doug Schenkel with Cowen.
+
+--------------------------------------------------------------------------------
+Doug Schenkel,  Cowen and Company, LLC, Research Division - MD & Senior Research Analyst    [7]
+--------------------------------------------------------------------------------
+
+          So this is a little redundant, I think, with Puneet's first question, but I just want to make sure we're crystal clear on the revenue model. And your answer to Puneet or that was helpful and Karthik's comments in his prepared remarks were helpful. 
+That said, I just want to be clear. So patients are being compensated for sharing data, and the company collects a fee on that. And then partners like pharma companies or payers could also pay for consented data and pay the company a fee for access to that data. Do I have that right? And are there other ways you envision monetizing this platform?
+
+--------------------------------------------------------------------------------
+Sean Emerson George,  Invitae Corporation - Co-Founder, President, CEO & Director    [8]
+--------------------------------------------------------------------------------
+
+          That's correct. In fact, Anil is with us. Anil, why don't you -- it's -- since you built the business, you can explain exactly how Ciitizen revenue works today. And then I'll -- and then Doug, I'll add on top where we see augmenting our platform services.
+
+--------------------------------------------------------------------------------
+Anil Sethi,  Ciitizen Corporation - Founder & CEO    [9]
+--------------------------------------------------------------------------------
+
+          Yes, sure. This is Anil. Thanks for the question. Currently, the platform works like this where before patient data, which was collated inside of health care institutions, if you [de-identify] it, and then it becomes somewhat "fair game" to be monetized. 
+What we do is we ask the patient at all points for their consent. So if a patient says, "I request my HIPAA right of access, I can send it through you." We go get the records. We shred them. We put them into a longitudinal summary. And then the patient is able to share them for their personal uses, clinical intervention when a partner, when Invitae partner, Ciitizen partner currently comes and looks at the database blindly. 
+There's an ability to ask the database. Are there patients like this? We don't expose any of the PHI or an any of the information about the patient's ID. But the partner can then ask for the patient's consent on the platform or on the marketplace. 
+So as long as we connect supply on one side, which is the patient, demand on the other side, a pharma partner, biotech. And as long as consent is shared from the patient to participate, then the platform can collect a revenue transaction fee for that particular transaction. I don't know if I answered the question, but back to you, Sean.
+
+--------------------------------------------------------------------------------
+Sean Emerson George,  Invitae Corporation - Co-Founder, President, CEO & Director    [10]
+--------------------------------------------------------------------------------
+
+          Thanks, Anil. So Doug, that's the primary revenue stream for Ciitizen today is the connection of the patients that fit a certain criteria with pharma partners, advocacy groups, others. And then, of course, that looks very similar to a lot of what Invitae does, which is patient identification programs, looking for patients with specific natural histories combined with genetic information, which we intend to combine with now very deep data capabilities. 
+This is our platform. And the revenue will continue as such. And we also know that there are other partners interested in identifying patients with specific genomic or other natural history for clinical trial recruitment, therapy selection. We think -- we obviously think an untapped area for this would be in oncology going forward. 
+And then beyond that, we mentioned in our last call, it's very small and early, but there are companies now paying for access to broad sets of data for analysis that is used in a variety of different research efforts, whether it be to better understand disease pathway, a set of genes contribution are associated with disease and outcomes et cetera. And that also we see as time goes on, you can need a lot more data than we have today. 
+But as time goes on, that will become a valuable resource for ecosystem players as well. And revenue associated with data analysis and services will come in accordingly.
+
+--------------------------------------------------------------------------------
+Doug Schenkel,  Cowen and Company, LLC, Research Division - MD & Senior Research Analyst    [11]
+--------------------------------------------------------------------------------
+
+          Super helpful, guys. And just one -- well, probably a couple of clarifying follow-ups. So just a component that's specific to the individual, the patient, is there any cash flow from that patient? Essentially, are they paying for access to this? Are they being compensated to consent? Or essentially, do you just want to get patients on the platform to help them with the idea of monetization being on the demand side?
+
+--------------------------------------------------------------------------------
+Sean Emerson George,  Invitae Corporation - Co-Founder, President, CEO & Director    [12]
+--------------------------------------------------------------------------------
+
+          Yes. It's mostly the latter. I mean, today, the Ciitizen patients are indeed sharing in the revenue exchange. We love that. We've been talking about that for years, and we're going to look for ways to extend that. 
+As I mentioned, it's a little fraught. There are a lot of different opinions of that in the health care continuum, but that is something that we see no reason not to continue. So it really is -- it's more the latter. It's the -- in the generation of the genomic data in the first place. Of course, we generate revenue in the testing with incentives for the patient to look for and have us go get more and more of their health information to right out of the gate just give them a better result but then also have them open up -- for them open up opportunities, whether it be clinical trials, better and faster matching the drugs that work, et cetera, we think the incentive is there for the patient to participate. 
+And then like we said, the revenue is mostly on the either side of the testing side of it but then the ecosystem partners that would like to have access to with those patients.
+
+--------------------------------------------------------------------------------
+Doug Schenkel,  Cowen and Company, LLC, Research Division - MD & Senior Research Analyst    [13]
+--------------------------------------------------------------------------------
+
+          Okay. That's great. And then in terms of defining success for this deal, Sean, how important is the acquisition driving more volume through your wet lab? How much does that weigh into the equation here?
+
+--------------------------------------------------------------------------------
+Sean Emerson George,  Invitae Corporation - Co-Founder, President, CEO & Director    [14]
+--------------------------------------------------------------------------------
+
+          Yes. It's all -- there's a handful of the levers. We think that this will pull -- first and foremost, it's -- we'll point people to that platform, data and services revenue line. So first and foremost, this should drive that higher and faster in the quarters to come, and that's kind of where we focus the most. 
+With that said, we do think that with a growing central story of patient information and analysis tools on top of it that we -- and very likely others will be providing, it will point to the need for more information, whether it be a patient that is missing specific genetic information, genomic information around whatever disease they might have, whether in a patient's workup in the case of the inspiration for Ciitizen in the first place for Anil's little sister, Tania, whether therapy selection information was missing. Prognostic information was missing. That will drive more demand for testing. 
+And this is where we think -- we are always looking for opportunities to spin that flywheel of the generation of the data, the increase in the utilization of the data, which then drives more and more demand for the generation in the first place. And so yes, increase in testing in general is something we anticipate to come out of this combination as well. But to be very clear, first and foremost, we're looking to drive the platform and data services revenue.
+
+--------------------------------------------------------------------------------
+Doug Schenkel,  Cowen and Company, LLC, Research Division - MD & Senior Research Analyst    [15]
+--------------------------------------------------------------------------------
+
+          Okay. And last one, Sean. Will the Ciitizen platform remain open for others to use for -- essentially, does the data have to -- is it going to be a closed system to Invitae, I guess, that's what I'm getting at? Or is this platform going to be open for use with other lab-generated data?
+
+--------------------------------------------------------------------------------
+Sean Emerson George,  Invitae Corporation - Co-Founder, President, CEO & Director    [16]
+--------------------------------------------------------------------------------
+
+          No. And in fact, this is really critical, we believe, for everybody to understand what we're trying to do here. And it absolutely will remain open. In fact, today, our -- many of our data services are used by other players that you might consider "competitors," whether they be patient workflow management, whether they be genome-wide interpretation pipeline services. These are currently being sold to and used by other players in the space. 
+And we really want to encourage a lot more of that. And I think this is a great opportunity for that -- for all of the players in the ecosystem to be working off of exponentially growing data sets that are data that is owned and controlled by the patients in question. And while the primary use of it is to serve those patients, it will benefit all of the health care ecosystem players that play along, including some that are brushing up or right on top of some of our other businesses or services. 
+It's our view that's -- I mean, it's kind of unavoidable. This is obvious to us the way that it has to work to get, get this industry into the real -- basically, pull it forward in the 21st century, right, where we're working off of billions of patients, not very, very few, very narrow slices of work being done today. 
+And so yes, it's -- the idea is it's an open system, both on the data, on the access the patient side, the data analysis they're in. And I think something else that we're -- by the way, we're anticipating, is other parts of our platform being available to other players as well, whether it be production services, informatics services, reporting services, et cetera. So this is a trend that will continue to grow. But yes, the bottom line is open is the way to go to increase the impact.
+
+--------------------------------------------------------------------------------
+Operator    [17]
+--------------------------------------------------------------------------------
+
+          Our next question is from the line of Tejas Savant with Morgan Stanley.
+
+--------------------------------------------------------------------------------
+Unidentified Analyst,   -     [18]
+--------------------------------------------------------------------------------
+
+          This is [Hugo] on the call for Tejas. Maybe following up on the prior comments on the business model, what proportion of patients who use Ciitizen consent to participate in clinical trials and other research? And are these patients recontactable?
+
+--------------------------------------------------------------------------------
+Sean Emerson George,  Invitae Corporation - Co-Founder, President, CEO & Director    [19]
+--------------------------------------------------------------------------------
+
+          Yes. Anil, you want to answer that one?
+
+--------------------------------------------------------------------------------
+Anil Sethi,  Ciitizen Corporation - Founder & CEO    [20]
+--------------------------------------------------------------------------------
+
+          Sure. I will set a little backdrop that the rate for recruitment into clinical trials, roughly, we've got a 90-plus percent failure rate meaning or maybe 83%, if I recall. So there's a lot of patients who could be recruited who are not. So our observation and we're still early days is this. 
+The -- what patient is with an advocacy group, they're already self-identified as a different efficacy group. So they're already sort of preincented. What happens is when the advocacy group, a partner of ours, reaches out to their patient population, the conversion rates are in the double digits. 
+I can't quote you specifically, but they're much higher than the current conversion rate, which is 10%. When you have a specific therapeutic area, for example, in pediatric neurology, those parents are really eager to have their kids' information help in some biotech for a new molecule or new research. And so we find in particular therapeutic areas, the conversion rate of sharing the information with the sponsor working on a particular drug is closer to 100%. 
+And I think you asked if the patients are recontactable, the answer is yes. Where the patient goes, they have their profile likely in the cloud accessible through their phone. And we are responsible for putting all the patient's information that we have access to within the profile, notifying the patients. So it's always going to be a living record as opposed to a static snapshot.
+
+--------------------------------------------------------------------------------
+Unidentified Analyst,   -     [21]
+--------------------------------------------------------------------------------
+
+          What (inaudible) to ensure compliance with the evolving data privacy and security policies?
+
+--------------------------------------------------------------------------------
+Anil Sethi,  Ciitizen Corporation - Founder & CEO    [22]
+--------------------------------------------------------------------------------
+
+          I didn't follow the question.
+
+--------------------------------------------------------------------------------
+Sean Emerson George,  Invitae Corporation - Co-Founder, President, CEO & Director    [23]
+--------------------------------------------------------------------------------
+
+          Sorry. I think you broke up just a little bit. Can you try again?
+
+--------------------------------------------------------------------------------
+Unidentified Analyst,   -     [24]
+--------------------------------------------------------------------------------
+
+          Sure. What are the measures taken to ensure compliance with the evolving data privacy and security policies?
+
+--------------------------------------------------------------------------------
+Sean Emerson George,  Invitae Corporation - Co-Founder, President, CEO & Director    [25]
+--------------------------------------------------------------------------------
+
+          Yes. Anil or Karthik, you want to -- on compliance side?
+
+--------------------------------------------------------------------------------
+Karthik Suri,  Invitae Corporation - Chief Digital Officer    [26]
+--------------------------------------------------------------------------------
+
+          Yes. Anil, why don't you speak to the question for a second? I'm just going to add on.
+
+--------------------------------------------------------------------------------
+Anil Sethi,  Ciitizen Corporation - Founder & CEO    [27]
+--------------------------------------------------------------------------------
+
+          Sure. I will just share that one of the co-founders of Ciitizen is Deven McGraw, who, while in the Obama administration wrote or pend a lot of the HIPAA guidance that we all practice under. So when it comes to patient rights, whether it's the right of access, privacy, security, data sharing, who owns what? She's an [N of 1]. 
+And from day 1, I can share with you that we have built patient rights directly into the software, so much so that in some design sessions on the early days, the engineers that stop on the like Board look at her and just confirm as she would go. Oh no, you can do that. That's okay. So that's a way of answering that, that has to be #1. We named the company Ciitizen for that reason. Karthik?
+
+--------------------------------------------------------------------------------
+Karthik Suri,  Invitae Corporation - Chief Digital Officer    [28]
+--------------------------------------------------------------------------------
+
+          Yes. Thank you, Anil. Honestly, that was one of the main reasons of convergence in both philosophy and approach that from both our sides, we believe that patients own the data. And the data is more valuable when it's shared. So for us, we place a huge amount of premium on patient consent, security, privacy, transparency of usage, usefulness of that data to the specification and accuracy within that. 
+So these are baked into our workflow and how we think about data consumption and production. And that is very much in line with -- from our approach in the convergence approach of Ciitizen is very much in alignment.
+
+--------------------------------------------------------------------------------
+Operator    [29]
+--------------------------------------------------------------------------------
+
+          The next question comes from the line of Tycho Peterson with JPMorgan.
+
+--------------------------------------------------------------------------------
+Casey Rene Woodring,  JPMorgan Chase & Co, Research Division - Research Analyst    [30]
+--------------------------------------------------------------------------------
+
+          This is Casey on for Tycho. My first question is just what's the level of investment needed on Invitae's end to sort of build out the Ciitizen platform? And can you just talk towards what this deal does in terms of your cash burn rate?
+
+--------------------------------------------------------------------------------
+Sean Emerson George,  Invitae Corporation - Co-Founder, President, CEO & Director    [31]
+--------------------------------------------------------------------------------
+
+          Yes. The first answer is it takes a lot of investment and has been for some time. A significant amount of the spend at Invitae over the years has been toward the information platform, data services and the front-end data management and patient workflow management. So that will continue. 
+The answer to the second question is the impact there and is, frankly, not much different. This is the kind of spend we have been engaged in, and we have always anticipated. And so there's really no change in our outlook on that front, pretty similar to the kind of the R&D expenditures that we would have already anticipated in the years to come. So in general. 
+Obviously, in the near term, there's going to be a little bump in integration and hiring to kind of get all that done. But I think that's -- like I said, it's well within the R&D envelope that we're already operating in.
+
+--------------------------------------------------------------------------------
+Casey Rene Woodring,  JPMorgan Chase & Co, Research Division - Research Analyst    [32]
+--------------------------------------------------------------------------------
+
+          Got you. And then just maybe one last one on competition. What sort of competition does Ciitizen face? And what would stop competitors from shifting towards monetizing the transaction versus the data if that's truly where the market is headed? Yes, any color on competition would be great.
+
+--------------------------------------------------------------------------------
+Sean Emerson George,  Invitae Corporation - Co-Founder, President, CEO & Director    [33]
+--------------------------------------------------------------------------------
+
+          Yes. And here's what I say. I think competition is a difficult one to to lay out. I think that this idea is early, and it's gaining traction, and a lot of players are trying in a lot of different ways. Obviously, there are a lot of health data aggregators. There are a lot of patient registry tool companies, network companies, I mean, I suppose you can consider them all competitors. 
+On the other hand, you could consider them all potential ecosystem partners in this as well. We're all trying to get more and more patients into a network where their health information is structured, usable, there's enough of it to do anything relevant with. And most importantly, it's appropriately consented, and the patient actually knows what the players are doing with. 
+And so in that sense, we actually think that all players involved are potential customers for us in this game or minimally partners. And I think this is where our view of this is it's important to understand it is that's a little different view than doing everybody who takes patient data and structure it and sell it as somebody as a competitor. 
+I guess maybe a delicate way of saying that is it doesn't seem that, that's the way that this is going to work and work for patients as the industry moves forward. As to how that's going to happen or why that's going to happen, again, I think that's -- unfortunately, we don't have an answer to that today. 
+It's something that we are absolutely convinced over time will become clear. But it does -- you got the first principles. It does make sense that -- I'll just take a specific -- an individual dying of cancer whose health care information is being generated at 2 or 3 different institutions. It does seem to make sense of first principles that if that information is going to be packaged up and monetized that, that patient who is dying of cancer really ought to be in the loop and indeed consenting to it or those -- or that model does not seem to have legs in the future. 
+And that's, again, we're looking forward a little bit here, but it is the position we're landing on and the position we're taking that, that is self-evident. That's the way this is going to play out.
+
+--------------------------------------------------------------------------------
+Unidentified Company Representative,   -     [34]
+--------------------------------------------------------------------------------
+
+          I would (inaudible) Sean's statement that creating an exciting ecosystem towards bringing genetics to precision medicine is one of our biggest criteria through the course of this partnership with Ciitizen as well, which means welcoming all players, additionally sees competitors to us as well to this ecosystem to that application.
+
+--------------------------------------------------------------------------------
+Operator    [35]
+--------------------------------------------------------------------------------
+
+          Your next question comes from the line of Jeff Cohen with Ladenburg Thalmann.
+
+--------------------------------------------------------------------------------
+Jeffrey Scott Cohen,  Ladenburg Thalmann & Co. Inc., Research Division - MD of Equity Research    [36]
+--------------------------------------------------------------------------------
+
+          So just 3 quick ones from us, if we may. So firstly, I'm wondering, Anil, could you talk a little bit about the platform and what your perception is as far as the relationship and how the payers out there are currently acting or reacting to kind of where things are headed?
+
+--------------------------------------------------------------------------------
+Anil Sethi,  Ciitizen Corporation - Founder & CEO    [37]
+--------------------------------------------------------------------------------
+
+          Right. Sure. So payers is one of the categories that we haven't delved into yet. The reason is because that's a solved problem. I think we've had payment data going back and forth for decades, that data has been identified. It's been mined. And one man's opinion is a lot of the juice has already been squeezed out. 
+So instead of going after payer data, which can be revenue generating, but it produces very little clinical information, insights. So the answer is we went after the deep clinical information that was in the medical records. That information is not typically available from EMR databases. 
+But with respect to payers, they are also under a federal mandate to set up an application interface where a patient can go to their payer portal just like you and I go to our hospital for portals. And we can download payment information. 
+The interesting thing about that is you and I might go to various different health care institutions and clinics, and we move around. But we typically don't change payers. That offset maybe every couple of years. 
+That payer has a, if you will, a breadcrumb trail of information that if the patient -- when the patient can download it, and this will be coming in the next year to 24 months. That payment information then results in a breadcrumb trail where we, Invitae, Ciitizen the platform, can scan that payment history and know where the patient has been and automatically use that as an index to go fetch even more information. I'll stop there.
+
+--------------------------------------------------------------------------------
+Jeffrey Scott Cohen,  Ladenburg Thalmann & Co. Inc., Research Division - MD of Equity Research    [38]
+--------------------------------------------------------------------------------
+
+          Yes. And would you envision payers would have some or limited or access to these wallets because they're entitled to as the payer or as that patient permits?
+
+--------------------------------------------------------------------------------
+Anil Sethi,  Ciitizen Corporation - Founder & CEO    [39]
+--------------------------------------------------------------------------------
+
+          Patient permission. There's certain information that the payer by rights has had and will continue to have. But for example, the payer knows that they paid out for a for a lab test. Well, they know the date and the location and some other metadata, but they don't know the lab results. 
+And that could be huge when collating lots of patients' information and seeing what sorts of therapies are more valuable, what work, which are more economic. But all of that has to be patient-consented. It's a marketplace where whoever wants to ask the patient, "Do I have your consent?" Patient says yes or no, that data is then moved, and there's a transaction fee on the platform, just like most of platforms work like that.
+
+--------------------------------------------------------------------------------
+Jeffrey Scott Cohen,  Ladenburg Thalmann & Co. Inc., Research Division - MD of Equity Research    [40]
+--------------------------------------------------------------------------------
+
+          Great. That's very helpful. And then, I guess, next for Sean or Karthik, in particular. Could you talk about the various platforms that you now have under Invitae and what Ciitizen may do or not do as far as the number of platforms that you're carrying on a software standpoint? 
+And will some of those be merged? Or do you expect all the platforms thus far to remain more independent under your umbrella?
+
+--------------------------------------------------------------------------------
+Sean Emerson George,  Invitae Corporation - Co-Founder, President, CEO & Director    [41]
+--------------------------------------------------------------------------------
+
+          Yes. Go ahead, Karthik.
+
+--------------------------------------------------------------------------------
+Karthik Suri,  Invitae Corporation - Chief Digital Officer    [42]
+--------------------------------------------------------------------------------
+
+          Of course, this is building the patient-centered data platform, combining genotypic and phenotypic data powered by both Invitae's test data and Ciitizen's patients longitudinal health data. This data then becomes the fuel that powers our other platform components that we have integrated in an interoperable platform-centric way such as Gia, YouScript (inaudible) and most recently Medneon. 
+And all of these together offer on different capabilities that help the continuum of testing, interpretation and data and platform management, powered by the (inaudible) platform underneath that is patient-centered and patient (inaudible).
+
+--------------------------------------------------------------------------------
+Jeffrey Scott Cohen,  Ladenburg Thalmann & Co. Inc., Research Division - MD of Equity Research    [43]
+--------------------------------------------------------------------------------
+
+          Okay. That's helpful. And then lastly, sorry to bring you into this Roxi, but one question on the   [8.125] RSUs. What's the target or schedule associated with that?
+
+--------------------------------------------------------------------------------
+Yafei Wen,  Invitae Corporation - CFO    [44]
+--------------------------------------------------------------------------------
+
+          Can you repeat the question? I'm sorry. I missed part of it.
+
+--------------------------------------------------------------------------------
+Jeffrey Scott Cohen,  Ladenburg Thalmann & Co. Inc., Research Division - MD of Equity Research    [45]
+--------------------------------------------------------------------------------
+
+          The timing or investing schedule associated with the RSUs.
+
+--------------------------------------------------------------------------------
+Yafei Wen,  Invitae Corporation - CFO    [46]
+--------------------------------------------------------------------------------
+
+          Yes, 3 year. Each year, 1/3.
+
+--------------------------------------------------------------------------------
+Jeffrey Scott Cohen,  Ladenburg Thalmann & Co. Inc., Research Division - MD of Equity Research    [47]
+--------------------------------------------------------------------------------
+
+          Okay. For 3 years, [3/3] 3 years.
+
+--------------------------------------------------------------------------------
+Yafei Wen,  Invitae Corporation - CFO    [48]
+--------------------------------------------------------------------------------
+
+          Yes.
+
+--------------------------------------------------------------------------------
+Jeffrey Scott Cohen,  Ladenburg Thalmann & Co. Inc., Research Division - MD of Equity Research    [49]
+--------------------------------------------------------------------------------
+
+          Okay. That's helpful. Congrats.
+
+--------------------------------------------------------------------------------
+Sean Emerson George,  Invitae Corporation - Co-Founder, President, CEO & Director    [50]
+--------------------------------------------------------------------------------
+
+          Thank you.
+
+--------------------------------------------------------------------------------
+Operator    [51]
+--------------------------------------------------------------------------------
+
+          The next question is from the line of Andrew Cooper with Raymond James & Associates.
+
+--------------------------------------------------------------------------------
+Andrew Harris Cooper,  Raymond James & Associates, Inc., Research Division - Senior Research Associate    [52]
+--------------------------------------------------------------------------------
+
+          A lot have already been asked. So maybe one that happens. Just as we think about some of the use cases here, I think it becomes important to kind of have a clinician side here where they get access and to really capture and use the data as much as a patient might like. So maybe where is Ciitizen in that process today? 
+And how does that plug into what Invitae already has from a clinician connectivity perspective to really help drive adoption? And how should we be thinking about those sort of things?
+
+--------------------------------------------------------------------------------
+Sean Emerson George,  Invitae Corporation - Co-Founder, President, CEO & Director    [53]
+--------------------------------------------------------------------------------
+
+          Yes. Anil and then Karthik, do you have 2 parts?
+
+--------------------------------------------------------------------------------
+Anil Sethi,  Ciitizen Corporation - Founder & CEO    [54]
+--------------------------------------------------------------------------------
+
+          Sure. I can start off and Karthik can bring color. There are some -- well, when Tania was diagnosed in last year of life, for example, she was seen at umpteen facilities. I think my last count was 17. 
+When she got to Hopkins, there were 16 previous to her. And we as her brothers in the business had aggregated all of our health care information into one place. And 2 things became apparent to the oncologists at Hopkins: one that she'd been getting great treatment because we know folks in the space; and number two, what is this Ciitizen and why can't everyone bring me a history like this? 
+So it's important that while the patient is the vehicle through which consent has to go it just can't be any other way walking data out the backdoor can't be a business model for the future. So patient consent has to be number one. 
+And what happens is when the patient consents to collect, we do much of the work. And then when the patient has the information, they consent to share, and we do much of the work. And that means we have tentacles. We are establishing tentacles. 
+I'll tell you in a second, that reach back into EMRs because of the term health information exchanges. And not to get too technical, there's been for the last couple of decades a network of networks that providers use to send documents between each other when patients move between institutions. And those documents are literally gold because providers on the [seating] side use those for clinical treatment. So there must be pretty valid. 
+We have specific technology and experience tapping into those HIEs or health care exchanges. And those networks reach into the medical record systems, both to pull information, but also to push it back. So we clearly think that a patient who's got aggregated information but showing up for some visit for the first time the data should arrive into their medical record number of whatever institution ahead of themselves. Karthik?
+
+--------------------------------------------------------------------------------
+Karthik Suri,  Invitae Corporation - Chief Digital Officer    [55]
+--------------------------------------------------------------------------------
+
+          Thank you. Thank you, Anil. Anil's patient-centric view then be extended to some of the solutions that we already offer that are at the cost of the patient and the provider in the scenario. For example, health systems, precision medicine programs include integration of Gia, med beyond from a risk or management perspective. And setting side perspective, that creates even a marketplace in terms of innovation provider. 
+Other precision medicine programs, including consumer boards for providers; decision support systems, including pharmacogenomic [BSS] such as YouScript. All of those can then form that combined fabric, integrated fabric through patient data with longitudinal clinical data that Ciitizen provides, then that can then power other health system precision medicine. That's how we see the other side of the network.
+
+--------------------------------------------------------------------------------
+Andrew Harris Cooper,  Raymond James & Associates, Inc., Research Division - Senior Research Associate    [56]
+--------------------------------------------------------------------------------
+
+          Congrats on the deal.
+
+--------------------------------------------------------------------------------
+Sean Emerson George,  Invitae Corporation - Co-Founder, President, CEO & Director    [57]
+--------------------------------------------------------------------------------
+
+          Thanks.
+
+--------------------------------------------------------------------------------
+Operator    [58]
+--------------------------------------------------------------------------------
+
+          The next question is from the line of Bruce Jackson with The Benchmark Company.
+
+--------------------------------------------------------------------------------
+Bruce David Jackson,  The Benchmark Company, LLC, Research Division - Senior Equity Analyst    [59]
+--------------------------------------------------------------------------------
+
+          In terms of recruiting patients to the platform, 2-part question. I'm curious to know how Ciitizen has done in the past. It sounds like advocacy groups have been an important source of patients for you. And then in the future, is this something that's going to be offered to all Invitae patients? And then beyond that, how do you plan to increase the recruitment to the platform?
+
+--------------------------------------------------------------------------------
+Sean Emerson George,  Invitae Corporation - Co-Founder, President, CEO & Director    [60]
+--------------------------------------------------------------------------------
+
+          Yes, Anil? And then Karthik, probably the same order?
+
+--------------------------------------------------------------------------------
+Anil Sethi,  Ciitizen Corporation - Founder & CEO    [61]
+--------------------------------------------------------------------------------
+
+          Sure. We'll -- the dynamic duo. Sure. The reason that we aimed first at cancers, both solid and liquid lymphomas, pediatric, neurological. There's a reason for this, and it's because there's a moral requirement to do this. There's an ethical, but there's also a lot of spend. 
+So in a $3 trillion U.S. global annual health spend, a bunch of that money goes towards the most expensive of these diseases. So there's a lot of biotech investment. And what I'm trying to get to is there's a lot of demand for this -- for these patients. 
+We know where these patients aggregate. There's about 7,000 plus or minus square disease in the world. Each has -- I'm going to take a number, 2.5 efficacy groups per rare disease, tens of thousands in the world. And when someone has on the demand side the molecule or a -- or something that they're testing or looking for, we'll go to the advocacy group that specializes in that monogenic mutation, for example, [FoxG1] or SYNGAP1. And we'll find many of the patients there. 
+So yes, in the beginning, those patients are already hovering around the advocacy groups, whom are nonprofits. Those advocacy groups also -- they exist to serve their members. This is a great way of sending their membership. Hey, there's an XYZ trial and an offer or a molecule. Would you like to participate? 
+And that's why we see such high conversion rates, I think between my answer last time on the conversion rate. It looks like it's about 83% on average. And with, like I said, with pediatric neuro, the tiger moms and the tiger parents of those kids, we are seeing a 100% conversion rate from, yes, get my records, and please put me into the trial or whatever the offer is. Karthik?
+
+--------------------------------------------------------------------------------
+Karthik Suri,  Invitae Corporation - Chief Digital Officer    [62]
+--------------------------------------------------------------------------------
+
+          Thank you, Anil. I'll add to that the following, that our incentives have certainly what Anil had mentioned, which is offer the longitudinal capability in building that personalized medicine wallet. And a big component of that personalized medicine wallet (inaudible) or otherwise and augmenting it with longitudinal clinical data that we get from Ciitizen. So that is absolutely the intent. 
+The sequence of the order of operation is going to be very much in line with what Anil mentioned, which is cancer and rare diseases. The patient value is maximum towards this and extending it from there on to the (inaudible) within that. But the goal is still is to be in a position to offer this and thereby to (inaudible) or entire patient population and beyond as Sean mentioned.
+
+--------------------------------------------------------------------------------
+Operator    [63]
+--------------------------------------------------------------------------------
+
+          And our next question comes from the line of Dave   [Dallahan] with GS.
+
+--------------------------------------------------------------------------------
+Unidentified Analyst,   -     [64]
+--------------------------------------------------------------------------------
+
+          This is Dave on for Matt. Congrats on the acquisition. It sounds like a great opportunity with a lot of synergies. As a patient-facing touch point, could this be a channel through which you could connect more patients with Invitae products and services?
+
+--------------------------------------------------------------------------------
+Sean Emerson George,  Invitae Corporation - Co-Founder, President, CEO & Director    [65]
+--------------------------------------------------------------------------------
+
+          Yes. Absolutely. And that's the short of that is that while the majority of the game here is to try to get all that launch digital information at a level of detail and in a structured enough format to be useful for the patient and their caregivers, it will also point out where there's key information missing that perhaps the clinician or the care team isn't aware of, perhaps not quite up to speed on. Perhaps the guidelines have only recently changed, and not everybody is there. 
+And so yes, absolutely. We do believe that as the presentation layer to both the patient and the physician and the clinician portal point out gaps in key pieces of missing information. It will lead to more utilization of the testing services. That's right.
+
+--------------------------------------------------------------------------------
+Unidentified Analyst,   -     [66]
+--------------------------------------------------------------------------------
+
+          Great. And do you have any plans to publish data measuring how Ciitizen improves patient outcomes?
+
+--------------------------------------------------------------------------------
+Sean Emerson George,  Invitae Corporation - Co-Founder, President, CEO & Director    [67]
+--------------------------------------------------------------------------------
+
+          Yes. I think kind of along with the type of data we and our collaborators are constantly putting out there showing the benefit in treatment profile for patients to benefit in health economics, we will undoubtedly include what the benefit of this kind of information on each patient can do. We'll certainly be certainly be publishing that in both our own and then collaborator publication, again, with the consent of the patient.
+
+--------------------------------------------------------------------------------
+Unidentified Analyst,   -     [68]
+--------------------------------------------------------------------------------
+
+          Fantastic. Congrats.
+
+--------------------------------------------------------------------------------
+Sean Emerson George,  Invitae Corporation - Co-Founder, President, CEO & Director    [69]
+--------------------------------------------------------------------------------
+
+          Thanks.
+
+--------------------------------------------------------------------------------
+Operator    [70]
+--------------------------------------------------------------------------------
+
+          I will now turn the call back over to CEO, Sean George, for closing remarks.
+
+--------------------------------------------------------------------------------
+Sean Emerson George,  Invitae Corporation - Co-Founder, President, CEO & Director    [71]
+--------------------------------------------------------------------------------
+
+          Thank you. Thanks, again, everybody, for joining and then the questions. And we'll look forward to catching up in the future on other calls or conferences. Thanks again.
+
+--------------------------------------------------------------------------------
+Operator    [72]
+--------------------------------------------------------------------------------
+
+          Ladies and gentlemen, this concludes today's conference call. You may now disconnect. Presenters, please hold.
+
+
+
+
+
+
+
+--------------------------------------------------------------------------------
+Definitions
+--------------------------------------------------------------------------------
+PRELIMINARY TRANSCRIPT: "Preliminary Transcript" indicates that the 
+Transcript has been published in near real-time by an experienced 
+professional transcriber.  While the Preliminary Transcript is highly 
+accurate, it has not been edited to ensure the entire transcription 
+represents a verbatim report of the call.
+
+EDITED TRANSCRIPT: "Edited Transcript" indicates that a team of professional 
+editors have listened to the event a second time to confirm that the 
+content of the call has been transcribed accurately and in full.
+
+--------------------------------------------------------------------------------
+Disclaimer
+--------------------------------------------------------------------------------
+Refinitiv reserves the right to make changes to documents, content, or other 
+information on this web site without obligation to notify any person of 
+such changes.
+
+In the conference calls upon which Event Transcripts are based, companies 
+may make projections or other forward-looking statements regarding a variety 
+of items. Such forward-looking statements are based upon current 
+expectations and involve risks and uncertainties. Actual results may differ 
+materially from those stated in any forward-looking statement based on a 
+number of important factors and risks, which are more specifically 
+identified in the companies' most recent SEC filings. Although the companies 
+may indicate and believe that the assumptions underlying the forward-looking 
+statements are reasonable, any of the assumptions could prove inaccurate or 
+incorrect and, therefore, there can be no assurance that the results 
+contemplated in the forward-looking statements will be realized.
+
+THE INFORMATION CONTAINED IN EVENT TRANSCRIPTS IS A TEXTUAL REPRESENTATION
+OF THE APPLICABLE COMPANY'S CONFERENCE CALL AND WHILE EFFORTS ARE MADE TO
+PROVIDE AN ACCURATE TRANSCRIPTION, THERE MAY BE MATERIAL ERRORS, OMISSIONS,
+OR INACCURACIES IN THE REPORTING OF THE SUBSTANCE OF THE CONFERENCE CALLS.
+IN NO WAY DOES REFINITIV OR THE APPLICABLE COMPANY ASSUME ANY RESPONSIBILITY FOR ANY INVESTMENT OR OTHER
+DECISIONS MADE BASED UPON THE INFORMATION PROVIDED ON THIS WEB SITE OR IN
+ANY EVENT TRANSCRIPT. USERS ARE ADVISED TO REVIEW THE APPLICABLE COMPANY'S
+CONFERENCE CALL ITSELF AND THE APPLICABLE COMPANY'S SEC FILINGS BEFORE
+MAKING ANY INVESTMENT OR OTHER DECISIONS.
+--------------------------------------------------------------------------------
+Copyright 2023 Refinitiv. All Rights Reserved.
+--------------------------------------------------------------------------------

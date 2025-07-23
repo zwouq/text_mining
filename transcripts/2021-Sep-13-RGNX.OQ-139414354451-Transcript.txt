@@ -1,0 +1,307 @@
+
+
+Refinitiv StreetEvents Event Transcript
+E D I T E D   V E R S I O N
+
+Regenxbio Inc Call to Discuss Eye Care Collaboration with Abbvie Inc
+SEPTEMBER 13, 2021 / 12:00PM GMT
+
+================================================================================
+Corporate Participants
+================================================================================
+
+ * Kenneth T. Mills
+   REGENXBIO Inc. - President, CEO & Director
+ * Curran M. Simpson
+   REGENXBIO Inc. - Senior VP and Chief Operations & Technology Officer
+ * Patrick J. Christmas
+   REGENXBIO Inc. - Senior VP & Chief Legal Officer
+ * Stephen Pakola
+   REGENXBIO Inc. - Senior VP & Chief Medical Officer
+
+================================================================================
+Conference Call Participiants
+================================================================================
+
+ * Mani Foroohar
+   SVB Leerink LLC, Research Division - MD of Genetic Medicines & Senior Research Analyst
+ * Esther P. Rajavelu
+   UBS Investment Bank, Research Division - Analyst & Executive Director
+ * Dane Vincent Leone
+   Raymond James & Associates, Inc., Research Division - Research Analyst
+ * Luca Issi
+   RBC Capital Markets, Research Division - Research Analyst
+ * Konstantinos Biliouris
+   Morgan Stanley, Research Division - Research Associate
+ * Alec Warren Stranahan
+   BofA Securities, Research Division - Associate
+ * Huidong Wang
+   Barclays Bank PLC, Research Division - Research Analyst
+
+================================================================================
+Presentation
+--------------------------------------------------------------------------------
+Operator    [1]
+--------------------------------------------------------------------------------
+Good morning and welcome to the AbbVie and REGENXBIO announce eye care collaboration conference call. (Operator Instructions) As a reminder, this conference call is being recorded. 
+I would now like to turn the call over to Mr. Patrick Christmas, Chief Legal Officer of REGENXBIO. You may begin.
+
+--------------------------------------------------------------------------------
+Patrick J. Christmas,  REGENXBIO Inc. - Senior VP & Chief Legal Officer    [2]
+--------------------------------------------------------------------------------
+Good morning and thank you for joining us today. Speaking on behalf of REGENXBIO this morning is Ken Mills, REGENXBIO's President and Chief Executive Officer; joined by Vit Vasista, our Chief Financial Officer; Dr. Steve Pakola, our Chief Medical Officer; Curran Simpson, our Chief Operations and Technology Officer; and Ram Palanki, our Senior Vice President of Commercial Strategy and Operations, who will each be available for questions and answers.
+Earlier this morning, REGENXBIO issued a press release announcing an eye care collaboration with AbbVie. This press release is available on our website at www.regenxbio.com. 
+Today's conference call will include forward-looking statements regarding our financial outlook in addition to regulatory and product development plans. These forward-looking statements are subject to risks and uncertainties that may cause actual results to differ from those forecasted and can be identified by words such as believe, may, will, estimate, continue, anticipate, assume, design, intend, expect, could, plan, potential, predict, seek, should, would and other words of similar meaning. 
+Any such forward-looking statements are not guarantees of future performance and involve certain risks and uncertainties. These risks are described in the Risk Factors and the Management's Discussion and Analysis sections of REGENXBIO's annual report on Form 10-K for the full year ended December 31, 2020, and comparable Risk Factors sections of REGENXBIO's quarterly reports on Form 10-Q, which are on file with the Securities and Exchange Commission and available on the SEC's website.
+Any information we provide on this conference call is provided only as of the date of this call, September 13, 2021, and we undertake no obligation to update any forward-looking statements we may make on this call on account of new information, future events or otherwise.
+Please be advised that today's call is being recorded and webcast. In addition, any unaudited or pro forma financial information that may be provided is preliminary and does not purport to project financial positions or operating results of the company. Actual results may differ materially. 
+I would now like to turn the call over to Ken Mills. Ken?
+
+--------------------------------------------------------------------------------
+Kenneth T. Mills,  REGENXBIO Inc. - President, CEO & Director    [3]
+--------------------------------------------------------------------------------
+Thank you, Patrick, and good morning, everyone. Thanks for joining us early. We're very pleased this morning to have announced our strategic partnership with AbbVie, combining eye care and gene therapy expertise to develop and commercialize RGX-314, our potential onetime gene therapy for the chronic treatment of retinal diseases such as wet age-related macular degeneration and diabetic retinopathy. We expect this important and strategic partnership may expand the impact of RGX-314 for millions of patients around the world.
+For more than a decade, REGENXBIO has been a leader in seeking to improve lives through the curative potential of gene therapy. We believe AbbVie is a strong and complementary partner for us. We plan to leverage their excellent commercial infrastructure and leadership in eye care with our expertise in AAV gene therapy clinical development and deep in-house knowledge of manufacturing and production.
+As a reminder, RGX-314 is a novel onetime treatment which include the NAV AAV8 vector containing a gene encoding an anti-VEGF antibody fragment. The gene therapy is designed to modify the pathway for formation of new leaky blood vessels and retinal fluid accumulation, a leading cause of blindness in patients across multiple retinal diseases.
+For patients with wet age-related macular degeneration, the current standard of care requires frequent and burdensome anti-VEGF injections. Real-world evidence has shown that patients commonly lose vision as they get older because injection frequency drops off over time.
+Anti-VEGF injections are also approved for the treatment of diabetic retinopathy, or DR, which is a leading cause of vision loss in adults between ages 24 and 75. As the disease progresses from non-proliferative DR to proliferative DR, patients are at an increased risk of developing vision-threatening complications.
+We believe RGX-314 has the potential to shift the paradigm of care for these patients as a onetime treatment. This program builds on data that we have seen from our Phase I/II study and long-term follow-up study, where we have observed durable effects in patients dosed with RGX-314, including stable vision and reduction in anti-VEGF injections for 3 years after dosing into Cohort 3 and 2 years after dosing in cohorts 4 and 5, which are meaningful end points for patients and for the clinical management of the disease.
+As we announced earlier this year, the first of 2 pivotal studies evaluating the subretinal delivery of RGX-314 in patients with wet AMD, our ATMOSPHERE study, is enrolling patients. We look forward to continued execution across the pivotal program, including the initiation of our second pivotal trial.
+In addition to evaluating subretinal delivery, we are still evaluating suprachoroidal delivery of RGX-314 in 2 ongoing Phase II trials. These are the first trials of any gene therapy evaluating delivery to the suprachoroidal space of the eye, and we believe that this nonsurgical, in-office approach as well as the subretinal delivery may enable us to deliver maximum -- rather maximize the therapeutic potential of RGX-314 for millions of patients with both wet age-related macular degeneration, diabetic retinopathy and other chronic retinal diseases.
+Moving on to today's announcement. Our partnership with AbbVie is a significant milestone for our company that provides us the potential opportunity to reach patients worldwide with our innovative gene therapy. 
+Some details about the agreement. AbbVie will pay us $370 million upfront payment. In addition to the upfront payment, REGENXBIO is eligible to receive over $1.3 billion in potential development, regulatory and commercial milestone payments, which include up to approximately $780 million in potential development and regulatory payments.
+AbbVie will lead the clinical development and commercialization of RGX-314 globally. REGENXBIO shall participate in the United States commercialization efforts, as provided under a mutually agreed upon commercialization plan, where REGENXBIO and AbbVie will share equally or 50-50 in profits from the net sales of RGX-314 in the U.S. And AbbVie will pay REGENXBIO mid-teen to low-20s royalty percentages on net sales of RGX-314 outside of the U.S.
+REGENXBIO and AbbVie agreed to continue to partner on the clinical development of RGX-314 together, beyond our current ongoing studies of ATMOSPHERE, AAVIATE and ALTITUDE using the suprachoroidal approach, which we will continue to be responsible for. We will share costs with AbbVie for additional studies utilizing both subretinal and suprachoroidal delivery through the end of 2022.
+Beginning on January 1, 2023, AbbVie will be responsible for the majority of the development costs. This cost-sharing structure includes the second pivotal trial of RGX-314 using the subretinal delivery for the treatment of wet AMD, which is expected to support the BLA filing in 2024.
+REGENXBIO is an industry leader in AAV production and manufacturing capabilities. And under this collaboration, we will be leading manufacturing of RGX-314 for clinical development and the U.S. commercial supply, and AbbVie will lead manufacturing of RGX-314 for the commercial supply outside of the United States. Our internal GMP facility continues to be on track to be operational in the first half of 2022 and is expected to enable fully integrated, state-of-the-art production of our NAV AAV vectors using our platform suspension cell culture process.
+Finally, the transaction is expected to close by the end of 2021 subject to the satisfaction of customary closing conditions, including applicable regulatory approvals. 
+Once again, we're very pleased to have announced this morning our strategic partnership with AbbVie, combining eye care and gene therapy expertise to develop and commercialize treatments for chronic retinal diseases. We look forward to a productive and successful partnership with AbbVie.
+And with that, I will now turn the call over for questions.
+Operator?
+
+
+================================================================================
+Questions and Answers
+--------------------------------------------------------------------------------
+Operator    [1]
+--------------------------------------------------------------------------------
+(Operator Instructions) Our first question comes from Alec Stranahan with Bank of America.
+
+--------------------------------------------------------------------------------
+Alec Warren Stranahan,  BofA Securities, Research Division - Associate    [2]
+--------------------------------------------------------------------------------
+Just a couple from us. I guess first, what in your view makes AbbVie the ideal partner for 314? Is it their commercial reach? Or were there some other synergies defined in the deal-making process as well?
+And then one question actually on the Phase I/II trial cohorts 4 and 5 with data out to 2 years now. Obviously, you're taking doses comparable to cohorts 3 and 4 into the Phase III, but wondering if the 2-year data for Cohort 5 specifically on mean CRT and annualized injection rate has changed your thinking at all about the highest-dose cohort?
+
+--------------------------------------------------------------------------------
+Kenneth T. Mills,  REGENXBIO Inc. - President, CEO & Director    [3]
+--------------------------------------------------------------------------------
+Thanks for the question. We chose to partner with AbbVie certainly due to their strengths and their global commercialization reach and the fact that they have one of the largest eye care franchises in the world. Clearly, AbbVie is an innovative health care company that's truly dedicated to patients. We believe that's a great combination for the expertise that we have with AAV gene therapy, both the science and the manufacturing capabilities. .
+So working through this partnership allows us to bring the complementary strengths of both partners to really achieve that global reach for RGX-314 and its potential. Steve, comments about the clinical data?
+
+--------------------------------------------------------------------------------
+Stephen Pakola,  REGENXBIO Inc. - Senior VP & Chief Medical Officer    [4]
+--------------------------------------------------------------------------------
+Sure. So we're excited about the pivotal development for subretinal, of course. And as you mentioned, we picked our dose range where we're in that dose level 3 to 4 range based on all the data that we had to date, including data out to 3 years for Cohort 3.
+So in short, with -- nothing we've seen would change our current plan. We've started -- we have ongoing the first of the 2 pivotal studies. We previously announced that we plan to start the second pivotal by the end of the year. And we're excited about that based on the consistent findings of good results and meeting our target product profile across the dose range. So we continue to be excited about our pivotal program.
+
+--------------------------------------------------------------------------------
+Operator    [5]
+--------------------------------------------------------------------------------
+Our next question comes from Matthew Harrison with Morgan Stanley.
+
+--------------------------------------------------------------------------------
+Konstantinos Biliouris,  Morgan Stanley, Research Division - Research Associate    [6]
+--------------------------------------------------------------------------------
+This is Kostas on for Matthew. Two questions from us. We were wondering if AbbVie has seen the suprachoroidal data before they make a decision and how important this data is for the commercial decisions around 314.
+
+--------------------------------------------------------------------------------
+Kenneth T. Mills,  REGENXBIO Inc. - President, CEO & Director    [7]
+--------------------------------------------------------------------------------
+Obviously, we can't comment on any specific details. Of course, in a process like this, AbbVie is completing necessary diligence so that we can discuss how we're going to structure the partnership on a going-forward basis. And we've outlined that this is a global partnership that includes both the subretinal and the suprachoroidal delivery approaches.
+
+--------------------------------------------------------------------------------
+Konstantinos Biliouris,  Morgan Stanley, Research Division - Research Associate    [8]
+--------------------------------------------------------------------------------
+And one more question. You have reported $783 million in development and regulatory milestones, and we were wondering whether this is offsetting the clinical and manufacturing costs that you are responsible for until 2023 or whether this cost is in excess of this amount.
+
+--------------------------------------------------------------------------------
+Kenneth T. Mills,  REGENXBIO Inc. - President, CEO & Director    [9]
+--------------------------------------------------------------------------------
+Thanks, Kostas. Yes, we haven't given any additional guidance about any costs with respect to the development programs beyond our current internal guidance that cash on hand as of last quarter certainly supports our ability to execute on all of our programs at REGENXBIO into the second half of 2023.
+So we look at the opportunity today as enhancing, obviously, the science and the capabilities around the RGX-314 program as well as bringing in additional capital for REGENXBIO to both execute on the expansion of that opportunity and other opportunities inside the company.
+
+--------------------------------------------------------------------------------
+Operator    [10]
+--------------------------------------------------------------------------------
+Our next question comes from Dane Leone with Raymond James.
+
+--------------------------------------------------------------------------------
+Dane Vincent Leone,  Raymond James & Associates, Inc., Research Division - Research Analyst    [11]
+--------------------------------------------------------------------------------
+Congratulations on the great deal. Just maybe the first one from me, can you just confirm if this logic is correct? So your team will be responsible for the clinical development costs essentially of the first ATMOSPHERE study getting up and running through the end of 2022, but that would transfer the latter part of those clinical study costs to AbbVie. The second pivotal would be more of a split or would they start picking up the tab on the second study as it starts? And then presumably, the start in 2023 contemplates that the Phase II studies that you're currently running for suprachoroidal would basically finish and then decisions would be made in terms of the latter studies going forward.
+
+--------------------------------------------------------------------------------
+Kenneth T. Mills,  REGENXBIO Inc. - President, CEO & Director    [12]
+--------------------------------------------------------------------------------
+Thanks for that question, Dane. That's right. I think that what we've stated is ATMOSPHERE, AAVIATE and ALTITUDE continue to be under our control and that we're continuing to pay for the execution on those studies. Obviously, once we're able to get past the closing, we're going to have a lot of back and forth between the teams with respect to how we're going to be establishing that global clinical plan for advancement.
+But I think you're also right in saying that the next suprachoroidal studies, which obviously are going to be informed by data from AAVIATE and ALTITUDE, and the second pivotal study for the subretinal program is an area that's going to start to transition where more cost sharing is going to occur.
+And we're -- ultimately, I think we're looking at this global plan that by the time we're getting into 2023, we have now fully installed with our partner here, AbbVie, a global program, and they're responsible for global clinical development and commercialization.
+
+--------------------------------------------------------------------------------
+Operator    [13]
+--------------------------------------------------------------------------------
+Our next question comes from Gena Wang with Barclays.
+
+--------------------------------------------------------------------------------
+Huidong Wang,  Barclays Bank PLC, Research Division - Research Analyst    [14]
+--------------------------------------------------------------------------------
+Congrats on the deal. First question, just wondering then, Ken, was it a very competitive process regarding this deal? And the second, regarding the AAVIATE Cohort 1 data later this month, beyond the protein level, BCVA and CRT data, wondering, will we also see the top line safety data from Cohort 2 and 3?
+
+--------------------------------------------------------------------------------
+Kenneth T. Mills,  REGENXBIO Inc. - President, CEO & Director    [15]
+--------------------------------------------------------------------------------
+Thanks for the question. I can't comment on the background of the process. But what I can say with respect to AbbVie is we had really an excellent interaction with them at the clinical team level, at the commercial team level. It's an unbelievable organization. We're excited to be working with them as a partner in a very unique, obviously, opportunity here to take a very innovative medicine in gene therapy to many, many patients worldwide, and we couldn't be happier with that.
+With respect to your second question, we've given guidance just a few weeks ago about our plans for upcoming data releases on AAVIATE, and we continue to maintain that guidance that we'll have the 6-month data from Cohort 1 in the AAVIATE study reported at the upcoming conference in Retina Society. And that will include safety data with respect to the Cohort 1 as well as a time point for other cohorts in the AAVIATE trial.
+
+--------------------------------------------------------------------------------
+Operator    [16]
+--------------------------------------------------------------------------------
+Our next question comes from Mani Foroohar with SVB Leerink.
+
+--------------------------------------------------------------------------------
+Mani Foroohar,  SVB Leerink LLC, Research Division - MD of Genetic Medicines & Senior Research Analyst    [17]
+--------------------------------------------------------------------------------
+Congratulations on what was a very excellent deal for you guys for sure. I have a quick question first around the structure and logic of milestones. Is it reasonable for us to expect the milestone patients to be chopped up fairly equally between wet AMD and diabetic eye disease and also fairly equally by modality between subretinal or suprachoroidal? Or should we be thinking more broadly that it's weighted one way or the other either by indication or by modality? And then I have a quick follow-up question.
+
+--------------------------------------------------------------------------------
+Kenneth T. Mills,  REGENXBIO Inc. - President, CEO & Director    [18]
+--------------------------------------------------------------------------------
+Thanks, Mani. That's a good question. I think that in general, what we've outlined about the milestones is that they're associated with both wet AMD and DR. And I think it's reasonable to make assumptions about milestones being associated with the stage of development, whether it's suprachoroidal or subretinal, in terms of potential future and relatively weighted towards the size of the market opportunities in general, which we view wet AMD and diabetic retinopathy both to be equally large market opportunities.
+
+--------------------------------------------------------------------------------
+Mani Foroohar,  SVB Leerink LLC, Research Division - MD of Genetic Medicines & Senior Research Analyst    [19]
+--------------------------------------------------------------------------------
+Great. That's helpful. And as you mentioned, that you've been making decisions down the road in sort of a collaborative manner with AbbVie. I'm trying to -- do you -- to capture all of the eligible milestones, would you need to progress fully to approval and commercialization across both those indications in both modalities, suprachoroidal and subretinal? Or would you be eligible for all of the announced potential milestones you described in the PR if you reached approval only in one modality or only in one indication? I'm trying to get a sense of how that will be chopped up as well.
+
+--------------------------------------------------------------------------------
+Kenneth T. Mills,  REGENXBIO Inc. - President, CEO & Director    [20]
+--------------------------------------------------------------------------------
+Yes, thanks. It's a good question. I think at this point, I can't comment much more on the structure of the development, regulatory and commercial milestones, but what I can say is that this is a pretty normal structure for, I think, what you'd find in biotech in terms of opening up the potential value as we achieve future milestones.
+
+--------------------------------------------------------------------------------
+Operator    [21]
+--------------------------------------------------------------------------------
+Our next question comes from Esther Rajavelu with UBS.
+
+--------------------------------------------------------------------------------
+Esther P. Rajavelu,  UBS Investment Bank, Research Division - Analyst & Executive Director    [22]
+--------------------------------------------------------------------------------
+Congrats on the deal. I have a couple. First one is, I want to understand the rationale for splitting manufacturing between U.S. and OUS and how that might affect development times for the OUS markets.
+
+--------------------------------------------------------------------------------
+Kenneth T. Mills,  REGENXBIO Inc. - President, CEO & Director    [23]
+--------------------------------------------------------------------------------
+Sure, Esther. I'm going to let Curran answer that question.
+
+--------------------------------------------------------------------------------
+Curran M. Simpson,  REGENXBIO Inc. - Senior VP and Chief Operations & Technology Officer    [24]
+--------------------------------------------------------------------------------
+Sure. I don't think there would be any impact on time line because the primary source between Fuji and Rockville will be in place. So this will be a gradual expansion of our network with AbbVie.
+
+--------------------------------------------------------------------------------
+Esther P. Rajavelu,  UBS Investment Bank, Research Division - Analyst & Executive Director    [25]
+--------------------------------------------------------------------------------
+Understood. And why did you not want to do the commercial -- why did you not want to do the manufacturing for OUS markets?
+
+--------------------------------------------------------------------------------
+Kenneth T. Mills,  REGENXBIO Inc. - President, CEO & Director    [26]
+--------------------------------------------------------------------------------
+I don't think it's so much that we didn't want to do manufacturing for the OUS market, but we have a partnership here. And looking at the capabilities and infrastructure that AbbVie has globally, including at their manufacturing capabilities and team level, we saw an opportunity to be able to expand in an area that is beyond what our footprint looks like right now from a sort of end-to-end supply chain perspective.
+And the deal is structured, Esther, in a way that AbbVie is responsible for global commercialization outside of the U.S. So we're very excited about partnering in this way because we view that it allows for us to grow this program with someone who already has significant capabilities, supply chain in addition to infrastructure ex U.S.
+
+--------------------------------------------------------------------------------
+Operator    [27]
+--------------------------------------------------------------------------------
+(Operator Instructions) Our next question comes from Luca Issi with RBC Capital.
+
+--------------------------------------------------------------------------------
+Luca Issi,  RBC Capital Markets, Research Division - Research Analyst    [28]
+--------------------------------------------------------------------------------
+Oh, great. Congrats on the deal. Just following up on Esther's question here. Manufacturing, obviously we've seen many companies getting in trouble on manufacturing. And to the best of my knowledge, AbbVie is not developing any gene therapy product today. So maybe bigger picture, can you just elaborate on what is the strategy to allow a smooth transition of manufacturing between you and AbbVie ex U.S.?
+
+--------------------------------------------------------------------------------
+Curran M. Simpson,  REGENXBIO Inc. - Senior VP and Chief Operations & Technology Officer    [29]
+--------------------------------------------------------------------------------
+And so I think stepping back, again we've had a long-term relationship with Fuji in which we produced the bioreactor-based material you've heard about in other discussions. We had several years to establish the commercial network, which will be starting next year in Rockville. So I feel very confident between our capabilities and AbbVie's future capability, that we'll be able to sequence that without any interruption to the time lines.
+
+--------------------------------------------------------------------------------
+Kenneth T. Mills,  REGENXBIO Inc. - President, CEO & Director    [30]
+--------------------------------------------------------------------------------
+AbbVie is a world leader in providing medicines, including biologics, to patients throughout the world. And I think connecting our team, the team at Fuji with AbbVie's team and capabilities to bring RGX-314 to patients throughout the globe is an exercise that we're excited about.
+
+--------------------------------------------------------------------------------
+Operator    [31]
+--------------------------------------------------------------------------------
+There are no further questions. I'd like to turn the call back over to Ken Mills for any closing remarks.
+
+--------------------------------------------------------------------------------
+Kenneth T. Mills,  REGENXBIO Inc. - President, CEO & Director    [32]
+--------------------------------------------------------------------------------
+Again, today's announcement with our partnership with AbbVie is a significant milestone for our company. We're excited about the opportunity to work with them and look forward to updating all of you on the continued progress of the RGX-314 program and this partnership in the future and especially once we get on the other side of the customary regulatory review. Thanks, everyone. Thanks for talking to us early this morning and have a good rest of the day and week.
+
+--------------------------------------------------------------------------------
+Operator    [33]
+--------------------------------------------------------------------------------
+Ladies and gentlemen, this concludes the conference. You may now disconnect. Everyone, have a great day.
+
+
+
+
+
+
+
+--------------------------------------------------------------------------------
+Definitions
+--------------------------------------------------------------------------------
+PRELIMINARY TRANSCRIPT: "Preliminary Transcript" indicates that the 
+Transcript has been published in near real-time by an experienced 
+professional transcriber.  While the Preliminary Transcript is highly 
+accurate, it has not been edited to ensure the entire transcription 
+represents a verbatim report of the call.
+
+EDITED TRANSCRIPT: "Edited Transcript" indicates that a team of professional 
+editors have listened to the event a second time to confirm that the 
+content of the call has been transcribed accurately and in full.
+
+--------------------------------------------------------------------------------
+Disclaimer
+--------------------------------------------------------------------------------
+Refinitiv reserves the right to make changes to documents, content, or other 
+information on this web site without obligation to notify any person of 
+such changes.
+
+In the conference calls upon which Event Transcripts are based, companies 
+may make projections or other forward-looking statements regarding a variety 
+of items. Such forward-looking statements are based upon current 
+expectations and involve risks and uncertainties. Actual results may differ 
+materially from those stated in any forward-looking statement based on a 
+number of important factors and risks, which are more specifically 
+identified in the companies' most recent SEC filings. Although the companies 
+may indicate and believe that the assumptions underlying the forward-looking 
+statements are reasonable, any of the assumptions could prove inaccurate or 
+incorrect and, therefore, there can be no assurance that the results 
+contemplated in the forward-looking statements will be realized.
+
+THE INFORMATION CONTAINED IN EVENT TRANSCRIPTS IS A TEXTUAL REPRESENTATION
+OF THE APPLICABLE COMPANY'S CONFERENCE CALL AND WHILE EFFORTS ARE MADE TO
+PROVIDE AN ACCURATE TRANSCRIPTION, THERE MAY BE MATERIAL ERRORS, OMISSIONS,
+OR INACCURACIES IN THE REPORTING OF THE SUBSTANCE OF THE CONFERENCE CALLS.
+IN NO WAY DOES REFINITIV OR THE APPLICABLE COMPANY ASSUME ANY RESPONSIBILITY FOR ANY INVESTMENT OR OTHER
+DECISIONS MADE BASED UPON THE INFORMATION PROVIDED ON THIS WEB SITE OR IN
+ANY EVENT TRANSCRIPT. USERS ARE ADVISED TO REVIEW THE APPLICABLE COMPANY'S
+CONFERENCE CALL ITSELF AND THE APPLICABLE COMPANY'S SEC FILINGS BEFORE
+MAKING ANY INVESTMENT OR OTHER DECISIONS.
+--------------------------------------------------------------------------------
+Copyright 2021 Refinitiv. All Rights Reserved.
+--------------------------------------------------------------------------------

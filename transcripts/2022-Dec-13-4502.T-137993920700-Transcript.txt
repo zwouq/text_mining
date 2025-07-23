@@ -1,0 +1,367 @@
+
+
+Refinitiv StreetEvents Event Transcript
+E D I T E D   V E R S I O N
+
+Takeda Pharmaceutical Co Ltd to Acquire Oral Allosteric TYK2 Inhibitor NDI-034858 From Nimbus Therapeutics Call
+DECEMBER 13, 2022 / 10:30PM GMT
+
+================================================================================
+Corporate Participants
+================================================================================
+
+ * Andrew S. Plump
+   Takeda Pharmaceutical Company Limited - President of Research & Development and Representative Director
+ * Constantine Saroukos
+   Takeda Pharmaceutical Company Limited - CFO & Representative Director
+ * Christopher David O'Reilly
+   Takeda Pharmaceutical Company Limited - Global Head of IR & Global Finance
+ * Ayako Iwamuro
+   Takeda Pharmaceutical Company Limited - Director of IR
+ * Julie Kim
+   Takeda Pharmaceutical Company Limited - President of the U.S. Business Unit & U.S. Country Head
+ * Christophe Weber
+   Takeda Pharmaceutical Company Limited - President, CEO & Representative Director
+
+================================================================================
+Conference Call Participiants
+================================================================================
+
+ * Kenneth Charles Cacciatore
+   Cowen and Company, LLC, Research Division - MD & Senior Research Analyst
+ * Fumiyoshi Sakai
+   Crédit Suisse AG, Research Division - Research Analyst
+ * Stephen Barker
+   Jefferies LLC, Research Division - Equity Analyst
+ * Hidemaru Yamaguchi
+   Citigroup Inc., Research Division - Research Analyst
+ * Seiji Wakao
+   JPMorgan Chase & Co, Research Division - VP
+ * Kazuaki Hashiguchi
+   Daiwa Securities Co. Ltd., Research Division - Research Analyst
+ * Shinichiro Muraoka
+   Morgan Stanley, Research Division - Research Analyst
+
+================================================================================
+Presentation
+--------------------------------------------------------------------------------
+Christopher David O'Reilly,  Takeda Pharmaceutical Company Limited - Global Head of IR & Global Finance    [1]
+--------------------------------------------------------------------------------
+[Interpreted] Good morning. This is O'Reilly from the Global IR from the Takeda Pharmaceutical industry. So thank you very much for joining us for the webinar today for the TYK2 inhibitor NDI-034858.
+And first, let me explain about the language setting. Select English.
+Before starting, I'd like to remind everyone that we will be discussing forward-looking statements within the meaning of the Private Securities Litigation Reform Act of 1995. Actual results may differ materially from those discussed today. The factor that could cause our actual results to differ materially are discussed in our most recent Form 20-4 and in our other SEC filings. Please also refer to the important notice on Page 2.
+So now I would like to move on to the presentation today. So first, I would like to invite our CEO, the Christophe Weber; and also the R&D President, Andy Plump, who is going to give the presentation and then followed by the question-and-answer session. So I now like to start.
+
+--------------------------------------------------------------------------------
+Christophe Weber,  Takeda Pharmaceutical Company Limited - President, CEO & Representative Director    [2]
+--------------------------------------------------------------------------------
+Thank you, Chris and Ayako. Good morning, good evening, everyone. It's my great pleasure to welcome you to this conference call to discuss Takeda announcement to acquire this late-stage, potential best-in-class, oral allosteric TYK2 inhibitors NDI-034858, which will be called TAK-279 upon closing. So in the following discussion, we'll use TAK-279. Adding this TYK2 inhibitor to our late-stage pipeline gives Takeda a very exciting program that has the potential to significantly expand our portfolio and patient impact, while enhancing our growth strategy beyond ENTYVIO. This program is aligned with our therapeutic area strategy. And with our strong background in immune-mediated disease, we are very confident that we can execute a broad development program and deliver a best-in-class therapy for patients that could also have significant revenue potential for Takeda.
+If now I go on Slide 3. Slide 3, the summary of the strategic rationale and deal terms. So we are very extremely excited to acquire TAK-279 because of its potential to demonstrate best-in-class efficacy as a consequence of its wide therapeutic margin, and Andy will further explain. Its unique property should allow to demonstrate efficacy in multiple immune-mediated diseases, including psoriasis, inflammatory bowel disease, psoriatic arthritis, lupus and others. Considering the strong alignment with Takeda's therapeutic area strategy and early data demonstrating the high selectivity of the molecule, we have been actually evaluating this asset for some time. Last month, Nimbus announced positive Phase IIb data in the lead indication of psoriasis. And after seeing the data, particularly the PASI score, we are very optimistic about its differentiation within the TYK2 class, and potential to be transformative in the broader psoriasis market. We expect to initiate a Phase III psoriasis study in 2023 with potential for regulatory filing in the fiscal year '25 to '27 time frame. This means that the program could be generating meaningful revenue by the early 2030, enhancing our growth profile beyond ENTYVIO.
+Under the terms of our agreement with Nimbus, we'll pay $4 billion upfront and 2 milestone payment of $1 billion each upon reaching annual net sales of $4 billion and $5 billion, which we believe and I guess, Nimbus also are realistic milestones. Obviously, peak revenue should be higher than this milestone. We plan to form the deal primarily through cash on hand and expect to close within this fiscal year, pending antitrust review.
+I'd like to now hand over to Andy to dive more deeply into the profile of the molecule.
+
+--------------------------------------------------------------------------------
+Andrew S. Plump,  Takeda Pharmaceutical Company Limited - President of Research & Development and Representative Director    [3]
+--------------------------------------------------------------------------------
+Terrific. Thank you very much, Christophe. I'd like to spend a few minutes sharing with you why we're so excited about TAK-279. So let's dive in firstly to the pharmacology and then we'll speak a little bit to the clinical data that are out there. So TAK-279 is a novel molecule that was discovered and initially developed by Nimbus. It's an oral pill. It's a highly potent and selective importantly, allosteric, in unique allosteric tyrosine kinase or TYK2 inhibitor. So let's talk a little bit about the innate immune system and the role that TYK2 plays in innate immune signal transduction. So TYK2 is a signaling molecule that pairs with JAK to help to mediate signaling from proinflammatory cytokines, like IL-12, IL-23 or as you see also in this slide, interferon alpha or interferon beta. TYK2 historically has had a very strong human genetics association with inflammatory bowel disease. In fact, it's one of the most strong human genetic associations that's been a driver of multiple drug discovery programs. And more recently, there has been pharmacological proof-of-concept in humans for the use of TYK2 to treat a number of autoimmune and inflammatory diseases. So let's talk a little bit about that.
+TYK2 pairs with JAK as a heterodimer. And when one of the cytokines IL-12, IL-23 or interferon bind to its cognate receptor, an inflammatory signal is sent to the cell. We know that you can inhibit this signal with antibodies that block IL-12 or IL-23. And these antibodies have efficacy across a range of autoimmune diseases, including psoriasis and inflammatory bowel disease. Similarly, you can inhibit this signaling cascade by blocking one of the JAKs. And these inhibitors have benefits across a range of autoimmune diseases. The challenge is with the JAKs has been safety. JAKs contained black box warnings for cardiovascular side effects, as well as other side effects.
+So why are we so excited about the TYK2 mechanism? TYK2 is related to JAK. It's very difficult to make a highly selective inhibitor of TYK2, but Nimbus has done just that. So as you look to the left, you get a sense for the potency of the TAK-279 molecule NDI, as well as its selectivity. So you can see that TAK-279 has exquisite biochemical selectivity to TYK2. It is a unique TYK2 inhibitor with 1.5x 10 to the 6. That's 1.5 million fold selectivity of TYK to JAK. So it does not inhibit JAK.
+Now, relative to the first-in-class agent, deucra, our selectivity, TAK-279 selectivity is significantly greater. It's 1.3x 10 to the 4. So why is this so important? Because it means that we can dose up to the highest levels of inhibition for TYK and not worry about inhibiting JAK and thereby, not picking up JAK-related toxicities. And so, this pharmacology provides 1 of 3 levels of rationale for why we believe TAK-279 has the potential to be a truly best-in-class agent. So one, as I've mentioned to you, it's the selective pharmacology. The second are the dose-ranging data, the Phase IIb data that have been published for deucra. We know that when deucra is dosed up to higher levels with higher levels of inhibition of TYK2, there is more efficacy, more clinical response in psoriasis. And then the third is that, we've had a chance in a confidential manner to look, obviously, at the Nimbus Phase IIb data for TAK-279. So we believe that put together the pharmacology, the experience with deucra at higher doses than it's marketed and labeled indication and the blinded data for TAK-279 in its Phase IIb study that we have a best-in-class agent for psoriasis and likely other autoimmune conditions.
+So with that, Christophe, I'll hand it back to you.
+
+--------------------------------------------------------------------------------
+Christophe Weber,  Takeda Pharmaceutical Company Limited - President, CEO & Representative Director    [4]
+--------------------------------------------------------------------------------
+Thank you, Andy. We really believe that this asset has a potential for best-in-class efficacy and safety, as Andy just explained, in multiple immune-mediated disease and a broad range of indication could represent, obviously, a very high revenue opportunity. The first indication is psoriasis, for which Nimbus announced positive top line Phase IIb results last month. The detailed results of this study will be disclosed early in 2023, but obviously, we had access to these results. We plan to initiate a Phase III study next year. This gives us a projected regulatory filing time line within fiscal '25 to '27 for this indication, meaning that this asset could be on the market and generating meaningful revenue before the end of the decade.
+Beyond psoriasis, our other priorities indication are inflammatory bowel disease, psoriatic arthritis and lupus. Additionally, this mechanism also provides us the opportunity to consider a range of other immune-mediated disease, such as rheumatoid arthritis, multiple sclerosis and atopic dermatitis. We will explore this additional indication with discipline and speed to deliver value for both patients and our business.
+Takeda has the expertise in-house to execute the clinical development plan in this immune inflammation indication. It might not be obvious to you that we have this expertise, but we have why? Because we are in GI. We are in IBD. ENTYVIO, obviously, is a very good selective product or doesn't have a broad indication, but our team are specialized in GI and many members of our team has worked on assets in this field who have broad indication. And therefore, in-house through our GI specialized unit, we have the expertise to develop these assets. And actually, we have the expertise to assess this asset in the first place. And we are very confident that we will be able to develop it. Of course, we have also a global scale, which will allow us to commercialize this asset globally.
+In summary, by virtue of its unique allosteric mechanism of action, TAK-279 is both a potent and highly selective TYK2 inhibitor with exceptional clinical activity, strong tolerability profile and wide therapeutic margin. We have seen the Phase II data. We are very excited by the differentiation of this molecule and believe that it has the potential to be best-in-class, and it will offer a transformative combination of efficacy, safety and convenience across a wide range of immune-mediated conditions.
+Thank you, and we will now open for Q&A.
+
+
+================================================================================
+Questions and Answers
+--------------------------------------------------------------------------------
+Ayako Iwamuro,  Takeda Pharmaceutical Company Limited - Director of IR    [1]
+--------------------------------------------------------------------------------
+[Interpreted] We would like to move on to the Q&A. (Operator Instructions) The first question is from Yamaguchi-san from the Citigroup.
+
+--------------------------------------------------------------------------------
+Hidemaru Yamaguchi,  Citigroup Inc., Research Division - Research Analyst    [2]
+--------------------------------------------------------------------------------
+Yes. From Tokyo, Yamaguchi from Citi. Quickly, 2 questions. The first one of this -- regarding this deal, I think you saw the data of the Phase IIb, which is not published yet. And I understand the drug works very actively compared to placebo. But can you give me some overall impression how Evox versus deucra, which already you launched (inaudible). That's a fast question. And this data is showing your pharmacological kind of assessment in the clinical setting. That's the first question.
+The second question is the $4 billion of the late stage asset, may be okay, but it's a big deal over cash. Will this cash payment have an impact to your potential shareholder return impact for -- especially for next fiscal year?
+
+--------------------------------------------------------------------------------
+Christopher David O'Reilly,  Takeda Pharmaceutical Company Limited - Global Head of IR & Global Finance    [3]
+--------------------------------------------------------------------------------
+Thank you, Yamaguchi-san. So I think the first question can go to Andy and then Costa for the second question.
+
+--------------------------------------------------------------------------------
+Andrew S. Plump,  Takeda Pharmaceutical Company Limited - President of Research & Development and Representative Director    [4]
+--------------------------------------------------------------------------------
+Yes. Thank you very much, Chris. Thanks, Yamaguchi-san. So we have, in fact, seen the -- of course, seen the Phase IIb data. And those data will be disclosed in early calendar year 2023. So you all have a chance to see them as well. What we can tell you is really at this point is 2 things. One is that, we believe, based on what we've seen that it has the potential to be a best-in-class asset versus deucra. And the second is, you can go back and look at the published Phase IIb data from deucra, and you can get a sense for what efficacy looks like as deucra doses higher above the marketed dose. So there was a dose range that was studied by deucra in its Phase IIb study. Ultimately, the decision was made to take a suboptimal or submaximal efficacious dose into Phase III, potentially for safety reasons. And so, we think given the selectivity of our molecule, we can dose higher, avoid JAK-related safety effects and pick up that additional efficacy. And so far, what we've seen in the Phase IIb study confirms that the hypothesis.
+
+--------------------------------------------------------------------------------
+Constantine Saroukos,  Takeda Pharmaceutical Company Limited - CFO & Representative Director    [5]
+--------------------------------------------------------------------------------
+Yamaguchi-san, it's Costa speaking. So thank you very much for your question. Let me just start by saying that we're very pleased with the progress in reducing our debt ratio towards low 2x. Even with this acquisition, we expect to close this fiscal year with a net debt ratio in the low- to mid-2s and with a weighted average interest rate fixed at 2%. So that doesn't change.
+And just want to remind everyone that, the majority of the payment for this deal, the upfront is paid through cash on hand. So if you remember, in the first half of this fiscal year, we had cash on hand of approximately JPY 800 billion. So why is that the case? Well, we have strong and abundant free cash flow, and we believe this will continue on a moving forward basis as well. So overall, there's no change to our capital allocation policy, in particular, around investing for growth, deleveraging, getting down to the low-2x. We're still committed to that. And, of course, very much committed to shareholder returns.
+
+--------------------------------------------------------------------------------
+Ayako Iwamuro,  Takeda Pharmaceutical Company Limited - Director of IR    [6]
+--------------------------------------------------------------------------------
+[Interpreted] We'd like to move on to the Muraoka-san, the Morgan Stanley.
+
+--------------------------------------------------------------------------------
+Shinichiro Muraoka,  Morgan Stanley, Research Division - Research Analyst    [7]
+--------------------------------------------------------------------------------
+[Interpreted] Muraoka from Morgan Stanley. I'm speaking in Japanese, can you hear me?
+
+--------------------------------------------------------------------------------
+Christopher David O'Reilly,  Takeda Pharmaceutical Company Limited - Global Head of IR & Global Finance    [8]
+--------------------------------------------------------------------------------
+Very clear, sir.
+
+--------------------------------------------------------------------------------
+Shinichiro Muraoka,  Morgan Stanley, Research Division - Research Analyst    [9]
+--------------------------------------------------------------------------------
+[Interpreted] My first question is economics related. Regularly, milestone is not written here. So that you do not anticipate any hitch with a regulatory basis. No problem with the regulation and tolerability that you mentioned. And also that there is going -- the publication published on the Doctors Association as well. But from the point of view, how about the briefing meeting for the investor for us [8 6 8] included, if there is for the investors briefing meeting in spring that will be greatly appreciated.
+And number 3, you use $4 billion. And how about the tuck-in there is going to be that for some time that no acquisition. But well, can we anticipate in a rather short frequency of the $1 billion or $2 billion more or some longer interval? That's all.
+
+--------------------------------------------------------------------------------
+Christopher David O'Reilly,  Takeda Pharmaceutical Company Limited - Global Head of IR & Global Finance    [10]
+--------------------------------------------------------------------------------
+So perhaps the question on the regulatory milestones or the deal structure, perhaps Christophe can take that. And also the final question about what our future M&A strategy looks like having done this $4 billion deal. And then perhaps, I don't know, Andy, you could maybe comment on when we may expect to announce more data on the profile of this product.
+
+--------------------------------------------------------------------------------
+Christophe Weber,  Takeda Pharmaceutical Company Limited - President, CEO & Representative Director    [11]
+--------------------------------------------------------------------------------
+Yes. Thank you very much, Muraoka-san, it's Christophe. So first, I would like to say that we -- as we mentioned, we have been following this compound for quite a while because we are in this therapy area. We felt that this is now the right time to have this type of acquisition. Why? Because deucra has been approved with a very strong label. Actually, we have seen a lot of data on NDI-034858, the TAK-279, both clinical data, as well as pharmacological. So we think that the compound itself, the class also is very much derisked in that regard. By the way, it was a competitive process to acquire this asset, we were not alone. So the revenue milestone felt the right one considering that it's a derisk class and the potential -- I think the milestones are reflecting very well the potential of the assets.
+Regarding future acquisition, first, I would like to say that we are extremely disciplined when we assess products. So we have always -- we look at return on invested capital. We look at the risk. We are extremely disciplined when we go into these assets. We are also committed to our low-2s net debt-to-EBITDA and to shareholder returns. So I think any future deal will be -- need to be taken into consideration the overall picture that we are committed to our low-2s. We are committed to our margin, and we are committed to shareholder return.
+
+--------------------------------------------------------------------------------
+Andrew S. Plump,  Takeda Pharmaceutical Company Limited - President of Research & Development and Representative Director    [12]
+--------------------------------------------------------------------------------
+And Muraoka-san, it's Andy. So right now, obviously, Nimbus still owns the molecule and they're still managing disclosures and their program. We're working very closely with them. That's a part of our deals so that we can accelerate the start of the Phase III studies, which will be under our control starting next year. Our hope is that, we'll be able to close the deal by the end of this fiscal year. What Nimbus has disclosed is that, they will be sharing the Phase IIb data at an upcoming academic medical conference in early calendar year 2023. And our expectation is that, we would -- once that transition occurs to Takeda, that we would follow through with that disclosure. We're also obviously getting our heads around the extent of the study are moving full speed ahead with psoriasis next year, Phase III studies in psoriasis. Read out from an ongoing Phase IIb study in psoriatic arthritis, where there's already proof-of-concept for this mechanism and then starting to build a strategy to expand in the range of autoimmune indications that Christophe mentioned earlier. So we'll be starting proof-of-concept studies next year in ulcerative colitis and Crohn's disease, and then we'll be looking carefully at a range of other indications, including lupus, where interesting proof-of-concept data have also emerged.
+
+--------------------------------------------------------------------------------
+Ayako Iwamuro,  Takeda Pharmaceutical Company Limited - Director of IR    [13]
+--------------------------------------------------------------------------------
+[Interpreted] So the next question is from JPMorgan. Mr. Wakao, please.
+
+--------------------------------------------------------------------------------
+Seiji Wakao,  JPMorgan Chase & Co, Research Division - VP    [14]
+--------------------------------------------------------------------------------
+[Interpreted] This is Wakao from JPMorgan. From my side, my first question is regarding this acquisition. The background of this acquisition. Is there any change about the forecast for the future development? And also there's some biosimilar of the ENTYVIO will not come into the market in 2023 and also the existing pipeline, you have quite a confidence. So you don't have any concerns about the future development, but you decided to have the acquisition of this spending the $4 billion. So that's why I'd like to ask this question first.
+And second question is regarding for the future development. For this -- the deucra head-to-head Phase II study, are you expecting that? Since you have the very high confidence, maybe the head-to-head will be better. And also timing for the filing is 2025 to 2027. Why you have such a range? That's all.
+
+--------------------------------------------------------------------------------
+Christopher David O'Reilly,  Takeda Pharmaceutical Company Limited - Global Head of IR & Global Finance    [15]
+--------------------------------------------------------------------------------
+Thank you for the question. So perhaps Christophe can answer the first question about whether this deal reflect a change in the future growth outlook for the company. And then perhaps Andy can comment on the second question regarding future development strategy, including potential head-to-head and why the range will be filing time line '25 to '27.
+
+--------------------------------------------------------------------------------
+Christophe Weber,  Takeda Pharmaceutical Company Limited - President, CEO & Representative Director    [16]
+--------------------------------------------------------------------------------
+Yes. Thank you very much for the question. This acquisition is reinforcing the certainty of our future growth -- and I will just step back detailing our growth outlook. We know that next year is a year during which we will be flattish because of very significant generic exposure. We know that we will manage it. The year from '24 until the end of the decade, until, in fact, ENTYVIO is facing biosimilar, we will grow because of our growth on product -- our existing growth on launch product. After the end of the decade, potentially starting in 2032, we know that ENTYVIO will face biosimilars. And by then, it will be a significant product we just upgraded its peak outlook between -- and it will pick up between $7.5 million and $9 billion. So we have a significant pipeline. Our pipeline is progressing. We have a very positive readout. We have some very significant assets like subasumstat, like 861, but it's not certain. It's possible that this pipeline is enough to grow post 2030, but there is no certainty because we are not completely sure that every asset will make it in this pipeline. So this acquisition is reinforcing our pipeline, is reinforcing our certainty to growth -- to grow post 2030 when ENTYVIO will start facing biosimilar. That's how strategic it is. And it's also strategic because it fits very well within our therapy area focus.
+
+--------------------------------------------------------------------------------
+Andrew S. Plump,  Takeda Pharmaceutical Company Limited - President of Research & Development and Representative Director    [17]
+--------------------------------------------------------------------------------
+And then regarding the development plan, Wakao-san, the -- so we don't need to run a head-to-head study to register this product. And our focus will be on the most rapid path to the market for psoriasis. So we'll be running parallel Phase III studies that won't include a deucra comparator. But we absolutely are considering a head-to-head study. We'll have to look more carefully at the data and the patient-by-patient data once we bring this program in-house to understand exactly what a study like that would look like. But that's something that we're seriously considering. And it's quite unusual, as you know, to run a head-to-head, a direct head-to-head study against a comparator in the same class when looking at diseases that register off clinical endpoints and not off of surrogate biomarkers.
+With respect to your question on timing of submission, we're giving a rough range right now because we haven't done all of the detailed work in designing the Phase III program, understanding exactly what the size of that program will look like and the feasibility of operations. And so, at this point, it's safer for us to provide a range. Once we get that study -- once we bring the program in-house, we've designed those studies, we've gotten our sites up and running, we'll have a better sense for what enrollment will look like and what a more precise time lines will look like.
+
+--------------------------------------------------------------------------------
+Christopher David O'Reilly,  Takeda Pharmaceutical Company Limited - Global Head of IR & Global Finance    [18]
+--------------------------------------------------------------------------------
+Okay. Moving to the next question...
+
+--------------------------------------------------------------------------------
+Ayako Iwamuro,  Takeda Pharmaceutical Company Limited - Director of IR    [19]
+--------------------------------------------------------------------------------
+[Interpreted] Then we go to the next question. Cowen & Co. (foreign language)
+
+--------------------------------------------------------------------------------
+Kenneth Charles Cacciatore,  Cowen and Company, LLC, Research Division - MD & Senior Research Analyst    [20]
+--------------------------------------------------------------------------------
+Can you hear me okay?
+
+--------------------------------------------------------------------------------
+Christopher David O'Reilly,  Takeda Pharmaceutical Company Limited - Global Head of IR & Global Finance    [21]
+--------------------------------------------------------------------------------
+Yes. We hear you fine.
+
+--------------------------------------------------------------------------------
+Kenneth Charles Cacciatore,  Cowen and Company, LLC, Research Division - MD & Senior Research Analyst    [22]
+--------------------------------------------------------------------------------
+Yes. I just wanted to say congratulations. This seems like a fantastic transaction for you. We hear wonderful things about the Nimbus team, and we know in your hands, you'll do wonderful things as well. So we're excited to see the data. A question for you is, given the lead indication of psoriasis, just wondering as you drill down on some of the questions around business development, should we expect maybe a little bit more business development tilted towards derm as we await the hopeful commercialization of this over the next few years? That's question one.
+And then, Andy, obviously, this is going to be some costly development still ahead of us. Is this going to lead to a little bit more prioritization within the pipeline? Can you talk about how you can fit this in and do it in a way that's still cost-effective?
+
+--------------------------------------------------------------------------------
+Christopher David O'Reilly,  Takeda Pharmaceutical Company Limited - Global Head of IR & Global Finance    [23]
+--------------------------------------------------------------------------------
+Thank you, Ken. Perhaps Christophe, you'd like to answer around our future ambitions in psoriasis and dermatology. And then maybe Andy could add some comments on that and then talk about our R&D prioritization going forward to fit this asset into the pipeline.
+
+--------------------------------------------------------------------------------
+Christophe Weber,  Takeda Pharmaceutical Company Limited - President, CEO & Representative Director    [24]
+--------------------------------------------------------------------------------
+Thank you, Ken, for your comment. And first, regarding BD, I would like to say that we are -- we put the bar very high when we assess assets across our therapy areas. We look at -- we know pretty much every single asset in development in the therapy area we are in because that's our model. That's the benefit of being focused. We have been following these assets for months, by the way. And so -- but if you look at the way we put the bar in terms of the innovation of the assets, we end up with a list, but the list is not super long neither. And so, that's the first point.
+Second point is that, with this asset, you look at our GI franchise, we are getting very busy. We have TAK-999. We are developing ALOFISEL. We have the celiac programs. We have now TAK-279. So it doesn't mean that we cannot get more assets, but we are quite busy for the years' to come. I also mentioned earlier that we are financially disciplined. And so, we are now doing this deal. It does not mean that we will not do more deals. But at the same time, we are very much committed to our deleveraging target, as well as our margin target moving forward. So that's the equation, if you like, that we need to manage.
+
+--------------------------------------------------------------------------------
+Andrew S. Plump,  Takeda Pharmaceutical Company Limited - President of Research & Development and Representative Director    [25]
+--------------------------------------------------------------------------------
+And in addition to our financial discipline, we're highly disciplined, as you know, Ken, in decision-making around our pipeline and if we made actually decisions around 9 programs over the last year to discontinue those programs, some of which, as you know, we spun out into companies because they just don't meet either our innovation bar or not aligned strategically with our trajectory. So we've been quite disciplined. We can absorb fully the costs of this program next year. We've been preparing. We've been signaling around the need to bring in and bolster our later-stage pipeline with some BD, as our mid- to early-stage pipeline matures. After '23, we'll have to look in a data-driven way as to how we make decisions. And the situation I'd like for us to be in, in '24 and '25 is to have too many good programs and to have to make either -- either have to make difficult decisions on which ones to move forward or to look to expand our investment in R&D.
+
+--------------------------------------------------------------------------------
+Kenneth Charles Cacciatore,  Cowen and Company, LLC, Research Division - MD & Senior Research Analyst    [26]
+--------------------------------------------------------------------------------
+Okay. Congratulations again, folks. It seems like a really good transaction. We're excited to see more of the data.
+
+--------------------------------------------------------------------------------
+Christopher David O'Reilly,  Takeda Pharmaceutical Company Limited - Global Head of IR & Global Finance    [27]
+--------------------------------------------------------------------------------
+Okay. Next question, I would like to call upon Stephen Barker from Jefferies.
+
+--------------------------------------------------------------------------------
+Stephen Barker,  Jefferies LLC, Research Division - Equity Analyst    [28]
+--------------------------------------------------------------------------------
+Yes. It's Steve Barker from Jefferies. I have 2. Firstly, thanks for the comments regarding the efficacy of this program versus the Bristol-Myers, the deucra program. I was wondering if you also might have some comments on some other programs that are out there. For example, the Pfizer, PF-06700841, which has also done a Phase II for psoriasis.
+And then secondly, around the therapeutic strategy and commercial strategy. Christophe said that this does fit into your program. I do appreciate that your experience working with autoimmune treatments in IBD does position you very well for the development side. But this is a dermatological asset, at least in its first indication. How does that fit into Takeda's commercial strategy?
+
+--------------------------------------------------------------------------------
+Christopher David O'Reilly,  Takeda Pharmaceutical Company Limited - Global Head of IR & Global Finance    [29]
+--------------------------------------------------------------------------------
+Thank you, Steve, for your question. So first, on the competitors in development, perhaps Andy would like to add some comments on that. And then regarding the commercial strategy, so we also have the Head of our U.S. business unit, Julie Kim on the call. So perhaps Julie can add some commentary around our commercial strategy for this asset.
+
+--------------------------------------------------------------------------------
+Andrew S. Plump,  Takeda Pharmaceutical Company Limited - President of Research & Development and Representative Director    [30]
+--------------------------------------------------------------------------------
+So, Stephen, not to dive too deeply into the broad competitive landscape. I'll just say that what I would suggest doing is just looking at the published literature at the TYK versus JAK selectivity of the competitor molecules. And what you'll find is, certainly with molecules that are in Phase II or on the market, there's none that come close to TAK-279 in terms of its selectivity profile. So many of these molecules are and all likely going to be limited in terms of how far they can dose up, therefore, how much TYK2 inhibition they're able to gain and therefore, how much clinical assets you see they're going to be able to drive. So we think that we're not going to have a limit on dosing, at least not by JAK-related toxicities, and this is allow us to push the dose range up to a point where we can get near maximal TYK2 inhibition and therefore, greater efficacy than what's out there in the competition.
+
+--------------------------------------------------------------------------------
+Julie Kim,  Takeda Pharmaceutical Company Limited - President of the U.S. Business Unit & U.S. Country Head    [31]
+--------------------------------------------------------------------------------
+Steve, it's Julie. Thanks for the question. First, let me start by saying that we are extremely excited about being able to have this opportunity to launch TAK-079 at some point in the future.
+In terms of our capabilities commercially, what I would say is this, we would be building on a number of our core competencies that I think we've done a good job in displaying in recent times. So if you look at what we've done with LIVTENCITY. Transplant was a new area for us, but we relied on our ability to understand the market, understand patient journey and create a go-to-market model that was appropriate for transplant. In psoriasis, there are a number of competitors in this space already. We are studying what they are doing, how they are doing it, and we will continue to leverage our core competencies in regards to digital and understanding patient insights to make sure that we can support this product that has the potential to be best-in-class appropriately.
+
+--------------------------------------------------------------------------------
+Christophe Weber,  Takeda Pharmaceutical Company Limited - President, CEO & Representative Director    [32]
+--------------------------------------------------------------------------------
+If I would add one thing, Steve, it's Christophe. Thank you very much, Julie. We are very confident that we'll be able to commercialize it. And I would just add one thing is that, we have now the scale in the U.S. to compete against pretty much everyone, anyone. And we didn't have that scale before in the last 4 years, we tripled our size in the U.S. And so, whether it is to manage the managed care space or to attract talent, we are very a much stronger company now than before. And that's why we can contemplate to launch a new therapy like that in a very competitive marketplace. We believe with the combination of the best-in-class profile of this molecule with our strength now in the U.S. market, we are very confident that we'll be able to win in the space.
+
+--------------------------------------------------------------------------------
+Ayako Iwamuro,  Takeda Pharmaceutical Company Limited - Director of IR    [33]
+--------------------------------------------------------------------------------
+[Interpreted] The next question Hashiguchi-san from Daiwa Securities.
+
+--------------------------------------------------------------------------------
+Kazuaki Hashiguchi,  Daiwa Securities Co. Ltd., Research Division - Research Analyst    [34]
+--------------------------------------------------------------------------------
+Hashiguchi from Daiwa Securities. I have 2 questions. The first question is IBD's development that the success -- the possibility of the success of the IBD. Deucravacitinib, well, they did not produce the very good data of the IBD -- for the IBD development of this molecule, if you are so positive about this selectivity, is that the only forte, if I may say, so that are there any other strengths that you are so confident about? That is the first question.
+Second question is sales related. I myself -- by indication other than IBD, how to overlap with the core areas of the Takeda, I'm not very sure if I can understand. But listening to that -- the explanation that for the necessity of the investment of the sales, well, you are considering that it is not so significant investment on top of the sales base.
+
+--------------------------------------------------------------------------------
+Christopher David O'Reilly,  Takeda Pharmaceutical Company Limited - Global Head of IR & Global Finance    [35]
+--------------------------------------------------------------------------------
+The first question around the -- likely success in development for IBD indications, considering the data that we saw for the other TYK2 inhibitor. So is it just the selectivity that gives us confidence? Or is there anything else that could make us successful? Perhaps Andy could answer this question. And then the second mention around the commercial footprint in indications outside of IBD. What kind of investment is going to be required in ramping up that footprint? Perhaps Julie could also comment on this.
+
+--------------------------------------------------------------------------------
+Andrew S. Plump,  Takeda Pharmaceutical Company Limited - President of Research & Development and Representative Director    [36]
+--------------------------------------------------------------------------------
+We focus on the selectivity because it's a major differentiator for this particular molecule. The molecule also has outstanding pharmaceutical properties in terms of its bioavailability, in terms of its PK and also importantly, in terms of its potency on TYK2. And so, what the selectivity does is, it allows us to dose the molecule up to high enough levels where we're able to obtain near maximal inhibition of TYK2. So will that -- we know that translates to very significant efficacy in psoriasis. We know from the deucra data that it contributes to significant efficacy in psoriatic arthritis and in lupus.
+So there's still a question, you're cracked as to whether this will be effective in ulcerative colitis and Crohn's disease. So why in light of deucra cellular, are we still optimistic? Well, for 2 reasons. One is that, if you just look at the signaling cascade, every other member of the signaling cascade, whether it's inhibition of every other member of the signaling cascade, whether it's IL-12 or IL-23 or JAK has benefits in IBD. So there's -- it would be surprising to me based on what we understand of the role that TYK2 plays in signaling and the genetics of TYK2 for it not to work in IBD. I would be quite surprised. And then the second reason is that, we're able to dose up to a point where we believe we can drive inhibition at a level that's probably necessary to see that efficacy. Of course, that's something that we'll learn about over the next couple of years as we run our Phase II studies, but we're all quite optimistic about the potential of this molecule in IBD.
+
+--------------------------------------------------------------------------------
+Julie Kim,  Takeda Pharmaceutical Company Limited - President of the U.S. Business Unit & U.S. Country Head    [37]
+--------------------------------------------------------------------------------
+In terms of your question in regards to the commercial footprint, we're still a number of years from launch, but what I can tell you is that, we are in the midst of conducting some benchmarking to understand what other companies have in the psoriasis space. But in addition, as I mentioned earlier, we are also implementing a number of new digital platforms within our existing therapeutic areas, particularly in GI and neuroscience. And we would -- we plan to learn from that over the next couple of years and apply those learnings to what a footprint -- appropriate footprint can be for psoriasis at the time of launch. But we fully expect to be able to do it in an efficient and productive way.
+
+--------------------------------------------------------------------------------
+Ayako Iwamuro,  Takeda Pharmaceutical Company Limited - Director of IR    [38]
+--------------------------------------------------------------------------------
+[Interpreted] So for the interest of time I think the next question is our last question to entertain. Mr. Sakai from the Credit Suisse.
+
+--------------------------------------------------------------------------------
+Fumiyoshi Sakai,  Crédit Suisse AG, Research Division - Research Analyst    [39]
+--------------------------------------------------------------------------------
+This is Sakai from Credit Suisse. And I hope you have made the good Christmas shopping this time of the year. Now, my question is quite simple. First one, accounting procedure for this. Nothing fancy, you capitalized $4 billion and commenced amortizing the cost after psoriasis range. So that could be after '25, '26, that kind of time frame. That's my first question.
+And second question, when you do feasibility study of this project, I'm sure that you have made some assumptions, right, internal rate of return, cost of capital, blah, blah, blah. But at this moment, in the Page -- Slide 5, I think, you mentioned about the multi-dollar -- multi-billion dollar revenue opportunity. Now, how far you could go? I mean, as far the peak is concerned. Multi-billion is a pretty much ballpark number. So can you give us the -- I said not accurate, but rough figure, how far Slide 20 -- well, Christophe said, meaningful revenue by '25. What about meaningful revenue by 2035, '40? Any indications will be much appreciated at this point.
+
+--------------------------------------------------------------------------------
+Christopher David O'Reilly,  Takeda Pharmaceutical Company Limited - Global Head of IR & Global Finance    [40]
+--------------------------------------------------------------------------------
+Thank you, Sakai-san. So the first question around accounting treatment for the deal, perhaps Costa could answer that. And then the second question around how big could the asset be? We talk about a multi-billion dollar opportunity, but can we be any more specific on the opportunity. I'd like to ask Christophe to comment on that question.
+
+--------------------------------------------------------------------------------
+Constantine Saroukos,  Takeda Pharmaceutical Company Limited - CFO & Representative Director    [41]
+--------------------------------------------------------------------------------
+Exactly to your point, it's the same. It's a simple asset acquisition, and we capitalize and then amortize once we start commercializing the asset.
+
+--------------------------------------------------------------------------------
+Christophe Weber,  Takeda Pharmaceutical Company Limited - President, CEO & Representative Director    [42]
+--------------------------------------------------------------------------------
+Thank you, Sakai-san. It's Christophe. I think the best way to answer your question is look at the milestone. Again, it was a competitive process, so -- and actually a very competitive process. And the milestone are $1 billion payment when we hit $4 billion and $1 billion payment when we hit $5 billion. And you can imagine that on the Nimbus, they were looking at that and say, okay, are these milestones realistic one? And are they far away or not too far away? And I think this is an indication of the potential of the molecule is that, these milestones are kicking at a level of $4 billion revenue and $5 billion revenue. And obviously, the peak will be higher than that. Otherwise, we wouldn't have this type of milestone. So it's not a very precise answer to your question at this stage. Just give you a sense about the potential of the program.
+
+--------------------------------------------------------------------------------
+Fumiyoshi Sakai,  Crédit Suisse AG, Research Division - Research Analyst    [43]
+--------------------------------------------------------------------------------
+Okay. Hopefully, that will work. Thank you.
+
+--------------------------------------------------------------------------------
+Christopher David O'Reilly,  Takeda Pharmaceutical Company Limited - Global Head of IR & Global Finance    [44]
+--------------------------------------------------------------------------------
+[Interpreted] Thank you very much. So today, I would like to close this webinar. Thank you very much for your participation to this program. Looking forward to have your cooperation again. Thank you.
+[Portions of this transcript that are marked Interpreted were spoken by an interpreter present on the live call.]
+
+
+
+
+
+
+
+--------------------------------------------------------------------------------
+Definitions
+--------------------------------------------------------------------------------
+PRELIMINARY TRANSCRIPT: "Preliminary Transcript" indicates that the 
+Transcript has been published in near real-time by an experienced 
+professional transcriber.  While the Preliminary Transcript is highly 
+accurate, it has not been edited to ensure the entire transcription 
+represents a verbatim report of the call.
+
+EDITED TRANSCRIPT: "Edited Transcript" indicates that a team of professional 
+editors have listened to the event a second time to confirm that the 
+content of the call has been transcribed accurately and in full.
+
+--------------------------------------------------------------------------------
+Disclaimer
+--------------------------------------------------------------------------------
+Refinitiv reserves the right to make changes to documents, content, or other 
+information on this web site without obligation to notify any person of 
+such changes.
+
+In the conference calls upon which Event Transcripts are based, companies 
+may make projections or other forward-looking statements regarding a variety 
+of items. Such forward-looking statements are based upon current 
+expectations and involve risks and uncertainties. Actual results may differ 
+materially from those stated in any forward-looking statement based on a 
+number of important factors and risks, which are more specifically 
+identified in the companies' most recent SEC filings. Although the companies 
+may indicate and believe that the assumptions underlying the forward-looking 
+statements are reasonable, any of the assumptions could prove inaccurate or 
+incorrect and, therefore, there can be no assurance that the results 
+contemplated in the forward-looking statements will be realized.
+
+THE INFORMATION CONTAINED IN EVENT TRANSCRIPTS IS A TEXTUAL REPRESENTATION
+OF THE APPLICABLE COMPANY'S CONFERENCE CALL AND WHILE EFFORTS ARE MADE TO
+PROVIDE AN ACCURATE TRANSCRIPTION, THERE MAY BE MATERIAL ERRORS, OMISSIONS,
+OR INACCURACIES IN THE REPORTING OF THE SUBSTANCE OF THE CONFERENCE CALLS.
+IN NO WAY DOES REFINITIV OR THE APPLICABLE COMPANY ASSUME ANY RESPONSIBILITY FOR ANY INVESTMENT OR OTHER
+DECISIONS MADE BASED UPON THE INFORMATION PROVIDED ON THIS WEB SITE OR IN
+ANY EVENT TRANSCRIPT. USERS ARE ADVISED TO REVIEW THE APPLICABLE COMPANY'S
+CONFERENCE CALL ITSELF AND THE APPLICABLE COMPANY'S SEC FILINGS BEFORE
+MAKING ANY INVESTMENT OR OTHER DECISIONS.
+--------------------------------------------------------------------------------
+Copyright 2023 Refinitiv. All Rights Reserved.
+--------------------------------------------------------------------------------

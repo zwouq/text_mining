@@ -1,0 +1,322 @@
+
+
+Refinitiv StreetEvents Event Transcript
+E D I T E D   V E R S I O N
+
+Genfit SA to Acquire Clinical-Stage Biopharmaceutical Company Versantis AG Call
+SEPTEMBER 19, 2022 / 12:00PM GMT
+
+================================================================================
+Corporate Participants
+================================================================================
+
+ * Dean W. Hum
+   Genfit S.A. - Chief Scientific Officer
+ * M. Pascal Prigent
+   Genfit S.A. - CEO
+ * Stefanie Magner
+   Genfit S.A. - Chief Compliance Officer & VP of International Legal Affairs
+
+================================================================================
+Conference Call Participiants
+================================================================================
+
+ * Suzanne van Voorthuizen
+   Kempen & Co. N.V., Research Division - Analyst
+ * Meriam Kabbaj
+   Versantis AG - Co-Founder, COO & Director
+ * Thomas Jonathan Smith
+   SVB Securities LLC, Research Division - Senior MD of Immunology and Metabolism & Senior Research Analyst
+ * Unidentified Analyst
+    - 
+ * Arsene Guekam
+   Kepler Cheuvreux, Research Division - Senior Equity Research Analyst
+ * Vincent Forster
+   Versantis AG - Co-Founder, CSO & Director
+
+================================================================================
+Presentation
+--------------------------------------------------------------------------------
+Operator    [1]
+--------------------------------------------------------------------------------
+Good day, and welcome to the GENFIT conference call. 
+At this time, I'd like to turn the conference over to Ms. Stefanie Magner. Please go ahead.
+
+--------------------------------------------------------------------------------
+Stefanie Magner,  Genfit S.A. - Chief Compliance Officer & VP of International Legal Affairs    [2]
+--------------------------------------------------------------------------------
+Hello, everyone, and thank you for joining us on this conference call organized to follow up on the press release we published this morning. The press release announced that we entered into an exclusivity agreement to acquire Versantis, a private Swiss-based clinical-stage biotechnology company, focused on addressing the growing unmet medical needs in liver diseases. It can be accessed via our website at ir.genfit.com. Joining me on the call today is Pascal Prigent, CEO. 
+Before we begin, I'd like to remind everyone that statements made during this conference call, including the Q&A session, relating to the group's expected future performance, market potential, business prospects, events or plans, including clinical plans, regulatory approvals, anticipated time lines for clinical development and study enrollment, including those of Versantis, conclusion of the agreement with Versantis and expected cash use in our operational activities are forward-looking statements as defined under the U.S. Private Securities Litigation Reform Act of 1995. They are based on our management's current assumptions and estimates which, although believed to be reasonable, are subject to numerous known and unknown risks and uncertainties which could cause actual results to differ materially from those expressed in or implied or projected by the forward-looking statements. 
+For a further discussion of the material risks and other important factors that could affect our business operations and financial results, please refer to those contained in our most recent filings with the Securities and Exchange Commission and the AMS. These forward-looking statements speak only as of the date of this webcast, and other than as required by applicable law, the company does not undertake any obligation to update or revise any forward-looking information or statements, whether as a result of new information, future events or otherwise. 
+Following the prepared remarks, we'll open up the call for questions that will be addressed by GENFIT Management. (Operator Instructions). 
+I now turn the call over to our CEO, Pascal Prigent.
+
+--------------------------------------------------------------------------------
+M. Pascal Prigent,  Genfit S.A. - CEO    [3]
+--------------------------------------------------------------------------------
+Thank you, Stefanie, and thank you, everyone, for joining today's call, during which I'm going to expand on the announcement we've made earlier today. 
+First, I'm going to explain how the acquisition of Versantis is a logical continuation of the implementation of our corporate strategy we first presented to you at the end of 2020. Then, I will describe Versantis' technology, assets and programs to show you how they will expand and derisk our pipeline. I will talk about the significant potential of each program and the synergies between the 2 companies. Finally, I'll touch on our expected news flow following the integration of Versantis, and then I would conclude with some financial considerations that are associated with the deal. 
+So let's start with our corporate strategy. And you might recall that in the fall of 2020, we presented a 3-pronged corporate strategy. The first step was focused on urgently creating some financial room by significantly reducing our cash burn and restructuring of debt. This was completed by the end of 2020. The second step was to accelerate our remaining programs, and in particular, focus on launching and fully recruiting our Phase III in PBC. The recruitment was completed this summer, and we are on track to deliver high-level results in Q2 next year. The third part of our strategy was to pivot away from NASH and recreate an exciting pipeline targeting rare liver diseases, and let me elaborate a bit on how we intend to achieve this and what exactly is our R&D strategy. 
+In the past 15 years, GENFIT has developed a strong expertise in drug development in the liver space. We have taken a drug candidate all the way from pre-clinical development to the end of Phase III. We did this in a therapeutic area where the absence of existing solutions meant that everything needed to be co-constructed with regulatory authorities and the medical community. We learned a lot in this process, and we built strong relationships with all key stakeholders. During these years, we also developed a deep scientific knowledge as well as networks and great academic partnerships in the field of liver diseases. 
+It is this experience and accumulated knowledge that we want to leverage going forward. This is why we chose to focus on rare liver disease, and in particular, concentrate our efforts where the medical need is greatest. This medical need is characterized on the one hand by the lack of satisfactory therapeutic options, and on the other hand, by the severity of the disease. Furthermore, we look preferably at acute conditions where there is urgency to come up with a solution for the patient. This sense of urgency means that we can potentially have shorter developmental time lines, thanks to expedited regulatory pathways put in place by regulatory agencies in order to address patients' needs quicker. 
+In order to be able to make a difference quickly, we have also chosen to not be a player in drug discovery, but instead focus on research on repositioning as well as potentially bringing in assets at clinical stage or close to it. 
+In line with the strategy in 2021, we advanced our repositioning of NTZ in ACLF into clinical stage, and we brought in GNS561, which is getting ready to start a Phase II in cholangiocarcinoma. The decision last year to license out elafibranor to Ipsen enabled 2 things. First, the possibility to remain laser focused on advancing our clinical programs and building our pipeline without having to spread ourselves thin by starting considerable pre-marketing efforts. And number two, that deal with Ipsen provided us with the financial flexibility to potentially fund acquisition if we found drug candidates and programs fitted with the R&D strategy that I just exposed. 
+We believe Versantis' portfolio of programs gives us exactly what we are looking for. After the acquisition, GENFIT will have multiple promising programs in rare liver diseases and will be a global leader in ACLF, a therapeutic area that we feel is both important and underserved. Since ACLF is going to become such an important area of focus for GENFIT going forward, let me give you a little bit more insight about this condition. 
+ACLF, or acute-on-chronic liver failure, occurs in the late stages of a pre-existing chronic liver disease, and that can be any disease. It can be NASH, alcoholic hepatitis or other liver disease. In the late stage of the liver disease, the patients will develop cirrhosis. An ACLF occurs when this cirrhotic patient experienced an acute episode of hepatic decompensation that progresses to one or more extrahepatic organ failures, including the brain, kidneys, heart and/or lungs. This cascade of organ failure can lead to death. It can also trigger other diseases like, for example, the development of a neuropsychiatric conditions called hepatic encephalopathy, or HE.  
+ACLF is associated with 23% to 74% mortality at 28 days, depending on the number of organ failure. There are very few therapeutic options that exist, and currently, no product has been approved for the management of ACLF. In the U.S. only, there were 137,000 patients hospitalized with ACLF last year. Unsurprisingly, the incidence is growing dramatically as it is fueled by the increasing prevalence of diabetes, obesity, NASH as well as alcohol or drug-induced liver injury. There is limited available market research, but estimates for market potential are approximately $4 billion a year in the U.S. and about $2 billion in Europe. 
+GENFIT has significantly stepped up its efforts in this field, and we are generating what we believe is very promising data about NTZ. We also started to research the field and study the literature, and we noted that there were very few companies with active programs. Versantis stood out for us when we did that literature search, because it was one of the pioneers in ACLF, and they have developed a very unique approach that we felt was supported by a strong scientific rationale. We also saw it as a potentially very complementary approach to NTZ.  
+So at this stage, let's describe the different programs at Versantis. The main asset in Versantis' pipeline is called VS-01. It relies on a very innovative approach based on a proprietary scavenging liposome technology. What VS-01 does is clearing toxic metabolites, in particular, ammonia, from the body by extracting them from the blood into the abdominal cavity where that's captured by the liposome, which are then drained from the body. It's not an oral molecule, but a product that is administered in hospital using standard hospital equipment like (inaudible) catheter, which we believe can easily be incorporated into standard of care for these patients. VS-01 has the potential to be the first drug to use the intraperitoneal route to simultaneously support the liver, kidney and brain, i.e., the organs that most of them fail in cirrhotic ACLF patient. It's a first-in-class drug that uses a new and unique mechanism of action for the potential treatment of ACLF. 
+With recruitment of the first patient into a Phase II expected very soon, VS-01 in ACLF is Versantis' most advanced program. VS-01 is also positioned in a second program, in urea cycle disorder or UCD, which is a rare pediatric indication characterized by deficiencies of 1 of 6 enzymes involved in the urea cycle. This efficiency leads to high level of neurotoxic ammonia in the blood, which is why we also talk about hyperammonemia. UCD occurs in 1 out of 10,000 births. It's characterized by a very low 5-year survival at only 25%. It causes severe brain injuries. It is believed that UCD represents 70% of hyperammonemic crisis cases, and based on these estimates, the market potential is expected to be above $1 billion in U.S. and Europe combined. 
+The potential of VS-01 has been recognized by both the FDA and the EMEA. The product has indeed been granted Orphan Drug Designation, or ODD, by the FDA with -- in ACLF and with a rare Pediatric Disease Designation, or PDD, for the acute treatment of UCD. In addition, the EMEA also granted VS-01 with Orphan Drug Designation in acute liver failure. 
+Versantis has also another asset, which is a small oral molecule called VS-02. It is being developed for the management of HE, which I mentioned earlier. So again, this is a nervous system disorder brought on by severe liver disease, and it also represents a fast-growing condition. And because some mild cases of hepatic encephalopathy may go undiagnosed, it is a bit difficult to determine the true frequency in the general population. However, according to raredisease.org, hepatic encephalopathy is most often associated with cirrhosis, which is estimated to affect 5.5 million people in the United States. Approximately 70% of these individuals with cirrhosis may develop symptoms of hepatic encephalopathy. Patients with HE accounts for approximately 110,000 hospitalization yearly in the United States. And while the number in EU are not really available, it's likely that these predictions are going to be similar. 
+So in this context, HE is expected to represent a $2 billion market opportunity. 
+VS-02 will be developed as a unique connective formulation designed to minimize systemic absorption and act where ammonia is primarily produced, while reducing glutamine levels in the brain. 
+Versantis is also working on TS-01. TS-01 is a unique point-of-care diagnostic device in prototype development for the at-home measurement of ammonia in blood, the primary cause of HE. It has the potential to provide HE patients with an instrument to manage tighter control of their blood ammonia levels and provide a means to better manage companion therapeutic treatments for their condition. 
+We believe that there are significant synergies between the 2 companies. Indeed, the portfolio of products and indications is complementary. After the acquisition, GENFIT will have 6 ongoing programs in 5 rare liver diseases: PBC, CCA, ACLF, UCD and HE. These programs will range from preclinical to late-stage Phase III. In ACLF, NTZ and VS-01 have different mechanism of action so they could potentially be combined, thus opening interesting research perspectives. Next year, we could have 2 active Phase II studies in ACLF which will make us a global leader in this field. 
+Beyond the programs, the company's respective strengths are also complementary. As mentioned earlier, Versantis was a pioneer in ACLF and they were among the first to study the development of a drug for this condition, and they have developed a strong medical and scientific experience. They also have developed a promising technology that they have taken from academic prototype to the start of Phase II. 
+GENFIT's experience, as we discussed earlier, lies in the capabilities we have developed in liver-related research, target identification, pre-clinical activities, including phenotypic screening or pre-clinical PoC with the development of several models, organelles as well. We also have a deep expertise in development including working with KOL, study design, successful execution of large complex trials, up to data readout and start analysis. We also have worked closely with regulatory authorities in both the U.S. and Europe, as well as with all the relevant patient association. So this is why we think that we will be able to combine -- by combining those 2 companies to maximize the potential of Versantis program, accelerate them and increase our probability of success. So with these synergies on both pipeline and expertise, we are ready to start generating an exciting series of clinical data, but we fuel our news flow in the near future. 
+So now that we have spent some time discussing the strategic rationale and describe the impact of this acquisition for GENFIT in terms of pipeline and expertise, let me walk you through some financial considerations. So let's start with the terms over there. 
+First of all, let me remind you that the exclusive agreement we announced today is an engagement to acquire all the share capital and voting rights of Versantis. So it's an acquisition, and that transaction should technically be completed in the course of the fourth quarter of this year, 2022. The deal terms include a payment of CHF 40 million as well as potential additional payments that are contingent on successful clinical and regulatory milestones. These milestones can go up to CHF 65 million upon positive Phase II results with VS-01 and VS-02, as well as regulatory approval of VS-01. 
+In addition, and should we be successful with VS-01 in UCD, Versantis is eligible to receive 1/3 of the net proceeds resulting from the potential sale of the pediatric review voucher by GENFIT to a third party, or 1/3 of the fair market value of this voucher if GENFIT have to apply it to one of its own programs. This acquisition will be financed with our current cash and cash equivalents and our cash burn projections that includes the funding of the clinical and pre-clinical development for all those programs, these new programs, as well as the funding of our current programs, and that also includes some expected payments from our partnership, give us roughly a 2-year cash runway. 
+So you will have more granularity and other financial details in our upcoming half-year financial report, which will be published on September 28, so about 10 days from now. 
+Before I open the floor to your questions, I would like to thank the GENFIT team that has worked really hard on the due diligence process over the last few months, and I also would want to welcome the Versantis team into GENFIT. As a matter of fact, 2 of its co-founder, Vincent and Meriam, are here with us today, and will join the Q&A. 
+So with that, operator, let's open it to Q&A.
+
+
+================================================================================
+Questions and Answers
+--------------------------------------------------------------------------------
+Operator    [1]
+--------------------------------------------------------------------------------
+(Operator Instructions)
+And we'll go first to Thomas Smith with SVB Securities.
+
+--------------------------------------------------------------------------------
+Thomas Jonathan Smith,  SVB Securities LLC, Research Division - Senior MD of Immunology and Metabolism & Senior Research Analyst    [2]
+--------------------------------------------------------------------------------
+Congrats on the deal. 
+Just one on VS-01. Can you just give a little bit more detail on the existing Phase I data, and what's been presented previously in decompensated cirrhotic patients? And then can you provide a bit more detail on the plans for the Phase II study, and what data you need to generate to tap into the accelerated regulatory pathway here? Is it your expectation that you could advance based on the Phase II data, or is your expectation you did an additional study after the Phase II?
+
+--------------------------------------------------------------------------------
+M. Pascal Prigent,  Genfit S.A. - CEO    [3]
+--------------------------------------------------------------------------------
+All right. Thank you, Tom. I'm going to give the floor to Meriam to talk -- to answer your question. So Meriam is one of the co-founders of Versantis. 
+So Meriam, floor is yours.
+
+--------------------------------------------------------------------------------
+Meriam Kabbaj,  Versantis AG - Co-Founder, COO & Director    [4]
+--------------------------------------------------------------------------------
+Thank you, Tom, for the question. So I will answer your first question with regards to the data that we gathered in the first in-human trial with VS-01. 
+So we were able -- of course, the primary endpoint of that study was to assess efficacy, and we were able to show that after single and multiple doses of VS-01, the drug was safe and well tolerated. In terms of efficacy, we had some very encouraging preliminary results, so we were able to show an improvement in the overall disease severity based on the Child-Pugh score and MELD score in the majority of our patients. 
+We were able to show a clinical improvement in hepatic encephalopathy, and we all know that hepatic encephalopathy is an independent predictor of mortality in ACLF patients. And this was done through several psychometric tests for hepatic encephalopathy. We were able to show that VS-01 can significantly improve or increase the clearance of ammonia in these patients as well as the reduction of several lab parameters which are relevant in ACLF. For example, bilirubin and creatinine. 
+So -- also another important aspect, and this is also related to your -- the second part of your question, we presented at the AASLD last year, 1 poster that summarized this -- the data that I just described. And at the ILS -- ILC, sorry, this year, the EASL conference in 2022, we were -- also we presented 2 abstracts with -- related to the metabolomic results that we observed in the first in-human study, which shown that VS-01 could decrease some of the markers that are related to organ failure as well as bacterial infection. So all these data are promising for our PoC study -- upcoming PoC study.
+
+--------------------------------------------------------------------------------
+Thomas Jonathan Smith,  SVB Securities LLC, Research Division - Senior MD of Immunology and Metabolism & Senior Research Analyst    [5]
+--------------------------------------------------------------------------------
+Okay, great. And then...
+
+--------------------------------------------------------------------------------
+M. Pascal Prigent,  Genfit S.A. - CEO    [6]
+--------------------------------------------------------------------------------
+(inaudible), Tom? Yes, exactly. Go ahead.
+
+--------------------------------------------------------------------------------
+Thomas Jonathan Smith,  SVB Securities LLC, Research Division - Senior MD of Immunology and Metabolism & Senior Research Analyst    [7]
+--------------------------------------------------------------------------------
+Yes. If you could just speak a little bit more towards the plans for the Phase II study, and I guess, expectations for what you would need to show to tap into an accelerated regulatory pathway?
+
+--------------------------------------------------------------------------------
+Meriam Kabbaj,  Versantis AG - Co-Founder, COO & Director    [8]
+--------------------------------------------------------------------------------
+Yes. Sure. 
+So the Phase II study, the PoC study, it's going to be an open-label, randomized, controlled, multicenter, proof-of-concept study. The primary endpoint will be to assess efficacy as well as safety and tolerability of VS-01 on top of standard of care compared to a standard of care alone group. In terms of primary endpoint, we will use the ACLF-C score, which is known to correlate with the 28-day mortality in these patients, and we believe that this endpoint will inform us on the design of the Phase IIb study. And right now, the -- we think that a Phase IIb study will most likely be required before we can get or act for the marketing authorization of VS-01.
+
+--------------------------------------------------------------------------------
+Thomas Jonathan Smith,  SVB Securities LLC, Research Division - Senior MD of Immunology and Metabolism & Senior Research Analyst    [9]
+--------------------------------------------------------------------------------
+Congrats on the deal.
+
+--------------------------------------------------------------------------------
+Operator    [10]
+--------------------------------------------------------------------------------
+We will go next to Suzanne van Voorthuizen with Kempen.
+
+--------------------------------------------------------------------------------
+Suzanne van Voorthuizen,  Kempen & Co. N.V., Research Division - Analyst    [11]
+--------------------------------------------------------------------------------
+This is Suzanne from Kempen. Congrats for the deal. 
+I was wondering regarding VS-01. Can you elaborate a bit more on the mechanism of action and the proprietary or novel about liposome technology? How is it specific for the toxic metabolites in ACLF? And after that, I have a follow-up question.
+
+--------------------------------------------------------------------------------
+M. Pascal Prigent,  Genfit S.A. - CEO    [12]
+--------------------------------------------------------------------------------
+Okay. Thanks, Suzanne. So I'll ask Vincent to answer this question. Vincent is the other co-founder of Versantis.
+
+--------------------------------------------------------------------------------
+Vincent Forster,  Versantis AG - Co-Founder, CSO & Director    [13]
+--------------------------------------------------------------------------------
+Sure. Thank you. Thanks, Suzanne, for the question. 
+So yes, as Pascal mentioned just before, VS-01 is the scavenging liposome technology. This is a fluid solution that we inject in the abdominal cavity, just to give you an idea. These patients with acute-on-chronic liver failure, they presented the hospital with ascites, right? So they do have a catheter, which is there as a standard of care to withdraw the ascites, so they drain the ascites out, so that there is an entry route to the abdominal cavity for our product. We'll use this empty route to inject VS-01. It's approximately 1, 2, 3 liters per patient that we inject, and the therapy lasts approximately 3 hours. And we repeat that during the first week after the start of the decompensation of acute-on-chronic liver failure. And that is just to give you a little bit of understanding on how it will be done in the clinic, but not to your specific question on the mechanism of action. 
+So in our fluid, we have these engineered and specific liposomes. These liposomes contain pH grade, and that means that inside the liposomes, we have an acidic medium. Outside the liposomes, it is physiologic pH. And these liposomes are able to scavenge the toxin that the liver, due to the disease, is no longer able to process. right? So these toxins will diffuse out of the blood circulation into the abdominal cavity, in the fluid that contains the liposomes, and then be captured by the liposomes. They are either captured in size or they are captured in the lumen of these liposomes, if you will, in the core of these liposomes and concentrated there. 
+Or for the toxins, which are more lipophilic, such as many of the inflammation mediators, they are captured within the possibility bi-layers of these liposomes, right? So we have a complete mechanism of action, which is really able to work on several front at the same time, on several toxins at the same time, to really be able to clear the blood out of these toxins, which are (inaudible) for the patient and which are implicated in hepatic encephalopathy in the inflammatory process and in the overall decompensation of the disease. 
+After 3 hours, as Pascal mentioned before, we just drain the liquid out by the same catheter that we used to drain the ascites prior to the injection of the product.
+
+--------------------------------------------------------------------------------
+Suzanne van Voorthuizen,  Kempen & Co. N.V., Research Division - Analyst    [14]
+--------------------------------------------------------------------------------
+Got it. That's very helpful. 
+And just a different question. The press release, you also mentioned a pre-IND meeting is planned for NTZ on the back of encouraging Phase I data. Can you give some color on what that data is, and when we should expect the details to be released to the public?
+
+--------------------------------------------------------------------------------
+M. Pascal Prigent,  Genfit S.A. - CEO    [15]
+--------------------------------------------------------------------------------
+Yes. The -- so we're still working on this, and it will be released probably at AASLD in the late-breaker session. we're still waiting for the feedback from the organizer, but we hope to do it at the late-breaker session at AASLD.
+
+--------------------------------------------------------------------------------
+Suzanne van Voorthuizen,  Kempen & Co. N.V., Research Division - Analyst    [16]
+--------------------------------------------------------------------------------
+Got it. Got it. Clear. 
+Maybe just a final question from my side. You have still some cash left, but also now quite some plans to execute on. So I was wondering, should we be expecting some more BD activity from here or not so much?
+
+--------------------------------------------------------------------------------
+M. Pascal Prigent,  Genfit S.A. - CEO    [17]
+--------------------------------------------------------------------------------
+Yes. Thanks, Suzanne. 
+So obviously, we're always open to opportunities. That being said, after this acquisition, although we do have cash, we also have our hands full in terms of program. And as you know, I mean, it's a lot of clinical programs to manage simultaneously, and we also have quite a bit of more pre-clinical work to do, most notably on VS-02. So don't expect anything of a similar magnitude for sure.
+
+--------------------------------------------------------------------------------
+Operator    [18]
+--------------------------------------------------------------------------------
+We'll go next to Arsene Guekam with Kepler Cheuvreux.
+
+--------------------------------------------------------------------------------
+Arsene Guekam,  Kepler Cheuvreux, Research Division - Senior Equity Research Analyst    [19]
+--------------------------------------------------------------------------------
+Two, if I may. What kind of data really convinced you to make this deal because in fact, in Phase 2, we have -- okay, the deal -- sorry, the drug is currently in Phase I, Phase II ready, and you have only, let's say, safety data on the small first filling of efficacy data. So I would like to know what -- where was the (inaudible) for deciding to make this kind of deal? 
+On the second one, it's more about the Phase II of VS-01. What will be the size in terms of patient and the duration that you would expect for this Phase II?
+
+--------------------------------------------------------------------------------
+M. Pascal Prigent,  Genfit S.A. - CEO    [20]
+--------------------------------------------------------------------------------
+So first of all, I would say, the decision to make the deal, although VS-01 was important in the deal, was not the only thing. 
+First of all, on VS-01, we felt pretty strongly about what we saw. First of all, the approach, we felt the approach was both simple and elegant, in the sense that it was a very different approach to ASLF and -- ACLF, sorry. And one that, at least, theoretically, made a lot of scientific sense. We also felt that because of our approach, there were reasons to believe that, for example, from a safety standpoint, you should have less issue as it's not like, let's say, a normal drug where you introduce the drug and can expect interaction with the entire body here, it's something that goes in and comes out. So conceptually, it was also interesting. Then, the data we saw through the due diligence continue to convince us that we had an approach that was potentially a winner. 
+And then for the deal itself, it was also about looking at the entire portfolio of product and how it fitted really well with our strategy to concentrate on rare liver diseases. So here, everything is about rare liver disease. All of it is about disease stage where there is a high medical need, no or very little existing therapeutic option, so the fit was just perfect. And then looking at the team, we also felt that the team will complement quite strongly, our own team. And that we would benefit from the -- this acquisition more than just on the existing program, but also on our current program, and that what we are doing could benefit from the knowledge of Versantis. So all in all, it just felt that it was a deal that made a lot of sense for us. 
+So regarding your second question, I'll let Meriam -- Okay. I'll let Meriam expand on it.
+
+--------------------------------------------------------------------------------
+Meriam Kabbaj,  Versantis AG - Co-Founder, COO & Director    [21]
+--------------------------------------------------------------------------------
+Right. 
+So for the number of patients that we have planned is this PoC study is 60 patients in total, and the duration is about 2 years duration of clinical conduct.
+
+--------------------------------------------------------------------------------
+Operator    [22]
+--------------------------------------------------------------------------------
+We'll go next to Ed Arce with H.C. Wainwright.
+
+--------------------------------------------------------------------------------
+Unidentified Analyst,   -     [23]
+--------------------------------------------------------------------------------
+This is Thomas here, asking a couple of questions for Ed. Congratulations on this deal. 
+Perhaps first question from Arce, from a mechanistic standpoint, is there any possible benefit to combine VS-01 and NTZ for ACLF?
+
+--------------------------------------------------------------------------------
+M. Pascal Prigent,  Genfit S.A. - CEO    [24]
+--------------------------------------------------------------------------------
+So maybe I'll -- Dean, are you on the line?
+
+--------------------------------------------------------------------------------
+Dean W. Hum,  Genfit S.A. - Chief Scientific Officer    [25]
+--------------------------------------------------------------------------------
+Yes, I am. Thank you, Thomas, for the question, and very pertinent question. 
+As we had discussed in the past, ACLF is quite a complex and heterogeneous disease. And really, the beauty of our transaction and collaboration now moving forward as one single team with the technology coming from Versantis is that really, it's an approach, a mechanism of action that is very different than NTZ, but I feel it's really complementary. So as Vincent have explained, patients who undergo parasynthesis will be using this technology really with the liposomes to remove toxins, including ammonia-related ACLF. So you realize with this approach of parasynthesis, I think it really provides an opportunity to combine with different approaches. Not only with NTZ, but I think with any other technology. And what's important, I think, is that the mechanism of action needs to be complementary, and I think then the possibility of combinations do present itself. 
+But having said that, right now, we feel that the VS-01 technology as well as the NTZ technology by themselves should be able to provide clinical benefit to the ACLF patients. But to your point, when you think about ACLF, the possibility of combination is always very important.
+
+--------------------------------------------------------------------------------
+Unidentified Analyst,   -     [26]
+--------------------------------------------------------------------------------
+Okay. Got it. And then perhaps 1 follow up for VS-02. 
+Will you classify that as ammonia scavenger? And if so, how is it differentiated from other currently available options?
+
+--------------------------------------------------------------------------------
+Vincent Forster,  Versantis AG - Co-Founder, CSO & Director    [27]
+--------------------------------------------------------------------------------
+Yes. This is Vincent Forster. 
+So VS-02 is not the same ammonia scavenger. It is a colon active, small molecule drug, right, and it will act in the colon to reduce the production of ammonia. So it's a ureas inhibitor, and one of the main source of ammonia in your body is via the hydrolysis of urea, but this area is that you see -- that you have in the colon. So by blocking this process, we do reduce the ammonia in the colon, and therefore, do reduce the absorption of ammonia in the body.
+
+--------------------------------------------------------------------------------
+Unidentified Analyst,   -     [28]
+--------------------------------------------------------------------------------
+Understood. Congratulations again on the deal.
+
+--------------------------------------------------------------------------------
+Operator    [29]
+--------------------------------------------------------------------------------
+And at this time, there are no further questions. I'll turn the call back to the speakers for any additional or closing remarks.
+
+--------------------------------------------------------------------------------
+M. Pascal Prigent,  Genfit S.A. - CEO    [30]
+--------------------------------------------------------------------------------
+All right. Thank you, and thank you all for your questions. 
+So we realize there is a lot of new things to cover, and this is why we have decided to organize a Pipeline Day in October to provide greater insight into our programs, into the unmet medical needs they seek to address, and also how you should be thinking about market potential and development time lines. So we will have 2 dates for this Pipeline Day, the first in Paris and the second one in New York City, so stay tuned for this. 
+And now in conclusion, I'd like to summarize the main takeaways from this call. So number one, this deal marks the continuation of the implementation of a corporate strategy that was presented in the fall of 2020. And it enables us to build a broad, diversified pipeline of promising programs targeting rare liver diseases characterized by high unmet medical needs. 
+Number two, with this deal, GENFIT strengthens its leadership in ACLF. It expands and diversify its pipeline and create synergies that will enable us to accelerate the development of potential therapeutic solutions for patients that have no or few alternatives. 
+And number three, with 6 different programs entering Phase II as early as the last quarter of this year and 2 other Phase II studies (inaudible) for next year, we will be in a situation to provide a steady stream of clinically-meaningful data in the months to come. 
+So thank you for your attention, and have a great rest of the week.
+
+--------------------------------------------------------------------------------
+Operator    [31]
+--------------------------------------------------------------------------------
+This does conclude today's conference. We thank you for your participation.
+
+
+
+
+
+
+
+--------------------------------------------------------------------------------
+Definitions
+--------------------------------------------------------------------------------
+PRELIMINARY TRANSCRIPT: "Preliminary Transcript" indicates that the 
+Transcript has been published in near real-time by an experienced 
+professional transcriber.  While the Preliminary Transcript is highly 
+accurate, it has not been edited to ensure the entire transcription 
+represents a verbatim report of the call.
+
+EDITED TRANSCRIPT: "Edited Transcript" indicates that a team of professional 
+editors have listened to the event a second time to confirm that the 
+content of the call has been transcribed accurately and in full.
+
+--------------------------------------------------------------------------------
+Disclaimer
+--------------------------------------------------------------------------------
+Refinitiv reserves the right to make changes to documents, content, or other 
+information on this web site without obligation to notify any person of 
+such changes.
+
+In the conference calls upon which Event Transcripts are based, companies 
+may make projections or other forward-looking statements regarding a variety 
+of items. Such forward-looking statements are based upon current 
+expectations and involve risks and uncertainties. Actual results may differ 
+materially from those stated in any forward-looking statement based on a 
+number of important factors and risks, which are more specifically 
+identified in the companies' most recent SEC filings. Although the companies 
+may indicate and believe that the assumptions underlying the forward-looking 
+statements are reasonable, any of the assumptions could prove inaccurate or 
+incorrect and, therefore, there can be no assurance that the results 
+contemplated in the forward-looking statements will be realized.
+
+THE INFORMATION CONTAINED IN EVENT TRANSCRIPTS IS A TEXTUAL REPRESENTATION
+OF THE APPLICABLE COMPANY'S CONFERENCE CALL AND WHILE EFFORTS ARE MADE TO
+PROVIDE AN ACCURATE TRANSCRIPTION, THERE MAY BE MATERIAL ERRORS, OMISSIONS,
+OR INACCURACIES IN THE REPORTING OF THE SUBSTANCE OF THE CONFERENCE CALLS.
+IN NO WAY DOES REFINITIV OR THE APPLICABLE COMPANY ASSUME ANY RESPONSIBILITY FOR ANY INVESTMENT OR OTHER
+DECISIONS MADE BASED UPON THE INFORMATION PROVIDED ON THIS WEB SITE OR IN
+ANY EVENT TRANSCRIPT. USERS ARE ADVISED TO REVIEW THE APPLICABLE COMPANY'S
+CONFERENCE CALL ITSELF AND THE APPLICABLE COMPANY'S SEC FILINGS BEFORE
+MAKING ANY INVESTMENT OR OTHER DECISIONS.
+--------------------------------------------------------------------------------
+Copyright 2023 Refinitiv. All Rights Reserved.
+--------------------------------------------------------------------------------

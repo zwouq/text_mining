@@ -1,0 +1,318 @@
+
+
+Refinitiv StreetEvents Event Transcript
+E D I T E D   V E R S I O N
+
+Medivir AB to Discuss Exclusive Licensing Agreement with IGM Biosciences for Birinapant Call
+JANUARY 12, 2021 / 2:00PM GMT
+
+================================================================================
+Corporate Participants
+================================================================================
+
+ * Fredrik Öberg
+   Medivir AB (publ) - Chief Scientific Officer
+ * Yilmaz Mahshid
+   Medivir AB (publ) - CEO & President
+
+================================================================================
+Conference Call Participiants
+================================================================================
+
+ * Viktor Sundberg
+   ABG Sundal Collier Holding ASA, Research Division - Research Analyst
+ * Fred M. Schwarzer
+   IGM Biosciences, Inc. - CEO, President & Director
+ * Joseph Pantginis
+   H.C. Wainwright & Co, LLC, Research Division - MD of Equity Research & Senior Healthcare Analyst
+
+================================================================================
+Presentation
+--------------------------------------------------------------------------------
+Operator    [1]
+--------------------------------------------------------------------------------
+
+          Welcome to the Medivir Press conference 2021. (Operator Instructions) We'll try to keep this call to 30 minutes. 
+Today, I'm pleased to present CEO, Yilmaz Mahshid. Please go ahead of your meeting.
+
+--------------------------------------------------------------------------------
+Yilmaz Mahshid,  Medivir AB (publ) - CEO & President    [2]
+--------------------------------------------------------------------------------
+
+          Thank you, operator, and thank you, everyone, who has called into this call. 
+Today, we will cover the announcement we did last night, where we entered into exclusive licensing agreement with IGM Biosciences for birinapant. 
+Next slide, please. So our cautionary statement, it is available on paid. So please take a look at that. Next slide, please. So today's presenter here is me, myself, Yilmaz Mahshid, President and CEO of Medivir, we do also have with us Fred Schwarzer, President and CEO of IGM Biosciences. 
+We do also have with us our Chief Scientific Officer; Fredrik Öberg, Medivir, who will be covering the mechanism action of birinapant . Next slide, please. So this is just an executive summer of Medivir.  And maybe some new information for those of you who are new on the call or new to the company and hasn't follow the company before. So briefly, we are a listed company on Nasdaq OMX and was founded in 1998. 
+We are located in Stockholm, and we have a proprietary clinical asset, MIV-818, which is a liver-directed nucleotide prodrug that is in clinical development for liver cancers. 
+It is in Phase Ib clinical development at the moment, and we see several opportunities for breakthrough oncology indications. 
+You should also be aware that the Board of Directors in December resolved to carry out a preferential rights issue of SEK 170 million to fund the continuous development of MIV-818. 
+Currently, with this evening last night deal with IGM Biosciences. We have now only 2 clinical programs now left for partnering out-licensing, that is remetinostat and MIV-711. birinapant, we will cover thoroughly in this -- at this call. 
+Next slide, please. So just a brief view of our pipeline, our focused clinical program, of course, MIV-818 for liver cancer, which is right now in Phase Ib development. Now we do also have a partnered clinical asset with IGM Biosciences that is birinapant and SMAC mimetic, which we will come back to. And we do also have remetinostat and MIV-711. 
+Next slide, please. So to the licensing agreement with IGM Biosciences that was announced last night. 
+Medivir and IGM Biosciences have entered into an exclusive licensing agreement for birinapant. For those of you who are not aware of IGM Biosciences, IGM is a clinical-stage biotechnology company, focused on creating and developing engineered IgM antibodies. 
+We have Fred here on this call who will describe the uniqueness of IgM's antibodies later. IGM, during -- in this agreement, we'll receive global development rights for birinapant, a clinical-stage SMAC mimetic that binds to and degrades inhibitors of Apoptosis Proteins, leading to cell deaths in tumor cells. Birinapant is initially intended to be combined with IGM-8444, an IgM antibody targeting Death Receptor 5, being developed by IGM, and birinapant has been shown to enhance antitumor activity preclinically. 
+Next slide, please. Briefly, the licensing agreement covers an upfront of $1 million upon signing of the agreement, followed by an additional $1.5 million when birinapant is included by IGM in clinical phase I studies. Should birinapant be successfully and approved, Medivir is entitled to receive development, regulatory and sales milestone payments up to a total of approximately $350 million. We do also achieve royalties. Those are tiered from the mid-single digits up to mid-teens on net sales.
+Next slide, please. To just take a step back, birinapant was acquired by Medivir from TetraLogic Corporation in 2016 and has since then been developed by Medivir. Medivir recently, in December, renegotiated the original agreement with TetraLogic, so that the compensation Medivir is obliged to pay in connection with the licensing agreement is based on the distribution of actual future revenues to Medivir. In accordance with the recently announced and revised agreement with TetraLogic, TetraLogic will receive a share of future birinapant revenues. 
+Next slide, please. The next slide covers the mechanism of action of birinapant. I will hand over the next 2 slides to our CSO, Fredrik Öberg.
+
+--------------------------------------------------------------------------------
+Fredrik Öberg,  Medivir AB (publ) - Chief Scientific Officer    [3]
+--------------------------------------------------------------------------------
+
+          So birinapant, as you may know, is a potent IV administrated bivalent SMAC mimetic. What this means is that birinapant to binds integrate inhibitors of Apoptosis Proteins, IAPs. And on the figure on your right in the slide, you see a schematic showing that IAPs are inhibitors of a signaling pathway initiated by TNF receptor superfamily members such as DR5. 
+These genes, IAP genes are often amplified or overexpressed in cancers, which allows the tumor cell to become resistant to this triggering of cell death or Apoptosis. That means that birinapant binding to and degrading IAPs enables Apoptosis or programmed cell death in tumor cells. There's a second mechanism that has been described for birinapant, and that is that birinapant activates the immune system to attack the tumor. 
+So by these 2 mechanisms, birinapant enhances the antitumor activity of TNF receptor superfamily members and also the immune system. And significant antitumor activity has been shown for birinapant in multiple preclinical models, either as single agent or in various combinations. And the potent inhibition or degradation of cIAPs in these preclinical models. But also in patient tumors. 
+So in patient tumor biopsies, we observed the same mechanism of action. 
+Next slide, please. Birinapant has quite long clinical experience in oncology. Over 440 patients have been treated with birinapant, and more than 10 different oncology clinical trials have been performed in different indications and in different combinations. So combinations with chemotherapy, molecular targeted drugs, radiation and immunotherapy. And in general, birinapant is well tolerated. Most adverse events are dose-related, transient or mild or moderate in severity, which means that there is a large safety database. 
+Our most recent trial, the trial with Merck's KEYTRUDA also demonstrate the feasibility of combining birinapant with antibody therapies. Birinapant is a bivalent SMAC mimetic. As you may know, there are other SMAC mimetic compounds out there in clinical studies, but bivalent SMAC mimetics are potentially more effective in degrading cIAPs in this TNF receptor superfamily context in the complex where it's inhibiting Apoptosis. 
+And we believe that the future of birinapant lies in finding the right combination with therapies that can maximize this as synergy with this induced degradation of cIAPs. 
+So with that, I'll hand over to Fred to describe the IgM molecule.
+
+--------------------------------------------------------------------------------
+Fred M. Schwarzer,  IGM Biosciences, Inc. - CEO, President & Director    [4]
+--------------------------------------------------------------------------------
+
+          Thank you, Fredrik, and thank you very much Yilmaz. Thank you very much, Yilmaz as well. It's a real pleasure to be able to join your call today. And we're very excited about this deal. 
+On Slide 13, we'll talk a little bit about the TNF receptor superfamily. For those of you who may not be familiar with it. This is a situation where evolution has decided that for certain activities, you need more signaling than you can get with simply a bivalent IgG antibody. And if you think about it, it makes perfect sense that if you're going to tell a cell to die, you better be sure that you really mean it. And so the way to do that is to make sure that 3 of these TNF DR5 receptors are bound at the same time and close together. 
+Now if you think about the classic IgG antibody, which represents all the antibodies that are in in the market today and virtually all of the antibodies that are in clinical development, they're all the classic Y shape that you see on your right-hand side of this image. They have only 2 binding domains. And so it makes sense that something with only 2 binding domains would have difficulty binding to 3 receptors at the same time. On the other hand, an IgM antibody has 10 binding domains, and so what we're able to do is bind to clusters of 3 and even multiple clusters of 3 and send a much stronger death signal through binding DR5 than an IgG antibody can do. 
+And if you go to the next slide, you'll see an example here. So what a great target, Death Receptor 5 it's -- it makes great sense. It's overexpressed on cancer cells, almost exclusively expressed on cancer cells with the exception of liver cells. And all you have to do is bind to this target and you kill a cancer cell, what could be greater than that. And so pharma and biotech all got very excited about this target 10 years ago or so. And they took a whole raft of different antibodies in IgG antibodies into the clinic. And this includes Genentech and Amgen and Human Genome Sciences and a number of companies. And what you see here on this slide is 5 of these antibodies that were taken into the clinic. And you see in the black, the IgG form of the antibody, and you see in the blue, what we've done there is we've taken exactly the same binding domains off the IgG, and we transplanted them onto the IgM backbone. And you see that just simply by doing that, we get anywhere from -- well, we get a multi-thousand increase in potency. 
+So what that means is that we believe that the IgM antibody will be much more effective in that Apoptosis or commit suicide signaling than an IgG antibody will be. And so if you go to the next slide, here's -- and this is a very busy slide, and I won't spend too much time on this. 
+But it's a little bit of an example of why we think the combination of RDR 5 antibody, which we -- as we just said, we believe we'll be much more potent than an IgG antibody and birinapant will have what we call synergistic activity. 
+In other words, 1 plus 1 equals 4 or 5 or whatever number you want to call it rather than 1 plus 1 equals 2. And so there are 2 pathways here, simply, but there's the -- what's called the extrinsic pathway, which is the pathway that we're signaling with RDR5 antibody, and that tells the cell to commit suicide. 
+Now as nature often does, there's also a competing pathway to balance this out. And that's called the intrinsic pathway. And what that pathway tells the cell to do in simple terms is stay alive. And so the IAPs are part of that pathway. And we believe that if we can signal strongly through the extrinsic pathway using RDR5 antibody, and at the same time, we can cut off the signaling through the survival pathway then the effect will be synergistic, as we say, more than additive of 1 plus 1, but it will be whatever 4 or 5. 
+And if you go to the next slide, I think you'll see a preclinical example of what we hope to see. This is a triple-negative breast cancer model, a very, very difficult model. And you see in green there that birinapant does nothing in this model, birinapant and no treatment basically produced the same result. You see in blue that the IGM-8444 does a pretty nice job. It helps, certainly. But then look at the combination between IGM-8444 and birinapant. I think we would all say that's certainly more than 1 plus 1 right there. So we're excited to take this into the clinic. And we hope -- our hopes are that if everything works out well, we'll be able to get this into the clinic in combination with IGM-8444 later this year. 
+And I'll stop now and turn it back over to Yilmaz.
+
+--------------------------------------------------------------------------------
+Yilmaz Mahshid,  Medivir AB (publ) - CEO & President    [5]
+--------------------------------------------------------------------------------
+
+          Thank you, Fred. After this brief introduction of the deal and the combination of IGM-8444 and birinapant, I think we have time for Q&A. Operator, please, can you open up the Q&A.
+
+
+================================================================================
+Questions and Answers
+--------------------------------------------------------------------------------
+Operator    [1]
+--------------------------------------------------------------------------------
+
+          (Operator Instructions) First question comes from Joe Pantginis from H.C. Wainwright.
+
+--------------------------------------------------------------------------------
+Joseph Pantginis,  H.C. Wainwright & Co, LLC, Research Division - MD of Equity Research & Senior Healthcare Analyst    [2]
+--------------------------------------------------------------------------------
+
+          Congratulations on this transaction, and thank you for the added details regarding the mechanism of action and synergy with IGM's drugs as well. 
+So actually, this is a real nice, I guess, testament to things you don't necessarily get credit for while they're going on, and that's the behind the scenes activities with regard to business development. So congratulations for that again. Yilmaz, I was just curious, are you able to provide any additional detail as to the economics that would be due to TetraLogic shareholders?
+
+--------------------------------------------------------------------------------
+Yilmaz Mahshid,  Medivir AB (publ) - CEO & President    [3]
+--------------------------------------------------------------------------------
+
+          Yes. Absolutely, let me give you some details. I mean, in accordance with the recently announced revised deal agreement with TetraLogic, they will receive a share of future birinapant revenues that is not insignificant. 
+However, having said that, Medivir will keep the majority of the revenues.
+
+--------------------------------------------------------------------------------
+Joseph Pantginis,  H.C. Wainwright & Co, LLC, Research Division - MD of Equity Research & Senior Healthcare Analyst    [4]
+--------------------------------------------------------------------------------
+
+          Got it. Okay, that was helpful.
+
+--------------------------------------------------------------------------------
+Yilmaz Mahshid,  Medivir AB (publ) - CEO & President    [5]
+--------------------------------------------------------------------------------
+
+          I hope that does help you, Joe.
+
+--------------------------------------------------------------------------------
+Joseph Pantginis,  H.C. Wainwright & Co, LLC, Research Division - MD of Equity Research & Senior Healthcare Analyst    [6]
+--------------------------------------------------------------------------------
+
+          No, it does. It does. It gives a good level of proportionality, so I appreciate that. And then I would just say since this is sort of a business development focused call. Obviously, it would be safe to assume that you guys are still busy with regard to your additional assets. So I would be remiss if I didn't ask about any ongoing efforts with regard to remetinostat. 
+And then lastly, I just saw an additional -- your news that you'll be presenting additional 818 data shortly at ASCO GI. So any comments -- I know this is not the focus of this call, but since you did just put it out there. What we might be expecting from that?
+
+--------------------------------------------------------------------------------
+Yilmaz Mahshid,  Medivir AB (publ) - CEO & President    [7]
+--------------------------------------------------------------------------------
+
+          Joe, thank you for the 2 questions. Since I started here, and it has always been my principle not to talk about like you say, things ongoing behind the scenes because we don't want to overpromise and under-deliver. 
+I think our principle is to under-promise and over-deliver. I think we have shown that with this deal that we announced last night. So I mean we are working hard on all fronts, but I won't do any comments specifically on any discussions that we have with any compounds or any project. 
+Sorry to disappoint you, Joe.
+
+--------------------------------------------------------------------------------
+Joseph Pantginis,  H.C. Wainwright & Co, LLC, Research Division - MD of Equity Research & Senior Healthcare Analyst    [8]
+--------------------------------------------------------------------------------
+
+          No, that's fair. That's absolutely fair.
+
+--------------------------------------------------------------------------------
+Yilmaz Mahshid,  Medivir AB (publ) - CEO & President    [9]
+--------------------------------------------------------------------------------
+
+          And I'll hand over the ASCO GI question to our CSO, Fredrik.
+
+--------------------------------------------------------------------------------
+Fredrik Öberg,  Medivir AB (publ) - Chief Scientific Officer    [10]
+--------------------------------------------------------------------------------
+
+          Okay. So the ASCO GI presentation will be the Phase Ia data, mainly. So that's what we'll be presenting there. And we hope later this quarter to be able to update also on the currently ongoing Phase Ib.
+
+--------------------------------------------------------------------------------
+Operator    [11]
+--------------------------------------------------------------------------------
+
+          Our next question comes from Viktor Sundberg from ABG Sundal Collier.
+
+--------------------------------------------------------------------------------
+Viktor Sundberg,  ABG Sundal Collier Holding ASA, Research Division - Research Analyst    [12]
+--------------------------------------------------------------------------------
+
+          Congratulations for materializing this deal. So my first question also relates to the deal and just taking back to the question from the previous -- yes, for birinapant, that this TetraLogic deal that you did before, I think it said them that the royalty that TetraLogic will be capped at most -- of at most 10%. Is that still viable? Or have you renegotiated that as well?
+
+--------------------------------------------------------------------------------
+Yilmaz Mahshid,  Medivir AB (publ) - CEO & President    [13]
+--------------------------------------------------------------------------------
+
+          I think -- thanks for your question, Viktor. I think let's take a step back here. I mean, the deal was struck by Medivir in 2016 and that was a deal, a Phase II deal that went directly into combo trials with an IO agent. And the milestones, (inaudible) that to be specific in that deal. And milestones, specific milestones related in that deal was at the level, the type of level that you can imagine for Phase II asset. What we present here and what did open up the renegotiated agreements with TetraLogic, is that we are now presenting a Phase Ib. The economics here represents a combination of birinapant and IGM-8444 goes into a Phase I. 
+Hopefully, we'll enter a Phase I clinical development. So you can imagine the milestone levels are quite different in that aspect. So I think that was the most important thing is the rearrangement of that agreement. And in that agreement, we then concluded that TetraLogic will instead of all the milestones that was there will receive a share of future birinapant revenues. And that opened up for us to start discussion with the kind of deal that we did today, companies who have compounds where we believe it makes scientific rationale to combine birinapant with an experiment, which Fred just showed at this call, where you see not additive efficacy but you see synergistic efficacy in very, very difficult cancer models. I think so that's the background regarding the -- why the EBITDA TetraLogically.
+
+--------------------------------------------------------------------------------
+Viktor Sundberg,  ABG Sundal Collier Holding ASA, Research Division - Research Analyst    [14]
+--------------------------------------------------------------------------------
+
+          Okay. And with regards to milestones to IGM, or sorry, milestones from IGM to  you. Is most milestones type is sales or any regulatory milestones or clinical milestones and so on?
+
+--------------------------------------------------------------------------------
+Yilmaz Mahshid,  Medivir AB (publ) - CEO & President    [15]
+--------------------------------------------------------------------------------
+
+          Yes. This is, I would say, the milestones are classical industry standard, according to industry standard, you have development milestones, you have regulatory milestones and you have sales milestones. So there is nothing out of the ordinary here.
+
+--------------------------------------------------------------------------------
+Viktor Sundberg,  ABG Sundal Collier Holding ASA, Research Division - Research Analyst    [16]
+--------------------------------------------------------------------------------
+
+          Okay. And with regards to the preclinical data that you presented here with the combination of birinapant and IGM-8444 have you also looked at other tumors? If you could comment on that?
+
+--------------------------------------------------------------------------------
+Yilmaz Mahshid,  Medivir AB (publ) - CEO & President    [17]
+--------------------------------------------------------------------------------
+
+          Thank you for the question, Viktor. I think I'll hand over that question to Fred to describe that.
+
+--------------------------------------------------------------------------------
+Fred M. Schwarzer,  IGM Biosciences, Inc. - CEO, President & Director    [18]
+--------------------------------------------------------------------------------
+
+          Sure. These are the first in vivo data that we've generated. As you know, we're just -- this has been a very short time. We have done a great deal of in vitro synergy data. And we've seen strong synergy across multiple in vitro cell lines, both solid tumors and liquid tumors. So it is our hope that this synergy that you're seeing here will be broad across many tumor types, both solid and liquid. But as I said, these are the only in vivo data that we have today. We plan to generate more, of course. But most importantly, we plan to get into the clinic. But in vitro looks great so far.
+
+--------------------------------------------------------------------------------
+Viktor Sundberg,  ABG Sundal Collier Holding ASA, Research Division - Research Analyst    [19]
+--------------------------------------------------------------------------------
+
+          Okay. Great.
+
+--------------------------------------------------------------------------------
+Yilmaz Mahshid,  Medivir AB (publ) - CEO & President    [20]
+--------------------------------------------------------------------------------
+
+          I might just -- just follow-up on that. I mean, that's one of the reasons why we see and why I think birinapant is interesting that we have such a large safety database around birinapant, as Fredrik mentioned, which means that the drug can jump into combination treatment in clinic rather than continue to perform a lot of preclinical experiments.
+
+--------------------------------------------------------------------------------
+Viktor Sundberg,  ABG Sundal Collier Holding ASA, Research Division - Research Analyst    [21]
+--------------------------------------------------------------------------------
+
+          And yes, as you said, both compounds have been tested quite broadly in different tumors. But could you indicate what would be the most relevant tumor type to proceed in this combination? Would it be triple-negative breast cancer? Or do you have other trial?
+
+--------------------------------------------------------------------------------
+Fred M. Schwarzer,  IGM Biosciences, Inc. - CEO, President & Director    [22]
+--------------------------------------------------------------------------------
+
+          Yes. I think I don't know yet in terms of the initial combination that we would go into. My expectation is that it probably would be an all-comers trial, probably an all-comers trial focused on solid tumors. But that's -- the deal just got signed yesterday. So we're still working that through. But just -- I think the big picture answer to your question is we see this being used very broadly, both solid and liquid tumors, and we are eager to start as soon as we can.
+
+--------------------------------------------------------------------------------
+Viktor Sundberg,  ABG Sundal Collier Holding ASA, Research Division - Research Analyst    [23]
+--------------------------------------------------------------------------------
+
+          Okay. And just a final question from my side. There are some other companies looking at the DR5 as a target (inaudible) et cetera. How would you say that IGM-8444 compares, maybe especially to Genmab's HexaBody that I guess is trying to bind in a better way as well to the receptor?
+
+--------------------------------------------------------------------------------
+Fred M. Schwarzer,  IGM Biosciences, Inc. - CEO, President & Director    [24]
+--------------------------------------------------------------------------------
+
+          Right. Well, we think there are the 2 most obvious factors and the success of any DR5 antibody are going to be both potency and safety. And we see very strong potency with IGM-8444, and you can find that in our decks that are available on our website. But what you can also find in our decks available on our website as we see what appears to be a very strong therapeutic index. We don't seem to have any liver toxicity issues at least in vitro and in vivo in our animal models. And you'll see that on our deck, in our slide decks where we test this against human hepatocytes. As you know, the other folks who have taken DR5 antibodies into the clinic had liver toxicity issues. So I think we hope that we'll see differentiation, strong differentiation on the basis of liver toxicity. And obviously, it will take longer to determine differentiation on the basis of efficacy. But given the strength of this pathway, we think that if we can come up with or show that IGM-8444 is safe, that -- we hope that the biologic activity will follow. So I guess that's a long-winded, what I am saying, we hope will be very potent, but we also importantly, hope will be very safe.
+
+--------------------------------------------------------------------------------
+Fredrik Öberg,  Medivir AB (publ) - Chief Scientific Officer    [25]
+--------------------------------------------------------------------------------
+
+          And to add on to that, Viktor, I think, our CEO in the discussions that we have had, what should we combine birinapant with. We have, of course, done our due diligence and last night we did strike a deal with IGM.
+
+--------------------------------------------------------------------------------
+Operator    [26]
+--------------------------------------------------------------------------------
+
+          (Operator Instructions) Okay. There appears to be no further questions registered. So I'll hand back to the speakers for any closing remarks.
+
+--------------------------------------------------------------------------------
+Yilmaz Mahshid,  Medivir AB (publ) - CEO & President    [27]
+--------------------------------------------------------------------------------
+
+          Thank you, operator, and thank you for everyone holding the time. We have -- we are very happy to have tighten this deal with IGM. We believe that the combination of 8444 and birinapant, so far in preclinical models, shows very promising and remarkable results, and we are looking forward to Fred and his team to start the clinical development in combination with birinapant. Thank you all for listening in.
+
+--------------------------------------------------------------------------------
+Operator    [28]
+--------------------------------------------------------------------------------
+
+          This now concludes our conference call. Thank you all for attending. You may now disconnect your lines.
+
+
+
+
+
+
+
+--------------------------------------------------------------------------------
+Definitions
+--------------------------------------------------------------------------------
+PRELIMINARY TRANSCRIPT: "Preliminary Transcript" indicates that the 
+Transcript has been published in near real-time by an experienced 
+professional transcriber.  While the Preliminary Transcript is highly 
+accurate, it has not been edited to ensure the entire transcription 
+represents a verbatim report of the call.
+
+EDITED TRANSCRIPT: "Edited Transcript" indicates that a team of professional 
+editors have listened to the event a second time to confirm that the 
+content of the call has been transcribed accurately and in full.
+
+--------------------------------------------------------------------------------
+Disclaimer
+--------------------------------------------------------------------------------
+Refinitiv reserves the right to make changes to documents, content, or other 
+information on this web site without obligation to notify any person of 
+such changes.
+
+In the conference calls upon which Event Transcripts are based, companies 
+may make projections or other forward-looking statements regarding a variety 
+of items. Such forward-looking statements are based upon current 
+expectations and involve risks and uncertainties. Actual results may differ 
+materially from those stated in any forward-looking statement based on a 
+number of important factors and risks, which are more specifically 
+identified in the companies' most recent SEC filings. Although the companies 
+may indicate and believe that the assumptions underlying the forward-looking 
+statements are reasonable, any of the assumptions could prove inaccurate or 
+incorrect and, therefore, there can be no assurance that the results 
+contemplated in the forward-looking statements will be realized.
+
+THE INFORMATION CONTAINED IN EVENT TRANSCRIPTS IS A TEXTUAL REPRESENTATION
+OF THE APPLICABLE COMPANY'S CONFERENCE CALL AND WHILE EFFORTS ARE MADE TO
+PROVIDE AN ACCURATE TRANSCRIPTION, THERE MAY BE MATERIAL ERRORS, OMISSIONS,
+OR INACCURACIES IN THE REPORTING OF THE SUBSTANCE OF THE CONFERENCE CALLS.
+IN NO WAY DOES REFINITIV OR THE APPLICABLE COMPANY ASSUME ANY RESPONSIBILITY FOR ANY INVESTMENT OR OTHER
+DECISIONS MADE BASED UPON THE INFORMATION PROVIDED ON THIS WEB SITE OR IN
+ANY EVENT TRANSCRIPT. USERS ARE ADVISED TO REVIEW THE APPLICABLE COMPANY'S
+CONFERENCE CALL ITSELF AND THE APPLICABLE COMPANY'S SEC FILINGS BEFORE
+MAKING ANY INVESTMENT OR OTHER DECISIONS.
+--------------------------------------------------------------------------------
+Copyright 2021 Refinitiv. All Rights Reserved.
+--------------------------------------------------------------------------------

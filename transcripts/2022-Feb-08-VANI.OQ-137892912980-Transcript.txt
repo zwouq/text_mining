@@ -1,0 +1,173 @@
+
+
+Refinitiv StreetEvents Event Transcript
+E D I T E D   V E R S I O N
+
+Second Sight Medical Products Inc Definitive Agreement with Nano Precision Medical Inc - M&amp;A Call
+FEBRUARY 08, 2022 / 2:00PM GMT
+
+================================================================================
+Corporate Participants
+================================================================================
+
+ * Don Dwyer
+   Nano Precision Medical, Inc. - Chief Business Officer
+ * Adam Mendelsohn
+   Nano Precision Medical, Inc. - Co-Founder, Chairman and CEO
+ * Jonathan Will McGuire
+   Second Sight Medical Products, Inc. - Director
+
+================================================================================
+Presentation
+--------------------------------------------------------------------------------
+Operator    [1]
+--------------------------------------------------------------------------------
+Thank you for standing by. This is the conference operator. Welcome to Second Sight investor call to discuss the company's proposed merger with Nano Precision Medical.
+(Operator Instructions) The conference is being recorded. (Operator Instructions)
+Speaking on today's call will be former President/CEO and current Board member of Second Sight, Will McGuire; along with Nano Precision Medical Co-founder, Chairman and CEO, Dr. Adam Mendelsohn.
+Before we begin, I'd like to remind everyone that this call may contain forward-looking statements within the meaning of the Private Securities Litigation Reform Act of 1995. All statements pertaining to future financial and/or operating results, along with other statements about the future expectations, beliefs, goals, plans or prospects expressed by management, constitute forward-looking statements. Any statements that are not historical fact should also be considered forward-looking statements, and forward-looking statements involve risks and uncertainties. Additional information regarding forward-looking statements can be found in the slide deck for today's call, which is available at both secondsight.com and nanoprecisionmedical.com as well as through an 8-K filed with the SEC.
+I would now like to turn the call over to Second Sight Board Member Will McGuire.
+Mr. McGuire, please go ahead.
+
+--------------------------------------------------------------------------------
+Jonathan Will McGuire,  Second Sight Medical Products, Inc. - Director    [2]
+--------------------------------------------------------------------------------
+Thank you. Good morning, and welcome to the Second Sight Medical Products investor call to discuss our proposed merger with Nano Precision Medical.
+Joining me on the call today is Dr. Adam Mendelsohn, Co-founder, Chairman and CEO of Nano Precision Medical.
+I'll begin by sharing my excitement with our proposed merger with Nano Precision Medical, which represents my sentiment as well as the sentiment of my fellow Board members at Second Sight. It was a unanimous endorsement to move forward. Our goal is to broaden the strategic focus at Second Sight and look for complementary opportunities to our current visual prosthesis technology. The drug implants under development at Nano Precision Medical, which Adam will cover in more detail in a few minutes, offer a new and exciting opportunity aligned with our vision to improve the lives of patients suffering from diseases with high unmet medical needs.
+To be clear. We are extremely proud of our heritage at Second Sight; and developing the Argus II retinal prosthesis system, which still represents the first and only FDA-approved device to provide a useful form of artificial vision to profoundly blind patients suffering from retinitis pigmentosa. That said, we had significant challenges from a commercial viability perspective. And that, coupled with disruption from the pandemic, caused us to significantly reduce our operations and associated staff over the past 2 or 3 years. We have continued our early feasibility study with the next-generation Orion visual cortical prosthesis system but found ourselves in need of a new leadership team which could assess and optimize the path forward for the Orion program. This need will be filled by Adam, who will become CEO of the combined company; and his leadership team, which have vast experience in drug and device development as well as commercialization.
+It is now my pleasure to introduce Adam Mendelsohn.
+Adam, over to you.
+
+--------------------------------------------------------------------------------
+Adam Mendelsohn,  Nano Precision Medical, Inc. - Co-Founder, Chairman and CEO    [3]
+--------------------------------------------------------------------------------
+Thank you, Will. And good morning, everyone. Thank you all for joining us today to learn more about the proposed merger of Second Sight and Nano Precision Medical.
+25 years ago, when I was 15 years old, I remember accompanying my father, Aaron Mendelsohn, to the home of one of Second Sight's founders, Sam Williams. Sam was the true visionary behind the effort to try and restore useful vision to the profoundly blind. Sam, who was blind himself, teamed up with the legendary medical device entrepreneur Alfred E. Mann, in whose companies I spent my formative years being developed as an engineer to launch Second Sight medical products. My father, who was a close friend of both Al Mann and who became a close friend of Sam Williams, organized the initial financing for Second Sight, which included an investment from Gunnar Bjorg, a truly remarkable man and close friend of my father, who counted among his many accolades having introduced Al Mann to Sam Williams in addition to providing the initial financing for Nano Precision Medical.
+Since that time, I completed a bioengineering PhD; and cofounded Nano Precision Medical, a company which I have been leading for over 10 years and which I very much look forward to introducing to you. While the development of the products currently within the Nano Precision Medical pipeline will be the focus of the merged company, I am truly humbled and honored to have the opportunity to see whether Sam's vision of restoring sight to the blind can become a reality just as cochlear implant technology, which was pioneered by the very same individuals, Alfred Mann and Gunnar Bjorg, who were behind Second Sight has restored hearing to the deaf.
+Now let's walk through the proposed merger. The proposed merger will result in Nano Precision Medical or NPM becoming a wholly owned subsidiary of Second Sight Medical Products as part of an all-stock transaction in which Second Sight will issue approximately 134 million shares to acquire Nano Precision Medical, resulting in Second Sight shareholders obtaining an approximate 23% stake in the combined company. The transaction will have the effect of Second Sight shareholders joining NPM's existing investors, including AstraZeneca which has been a strategic investor in NPM since 2016. The $69 million in cash that is currently available will provide us with considerable runway, and therefore no additional financing is associated with this transaction.
+The proposed merger will result in a combination of 2 companies that are currently both developing medical implants that treat disorders with very high unmet medical need. The very solid cash position will enable the advancement of Nano Precision Medical's lead product NPM-119 deep into the clinic; as well as continued exploration of Second Sight's lead product, the Orion II. Nano Precision Medical's team of world-class, successful medical product veterans will assume leadership of the merged company; and the combined product pipeline will address broad chronic disease markets valued at over $50 billion.
+While I will spend most of today's talk on NPM-119, we are very excited about a partnership that we have to develop a GLP-1 implant for obese and diabetic companion cats as well as 2 feasibility studies that we have with 2 different large pharma companies in the areas of NASH and obesity. Towards the end of this talk, I will hand it back over to Will, who will describe the current status of the Orion opportunity before we move to the Q&A segment.
+Now it is my great pleasure to provide an overview of Nano Precision Medical. Nano Precision Medical is addressing one of the leading reasons for poor outcomes in chronic diseases, drug nonadherence, with a miniaturized long-term subdermal implant that will guarantee adherence for the life of the implant and thereby enable existing drugs to achieve their true potential. Our technology, which we call NanoPortal, utilizes a space-efficient design that allows a miniaturized implant to provide many months of therapeutic delivery of potent molecules. The technology has no moving parts, which results in a minimally fluctuating delivery profile which is also tunable over the duration of the implant. NPM has primarily been developing products around peptide therapeutics, but the technology can work across a wide range of molecular types. The key innovative component of the technology is a biocompatible titanium oxide nanoporous membrane, which consists of millions of precisely sized nanotubes whose inner diameters represent the only path for drug molecules to exit the reservoir once the implant is fully assembled.
+The key to the technology's ability to achieve near-constant release without moving parts is the ability to precisely tune the inner diameter of the nanotubes to the same size range as individual drug molecules. Imagine that the inner diameter of the nanotubes was smaller than the size of a given drug as is shown on the left. There would be no release at all. Now imagine that the inner diameter of the nanotubes was much larger than the size of a given drug as is shown on the right. The rate at which the drug leaves the reservoir would follow traditional physics and would decrease over time as the drug concentration decreases, but a very interesting phenomenon occurs when the opening is close enough in size to the drug molecules such that the interactions that the drug molecules have with the inner walls of the nanotubes dominates the overall transport kinetics, constraining the fusion that would normally occur as a result of the concentration gradient. In this scenario, depicted in the middle, these interactions can be leveraged to achieve a variety of desirable delivery profiles, including near-constant release, even as the concentration inside the reservoir decreases. This middle scenario is exactly what NanoPortal has demonstrated in animal models.
+For any given potent drug molecule that can be adequately stabilized, NanoPortal is compatible with high drug concentrations, thereby enabling the minimization of the implant size while extending implant duration. The number of accessible nanotubes can be [readily modified] to tune the delivery rate up or down. And the interactions between the drug and the nanotube can be modified by a combination of engineering the inner diameter and adjusting formulation parameters in order to achieve a desirable delivery profile. With these tunable knobs, we anticipate ultimately developing a portfolio of implants leveraging NanoPortal technology.
+Now let me take you to our lead program, which is a very promising first application of the technology. NPM-119 is a 6-month exenatide implant for the treatment of patients with type 2 diabetes. Drug nonadherence is, perhaps surprising for some to hear, the primary reason for the low real-world effectiveness of diabetes therapeutics. And improving adherence will also produce significant value for payers and [pharma companies]. NPM-119 has demonstrated 4 months of in vivo delivery of therapeutic levels of exenatide, which we have separately verified through market research would represent an attractive commercial product. We expect to introduce an even more attractive 6-month implant into our pivotal trial, which we anticipate will represent our commercial configuration. We have confirmed the feasibility of a streamlined approval pathway using the 505(b)(2) mechanism. And we have raised over $50 million to date from investors, including AstraZeneca, the company that owns the only 2 exenatide-based products on the market today.
+The GLP-1 market continues to exceed analyst expectations year after year. As you can see, the class was a $13 billion market in 2020 and is expected to reach $23 billion in sales by 2026.
+Awareness of the adherence challenge has been increasing in recent years, but the enormity of the challenge is still not very widely understood. As an example: For patients receiving treatment for type 2 diabetes, it is both remarkable and tragic that approximately 50% of them do not meet glycemic targets primarily due to medication nonadherence. While there has been a lot of effort to try and improve the adherence of medicines in this space, currently available daily oral products and weekly injectable treatments such as Januvia, Trulicity and Invokana do not even come close to meeting desirable adherence levels.
+NPM-119 addresses this tremendous gap between real-world effectiveness and the incredible potential for these drugs to improve the health of patients head-on by guaranteeing adherence over the entire duration of the implant. In addition, there is a dual incentive for both pharma companies and payers to encourage adoption of NPM-119. Revenue to pharma companies increases, when patients adhere to their medicine, because of increased prescription sales. And payer expenses are reduced, when patients adhere to their medicines, because of reduced acute care and hospitalization expenses, in both cases to the tune of thousands of dollars per drug-adherent patients per year.
+With the best-in-class adherence, we anticipate best-in-class outcomes. Most GLP-1 products in general produce good clinical outcomes, but there have been varying levels of clinical outcomes associated with the various drug products across the different approved GLP-1 products. The available evidence overwhelmingly suggest that any of the GLP-1 drug substances such as exenatide, semaglutide and dulaglutide would be capable of producing similar outcomes, so long as therapeutic exposure levels are maintained. We therefore anticipate that NPM-119's guaranteed adherence over the duration of the implant should produce the most desirable therapeutic exposure maintenance across all GLP-1 products, which may result in the best outcomes in the class.
+I would be remiss if I did not address the elephant in the room that is Intarcia Therapeutics, a company which previously developed a 6-month exenatide implant for patients with type 2 diabetes but has not received FDA approval. Before their regulatory challenges, Intarcia demonstrated that this product could have tremendous value as can be seen by the truly remarkable deals that are highlighted on this slide, including raising funding pre approval at a $3.5 billion pre-money valuation. And while the actual commercial potential of such a product was never tested, the size of the GLP-1 market has grown much faster than expected at the time those deals were made. And the other existing and potentially upcoming GLP-1 products all continue to have significant adherence challenges.
+According to recent public statements, ITCA 650 was primarily rejected by the FDA because the FDA believed that the product causes acute kidney injury. Intarcia has publicly disputed this finding, and they are currently pursuing a public hearing with the commissioner of the FDA. The FDA expanded upon this finding by stating that the magnitude of the acute kidney injury risk was greater for ITCA 650 than for the marketed exenatide products. On a related note, the FDA recently approved once-weekly exenatide Bydureon for use in children, confirming their confidence in the safety of exenatide, so what was it about ITCA 650 that caused the FDA to be so concerned? Well, the FDA in their public remarks also stated that ITCA 650's in vitro device performance data demonstrated inconsistent day-to-day drug delivery and that the data provided to validate the limits of the in vitro dose delivery specifications did not support the safe and effective use of the device constituent of ITCA 650. It is precisely for these reasons why the minimally fluctuating release profile of NPM-119 enabled by the absence of moving parts is such a critical differentiator from ITCA 650 and why we are therefore optimistic about the prospects for NPM-119 to ultimately obtain FDA approval. In addition, the much smaller size of NPM-119 compared with ITCA 650 allows for the use of a much smaller needle gauge in the insertion process, an attribute that we have confirmed through our own (inaudible) market research will be significantly preferred by physicians administering the product.
+Now let's discuss the clinical and regulatory plans for NPM-119. I am very pleased to share with you our plans for our upcoming first-in-human trial LIBERATE-1. LIBERATE-1 will primarily evaluate the safety, tolerability and pharmacokinetics of a low- and high-dose NPM-119. GLP-1-naive patients will receive either a vehicle implant or a low-dose NPM-119. And type 2 diabetes patients who are already on a GLP-1 will switch treatment to receive either a high-dose NPM-119 or weekly Bydureon injections. 
+In addition to evaluating safety and tolerability, the results will also inform dose selection for the 6-month NPM-119 configuration that we anticipate will be used in the subsequent pivotal study. A secondary end point of the study will be to evaluate the change in glycemic control from baseline. And because the GLP-1 cohort will include many patients that are poorly controlled, we are looking forward to the opportunity for this trial to generate preliminary evidence that switching a patient who is already on a GLP-1 but is poorly controlled to our implant will improve their glycemic control.
+Now let's discuss where we are with the development effort. We have successfully completed the GLP tox study and numerous IND-enabling biocompatibility studies. We are in the process of completing the remaining IND-enabling studies and finalizing our GMP manufacturing, with the current projection of being ready to file the IND and begin enrolling patients in the second half of this year. We anticipate that a pivotal study could begin in 2024, with potential approval in late 2026.
+We have received (inaudible) feedback from the FDA regarding our ability to reference the Bydureon safety database by demonstrating that the day-to-day PK variability from NPM-119 is comparable to or less than that of Bydureon. By referencing Bydureon's safety database in our approval application through the 505(b)(2) pathway, we expect a much more efficient development program in terms of both timing and costs than is typical for new diabetes products.
+I will now pass the baton back to Will to discuss the Orion II cortical visual prosthesis system.
+Will?
+
+--------------------------------------------------------------------------------
+Jonathan Will McGuire,  Second Sight Medical Products, Inc. - Director    [4]
+--------------------------------------------------------------------------------
+Thanks, Adam.
+Second Sight developed Argus II, a retinal prosthesis system that stimulates the retina of a blind person, creating a useful form of artificial vision. Argus was a technically successful project, but the market ultimately proved much smaller than anticipated, as Argus II was indicated for individuals with retinitis pigmentosa with bare or no light perception, a very rare group. Given this limited market opportunity, we pivoted to the Orion visual cortical prosthesis. Orion leverages the Argus technology that stimulates the visual cortex of the brain rather than the retina. This allows us to treat virtually all forms of blindness, except in very rare cases where there's damage to the visual cortex of the brain.
+The initial target market for Orion represents a $1 billion opportunity in the U.S. There are more than 500,000 people who are legally blind due to glaucoma, diabetic retinopathy, optic nerve disease, eye trauma and retinitis pigmentosa. This number includes an initial addressable market of between 50,000 and 100,000 individuals with those indications and vision characterized as bare light or no light perception.
+We are currently conducting an early feasibility study of Orion I at UCLA and the Baylor College of Medicine, where subjects have been implanted with Orion I for over 3 years. The company recently completed the first part of a patient preference study to gather additional information regarding the potential adoption of the Orion technology in the target patient population. This data is currently being analyzed. Next steps for the program would include gathering further information to guide the development of Orion's regulatory pathway as well as an assessment of the efficacy and safety data required to support robust reimbursement in the U.S. market. Ultimately, the success of the Orion program will depend on the development of successful market access, reimbursement and long-term patient support strategies.
+We believe the current Second Sight team combined with the Nano Precision Medical team are uniquely qualified to conduct the required assessments and develop the strategic options for moving this breakthrough technology forward.
+I'll now turn the call back over to Adam.
+Adam?
+
+--------------------------------------------------------------------------------
+Adam Mendelsohn,  Nano Precision Medical, Inc. - Co-Founder, Chairman and CEO    [5]
+--------------------------------------------------------------------------------
+Thanks, Will.
+I am really excited to be able to bring such an experienced and seasoned leadership team with very relevant experience in both medical device and drug development and commercialization to the combined company.
+Truc Le, our Chief Operations Officer, is an extremely accomplished operations professional with numerous previous COO roles, with the very relevant experience of having overseen the successful approval of Exubera while he was at Nektar Therapeutics. Lisa Porter is an endocrinologist and was VP of clinical development at Amylin during the approval of Bydureon, who has also served as the Chief Medical Officer for Dance Biopharm and Eiger BioPharmaceuticals and is a current Board member of ViaCyte. 
+Brigid Makes, our CFO, has been the CFO of numerous companies, including Nektar Therapeutics; has gone through 2 successful reverse mergers, 2 IPOs and 1 SPAC; and serves as a director for 3 different companies currently. And Don Dwyer, our Chief Business Officer, spent most of his career at AstraZeneca as a commercial and business development leader, serving as AstraZeneca's observer to NPM's Board before retiring and then coming out of retirement to take on his current role.
+This is a truly incredible group of leaders with whom I am very honored to have the opportunity to work. I am very proud of the team that has been assembled to help us successfully develop the next generation of medical implants to treat chronic disorders with high unmet medical need.
+To wrap up this presentation, this slide serves as a reminder of the highlights associated with the proposed merger. I am thrilled to now be at the precipice of such an exciting development road ahead for the combined company.
+And I thank you all very much for taking the time to listen to this presentation. With that, we look forward to your questions.
+
+
+================================================================================
+Questions and Answers
+--------------------------------------------------------------------------------
+Operator    [1]
+--------------------------------------------------------------------------------
+(Operator Instructions) There are no phone questions at this time. I'd like to hand it over to Don Dwyer for any web questions.
+
+--------------------------------------------------------------------------------
+Don Dwyer,  Nano Precision Medical, Inc. - Chief Business Officer    [2]
+--------------------------------------------------------------------------------
+Thanks, Doug. I have a question here from [Earl Wagner. Earl] asks regarding the Orion I. How many potential patients in the U.S. and worldwide? What's the potential market size? And is there a timing available for approval? Maybe I'll ask Will, if you could address this. And I'll go back to the slide that talks a little bit about the addressable market.
+
+--------------------------------------------------------------------------------
+Jonathan Will McGuire,  Second Sight Medical Products, Inc. - Director    [3]
+--------------------------------------------------------------------------------
+Yes. This is Will McGuire. Thanks for the question. Yes, I would just refer back to this slide. The question may have been asked before we got to this slide, but we think the initial addressable market is about 50,000 to 100,000 individuals. And that's in the U.S. alone. And again these are individuals that have various -- that have lost their vision to various causes, almost anything other than injury to the cortex of the brain. And then if you want to take that number and convert it to a market opportunity, we haven't really given guidance on what we think the ASP would be, but if you look at what -- our prior device that we marketed, the Argus II, the ASP for it was about $150,000 per device in the U.S. market. And then from a timing perspective, we're unable to give any guidance on the timing now because we really need to work through kind of a final clinical and regulatory strategy, first. And then we can give further guidance at some point in the future, okay?
+
+--------------------------------------------------------------------------------
+Don Dwyer,  Nano Precision Medical, Inc. - Chief Business Officer    [4]
+--------------------------------------------------------------------------------
+Yes. Thanks, Will. That is close to wrapping up our time today. I'll turn it back over to Adam for some closing remarks, but before I do: If there are any questions that come in after that we haven't addressed, we'll follow up with those individuals directly after the call. Adam, over to you.
+
+--------------------------------------------------------------------------------
+Adam Mendelsohn,  Nano Precision Medical, Inc. - Co-Founder, Chairman and CEO    [5]
+--------------------------------------------------------------------------------
+Sure. Thank you, Don. Thank you, Will. And thanks again to everyone that listened in to this call. I am looking forward to keeping you updated on the status of the proposed merger as well as company updates in the future.
+Thank you very much, and have a wonderful rest of the morning and day.
+
+--------------------------------------------------------------------------------
+Operator    [6]
+--------------------------------------------------------------------------------
+Ladies and gentlemen, this does conclude today's teleconference. Thank you for your participation. You may disconnect your lines at this time, and have a wonderful day.
+
+
+
+
+
+
+
+--------------------------------------------------------------------------------
+Definitions
+--------------------------------------------------------------------------------
+PRELIMINARY TRANSCRIPT: "Preliminary Transcript" indicates that the 
+Transcript has been published in near real-time by an experienced 
+professional transcriber.  While the Preliminary Transcript is highly 
+accurate, it has not been edited to ensure the entire transcription 
+represents a verbatim report of the call.
+
+EDITED TRANSCRIPT: "Edited Transcript" indicates that a team of professional 
+editors have listened to the event a second time to confirm that the 
+content of the call has been transcribed accurately and in full.
+
+--------------------------------------------------------------------------------
+Disclaimer
+--------------------------------------------------------------------------------
+Refinitiv reserves the right to make changes to documents, content, or other 
+information on this web site without obligation to notify any person of 
+such changes.
+
+In the conference calls upon which Event Transcripts are based, companies 
+may make projections or other forward-looking statements regarding a variety 
+of items. Such forward-looking statements are based upon current 
+expectations and involve risks and uncertainties. Actual results may differ 
+materially from those stated in any forward-looking statement based on a 
+number of important factors and risks, which are more specifically 
+identified in the companies' most recent SEC filings. Although the companies 
+may indicate and believe that the assumptions underlying the forward-looking 
+statements are reasonable, any of the assumptions could prove inaccurate or 
+incorrect and, therefore, there can be no assurance that the results 
+contemplated in the forward-looking statements will be realized.
+
+THE INFORMATION CONTAINED IN EVENT TRANSCRIPTS IS A TEXTUAL REPRESENTATION
+OF THE APPLICABLE COMPANY'S CONFERENCE CALL AND WHILE EFFORTS ARE MADE TO
+PROVIDE AN ACCURATE TRANSCRIPTION, THERE MAY BE MATERIAL ERRORS, OMISSIONS,
+OR INACCURACIES IN THE REPORTING OF THE SUBSTANCE OF THE CONFERENCE CALLS.
+IN NO WAY DOES REFINITIV OR THE APPLICABLE COMPANY ASSUME ANY RESPONSIBILITY FOR ANY INVESTMENT OR OTHER
+DECISIONS MADE BASED UPON THE INFORMATION PROVIDED ON THIS WEB SITE OR IN
+ANY EVENT TRANSCRIPT. USERS ARE ADVISED TO REVIEW THE APPLICABLE COMPANY'S
+CONFERENCE CALL ITSELF AND THE APPLICABLE COMPANY'S SEC FILINGS BEFORE
+MAKING ANY INVESTMENT OR OTHER DECISIONS.
+--------------------------------------------------------------------------------
+Copyright 2022 Refinitiv. All Rights Reserved.
+--------------------------------------------------------------------------------

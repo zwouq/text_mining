@@ -1,0 +1,280 @@
+
+
+Refinitiv StreetEvents Event Transcript
+E D I T E D   V E R S I O N
+
+Taiho To Acquire Cullinan Oncology’s Subsidiary, Cullinan Pearl - M&amp;A Call
+MAY 12, 2022 / 12:00PM GMT
+
+================================================================================
+Corporate Participants
+================================================================================
+
+ * Corinne Savill
+   Cullinan Oncology, Inc. - Chief Business Officer
+ * Chad Messer
+    - 
+ * Nadim Ahmed
+   Cullinan Oncology, Inc. - President, CEO & Director
+ * Jeffrey Trigilio
+   Cullinan Oncology, Inc. - CFO & Treasurer
+
+================================================================================
+Conference Call Participiants
+================================================================================
+
+ * Edward Patrick White
+   H.C. Wainwright & Co, LLC, Research Division - MD of Equity Research & Senior Healthcare Analyst
+ * Gil Joseph Blum
+   Needham & Company, LLC, Research Division - Senior Analyst
+ * Jeff Hung
+   Morgan Stanley, Research Division - Equity Analyst
+
+================================================================================
+Presentation
+--------------------------------------------------------------------------------
+Operator    [1]
+--------------------------------------------------------------------------------
+Good day, and welcome to the Cullinan Oncology, Taiho Collaboration Conference Call. Today's conference is being recorded. At this time, I would like to turn the conference over to Chad Messer the Investor Vice President of Investor Relations of Cullinan Oncology. Please go ahead, sir.
+
+--------------------------------------------------------------------------------
+Chad Messer,   -     [2]
+--------------------------------------------------------------------------------
+Hello, everyone, and thank you all for joining us to discuss our strategic collaboration with Taiho for the joint development and commercialization of CLN-081. My name is Chad Messer, and I'm the Vice President of Investor Relations at Cullinan Oncology. 
+Before we begin, I would like to remind you all of the safe harbor provisions outlined on Slide 2. During today's presentation, management will be making certain forward-looking statements which are based on current information, assumptions and expectations that are subject to change and involve a number of risks and uncertainties, which may cause actual results to differ materially from those contained in such forward-looking statements. These risks are described more fully in the company's filings made with the Securities and Exchange Commission, including our annual report on Form 10-K. 
+You're cautioned not to place any undue reliance on these forward-looking statements, and we disclaim any obligation to update such statements. In addition, this call contains time-sensitive information accurate only as of the date of the live broadcast, May 12, 2022. Cullinan undertakes no obligation to revise or update any forward-looking statements to reflect events or circumstances after the date of this call. 
+As shown on Slide 3, we will begin today's call with opening remarks from Nadim Ahmed, Cullinan's Chief Executive Officer. Following Nadim, Corinne Savill, our Chief Business Officer, will give an overview of terms of the collaboration. Jeff Trigilio, our Chief Financial Officer, will then frame the transaction in terms of its financial context and then we will return the call back to Nadim for a strategic perspective on the collaboration and closing remarks. Dr. Jeff Jones, our Chief Medical Officer, will then join us for Q&A. 
+It is now my pleasure to turn the call over to Cullinan's CEO, Nadim Ahmed. Nadim?
+
+--------------------------------------------------------------------------------
+Nadim Ahmed,  Cullinan Oncology, Inc. - President, CEO & Director    [3]
+--------------------------------------------------------------------------------
+Thank you, Chad, and welcome, everyone, to our call today to provide an overview of our strategic collaboration with Taiho Pharmaceuticals to jointly develop and commercialize CLN-081. 
+Before covering the terms of the collaboration, on Slide 4, I would like to review the unique properties of CLN-081, and remind you of the differentiated clinical profile that it has demonstrated to date. CLN-081 is an EGFR inhibitor that selectively target cells expressing exon 20 insertion mutations, while relatively sparing cells expressing wild-type EGFR. It has a unique chemical structure that is distinct from other exon 20 directed tyrosine kinase inhibitors. Importantly, the molecule is not active against wild-type or mutant HER2, which we believe may provide a tolerability advantage. 
+Based on our most recent update in March, we believe CLN-081 continues to show potential for a best-in-class clinical profile at the 100 mg BID dose. We have reported an efficacy profile that is at the high end of exon 20 agents, including a 41% confirmed response rate, an estimated 15-month median duration of response and 12-month median progression-free survival. Importantly, this efficacy comes with favorable safety and tolerability that includes no grade 3 or greater EGFR-related toxicities and relatively low rates of dose discontinuation and interruption. 
+Slide 5 highlights the progress Cullinan has made with CLN-081 in a very short period of time. We licensed the drug from Taiho approximately 3 years ago in February 2019 and rapidly advanced the molecule into the clinic. Then approximately 18 months later, we reported initial proof-of-concept data at ASCO 2021, highlighting CLN-081's differentiated clinical profile. And as we announced recently, we will be updating the clinical data from the ongoing Phase I/IIa study of CLN-081 in an oral presentation at ASCO in just a few weeks. 
+Earlier this year, we were pleased to announce the FDA granted breakthrough therapy designation to CLN-081, showing the agency's high interest in the compound, which has facilitated ongoing and productive discussions with the agency. And to date, approximately 3 years from in-licensing the compound, we are very excited to announce a strategic collaboration with Taiho to further advance CLN-081 towards commercialization. 
+Slide 6 explains why we believe Taiho is the ideal partner for CLN-081. Taiho has been our partner on our journey with CLN-081 from the beginning and has unique insight into the drug, having both discovered it and participated in its development with us through its involvement with our subsidiary, Cullinan Pearl. Given this unique history of CLN-081, we believe Taiho best understands the potential for the asset. 
+Additionally, CLN-081 strategically aligns with Taiho's late-stage clinical development regulatory and commercial targeted oncology capabilities. Taiho Oncology is currently advancing a robust portfolio of 7 molecules that are in more than 20 clinical trials for multiple solid tumor indications. They also have a robust U.S. oncology commercial infrastructure in place, including sales force, marketing, market access and medical affairs capabilities. 
+Taiho is currently marketing 2 branded oncology therapies, LONSURF and INQOVI, with a third product candidate, Futibatinib, a targeted FGFR inhibitor with BTD status, which is currently under NDA review. We believe these capabilities will help both accelerate the development and maximize the commercial potential of CLN-081. 
+Now to discuss the terms of the collaboration is Corinne Savill, our Chief Business Officer. Corinne and her team have done an outstanding job managing the competitive process that culminated in this specific transaction with our chosen partners at Taiho. Corinne?
+
+--------------------------------------------------------------------------------
+Corinne Savill,  Cullinan Oncology, Inc. - Chief Business Officer    [4]
+--------------------------------------------------------------------------------
+Thanks, Nadim. I'm excited to share with you the terms of our strategic collaboration with Taiho. 
+On Slide 7, we have outlined the key terms of the collaboration. The transaction has 2 fundamental aspects: Taiho's acquisition of Cullinan Pearl and a strategic U.S. co-development and co-commercialization collaboration. First, Taiho is acquiring Cullinan Pearl which includes the rights for CLN-081. As consideration, Cullinan Oncology is receiving up to $405 million in near-term cash payments which includes a $275 million upfront payment. Cullinan is also entitled to up to an additional $132 million in milestone payments tied to exon 20 non-small cell lung cancer based regulatory events. 
+In addition to the acquisition, Cullinan and Taiho are simultaneously entering into a U.S. joint development and commercialization agreement for CLN-081. As per that agreement, Cullinan will share development costs and split profits 50-50 with Taiho in the United States. This collaboration will provide multiple benefits to Cullinan. Through the co-development agreement, we will participate in shaping the development plan to drive optimal value for 081. For example, through expansion indications for which the expenses and profits can also be shared on a 50-50 basis. 
+Additionally, as co-commercialization partners, we have the strategic option to efficiently establish a commercial infrastructure that can be leveraged to launch future pipeline molecules, in addition to CLN-081. 
+Finally, the U.S. profit share allowed us to share the upside commercial potential of 081 in the most important market with an already established oncology player. 
+I will now turn it over to Jeff Trigilio to provide additional financial context and information on the transaction. Jeff?
+
+--------------------------------------------------------------------------------
+Jeffrey Trigilio,  Cullinan Oncology, Inc. - CFO & Treasurer    [5]
+--------------------------------------------------------------------------------
+Thanks, Corinne. Slide 8 has financial context. As you can see, the transaction structure provides multiple financial benefits to Cullinan. First, the upfront payment generates a strong return on investment. We have now generated $295 million in CLN-081 transaction revenue, which is a significant return on the $42 million we have invested to date. That return could grow to $425 million upon achievement of the transaction's regulatory milestones. We also retain the right to participate in CLN-081's future success through the U.S. profit share. Following the potential approval, our share of CLN-081 profits would provide an annual ongoing revenue stream to Cullinan. 
+Finally, upon close, we will have ample financial resources. Including the upfront payment, our cash and investments totaled $685 million as of March 31, 2022. Based on our current operating plan, we now expect to have cash runway through the end of 2026, providing 2 additional years of runway compared to our previous guidance. 
+With that, I will now turn the call back over to Nadim to provide strategic perspective on the transaction. Nadim?
+
+--------------------------------------------------------------------------------
+Nadim Ahmed,  Cullinan Oncology, Inc. - President, CEO & Director    [6]
+--------------------------------------------------------------------------------
+Thanks, Jeff. On Slide 9, I would like to emphasize some of the ways this deal allows us to maximize the value of CLN-081 for patients and Cullinan Oncology shareholders and also frame the collaboration in terms of the Cullinan business model. First and foremost, we believe Taiho is the ideal partner with whom to join forces to further develop and commercialize CLN-081. As I mentioned earlier, they have intimate knowledge of the compound, both at its original innovators and as our existing partner. This knowledge, combined with their oncology drug development expertise and U.S. commercial presence should help to maximize the value of CLN-081 and support its commercial success. 
+Second, our retained ability to share equally in the U.S. profits for CLN-081, allows us to participate in the upside potential from this drug in a meaningful way in the most important oncology market in the world. 
+Third, our ability to co-commercialize CLN-081, in the United States supports our vision to become a fully integrated biotech company by allowing us to build a commercial presence in the U.S. that can be leveraged for future programs as well as CLN-081. 
+And finally, the cash payments from this collaboration provide nondilutive capital that will both extend our runway and enable reinvestment into our broad and deep pipeline of novel oncology programs. By this time next year, we expect to have 5 candidates from our internal pipeline in the clinic, several of which, including CLN-619 and CLN-617 have applicability across a broad range of indications. This transaction provides the financial resources to pursue expanded development opportunities across these programs and to support our ongoing business development efforts to in-source promising new oncology programs. 
+At Cullinan, we innovate across oncology drug development in the small molecules and biologics space. We find first-in-class or best-in-class drugs that target specific oncogenic drivers or harness immune system. Our model allows us the flexibility to maximize the value of our assets for patients and shareholders by either commercializing them ourselves or through strategic partnerships. We believe our CLN-081 collaboration with Taiho embodies all of these goals. 
+In just over 3 years, we have already generated a substantial return while rapidly advancing a potential best-in-class cancer drug for a patient population with significant unmet need. Importantly, we also stand to gain meaningfully from the future upside potential of this innovation for a 50-50 profit share and the strategic option to build a commercial infrastructure. 
+With that, I will ask Jeff Jones, our Chief Medical Officer, to also join the leadership team for the Q&A session. 
+Operator, please open up the call for questions.
+
+
+================================================================================
+Questions and Answers
+--------------------------------------------------------------------------------
+Operator    [1]
+--------------------------------------------------------------------------------
+(Operator Instructions) And we'll take our first question from Jeff Hung with Morgan Stanley.
+
+--------------------------------------------------------------------------------
+Jeff Hung,  Morgan Stanley, Research Division - Equity Analyst    [2]
+--------------------------------------------------------------------------------
+Congrats on the partnership announcement. I guess first is, can you talk about the $130 million regulatory milestones and how they might be split and just to confirm that there are no clinical milestones for potential future data?
+
+--------------------------------------------------------------------------------
+Nadim Ahmed,  Cullinan Oncology, Inc. - President, CEO & Director    [3]
+--------------------------------------------------------------------------------
+Yes. Thanks for your question. So the $130 million covers the non-small cell lung indications, which are obviously the core for the molecule. At this point, we're not discussing anything around the split of the financials. 
+And then in terms of future milestones, these are the 2 outstanding regulatory milestones. And then of course, there is the future profit share equally split in the U.S. marketplace. But Jeff, do you want to add anything?
+
+--------------------------------------------------------------------------------
+Jeffrey Trigilio,  Cullinan Oncology, Inc. - CFO & Treasurer    [4]
+--------------------------------------------------------------------------------
+Yes. Just that they're entirely regulatory based.
+
+--------------------------------------------------------------------------------
+Jeff Hung,  Morgan Stanley, Research Division - Equity Analyst    [5]
+--------------------------------------------------------------------------------
+Okay. Great. And then my next question might be a bit early. But I guess even though the profits in the U.S. will be split evenly, can you talk about the relative size of the sales force that you and Taiho might have? And how many reps you think that you would need and what proportion of docs you would be able to target with your sales force?
+
+--------------------------------------------------------------------------------
+Nadim Ahmed,  Cullinan Oncology, Inc. - President, CEO & Director    [6]
+--------------------------------------------------------------------------------
+Sure. Thanks, Jeff. The question is a bit early. So obviously, that will be part of our discussions with Taiho as we move forward to launch and commercialization. Today, as I mentioned, Taiho is out in the marketplace. They have a robust commercial infrastructure with all the capabilities, sales force, marketing, medical affairs, market access, and they have around 50 reps currently. But in the future, we need to discuss what's the appropriate sizing to fully maximize CLN-081, but that will be the subject of ongoing discussion, Jeff.
+
+--------------------------------------------------------------------------------
+Operator    [7]
+--------------------------------------------------------------------------------
+And next, we'll hear from Ed White with H.C. Wainwright.
+
+--------------------------------------------------------------------------------
+Edward Patrick White,  H.C. Wainwright & Co, LLC, Research Division - MD of Equity Research & Senior Healthcare Analyst    [8]
+--------------------------------------------------------------------------------
+Congratulations on this deal. So the first question I have is just regarding the $275 million upfront payment. Has it been received? Or should we expect it to be received and hit the balance sheet this quarter? And then how is it going to be recorded on the income statement? Is this going to be onetime or spread out over many quarters?
+
+--------------------------------------------------------------------------------
+Nadim Ahmed,  Cullinan Oncology, Inc. - President, CEO & Director    [9]
+--------------------------------------------------------------------------------
+Thanks, Ed, for your question. Let me pass that over to Jeff T.
+
+--------------------------------------------------------------------------------
+Jeffrey Trigilio,  Cullinan Oncology, Inc. - CFO & Treasurer    [10]
+--------------------------------------------------------------------------------
+Yes. Thanks. So your first question, the transaction is subject to customary closing, and we would estimate that it will close in the second quarter. And then upon closing, we would receive the upfront proceeds. 
+And to your second question, we would recognize it as revenue, obviously. And I think we're still evaluating the accounting treatment. But as we see it today, there's nothing that would require us to spread over future quarters. 
+And I think, Ed, as you might have seen in our filings today that including that $275 million plus where we ended the first quarter, we now have $685 million of cash, so it gives us plenty of runway through 2026.
+
+--------------------------------------------------------------------------------
+Edward Patrick White,  H.C. Wainwright & Co, LLC, Research Division - MD of Equity Research & Senior Healthcare Analyst    [11]
+--------------------------------------------------------------------------------
+Right. Yes, I did see that. And then regarding the 50% of profits, how are profits determined? Is there anything that you can tell us about that? Do you pick up the cost of -- does that include the cost of all salespeople? Or how should we be thinking about that kind of return?
+
+--------------------------------------------------------------------------------
+Nadim Ahmed,  Cullinan Oncology, Inc. - President, CEO & Director    [12]
+--------------------------------------------------------------------------------
+Yes. So it's both -- Ed, it's both development and commercialization. And so everything kind of goes into the mix from a cost basis and then will be split equally between the 2 companies.
+
+--------------------------------------------------------------------------------
+Jeffrey Trigilio,  Cullinan Oncology, Inc. - CFO & Treasurer    [13]
+--------------------------------------------------------------------------------
+Yes. Ed it's in the commercial side, the expenses are only those that are directly related to CLN-081, so we're not picking up broader commercial expenses at Taiho.
+
+--------------------------------------------------------------------------------
+Edward Patrick White,  H.C. Wainwright & Co, LLC, Research Division - MD of Equity Research & Senior Healthcare Analyst    [14]
+--------------------------------------------------------------------------------
+Okay. And then the last question I have is now that you're splitting the cost for the development of CLN-081, I was just wondering if you can tell us what percentage of R&D spend is 081 right now at the company? Or any kind of guidance on what your R&D expenses will look like going forward?
+
+--------------------------------------------------------------------------------
+Jeffrey Trigilio,  Cullinan Oncology, Inc. - CFO & Treasurer    [15]
+--------------------------------------------------------------------------------
+Yes. Thanks for the question. Ed, as you know, we haven't given guidance in the past, and we're going to continue with that, especially as we're in discussions with Taiho and our partners about what the development plan looks like. You could see in the slides we put today that to date, 081 has been about $42 million over the last 2.5 years. So it's been a pretty efficient amount of spend. And we would say that the majority of the proceeds are going to be reinvested in the broader pipeline at Cullinan.
+
+--------------------------------------------------------------------------------
+Nadim Ahmed,  Cullinan Oncology, Inc. - President, CEO & Director    [16]
+--------------------------------------------------------------------------------
+Yes, I would add to that, too. Our operating plan moving forward had always baked in the cost of developing CLN-081, with our cash runway extended. So now with the added injection of cash plus the reduced cost for development, it actually gives us even more flexibility to be able to reinvest back into advancing our pipeline and sourcing new assets.
+
+--------------------------------------------------------------------------------
+Operator    [17]
+--------------------------------------------------------------------------------
+And our next question will come from Gil Blum with Needham & Company.
+
+--------------------------------------------------------------------------------
+Gil Joseph Blum,  Needham & Company, LLC, Research Division - Senior Analyst    [18]
+--------------------------------------------------------------------------------
+Congrats on the deal. Maybe a quick one on the co-commercialization with Taiho. So it makes sense to have your own sales team. I mean you could later leverage it for other products, but you kind of end up competing for the same accounts with the Taiho people when this thing is commercial.
+
+--------------------------------------------------------------------------------
+Nadim Ahmed,  Cullinan Oncology, Inc. - President, CEO & Director    [19]
+--------------------------------------------------------------------------------
+Sure, thanks. I mean as I've mentioned to Jeff Hung earlier, it's a bit early to kind of start getting down to the territory level and calling on customers. But needless to say, you've got experienced commercial folks making the decision on both sides who have done this before several times, so we'll make sure we're allocating the way that's going to maximize the commercial potential for CLN-081. Thanks for your question.
+
+--------------------------------------------------------------------------------
+Gil Joseph Blum,  Needham & Company, LLC, Research Division - Senior Analyst    [20]
+--------------------------------------------------------------------------------
+Maybe another one. So it looks like you're making really good progress here on your targeted therapeutics portfolio. Now you have quite a decent amount of war chest. Are you going to focus more on targeted oncology products? Or are you going to continue diversifying with Taiho agents? And you have a very broad portfolio. Is there something you're going to pay more attention to now that you're thinking through a commercial lens?
+
+--------------------------------------------------------------------------------
+Nadim Ahmed,  Cullinan Oncology, Inc. - President, CEO & Director    [21]
+--------------------------------------------------------------------------------
+All right. Yes. So thanks for your question. So a couple of things I would say. So I'll reiterate that, of course, we do have a very diverse pipeline. I'd also say we're quite focused in the way we approach things. So we are operating in the -- within the small molecules and biologics space. And within that context, we are agnostic to platform. So that will be number one. 
+Secondly, we continue to be very disciplined about how we progress molecules and the criteria for which we advance molecules within our own pipeline and bring those in. So those are kind of 3 key factors. One is -- has to have the potential at least to be either best-in-class or first-in-class. The molecule has to activate the immune system or target key oncogenic drivers. 
+And then preclinically at least, we have to see monotherapy activity. So we're remaining even with the additional cash available to us very disciplined about the way we continue to focus on our core strengths, which again is in that small molecule and biologics space, which does cover targeted therapies and immuno-oncology, and so we'll actually continue to do that. 
+The other thing that this does give us is it gives us the opportunity with the additional cash to accelerate our programs further and perhaps some of the things that we were thinking of where we would do studies sequentially, we have the opportunity to do that in parallel, which is really important for some of our pan-cancer potential agents like 619 and 617.
+
+--------------------------------------------------------------------------------
+Gil Joseph Blum,  Needham & Company, LLC, Research Division - Senior Analyst    [22]
+--------------------------------------------------------------------------------
+Maybe a last one on modeling, a quick modeling question. So the cost share with Taiho, would that be recognized as revenues over the quarters? Or is it just cost savings? How is that going to be treated?
+
+--------------------------------------------------------------------------------
+Jeffrey Trigilio,  Cullinan Oncology, Inc. - CFO & Treasurer    [23]
+--------------------------------------------------------------------------------
+That's a good question. Gil. We'll actually net out the R&D expense. So it will be -- what you'll see is the net R&D number for Pearl.
+
+--------------------------------------------------------------------------------
+Operator    [24]
+--------------------------------------------------------------------------------
+We have no further questions. I'll turn the call back over to Nadim for closing remarks.
+
+--------------------------------------------------------------------------------
+Nadim Ahmed,  Cullinan Oncology, Inc. - President, CEO & Director    [25]
+--------------------------------------------------------------------------------
+Thanks very much. Look, we're very pleased with this transaction on several fronts. Firstly, we're very thrilled to be working with our partners at Taiho. Outside of Cullinan Oncology, there's nobody who knows this molecule better than our partners at Taiho who have been our partners throughout the journey. So we're really pleased about that. It's a really good strategic fit also for Taiho who's focusing on small molecules in the target therapy space. And also, there's a commercial infrastructure in place at Taiho that we can slide into. So we're excited in terms of our choice of partner. And it was a competitive process, and Taiho came up with a compelling bid for us, which was both compelling in terms of strategic fit and finances. 
+And for us also, as I mentioned earlier, having the upfront cash available will allow us to really rapidly advance our burgeoning portfolio, which will be 5 programs in the clinic next year. So we're excited about that as well as continue to look for promising new oncology programs that are out there. So I think this is a pivotal moment for the company. We're very excited to be working in partnership with Taiho, and we look forward to continue to keep you updated as our pipeline continues to progress. So thank you very much for your attention today.
+
+--------------------------------------------------------------------------------
+Operator    [26]
+--------------------------------------------------------------------------------
+And this concludes today's call. We thank you again for your participation. You may now disconnect.
+
+
+
+
+
+
+
+--------------------------------------------------------------------------------
+Definitions
+--------------------------------------------------------------------------------
+PRELIMINARY TRANSCRIPT: "Preliminary Transcript" indicates that the 
+Transcript has been published in near real-time by an experienced 
+professional transcriber.  While the Preliminary Transcript is highly 
+accurate, it has not been edited to ensure the entire transcription 
+represents a verbatim report of the call.
+
+EDITED TRANSCRIPT: "Edited Transcript" indicates that a team of professional 
+editors have listened to the event a second time to confirm that the 
+content of the call has been transcribed accurately and in full.
+
+--------------------------------------------------------------------------------
+Disclaimer
+--------------------------------------------------------------------------------
+Refinitiv reserves the right to make changes to documents, content, or other 
+information on this web site without obligation to notify any person of 
+such changes.
+
+In the conference calls upon which Event Transcripts are based, companies 
+may make projections or other forward-looking statements regarding a variety 
+of items. Such forward-looking statements are based upon current 
+expectations and involve risks and uncertainties. Actual results may differ 
+materially from those stated in any forward-looking statement based on a 
+number of important factors and risks, which are more specifically 
+identified in the companies' most recent SEC filings. Although the companies 
+may indicate and believe that the assumptions underlying the forward-looking 
+statements are reasonable, any of the assumptions could prove inaccurate or 
+incorrect and, therefore, there can be no assurance that the results 
+contemplated in the forward-looking statements will be realized.
+
+THE INFORMATION CONTAINED IN EVENT TRANSCRIPTS IS A TEXTUAL REPRESENTATION
+OF THE APPLICABLE COMPANY'S CONFERENCE CALL AND WHILE EFFORTS ARE MADE TO
+PROVIDE AN ACCURATE TRANSCRIPTION, THERE MAY BE MATERIAL ERRORS, OMISSIONS,
+OR INACCURACIES IN THE REPORTING OF THE SUBSTANCE OF THE CONFERENCE CALLS.
+IN NO WAY DOES REFINITIV OR THE APPLICABLE COMPANY ASSUME ANY RESPONSIBILITY FOR ANY INVESTMENT OR OTHER
+DECISIONS MADE BASED UPON THE INFORMATION PROVIDED ON THIS WEB SITE OR IN
+ANY EVENT TRANSCRIPT. USERS ARE ADVISED TO REVIEW THE APPLICABLE COMPANY'S
+CONFERENCE CALL ITSELF AND THE APPLICABLE COMPANY'S SEC FILINGS BEFORE
+MAKING ANY INVESTMENT OR OTHER DECISIONS.
+--------------------------------------------------------------------------------
+Copyright 2022 Refinitiv. All Rights Reserved.
+--------------------------------------------------------------------------------

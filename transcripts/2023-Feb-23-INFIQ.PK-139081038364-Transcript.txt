@@ -1,0 +1,385 @@
+
+
+Refinitiv StreetEvents Event Transcript
+E D I T E D   V E R S I O N
+
+Infinity Pharmaceuticals Inc and MEI Pharma Inc Merger Agreement Call
+FEBRUARY 23, 2023 / 1:00PM GMT
+
+================================================================================
+Corporate Participants
+================================================================================
+
+ * David M. Urso
+   MEI Pharma, Inc. - COO & General Counsel
+ * Adelene Q. Perkins
+   Infinity Pharmaceuticals, Inc. - Chairman & CEO
+ * David A. Walsey
+   MEI Pharma, Inc. - SVP of Corporate Affairs
+ * Daniel P. Gold
+   MEI Pharma, Inc. - President, CEO & Director
+ * Robert Ilaria
+   Infinity Pharmaceuticals, Inc. - Chief Medical Officer
+
+================================================================================
+Conference Call Participiants
+================================================================================
+
+ * Justin Reid Zelin
+   BTIG, LLC, Research Division - Director & Biotechnology Research Analyst
+ * Robyn Kay Shelton Karnauskas
+   Truist Securities, Inc., Research Division - Research Analyst
+ * I-Eh Jen
+   Laidlaw & Company (UK) Ltd., Research Division - MD of Healthcare Research & Senior Biotechnology Analyst
+ * Enkhtuul Tsogtbaatar
+   Stifel, Nicolaus & Company, Incorporated, Research Division - Research Analyst
+
+================================================================================
+Presentation
+--------------------------------------------------------------------------------
+Operator    [1]
+--------------------------------------------------------------------------------
+Good day, and welcome to the MEI Pharma and Infinity Pharmaceuticals Merger Announcement Webcast. (Operator Instructions) Please note that today's event is being recorded. 
+I would now like to turn the conference over to David Walsey -- pardon me, David Walsey, Senior Vice President, Corporate Affairs at MEI Pharma. Please go ahead, sir.
+
+--------------------------------------------------------------------------------
+David A. Walsey,  MEI Pharma, Inc. - SVP of Corporate Affairs    [2]
+--------------------------------------------------------------------------------
+Good morning, and thank you for joining the MEI Pharma and Infinity Pharmaceuticals joint conference call today. My name is David Walsey, and I'm Senior Vice President of Corporate Affairs for MEI. With me today on the call from MEI are Dan Gold, President and CEO; David Urso, COO, General Counsel and Head of Corporate Development. 
+From Infinity, we are joined by Adelene Perkins, Chair and CEO; and Dr. Robert Ilaria, Chief Medical Officer. Additionally, Brian Drazba, MEI's CFO, is on the call to join in the Q&A as needed. 
+Before turning the call over to Adelene for opening remarks, I'd like to remind you that during today's call, we'll be making some forward-looking statements. Such statements are based on current expectations and assumptions that are subject to risks and uncertainties and involve a number of risk factors that could cause actual results to differ materially from projected results, in particular, statements include, but are not limited to, the sufficiency of our cash and cash equivalents to fund operations, the anticipated timing of release of data of our clinical trials, our business and operations and our future financial performance and expense levels. Forward-looking statements may include words and phrases such as we expect, we believe, we intend, we anticipate, we plan, may, likely, upcoming and similar terms. 
+For a discussion of material risks and other important factors that could affect our actual results, please refer to the accompanying slides as well as those Risk Factors contained under the heading Risk Factors in the latest 10-Q and 10-K reports filed by MEI and Infinity with the SEC. 
+Actual results may differ materially from today's forward-looking statements, and MEI and Infinity don't assume any obligation or intent to update them, except as required by law. 
+The statements in this discussion do not constitute an offer to sell or the solicitation of an offer to sell or the solicitation of an offer to buy any securities nor shall there be any sale of securities in any jurisdiction in which such offer, solicitation or sale would be unlawful prior to registration or qualification under the securities laws of any such jurisdiction. No public offer of security shall be made except by means of prospectus meeting the requirements of section 10 of the Securities Act of 1933 as amended. 
+This discussion relates to proposed transaction between Infinity and MEI. In connection with the proposed merger, MEI and Infinity plan to file with the SEC in mail or otherwise provide to their respective stockholders or joint proxy statement prospectus regarding the proposed merger. 
+Investors and MEI's and Infinity's expected stockholders are urged to read the joint proxy statement prospectus in its entirety when it becomes available and any other documents filed by each of MEI and Infinity with the SEC in connection with the proposed merger or incorporated by reference therein because they will contain important information about the proposed merger and the parties to the proposed merger. Investors and stockholders will be able to obtain a free copy of the joint proxy statement prospectus and other documents containing important information about MEI and Infinity once such documents are filed with the SEC from SEC's website at www.sec.gov. MEI and Infinity make available free of charge at www.meipharma.com and www.infi.com, respectively, copies of materials they filed with or furnished to the SEC. 
+MEI, Infinity and their respective directors, executive officers and certain employees and other persons may be deemed to be participants in the solicitation of -- from the stockholders of MEI and Infinity in connection with the proposed merger. Security holders may obtain information regarding the names, affiliation and interest of MEI's directors and executive officers in MEI's annual report on Form 10-K for the fiscal year ended June 30, 2022, which was filed with the SEC on September 8, 2022, and its definitive proxy statement for the 2022 Annual Meeting of Stockholders, which was filed with the SEC on October 27, 2022. 
+Security holders may obtain information regarding the names, affiliation and interest of Infinity's directors and executive officers in Infinity's Annual Report or Form 10-K for the fiscal year ended December 31, 2021, which was filed with the SEC on March 29, 2022, and its definitive proxy statement for the 2022 Annual Meeting of Stockholders, which was filed with the SEC on April 25, 2022. Additional information regarding the interest of such individuals and the proposed merger will be included in the joint proxy statement prospectus relating to the proposed merger when it is filed with the SEC. These documents, when available, may be obtained free of charge from the SEC's website at www.sec.gov, MEI's investor website which is www.meipharma.com/investors and Infinity investor website at https://investors.infi.com/. 
+With that, I'll hand the call over to Adelene to start the discussion.
+
+--------------------------------------------------------------------------------
+Adelene Q. Perkins,  Infinity Pharmaceuticals, Inc. - Chairman & CEO    [3]
+--------------------------------------------------------------------------------
+Thank you, David. The transaction announced earlier today is very attractive for both MEI and Infinity. We have the opportunity to build a great oncology-focused company by bringing the best of MEI and Infinity together. 
+MEI brings 2 attractive early-stage therapeutic development candidates, an experienced team and a strong balance sheet to the combined company. We expect both voruciclib and ME-344 to generate data by the end of 2023, with the potential to demonstrate proof of concept in patients with acute myeloid leukemia for voruciclib and colorectal cancer for ME-344. 
+MEI was seeking a later-stage development candidate, which Infinity brings with eganelisib, a potential first-in-class PI3 kinase gamma-specific inhibitor designed to reprogram macrophages and reduce immunosuppression in the tumor microenvironment as well as an experienced drug development team. 
+The lead and most advanced program for the combined company will be eganelisib. With data supporting multiple paths forward for eganelisib, we prioritize head and neck cancer based on our ability to leverage encouraging progression-free survival data we generated in this patient population in our clinical study called MARIO-1. Unfortunately, people with head and neck cancer have relatively short progression-free survival and overall survival when treated with checkpoint inhibitor monotherapy. Because of that, we prioritized the planned initiation of a randomized controlled Phase II clinical study combining eganelisib with pembrolizumab, or KEYTRUDA, in people with head and neck cancer, as this combination regimen has the potential to demonstrate progression-free survival and overall survival benefits for patients in a reasonably short period of time. Pending review by the FDA, we plan to start the study in the third quarter of 2023 and expect to have initial safety and progression-free survival data in the second half of 2024. 
+By merging our companies, we expand and diversify our pipeline with early- and late-stage therapeutic candidates, leverage our public company infrastructure, build a phenomenal team and, importantly, expect to have cash to fund operations through mid-2025, during which time we expect to generate data on all 3 programs. Positive data in any of our 3 programs would support their further development and potential to improve outcomes for patients in their respective setting. 
+In addition, we complement each other really well not only in the combining of our pipelines, teams and resources but in our shared commitment to fighting cancer with great science, great people and a culture that helps them thrive. Leveraging our combined capabilities and resources, we have a truly unique opportunity to build a company with the potential to deliver meaningfully better treatments for patients and in so doing, create meaningful value for shareholders. 
+I'll now hand the call over to Dan Gold, David Urso and Rob Ilaria, who will share their perspectives on our merger and the potential of our key programs before opening the call up to Q&A. Dan?
+
+--------------------------------------------------------------------------------
+Daniel P. Gold,  MEI Pharma, Inc. - President, CEO & Director    [4]
+--------------------------------------------------------------------------------
+Good morning, everyone, and thank you for joining us today on what is a significant new chapter for MEI and Infinity. I echo Adelene's excitement and vision for the potential that this transaction brings to -- in creating a combined entity, which we believe best captures the opportunities that both companies have to offer. 
+Over the course of my career, I've always been attracted to drug candidates backed by strong science with the opportunity to improve patient outcomes in cancer. At MEI, a large part of our development efforts over the years have been directed towards understanding and tackling both direct and indirect resistance mechanisms that cancers use to their advantage. This is evident in MEI's voruciclib and 344 programs. And this is also true for the eganelisib program which is based on solid science and backed by a promising and extensive set of preclinical and clinical data, making it a logical addition to our drug development efforts. 
+As a Boston-trained immunologist with an emphasis on T cells, I've watched with great excitement the major developments in recent years to harness T cells in the fight against cancer with agents such as a checkpoint inhibitor. Our next challenge is to broaden the utility of these approaches so that more patients can benefit from these checkpoint inhibitor effects. 
+While attempts by others to identify new stimulatory or regulatory receptors is of great interest, I believe these efforts will be incremental until we tackle a central problem in many solid tumor settings, namely making the tumor microenvironment more hospitable rather than suppressive to effector T cells. 
+Eganelisib has shown evidence of its ability to reprogram the suppressive macrophage tumor microenvironment to a more activating one. In addition, eganelisib has been the subject of several studies in multiple indications when combined with the PD-1 pathway inhibitor, which collectively are indicative of clinical activity. We joined Infinity in believing that eganelisib holds significant promise warranting continued investment. 
+Leading the combined company will be David Urso. David is currently MEI's Chief Operating Officer and General Counsel. In the coming months, David will transition into the CEO role at MEI and will be prepared to hit the ground running when the merger closes. 
+David joined MEI in 2014, and during this time, he has exhibited tremendous leadership across the organization. Importantly, he has been my partner in developing and overseeing corporate strategy while leading our business development efforts. With a science background and over 25 years of experience in the life science industry serving in many different capacities, I can think of no one better to lead this next chapter for our combined company. 
+And with that, I'll hand it over to David.
+
+--------------------------------------------------------------------------------
+David M. Urso,  MEI Pharma, Inc. - COO & General Counsel    [5]
+--------------------------------------------------------------------------------
+Thanks, Dan and Adelene. I appreciate those kind words. I'm excited for the opportunity to lead the combined organization and pursue the potential of all 3 of our clinical programs, which each have the potential to be transformative for the company and advance the standard of care in the indications we are evaluating. A key point to be underscored is that the pipeline is supported by starting capital the merged company projected to be about $100 million at closing, which is expected to fund operations through mid-2025. We expect that this funding would enable us to move each of these programs forward in clinical development and to clinical data over the next 12 to 14 months. 
+Also of importance and particularly attractive from my perspective is that each of these 3 clinical-stage programs have promising differentiated mechanisms of action targeting indications of high unmet need, and each has existing data showing potential disease activity and mechanistic proof of concept for the combinations being evaluated. 
+The complementary core competencies across the combined team will be critical to the potential success of these programs. This includes significant industry expertise between me, Rob and Stephane, who will serve as CMO and CSO of the combined company, respectively, as well as Dan and Adelene's experience as they will both be joining the Board, along with the remainder of our new Board and the full management team. 
+Rob joined Infinity as CMO in September of 2021 from BMS and Celgene where he focused on immuno-oncology drug development, including leadership roles on CTLA-4 and PD-1 inhibitor programs. Prior to that, he was at Eli Lilly for over 12 years. His experience in drug development coupled with his familiarity with immuno-oncology will continue to be invaluable as we shape the clinical programs and is already evident in the approach we're taking with the planned eganelisib Phase II study. Stephane will serve as Chief Science Officer. Prior to rejoining Infinity in August of 2021, Stephane was at Ipsen Bioscience as VP, Global Head of Oncology External Innovation. During his earlier work at Infinity, he held increasing roles of responsibility, ultimately leading the company's early discovery and pipeline expansion efforts through internal R&D and business development. Beyond Dan and Adelene, you can see the composition of the remainder of the Board with Norman Selby as Chair. 
+I'm very much looking forward to working with our new team. Already, I've had an opportunity to observe how well the team works together through our joint discussions about the future direction and development plans for the pipeline. 
+As we've noted, the combined company will have 3 clinical-stage oncology drug candidates in development. We'll go into more detail shortly on each program. But as shown on this next slide, each program addresses a clear medical need and represents significant market opportunities. 
+Briefly, eganelisib is expected to be evaluated in combination with KEYTRUDA in controlled Phase II clinical study for the potential treatment of head and neck squamous cell carcinoma starting in the third quarter. Initial safety and PFS data from the planned Phase II study is expected in the second half of 2024. 
+Voruciclib is currently being evaluated in Phase Ib study exploring dose and schedule in patients with AML and B-cell malignancies as a single agent and in combination with venetoclax. The ongoing Phase Ib trial is expected to report top line combination data around year-end. 
+ME-344 is expected to be evaluated in a Phase Ib trial in combination with Avastin in patients with relapsed colorectal cancer, which is expected to start in the first half of this year. Data from the Phase Ib study to support opening enrollment in an expansion cohort are also expected around the end of this year. 
+So by the end of next year, our plan calls for eganelisib to have initial safety and PFS data from a Phase II trial and for voruciclib and ME-344 to read out data from their respective Phase I clinical studies. Pending these studies providing meaningful support for their potential in combination with existing therapies, KEYTRUDA, VENCLEXTA and Avastin, we have the opportunity to create with existing capital and resources, a very compelling developmental oncology story in just the next couple of years. 
+Now the summary of the proposed transaction. This is an all-stock transaction, pursuant to which Infinity stockholders will receive shares of MEI common stock. Infinity will become a wholly owned subsidiary of MEI Pharma with outstanding equity ownership post-closing of about 58% being held by MEI stockholders and about 42% being held by Infinity stockholders. The combined company will continue to trade on Nasdaq under a new name to be determined. The transaction is subject to stockholder approval and customary closing conditions, the transaction closing is expected sometime midyear. 
+I'd now like to turn the call over to Rob to provide an overview of eganelisib.
+
+--------------------------------------------------------------------------------
+Robert Ilaria,  Infinity Pharmaceuticals, Inc. - Chief Medical Officer    [6]
+--------------------------------------------------------------------------------
+Thank you, David, and good morning. Eganelisib is a potential first-in-class oral PI3 kinase gamma inhibitor, macrophage reprogramming therapeutic for cancer immunotherapy that was discovered at Infinity. PI3-kinase gamma is differentiated from the other Class I PI3-kinase isoforms in that is located in the myeloid compartment versus the delta isoform, which is found in B and T cells, and the beta and alpha isoforms which are ubiquitously expressed throughout the body. From a function, PI3-kinase gamma plays a unique role in macrophage reprogramming, which I will discuss in the next couple of slides. 
+As you can see on the left, eganelisib is a small molecule, which is a selective inhibitor of PI3-kinase gamma over the other Class I PI3-kinase isoforms. In 2 seminal papers in Nature, the biologic role of PI3-kinase gamma was identified as a fundamental switch that controls the balance between immune suppression and immune activation and may, therefore, play a role in overcoming the development of resistance to checkpoint inhibitor therapies. 
+This graphic depicts a PI3-kinase gamma works. On the left, you see gray T cells which are suppressed by the yellow M2 immunosuppressive or pro-tumor macrophages. The M2 macrophages are supported by PI3 kinase gamma signaling, so that when eganelisib inhibits the signaling, the macrophages are reprogrammed toward the M1, purple, immunostimulatory, which are antitumor phenotype. This results in the activation of the previously suppressed T cells, shown in teal, which in combination with checkpoint inhibitors and/or chemotherapy, results in a decrease in tumor cells. 
+Eganelisib has shown indications of potential benefit across 5 clinical settings to date. In our clinical trial called MARIO-1, patients with advanced metastatic head and neck cancer of the squamous cell phenotype whose tumors have progressed on immediately prior checkpoint inhibitor therapy, eganelisib and nivolumab showed a median PFS of 3.7 months. This compares favorably to the benchmark KEYNOTE-048 study of KEYTRUDA monotherapy with a median PFS of 2.3 months. 
+In MARIO-275, a randomized controlled Phase II study of eganelisib plus nivolumab versus nivolumab and placebo in second-line platinum refractory checkpoint inhibitor-naive urothelial cancer patients, 45% of the patients were live on the combination arm versus 24% on a control at the 2-year landmark OS analysis. 
+In MARIO-3 in frontline triple-negative breast cancer with eganelisib, atezolizumab and nab-paclitaxel, the 1-year PFS rate in the ITT was 31.5% versus the benchmark IMpassion130 1-year PFS rate of 23.7%. 
+In ARC-2, eganelisib was evaluated in a checkpoint inhibitor-free combination, etrumadenant, a dual adenosine receptor antagonist in combination with Doxil. And this triplet showed a higher ORR in both TNBC and ovarian cancer compared to the cohort with the doublet of etrumadenant and Doxil. We believe that the data thus far provides support to the continued development of eganelisib in the area of immuno-oncology for 3 key reasons: First, we have a potential first-in-class therapy with specific on-target activity and translational data showing that the target inhibition with eganelisib reprograms macrophages in the tumor microenvironment reduces immune suppression and activates an anticancer immune response. 
+Second, the clinical data with eganelisib have demonstrated encouraging PFS signals in multiple indications and extended overall survival in a small randomized controlled trial that allowed us to evaluate the distinct contribution of eganelisib over its combination standard of care treatment. 
+And third, eganelisib data has demonstrated an acceptable and manageable tolerability profile in combination with other treatments including in 2 and 3 drug combination regimens. 
+Let's now focus on the MARIO-1 and MARIO-275 study. Since in both study, we've generated promising data with eganelisib and a checkpoint inhibitor, which was a focus of 1 of 2 Nature papers about PI3-kinase gamma and a theme that I will return to for our next planned study of eganelisib. 
+MARIO-275 is a randomized controlled study of eganelisib and nivolumab versus placebo and nivolumab in platinum-refractory second-line urothelial cancer patients. 
+Hepatic adverse events were the most common reason for treatment discontinuation on the eganelisib plus nivolumab treatment arm and occurred at a higher rate than the control arm. This imbalance led to a pause in enrollment in May of 2022 and an eganelisib dose reduction from 40 milligrams daily to 30 milligrams daily was implemented. There were no cases of Hy's law or Grade 5 hepatic TEAEs, and all the 2 hepatic TEAEs resolved during the follow-up period on the combination arm. The rate of treatment-related discontinuations for nonhepatic events was similar between the 2 treatment arms. 
+Translational data from patient peripheral blood samples in MARIO-275 supports the mechanism -- the eganelisib mechanism of action. Both increased interferon-gamma responsive cytokines, and increased T-cell reinvigoration were observed on the combination arm compared to the control arm, consistent with enhanced immune activation. 
+Increasing cancer patient overall survival is one of the major goals of cancer therapeutics and oncologists like myself. So we were very pleased to see at the 2-year landmark analysis, which is now quite mature, that 45% of patients in the eganelisib plus nivolumab arm were still alive versus 24% of patients on the nivolumab control arm. As I'll discuss later, this includes our thinking about the design on our upcoming randomized controlled study of eganelisib. 
+An important feature of the MARIO-1 study was to test the clinical relevance of preclinical findings reported in the Nature paper led by investigators at the Memorial Sloan Cancer Center that eganelisib overcame resistance to a mean checkpoint inhibition. 
+In MARIO-1, patients with specific tumor types were enrolled whose tumors had progressed on an immune checkpoint inhibitor at their immediate prior treatment. Those patients would not be expected to benefit from an immune checkpoint inhibitor containing regimen. 
+This is a table from the most common treatment-related adverse events occurring in at least 5% of patients in the eganelisib plus nivolumab combination treatment arm. As you can see, the rate of treatment-related skin and hepatic adverse events tend to increase with eganelisib dose, with no grade 3 or higher hepatic events observed until the 40-milligram eganelisib dose when combined with nivolumab. 
+Data from our MARIO-1 study presented at SITC 2020 by Dr. Ezra Cohen, an investigator from the University of California at San Diego, demonstrated encouraging activity of eganelisib in combination with nivolumab in patients with squamous cell cancer of the head and neck, whose tumors had progressed on an immune checkpoint inhibitor as their immediate prior treatment. Extremely encouraging that the median PFS in this very challenging squamous cell cancer of the head and neck patient population compared favorably to a historical benchmark of patients with immune checkpoint inhibitor naive disease. 
+The totality of the eganelisib data across multiple tumor types provided support for further development of eganelisib in a randomized, controlled setting in recurrent squamous cell cancer of the head and neck. While checkpoint inhibitors have been an important treatment advance for patients with this disease, the MARIO-1 data set and the encouraging data from our eganelisib Phase II program in combination with both PD-L1 and PD-1 inhibitors supports further investigation of eganelisib in combination with a checkpoint inhibitor versus a checkpoint inhibitor alone in first line for current metastatic head and neck cancer. We plan to initiate this randomized Phase II trial in the third quarter of 2023, subject to FDA review, and we anticipate initial safety and PFS data from the Phase II study in the second half of 2024. 
+Here are the key takeaways for eganelisib. It's a highly specific potential first-in-class daily oral small molecule inhibitor of PI3-kinase gamma. We have preclinical, clinical and translational data to support its role in macrophage reprogramming. We also have generated extensive data to support the rationale for its combination with checkpoint inhibitors. 
+I am pleased to be leading the clinical team to advance our head and neck cancer trial forward with initial safety and activity data expected next year. With positive data, this study would provide an important proof of principle, support potentially, support a registration-directed study as well as a broader investigation of eganelisib in combination in other indications, where PD-1 or PD-L1 inhibition is the standard of care. 
+I'd now like to hand the call over to David.
+
+--------------------------------------------------------------------------------
+David M. Urso,  MEI Pharma, Inc. - COO & General Counsel    [7]
+--------------------------------------------------------------------------------
+Thanks, Rob. I'll now provide brief overviews of the voruciclib and ME-344 programs. As mentioned, voruciclib is an orally administered cyclin-dependent kinase 9 or CDK9 inhibitor that we are clinically investigating for hematologic malignancies. CDK9 functions as a gene transcription controller and is also involved in regulating protein degradation. CDK9 is considered a promising target to treat a range of cancers because of its role in controlling 2 other proteins often dysregulated in cancer cells, myeloid leukemia cell differentiation protein, or MCL-1, and the MYC proto-oncogene protein, which is -- which regulates cell proliferation and growth. MCL-1 is a member of the family of anti-apoptotic proteins, which when elevated may prevent itself from undergoing cell death. Inhibition of CDK9 blocks the production of MCL-1, which is an established resistant mechanism to the BCL-2 inhibitor, venetoclax, which is marketed as VENCLEXTA. 
+Upregulation of MYC is implicated in many human cancers and is frequently associated with poor prognosis. CDK9 also decreases phosphorylation of MYC protein that is implicated in stabilizing MYC in RAS-mutated cancers. 
+We're currently focused on clinically evaluating the utility of voruciclib via its regulation of MCL-1 to address the venetoclax escape mechanism, and we're also preclinically assessing applications in solid tumor, where MYC and KRAS are implicated. 
+We've generated data across multiple preclinical studies in various cell types and models, including AML, CLL and DLBCL. We've shown that voruciclib alone and in combination with venetoclax results in dose-dependent suppression of MCL-1 and MYC and is also synergizes with venetoclax in addition to increasing apoptosis in cells and extending survival and models. 
+Currently, we are evaluating patients with hematologic malignancies in a Phase Ib clinical study. The study started with the evaluation of dose and schedule of voruciclib as a monotherapy in patients with relapsed and refractory B-cell malignancies in AML after failure of prior standard therapies to determine the safety, preliminary efficacy and maximum tolerated dose. The study is now evaluating the dose and schedule of voruciclib in combination with venetoclax to assess safety and potential synergies in combination with venetoclax initially in patients with AML. We've escalated to 200 milligrams in the monotherapy part of the study and are at 50 milligrams using the combination. 
+So far, favorable pharmacokinetics have been observed, including a half-life supporting once-a-day oral dosing, dose proportional Cmax and high-volume distribution suggesting broad entry into tissues. 
+We also see what we believe to be a good tolerability profile. Notably, we have seen no evidence of drug-related neutropenia, which has been observed with other CDK9 inhibitors. This is important because venetoclax is known to cause neutropenia. We're looking forward to continued dose escalation of voruciclib in combination with venetoclax. If the regimen is well tolerated, we think there is a significant opportunity to improve upon the current utility of venetoclax as a standard of care. 
+In summary, voruciclib is an oral inhibitor of CDK9, which has been shown to down-regulate MCL-1. This has been demonstrated in multiple preclinical studies in multiple hematologic malignancies. 
+We're looking forward to establishing initial proof of principle in the ongoing study to support the potential utility of voruciclib plus venetoclax where venetoclax is the standard of care. We expect top line data from this combination part of the ongoing Phase Ib trial around the end of this year. 
+We'll now move on to an overview of ME-344. ME-344 is a novel, tumor-selective, isoflavone-derived mitochondrial inhibitor drug candidate. It targets the OXPHOS pathway involved in the production of adenosine triphosphate, or ATP, in mitochondria. The challenge, however, of inhibiting the mitochondria is that tumors can evade the degradation of ATP production by shifting your energy production to glycolysis. Similarly, antiangiogenics like bevacizumab marketed as Avastin may reduce the rate of glycolysis in tumors as a mechanism to slow tumor growth. But tumor metabolism may then shift to mitochondrial metabolism for energy production to support continued tumor proliferation. 
+Due to this tumor plasticity in the presence of treatment and antiangiogenic or mitochondrial inhibitors targeting both sources of energy production were hypothesized to create an important therapeutic opportunity. 
+Dr. Miguel Angel Quintela of CNIO Madrid suggested to MEI the idea of studying combining ME-344 with Avastin in HER2-negative breast cancer patients to demonstrate the potential to prevent antiangiogenic escape. In resulting multi-center, investor-initiated, randomized, open-label clinical study evaluating -- we evaluate the combination of ME-344 and Avastin in 42 women, with early HER2-negative breast cancer. The primary objective of the trial was to show proof of 344 biological activity as measured by decreasing Ki67 expression, which is strongly associated with tumor cell proliferation and growth from day 0 to 28 compared to the control group which received Avastin alone. Secondary objectives included determining whether ME-344 biological activity correlates with vascular normalization. 
+In this study, ME-344 displayed significant biological antitumor activity compared with a 186% increase in the control arm. Ki67 decreased by 23.4% from day 0 to 28 in the arm evaluating ME-344 plus Avastin. 
+Further, as expected, in the subgroup with vascular normalization, the ME-344 Avastin arm induced a greater absolute decline in Ki67. Treatment was generally well tolerated. Three Grade 3 adverse events of high blood pressure reported, 2 in the ME-344 arm and 1 in the bevacizumab monotherapy arm. 
+To build on the results from our investigator study in breast cancer, we are preparing to initiate a randomized Phase Ib study evaluating ME-344 plus Avastin around midyear. This study will enroll patients with progressive colorectal cancer after failure of standard therapies with patients treated until disease progression or intolerance. The primary objective is progression-free survival. Secondary endpoints include overall response rate, duration of response, overall survival and safety. 
+The first cohort will enroll 20 patients. Results from this cohort are expected around year-end. If the rate of non-progression at 4 months exceeds 20%, we will initiate an expansion cohort with an additional 20 patients. This study is designed to provide proof of concept to support continued development of the combination. 
+In brief, ME-344 presents a new therapeutic opportunity in combination with antiangiogenic therapy supported by clinical proof of principle from our breast cancer study. The study should be up and running shortly, and we expect to report data around year-end, demonstrating additional evidence of the improved value of ME-344 may provide in combination with Avastin as a standard of care. 
+In summary, we believe the merger will combine the strengths of 2 organizations both with a long history and deep commitments to oncology drug development to improve options for patients while delivering value to investors. Together, we have 3 clinical-stage programs, each with promise -- with promising and differentiated mechanisms intended to address known resistance mechanisms and enhance existing therapies to address high unmet need. 
+Each of these programs also has data demonstrating disease activity and mechanistic proof of concept of the therapeutic combinations being clinically evaluated in the [3] studies. A key point that must be underscored is that the anticipated combined capital of $100 million in cash and cash equivalents is expected to enable us to move each of these programs forward in clinical development, funding important clinical events through mid-2025. I expect the combined companies to be well positioned to make a difference in cancer care and deliver near- and long-term value for patients and shareholders. 
+That concludes our formal remarks. I'd now like to turn the call back over to the operator for Q&A.
+
+
+================================================================================
+Questions and Answers
+--------------------------------------------------------------------------------
+Operator    [1]
+--------------------------------------------------------------------------------
+(Operator Instructions) And our first question here will come from Robyn Karnauskas with Truist.
+
+--------------------------------------------------------------------------------
+Robyn Kay Shelton Karnauskas,  Truist Securities, Inc., Research Division - Research Analyst    [2]
+--------------------------------------------------------------------------------
+Great. I have 3. So I guess the first question is, do you see any synergies that you might realize that could extend your cash runway behind -- beyond the $100 million and beyond the 2025 time frame? 
+And the second question was about just the design of your trial that you're doing in head and neck. Like, I know given the mechanism, theoretically, you could have gone even broader in the overall population with chemo and 5-FU versus just in the subpopulation that works with KEYTRUDA. Can you just talk a little bit more about what percent of the population is that and your thoughts on why you chose that design in that indication? And then I'll have a follow-up.
+
+--------------------------------------------------------------------------------
+Daniel P. Gold,  MEI Pharma, Inc. - President, CEO & Director    [3]
+--------------------------------------------------------------------------------
+Thanks, Robyn. Regarding the cash runway, I'm going to let David take that one, and then Rob can expand a little bit more about the strategy between head and neck.
+
+--------------------------------------------------------------------------------
+David M. Urso,  MEI Pharma, Inc. - COO & General Counsel    [4]
+--------------------------------------------------------------------------------
+Yes. The cash runway, as we said, we anticipate taking us into mid-2025. We anticipate starting with $100 million in cash. That's already -- I mean, we've already worked through the combined budgets. And I think that number anticipates the synergies of leveraging 2 public companies' infrastructures and rationalizing the force. I mean I think that we do need to rightsize the organization going forward to reflect the phase of development we'll be in. And all that work has already gone into the $100 million number and the runway that we're forecasting. Rob?
+
+--------------------------------------------------------------------------------
+Daniel P. Gold,  MEI Pharma, Inc. - President, CEO & Director    [5]
+--------------------------------------------------------------------------------
+Rob, do you want to take the question on the head and neck, please?
+
+--------------------------------------------------------------------------------
+Robert Ilaria,  Infinity Pharmaceuticals, Inc. - Chief Medical Officer    [6]
+--------------------------------------------------------------------------------
+Yes, sure. Absolutely. Glad to. So yes, I mean, I think it all starts with data, of course. I mean we were very encouraged with our MARIO-1 head and neck cohort because those patients had sort of blown through a checkpoint inhibitor, so it's like a checkpoint inhibitor-naive population is definitely worthy of further study and is a very clean design. It's a checkpoint inhibitor with eganelisib versus a checkpoint alone. 
+To expand on your question, it is true that some patients can get chemotherapy, like, for example, as you mentioned, 5-FU and platinum. Although I will say that patients who recur, there's going to be a high proportion of those folks who have already gotten a platinum-based regimen, often combined with radiation. So rechallenging those folks with platinum and 5-FU, we certainly do it in some people, but we think in this population, it's a very challenging one. As you know, they have a lot of risk factors. 
+There's a lot of appeal to an IO only doublet versus adding in a cytotoxic or perhaps a targeted agent that may bring its own toxicity. So that really shapes our thinking. We think definitely there's going to be a significant population for which investigators will say, "You know, I think this patient is a good candidate for immunotherapy," and hopefully will participate in our trial accordingly.
+
+--------------------------------------------------------------------------------
+Robyn Kay Shelton Karnauskas,  Truist Securities, Inc., Research Division - Research Analyst    [7]
+--------------------------------------------------------------------------------
+Great. And then my last question is, it's not lost that a lot of us who follow both of your companies that there's a lot of value in other indications that's lost. And so how do you see going forward, the chance of revisiting those indications like breast broadly, for example, at least on the Infinity side? It seems like there's other indications. I know this is one. But like do you see another opportunity for partnership or ways to expand and broaden the opportunity here?
+
+--------------------------------------------------------------------------------
+David M. Urso,  MEI Pharma, Inc. - COO & General Counsel    [8]
+--------------------------------------------------------------------------------
+Yes, this is David. We do see that there's an opportunity to partner. We're going to be generating data with each of the programs over the next -- over the 2 years following the close of the transaction. So ME-344 will be generating data as we just outlined. So voruciclib and even with eganelisib, we'll be having a preliminary indication of PFS and safety mid-2024. We think each of those opportunities could lead to potential partnerships. And then once you're in the partnership, there's definitely opportunities to explore other indications for each of those programs.
+
+--------------------------------------------------------------------------------
+Adelene Q. Perkins,  Infinity Pharmaceuticals, Inc. - Chairman & CEO    [9]
+--------------------------------------------------------------------------------
+Thanks, Robyn. And I would just add because you know both of our companies so well. And you're 100% right that what we have experienced with eganelisib is really in every setting we've tested it so far, we've seen interesting activity. And so in some ways, we have an embarrassment of riches in terms of the paths that we can go in. And as you know, we've contemplated bladder cancer, triple-negative breast cancer, head and neck cancer. So we really had to be rigorous in prioritizing where we go first. 
+And the reason for going to head and neck first is that there is such unmet need and patients have such short progression-free survival and overall survival that we deemed we would have the opportunity to demonstrate a meaningful benefit on those dimensions more quickly in head and neck. But I can tell you all of us would love nothing more than to advance eganelisib in TNBC and bladder cancer as well, but we just need to choose where to start first.
+
+--------------------------------------------------------------------------------
+Operator    [10]
+--------------------------------------------------------------------------------
+Our next question will come from Stephen with Stifel.
+
+--------------------------------------------------------------------------------
+Enkhtuul Tsogtbaatar,  Stifel, Nicolaus & Company, Incorporated, Research Division - Research Analyst    [11]
+--------------------------------------------------------------------------------
+This is Tuuli on for Steve. I have a few questions regarding eganelisib. So my first -- very first question is related to that coming this Phase II randomized controlled trials. So how should we view the success in this trial? So I guess what would be considered as success for this upcoming trial? 
+And second, you also alluded to looking into other indications beyond head and neck with this asset. So like, how do you -- I guess, like, how would you think the differentiation of this drug compared to, for example, like [pats] in the urothelial cancer? So that would be my question.
+
+--------------------------------------------------------------------------------
+Daniel P. Gold,  MEI Pharma, Inc. - President, CEO & Director    [12]
+--------------------------------------------------------------------------------
+Thanks so much for the question. Rob, do you want to take those on, please?
+
+--------------------------------------------------------------------------------
+Robert Ilaria,  Infinity Pharmaceuticals, Inc. - Chief Medical Officer    [13]
+--------------------------------------------------------------------------------
+Sure. Absolutely. I think foremost, our success in our planned Phase II study in head and neck cancer would be overall survival. That's really where we want to win in patients and regulators as well. And so that's really going to be our primary focus on that. And of course, there will be other translational parts to this study as well. So all of this, we feel like would be success. 
+Regarding your question in bladder cancer, if I understand correctly, we do see an option there. Again, we prioritized head and neck. As Adelene mentioned, certainly, there's opportunities in bladder cancer. 
+And I think we certainly could explore novel combinations earlier. There's really no reason why not. Eganelisib, I think, would combine well with those. So definitely other options.
+
+--------------------------------------------------------------------------------
+Adelene Q. Perkins,  Infinity Pharmaceuticals, Inc. - Chairman & CEO    [14]
+--------------------------------------------------------------------------------
+Yes. And as Rob said, when we reviewed our bladder cancer data with advisers, there was a lot of enthusiasm for why not combine with an ADC. And so we do have lots of opportunities. What we envision in the near term, we can explore a lot of those in investigator-sponsored studies. So -- well, the company-sponsored study is -- we felt it was critically important to have a really high-quality randomized controlled Phase II study that would give a definitive answer on eganelisib's ability to contribute to overall survival. We anticipate doing a lot of exploratory studies, and combining with ADCs is something that many people have suggested to us.
+
+--------------------------------------------------------------------------------
+Enkhtuul Tsogtbaatar,  Stifel, Nicolaus & Company, Incorporated, Research Division - Research Analyst    [15]
+--------------------------------------------------------------------------------
+And my final question is related to FDA review on this upcoming trials. Are you planning on -- like upon receiving this review, are you planning on communicating with investors? And what would be the communication venue?
+
+--------------------------------------------------------------------------------
+David M. Urso,  MEI Pharma, Inc. - COO & General Counsel    [16]
+--------------------------------------------------------------------------------
+Yes, this is David. We are planning on meeting with the FDA. And after we have the trial design finalized with them, I'm sure we'll give some more color on the trial design at that point.
+
+--------------------------------------------------------------------------------
+Operator    [17]
+--------------------------------------------------------------------------------
+Our next question will come from Yale Jen with Laidlaw & Company.
+
+--------------------------------------------------------------------------------
+I-Eh Jen,  Laidlaw & Company (UK) Ltd., Research Division - MD of Healthcare Research & Senior Biotechnology Analyst    [18]
+--------------------------------------------------------------------------------
+Congrats on the merger. My first question is that in terms of the head and neck, I believe your prior MARIO-1 study was patients treated after the checkpoint inhibitors. And now the future study will be in combination with the checkpoint. So -- but do you anticipate -- what kind of difference do you anticipate potentially from toxicology as well as from an efficacy perspective?
+
+--------------------------------------------------------------------------------
+Daniel P. Gold,  MEI Pharma, Inc. - President, CEO & Director    [19]
+--------------------------------------------------------------------------------
+Back to you, Rob.
+
+--------------------------------------------------------------------------------
+Robert Ilaria,  Infinity Pharmaceuticals, Inc. - Chief Medical Officer    [20]
+--------------------------------------------------------------------------------
+Okay. Yes, I'm happy to address that. So yes, we're very encouraged with the head and neck data from MARIO-1 because that's a checkpoint inhibitor refractory group. So I think I'm pretty safe to say that generally, if you go in earlier lines, we expect -- we hope that we'll do even better. But actually, the preliminary results we saw in MARIO-1 in that refractory patient population showed a very encouraging PFS. So that's why I think we're very encouraged by that data in combination with a checkpoint and checkpoint inhibitor-naive. 
+And I didn't quite understand that very last couple of phrases of your other question, so I'm sorry if I didn't answer it.
+
+--------------------------------------------------------------------------------
+I-Eh Jen,  Laidlaw & Company (UK) Ltd., Research Division - MD of Healthcare Research & Senior Biotechnology Analyst    [21]
+--------------------------------------------------------------------------------
+That basically is on the AE perspective. As a combination, what do you anticipate?
+
+--------------------------------------------------------------------------------
+Robert Ilaria,  Infinity Pharmaceuticals, Inc. - Chief Medical Officer    [22]
+--------------------------------------------------------------------------------
+Yes. So now that we've treated over 350 patients, we think we understand this drug combination pretty well with checkpoint inhibitors. And it really looks like it's rash. We showed that in one of those slides and also hepatic events. And both of those are very monitorable, reversible toxicities. We have not seen a lot of other organ toxicities outside of rash and the LFT increase. So we think that's a very favorable AE profile to go into with a head and neck patient population compared to other things that might increase breathing problems or something like that, where people who smoked a lot, that could be a very challenge. But we really don't see a challenge as much with rash and LFTs because again, those are very readily monitored.
+
+--------------------------------------------------------------------------------
+I-Eh Jen,  Laidlaw & Company (UK) Ltd., Research Division - MD of Healthcare Research & Senior Biotechnology Analyst    [23]
+--------------------------------------------------------------------------------
+Okay. That's very helpful. Maybe one more follow-up here, which is that I have other slides of Infinity, which show a number of, I guess, collaborations with different companies. I just wonder what's happened going forward for those relationships?
+
+--------------------------------------------------------------------------------
+Adelene Q. Perkins,  Infinity Pharmaceuticals, Inc. - Chairman & CEO    [24]
+--------------------------------------------------------------------------------
+So maybe...
+
+--------------------------------------------------------------------------------
+Daniel P. Gold,  MEI Pharma, Inc. - President, CEO & Director    [25]
+--------------------------------------------------------------------------------
+Adelene, do you want to...
+
+--------------------------------------------------------------------------------
+Adelene Q. Perkins,  Infinity Pharmaceuticals, Inc. - Chairman & CEO    [26]
+--------------------------------------------------------------------------------
+Yes, sure. This is Adelene. So we have had a number of really great relationships in the trials we've conducted to date with Bristol-Myers Squibb in bladder cancer with Roche Genentech in triple-negative breast cancer and with Arcus Biosciences in exploring a checkpoint inhibitor-free regimen with their dual receptor adenosine antagonist, etrumadenant. 
+All of those relationships were very deliberately done, is what we call arm's-length relationship. So there was no license or rights or first options. They were collaborative in that with BMS and Roche. They supplied us nivolumab and Tecentriq free of charge, and we were very collaborative on the design of the studies because in both cases, those companies were looking at how could eganelisib add to their approved regimens for BMS with nivolumab in bladder cancer and for Roche with Tecentriq in TNBC. 
+So those were really helpful in the design of the trials, the interpretation of the data, and we hope to do a lot of those types of relationships going forward, where we aren't licensing the rights to eganelisib, but we're collaborating with people in combining with their drugs because eganelisib has combined well in all the regimens we've tried so far with both checkpoint inhibitors alone, with checkpoint inhibitors plus chemo, with checkpoint inhibitor-free regimen. So as referenced in the earlier question about combining with an antibody-drug conjugate, we hope to do a lot of those arm's-length relationships working with collaborators to combine eganelisib with their drugs.
+
+--------------------------------------------------------------------------------
+Operator    [27]
+--------------------------------------------------------------------------------
+(Operator Instructions) Our next question here will come from Justin Zelin with BTIG.
+
+--------------------------------------------------------------------------------
+Justin Reid Zelin,  BTIG, LLC, Research Division - Director & Biotechnology Research Analyst    [28]
+--------------------------------------------------------------------------------
+So I was just wondering if you could comment just as part of this process, how many opportunities you may have looked at? And what was really compelling about this particular opportunity for merger?
+
+--------------------------------------------------------------------------------
+Daniel P. Gold,  MEI Pharma, Inc. - President, CEO & Director    [29]
+--------------------------------------------------------------------------------
+Justin, this is Dan. Yes, as I sort of mentioned in my remarks, we very much are driven here by the science. I think historically, we've shown that we have the ability to identify interesting potential assets, and it was really based on, first and foremost, science and then what the opportunity was from a commercial and medical of course. 
+We did have the opportunity, as we always do, to kind of scan the playing field and see if there was anything that got us excited. And as we started learning a lot more about the potential for eganelisib, we got more and more excited by it. I think as I said, I particularly are very much interested in this emerging field of how you can best harness a T cell. And I think that it's going to be absolutely critical to pay attention to the other factors that are sort of extrinsic to the T-cell activity like the microenvironment. 
+And as we looked at the data, as Rob has said, when you look out over all the work that Infinity has done in the past several years, in multiple different indications, everything seems to trend in the right direction. And now we have the opportunity to finally do the controlled experiment in a meaningful way to prove once and for all that -- how important that monocyte- or myeloid-driven suppressive microenvironment is in regulating or down-regulating the whole T-cell response. 
+So for us, it was a perfect fit. This is really -- is our sweet spot. This is the way we think about the world, trying to improve on existing therapies, and they have excellent chemistry. It's a company -- Infinity has been around for a long time. They've done some really, really exciting work, and we just felt like this is, by and far, the best opportunity for us to leverage both our own capabilities as well as theirs.
+
+--------------------------------------------------------------------------------
+Justin Reid Zelin,  BTIG, LLC, Research Division - Director & Biotechnology Research Analyst    [30]
+--------------------------------------------------------------------------------
+Great. And maybe just a follow-up. I think Robyn asked about cost synergies. Do you expect head count to kind of change in the near future?
+
+--------------------------------------------------------------------------------
+Daniel P. Gold,  MEI Pharma, Inc. - President, CEO & Director    [31]
+--------------------------------------------------------------------------------
+Yes. We've said -- I think David alluded to it. We have begun the process as we were working with Infinity and trying to draw on the best from both benches. This is -- baseball preseason is starting after all. 
+And I think we're going to continue to look at that. We want to run a very efficient operation. We have 3 drugs in the clinic. So we definitely will be looking at that and how we can best utilize the key players from both organizations in the most efficient manner. And of course, as those decisions become more clear, we will be informing based on our cash runways and how we're going to best manage that in a most efficient way.
+
+--------------------------------------------------------------------------------
+Operator    [32]
+--------------------------------------------------------------------------------
+And this concludes our question-and-answer session. I would like to turn the conference back over to Dr. Dan Gold for any closing remarks.
+
+--------------------------------------------------------------------------------
+Daniel P. Gold,  MEI Pharma, Inc. - President, CEO & Director    [33]
+--------------------------------------------------------------------------------
+Thank you, and thank you all for your time this morning. We look forward to the closing of this merger and keeping you updated on the progress of the new combined company. It certainly is an exciting day for both MEI and Infinity, and we certainly look forward to keeping you up to date as things transpire. Have a great day.
+
+--------------------------------------------------------------------------------
+Operator    [34]
+--------------------------------------------------------------------------------
+The conference has now concluded. Thank you very much for attending today's presentation. You may now disconnect your lines.
+
+
+
+
+
+
+
+--------------------------------------------------------------------------------
+Definitions
+--------------------------------------------------------------------------------
+PRELIMINARY TRANSCRIPT: "Preliminary Transcript" indicates that the 
+Transcript has been published in near real-time by an experienced 
+professional transcriber.  While the Preliminary Transcript is highly 
+accurate, it has not been edited to ensure the entire transcription 
+represents a verbatim report of the call.
+
+EDITED TRANSCRIPT: "Edited Transcript" indicates that a team of professional 
+editors have listened to the event a second time to confirm that the 
+content of the call has been transcribed accurately and in full.
+
+--------------------------------------------------------------------------------
+Disclaimer
+--------------------------------------------------------------------------------
+Refinitiv reserves the right to make changes to documents, content, or other 
+information on this web site without obligation to notify any person of 
+such changes.
+
+In the conference calls upon which Event Transcripts are based, companies 
+may make projections or other forward-looking statements regarding a variety 
+of items. Such forward-looking statements are based upon current 
+expectations and involve risks and uncertainties. Actual results may differ 
+materially from those stated in any forward-looking statement based on a 
+number of important factors and risks, which are more specifically 
+identified in the companies' most recent SEC filings. Although the companies 
+may indicate and believe that the assumptions underlying the forward-looking 
+statements are reasonable, any of the assumptions could prove inaccurate or 
+incorrect and, therefore, there can be no assurance that the results 
+contemplated in the forward-looking statements will be realized.
+
+THE INFORMATION CONTAINED IN EVENT TRANSCRIPTS IS A TEXTUAL REPRESENTATION
+OF THE APPLICABLE COMPANY'S CONFERENCE CALL AND WHILE EFFORTS ARE MADE TO
+PROVIDE AN ACCURATE TRANSCRIPTION, THERE MAY BE MATERIAL ERRORS, OMISSIONS,
+OR INACCURACIES IN THE REPORTING OF THE SUBSTANCE OF THE CONFERENCE CALLS.
+IN NO WAY DOES REFINITIV OR THE APPLICABLE COMPANY ASSUME ANY RESPONSIBILITY FOR ANY INVESTMENT OR OTHER
+DECISIONS MADE BASED UPON THE INFORMATION PROVIDED ON THIS WEB SITE OR IN
+ANY EVENT TRANSCRIPT. USERS ARE ADVISED TO REVIEW THE APPLICABLE COMPANY'S
+CONFERENCE CALL ITSELF AND THE APPLICABLE COMPANY'S SEC FILINGS BEFORE
+MAKING ANY INVESTMENT OR OTHER DECISIONS.
+--------------------------------------------------------------------------------
+Copyright 2023 Refinitiv. All Rights Reserved.
+--------------------------------------------------------------------------------

@@ -1,0 +1,277 @@
+
+
+Refinitiv StreetEvents Event Transcript
+E D I T E D  V E R S I O N
+
+Silverback Therapeutics Inc and ARS Pharmaceuticals Inc Merger Announcement Call
+July 21, 2022 / 9:00PM UTC
+
+================================================================================
+Corporate Participants
+================================================================================
+
+ * Miguel Arcinas
+   Silverback Therapeutics, Inc. - VP, Corporate Development & IR
+ * Laura Shawver
+   Silverback Therapeutics, Inc. - CEO
+
+================================================================================
+Conference Call Participants
+================================================================================
+
+ * Operator
+   
+ * Richard Lowenthal
+   ARS Pharmaceuticals, Inc. - President & CEO
+ * Eric Karas
+   ARS Pharmaceuticals, Inc. - Chief Commercial Officer
+ * Paul Choi
+   Goldman Sachs Group, Inc. - Analyst
+ * Tim Lugo
+   William Blair & Company - Analyst
+
+================================================================================
+presentation
+--------------------------------------------------------------------------------
+Operator,     [1]
+--------------------------------------------------------------------------------
+Good afternoon, everyone, and thank you for joining us today. (Operator Instructions) As a reminder, this conference call is being recorded.
+I would now like to turn the call over to Miguel Arcinas, Vice President, Corporate Development and Investor Relations of the Silverback Therapeutics.
+--------------------------------------------------------------------------------
+Miguel Arcinas, Silverback Therapeutics, Inc. - VP, Corporate Development & IR    [2]
+--------------------------------------------------------------------------------
+Thank you and good afternoon. Joining me on today's call from the Silverback team are Laura Shawver, Chief Executive Officer; Valerie Odegard, President and Chief Scientific Officer; and Jonathan Piazza, Chief Financial Officer. From the ARS Pharma team, we have Richard Lowenthal, Chief Executive Officer; Sarina Tanimoto, Chief Medical Officer; Eric Karas, Chief Commercial Officer; Kathy Scott, Chief Financial Officer; and Justin Chakma, Chief Business Officer.
+The recording and the slides presented during this call will be available on the Investor Relations section of Silverback's website and the news section of ARS's website for 30 days.
+Before I start, I would like to remind you that today's call and the accompanying presentation will include forward-looking statements, which include, but are not limited to, statements regarding the expected timing, completion, effects, and potential benefits of the transaction and our future expectations, plans, and prospects for the combined company. Such statements represent management's judgment and intention as of today and involve assumptions, risks, and uncertainties. Silverback and ARS undertakes no obligation to update or revise any forward-looking statements.
+Slide 2 provides an overview of these forward-looking statements and the risks and uncertainties that could cause actual outcomes and results to differ materially from those contemplated in these forward-looking statements. Please refer to Silverback's most recent filings with the SEC, which are available from the SEC at sec.gov, or on Silverback's website for additional risks and uncertainties that could cause actual outcomes and results to differ materially from those contemplated in these forward-looking statements, including in our press release issued this afternoon, and our Form 8-K filed with the SEC this afternoon announcing this transaction, and our most recent quarterly report on Form 10-Q.
+As indicated on slide 3, we intend to file a preliminary and definitive proxy statement with the SEC relating to the proposed merger. Please be advised to read, when available, the proxy statement and other relevant documents filed with the SEC, as these will contain important information about Silverback, ARS, and the transaction. Once available, these documents can be obtained free of charge from the SEC at sec.gov or on Silverback's website.
+I will now turn the call over to Dr. Laura Shawver, CEO of Silverback Therapeutics.
+--------------------------------------------------------------------------------
+Laura Shawver, Silverback Therapeutics, Inc. - CEO    [3]
+--------------------------------------------------------------------------------
+Thank you, Miguel, and good afternoon, everyone. Today, we announced the proposed merger of Silverback Therapeutics and ARS Pharma. I am pleased to have the opportunity to discuss this important and transformative transaction.
+I'll start by providing background surrounding Silverback's process to identify strategic alternatives and the rationale for this transaction. I'll then hand it off to Richard Lowenthal, CEO of ARS Pharma, to provide an overview of ARS Pharma and its lead product candidate, neffy, the first no-needle, no-injection solution for type I allergic reaction.
+Let's start with an overview of what brought us here today. On March 31, 2022, Silverback announced a strategic corporate realignment to discontinue our TLR8 oncology programs, SBT6050 and SBT6290, to focus resources on the development of SBT8230 for chronic hepatitis B virus infections and Silverback's preclinical pipeline.
+As a part of this strategic realignment, we restructured our workforce to support prioritized development, reduce operating expenses, and extend our cash runway into the second half of 2026. Beginning in April of 2022, Silverback initiated a process to evaluate alternatives for the company, including strategic mergers and acquisitions; asset acquisitions and sales; remaining a standalone company pursuing a limited pipeline, focusing on SBT8230 and our preclinical programs; and liquidation to distribute available cash.
+The goal of this evaluation was to identify the opportunity that would, in the Silverback Board's opinion, create the most value for Silverback's stockholders. After a thorough review of strategic alternatives by Silverback's Board of Directors, including discussions with Silverback's senior management, financial advisers, and legal counsel, the Board unanimously supported a merger with ARS Pharma and believes that this transaction is likely to be more beneficial to Silverback's stockholders than the potential value that might result from any other strategic option available to Silverback.
+Silverback's stockholders should be excited about this transaction for several reasons. ARS Pharma has been developing neffy, a potential first-in-class, no-needle, no-injection solution for type I allergic reactions that is expected to launch in the US in 2023. The product offers a clear value proposition over epinephrine injection devices and a sizable potential market.
+Importantly, ARS is led by a highly experienced management team that has a proven track record developing and commercializing intranasal and consumer-driven medicine. This transaction has the potential to create value for the stockholders of the combined company and is an opportunity for Silverback's stockholders to participate in the potential growth of the combined company. In addition to closing the merger with ARS, Silverback will focus on exploring opportunities to divest our legacy programs, including SBT8230 for chronic HBV and our preclinical assets.
+Moving to slide 5, let's review the details of the transaction. We announced today that we have entered into a definitive agreement, under which ARS will merge with the wholly owned subsidiary of Silverback in an all-stock transaction. The merger is currently expected to close in the fourth quarter of this year.
+The combined company is expected to have approximately $265 million in cash, cash equivalents, and marketable securities at closing, which we estimate will provide at least three years of operating runway. Under the terms of the merger agreement, assuming that Silverback's net cash at closing is $240 million, Silverback equity holders prior to the transaction are expected to own approximately 37% of the combined company, and ARS equity holders prior to the transaction will own approximately 63% of the combined company on a fully diluted basis using the treasury stock method.
+ARS was valued at approximately $400 million in enterprise value plus an additional approximately $35 million in cash on hand, and Silverback was valued at a total value of approximately $255 million. The percentage of the combined company that stockholders will own as of the close of the transaction is subject to certain adjustments as described in the merger agreement, including the amount of Silverback's net cash at closing.
+Upon stockholder approval and the closing of the transaction, Silverback is expected to operate under the name ARS Pharmaceuticals, Inc.; be headquartered in San Diego, California; and trade on the Nasdaq Capital Market under the ticker symbol SPRY. With respect to the management team for the combined company, I will step down as CEO by close of the transaction and anticipate staying on as a member of the Board of Directors. The combined company will be led by ARS Pharma’s experienced executive team, including Rich Lowenthal, CEO; Sarina Tanimoto, CMO; Eric Karas, Chief Commercial Officer; Kathy Scott, CFO; and Justin Chakma, CBO.
+Coincident with this announcement, Silverback will terminate R&D activities associated with its internal programs and reduce our headcount. Remaining Silverback employees and management will focus on the closing of the merger and exploring opportunities to divest our preclinical assets and will generally depart the organization on a rolling basis as activities are completed.
+Finally, I would like to extend my sincere thanks to Silverback’s employees for remaining diligently focused on our programs; to the patients and investigators that participated in our trials; and to our stockholders, partners, and Board of Directors who have supported us all along the way.
+With that, I'll turn the call over to Rich Lowenthal, CEO of ARS Pharma.
+--------------------------------------------------------------------------------
+Richard Lowenthal, ARS Pharmaceuticals, Inc. - President & CEO    [4]
+--------------------------------------------------------------------------------
+Thank you, Laura, for that kind introduction. My name is Richard Lowenthal, CEO and Founder of ARS Pharmaceuticals. As outlined on this slide, we wanted to first remind everyone that neffy is an investigational product, and it is not yet approved by the US Food and Drug Administration or the European Medical Agency. The trade name, neffy, has tentative approval from the US FDA, but has not received final approval.
+It’s a great pleasure for me to introduce you to ARS Pharmaceuticals and neffy, our needle-free epinephrine nasal spray. Our goal for neffy is to achieve what has not been possible before, which is to deliver epinephrine with comparable pharmacokinetics through intramuscular injection, but with a nasal spray that is easy to use and eliminates the fear of injecting with a needle. Once approved, we believe that neffy’s optimal product profile has the potential to transform the treatment of type I allergic reactions.
+We founded ARS in 2015 with a goal of solving many of the issues patients and caregivers expressed about their current epinephrine injection devices. From day one, our team was focused on taking this well-known, life-saving medication for severe allergies, and making administration needle-free, easy to use, and a safer alternative to needle injectors, so that patients and caregivers would have less hesitation to dose immediately after symptoms of an allergic reaction are detected.
+At that time, our Co-Founder and Chief Medical Officer, Dr. Tanimoto and I, along with many on our extended team, were working on the approval of Narcan nasal spray and Valtoco nasal spray, which are now FDA-approved products for the emergency treatment of opioid overdose and acute repetitive seizures. We were also working with Aegis, a company developing an excipient known as Intravail, or dodecyl maltoside.
+While epinephrine is not normally absorbed in the nose, we licensed Intravail’s remarkable properties to facilitate penetration through mucosal membranes and achieve injection-like absorption with neffy. We use the same single-dose nasal spray device that has proven to be easy to use and highly reliable for Narcan and Valtoco, as well as many other US-approved products.
+Type I allergic reactions are life-threatening hypersensitivity reactions that can occur within minutes of exposure to an allergen and require immediate treatment with epinephrine, the only known effective medication for this disease. The only approved community-based products to treat this condition today are epinephrine injection devices, which are effective if carried, used properly, and used in time.
+However, research indicates that patients and caregivers do not always carry injection devices. And if they do, they sometimes use the product incorrectly or significantly delay administration. This reluctance to use needle-based injection devices in a timely manner is often driven by fear -- fear of needles, fear of the pain, concerns about safety, and the complexity of the device used.
+Neffy is needle free. It's small and easy to use. It fits into the palm of your hand or pocket, as you can see. Our motto is no needle, no fear, no wait. If FDA approved, we hope that patients would carry neffy always and dose immediately at the first signs of an allergic reaction. We believe neffy is ideally positioned to shift this market into an entirely new paradigm with better treatment outcomes.
+ARS is a late-stage company, on the verge of submitting our NDA for neffy in the third quarter of 2022. Assuming approval by the FDA and EMA, we anticipate launching neffy in 2023 in the US and 2024 in Europe.
+We currently estimate that the US market is approximately $1 billion. However, we believe there is potential opportunity not only to capture a majority of the current injection device market, but to grow towards a potential multi-billion dollar market, driven by strong physician interest and consumer demand for a better way to treat their severe type I allergies.
+ARS has also built a strong patent position expected to provide protection to at least 2038 with two patent families that include composition of matter and method-of-use claims. To execute on the development and commercialization of neffy, we built a deeply experienced and robust management team, many of whom have first-hand experience leading the development and commercial efforts for approved nasal spray products, such as Narcan; as well as extensive drug development, R&D, business, and regulatory expertise. All of which position ARS for both near- and long-term success.
+We have been supported by a strong Board of Directors with broad industry experience and industry-leading investors who share our view of the opportunities with neffy. Nearly all of our current Board members are expected to continue to serve on the Board of the combined company along with three of Silverback’s directors. We also have meaningful partnerships outside North America, where ARS will focus our efforts, including license deals with Recordati in the European region, along with partners in Japan and China.
+Type I allergic reactions can lead to serious and sometimes scary symptoms that can be life threatening if allowed to progress. There are approximately 25 million people in the United States today that suffer from severe allergies that involve two or more organ systems when exposed to an antigen.
+If the reaction is not stopped quickly, it can cause serious symptoms that last for days or can even have long-term adverse effects and comorbidities. These severe allergic reactions result in more than 0.5 million visits to the emergency room per year, costing an average of $1,600 or more for each patient.
+As noted, epinephrine injection devices are effective and have helped many people with severe allergic reactions. However, the fear of the needle, fear of the pain, and associated side effects can cause apprehension to dose, resulting in patients and caregivers not dosing when needed or significantly delaying administration of epinephrine.
+These behaviors result in further disease progression and more serious symptoms that can lead to worse clinical outcomes. In addition, the devices themselves are not user friendly; they’re often intimidating and have a long history of poor reliability with reports of product failures, recalls, and warnings from the FDA.
+To understand the best way to stop an allergic reaction, it’s important to first know how severe allergic reactions progress. Following exposure to an antigen, an allergic reaction can progress rapidly, resulting in very severe symptoms and a state of anaphylaxis in just 15 to 30 minutes. Early intervention with epinephrine is critical.
+Current labeling for epinephrine indicates that dosing should occur as rapidly as possible after initial symptoms of an allergic reaction are experienced, typically in the first five minutes after exposure to the antigen. Epinephrine is exceptionally effective if dosed early in the course of the reaction. But if treatment is delayed, there is a point where even repeat doses of epinephrine may not be effective in stopping the reaction, sometimes with tragic outcomes.
+Experts in the field, the literature, and our extensive market research with patients and caregivers tell us that there are several key consumer issues with epinephrine injection devices that, if addressed, can significantly improve treatment outcomes. The key limitations of these injection devices are that 50% do not carry them when needed. Of those that carry their devices, 25% to 50% do not dose them when an allergic reaction occurs and present themselves at an emergency room without first administering epinephrine.
+Even when people dose, approximately 60% delay treatment, allowing the reaction to progress, resulting in worse clinical outcomes. And finally, up to 35% of people fail to use their device properly, sometimes resulting in lack of effective treatment.
+We believe that once approved, neffy is positioned to solve many of these problems. Neffy is small, similar in size to your ear pod case, allowing people to carry it in their pocket discreetly at all times. Neffy has no needle and thus, eliminates the fear that causes much of the hesitation to dose in the community.
+By removing the needle, neffy can be safer for both the patient and caregiver, as there is no risk of accidental injection into your hand or other extremities, which can result in an ER visit. As a nasal spray, there is no risk of accidental injection into a blood vessel, causing a laceration, or a painful injection into the bone of a small child.
+Neffy has been shown to be both easier to use and more consistent in dosing. It’s simple for people to use. In human factor validation studies, the FDA even requested we evaluate the use of neffy in a group called passerbys. This is somebody who has no knowledge of the disease or device but represents a person that would aid a patient in time of need.
+These passerbys were able to simply read the directions and figure out how to use neffy very quickly and effectively 100% of the time. If FDA deems it appropriate, it may be possible for neffy to be available in public places, such as restaurants or airplanes, for use in an allergy emergency, where this would not be possible with an injection device given the needle-related risks.
+And finally, the neffy device has been proven to be highly reliable in delivering an effective dose accurately with less than one in 100,000 chances of being outside of specifications for the dose delivered. Taken together, neffy has the potential to address almost all of the limitations associated with injection devices and improve outcomes for patients.
+Our top goal is to get neffy to patients and caregivers as soon as possible. We have had multiple meetings with the FDA and EMA to validate our development approach. ARS plans to file our NDA and MAA for the 2-milligram dose based on four key clinical trials in both adults and pediatric patients. These studies will be supported by multiple early pilot studies and several large clinical trials with a commercial 1-milligram dose of neffy.
+The data being filed includes an interim analysis with 57 children with severe allergies from our ongoing EPI-10 study in patients aged four years and older. We believe these data could support an initial approval of the neffy, 2 milligrams, for children, 30 kilograms body weight and above. We plan to seek approval of the neffy 1-milligram dose product based on the final EPI-10 results in children 15 to 30 kilograms body weight immediately after the initial approval of our NDA and MAA applications.
+The main criteria for neffy approval by regulators are based on the maximum observed concentration of drug, or Cmax; time to peak drug concentration, or Tmax; and the early partial exposures, or partial AUC, in the first 20 to 45 minutes. While IM injection with a needle and syringe is the reference listed drug, regulators agree that the ideal pharmacokinetic profile for neffy is to be within the range of injection products or, in other words, bracketed by the other injection products' pharmacokinetic profiles.
+Overall exposure, or AUC 0 to T, is less important for efficacy with epinephrine but is an important consideration to ensure safety. Our clinical data show neffy meets all regulator-confirmed endpoints.
+As a frame of reference, when looking at both our clinical data and recent literature, if you compare different approved injectable products, we see a wide range of pharmacokinetic profiles, depending on the device used. FDA considers a 0.3-milligram dose of epinephrine, given by IM injection with a needle and syringe, as the reference listed drug, as mentioned, given approximately 100 years of safe and effective use.
+Despite this wide range of pharmacokinetics, it is important to remember that the literature and clinical practice support that there is no known difference in efficacy between these different injection devices, either on time to onset or overall effect. IM needle and syringe gives the same clinical outcomes as EpiPen.
+Results from our key clinical trials compared to injection products is presented on slide 17. The data is distilled down to the simple concept that neffy’s pharmacokinetics, when dosed by a caregiver to adults or children and upon self-administration, are within the range of approved efficacious injection products and therefore should meet all the criteria established by the regulators.
+On the left and in the middle are box-and-whisker plots for Cmax and Tmax. On the right are tables showing the partial AUCs between 0-20 and 0-45 minutes, as well as overall AUC. The significance of the partial AUCs is to show exposures in the early time points after administration of an epinephrine product. As mentioned, the overall AUC is not meaningful for efficacy but is an important factor for safety based on regulator’s advice.
+Starting with the first graph on the left, this is a box-and-whisker plot of Cmax for neffy and approved injection products. The hashed horizontal lines show the range of Cmax values, from 277 to 581 picogram per milliliter across all injection products.
+As denoted by the circled numbers, neffy’s Cmax is clearly within this range. The middle plot shows Tmax or time to maximum concentration. And again, the mean for neffy is within the range of approved injection products. The tables on the right show partial and overall AUC. And again, neffy meets the criteria established by regulators.
+Turning to the next slide, our data show that neffy is well tolerated. We’ve treated well over 500 individuals with neffy in our clinical programs, with doses ranging from 0.5 to 2 milligrams, many with repeat doses in cross-over studies and twice dosing so they received 4 milligrams within 10 minutes as could occur in real life.
+Most adverse events were mild and comparable to injection products. There is no meaningful irritation caused by neffy. And pain, as measured by a validated visual analog scale, gives mean scores between 5 and 8 out of 100 across all ARS studies, including in children down to four years old. These pain scores are similar to those observed using VAS scales with saline in published studies.
+While neffy is more rapidly absorbed than IM injection with a needle and syringe, there is no risk of bolus injection into a blood vessel or absorption of epinephrine too rapidly. The FDA labeling for epinephrine injection products warns of possible IV bolus injection that can result in various serious adverse effects.
+In ARS clinical studies, possible injection into a blood vessel resulting in very rapid and high-peak exposures of epinephrine have been observed to occur more than 13% of the time with EpiPen. Finally, by simply removing the needle, that one change, neffy will offer safety advantageous for both the patient and caregivers by eliminating the risk of accidental self-injection in extremities, like your hand; or injection into a blood-vessel; or giving a laceration; or injection into the bone of a small child, as we talked about.
+Taken together, we believe our clinical data package supports filing our NDA in the third quarter of 2022. With positive FDA meetings behind us and data that support neffy meets all of FDA’s recommendations for submission, we believe that there are no additional data or gating factors needed for our planned NDA submission. If approved, we anticipate executing the commercial launch of neffy in 2023 in both adults and children, 30 kilograms and greater.
+Our IP portfolio for neffy is strong and atypical of such 505(b)(2) products with both composition of matter and method-of-use patents. We have two main patent families with expiration dates out to 2038 before any patent term extension, which we expect will offer protection for at least 15 years after approval of neffy.
+Our main product claims have been approved in many major regions around the world, including the United States, European Union, United Kingdom, Japan, Australia, and South Korea, with many other countries pending approval. Our intention is to secure worldwide coverage of neffy by the time of approval in the US and Europe.
+The product profile demonstrated by neffy across our clinical trials gives us confidence in our ability to penetrate the existing market in the US, which we estimate is approximately $1 billion dollars. And there is potential to expand over time to a multi-billion dollar market opportunity. We know there are about 25 million people with serious type I allergies that may benefit from having an epinephrine rescue medication.
+Our goal is to first convert a significant portion of the existing 3.3 million people with injection devices today to neffy users. We believe that with strong community education programs; partnerships with advocacy groups; and a user-friendly, small, and needle-free way to administer epinephrine when needed in an emergency, that neffy can reach many more of the patients and caregivers that currently should have epinephrine with them at all times, but fear and avoid needle-based products.
+With this backdrop, let me ask Eric Karas, our Chief Commercial Officer, who was responsible for the impressive market expansion of Narcan Nasal Spray, to walk through our market opportunity and go-to-market strategy for neffy.
+--------------------------------------------------------------------------------
+Eric Karas, ARS Pharmaceuticals, Inc. - Chief Commercial Officer    [5]
+--------------------------------------------------------------------------------
+Thank you, Rich. This is an exciting time for ARS, and the opportunity for neffy is significant. We know that many physicians, patients, parents, and caregivers are dissatisfied with their epinephrine needle injectors and are seeking a differentiated product offering.
+Patients don’t carry them. And for those who do, many hesitate to use them because they fear needles and the pain associated with an injection. For parents, the angst of injecting a child is a considerable barrier. Not only did neffy perform as well as injection products in our clinical program, but it can also offer a more convenient and desirable alternative for those who currently carry a needle injector and are at risk of a type I allergic reaction.
+Before joining ARS, I led the commercialization of Narcan. And there are many similarities to neffy. Opioid overdose reversal was an injection-based market with generic options, and the disease resulted in severe and life-threatening outcomes.
+When I began working on Narcan, the market research with healthcare professionals and patients showed expected adoption rates in the low 40% range. During my time leading the commercial team, we far exceeded that expectation, starting at 14% in year one, jumping to 46% the following year, and 90% by the end of 2019. Narcan remains a brand leader today.
+With our capabilities and broad insights gained through similar experiences, I’m confident our commercial plans for neffy will achieve strong results. We believe that neffy has the opportunity to fill a significant void that needle injectors can’t address.
+Think of a parent whose child has food allergies. This is highly concerning, as all reactions are unpredictable and could potentially become life threatening. Sadly, hundreds of deaths occur each year from severe allergic reactions. These reactions present in multiple ways. And as Rich mentioned, they progress very quickly, and time to treatment is critical. We believe the solution is a product that can address the deficiencies of needle injectors.
+On an annual basis, the community-use epinephrine market is growing at 5% year-over-year and is projected to reach 25 million patients in 2023. There are three main segments of patients, and neffy has the potential to address all three.
+The first segment is our primary launch target, the 3.3 million patients with severe allergic reactions who have a prescription for an epinephrine product. The second segment is our secondary launch target, the 13 million patients with severe allergic reactions diagnosed and managed by an HCP but don’t have a current prescription for epinephrine. The third segment is an opportunity for future expansion, addressing the 8.6 million patients with severe allergic reaction who are not being managed by an HCP today.
+We believe that over time, we’ll be able to capture a lion’s share of our primary target audience. From there, we’ll turn to segment two and focus on the patients who need epinephrine but avoid injection products, and ultimately to segment three. Combined, our primary and secondary targets represent about 16 million potential patients, which is a substantial opportunity for growth in this category.
+If approved, neffy is poised to be the first epinephrine product to treat a type I allergic reaction at the first sign of symptoms without a needle, reducing the hesitation to dose. This is critical to lowering the frequency of ER visits and hospitalizations.
+A survey of 40,000 patients with severe allergic reactions in 2015 showed that 38% reported at least one food allergy-related lifetime emergency room visit. In just a few minutes, symptoms can progress to respiratory distress and, over time, to the most severe state of an allergic reaction, anaphylaxis. Hesitation to treat is a major limitation for epinephrine needle injectors, and we believe that neffy can change that.
+We’ve conducted extensive market research, showing strong preference numbers and indicating a favorable reception for neffy across all stakeholders. HCPs characterized neffy as a significant advancement in therapy and rated it an 8.5 out of 10, a much higher rating than other products currently in the marketplace.
+One hundred percent of physicians surveyed said they would prescribe neffy if their patients asked for it. And many physicians reported that they would recommend neffy immediately upon its launch, and eventually, the majority over time.
+The patient feedback for neffy is also compelling and indicates strong demand. Our market research tells us that about 80% of patients who have needle injectors prefer neffy. Among patients who have an epinephrine prescription but haven’t filled it, 75% of them stated they would ask their physician about a prescription for neffy. Our patient research also indicates that they would be more likely to use neffy sooner and would be more comfortable using it in public, which is a challenge with needle injectors.
+Neffy is seen as a possible game changer by physicians, something that will make the current needle injectors as dated a technology as the flip phone is today. This type of sentiment points to the potential for adoption, and the quotes on this slide show that outlook.
+The critical point amongst caregivers is that an injection is a barrier and can cause delays because the size is awkward, the mode of injecting can be embarrassing and painful. The comments on this slide capture consumer sentiment. As you can see, parents are motivated for something new and tell us they are excited about neffy.
+We surveyed 200 patients and caregivers who had used a needle injector over the last 12 months to see if their time to administer would change if they had neffy. Findings suggest that the average time to use across patients and caregivers would drop significantly if they had neffy instead of a needle injector, an important insight and potential advantage for neffy.
+Patients and parents also indicated they would use neffy sooner and obtain more units than they do currently with needle injectors. They are more comfortable with neffy and indicate they would be willing to fill and carry the prescription to make sure it’s readily available in case of an emergency.
+Equally important for commercial success is how payers will view neffy, as access and affordability will be critical. Based on market research with over 50 decision makers within the major payers, we believe they also view neffy as a differentiated product. Based on our product profile, responsible pricing, and contracting, neffy could obtain coverage for a significant proportion of patients within the first 12 months of launch.
+To execute this market opportunity, experience has told us that we need to launch strong. And the team at ARS has deep insights and extensive experience in successfully launching and commercializing dozens of transformational products. We’ve applied that experience and have comprehensive launch readiness plans for neffy in place.
+We’re confident in our ability to execute the critical success factors for healthcare professionals, consumers, and payers that will have the potential to drive market share and revenue. We will deploy a combination of direct promotion, virtual sales consultants, and non-personal promotion intended to reach, at a minimum, the HCPs that account for 45% of the current epinephrine prescriptions.
+Amongst consumers, we want to educate and build demand to drive adoption. We plan to partner with advocacy groups to leverage their voice and drive patient and caregiver awareness. We also plan to deploy online and social media promotion and targeted direct to-consumer campaigns to drive awareness and motivate consumers to ask for neffy.
+And finally, with payers, we plan to contract and provide patient support programs to make neffy simple to access and affordable for all patients. Overall, we are excited and confident about the opportunity to transform the lives of millions of patients with severe allergic reactions. In our view, neffy is the future of epinephrine delivery.
+Let me pass the call back to Rich to close us out.
+--------------------------------------------------------------------------------
+Richard Lowenthal, ARS Pharmaceuticals, Inc. - President & CEO    [6]
+--------------------------------------------------------------------------------
+Thanks, Eric. As you’ve heard, we believe neffy has the opportunity to shift the treatment paradigm for type I allergic reactions. With its no-needle delivery, small size, easy to use, and consistent reliable dosing, we believe neffy will improve the lives of our caregivers and patients struggling to properly treat their type I severe allergies.
+We plan to work effectively with advocacy groups and implement patient and caregiver educational programs to help support the allergy community and expand the protection epinephrine affords to these patients to a broader population, even those that desperately fear needles.
+The merger of Silverback and ARS will provide the funding and resources needed to support commercialization of neffy and the type of patient education programs we feel will add value. I encourage you to view our website for more information, including the slides that were developed to complement this discussion. We look forward to keeping you updated on our progress in the coming months.
+Thank you very much, and the floor is now open for question
+
+================================================================================
+q-and-a
+--------------------------------------------------------------------------------
+Operator,     [1]
+--------------------------------------------------------------------------------
+Thank you. (Operator Instructions) Paul Choi, Goldman Sachs.
+--------------------------------------------------------------------------------
+Paul Choi, Goldman Sachs Group, Inc. - Analyst    [2]
+--------------------------------------------------------------------------------
+Hi there. Can you hear me?
+--------------------------------------------------------------------------------
+Operator,     [3]
+--------------------------------------------------------------------------------
+Yes, your line is open.
+--------------------------------------------------------------------------------
+Paul Choi, Goldman Sachs Group, Inc. - Analyst    [4]
+--------------------------------------------------------------------------------
+Okay, thank you. Hi. Good afternoon, everyone. A couple (technical difficulty) from our side for Laura and the Silverback team. As you thought about your strategic options, could you maybe give us some details on how you thought about doing the development in HBV? Relatively (technical difficulty) admittedly, but you hadn't turned over any indicated cards and you have the cash runway to do that. How does that factor in the calculus of your strategic review here?
+--------------------------------------------------------------------------------
+Laura Shawver, Silverback Therapeutics, Inc. - CEO    [5]
+--------------------------------------------------------------------------------
+Yeah. Thanks for the question, Paul. And as we looked at strategic options, we look at quite a number of them, including continuing as a standalone company, focusing on 8230 as well as our other preclinical programs.
+As you may recall, we were planning for a regulatory filing yet this year. And that certainly continued and was in the cards. But as we looked at everything, particularly as it related to HBV, it looked that it would be a ways away to reach important value inflection milestones in the clinical development of 8230, both from the standpoint of it being a fairly competitive space, HBV, as well as the need for combination treatment.
+And also, our other programs would not enter the clinic for another 18 to 24 months. And it would be longer yet to reach those important milestones. And hence, we focused on mergers. We also looked at other options, such as in-licensing clinical stage programs that were closer to clinical milestones.
+--------------------------------------------------------------------------------
+Paul Choi, Goldman Sachs Group, Inc. - Analyst    [6]
+--------------------------------------------------------------------------------
+Okay. Thanks for that, Laura. And then my second question is just on the deal process here. Did you engage in discussions with any other about a potential transaction? And then in terms of, I guess, things that will be revealed in the merger document down the road, any mechanics (technical difficulty) and so forth (technical difficulty) would be appreciated. Thank you for taking our questions.
+--------------------------------------------------------------------------------
+Laura Shawver, Silverback Therapeutics, Inc. - CEO    [7]
+--------------------------------------------------------------------------------
+Yeah. Thank you, Paul, and thanks for all your support along the way. So yes, we did have quite a number of companies that we looked at that will be detailed in the proxy. We will file a preliminary proxy as soon as practical. So you'll find the details there along with what our criteria were for speaking with companies.
+And so once we file that preliminary proxy, we'll be undergoing the review process. We will then file a definitive proxy. We'll have a waiting period there before we have the shareholder vote. Of course, we already have approval from both Boards of Directors and the majority -- the overall vast majority of the ARS shareholders as well as support agreements from our major investors, including OrbiMed and Nextech.
+--------------------------------------------------------------------------------
+Operator,     [8]
+--------------------------------------------------------------------------------
+Thank you. Tim Lugo, (technical difficulty)
+--------------------------------------------------------------------------------
+Tim Lugo, William Blair & Company - Analyst    [9]
+--------------------------------------------------------------------------------
+Thanks for taking my question. I hope you can hear me. On the market slide, for the ARS team, you mentioned that the epi market was growing at 5% year over year over the past 15 years. Can you just talk maybe how that market has looked a little bit more recently, I guess over the past few years -- past two or three years, how durable that growth is?
+And I know years ago, pricing was very much a talking point around the market. Can you just maybe give us a update on the latest views on pricing in the market and maybe even how you think about pricing given the differentiated products?
+--------------------------------------------------------------------------------
+Richard Lowenthal, ARS Pharmaceuticals, Inc. - President & CEO    [10]
+--------------------------------------------------------------------------------
+All right. Thank you, Eric. I'll defer some of that to Eric Karas. So Eric, can you answer?
+--------------------------------------------------------------------------------
+Eric Karas, ARS Pharmaceuticals, Inc. - Chief Commercial Officer    [11]
+--------------------------------------------------------------------------------
+Thank you, Rich. And thank you, Tim, for the question this afternoon. The first part on annual growth of what we've seen, based on the IQVIA data that we've analyzed, we do see a very conservative 5% year-over-year growth. We're also seeing some increased prevalence and diagnosis that's consistent with what we see also in the literature.
+One of the things that we also looked at when analyzing the market is the overall segments, the primary market of the 3.3 million patients plus that secondary market of 13 million patients that are diagnosed but are not prescribed the epinephrine product. And within that group, there's a significant amount of patients, about 2.5 million, that we know has been prescribed but either haven't filled their epinephrine prescription or their last patient and they haven't renewed.
+And I think what's most encouraging for us as we look at this marketplace and the opportunity for growth is that this is highly dissatisfied. When we've talked to patients and parents and caregivers in our market research formally, even informally, clearly there is a fear of needles. There's a hesitation of using epinephrine, and we really feel that neffy can address those deficiencies of the needle injectors.
+When you look at also growth of the market, over the last couple of years, there hasn't been a lot of promotion in terms of direct to consumer. That's something that we will look to invest in at the right time to really make sure that, again, consumers are aware of this and encourage them to talk to their doctor about this product.
+And then in terms of the price, I think you mentioned some of the focus on price over the last couple of years. At this time, we're really focused on the NDA. We're not planning to go through any details about pricing. But in evaluating the market opportunity, even if one assumes that this is comparable to the current lack of branded epinephrine products, the opportunity is quite compelling.
+And as we noted in the presentation, there are many, many attributes of neffy that really differentiate this product in the marketplace. This isn't potentially a product that has one attribute or marginal differences. It has many differences. And we believe the demand will be quite significant for this product.
+--------------------------------------------------------------------------------
+Tim Lugo, William Blair & Company - Analyst    [12]
+--------------------------------------------------------------------------------
+Understood. And going over the market data, that was very helpful. I am actually a little surprised that 20% of those who use injectable products wouldn't switch over to neffy. But I just wanted to double check if there's a filing in Q3. Are we assuming that there could be a launch in Q4 2023?
+--------------------------------------------------------------------------------
+Richard Lowenthal, ARS Pharmaceuticals, Inc. - President & CEO    [13]
+--------------------------------------------------------------------------------
+Well, the timing of the launch would depend obviously on the length of time of the NDA review and whether we get priority review or it's a standard review. But assuming a standard review, you're correct, Tim, that that's approximately the timing of the approval and launch.
+--------------------------------------------------------------------------------
+Tim Lugo, William Blair & Company - Analyst    [14]
+--------------------------------------------------------------------------------
+Great. Thank you for the question.
+--------------------------------------------------------------------------------
+Operator,     [15]
+--------------------------------------------------------------------------------
+Thank you. I'm showing no further questions at this time. I'd like to turn the call back over to Richard Lowenthal for any closing remarks.
+--------------------------------------------------------------------------------
+Richard Lowenthal, ARS Pharmaceuticals, Inc. - President & CEO    [16]
+--------------------------------------------------------------------------------
+Okay. Well, thank you very much for joining the call today. And we look forward to keeping you updated on the progress of ARS Pharmaceuticals and the merger with Silverback, as well as our progress in filing neffy and gaining approval of this product as we go forward. And if any other questions, we're happy to take other questions as time goes on. And overall, thank you.
+--------------------------------------------------------------------------------
+Operator,     [17]
+--------------------------------------------------------------------------------
+Thank you. Thank you all for participating. You may now disconnect. Have a great day.
+
+
+
+
+
+
+--------------------------------------------------------------------------------
+Definitions
+--------------------------------------------------------------------------------
+Preliminary Transcript: "Preliminary Transcript" indicates that the 
+Transcript has been published in near real-time by an experienced 
+professional transcriber.  While the Preliminary Transcript is highly 
+accurate, it has not been edited to ensure the entire transcription 
+represents a verbatim report of the call.
+
+EDITED TRANSCRIPT: "Edited Transcript" indicates that a team of professional 
+editors have listened to the event a second time to confirm that the 
+content of the call has been transcribed accurately and in full.
+
+--------------------------------------------------------------------------------
+Disclaimer
+--------------------------------------------------------------------------------
+Refinitiv reserves the right to make changes to documents, content, or other 
+information on this web site without obligation to notify any person of 
+such changes.
+
+In the conference calls upon which Event Transcripts are based, companies 
+may make projections or other forward-looking statements regarding a variety 
+of items. Such forward-looking statements are based upon current 
+expectations and involve risks and uncertainties. Actual results may differ 
+materially from those stated in any forward-looking statement based on a 
+number of important factors and risks, which are more specifically 
+identified in the companies' most recent SEC filings. Although the companies 
+may indicate and believe that the assumptions underlying the forward-looking 
+statements are reasonable, any of the assumptions could prove inaccurate or 
+incorrect and, therefore, there can be no assurance that the results 
+contemplated in the forward-looking statements will be realized.
+
+THE INFORMATION CONTAINED IN EVENT TRANSCRIPTS IS A TEXTUAL REPRESENTATION
+OF THE APPLICABLE COMPANY'S CONFERENCE CALL AND WHILE EFFORTS ARE MADE TO
+PROVIDE AN ACCURATE TRANSCRIPTION, THERE MAY BE MATERIAL ERRORS, OMISSIONS,
+OR INACCURACIES IN THE REPORTING OF THE SUBSTANCE OF THE CONFERENCE CALLS.
+IN NO WAY DOES REFINITIV OR THE APPLICABLE COMPANY ASSUME ANY RESPONSIBILITY FOR ANY INVESTMENT OR OTHER
+DECISIONS MADE BASED UPON THE INFORMATION PROVIDED ON THIS WEB SITE OR IN
+ANY EVENT TRANSCRIPT. USERS ARE ADVISED TO REVIEW THE APPLICABLE COMPANY'S
+CONFERENCE CALL ITSELF AND THE APPLICABLE COMPANY'S SEC FILINGS BEFORE
+MAKING ANY INVESTMENT OR OTHER DECISIONS.
+--------------------------------------------------------------------------------
+Copyright 2023 Refinitiv. All Rights Reserved.
+--------------------------------------------------------------------------------

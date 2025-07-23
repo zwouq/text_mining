@@ -1,0 +1,333 @@
+
+
+Refinitiv StreetEvents Event Transcript
+E D I T E D   V E R S I O N
+
+Evotec SE and Sernova Corp to Discuss Exclusive Strategic Partnership M&amp;A Call
+MAY 17, 2022 / 12:30PM GMT
+
+================================================================================
+Corporate Participants
+================================================================================
+
+ * Cord Dohrmann
+   Evotec SE - Chief Scientific Officer & Member of Management Board
+ * Philip M. Toleikis
+   Sernova Corp. - President, CEO & Director
+
+================================================================================
+Conference Call Participiants
+================================================================================
+
+ * Stefan Quenneville
+   Echelon Wealth Partners Inc., Research Division - Research Analyst
+ * Christian Ehmann
+   Warburg Research GmbH - Analyst
+ * Peter James Welford
+   Jefferies LLC, Research Division - Senior Equity Analyst & European Pharmaceuticals Analyst
+ * Paul Stewardson
+   iA Private Wealth Inc - Equity Research Associate of Healthcare & Biotechnology
+ * Natalia Webster
+   RBC Capital Markets, Research Division - Associate
+ * Douglas W. Loe
+   Leede Jones Gable Inc., Research Division - MD & Analyst
+
+================================================================================
+Presentation
+--------------------------------------------------------------------------------
+Operator    [1]
+--------------------------------------------------------------------------------
+Greetings, and welcome to the Sernova and Evotec Conference Call. (Operator Instructions) As a reminder, this conference is being recorded. 
+It is now my pleasure to introduce your host, Dr. Philip Toleikis. Thank you, Philip. You may begin.
+
+--------------------------------------------------------------------------------
+Philip M. Toleikis,  Sernova Corp. - President, CEO & Director    [2]
+--------------------------------------------------------------------------------
+Thank you very much. Welcome, everyone in North America, and good morning, and welcome, everyone in Germany and the rest of Europe, and good afternoon. This is going to be a discussion about the partnership and licensing option agreement for iPSC-based beta cell replacement therapy for insulin-dependent diabetes. And as CEO of Sernova, I am extremely excited to have been working with the team at Evotec, and we see this as a transformational agreement between Sernova and Evotec moving both companies forward. 
+Next slide, please. Please be aware and read the Sernova forward-looking statements. And also, please be aware of the Evotec forward-looking statements.  
+So with respect to the partnership highlights and terms, Sernova has acquired an option for an exclusive global license to Evotec's induced pluripotent stem cell iPSC-based human beta cells for use with its Cell Pouch System to treat insulin-dependent diabetes. 
+This provides Sernova access to an unlimited supply of insulin-producing islet cells, and that removes the major obstacle that we previously had to commercialization of the Cell Pouch technologies given the current supply constraints of human donor islets that we're currently working on in our clinical trial. Evotec is making a EUR 20 million/CAD 27 million equity investment in Sernova: EUR 15 million or CAD 20 million with price at $1.57 per share on the closing of May 16, 2022; EUR 5 million and CAD 7 million will be funded by August 31, 2022, at CAD 2.50 per share or earlier if the 5-day VWAP hits CAD 2.50. This equates to an approximately 6% equity position in Sernova by Evotec. 
+Preclinical development programs will be codeveloped by Evotec and Sernova until IND. Evotec will be responsible for manufacturing cells through commercialization processes. We are anticipating that we'll be filing an IND in early 2024, and here Sernova has the right to exercise this option for an exclusive global license upon IND filing. Sernova will owe an undisclosed milestone payment upon license option exercise and also upon first patient dose. Evotec has an option for joint funding of clinical development with profit-sharing participation upon commercialization of the products. 
+We believe this is a very strong strategic fit to advance potential functional cure for diabetes.  With respect to the Cell Pouch System, I just want to make a few points. First of all, the Cell Pouch is an implantable medical device that -- into which we put immune-protected therapeutic cells. This provides a highly vascularized environment for cells to be placed in. So we have created a device that provides a natural tissue environment, and this prevents the formation of fibrosis that other groups have found with medical devices. Our cells have been shown, in multiple preclinical studies and in our human Phase I/II clinical study at the University of Chicago, to survive for long periods of time. 
+And the reason is that we believe we've created an organ-like environment for the therapeutic cells where the cells are actually sitting in a tissue matrix and highly vascularized. Sernova has strong patent portfolio and IP around the therapeutic cells as well as stem-cell derived technologies and the device and combinations thereof. And this is -- these are global patents. 
+The device itself is scalable and also retrievable. We also have embarked on a Phase I/II clinical trial at the University of Chicago for which we have shown in a number of patients insulin independence long term. We have one patient who is now insulin independent for over 2 years and a second patient who has been insulin independent for approximately 8 months at this point in time. So this technology is derisked, and it is proven to work in patients. 
+In terms of the i-beta cells, this is an iPSC-based islet-like clusters mimicking human islet cells. It includes insulin-producing beta cells, but importantly also hormone-producing cell types such as glucagon and somatostatin-producing cells.  
+Long-term function has been demonstrated in rodent models of diabetes, and we have also worked with Evotec with respect to combining cells in Cell Pouch previously and shown in the gold standard models of type 1 diabetes that we're able to provide long-term insulin independence. So again, this program is derisked. Evotec also has capability to scale the cells up, which is an important part for clinical trials going forward. 
+Our goal is creating an off-the-shelf iPSC-based beta cell replacement therapy as a potential functional cure for insulin-dependent diabetes. What I'm really excited about here is that we have already shown that we can provide a functional cure with the Cell Pouch and the human donor islets in a number of patients. And so again, combining these 2 technologies, we believe, will be very, very significant for the industry, and we see this as a relatively derisked program already since we have been working together. 
+Next slide. So I just want to talk a little bit about the platform approach that Sernova has. And here, what we've developed is what we call an integrated regenerative medicine solution for treatment of chronic diseases. So it's not only type 1 diabetes, but also a multiple set of other diseases that we're working on. 
+So with respect to the Cell Pouch itself, it is very unique in the field. And our goal here is to create a device that allows tissue to grow into the device around removable plugs. So importantly, the way that we believe that we prevent fibrosis is by having that device heal within the tissues of the body. And then that allows us to form these highly vascularized tissue chambers into which we put the therapeutic cells. And we, again, have demonstrated long term that our cells are surviving, that they become highly vascularized and that they produced all of the regulatory hormones to control type 1 diabetes, and that these hormones get into the blood stream. And this is measured by consistent fasting and non-fasting C-peptide that we found in the blood stream, not only in our preclinical models but also in our patients. 
+With respect to immune protection, we've got to protect these cells from immune attack. And we believe that developing an immune protected device is not the way to go. We like to separate the immune protection from the device itself. 
+And so we have licensed in what we call a conformal coating technology from the University of Miami that we're now working on and combining with Cell Pouch. And the way this works is that it is a type of shrink wrap polymer cross-linked coating that surrounds the cells that then go into the device chambers themselves. And we believe that that will protect those cells from an immune system attack. 
+With respect to the therapeutic cells, as everyone knows, our first product that we have been working on is with human donor islets within the cell pouch. And the reason this is because we wanted to work with the actual real thing that is in your own body that we know works and controls blood sugar levels. Now in a very exciting way, we have been working with Evotec in terms of their advanced iPSC-based islet-like clusters, which can also -- have also been proven to regulate blood sugar levels. 
+And importantly, what this is doing for the combined technologies is allowing us to not only just treat with donor islets, but we can expand our population to the millions of people that have type 1 diabetes. So this completely changes the ability of Sernova to commercialize these products and to treat millions of patients with type 1 diabetes. 
+So with respect to our technologies, we have always said that we have a biologically compatible delivery system. So we first implant the Cell Pouch deep under the skin of the patient and we allow this to -- the tissue to develop for approximately 30 days. And then we can go in and place the therapeutic cells into the device that has become already fully vascularized. So essentially, we're placing these cells into a vascularized natural organ-like tissue environment. And those cells can then graft and then they can start to produce their product into the blood stream. 
+So just one point about the Cell Pouch itself. We manufacture  the Cell Pouch under GMP conditions in a facility in the United States, and we make these in multiple sizes and we can make as many of these as required. They meet the [necessary] specifications for North America and also for Europe. So this project is GMP manufactured. 
+So I'd like to now introduce Dr. Cord Dohrmann, Chief Scientific Officer of Evotec.
+
+--------------------------------------------------------------------------------
+Cord Dohrmann,  Evotec SE - Chief Scientific Officer & Member of Management Board    [3]
+--------------------------------------------------------------------------------
+Thank you, Philip, and good morning and good afternoon to everybody on the call. Let me start by echoing Philip's introduction and sentiments to the collaboration. At Evotec, we are extremely excited about this collaboration with Sernova. Both companies really complement each other perfectly. With Sernova's expertise, experience and clinical validation in developing medical devices that are suited for the transplantation of human beta cells, we are convinced that they are the perfect match to Evotec's expertise and experience in the production and manufacturing of iPSC-based human beta cells. The combination is clearly unique and bears all the hallmarks of a best-in-class off-the-shelf beta cell replacement therapy. 
+Let me move on to Page 10. Induced pluripotent stem cells belong clearly to the most important innovation of the last 20 years. The technology was originally pioneered by Shinya Yamanaka in Japan and allows to directly generate pluripotent stem cells from adult cells that can be taken from the blood, skin or other tissues from adult humans. The fact that iPSCs can be propagated indefinitely means that they provide an unlimited supply and source while they can be [coaxed] to be differentiated in almost any cell type of the body.
+For almost 10 years now, Evotec has been investing into the industrialization optimization of the induced pluripotent stem cell technology. Evotec has systematically developed proprietary, highly robust and scalable differentiation protocols for a large number of cell types. We are using these iPSCs -- derived cells for drug-screening purposes, but in particular also for therapeutic -- cell therapeutic purposes. We have structured already a number of successful partnerships, especially when it comes to drug screening in this field, and I'm very excited about this partnership with Sernova in the field of diabetes. Sernova's cell pouch technology is not only unique, but comes highly validated in the field of diabetes with the highly successful [transplantation] of the device using human donor islets.
+Similarly, Evotec's iPSC-based human beta cells come highly validated through extensive profiling in diabetic animal models and extensive quality control down to the single cell sequencing resolution even. 
+And now we can move forward to the next page. This shows essentially how we are deriving human beta cells from iPSC-derived induced pluripotent stem cells essentially following the natural way of --  natural path of differentiation. What we're ending up with are really not just isolated beta cells, but islet-like clusters that contain to a very significant extent insulin-producing beta cells, but many other hormone-producing cell types such as alpha cells that are producing glucagon or delta cells that are producing somatostatin, which are very important to maintain proper blood glucose levels in human patients. 
+And next slide, Page 12, gives you an idea what these iPSC-based human beta cells or islets look like. These are shown on the left-hand page of the slide. These islets contain optimal composition of insulin-producing cells and other hormone-producing cells, and they undergo using the highest standards of quality control and are therefore of pharmaceutical quality. 
+These iPSC-based human islets have undergone extensive functional testing in vitro and in vivo, and on the right-hand side you can see such an experiment, where these iPSC-based beta cells have been transplanted into diabetic animals and blood glucose has been monitored for more than a full year. And what you can see here is essentially that at the beginning, shortly after the transplantation, the animals are highly diabetic for the first few weeks. This is due to the fact that the transplanted islets need to be vascularized and connected to the blood stream, essentially. But once this happens, the blood glucose is extremely tightly controlled and this very tight control of blood glucose levels is maintained for the whole extent of the in vivo experiment here all the way up to a year. 
+What's also important is that in terms of the blood glucose control, these iPSC-based human beta cells are equally potent to primary human islets, which were also transplanted in these experiments in parallel. So we have a highly physiological regulation with no hypoglycemic events that can be observed here. 
+The next page shows that Evotec has developed a platform here which is essentially an end-to-end platform that allows us to develop our own proprietary protocols to develop iPSC cell lines from adult humans, develop appropriate protocols for differentiation, and an extensive quality control way of assays that allow us to monitor the quality of the finalized, highly differentiated cell types but also the expansion of these cells and the upscaling of the manufacturing of these cells all the way up to GMP production. So once again, this is essentially an end-to-end solution from the very beginning of developing these protocols to implementing them into industrial-scale manufacturing. 
+Next page. This page just gives you an idea that at Evotec, we are not only interested in the field of diabetes when it comes to cell therapeutic approaches, but we are also developing iPSC-based cell therapies for a number of other indications, potentially for the anti-tumor cell therapy, but also in the area of immune-modulation. However, our most advanced product is currently -- or are currently the iPSC-based human beta cells, which we are extremely proud to now develop together with Sernova and Sernova Cell Pouch in the field of insulin-dependent diabetes. 
+With this, I'd like to thank you for your attention and hand back to Philip.
+
+--------------------------------------------------------------------------------
+Philip M. Toleikis,  Sernova Corp. - President, CEO & Director    [4]
+--------------------------------------------------------------------------------
+So I'd like to provide some highlights of the Sernova-Evotec licensing transaction. And I would also like to thank Dr. Cord Dohrmann for this excellent presentation with respect to Evotec and combined with Sernova. So first of all, we're going to be combining Evotec's iPSC technology with Sernova's Cell Pouch system. And we believe that this will immediately put Sernova at the forefront of this field to find a functional cure for insulin-dependent diabetes. 
+The i-beta and Cell Pouch System, we believe, will equal the best-in-class beta cell therapy for insulin-dependent diabetes. Supply of the i-beta cells will remove the limitations of using human donor islets that we currently have. Cost-sharing arrangements will be not for development from Evotec and Sernova up to the IND stage, and then, again, Evotec has an option for joint funding of clinical development with profit-sharing participation upon commercialization. Sernova now has an unlimited supply of highly ethical i-beta cells, which can then be transplanted into patients using the Sernova Cell Pouch System. And we believe, again, that this is a transformational approach for our company. 
+Finally, Evotec equity investment of CAD 27 million is occurring, and Evotec and Sernova are becoming strategic partners in this regenerative medicine cell therapy. Again, with respect to all of the work -- all of the processes that Dr. Dohrmann was talking about, we also have the potential to expand our relationship beyond diabetes itself. 
+I'd like to thank everyone for listening to this presentation, and I would like to invite the operator to now open it up for any questions that may come in.
+
+
+================================================================================
+Questions and Answers
+--------------------------------------------------------------------------------
+Operator    [1]
+--------------------------------------------------------------------------------
+(Operator Instructions) Our first question is from Doug Loe with Leede Jones Gable.
+
+--------------------------------------------------------------------------------
+Douglas W. Loe,  Leede Jones Gable Inc., Research Division - MD & Analyst    [2]
+--------------------------------------------------------------------------------
+Congratulations on the transaction. Several places we could take the dialogue this morning, I think, but maybe I'll start with this. So Dr. Dohrmann, in your own commentary, you indicated several details on manufacturing scale-up and quality control that will be relevant before you submit your IND in a couple of years. Just wondering if there are any specifics with regard to any formal preclinical testing that will be required, specifically on any large animal and non-human primate data that you might have to amass prior to IND, and over what time frame those studies might transpire. And any details you could provide there would be helpful.
+
+--------------------------------------------------------------------------------
+Cord Dohrmann,  Evotec SE - Chief Scientific Officer & Member of Management Board    [3]
+--------------------------------------------------------------------------------
+I would say that at this point in time, we do believe that the vast majority of experimentation in the preclinical setting has been essentially completed. We are now essentially just -- with this transaction, we now essentially complete the potential product combining Sernova's Cell Pouch technology with our iPSC-derived human beta cells. There will be a few more experiments to complete with the combination of this product, but overall, as Philip indicated, we have already been working together here for some time now and feel that this is all basically ready to go now into formal product development.
+
+--------------------------------------------------------------------------------
+Douglas W. Loe,  Leede Jones Gable Inc., Research Division - MD & Analyst    [4]
+--------------------------------------------------------------------------------
+And then second of all, this kind of leads in from one of Philip's last comments in his introductory remarks about expandability of the alliance. You already have a solid pipeline in oncology and immune modulation, which is obviously positive. Just wondered if you had any existing data with regard to your ability to be relevant in hemophilia A or thyroid disorders already, i.e., your ability to differentiate stem cells into Factor VIII or thyroxine-producing cell lines. Any insight there would be helpful.
+
+--------------------------------------------------------------------------------
+Cord Dohrmann,  Evotec SE - Chief Scientific Officer & Member of Management Board    [5]
+--------------------------------------------------------------------------------
+Yes, I'm happy to comment on that. So essentially, we don't currently have any sort of programs in these areas that are -- nevertheless, we do believe that these are interesting areas for the future of Evotec, and we do believe that at Evotec with our very extensive platform and experience in developing protocols for certain cell types, that these are areas that we can easily move into and potentially generate further synergies between the 2 companies. And we, Philip and I, discuss these opportunities, but before we get into those, we currently want to focus in particular on our common opportunity here in the diabetes space because this is, of course, the one of the largest cell therapeutic opportunities that exist in the industry.
+
+--------------------------------------------------------------------------------
+Douglas W. Loe,  Leede Jones Gable Inc., Research Division - MD & Analyst    [6]
+--------------------------------------------------------------------------------
+Great feedback there as well. And Philip, just a question for you. You mentioned the conformal cell coating technology that you acquired from the University of Miami without providing too much supplemental detail thereafter. If you -- maybe just on that and I'll leave it there. Any updates on how that technology is performing in any of your preclinical work? Any aspirations for incorporating it into future Phase I studies at the University of Chicago? And if you have any existing insights into how that technology works with Evotec-derived pancreatic islet cell clusters, that would be helpful as well. And I'll leave it there.
+
+--------------------------------------------------------------------------------
+Philip M. Toleikis,  Sernova Corp. - President, CEO & Director    [7]
+--------------------------------------------------------------------------------
+Yes. Thank you very much. So we do have a significant collaboration with the University of Miami right now combining conformal coating with islets in Cell Pouch, and we have, in preliminary studies, been able to show that, first of all, the kinetics of insulin and glucose with the conformal coating in the Cell Pouch is working very, very well. That's one of the important considerations for any kind of a coating-type technology. 
+In terms of stem cell -- Evotec stem cell work with the conformal coating, that's definitely something that we're going to be working on, that we plan to be working on, that combination of [stem cell] technologies plus the conformal coating does work. And we just -- we're just going to be combining this and continuing on with Cell Pouch. 
+Now in terms of potential conformal coating of islets -- human donor islets or the stem cell-derived technologies, this is -- both of these are things that we're going to be working on on an immediate basis. And the goal here is to get these into clinic and to eliminate the need for the anti-rejection medications that everyone is now using for (inaudible).
+
+--------------------------------------------------------------------------------
+Operator    [8]
+--------------------------------------------------------------------------------
+Our next question is from Peter Welford with Jefferies.
+
+--------------------------------------------------------------------------------
+Peter James Welford,  Jefferies LLC, Research Division - Senior Equity Analyst & European Pharmaceuticals Analyst    [9]
+--------------------------------------------------------------------------------
+It's Peter at Jefferies. Just a quick question on really, I think, direct to the Evotec. Just with regards to the production of the iPSCs, do you have already internally the sufficient capacity to be able to make iPSCs for these Cell Pouch at the clinical stage? And at what stage do you need to look for further capacity? And related to that, do you plan on potentially building yourself this capability or, alternatively, do you plan on, I guess, buying a facility? Or do you envisage contracting out to a third party the capacity to be able to produce sufficient IPSCs?
+
+--------------------------------------------------------------------------------
+Cord Dohrmann,  Evotec SE - Chief Scientific Officer & Member of Management Board    [10]
+--------------------------------------------------------------------------------
+Yes. Yes, happy to address this. So at this point in time, we feel extremely confident that we will be able to manufacture what is required for early clinical development of this combination product. And when it comes to further upscaling, I can only say that we are very, very confident that we will have everything necessary in place once further upscaling is needed. So as we anticipate that the development into the clinic will still take a couple of years at this point in time, we will be really well prepared essentially to then provide further upscaling, whatever is needed. It's basically a strategic component for us in the field of cell therapy, and we will not only need these kind of upscaling capabilities for this diabetes project, but also in other areas.
+
+--------------------------------------------------------------------------------
+Operator    [11]
+--------------------------------------------------------------------------------
+Our next question comes from Paul Stewardson with iA Capital Markets.
+
+--------------------------------------------------------------------------------
+Paul Stewardson,  iA Private Wealth Inc - Equity Research Associate of Healthcare & Biotechnology    [12]
+--------------------------------------------------------------------------------
+Congratulations on the partnership. A question for Philip. In terms of the strategy for Sernova, the global pharma partnerships that obviously this one has come out of sort of -- that was how you were talking about these iPSC cells, does this partnership conclude those research agreements, or are there still opportunities for working with the other companies that you were working with for the other programs for thyroid or hemophilia?
+
+--------------------------------------------------------------------------------
+Philip M. Toleikis,  Sernova Corp. - President, CEO & Director    [13]
+--------------------------------------------------------------------------------
+Yes, Paul. With respect to that, we do have other pharmaceutical relationships, but this is more around other disease indications that we're working on outside of diabetes. But for diabetes, we're going to be -- our partnership is going to be focused with Evotec and the iPSC cells because we believe that that is the ultimate solution for patients with diabetes. So we're going to be focused on that. But we do have other partnerships that we're continuing to (inaudible).
+
+--------------------------------------------------------------------------------
+Paul Stewardson,  iA Private Wealth Inc - Equity Research Associate of Healthcare & Biotechnology    [14]
+--------------------------------------------------------------------------------
+Okay. Yes. Understood. And just a follow-up. In terms of the things that brought Evotec to the front, obviously, it looks like they really have the best validation of the program. There was a lot of data, and definitely appreciated the slides in the presentation as well. Can you talk about, in terms of other than being farthest along, what kind of differentiating factors are there for the specific Evotec iPSCs versus what else is out there in the sector other than sort of the amount of progress, which is obviously differentiated? Is there differentiation at the biological level at all that you can talk about?
+
+--------------------------------------------------------------------------------
+Philip M. Toleikis,  Sernova Corp. - President, CEO & Director    [15]
+--------------------------------------------------------------------------------
+Yes. A couple of things there. There's a number of components that we put together. So as you know, the Cell Pouch has already been proven in clinic. We already have a strong U.S. IND with all of our supporting preclinical studies, et cetera. And in terms of the Evotec iPSC cells, this is not something that has just arisen recently. Evotec has been working on this for many, many years and optimizing.
+And we see Evotec's quality systems as the best in the world. And really controlling the cells in the same way that we would control a pharmaceutical product is what the goal has been, and this is what Evotec has been focusing on. The other part about this is that it's really the teams and the quality of the teams on both sides working together. And we found that the Evotec teams were -- and combined with Sernova, just blended together really well. 
+Dr. Dohrmann, do you have any other comments you might want to bring up about that?
+
+--------------------------------------------------------------------------------
+Cord Dohrmann,  Evotec SE - Chief Scientific Officer & Member of Management Board    [16]
+--------------------------------------------------------------------------------
+No, I can only echo this. So essentially, we have -- going to continue to strive to produce the highest quality iPSC-derived beta cells. And in this case, it's really, as we indicated, really human islets with the optimal composition of various hormone-producing cell types. And we have invested heavily into really making sure that the cells are highly mature in terms of functionality, that they are -- have the perfect composition, that the protocols, in particular, are scalable for long term. This is actually where a lot of people will struggle in the future. 
+And we try to think this all the way through, not just sort of from -- coming from sort of a laboratory bench to a first initial clinical trial, but basically to think it all the way through to ultimately serve a huge potential market of insulin-dependent diabetic patients.
+And here, as you can imagine that, especially in such a combination product -- it involves a medical device plus stem cell-derived cells -- this is very complex, and the eventual cost of goods are going to be an extremely important component, as will be the ease of use of such a device. And here, once again, it is no accident to us either that we are working here with Sernova. Evotec has tested a large number of potential devices in the field, and the Sernova medical device, Cell Pouch, clearly came out on top. So we feel this is really in many ways a match made in heaven in this regard. We feel that Sernova is currently the absolute leader when it comes to the Cell Pouch technology, providing a retrievable device that allows really perfect vascularization of the transplant and -- with the potential going forward of providing even immune protection via microencapsulation technology. 
+So once again, we are convinced that the combination of Sernova and Evotec is really the best possible combination currently out there. And I'm convinced that on the Evotec side, that regarding the iPSC-derived human beta cells but also other cell types, that Evotec is clearly leading. And I think some of our track records here in the industry with really big deals, also with BMS and others in the field, attest to this.
+
+--------------------------------------------------------------------------------
+Operator    [17]
+--------------------------------------------------------------------------------
+Our next question comes from Stefan Quenneville with Echelon Capital.
+
+--------------------------------------------------------------------------------
+Stefan Quenneville,  Echelon Wealth Partners Inc., Research Division - Research Analyst    [18]
+--------------------------------------------------------------------------------
+Congratulations on the deal. Given the recent FDA hold that's been put on Vertex's program, can Evotec characterize its interactions with regulators, particularly the FDA, regarding its stem cell program and manufacturing in general, and obviously specifically on the beta cell program?
+
+--------------------------------------------------------------------------------
+Cord Dohrmann,  Evotec SE - Chief Scientific Officer & Member of Management Board    [19]
+--------------------------------------------------------------------------------
+Philip, do you want to go ahead, try and take this first, or should I give it a first try?
+
+--------------------------------------------------------------------------------
+Philip M. Toleikis,  Sernova Corp. - President, CEO & Director    [20]
+--------------------------------------------------------------------------------
+Yes. So I'll just talk about that. So I can't really say too much about what's happening with respect to those -- to that program. But I can say that with respect to the relationship between Sernova and Evotec and the products that we are developing together, by putting the cells directly into the Cell Pouch, then it allows those cells to be contained in a local organ-like environment. 
+And again, our device is set up so that the cells are actually sitting in that tissue matrix and don't leave the device. They stay in that location. And also we know that the combination of cells in the Cell Pouch work, they become fully vascularized. And we have been consistently seeing C-peptide in the bloodstream and also seeing clinical benefit with the combination within our clinical trial right now.
+So we have also had consistent safety of the cells and also the device long term in our patients. So we're just -- we're very, very confident from that perspective. And then also Dr. Dohrmann can probably talk about the cells in terms of the consistency and the safety. And again, that approach of having a tight pharmaceutical-like product going into the Cell Pouch, which I think is very, very important from the [CTA perspective]. 
+And Dr. Dohrmann, you may want to add anything else further on that one, please?
+
+--------------------------------------------------------------------------------
+Cord Dohrmann,  Evotec SE - Chief Scientific Officer & Member of Management Board    [21]
+--------------------------------------------------------------------------------
+No. I think, Philip, you summarized that quite nicely. So especially, I think the various features of the Cell Pouch in combination, that we are working here with essentially a fully differentiated iPSC-based human beta cells or islets, is a new combination, and we feel this addresses most likely many of the potential concerns of regulators in the field.
+
+--------------------------------------------------------------------------------
+Stefan Quenneville,  Echelon Wealth Partners Inc., Research Division - Research Analyst    [22]
+--------------------------------------------------------------------------------
+Great. My next question is sort of you have mentioned your hopes to file your IND in early 2024. What are the key rate-limiting steps to get that done?
+
+--------------------------------------------------------------------------------
+Philip M. Toleikis,  Sernova Corp. - President, CEO & Director    [23]
+--------------------------------------------------------------------------------
+I can answer that question. So right now, we are working on combining -- again, combining the most recent cells from Evotec in Cell Pouch in preclinical studies for optimization and dosing, et cetera. And then we will start the formal preclinical safety and efficacy studies. It's important to remember that Sernova already has a very, very significant documentation with respect to our Cell Pouch safety and efficacy and with respect to our IND in the U.S. So really, it's going to be adding the manufacturing processes for the cells, the CMC section, and then [just] combining those formal safety preclinical studies that will enable us to move into the IND phase in our first clinical study together.
+
+--------------------------------------------------------------------------------
+Stefan Quenneville,  Echelon Wealth Partners Inc., Research Division - Research Analyst    [24]
+--------------------------------------------------------------------------------
+Great. And my final question is sort of -- we'll see what you can sort of disclose on this -- you talked about the cost of goods as being an important differentiator over time in terms of getting this out to a large number of people. Do you guys have an aspirational sort of cost of goods at scale once you get processes to the level you want to do it at some future commercialization date that you're targeting? Is there a kind of number you're trying to get to in terms of making this broadly accessible?
+
+--------------------------------------------------------------------------------
+Philip M. Toleikis,  Sernova Corp. - President, CEO & Director    [25]
+--------------------------------------------------------------------------------
+So from my perspective, I think that's something that we're still in discussions with the Evotec team. And -- but we know that these cells are very, very cost effective to produce, which has been an issue with a number of other cell producers. And Dr. Dohrmann, you may want to comment on -- any other comments that you might have around that?
+
+--------------------------------------------------------------------------------
+Cord Dohrmann,  Evotec SE - Chief Scientific Officer & Member of Management Board    [26]
+--------------------------------------------------------------------------------
+No, I don't have anything to add to that. Once again, that the only comment is here that we basically develop the protocols keeping especially cost of goods in mind for the future, the ease of larger-scale manufacturing and the components you need for that. And we also firmly believe that there will be further improvements possible. So at this point in time, I would say there's no -- we don't have a clear number in mind. But I think we are very well aware of the fact that this will be a factor and are addressing this early on.
+
+--------------------------------------------------------------------------------
+Operator    [27]
+--------------------------------------------------------------------------------
+Our next question is from Natalia Webster with RBC.
+
+--------------------------------------------------------------------------------
+Natalia Webster,  RBC Capital Markets, Research Division - Associate    [28]
+--------------------------------------------------------------------------------
+My question is on the immune protection technology to protect non-modified beta cells. I was wondering what exactly the process and time line to validate this will be? And if there's a plan B for dealing with an immune response, if this doesn't work.
+
+--------------------------------------------------------------------------------
+Philip M. Toleikis,  Sernova Corp. - President, CEO & Director    [29]
+--------------------------------------------------------------------------------
+Yes. Thank you for that question. So as I had mentioned before, we're working with the University of Miami on a technology that is called conformal coating. This is something that has developed over a 12-year period. And it's been proven to be able to provide immune protection in cells and (inaudible) combine that technology [to put cells] in the Cell Pouch. 
+And (inaudible) going forward, it will take approximately a year. And then we're hoping to, from that perspective, start to move things into the clinic. And we have already shown again that, importantly, the kinetics of insulin and glucose moving across that membrane is normal, which is what you need to have good control of blood sugar levels. 
+And we're working on optimization of those -- of the conformal coating with the cells and dosing, et cetera, in our collaboration right now. And obviously, this is -- the immune protection without the antirejection medications is something that is extremely important to patients. And this is something that we're focusing on completing as quickly as we possibly can to get this into clinic.
+
+--------------------------------------------------------------------------------
+Operator    [30]
+--------------------------------------------------------------------------------
+Our next question is from Christian Ehmann with Warburg Research.
+
+--------------------------------------------------------------------------------
+Christian Ehmann,  Warburg Research GmbH - Analyst    [31]
+--------------------------------------------------------------------------------
+So my question goes a little bit into the same direction as my colleagues before. So have you -- do you have any early-stage data on the durability of the activity of the cells? So do you know how long they are active in this implant, and if not -- if it does not prolong very much, how would you be able to then reload, if you will, the implant if need be?
+
+--------------------------------------------------------------------------------
+Philip M. Toleikis,  Sernova Corp. - President, CEO & Director    [32]
+--------------------------------------------------------------------------------
+Yes. So the exciting thing here is that we do have data with the human donor islets and in our clinical trial. And currently, our longest-standing patient has been insulin independent with the combination therapy for 25 months at this point in time. So we know the Cell Pouch is very, very durable in terms of long-lasting production of insulin into the bloodstream. And, important for medical devices, we are not seeing the fibrotic reactions that others have seen in this field. 
+So with respect to the cells, and I can just briefly mention something that we've shown, we have already seen from Dr. Dohrmann's data, which I think in preclinical studies is the longest-standing preclinical studies that I've seen in this field, and we're seeing consistent insulin independence in the preclinical models for a year at this point in time. So I see the combination of our technology as having the potential to be long lasting in the patients and proven by the fact that Sernova already has data for 2 years in this first individual patient. 
+The other point that you had made is if the patient does need to get new cells, very importantly, our Cell Pouch is retrievable. We believe by putting the device deep under the skin rather than in the intraperitoneal cavity, it's a very, very safe environment, and the device is retrievable. If necessary, we can put new devices in after whatever number of years we need, and then we can reload those devices with new therapeutic cells. And the fact that we're using this unlimited iPSC [cell] technology enables us to be able to have a consistent product that can go into patients at any point in time.
+
+--------------------------------------------------------------------------------
+Operator    [33]
+--------------------------------------------------------------------------------
+There are no further questions at this time. I would like to turn the floor back over to Dr. Philip Toleikis for any closing comments.
+
+--------------------------------------------------------------------------------
+Philip M. Toleikis,  Sernova Corp. - President, CEO & Director    [34]
+--------------------------------------------------------------------------------
+So I'd like to thank everyone for coming to the conference call today. And I would especially like to thank Dr. Dohrmann. We are very, very excited to be working with the Evotec team, and we obviously have already established a fantastic relationship with them, not only on the development side, but also on the business side and management teams. So we just want to thank everybody for this. 
+And the most important thing that I want to do is just have everyone imagine for a moment of what this collaboration could look like in the long term. And if you -- I'm sure that everyone out there knows people who have diabetes and the suffering that they do on a daily basis.
+And when I look at our patient that has been insulin independent for 2 years now, it is being able to provide a functional cure to patients and have them be able to come back to being just feeling normal again. And there's nothing better in the world that can happen with that. So I'm really excited, not only from the business side and the science side, but also from the patient side, to be working together with Evotec to create this functional care.
+
+--------------------------------------------------------------------------------
+Operator    [35]
+--------------------------------------------------------------------------------
+Thank you. This concludes today's conference. You may disconnect your lines at this time. Thank you for your participation.
+
+
+
+
+
+
+
+--------------------------------------------------------------------------------
+Definitions
+--------------------------------------------------------------------------------
+PRELIMINARY TRANSCRIPT: "Preliminary Transcript" indicates that the 
+Transcript has been published in near real-time by an experienced 
+professional transcriber.  While the Preliminary Transcript is highly 
+accurate, it has not been edited to ensure the entire transcription 
+represents a verbatim report of the call.
+
+EDITED TRANSCRIPT: "Edited Transcript" indicates that a team of professional 
+editors have listened to the event a second time to confirm that the 
+content of the call has been transcribed accurately and in full.
+
+--------------------------------------------------------------------------------
+Disclaimer
+--------------------------------------------------------------------------------
+Refinitiv reserves the right to make changes to documents, content, or other 
+information on this web site without obligation to notify any person of 
+such changes.
+
+In the conference calls upon which Event Transcripts are based, companies 
+may make projections or other forward-looking statements regarding a variety 
+of items. Such forward-looking statements are based upon current 
+expectations and involve risks and uncertainties. Actual results may differ 
+materially from those stated in any forward-looking statement based on a 
+number of important factors and risks, which are more specifically 
+identified in the companies' most recent SEC filings. Although the companies 
+may indicate and believe that the assumptions underlying the forward-looking 
+statements are reasonable, any of the assumptions could prove inaccurate or 
+incorrect and, therefore, there can be no assurance that the results 
+contemplated in the forward-looking statements will be realized.
+
+THE INFORMATION CONTAINED IN EVENT TRANSCRIPTS IS A TEXTUAL REPRESENTATION
+OF THE APPLICABLE COMPANY'S CONFERENCE CALL AND WHILE EFFORTS ARE MADE TO
+PROVIDE AN ACCURATE TRANSCRIPTION, THERE MAY BE MATERIAL ERRORS, OMISSIONS,
+OR INACCURACIES IN THE REPORTING OF THE SUBSTANCE OF THE CONFERENCE CALLS.
+IN NO WAY DOES REFINITIV OR THE APPLICABLE COMPANY ASSUME ANY RESPONSIBILITY FOR ANY INVESTMENT OR OTHER
+DECISIONS MADE BASED UPON THE INFORMATION PROVIDED ON THIS WEB SITE OR IN
+ANY EVENT TRANSCRIPT. USERS ARE ADVISED TO REVIEW THE APPLICABLE COMPANY'S
+CONFERENCE CALL ITSELF AND THE APPLICABLE COMPANY'S SEC FILINGS BEFORE
+MAKING ANY INVESTMENT OR OTHER DECISIONS.
+--------------------------------------------------------------------------------
+Copyright 2023 Refinitiv. All Rights Reserved.
+--------------------------------------------------------------------------------

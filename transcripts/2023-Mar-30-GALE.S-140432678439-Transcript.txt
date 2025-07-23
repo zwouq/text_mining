@@ -1,0 +1,781 @@
+
+
+Refinitiv StreetEvents Event Transcript
+E D I T E D   V E R S I O N
+
+Galenica AG M&amp;A Call
+MARCH 30, 2023 / 12:00PM GMT
+
+================================================================================
+Corporate Participants
+================================================================================
+
+ * Felix Burkhard
+   Galenica AG - CFO & Head of IR
+ * Stefan Feltens
+   Shop Apotheke Europe N.V. - Chairman of the Managing Board & CEO
+ * Jasper F. P. Eenhorst
+   Shop Apotheke Europe N.V. - CFO & Member of Management Board
+ * Marc Werner
+   Galenica AG - CEO
+ * André Lüscher
+    - 
+ * Unidentified Company Representative
+    - 
+
+================================================================================
+Conference Call Participiants
+================================================================================
+
+ * Dominik Feldges
+    - 
+ * Olivier Calvet
+   Crédit Suisse AG, Research Division - Research Analyst
+ * Unidentified Analyst
+    - 
+ * Anja Pomrehn
+   Mirabaud Securities Limited, Research Division - Analyst
+ * Urs Kunz
+   Research Partners AG - Senior Analyst
+ * Christopher Johnen
+   HSBC, Research Division - Equity Research Analyst
+ * Alexander Thiel
+   Jefferies LLC, Research Division - Equity Analyst
+ * Jan Koch
+   Deutsche Bank AG, Research Division - Research Analyst
+ * Miro Zuzak
+   JMS Invest AG - Investment Professional
+ * Sven Sauer
+   Kepler Cheuvreux, Research Division - Equity Research Analyst
+ * Maja Pataki
+   Kepler Cheuvreux, Research Division - Head of Med Tech Devices Sector
+
+================================================================================
+Presentation
+--------------------------------------------------------------------------------
+Operator    [1]
+--------------------------------------------------------------------------------
+Dear, ladies and gentlemen, this is your webcast operator Welcome to the live webcast on the partnership between Galenica and Shop Apotheke Europe. 
+(Operator Instructions) 
+Your presenters today are Stefan Feltens, CEO of Shop Apotheke Europe; Marc Werner, CEO of Galenica; Andre Luscher CEO of Mediservice; Felix Burkhard, CFO of Galenica; and Jasper Eenhorst, CFO of Shop Apotheke Europe. Now I hand over to Stefan Feltens.
+
+--------------------------------------------------------------------------------
+Stefan Feltens,  Shop Apotheke Europe N.V. - Chairman of the Managing Board & CEO    [2]
+--------------------------------------------------------------------------------
+Well, thank you, and a warm welcome to everybody joining us here in the room in Zurich. And of course, those of you who are following us remotely. Today, we have the great pleasure to inform you about a truly strategic partnership between Galenica and Shop Apotheke Europe to create a truly unique partnership through a joint venture by forming the leading online pharmacy in Germany. 
+The agenda will be as follows: Marc and I were going to start with a short introduction of the 2 parent companies because we assume that not everybody is familiar with Shop Apotheke Europe and not everybody is familiar with Galenica. Then Andre is going to share with you what MediService, which is at the core of this joint venture that we're going to talk about, is all about. And the presentation will be concluded by Felix and by Jasper to share some more details about the transaction that we are proposing and of course, also to talk about the outlook for each parent company for the current year. 
+By the way, everything that we're going to share with you is, of course, still subject to clearance by the relevant antitrust authorities. So why are we here today? And why are we talking to you from Zurich? Galenica and Shop Apotheke Europe will set up a joint venture to create an online pharmacy in Switzerland, which will exclusively focus on B2C, meaning exclusively focused on the end consumer. The joint venture will be a real B2C powerhouse with sales of around CHF 0.5 billion, and the conversion to euros is pretty easy right now, also EUR 0.5 billion. So how are we going to do this? What is this joint venture actually going to entail? 
+Galenica and Shop Apotheke are going to combine the activities of MediService, and again, more about MediService from Andre in a few minutes. And Shop Apotheke's current business with customers in Switzerland, in a single company, the joint venture. MediService is the leading specialty pharmacy in Switzerland, leading by a wide margin, mailing prescription medications and providing additional crucial services to patients across Switzerland with an emphasis on chronic, on serious and complex disease states. 
+Shop Apotheke started its business in Switzerland under the domain shopapotheke.ch in 2018. And over the last couple of years, we have multiplied our business in Switzerland. Of course, our aim was and is to be the leading pharmacy platform in Switzerland. Bring together MediService and Shop Apotheke complements each partner's strength very, very well, and this will result in a more comprehensive range of products and a more comprehensive range of services that the combined entity will be able to provide to its customers right here in Switzerland. Or in other words, the combined entity will be in a position to provide to offer a much more compelling value proposition to its customer. 
+Well, to be a little bit more specific, what does it actually mean to -- that the 2 partners complement each other very well. And we are now already at the core of the deal of the rationale for this transaction. MediService is going to benefit from Shop Apotheke's proficiency in e-commerce and its expertise in digitizing parts of the customer value proposition. Shop Apotheke is going to benefit from accessing the wide range of Swiss products through Galenica. 
+And on top of this, we are convinced that we -- that the combined entity, the joint venture will succeed in convincing a part of Shop Apotheke's sizable current customer base here in Switzerland to try and to benefit from Mediservice's offerings as well. So again, benefiting -- MediService benefiting from the e-commerce expertise of Shop Apotheke, Shop Apotheke benefiting from the product assortment that is available through Galenica. And on top of this, we intend to convert some customers a part of Shop Apotheke's customer base to become customers of MediService. So how is this deal actually going to be executed? 
+I'm not going to walk you through the details of this right now because Felix is going to do this in a few minutes. And with this, I'll hand over to Marc to share an overview of Galenica.
+
+--------------------------------------------------------------------------------
+Marc Werner,  Galenica AG - CEO    [3]
+--------------------------------------------------------------------------------
+Thank you, Stefan. Good afternoon, ladies and gentlemen, also from my side. I would also like to welcome you to this today's conference here in the room. And of course, all the people who are joining us online. I'm very proud and grateful to be here today, together with our partner from Shop Apotheke Europe. Why is that? Because we are -- we have reached a milestone in our omnichannel strategy. Because we are further improving the customer experience and will meet different needs of customers and patients even better in the future. And third, because it creates added value -- sustainable added value for both the Swiss health care market and for our companies. 
+In other words, for our customers and partners as well as for our employees and for our shareholders. Before I talk about the new joint venture, I would like to briefly introduce the Galenica Group, especially for those who don't know us very well yet. 
+The Galenica Group stands for a network that unites the strongest partner in the Swiss health care market. Our network unites 21 companies and around 370 pharmacies in Switzerland. Together, we offer solutions, both for B2C customers, meaning consumers and patients and for B2B customers, meaning for the wide range of health care professionals. Galenica is a Swiss company founded in 1927, by pharmacists for pharmacists. And today, we still generate almost 100% of our value in Switzerland. 
+In the Galenica network, we are over 7,600 employees from around 80 different nations. In 2022, we exceeded the CHF 4 billion sales mark for the first time and generated an EBIT of over CHF 200 million. The fact that we are developing successfully on a sustainable basis is also reflected in our share price. It has risen by more than 75% since our IPO in 2017. The pharmacies are the heart of our organization. We are privileged to operate around 370 of our own pharmacies, our own formats, Amavita and Sun Store as well as a joint venture with Coop Vitality, which we have been running successfully for over 20 years, together with scope, the largest retailer in Switzerland. 
+So we are very experienced joint venture partners. Together with independent partners, our network comprises over 500 pharmacies making it the strongest in Switzerland. The classic range of online and local pharmacies is complemented by a strongly growing part of health, advisory and care services, both for customer in the pharmacy and for patients at home, especially in the Home Care business, which is an attractive and fast-growing market in Switzerland. We are excellently positioned with MediService, with offers of personal care, physical or digital and with the delivery of prescription drugs to patients' home. 
+Here, we are fulfilling a major need of an increasing number of patients. Furthermore, we are a strong partner for professionals such as independent pharmacies, doctors, hospitals, nursing homes, the pharmaceutical industry and also health insurers. We are network with all the players in the industry health care market and we actively helped them to network with each other, especially through our digital solutions. Finally, our logistics services for professionals, our own nonpharma and OTC product and distribution partnerships for anyone who wants to sell products through pharmacies. All this together makes Galenica the leading fully integrated health care provider in Switzerland. This is our strategy, explained on one single slide. The Galenica story is the common basis for all our businesses. 
+Driven by our vision and values, we want to fulfill our customer promise better and better every day. To implement our strategy, we have defined 5 strategic programs. They help us to realize our activities and focus the way and with the right priorities. The new joint venture with Shop Apotheke Europe, in particular, will significantly boost our omnichannel strategy and will certainly also contribute to the further development of our care program. 
+The joint venture with Shop Apotheke Europe is a milestone in our omnichannel strategy. Omnichannel strategy means, on the one hand, that we are expanding our existing web shops and that they are continuously and more and more fluidly interconnecting our local pharmacies with the online business. And now we are also making a quantum leap in the pure online business. In terms of digital platforms, the product range and by merging the offerings of shopapotheke.ch and MediService. All this adds up to the most important thing of all, an even better, more attractive customer experience. From Galenica, we bring in MediService, the leading specialty pharmacy in Switzerland with a focus on the mail order of prescription drugs and home care for chronically ill patients. 
+Now we are combining the business in shopapotheke.ch, a pure online pharmacy that is growing strongly in Switzerland. Our strategy partnership is based on 2 complementary and strong companies that are leaders in their respective field. And the fact that MediService in shopapotheke.ch complement each other perfectly. Together, we will become the leading pure online pharmacy in Switzerland in one go. 
+And this will benefit first and for most the customers. In the new online pharmacy, they will find a combined and does even more attractive range with health and beauty products and prescription medicines as well as health services. And this will benefit our companies, our employees and our shareholders as well because we are convinced that in the medium term, together with Shop Apotheke Europe, we will be better positioned in the pure online business than as a purely Swiss online. And we are also convinced that with the partnership in the pure online business, we will go faster and stronger together than if we tackle this as Galenica alone. 
+I would like to make a final comment on our minority stake in Shop Apotheke Europe. It is an important part of our strategic partnership. It strengthens our common strategic direction, and it underpins our shared mission. We are convinced that our joint venture will significantly strengthen the development potential of both Galenica and Shop Apotheke Europe, an increase in value from Galenica and its shareholders can also benefit. And with the investment in Shop Apotheke Europe, Galenica and our shareholders will also be able to benefit from the international growth potential that Shop Apotheke Europe offers. 
+I said it at the beginning, I'm proud and great fun to be here today. We have reached a milestone in our omnichannel strategy. We are improving the customer experience, and we are creating sustainable added value. With that summary, I'm glad to get back to you, Stefan.
+
+--------------------------------------------------------------------------------
+Stefan Feltens,  Shop Apotheke Europe N.V. - Chairman of the Managing Board & CEO    [4]
+--------------------------------------------------------------------------------
+Thank you, Marc. Well, after the overview of Galenica, a couple of words about Shop Apotheke. What is Shop Apotheke today? We are a leading -- and we say we are -- we dare to say we are the leading online pharmacy in Europe. We are currently active in 7 markets or 7 countries in Europe, and we have market leadership positions in Germany which is, of course, the largest pharmacy market in Germany and also the largest market for Shop Apotheke. We have a leadership position in Belgium and we have a leadership position in Austria. Needless to say, our ambition is to have a leadership position in every single market in which we operate today. 
+And Marc, a minute ago was referring to the quantum leap that Galenica is taking, we are taking a quantum leap as well. And honestly, I say this with -- out of the bottom of my heart, we couldn't have found a better partner to do this together in Switzerland. So just a couple of words about these -- the 3 countries where we have the leadership position already in Germany, shopapotheke.com is, by a significant margin, the largest pharmacy brand in Germany. In the second half of '22, shopapotheke.com was not just the most frequently visited pharmacy website that probably wouldn't be a surprise. But shopapotheke.com was the most frequently visited health care-related website in all of Germany. 
+In Belgium, a market with a population of around 12 million people. We have come from a couple of years ago. We were a distant #2 in the pharmacy space, and we are now the clear, the undisputed market leader with a significant and a growing margin. In Austria, Shop Apotheke is also the clear market leader with an even wider margin than in Belgium. Well, Shop Apotheke in a nutshell. We are a full-fledged pharmacy in the markets in which we operate. We cover prescription pharmaceuticals in the markets where the mail order of prescription pharmaceuticals is permitted. 
+We cover OTC medications, and we cover other pharmacy-related products. I already talked about the 7 countries in which we operate today. And we are approaching an active customer base of around 10 million. It's just a question of time when in '23, we're actually going to surpass the 10 million active customer mark. Just for those of you that are not familiar with the term active customer and active customer is a customer that over the preceding 12 months has placed at least 1 order with Shop Apotheke. We're also very, very proud of our NPS, our Net Promoter Score, which has been above 70% for quite some time now. 
+The NPS is one of the most important KPIs of Shop Apotheke. It's closely monitored. It's closely managed, and it's a reflection of our emphasis on the customer and customer centricity. All this is made possible by a team of over 2,000 individuals spread across 9 locations in Europe, our biggest location, and that's also where our pharmacy is located, where the vast majority of -- or the biggest part of our distribution capacity is located. 
+It's in Sevenum, near the city of Venlo in the south of the Netherlands. Last year, we generated sales of around EUR 1.2 billion, and we are confident, we are convinced that there is substantial growth, additional growth ahead of us. We don't talk too much about our share price normally, but just looking back at the IPO in 2016, at the time, investing in Shop Apotheke probably wouldn't have been a bad choice. We all acknowledge there have been ups and downs, but we are all convinced that there is significant upside potential in the future. 
+So just to illustrate, I don't need to say too much about this. I talked about substantial growth. I talked about the 10 million customer mark that we want to attain in the very near future. Last year, we ended with 9.3 million active customers. You see continuous and substantial growth since 2015. So at Shop Apotheke, what is our mission? We are really proud and we consider it a privilege to be able to partake in the health care realm, we are driven by making -- by helping our patients to improve their health or as we say here, again, that's on the top of our agenda, all the time, we enable everyone to live the healthiest life possible. 
+We want to make a meaningful contribution to our customers and our patients' health. Shop Apotheke started many years ago, basically as a pharmacy web shop or a pure online retailer, but since then, we have developed Shop Apotheke much further. Today, we can say with confidence that we are Europe's leading customer-centric e-pharmacy platform. Well, that's a mouthful. What does it mean to be leading customer-centric e-pharmacy platform? We try to illustrate this a little bit at the core here, the big bubble. 
+This is our pharmacy. We are a pharmacy today. We think we are a pretty good pharmacy today, and we want to become an even better pharmacy in the future. Around the core, this pharmacy, we have built a variety of additional offerings of additional services to further improve the customer journey of our customers, and again, to make it easier for them to improve their health. Just a couple of highlights, the marketplace. We launched our marketplace. The first 2 steps were taken a little bit more than a year ago in Germany, a little bit less than half a year in Austria. 
+Of course, we are already in 7 markets today. We're not going to stop with our marketplace in Austria. We offer a variety of delivery options for our customers. And on top of this, a couple of years ago, we acquired a sophisticated digital medication management capabilities through Smartpatient, especially the delivery options. You see here same-day delivery through our NOW! program. 
+You see GoPuls, which is a quick commerce specialist that we acquired a year ago and also our medication management, they will yield benefits especially in the contract of the introduction of electronic prescriptions in our biggest market in Germany. So all of these components, they make up our e-pharmacy platform with a solid pharmacy at (inaudible). Shifting gears just for a moment and just a little bit, we are -- as Shop Apotheke, we are fully committed to decarbonizing our business model. 
+And this is not something we say because that sounds good in investor talks. We are really committed to this. Last September, we publicly stated that Shop Apotheke will become net zero by 2040. You can say 2040, that's a long way to go, but we have and we will continue to establish hard milestones, and we will monitor them. Just to give you one example, in 2020, we set the milestone to reduce our Scope 1 and Scope 2 carbon emissions by 80% by the end of 2025.
+We actually achieved this 3 years ahead of the milestone that we have set for ourselves. But again, there is still a lot of work ahead for us, but I think we are on a good way. Just last week, MSEA upgraded Shop Apotheke's ESG rating from AA to AAA. I can assure you this -- the ratings are not a driver, are not a motivation for Shop Apotheke to do this. We have -- we fully -- we think this is the right thing to do to decarbonize our business. But at the same time, admittedly, it's nice to see that our efforts are recognized by third parties as well. 
+Well, that's what I wanted to share with you about Shop  Apotheke. And now we come to one key component of the joint venture that we are talking to you today. Andre is going to talk about MediService.
+
+--------------------------------------------------------------------------------
+Unidentified Company Representative,   -     [5]
+--------------------------------------------------------------------------------
+Thank you very much, Stefan. So it's my great pleasure to introduce MediService to you, dear shareholders. MediService is today the leading specialty pharmacy in Switzerland and was founded 25 years ago. As a B2C mail order pharmacy, we are solidly focusing on delivering medicines to patients with chronic illnesses with a strong focus on patient with prescriptions for specialty medicines or with the need for home care services. Our core business is pharma care with the direct-to-patient delivery of medicines, including e-medication, with currently about 20% of e-prescriptions. 
+1/3 of our patients are using our web-based mobile customer account. With our Home Care team, we offer in addition to the delivered medicines, high-quality support programs for our patients at home. Our nurses or ICU or anesthesia-trained and emergency certified and work in very close collaboration with physicians and hospitals. With distant care, we offer besides telepharmacy, health care services beyond medication for our patients, including educational events, poly medication and pharmacogenetics, telephone or video support as well as electronic and digital services with partners for disease areas like diabetes, hypertension, blood pressure or COPD. 
+With our professional, highly qualified pharmacy and Home Care teams, we offer customized services for patients such as therapy instructions, counseling and monitoring, patient information, training and education, including for their health care professionals as well as access to further support for medication. The goal of our service portfolio is, first, to enhance patient adherence and to improve medical and health outcomes. Second, to empower patients and help them to discharge into independence. A few key figures. We are leading in terms of net sales. 
+In 2022, we increased our year-on-year sales growth in the area of rare diseases by 12.9%. We process each day 700 to 1,000 parcels for patients. We are active in our 60 specialty indications, especially in therapeutic areas like neurology, where we focus on indications like multiple sclerosis, Morbus Crohn or in immunology in indications like rheumatoid arthritis, psoriasis arthritis or rare diseases where we focus on cystic fibrosis or pulmonary artery hypertensions as well as, of course, in oncology and hematology. 
+In specialty, we have over 100 corporation with pharma partners. We are constantly expanding our services moving from a highly specialized and qualified mail order pharmacy to a distance health care provider for chronic diseases. By offering high-quality patient engagement activities together with our very comprehensive partner network, being physicians other health care professionals and health care stakeholders, such as health insurances, pharma, biotech, start-ups or universities. We have a very high customer satisfaction score of 9.3 out of 10 and therefore, a high customer loyalty, generating recurring sales. 
+We care and accompany our patients so they can stay healthy at home. With our new strategic partnership, we have a strong basis to offer customers a better online experience, more comprehensive online offerings and a seamless buying journey. Our ambition is to accelerate our growth based on synergies, the complementarity of the businesses and by creating together future growth opportunities to be the uncontested #1 online pharmacy in Switzerland. With this, I'm glad to hand over to Felix.
+
+--------------------------------------------------------------------------------
+Felix Burkhard,  Galenica AG - CFO & Head of IR    [6]
+--------------------------------------------------------------------------------
+Thank you, Andre. Dear ladies and gentlemen, the strategic partnership with Shop Apotheke is a milestone in the history of the Galenica Group. I'm very pleased to present the planned implementation of this partnership and joint venture. The transaction is subject to the approval of the competition authorities in Switzerland and Austria. 
+We expect to receive these approvals before midyear and we'll close the transaction directly after receiving them. Now what exactly will we close? In the first step, MediService will take over Shop Apotheke Swiss business, the web shop shopapotheke.ch. Galenica will then sell 51% of the shares of MediService to Shop Apotheke. The joint venture will then be established. In return, Galenica will receive 1.2 million shares of Shop Apotheke from a capital increase, which corresponds to a shareholding of 6%. 
+At the average share price, from 1st to 28 March of EUR 72. This participation has a value of EUR 86 million. This is the consideration for the net transaction value of the joint venture, corresponding to 51% of MediService, minus 49% of Shop Apotheke Swiss business. The additional capital increase of 2% will also be completed at this average share price of EUR 72. Galenica will pay EUR 29 million for around 400,000 Shop Apotheke shares. Following this transaction, Shop Apotheke will hold 51% and Galenica 49% of the joint venture, and Galenica will hold an 8% stake in Shop  Apotheke. Operationally, the joint venture will continue to run the MediService business with the delivery of prescription medicines and home care services from its location in Zuchwil in the canton of Solothurn. For the shopapotheke.ch web shop, the joint venture will mandate the Shop Apotheke Europe in Sevenum in the Netherlands to operationally execute this business with Swiss customers with the non-medication product range on its behalf. 
+The profit from these sales will then be credited to the joint venture. One key condition for a successful joint venture are 2 fully committed partners. In this context, it is important to emphasize that the joint venture will not only simply be a minority participation of Galenica. No. We will consider it as a fully integrated part of the Galenica Group, and work together accordingly. Finally, in addition to the 49% stake in the joint venture, we have another 4% interest in the joint venture. Through the 8% participation in Shop Apotheke, 8% or 51% equals 4%, in total, 53%. 51% from Shop Apotheke, 53% from Galenica, together, 104% commitment for our customers for the joint venture. 
+This 104% commitment is the best foundation for the future success of our common joint venture and the basis for true win-win partnership between Shop Apotheke and Galenica. How does this strategic partnership and joint venture influence Galenica's guidance for 2023? After implementation of the joint venture, Galenica will deconsolidate MediService, and includes the new joint venture in the consolidated financial statement at equity with 49%. Against this background, Galenica will adjust the income statement for the comparative period 2022 accordingly and make a restatement. 
+MediService will be reported separately as discontinued operations. This will reduce consolidated sales by 11% to CHF 3.6 billion in 2022 and adjusted EBIT by 5% to CHF 191 million. This reporting of MediService on the discontinued operations will also be applied in 2023 until the closing of the transaction. After completion, the joint venture will be included in the consolidated financial statements at equity. This means that 49% of the net profit of the joint venture will then be reported as income from associates. 
+Assuming implementation of the joint venture at the beginning of June 2023, Galenica expects the following development for the 2023 financial year based on the restated 2022 figures. Growth in consolidated sales of between 3% and 6% and an adjusted EBIT of 4% to 7%. Based on the unadjusted prior year figures for 2022, without restatement, with this outlook, adjusted EBIT would be expected roughly at the previous year's level despite an expected decline in sales of 9% to 6%. The outlook for the 2023 dividend remains unchanged at least at prior year's level. 
+We are totally convinced that the strategic partnership with Shop Apotheke and the joint venture will significantly strengthen Galenica and bring great potential for future value creation and will also have a positive impact on results in the medium term. Thank you for your attention. And with that, I hand over to Jasper.
+
+--------------------------------------------------------------------------------
+Jasper F. P. Eenhorst,  Shop Apotheke Europe N.V. - CFO & Member of Management Board    [7]
+--------------------------------------------------------------------------------
+So thank you very much, and welcome to everybody from my side also. I feel really grateful to be here today with Marc and Felix and Andre and Stefan, but also all the teams behind it to be able to explain you this exciting and promising cooperation, which is reflected in the intended transaction as we explained to you today. In my slides, I want to give as much clarity as possible in the direct financial impact intended to give full clarity on what's happening after the transaction. 
+Today, we, as Shop Apotheke Europe NV have in total 18.4 million shares outstanding. Upon closing of the transaction, that would increase to 20 million shares outstanding. The first increase of 1.2 million shares, that is the price that we pay for the transaction Shop Apotheke to Galenica. So what you see at the moment is that MediService business in Switzerland is a multiple of the current business of Shop Apotheke in Switzerland. And of course, we took into account the future expectations. And in total, we got to the net value, which we pay for by 1.2 million shares. 
+In addition to that, however, Galenica also expressed the wish that they even would like to further increase the share in Shop Apotheke and this, we appreciate it a lot. And the price that we predetermined for the additional shares is exactly the market price. So upfront, we decided we take the volume weighted average price of the 20 days before signing and that EUR 72. So normally, at Shop Apotheke, we don't like to issue additional new shares. But in this case, also the additional 0.4 million shares really led to a perfect transaction and totally, we would have done 20 million shares, and we would have welcomed our new partner, our experienced and trusted partner, Galenica as a shareholder of 8% post transaction. 
+As to the reporting of Shop Apotheke post transaction, in accordance to IFRS 10, which is the guidance in IFRS on consolidated financial statements, we will consolidate MediService again in our financial numbers. And to give an indication of what that impact could be, and I'm only talking about the direct impact. So of course, the reason to cooperate is the cross-fertilization. It's benefiting from each other's expertise and knowledge and portfolios that we have, but only the direct impact of MediService is an expected EUR 450 million or Swiss francs, which is the same today at the margin of 2% to 3%. 
+And in the definition of Shop Apotheke, all sales or to be precise, 99.5% of these sales are prescription sales. So if the closing would take place, we intend in the first half of 2023, but let's say, if we succeed to close it in May, that would mean that pro rato, there is approximately an increase of the sales of Shop Apotheke as we reported of between CHF 270 million and CHF 300 million of sales at a margin of 2% to 3% to CHF 5 million to CHF 10 million EBITDA. In addition, because of the additional shares, Shop Apotheke will receive EUR 29 million of cash. 
+What does this mean for our guidance? Only 3 weeks ago, Shop Apotheke, we released our guidance on March 7 and we did it with a lot of confidence and we can reiterate that we have the confidence in our guidance. And on that, not a lot is changing. I can reconfirm that in all its elements. And to repeat, our non-Rx sales at Shop Apotheke last year, EUR 1.1 billion of in total EUR 1.2 billion, so more than 90% of our sales. So everything better rates, we expect also this year to continue our double-digit growth towards in a range, a midpoint of 15%. 
+In addition to that, we guide for a midpoint on the adjusted EBITDA margin of 1.5% and a black 0 in free cash flow. And what we also stated this is excluding a potential search, so a fast increase that could happen in Germany because of the national rollout of eRX that's uncertain for us to give guidance on for the year 2023. Our mid- to longer-term guidance is an adjusted EBITDA margin in excess of 8%. So following the close of the transaction, of course, our non-Rx sales will not be impacted by this, but our total sales will significantly increase. 
+So that could be by an estimated CHF 270 million to CHF 300 million in the year 2023. And also the adjusted EBITDA will benefit by CHF 5 million to CHF 10 million if closing takes place around May. And because it's a capital-light operations because it's online, this is also before the fluctuations in working capital quite close to what the free cash flow impact would be. But after the transaction, we will get back to you to reconfirm exactly what we're stating here or to perhaps update what we are stating here. But having said that, I want to reiterate that our guidance also including the mid- to longer-term adjusted EBITDA guidance, that will not change. 
+If there's any impact, it will be a positive impact in the current year. So thanks a lot for your attention. And with that, I would like to hand over to Stefan.
+
+--------------------------------------------------------------------------------
+Stefan Feltens,  Shop Apotheke Europe N.V. - Chairman of the Managing Board & CEO    [8]
+--------------------------------------------------------------------------------
+Well, thank you, Jasper. I hope that Marc and Felix and Andre and Jasper and I, that we succeeded to convey at least some of the excitement that we feel about the potential of this joint venture between Galenica and Shop Apotheke to you as well. With this strategic partnership, we are going to create a real B2C, business-to-consumer powerhouse in the Swiss pharmacy space. 
+We're combining 2 strong companies, not 2 struggling companies, 2 strong companies with Mediservice's unsurpassed specialty pharmacy expertise. We were very impressed when we took a closer look at MediService and Shop Apotheke's, I dare to say, top-notch e-commerce proficiency. We're going to end up the combined entity, the joint venture is going to end up with a better customer proposition. And this is the result at the justification for our existence. We need to offer something better to our customers. 
+In a first step, we'll be able to offer a broader range of products in the e-commerce context, the breadth of your portfolio, the choice is a key driver for customer satisfaction and retention and we're going to offer even more compelling and more outstanding services to our customer base. 
+And last not least, MediService has a very appealing value proposition today, and we are confident that we will succeed in convincing a part -- at least a part of Shop Apotheke's current, substantial Swiss customer base to become MediService customers as well. Well, this concludes the presentation that we wanted to share with you about the strategic partnership between Shop Apotheke and Galenica. Again, I'm repeating once again what Marc mentioned earlier. We are convinced this is a quantum leap for both parties. We're going to now open the floor to questions. 
+Operator, we're going to start with questions from the attendees here in the room, and then we're going to switch to questions from the online participants.
+
+
+================================================================================
+Questions and Answers
+--------------------------------------------------------------------------------
+Operator    [1]
+--------------------------------------------------------------------------------
+Ladies and gentlemen, this is your webcast operator. We will now begin the Q&A session. 
+(Operator Instructions)
+
+--------------------------------------------------------------------------------
+Anja Pomrehn,  Mirabaud Securities Limited, Research Division - Analyst    [2]
+--------------------------------------------------------------------------------
+Yes. Anja Pomrehn, Mirabaud Securities. I have one question for each company and one for the combination for the new JV. How will -- from a Galenica point of view, how will Shop Apotheke customer, in other countries, potentially benefit from this joint venture? I mean, will there be a possibility? I know there's always a difference between our regulators, how much -- what you can sell, what kind of product you can sell to a customer.
+But is there any possibility that a customer from Shop Apotheke in European countries will benefit from the portfolio of Galenica? And could you somehow quantify how that would look like? That would be my first question. 
+My second question would be in terms of the synergies that you expect to achieve, I mean you mentioned the complementary, the online or e-commerce expertise plus a product portfolio, the expertise from Galenica but how -- what further synergies do you expect? And I'm not only talking about of customers or costs, any kind of other synergies we might expect to see? 
+And thirdly, you mentioned in one of your slides currently or at present, the distribution will look like that customers will get prescription drugs from Switzerland. While other online orders will come from the Netherlands. How would that look like in the long term?
+
+--------------------------------------------------------------------------------
+Stefan Feltens,  Shop Apotheke Europe N.V. - Chairman of the Managing Board & CEO    [3]
+--------------------------------------------------------------------------------
+Marc, please?
+
+--------------------------------------------------------------------------------
+Marc Werner,  Galenica AG - CEO    [4]
+--------------------------------------------------------------------------------
+No, then I'll start with the first one. I guess, it was some -- if I understand you right, (inaudible) Dan, how that the European customer, that means not in Switzerland an European customer from Shop Apotheke benefit from the JV. The JV is a Switzerland JV. That means we do not operate in other countries as a JV. The JV is in Switzerland for Swiss customers and not for customers outside Switzerland, if I understand you right.
+
+--------------------------------------------------------------------------------
+Anja Pomrehn,  Mirabaud Securities Limited, Research Division - Analyst    [5]
+--------------------------------------------------------------------------------
+So there would be no possibility to order something from here or that Shop Apotheke would take up some of the portfolio in other European countries?
+
+--------------------------------------------------------------------------------
+Marc Werner,  Galenica AG - CEO    [6]
+--------------------------------------------------------------------------------
+The portfolio...
+
+--------------------------------------------------------------------------------
+André Lüscher,   -     [7]
+--------------------------------------------------------------------------------
+So in terms of product, we will add Swiss products to the offering for shopapotheke.ch, and they will, from Sevenum sell these products to Swiss customers. It's not possible to sell these specific Swiss products to other European countries for the moment.
+
+--------------------------------------------------------------------------------
+Anja Pomrehn,  Mirabaud Securities Limited, Research Division - Analyst    [8]
+--------------------------------------------------------------------------------
+And in the future?
+
+--------------------------------------------------------------------------------
+André Lüscher,   -     [9]
+--------------------------------------------------------------------------------
+We'll see. But for the moment, it's clear. It's exclusively for the Swiss customers.
+
+--------------------------------------------------------------------------------
+Stefan Feltens,  Shop Apotheke Europe N.V. - Chairman of the Managing Board & CEO    [10]
+--------------------------------------------------------------------------------
+Yes. When you look at our e-pharmacy platform, our Shop Apotheke and when you look at the omni channel approach of Galenica, I would be very surprised if we didn't identify additional opportunities to learn from each other or to identify additional opportunities to collaborate. But what we are presenting to you today is the joint venture as -- with the scope that we described to you. You talked about -- or you asked about synergies, we looked closely at 2 value drivers. Number one, it's our customers getting access to the Swiss products that currently we are not offering to our Swiss customers. So that is a real upside compared to where we are today. 
+And the other value driver, you can call it the synergy that we have looked at is we have a substantial, a sizable customer base in Switzerland today and we are confident that some of these customers will also become Mediservice customers in the long term. And probably we're not talking about the long term here. These are the 2 areas that we have looked at. And we are aware, we acknowledge there are additional opportunities, but we did not quantify them. And the transaction that Jasper and Felix outlined, this was all valued at fair market value for the 2 components that we brought together. We did not have to incorporate any upside -- any synergies in order to make this work financially. This is really on top of the valuations that were the basis for the transaction.
+
+--------------------------------------------------------------------------------
+Felix Burkhard,  Galenica AG - CFO & Head of IR    [11]
+--------------------------------------------------------------------------------
+Maybe in addition, I would say Mediservice customers currently, they, of course, will -- we will note the webshop to them. So they will also profit now from this cooperation, of course. So there is another, I would say, quick win.
+
+--------------------------------------------------------------------------------
+Stefan Feltens,  Shop Apotheke Europe N.V. - Chairman of the Managing Board & CEO    [12]
+--------------------------------------------------------------------------------
+Yes. And then the last question, I don't know about the -- Jasper, you want to say something about the physical product flows with us shipping from Sevenum for the time being?
+
+--------------------------------------------------------------------------------
+Jasper F. P. Eenhorst,  Shop Apotheke Europe N.V. - CFO & Member of Management Board    [13]
+--------------------------------------------------------------------------------
+Yes. Now in the future, but let's talk about today, it's very clear that Mediservice will continue to do all the prescription medications and Shop Apotheke will continue to do what we are doing, and that's part of our pharmacy. At the moment, it's not possible to do OTC in Switzerland online. So those are the 2 flows, and they stay fully intact as they are at the moment.
+
+--------------------------------------------------------------------------------
+André Lüscher,   -     [14]
+--------------------------------------------------------------------------------
+But it will be possible in the future to sell OTCs. It will be legalized. We expect in '25, '26. And there it's clear we will have the best offering for the customers. We will be in the strongest position to benefit from this liberalization, which will arrive in Switzerland.
+
+--------------------------------------------------------------------------------
+Unidentified Analyst,   -     [15]
+--------------------------------------------------------------------------------
+Patrick (inaudible). First, a simple question. Why is the ratio of joint venture 51% to 49% or not 50% to 50%? And the second question to Galenica you will have a holding of 8% after the transaction on Shop Apotheke, is further increase in the future possible or is that out of question?
+
+--------------------------------------------------------------------------------
+André Lüscher,   -     [16]
+--------------------------------------------------------------------------------
+First question, why 51%, 49%. As I mentioned in my presentation, and I'm fully convinced that it's so important that we have 2 partners who are fully committed to this joint venture. And for us, it was very important and also for Shop Apotheke, that Shop Apotheke can consolidate the figures that they have the majority with 51% because that is, for us, a guarantee that they will 100% commit to the joint venture. That's the guarantee. And so it was important for Shop Apotheke and for us, that Shop Apotheke can consolidate.
+And for us, I said we are 49%. And for us, it was so important to have this stake in Shop Apotheke to align the interest and to also guarantee internally Galenica Group to fully commitment to the venture and to the strategic partnership. So this structure, 51% and 49% makes 100% sense for both parties.
+And the second question, what is clear, we don't want to sell these shares, these 8% shares. That's clear. It's a long term strategic participation of 8%. If perhaps we could -- if good opportunities increase due to this participation, this we haven't decided yet. We will see what the future will bring. So there, we don't position ourselves today. But it's clear we will not sell these shares.
+
+--------------------------------------------------------------------------------
+Stefan Feltens,  Shop Apotheke Europe N.V. - Chairman of the Managing Board & CEO    [17]
+--------------------------------------------------------------------------------
+And just to add, we are very, very happy as Shop Apotheke that we could gain Galenica as a shareholder in Shop Apotheke. That is -- that was also a conscious choice for us.
+
+--------------------------------------------------------------------------------
+Dominik Feldges,   -     [18]
+--------------------------------------------------------------------------------
+Dominik Feldges from Neue Zürcher Zeitung Could you tell us maybe the sales of Shop Apotheke in Switzerland have been so far. Am I right in assuming that it was rather modest? I think I've seen estimates between [CHF 20 million and CHF 30 million.] And you've mentioned right at the beginning, the value -- that you will offer a value proposition for customers in Switzerland. I mean, obviously, if you as a German interest with pharmacy, you will be -- maybe shocked by how much you pay, especially for OTC products. So will you really contribute to lower prices in the future, especially as the market gets liberalized as we've heard. 
+And third question about, what about the competition, especially maybe on part of Migros, I think, which is now obviously as a very big player now becoming active. What's your expectation there?
+
+--------------------------------------------------------------------------------
+Stefan Feltens,  Shop Apotheke Europe N.V. - Chairman of the Managing Board & CEO    [19]
+--------------------------------------------------------------------------------
+Do you want to take the first one?
+
+--------------------------------------------------------------------------------
+Jasper F. P. Eenhorst,  Shop Apotheke Europe N.V. - CFO & Member of Management Board    [20]
+--------------------------------------------------------------------------------
+Yes. No, absolutely. And I fully understand your question. And indeed, I only presented the incremental sales, which are the current Mediservice [active] sales. Yes, what we say, we prefer to not disclose exactly what shop-apotheke.ch sales are. But it is a couple of tens of millions, it is, and it is growing very fast. And the ballpark you mentioned is not very far off. Yes, so that's beneficial. I want to take a broader range of what it exactly is, yes.
+
+--------------------------------------------------------------------------------
+Dominik Feldges,   -     [21]
+--------------------------------------------------------------------------------
+The second question, can you just...
+
+--------------------------------------------------------------------------------
+Marc Werner,  Galenica AG - CEO    [22]
+--------------------------------------------------------------------------------
+The OTC pricing.
+
+--------------------------------------------------------------------------------
+Stefan Feltens,  Shop Apotheke Europe N.V. - Chairman of the Managing Board & CEO    [23]
+--------------------------------------------------------------------------------
+Okay, the OTC pricing. So when you look at the online pharmacy space, there is -- there are several components that make up our value proposition. Pricing is an important value proposition, but it's not the only value proposition. When you look at other markets, for example, Germany, with the introduction of online pharmacies in Germany for the prices for pharmacy products, including OTC medications has come down. So the consumer has indeed benefited from the presence of online pharmacies in Germany and in other markets as well. But again, this is one part of the value proposition, it's not the only one.
+
+--------------------------------------------------------------------------------
+Marc Werner,  Galenica AG - CEO    [24]
+--------------------------------------------------------------------------------
+And maybe the third one, Migros, we do not do a strategy against someone. We traded the strategy a couple of years ago, as I mentioned in my speech, and we have a clear omnichannel strategy. And what we did today or what we did in the last couple of months at Shop Apotheke is to execute the strategy. And we are even quite surprised when the media today was -- in the media it was written something about  Migros, we never thought about this. We have our strategy, and we want the best for our customers and the best for our employees and the best for our shareholders. And of course, it is -- there are significant competitors in the Swiss market. And one of them is, of course, Medbase of Migros but there are several others in the Swiss market, and then we do have  our own way.
+And Migros to be -- and Migros maybe I could mention this one. Migros has a very strong partner from Galenica since many decades and will remain a strong partner in many different areas also. And we will continue to work with Migros very closely in many different areas.
+
+--------------------------------------------------------------------------------
+Urs Kunz,  Research Partners AG - Senior Analyst    [25]
+--------------------------------------------------------------------------------
+Urs Kunz from Research Partners. I have one question, an additional question to Shop Apotheke, Switzerland, which we heard about the sales. Can you elaborate a little bit about profitability? Are you -- is it positive or still negative? And then a question to Galenica about selling this 51%, what kind of book can we expect from that?
+
+--------------------------------------------------------------------------------
+Jasper F. P. Eenhorst,  Shop Apotheke Europe N.V. - CFO & Member of Management Board    [26]
+--------------------------------------------------------------------------------
+The way how we do business at Shop Apotheke focused a lot on the B2C, the end customer, mass marketing and things like that. In every country, we always have a choice because the unit economics are very attractive, whether we want to make a profit or not based upon how fast do we want to grow or not. So because the unit economics are very attractive of the business we are in. 
+At this moment, we are also not disclosing what exactly [shop CH] is, but I guess it's not making a loss, yes. That's, I think, fair to say.
+
+--------------------------------------------------------------------------------
+André Lüscher,   -     [27]
+--------------------------------------------------------------------------------
+The second question, you said, Mr. Kunz, it's a book gain. It's really just -- it will just be an accounting gain and nothing cash because it's an exchange. We get shares and not cash for this stake we sell. That's the first point. The size of this accounting gain, we don't know, it will depend on the development of the share price of Shop Apotheke share until the closing. So it will depend on the share price at the closing date. So we don't know yet how high this book gain will be, but we don't care about it. It's an accounting gain.
+
+--------------------------------------------------------------------------------
+Stefan Feltens,  Shop Apotheke Europe N.V. - Chairman of the Managing Board & CEO    [28]
+--------------------------------------------------------------------------------
+We have one more question in the room, and then we'll switch to the online participants.
+
+--------------------------------------------------------------------------------
+Unidentified Analyst,   -     [29]
+--------------------------------------------------------------------------------
+[Fang Liu] From Credit Suisse Asset Management. First question. So regarding the synergy you could potentially achieve you talked about that before. I'm wondering is there any chance that in the future, if the liberalization of OTC will happen in Switzerland, will Shop Apotheke or this joint venture have access to your offline pharmacies that you have with the other joint ventures or the pharmacies that you own yourself? That's the first question.
+Second one is, can you give us more information about the pharma care business in Mediservice's? Because I would imagine that the economics of this business is very different from Home Care and Distance Care. So a number of employees, what is the average ticket size of your home delivery business? And what is the average revenue growth in the last 3 years?
+
+--------------------------------------------------------------------------------
+Marc Werner,  Galenica AG - CEO    [30]
+--------------------------------------------------------------------------------
+Maybe the first one, the JV is operating independently from our pharmacies. And if there are potential synergies, if there are possibilities in the future, we don't know yet. Of course, we will look at it, but the JV is operating -- is doing the business independently from our physical pharmacies.
+
+--------------------------------------------------------------------------------
+Felix Burkhard,  Galenica AG - CFO & Head of IR    [31]
+--------------------------------------------------------------------------------
+So maybe with regard to the second question. The core business is Pharma Care mail order pharmacy. So -- and all the services we deliver are linked in the end to prescription to our services for our patients. We have roughly overall 120 employees at Mediservice, but they all contribute in the end to the whole thing. 
+And your second question in this topic was with regard to the revenues of order growth over the last 3 years. I think this year, I mentioned the year-on-year growth. The year before, it was roughly...
+
+--------------------------------------------------------------------------------
+André Lüscher,   -     [32]
+--------------------------------------------------------------------------------
+MediService?
+
+--------------------------------------------------------------------------------
+Felix Burkhard,  Galenica AG - CFO & Head of IR    [33]
+--------------------------------------------------------------------------------
+Yes, it was more or less...
+
+--------------------------------------------------------------------------------
+André Lüscher,   -     [34]
+--------------------------------------------------------------------------------
+Over the last 10 years -- average growth was double digit of Mediservice over the last 10 years. That's high -- the basket is high. We have very, very high value orders, very high-value orders.
+
+--------------------------------------------------------------------------------
+Felix Burkhard,  Galenica AG - CFO & Head of IR    [35]
+--------------------------------------------------------------------------------
+Because of the specialty of the chronic disease -- patients with chronic diseases, so it's a high proportion, of course. It's not OTC basket. Not a bad estimation.
+
+--------------------------------------------------------------------------------
+André Lüscher,   -     [36]
+--------------------------------------------------------------------------------
+Maybe I add one point to Marc's question. For sure, since years, we exploit synergies between Mediservice and our pharmacies, mainly in the area of high-priced medications because they're really for the patient and for the profitability for the efficiency of the processes it makes sense that we operate, that we propose to customers to use the service of Mediservice. Other areas are home care, where we have other offerings in the group. For example, (inaudible) home care offerings and so on.
+And there, we also use synergies with Mediservice. And it's clear that we will continue to exploit these synergies because, as I mentioned, we will continue to consider this joint venture as a fully integrated part of the Galenica Group. We will continue to use these synergies and we've designed further synergies. It's clear we will also benefit from these synergies between our pharmacies, but not only our pharmacies, we have a lot of other units in the Galenica Group where we can find synergies.
+
+--------------------------------------------------------------------------------
+Operator    [37]
+--------------------------------------------------------------------------------
+The first question is from Mr. Sven Sauer of Kepler Cheuvreux.
+
+--------------------------------------------------------------------------------
+Sven Sauer,  Kepler Cheuvreux, Research Division - Equity Research Analyst    [38]
+--------------------------------------------------------------------------------
+I have one question for Shop Apotheke. You said that you are not changing your medium-term guidance of 8%. But I was wondering, the Rx sales from Switzerland that you will be getting, the EBITDA margin is roughly in line with your EBITDA margin, but the Switzerland sales will not see this upscale in margins as in Germany from the e-script. So how do you plan on compensating for this.
+
+--------------------------------------------------------------------------------
+Jasper F. P. Eenhorst,  Shop Apotheke Europe N.V. - CFO & Member of Management Board    [39]
+--------------------------------------------------------------------------------
+Thank you for your question, yes. So I understand where you're coming from with us showing that Mediservice is having a current EBITDA margin of between 2% and 3%. That's probably the core of your question. But I would say that is not taking into account at all, that from this partnership, we actually want to show Shop Apotheke at very higher margins, shop-apotheke.ch much faster. But also in cooperation with Andre and it's team we want to significantly increase what we name, not a specialty Rx but the common Rx, which is much more comparable to, let's say, the e-Rx in Germany, and that's really a growth area where a part of our corporation is based upon. 
+And then you will look at a very different margin profile. But in addition, it's also important for me to mention is that if you only look at the percentage, which I reconfirmed, so no doubt about that. But still, that's also related to our core business that we talk about and the fact that we here have in absolute euros positive generating unit that's always very a welcome, also taking into account that what I just said, it's a capital-light enterprise. So the return on capital is very attractive and then you can operate at lower margins.
+The only reason why Mediservice is having this margin, which might seem at the lower end is because of the very high sales per order. So actually, the absolute sales per order are very attractive. So -- and looking at it in the total mix and the plans of Shop Apotheke, of course, we did the sensitivity analysis and where in the first year and in the second year, actually, it mathematically is also helping, what our margin as total Shop Apotheke is. Mathematically, it could have an impact on making it more difficult to get to 8% or more. We looked into that. And also in that sensitivity, we feel comfortable that we don't have to change our mid- to long-term guidance, yes.
+
+--------------------------------------------------------------------------------
+Operator    [40]
+--------------------------------------------------------------------------------
+The next question is from Mr. Alexander Thiel from Jefferies.
+
+--------------------------------------------------------------------------------
+Alexander Thiel,  Jefferies LLC, Research Division - Equity Analyst    [41]
+--------------------------------------------------------------------------------
+I have a couple of questions, and I would like to take them one by one. The first one is on Mediservice. Could you provide more information on how many active customers/market share you have in Switzerland or how many patients are currently using Mediservice, how the customer acquisition works on the B2C side conceptually in the Swiss market?
+
+--------------------------------------------------------------------------------
+Felix Burkhard,  Galenica AG - CFO & Head of IR    [42]
+--------------------------------------------------------------------------------
+So currently, we are not disclosing customers and patients at this point in time, I would say. With regard to customer acquisition, we are working, collaborating, as I mentioned in my talk with health insurers. On one hand, we also acquire via online marketing, but that's a small part. We are not a powerhouse as well as through our cooperation with physicians and hospitals. So that's the main part how we acquire customers through the good services and the knowledge we provide.
+
+--------------------------------------------------------------------------------
+Jasper F. P. Eenhorst,  Shop Apotheke Europe N.V. - CFO & Member of Management Board    [43]
+--------------------------------------------------------------------------------
+Super valuable customers we have. Exactly.
+
+--------------------------------------------------------------------------------
+André Lüscher,   -     [44]
+--------------------------------------------------------------------------------
+And perhaps I can add the answer for -- with regard to market shares. So you have to know in Switzerland, OTC mail order is forbidden. So the today's mail order -- pharmacy mail order market is just prescription drugs. And prescription drugs, mail order represent 5% of the total medication market in Switzerland, 5% in value and about 1% in volume. Out of this 5% market share of mail order pharmacies, Mediservice has a share of about 66$ in value and about 26% in volume. That shows you also the positioning of MediService in the high-value and very interesting niche for specialized specialty drugs and services.
+
+--------------------------------------------------------------------------------
+Felix Burkhard,  Galenica AG - CFO & Head of IR    [45]
+--------------------------------------------------------------------------------
+And on the other hand it shows you the potential we see through this cooperation, of course.
+
+--------------------------------------------------------------------------------
+Alexander Thiel,  Jefferies LLC, Research Division - Equity Analyst    [46]
+--------------------------------------------------------------------------------
+Okay. That's very clear. The second one is on the pricing -- margin level in Switzerland. Could you elaborate on the pricing system in Switzerland. So you have a high basket of fairly low margin. Do you have a fixed price system? Or how does that work basically? And in the previous question, we have already seen the margin (inaudible). But could you elaborate what you expect by adding the Shop's beauty and care products in the future what could be the margin level that we are seeing for the JV?
+
+--------------------------------------------------------------------------------
+André Lüscher,   -     [47]
+--------------------------------------------------------------------------------
+Perhaps the pricing principles in the regulated market, that means for reimbursed medications in Switzerland. There, it's the selling prices regulated and the ex factory price is regulated. The difference is the distribution margin, which is also regulated. This distribution margin, apart is in a fixed component, an add-on on the factory price, a fixed part of the margin. And the other is a percentage surcharge on the ex factory price percentage margin. The result is that let's say in average, an average pharmacy has a gross margin with prescription sales of around 26% product margin in average, an average pharmacy. And on top of that, they have fees for services, which represent about 7% to 8%. So the pharmacy ends up with a gross margin on prescription drugs of around 33%.
+For mail order pharmacies, as they -- until today, don't charge these service fees. And normally, they have, in average, a higher value product. The gross margin is lower as mentioned before. That means the system is built in that way that the higher the product price, the lower the margin in percentage. But to be clear, only in percentage. 
+And as we also mentioned, at the end, at least Galenica, we paid the dividend in Swiss francs and not in percentages, that's why we're very, very happy with the profitability of Mediservice. And with the specialty product range, it's clear that Mediservice has a low percentage gross margin. Is that an answer to your question?
+
+--------------------------------------------------------------------------------
+Alexander Thiel,  Jefferies LLC, Research Division - Equity Analyst    [48]
+--------------------------------------------------------------------------------
+Yes, that's perfect. The next one is on your conviction that OTC will be liberalized in Switzerland. On the outside, I think this it is a long-term discussion that we have seen for many years. Has there been any recent changes? I mean that's a clear upside, but how sure are you that this is going to happen?
+
+--------------------------------------------------------------------------------
+Marc Werner,  Galenica AG - CEO    [49]
+--------------------------------------------------------------------------------
+It was at least last year or a couple of months ago, we got an official announcement from the government that the discussion in the parliament will start. That means normally, as you mentioned, is on the fast track especially not in the Swiss parliament, but I would say between -- as we mentioned already in the speeches between the next 2 and 3 years, we can estimate that the OTC liberalization will also be in Switzerland, yes, means '25 -- '25, '26. So I guess '24, it's not realistic, honestly, but I guess, '25, '26, it's realistic.
+
+--------------------------------------------------------------------------------
+Felix Burkhard,  Galenica AG - CFO & Head of IR    [50]
+--------------------------------------------------------------------------------
+I think corona has dramatically increased the pressure on the regulators that they have to change this law. So this works in favor of the mail order pharmacies.
+
+--------------------------------------------------------------------------------
+Marc Werner,  Galenica AG - CEO    [51]
+--------------------------------------------------------------------------------
+It will still be a discussion what means liberalization because liberalization, it's a wide range of what does it mean? Does it mean I can sell OTC like I can sell everything else? Or is it kind of a patient check between a pharmacy sort of physician and a patient. That's still an open discussion, but the liberalization is coming. That's -- I guess, that's not really discussion, and it will not be in 10 years, I guess.
+
+--------------------------------------------------------------------------------
+Alexander Thiel,  Jefferies LLC, Research Division - Equity Analyst    [52]
+--------------------------------------------------------------------------------
+Okay. The last one is just a modeling one related to Shop Apotheke. Will you report the joint venture as a separate segment, i.e., strip out the Swiss Rx number from the German one and show OTC for Switzerland as well. I think that will be highly appreciated.
+
+--------------------------------------------------------------------------------
+Jasper F. P. Eenhorst,  Shop Apotheke Europe N.V. - CFO & Member of Management Board    [53]
+--------------------------------------------------------------------------------
+Yes. Thanks for your question, Alex. But also here, how we will do the exact accounting, we still are also in talks to do that according to the best practices together with our accountant. But at this moment, how we look at it, I mean, it is very clear this is going to be part. We have 2 reporting segments, DAC and international. It sounds very sexy international, but it's just The Netherlands, Belgium, France and Italy. Those 7 countries, and we have DAC and International and it will be part of DAC. I mean also, if you see how we want to make this joint venture together with Galenica and to success, it is the management actually of the German and Swiss people together with the offshore people who want to drive this really into a success. So it will be part of DAC, 99% certain. And there's not any reason to do it separately.
+And as to the disclosures as to Rx, we will also see what works best to do there. But please wait until we close the transaction, yes.
+
+--------------------------------------------------------------------------------
+Alexander Thiel,  Jefferies LLC, Research Division - Equity Analyst    [54]
+--------------------------------------------------------------------------------
+Okay. Maybe another follow-up. Why do you actually need the approval of the Austrian kind of antitrust (inaudible).
+
+--------------------------------------------------------------------------------
+André Lüscher,   -     [55]
+--------------------------------------------------------------------------------
+As Marc mentioned we are pure Swiss company. But in the Products & Brands Business sector, we do some exports of products as an OTC and the consumer healthcare product supplier, there about 80% sales are in Switzerland and about 20% sales are export through local distributors. And we have -- through an acquisition, we have in Austria and a subsidiary, so a distribution partner in the group. So we are active a little bit in Austria with a really unmaterial small business. But as in Austria, the requirements -- the threshold to go to competition authorities very, very low. We have also to -- we also need the approval of Austria, but we don't doubt that we will get approval.
+
+--------------------------------------------------------------------------------
+Alexander Thiel,  Jefferies LLC, Research Division - Equity Analyst    [56]
+--------------------------------------------------------------------------------
+It's more a 1:17:46.5 technical thing, I guess.
+
+--------------------------------------------------------------------------------
+André Lüscher,   -     [57]
+--------------------------------------------------------------------------------
+Yes.
+
+--------------------------------------------------------------------------------
+Operator    [58]
+--------------------------------------------------------------------------------
+The next question comes from Ms. Maja Pataki of Kepler.
+
+--------------------------------------------------------------------------------
+Maja Pataki,  Kepler Cheuvreux, Research Division - Head of Med Tech Devices Sector    [59]
+--------------------------------------------------------------------------------
+Yes. I have actually only one. If we look at your online offering in Switzerland, Marc, with the Amavita online channel and the Sun Store channel, I'm sorry, I'm a bit annoyed by the echo.
+
+--------------------------------------------------------------------------------
+Jasper F. P. Eenhorst,  Shop Apotheke Europe N.V. - CFO & Member of Management Board    [60]
+--------------------------------------------------------------------------------
+We can hear you very clearly.
+
+--------------------------------------------------------------------------------
+Maja Pataki,  Kepler Cheuvreux, Research Division - Head of Med Tech Devices Sector    [61]
+--------------------------------------------------------------------------------
+You Can. Okay. Okay. Fine. So I was wondering how you're trying to differentiate those 3 channels, particularly if there is going to be a lower pricing in the shopapotheke.ch once the OTC comes?
+
+--------------------------------------------------------------------------------
+Marc Werner,  Galenica AG - CEO    [62]
+--------------------------------------------------------------------------------
+With our own formats, as you mentioned, Amavita, Sun Store  and also Coop Vitality, this JV helps us a lot to really focus on omnichannel, as I mentioned in my speech and really focus on the patient and the customer we have today in our pharmacies and customers in the future. They have the need to be online and offline and not just pure online customer. And we are utterly convinced that also in the future there will be a huge quantity of customers, they will have -- they will go to a physical pharmacy sometimes, but maybe sometimes just purchase something online. 
+And that's really the target for our own pharmacy. That means high quality also, and that's why we don't want to compete on the price level. It's high quality, it's service, it's service, it's service. It's physical and online together and not pure online. And with the JV, we're really focused on pure online customers, customers that they want to purchase their needs, if it's prescription, if it's part of products that they will purchase this online and not offline. That's really the differentiation and it helps us a lot to focus with our own formats on clear omnichannel and not pure online.
+
+--------------------------------------------------------------------------------
+Maja Pataki,  Kepler Cheuvreux, Research Division - Head of Med Tech Devices Sector    [63]
+--------------------------------------------------------------------------------
+But can you maybe provide some example for the service the you offer online through the Amavita. I'm just trying to figure out if somebody wants to buy some OTC products, why wouldn't they go for price? What is the service that you will offer to the Amavita online stores?
+
+--------------------------------------------------------------------------------
+Marc Werner,  Galenica AG - CEO    [64]
+--------------------------------------------------------------------------------
+There will be more than one target group today and also in the future. There are target groups of course. And you can see that in all other markets and not just in the pharmaceutical market, there are target group, they go just at the price, of course. And they won't be maybe the customer for Amavita, in the future, maybe they go to the JV because they are just price -- that they're just looking for the price. There are other ones, maybe they have to pick it up, collect -- click and collect in a pharmacy or maybe they need a service, maybe they need an additional advice for pharmaceutical person -- from a pharma person and they go to pharmacy. 
+I'm absolutely sure, there are more than one target group we have to target in the future with our whole network. And in the JV, there is a certain target group and our own pharmacies and our own pharma space, another target group and target group, which is more service, more maybe (inaudible) consulting or advice-oriented. And of course, if you look at the average age from a customer in our pharmacy, it's not between 20 and 30. And maybe if you get a little bit older, then maybe we need sometimes also an advice or just a chat between 2 human beings.
+
+--------------------------------------------------------------------------------
+André Lüscher,   -     [65]
+--------------------------------------------------------------------------------
+And perhaps to add -- Maja, perhaps to add, we already discussed it in different meetings. This difference in pricing that's really one of the main reasons why we need a separate pure online offering because it's clear if you want to be competitive with [Google] and if we have the good prices which are really competitive in the future, online, this will be very difficult for Amavita and Sun Store who have to keep, let's say, a relatively high price in order not to destroy the margin of the whole physical pharmacy network. So there, we can't compete aggressively with low online prices. And that's why we need a separate pure online offering with another brand, which is not directly linked to our Amavita and Sun Store offering. That's one of the reasons why this joint venture is so important for us strategically.
+
+--------------------------------------------------------------------------------
+Operator    [66]
+--------------------------------------------------------------------------------
+So the next question is from Jan Koch of Deutsche Bank.
+
+--------------------------------------------------------------------------------
+Jan Koch,  Deutsche Bank AG, Research Division - Research Analyst    [67]
+--------------------------------------------------------------------------------
+Congrats on the announced joint venture. Great to see that you are highly committed. I have 2 questions for each company, if I may. Starting with Shop Apotheke, I would like to come back to your midterm guidance once again. What is the margin potential of the combined business going forward? So I understand that the beauty and care products enjoy a higher margin. But given the dominance of the Rx business, I'm just wondering how much you can improve the margin as we go forward?
+And the second question is more a housekeeping question for Jasper. Once the transaction has been closed, should we assume a step-up in marketing spending in the Swiss business? Or are there any other costs which we should consider? 
+And then on Galenica, on your midterm margin guidance for your Products & Care segment, given that you plan to sell a big part of the segment that has been very marginal so far, I guess the margin profile of this segment could be even higher going forward. Any update here appreciated. 
+And then finally, on your last conference call, you talked a lot about the Mediservice being your fast-growing segment and the growth driver going forward. So should we now assume a lower group growth going forward, once the segment has been deconsolidated?
+
+--------------------------------------------------------------------------------
+Jasper F. P. Eenhorst,  Shop Apotheke Europe N.V. - CFO & Member of Management Board    [68]
+--------------------------------------------------------------------------------
+Stefan, let me take the first one on the margin. Jan, good afternoon, thanks for your questions. To be clear, I understand your question, and I don't like to be all the time saying, okay, we don't disclose because I hope that you appreciate that we try to be as open as we always are but we are never giving any guidance on company level, not even on the segment level. We only have very clear guidance on total company level. So in this case, what our expectations are as to the joint venture. By the way, we have several scenarios what it could be. So we also don't know. We only know that we're looking forward to do our business together, and we see many areas where we can do very good business together. But I cannot provide you any guidance as to the margin there, more than what we did in the presentation that there is a profitable Mediservice business, that there is a fast growing Shop Apotheke business which we are combining, but that's not really an answer to your question. 
+And then your second one, if you want to increase our marketing a lot, that's not part of today's presentation. That is -- we will see in the course of business. That is -- we don't assume anything there that is I wouldn't know why. It's just part of our ordinary course of business and sometimes it makes sense and sometimes it doesn't make sense. So it's not like we do this and I'll certainly take into account the one-off somewhere that is not what it is, yes.
+
+--------------------------------------------------------------------------------
+André Lüscher,   -     [69]
+--------------------------------------------------------------------------------
+Well, from my side, the question to Galenica. You referred to the midterm guidance of our Product & Care segment, where we said that midterm, we want to increase the EBIT margin above 8%. And it's clear that with the deconsolidation of Mediservice, we will perhaps already this year or at least very, very close in the future, reach this midterm guidance or even exceed it in percentage, it's very probable that it will be above 8% very soon. We haven't yet actualized or adapted the midterm guidance. We will do this in the next weeks or months, I would say, at least with half year accounts, we will release and adapt it mid-term guidance to this new situation, if the deal will be closed. So that's for the guidance.
+And then, you said it is very high growing part of our business, and that's not true. We bring a fast-growing business into our joint venture, and we hope that we can continue this fast growth in the joint venture. And the joint venture, as I mentioned, it remains an important part of our group, and we will do everything that will continue and even accelerate together with Shop Apotheke this growth. But I'm also convinced that also with the rest of the Galenica Group, we will continue to grow the company.
+
+--------------------------------------------------------------------------------
+Jan Koch,  Deutsche Bank AG, Research Division - Research Analyst    [70]
+--------------------------------------------------------------------------------
+Great. One follow-up, if I may. Sorry for trying again, but on your midterm margin guidance. Could the transaction postpone your mid-term guidance by a few years, given that it's -- yes, let's say, margin dilutive over the next few years?
+
+--------------------------------------------------------------------------------
+Jasper F. P. Eenhorst,  Shop Apotheke Europe N.V. - CFO & Member of Management Board    [71]
+--------------------------------------------------------------------------------
+Dilutive is also already a negative word. So if it's adding more euros to me, that's a good thing. You talk about the margin not only, so if you say if it mathematically, well, then I think you don't sufficiently take into account the fact that it is not only the current Mediservice business. We're going to go together to drive the common Rx business. And we're going to drive the Shop Apotheke business. But I understand what you are saying, but your literally question is then, will that postpone your midterm guidance by a couple of years, you said, and that is certainly no, no, no way. No, absolutely not. That's by 2 months. Yes, I don't know. No, I mean it is not -- I mean also, if you look at the magnitude of how fast our other business is growing organically and with everything what is happening there. This is not in all our scenario planning this leads to that. Stefan? (inaudible) it is what it is, and the answer is then no, it does not.
+
+--------------------------------------------------------------------------------
+Stefan Feltens,  Shop Apotheke Europe N.V. - Chairman of the Managing Board & CEO    [72]
+--------------------------------------------------------------------------------
+Yes, the deal is accretive. You mentioned this already, we emphasize this again. Yes. Yes.
+
+--------------------------------------------------------------------------------
+Jasper F. P. Eenhorst,  Shop Apotheke Europe N.V. - CFO & Member of Management Board    [73]
+--------------------------------------------------------------------------------
+But I understand why you asked the question. But...
+
+--------------------------------------------------------------------------------
+Operator    [74]
+--------------------------------------------------------------------------------
+The next question is from Olivier Calvet of Credit Suisse.
+
+--------------------------------------------------------------------------------
+Olivier Calvet,  Crédit Suisse AG, Research Division - Research Analyst    [75]
+--------------------------------------------------------------------------------
+A couple of questions left from my side. I'll try to keep it quick. First of all, Marc, Felix and Andre and then to Stefan and Jasper. So just to confirm the scope and how you see this JV within your portfolio, so big (inaudible) Galenica owned entity. And you see minimal cannibalization risk for your local pharmacies where you do click and collect or OTC or mail order on prescription. 
+And then the second one would be just wondering about the earnings profile again of the company. I think maybe it was caustically Beauty & Care products, I just wanted you to confirm the gross margin number that you gave because I think you said 73% and I'm not sure that is correct.
+And then just opening up to Jasper and Stefan, I wanted to know if it would be also kind of a question on marketing here. Fair to assume that when the liberalization of the Swiss OTC market, the EBITDA margin profile looks closer to what you reported in the international segment a few years ago. i.e., high-teens negative margin? Or have you kind of jointly decided on a more conservative customer acquisition strategy. I'll stop there and take it back, Jasper? (inaudible).
+
+--------------------------------------------------------------------------------
+Felix Burkhard,  Galenica AG - CFO & Head of IR    [76]
+--------------------------------------------------------------------------------
+Maybe I can start with the first one with regard to competition. So if you look at how the market is increasing overall because of more chronic patients, getting more medication. I mean, therein as well, the market is growing year-on-year. So I think if we just grow by there, we don't even have to compete. We just need to make sure that we grow, of course, above the market growth, and we already gained a good chunk of market share.
+
+--------------------------------------------------------------------------------
+André Lüscher,   -     [77]
+--------------------------------------------------------------------------------
+And I think you asked the second question was the margin profile of MediService, was that the question?
+
+--------------------------------------------------------------------------------
+Olivier Calvet,  Crédit Suisse AG, Research Division - Research Analyst    [78]
+--------------------------------------------------------------------------------
+Yes. On the gross margin, I think you said 73%, but I think this was maybe comment to English.
+
+--------------------------------------------------------------------------------
+André Lüscher,   -     [79]
+--------------------------------------------------------------------------------
+Yes, the gross margin, we don't disclose the detailed gross margin of Mediservice. But we disclosed the EBITDA margin of 2% to 3% with sales of CHF 450 million. And it's clear it is EBITDA margin of 2% to 3% for the business Mediservice does today, the specialty business. We are very, very happy with this 2% to 3% EBITDA margin. It's a good EBITDA margin. Because as we mentioned, it's in percentage, a low margin business yet a low gross margin. But what is very important, the profit per order in Mediservice I can tell you, this profit is higher than, let's say, a normal non-medication mail order basket. It's just the profit is higher than a normal average sales per order. So it's this value per order, which is very important for the Mediservice today's business, and that's why we are very happy with this profitability of Mediservice. We've now new growth possibilities in the future with, let's say, normal prescription drugs, with non-medication and medication. So there we will be able to increase this margin.
+
+--------------------------------------------------------------------------------
+Olivier Calvet,  Crédit Suisse AG, Research Division - Research Analyst    [80]
+--------------------------------------------------------------------------------
+Okay. Sorry, just -- I think it was my mistake. I think when you were talking about the margin levels in Switzerland, I think on Alex's question earlier, you said 26% kind of gross margin, then you add a fee for services, 7% to 8%. I just wanted to confirm the gross margin level you reach afterwards.
+
+--------------------------------------------------------------------------------
+André Lüscher,   -     [81]
+--------------------------------------------------------------------------------
+That's for the normal average basket of prescription drugs, let's say, it is 25%, 26% gross margin as product gross margin without the additional fees for services, that's a fair assumption for an average prescription basket, yes. And for Mediservice, it's much lower because it's not an average assortment. It's a specialty high-priced mix of sales. Is that clear?
+
+--------------------------------------------------------------------------------
+Olivier Calvet,  Crédit Suisse AG, Research Division - Research Analyst    [82]
+--------------------------------------------------------------------------------
+Yes.
+
+--------------------------------------------------------------------------------
+Stefan Feltens,  Shop Apotheke Europe N.V. - Chairman of the Managing Board & CEO    [83]
+--------------------------------------------------------------------------------
+Olivier, good to hear voice. Actually, Jasper and I thought we would see you here in person. But if I understood your question correctly about the OTC liberalization and what would the impact on the customer acquisition cost. For us, we want to be -- when and if the OTC liberalization happens, we want to be very well positioned in the Swiss market. We don't anticipate that there will be an increase -- a significant increase in our customer acquisition costs just because we can now also serve our customers with OTC products. We look at the liberalization of the OTC market in Switzerland as a pure upside to the business case that we are presenting to you today.
+
+--------------------------------------------------------------------------------
+Olivier Calvet,  Crédit Suisse AG, Research Division - Research Analyst    [84]
+--------------------------------------------------------------------------------
+And then just a few follow-ups just for you guys. Sorry, that I wasn't able to make it. But on scope, I just wanted to confirm your sales to Swiss [Newfree] and so is not included in the JV..
+
+--------------------------------------------------------------------------------
+Stefan Feltens,  Shop Apotheke Europe N.V. - Chairman of the Managing Board & CEO    [85]
+--------------------------------------------------------------------------------
+That's correct.
+
+--------------------------------------------------------------------------------
+Olivier Calvet,  Crédit Suisse AG, Research Division - Research Analyst    [86]
+--------------------------------------------------------------------------------
+Second one is just maybe if you don't want to disclose exactly the sales you did in Switzerland last year, how many active customers roughly did you have in the country?
+
+--------------------------------------------------------------------------------
+Stefan Feltens,  Shop Apotheke Europe N.V. - Chairman of the Managing Board & CEO    [87]
+--------------------------------------------------------------------------------
+Olivier, again, you've known us and Jasper already referred to this earlier, we don't disclose information on a market level. I'm sure you understand this. I have to leave it at this.
+
+--------------------------------------------------------------------------------
+Jasper F. P. Eenhorst,  Shop Apotheke Europe N.V. - CFO & Member of Management Board    [88]
+--------------------------------------------------------------------------------
+Yes. And the first one is clear. And [Newfree] is operating in many countries, also in countries where Shop Apotheke is not present and they continue to do so in Switzerland.
+
+--------------------------------------------------------------------------------
+Stefan Feltens,  Shop Apotheke Europe N.V. - Chairman of the Managing Board & CEO    [89]
+--------------------------------------------------------------------------------
+And it's not part of the joint venture.
+
+--------------------------------------------------------------------------------
+Jasper F. P. Eenhorst,  Shop Apotheke Europe N.V. - CFO & Member of Management Board    [90]
+--------------------------------------------------------------------------------
+Not, yes. Not indirectly, not directly.
+
+--------------------------------------------------------------------------------
+Operator    [91]
+--------------------------------------------------------------------------------
+The next question comes from Mr. Christopher Johnen of HSBC.
+
+--------------------------------------------------------------------------------
+Christopher Johnen,  HSBC, Research Division - Equity Research Analyst    [92]
+--------------------------------------------------------------------------------
+I only have one question left with respect to the synergies. I understand that there's 2 value drivers, the Shop customers can access these products but both drivers seem to be revenue-driven. I'm just curious whether there are any cost synergies in your view?
+
+--------------------------------------------------------------------------------
+Stefan Feltens,  Shop Apotheke Europe N.V. - Chairman of the Managing Board & CEO    [93]
+--------------------------------------------------------------------------------
+And I take a first cut at this. This is one of the beauties of this deal that this is not driven by cost synergies. Cost synergies are -- can be a little bit more elusive. It's a different type of a game. I think there are some opportunities when we take a closer look, that there might also be some efficiency gains, but it's not a key value driver for this proposition.
+
+--------------------------------------------------------------------------------
+Operator    [94]
+--------------------------------------------------------------------------------
+Okay. There are no more questions. (Operator Instructions) So we have a next question from Mr. Miro Zuzak from JMS Investment.
+
+--------------------------------------------------------------------------------
+Miro Zuzak,  JMS Invest AG - Investment Professional    [95]
+--------------------------------------------------------------------------------
+Can you hear me?
+
+--------------------------------------------------------------------------------
+Stefan Feltens,  Shop Apotheke Europe N.V. - Chairman of the Managing Board & CEO    [96]
+--------------------------------------------------------------------------------
+Very well. Yes.
+
+--------------------------------------------------------------------------------
+Miro Zuzak,  JMS Invest AG - Investment Professional    [97]
+--------------------------------------------------------------------------------
+I can't hear you.
+
+--------------------------------------------------------------------------------
+Stefan Feltens,  Shop Apotheke Europe N.V. - Chairman of the Managing Board & CEO    [98]
+--------------------------------------------------------------------------------
+We can hear you very well.
+
+--------------------------------------------------------------------------------
+Miro Zuzak,  JMS Invest AG - Investment Professional    [99]
+--------------------------------------------------------------------------------
+Okay. One question from my side. Do you expect Mediservice to grow faster than the historical 10% before -- even before the OTC liberalization? Or do you think 10% is a good number? And then, of course, with the OTC liberalization, that number would basically go up.
+
+--------------------------------------------------------------------------------
+Felix Burkhard,  Galenica AG - CFO & Head of IR    [100]
+--------------------------------------------------------------------------------
+So I think it's our ambition, of course. Out of this complementary opportunity to grow beyond the historical growth, of course. Yes.
+
+--------------------------------------------------------------------------------
+Miro Zuzak,  JMS Invest AG - Investment Professional    [101]
+--------------------------------------------------------------------------------
+Even now before?
+
+--------------------------------------------------------------------------------
+Felix Burkhard,  Galenica AG - CFO & Head of IR    [102]
+--------------------------------------------------------------------------------
+Yes, of course.
+
+--------------------------------------------------------------------------------
+Jasper F. P. Eenhorst,  Shop Apotheke Europe N.V. - CFO & Member of Management Board    [103]
+--------------------------------------------------------------------------------
+And just to add to this, for the shopapotheke.ch business, again, getting access to local Swiss products to a much larger extent than what's the case today. This will be a real growth driver for this side of the joint venture.
+
+--------------------------------------------------------------------------------
+André Lüscher,   -     [104]
+--------------------------------------------------------------------------------
+Perhaps to add for the specialty business, it's the fastest-growing part of the pharma market. So if you look at IQVIA forecast, they predict growth rates in specialty of 8% and above for the next year. So it's a high growing market, but it's clear as it's high priced, it's also high volatility in sales. But it's clear, the Mediservice specialty business is in a very attractive, fast-growing niche.
+
+--------------------------------------------------------------------------------
+Miro Zuzak,  JMS Invest AG - Investment Professional    [105]
+--------------------------------------------------------------------------------
+Okay. And congratulations again to the deal.
+
+--------------------------------------------------------------------------------
+Stefan Feltens,  Shop Apotheke Europe N.V. - Chairman of the Managing Board & CEO    [106]
+--------------------------------------------------------------------------------
+Thanks.
+
+--------------------------------------------------------------------------------
+Operator    [107]
+--------------------------------------------------------------------------------
+This last question concludes the live webcast. Thank you very much for your participation. Goodbye.
+
+--------------------------------------------------------------------------------
+Stefan Feltens,  Shop Apotheke Europe N.V. - Chairman of the Managing Board & CEO    [108]
+--------------------------------------------------------------------------------
+Thank you.
+
+--------------------------------------------------------------------------------
+Marc Werner,  Galenica AG - CEO    [109]
+--------------------------------------------------------------------------------
+Thank you.
+
+--------------------------------------------------------------------------------
+Jasper F. P. Eenhorst,  Shop Apotheke Europe N.V. - CFO & Member of Management Board    [110]
+--------------------------------------------------------------------------------
+Thanks, everybody.
+
+
+
+
+
+
+
+--------------------------------------------------------------------------------
+Definitions
+--------------------------------------------------------------------------------
+PRELIMINARY TRANSCRIPT: "Preliminary Transcript" indicates that the 
+Transcript has been published in near real-time by an experienced 
+professional transcriber.  While the Preliminary Transcript is highly 
+accurate, it has not been edited to ensure the entire transcription 
+represents a verbatim report of the call.
+
+EDITED TRANSCRIPT: "Edited Transcript" indicates that a team of professional 
+editors have listened to the event a second time to confirm that the 
+content of the call has been transcribed accurately and in full.
+
+--------------------------------------------------------------------------------
+Disclaimer
+--------------------------------------------------------------------------------
+Refinitiv reserves the right to make changes to documents, content, or other 
+information on this web site without obligation to notify any person of 
+such changes.
+
+In the conference calls upon which Event Transcripts are based, companies 
+may make projections or other forward-looking statements regarding a variety 
+of items. Such forward-looking statements are based upon current 
+expectations and involve risks and uncertainties. Actual results may differ 
+materially from those stated in any forward-looking statement based on a 
+number of important factors and risks, which are more specifically 
+identified in the companies' most recent SEC filings. Although the companies 
+may indicate and believe that the assumptions underlying the forward-looking 
+statements are reasonable, any of the assumptions could prove inaccurate or 
+incorrect and, therefore, there can be no assurance that the results 
+contemplated in the forward-looking statements will be realized.
+
+THE INFORMATION CONTAINED IN EVENT TRANSCRIPTS IS A TEXTUAL REPRESENTATION
+OF THE APPLICABLE COMPANY'S CONFERENCE CALL AND WHILE EFFORTS ARE MADE TO
+PROVIDE AN ACCURATE TRANSCRIPTION, THERE MAY BE MATERIAL ERRORS, OMISSIONS,
+OR INACCURACIES IN THE REPORTING OF THE SUBSTANCE OF THE CONFERENCE CALLS.
+IN NO WAY DOES REFINITIV OR THE APPLICABLE COMPANY ASSUME ANY RESPONSIBILITY FOR ANY INVESTMENT OR OTHER
+DECISIONS MADE BASED UPON THE INFORMATION PROVIDED ON THIS WEB SITE OR IN
+ANY EVENT TRANSCRIPT. USERS ARE ADVISED TO REVIEW THE APPLICABLE COMPANY'S
+CONFERENCE CALL ITSELF AND THE APPLICABLE COMPANY'S SEC FILINGS BEFORE
+MAKING ANY INVESTMENT OR OTHER DECISIONS.
+--------------------------------------------------------------------------------
+Copyright 2023 Refinitiv. All Rights Reserved.
+--------------------------------------------------------------------------------

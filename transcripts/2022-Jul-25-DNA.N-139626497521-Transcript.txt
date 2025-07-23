@@ -1,0 +1,110 @@
+
+
+Refinitiv StreetEvents Event Transcript
+E D I T E D   V E R S I O N
+
+Ginkgo Bioworks Holdings, Inc., Zymergen Inc. - M&amp;A Call
+JULY 25, 2022 / 9:00PM GMT
+
+================================================================================
+Corporate Participants
+================================================================================
+
+ * Carrie Mendivil
+    - 
+ * Jay T. Flatley
+   Zymergen Inc. - Chairman & Acting CEO
+
+================================================================================
+Presentation
+--------------------------------------------------------------------------------
+Operator    [1]
+--------------------------------------------------------------------------------
+Ladies and gentlemen, thank you for standing by, and welcome to the Zymergen Business Update Conference Call. (Operator Instructions)
+I would now like to turn the conference to your host, Ms. Carrie Mendivil with Investor Relations. Please go ahead.
+
+--------------------------------------------------------------------------------
+Carrie Mendivil,   -     [2]
+--------------------------------------------------------------------------------
+Thank you. Earlier today, Zymergen issued a joint press release with Ginkgo Bioworks announcing a definitive merger agreement for Ginkgo to acquire Zymergen. Joining me today to discuss this announcement as well as other organizational updates is Jay Flatley, acting Chief Executive Officer of Zymergen.
+Before we begin, I'd like to remind you that management will make statements during this call that are forward-looking statements within the meaning of the federal securities laws. These statements involve material risks and uncertainties that could cause actual results or events to materially differ from those anticipated.
+Additional information regarding these risks and uncertainties appears in the section entitled Forward-Looking Statements in the press release Ginko Bioworks and Zymergen issued today. For a more complete list and description, please see the Risk Factors section of each company's latest 10-K and other filings with the Securities and Exchange Commission, including the 10-Q for the first quarter of 2022.
+Except as required by law, Zymergen disclaims any intention or obligation to update or revise any financial or product pipeline projections or other forward-looking statements, whether because of new information, future events or otherwise. This conference call contains time-sensitive information and is accurate only as of the live broadcast, July 25, 2022. We do not plan for a Q&A as part of this call.
+With that, I'd like to turn the call over to Jay.
+
+--------------------------------------------------------------------------------
+Jay T. Flatley,  Zymergen Inc. - Chairman & Acting CEO    [3]
+--------------------------------------------------------------------------------
+Thanks, Carrie, and good afternoon, everyone. We appreciate you joining us on relatively short notice. As you saw this morning, we announced a definitive agreement whereby Ginkgo Bioworks will acquire Zymergen in a stock-for-stock transaction. Zymergen shareholders will receive 0.9179 Ginkgo shares for each Zymergen share, representing 5.25% pro forma ownership of the combined company upon completion of the transaction.
+Based on Ginkgo's closing stock price on July 22, 2022, this deal values Zymergen at approximately $2.68 per share for a total transaction value of $300 million. This represents a 34% premium to Zymergen's closing price on July 22, 2022, and a 71% premium to the 30 calendar day volume weighted average price.
+This transaction pairs 2 highly complementary synthetic biology organizations that share a common vision that biology can transform a wide range of industries, including manufacturing, agriculture and medicine. Both companies share the goal to build organizations and tools that enable this vision to become a reality.
+We expect the transaction to close by Q1 2023. It is subject to typical closing conditions, including approval of holders of a majority of Zymergen's outstanding common stock, exploration or termination of customary regulatory waiting periods and Ginkgo registering the shares to be issued in the merger with the SEC, among other things.
+In connection with the signing of the merger agreement, SoftBank, DCVC and True Ventures who together hold approximately 40% of Zymergen's outstanding common stock have entered into voting agreements with Ginkgo agreeing to vote in favor of the transaction. 
+As Zymergen, our team has built an innovative world-class technology platform that complements Ginkgo's cell programming capabilities. We are very excited
+(technical difficulty)
+Apologize for that. We are very excited about the opportunities that will be created by combining our technologies to accelerate Ginkgo's platform development to better serve customers and achieve our shared vision of sustainability in a world built on biology. 
+As Jason Kelly, Ginkgo's CEO and co-Founder shared on their call this morning, Ginkgo plans to integrate our core automation and software technologies for scaling strain engineering capacity into its foundry, including our machine learning and data science tools for exploring known and unknown genetic design space. This allows them to bring benefits to Zymergen's technology and extensive IP portfolio to more customers across multiple industries at an accelerated pace.
+Ginkgo will remain a horizontal platform serving all industries rather than producing its own products. For some time, we have been evaluating the potential of splitting the company into multiple independent businesses. We are very pleased that Ginkgo is supportive of our efforts to continue to explore these strategic options, particularly for 2 slim-down companies in Advanced Materials and Drug Discovery. These options could include independent private company spin-offs or combinations with existing organizations and if successful, could result in cost savings with the potential to benefit all stakeholders.
+As part of our continued efforts to execute on our strategic plan, including refocusing the business and managing costs to conserve cash resources, we are reducing our workforce, which will occur in multiple phases beginning tomorrow.
+Just a couple of quick updates on those businesses. In Advanced Materials, we have continued to make progress in our nitrogen fixation, water repellency and 3D printing programs. However, we've reached a mutual decision with Sumitomo to pause development work with Z1 polymer as we've not received a sufficiently strong demand signal from the market to continue this work in the near term. 
+Our partnership with Sumitomo continues, and we are exploring additional opportunities for the novel biomolecules we have created and potentially expanding our partnership to develop new chemical building blocks. For our mRNA enzyme program, we have achieved the target technical specifications and productivity and are in the optimization and scale-up phases of the project. As such, we are reviewing various options, including licensing to commercialize VCE and two OMT.
+Zymergen's drug discovery business continues to develop. Our existing collaborations are (technical difficulty) Discussions with potential additional partners are progressing, and we are exploring collaborations with multiple leading pharma.
+In addition to discussions related to genome and coated small molecules, we've had early discussions about leverage our metagenomic libraries for applications related to gene editing. And lastly, our pipeline of full (technical difficulty) for synthetic full targets continues to make progress. 
+To close, I'd like to reiterate (technical difficulty) of Zymergen (technical difficulty) both companies' technologies to better serve customers, promoting Zymergen's public benefit purpose and achieving our shared vision of sustainability in a world built on biology. Our Board carefully and thoroughly reviewed the strategic and financial benefits of this opportunity and has unanimously agreed that this transaction represents a compelling opportunity for all of our stakeholders. We believe it maximizes value and will allow for continued potential upside through ownership of the combined company and the potential spinouts.
+The market remains hungry for a new generation of technology that will transform the way materials are manufactured. We are confident that as a part of Ginkgo, Zymergen will be a significant contributor to that future. Thank you very much.
+
+--------------------------------------------------------------------------------
+Operator    [4]
+--------------------------------------------------------------------------------
+Thank you. Ladies and this does conclude today's conference. You may now disconnect. Have a great day.
+
+
+
+
+
+
+
+--------------------------------------------------------------------------------
+Definitions
+--------------------------------------------------------------------------------
+PRELIMINARY TRANSCRIPT: "Preliminary Transcript" indicates that the 
+Transcript has been published in near real-time by an experienced 
+professional transcriber.  While the Preliminary Transcript is highly 
+accurate, it has not been edited to ensure the entire transcription 
+represents a verbatim report of the call.
+
+EDITED TRANSCRIPT: "Edited Transcript" indicates that a team of professional 
+editors have listened to the event a second time to confirm that the 
+content of the call has been transcribed accurately and in full.
+
+--------------------------------------------------------------------------------
+Disclaimer
+--------------------------------------------------------------------------------
+Refinitiv reserves the right to make changes to documents, content, or other 
+information on this web site without obligation to notify any person of 
+such changes.
+
+In the conference calls upon which Event Transcripts are based, companies 
+may make projections or other forward-looking statements regarding a variety 
+of items. Such forward-looking statements are based upon current 
+expectations and involve risks and uncertainties. Actual results may differ 
+materially from those stated in any forward-looking statement based on a 
+number of important factors and risks, which are more specifically 
+identified in the companies' most recent SEC filings. Although the companies 
+may indicate and believe that the assumptions underlying the forward-looking 
+statements are reasonable, any of the assumptions could prove inaccurate or 
+incorrect and, therefore, there can be no assurance that the results 
+contemplated in the forward-looking statements will be realized.
+
+THE INFORMATION CONTAINED IN EVENT TRANSCRIPTS IS A TEXTUAL REPRESENTATION
+OF THE APPLICABLE COMPANY'S CONFERENCE CALL AND WHILE EFFORTS ARE MADE TO
+PROVIDE AN ACCURATE TRANSCRIPTION, THERE MAY BE MATERIAL ERRORS, OMISSIONS,
+OR INACCURACIES IN THE REPORTING OF THE SUBSTANCE OF THE CONFERENCE CALLS.
+IN NO WAY DOES REFINITIV OR THE APPLICABLE COMPANY ASSUME ANY RESPONSIBILITY FOR ANY INVESTMENT OR OTHER
+DECISIONS MADE BASED UPON THE INFORMATION PROVIDED ON THIS WEB SITE OR IN
+ANY EVENT TRANSCRIPT. USERS ARE ADVISED TO REVIEW THE APPLICABLE COMPANY'S
+CONFERENCE CALL ITSELF AND THE APPLICABLE COMPANY'S SEC FILINGS BEFORE
+MAKING ANY INVESTMENT OR OTHER DECISIONS.
+--------------------------------------------------------------------------------
+Copyright 2023 Refinitiv. All Rights Reserved.
+--------------------------------------------------------------------------------

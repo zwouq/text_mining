@@ -1,0 +1,493 @@
+
+
+Refinitiv StreetEvents Event Transcript
+E D I T E D   V E R S I O N
+
+Precision BioSciences Inc Reacquires Global Rights to its Allogeneic CAR T Programs- Conference Call
+APRIL 15, 2021 / 9:00PM GMT
+
+================================================================================
+Corporate Participants
+================================================================================
+
+ * Matt Kane
+   Precision BioSciences - Co-Founder & CEO
+ * Derek Jantz
+   Precision BioSciences - Co-Founder & Chief Strategy Officer
+ * Alex Kelly
+   Precision BioSciences - Interim CFO & Corporate Affairs Officer
+ * Alan List
+   Precision BioSciences - Chief Medical Officer
+
+================================================================================
+Conference Call Participiants
+================================================================================
+
+ * Hannah Adeoye
+   JPMorgan - Analyst
+ * Gena Wang
+   Barclays PLC - Analyst
+ * Farzin Haque
+   Jefferies - Analyst
+ * Tom Shrader
+   BTIG - Analyst
+ * Ben Burnett
+   Stifel Financial Corp. - Analyst
+ * Soumit Roy
+   JonesTrading Institutional Services, LLC - Analyst
+ * Sami Corwin
+   William Blair & Co. - Analyst
+ * Andrea Tan
+   Goldman Sachs - Analyst
+
+================================================================================
+Presentation
+--------------------------------------------------------------------------------
+Operator    [1]
+--------------------------------------------------------------------------------
+Good day and thank you for standing by. Welcome to the Precision Regains Global Commercial Rights to CAR T Programs Conference Call. (Operator Instructions). Please be advised that today's conference is being recorded. (Operator Instructions). I would now like to hand the conference over to your speaker today, Alex Kelly, Interim Chief Financial Officer and Corporate Affairs Officer. Please go ahead.
+
+--------------------------------------------------------------------------------
+Alex Kelly,  Precision BioSciences - Interim CFO & Corporate Affairs Officer    [2]
+--------------------------------------------------------------------------------
+Thank you, Gigi. And good afternoon, everyone, and welcome to our webcast to discuss our agreement with Servier to reacquire rights to our CAR T programs.
+Before we begin, I would like to remind you that the statements we make today on this webcast do not relate to matters of historical fact or future -- [or our] future expectations and forward-looking statements.
+Our forward-looking statements are within the meaning of the Private Securities Litigation Reform Act of 1995. Such forward-looking statements involve known and unknown risks, uncertainties and other important factors, including, without limitation, the risk factors in Precision's annual report Form 10-K.
+All forward-looking statements speak only as of this date, and except as required by applicable law, Precision has no obligation to update or revise any forward-looking statements made today, [whether the] result of new information, future events or changed circumstances.
+With that, I want to introduce the call participants. First, we have Matt Kane, our CEO and co-founder. We also have Derek Jantz joining us, and Derek is our Co-Founder and Chief Scientific Officer. And we're pleased to welcome Alan -- Dr. Alan List to the call, our new Chief Medical Officer. So, with that, let me introduce Matt Kane.
+
+--------------------------------------------------------------------------------
+Matt Kane,  Precision BioSciences - Co-Founder & CEO    [3]
+--------------------------------------------------------------------------------
+Thank you, Alex. And welcome everyone to the call. And, as Alex just alluded to, we really have not one but two important announcements to share with you all this evening.
+The first is that we are welcoming Dr. Alan List as our next Chief Medical Officer. Alan, as I'm sure many of you know, is an extremely accomplished and internationally recognized clinician and has been a key part of several major advancements in the field of hematology.
+I could go on and on about his accomplishments and all that he's contributed to the field, but we only have an hour and we do have to get to the second announcement.
+Alan has been advising the Company over the course of the last year, working very closely with our team, and I'm really pleased to be introducing him today as Precision's Chief Medical Officer. Alan, would you like to say a few words?
+
+--------------------------------------------------------------------------------
+Alan List,  Precision BioSciences - Chief Medical Officer    [4]
+--------------------------------------------------------------------------------
+Yes. Thank you, Matt. I have to say, it truly is an honor to be appointed the CMO here at Precision. For those who may not know me, I've been very much involved in the development of therapeutics for patients with hematological malignancies and other cancers for much of my career.
+And probably one of the lead achievements that you may be aware of was the work that led to the development REVLIMID or lenalidomide for the treatment of patients with myelodysplastic syndrome or multiple myeloma.
+Previously, I had served as the President and CEO of Moffitt Cancer Center from 2012 to 2019. I must say it was a privilege to serve at one of the top cancer research centers in the country and very proud of how Moffitt has continued to grow.
+But, as Matt mentioned, for the past year, I've served as a strategic advisor to Precision on its clinical stage and its preclinical allogeneic CAR T programs, in particular, the 0191 and the 19B, what we call the Stealth Cell program. My wife and I have relocated to the Raleigh-Durham area in January so I could be in close proximity to spend more time there.
+And with that experience over the past year, I've been quite impressed by the development of the allogeneic CAR T-cell therapies. It's exciting and I'm very optimistic about the potential of these therapies, and in particular, the very near launch of the CD19 Stealth program [in the] clinic. So- really is an exciting time to be joining the Company and all of the team. And with that, I'll pass it back to Matt.
+
+--------------------------------------------------------------------------------
+Matt Kane,  Precision BioSciences - Co-Founder & CEO    [5]
+--------------------------------------------------------------------------------
+Great. Thanks, Alan. Welcome again to the Company. And next, for those of you with access to our deck, which you can, of course, find on our website, let's move to slide four and our second announcement.
+Today, we revealed that we have successfully reacquired full control to all of our CAR T programs that were previously part of a license agreement with Servier.
+This includes our lead CD19 targeting CAR T, our second-generation or Stealth Cell CD19 program and four additional undisclosed targets. So, why did we do this? Well, last year we looked across the AlloCAR T landscape, which I think we can all agree is a highly innovative and rapidly emerging field, and look to what we have as well. And we found it to be quite impressive.
+First, preclinical data with our Stealth Cell program that so many of our advisors, investors and several of you even on the call have been telling us repeatedly -- it looks like the most innovative and compelling strategy in the Allo CAR T field. And two, while it's still very early, we generated now the highest Allo CAR T response data in NHL with our first-generation CD19 program using an enhanced lymphodepletion strategy.
+And then, of course, we can still dose escalate, but we have not reported any DLTs to the stage with our first-generation programs. So, taking all that into context, we think we're holding what could be a very strong hand. And when we sensed that there might be an opportunity to take back full control of these assets, we pushed our chips in and went for it.
+So, how does this change things? Well, we now have vastly better backend economics on the programs. We have full control over which of these targets and strategies we pursue, importantly -- and when. This now allows us to react more quickly to the data and to the involving competitive landscape.
+And importantly, we now control over when and how we might partner the assets in the future or advance them independently. But to be clear, Servier will remain a partner and remains eligible to receive milestones and royalties on the previously licensed programs. So, a really exciting transaction for our CAR T program and for the Company.
+Now, before we review our pipeline and clinical strategy, we thought it would be helpful to recap the history of this successful collaboration on slide five. Now, as some of you know, this partnership actually originated with the former Baxalta in early 2016. And why Baxalta? Well, during its short existence, Baxalta was aggressively expanding into oncology through a variety of early-stage partnerships.
+But, and this was important for us, Baxalta elected to pursue a strategy of not building out any internal research capabilities and instead developed a model that relied on their partners for early-stage work. This meant that our partnership enabled Precision to lead everything from discovery through the end of Phase 1 clinical studies.
+And, for us, this was huge, because it meant that Baxalta funded the development of our entire CAR T platform and enabled us to build the world's first end-to-end AlloCAR T engine, so everything from antibody discovery all the way through GMP manufacturing. Now, through a series of twists and turns, this partnership was transferred to Servier, which just so happened to be developing their own AlloCAR T programs.
+However, since, again, Precision led all early-stage activities, we were able to rapidly progress the lead CD19 program into the clinic, span the partnership and position our second-generation stealth program to begin dosing this May, so a very rapid and capital efficient task to build out our CAR T platform and pipeline and now placing us in a uniquely strong position that we find ourselves in today.
+So, at this point, I want to turn the call over to my Co-Founder and CSO, Derek Jantz, so that he can update you on our pipeline and clinical strategy. Derek?
+
+--------------------------------------------------------------------------------
+Derek Jantz,  Precision BioSciences - Co-Founder & Chief Strategy Officer    [6]
+--------------------------------------------------------------------------------
+Thank you, Matt. So, I really just wanted to give all of you a quick update on the status of our CAR T programs because there really is a lot going on right now. And in particular, a lot's going to be happening in the next few months, so we wanted to let you now and give you an idea what to be on the lookout for.
+So, if you want to turn to slide six, here we have a snapshot of our CAR T pipeline. We currently have three programs in the clinic and these are our first-generation CD19, CD20 and BCMA programs. In addition, we have a second-generation version of the CD19 CAR T that we call PBCAR19B and this is the one that incorporates our Stealth Cell immunization technology. And that is poised to start dosing shortly.
+We're also just about to start dosing and in a second arm of the BCMA trial that pairs our BCMA CAR T with, again, the secretase inhibitor. Then, on the preclinical side at the -- at the bottom of the pipeline, we have the four hematologic and solid tumor programs that we just repurchased back from Servier, and it's now completely in our control to decide if we want to continue those programs or if we want to swap in something different from our in-house preclinical pipelines.
+And we'll be sure to let you know after that decision is made. On slide seven, if we want to start with the two CD19 programs -- I wanted to give a quick snapshot of the differences between PBCAR0191, which is the first generation CD19 that's currently in the clinic, that's the one on the left, and PBCAR19B on the right, which is second-generation Stealth Cell version that we will begin dosing shortly.
+Both of them have an anti-CD19 CAR [that is knocked into the TRAC Locus], to knock out the T-cell receptor and prevent graft-versus-host disease, but we know today that allogeneic rejection by the patient's immune system does appear to limit the efficacy of the first-generation cells.
+And so, the second-generation incorporates some additional changes aimed at avoiding rejection. Specifically, we added an shRNA to suppress beta-2-microglobulin and prevent rejection by the patient's T-cells, as well as a transgenic copy of HLA-E that is aimed at preventing rejection by end case or natural killer cells.
+So, if we want to turn to slide eight, looking first at where we are with the Gen 1 program. We shared data in December that showed, I think, pretty convincingly that the Gen 1 CAR T-cells are rejected pretty quickly by the patient's immune system. It's fast. It takes about two weeks. And this appeared to limit the overall response rates and durability of those responses that we were seeing with Gen 1.
+However, we also showed early data in a small number of patients that modified lymphodepletion protocol, that we've been calling enhanced lymphodepletion, can at least partially overcome or delay that rejection.
+Enhanced lymphodepletion essentially involves administering higher doses of fludarabine and cyclophosphamide upfront in the preconditioning regimen, which gives us a little bit deeper immunosuppression of the patient. And this resulted in very significant increases in CAR T-cell expansion, as well as CAR T persistence. And that came with significantly improved response rates and anti-tumor activity.
+The big question mark that we sort of left with in December and really the big question mark still today is durability, or how many of those early responses will turn into complete responses that last six months or longer. At the December release, we did announce our first death on study and this was a patient in enhanced lymphodepletion arm who died of sepsis and this led us to modify our inclusion criteria to exclude patients with prolonged cytopenias or a history of recent serious infections.
+Since that data disclosure in December, we have continued to enroll patients in the Gen 1 study and the focus really has been on enhanced lymphodepletion in patients with non-Hodgkin's lymphoma, with the goal of increasing both the number of patients as well as the amount of follow-up.
+We do continue to see high initial response rates and acceptable safety and assessment for durability is currently ongoing. So, we do need to see how long the responses last and really that just takes time. So, we really don't know at this point.
+So, durability of responses is what we're going to be looking for and what you should probably be looking for in our midyear data update on the program. And that update is discussed on the next slide, which is slide nine. The next update on the First-Gen CD19 Program will be at ASCO in June. The focus is going to be on NHL patients treated with enhanced lymphodepletion.
+And by that point, we do expect to have at least 30 NHL patients total enrolled in the trial and at least 10 of those will have been treated with enhanced lymphodepletion. For most of those 10, we expect to have at least three months of follow-up.
+So, not necessarily enough follow-up to say definitively that we're achieving long-term responses, but that should be enough for us to make some general conclusions regarding the viability of the Gen 1 program or if we should focus our efforts on the Gen 2 Stealth Cell.
+An update on Gen 2 is on Slide 10. Our IND was accepted in January. This will be in relapsed refractory NHL. The FDA did us a favor in that they're letting us start at a flat dose of [2.7 x 10 to the 8] cells per patient. That dose is approximately equal to Dose Level 3 of the first-generation therapy, which is the dose that we've sort of zeroed in on and are using any enhanced lymphodepletion patients. So, we do expect to see meaningful results at the first dose level of Stealth Cell.
+The clinical trial material's been manufactured at our in-house facility. It's been released and we expect to dose the first patient in the next six weeks. So, you should expect a data release for Stealth Cell probably sometime next year. I don't expect that we'll have enough patients or follow-up for a meaningful Stealth Cell release in 2021.
+On Slide 11, there's a quick update on PBCAR20A, which is our CD20 program. We started Dose Level 3 earlier this year and are currently dosing patients at that dose level, and this is with standard lymphodepletion, not the -- not the enhanced lymphodepletion regimen.
+Our plan is to complete this dose level and then pause that program to see what happens with CD19. And then, whatever we learn from CD19 can then be applied directly to CD20. You could expect an update on CD20 sometime this year. I think that will probably be sometime in the second half.
+On slide 12, we have an update on BCMA and we actually have quite a bit going on here.
+At the top is our PBCAR269A program. This is our first-generation anti-BCMA for multiple myeloma. Like CD20, we're currently dosing at the highest dose level and that is using standard Cy/Flu lymphodepletion.
+You can expect an update on Dose Levels 1, 2 and 3 sometime this year, and again this will probably be in the second half. But then still in the first half of 2021, so coming very soon, we will begin dosing the first-gen BCMA CAR T-cells in combination with, again, a secretase inhibitor from SpringWorks.
+And we do expect to do -- to be able to do a pretty good head-to-head comparison between with and without GSI programs. Although, I wouldn't expect to see any data from the plus GSI arm of the trial until next year. So, be looking for minus GSI this year and then plus GSI next year.
+And then, lastly, and this is some brand-new information, we are in IND enabling development for PBCAR269B, which is a Stealth Cell version of the anti-DCMA CAR T, and we expect to be in position to file the IND for this one early next year.
+And our goal here is to have to BCMA Stealth Cell more or less on the launch pad as soon as we have data for the CD19 stealth. So, if it looks like the stealth technology actually works, actually helps as much as we think it might, that we can very quickly move the BCMA version into the clinic.
+And, if we can turn to the last slide, slide 13, just to summarize, we really do have a lot going on and we actually haven't talked at all about any of our gene editing programs.
+There is a lot of excitement around gene editing right now, particularly with the recent publication of long-term, non-human primate data from our PCSK9 program.
+So, we're going to be hosting an R&D event sometime midyear that will be focused on our ARCUS editing platform and the gene editing programs. And in particular, we will provide new data and timelines for our primary hyperoxaluria program at that event. So, definitely be on the lookout for that.
+And then, in the coming weeks, we will begin dosing patients with the CD19 Stealth Cell therapy. We will begin dosing patients with our anti-BCMA CAR T in combination with the SpringWorks GSI and we will provide updated data from our Gen 1 CD19 program at ASCO.
+And later this year, be on the lookout for an update on the Gen 1 CD20 and BCMA programs and potentially a Stealth Cell version of the BCMA CAR T by early next year if the CD19 Stealth Cell data looks promising. So, we are definitely keeping busy. So, with that, we can wrap up the presentation and take any questions you might have.
+
+
+================================================================================
+Questions and Answers
+--------------------------------------------------------------------------------
+Operator    [1]
+--------------------------------------------------------------------------------
+(Operator Instructions) Our first question comes from the line of Tom Shrader from BTIG. Your line is now open.
+
+--------------------------------------------------------------------------------
+Tom Shrader,  BTIG - Analyst    [2]
+--------------------------------------------------------------------------------
+Thank you. [It seems like an odd move so close to interesting data], but I really just have kind of a vague philosophy question. AlloCAR Ts sort of started out with the goal of being as good as autologous CAR T.
+Do you think that's the goal or do you think some of this movement in the sector has to do with the fact that the [next] cells -- or the dominant cells really have to be fully outpatient and have to be fundamentally different? I'd just love to hear your thoughts.
+
+--------------------------------------------------------------------------------
+Matt Kane,  Precision BioSciences - Co-Founder & CEO    [3]
+--------------------------------------------------------------------------------
+Thanks, Tom. Derek, would you like to take the first part about that and we can open this up to Alan as well?
+
+--------------------------------------------------------------------------------
+Derek Jantz,  Precision BioSciences - Co-Founder & Chief Strategy Officer    [4]
+--------------------------------------------------------------------------------
+Yes. So, at least in terms of efficacy, I think the bar still is autologous CAR T. That's where we're aiming.
+
+--------------------------------------------------------------------------------
+Tom Shrader,  BTIG - Analyst    [5]
+--------------------------------------------------------------------------------
+Yes.
+
+--------------------------------------------------------------------------------
+Derek Jantz,  Precision BioSciences - Co-Founder & Chief Strategy Officer    [6]
+--------------------------------------------------------------------------------
+Would we -- would we necessarily -- could you potentially have a viable product if you couldn't match that level of efficacy? Maybe that's a debate we could have, but certainly the target is autologous and that's where we're aiming.
+
+--------------------------------------------------------------------------------
+Alan List,  Precision BioSciences - Chief Medical Officer    [7]
+--------------------------------------------------------------------------------
+Yes. And, Derek, maybe I can add that the difference here between the allogeneic opportunity and autologous is this -- we expand the accessibility then to CAR T to people who are being seen as centers that don't have apheresis in the BMT program.
+Yes, we'd love to see any or all of these treatments as outpatients. But right now, autologous CARs can only be -- are only being given from by the centers that have the capability for apheresis. So, an allogeneic, off-the-shelf therapeutic approach really expands that to many more centers around the country.
+
+--------------------------------------------------------------------------------
+Tom Shrader,  BTIG - Analyst    [8]
+--------------------------------------------------------------------------------
+Okay. Great. Thank you.
+
+--------------------------------------------------------------------------------
+Operator    [9]
+--------------------------------------------------------------------------------
+Thank you. Our next question comes from the line of Ben Burnett from Stifel. Your line is now open.
+
+--------------------------------------------------------------------------------
+Ben Burnett,  Stifel Financial Corp. - Analyst    [10]
+--------------------------------------------------------------------------------
+Hey, great. Thank you so much. I was wondering if you could just maybe talk about the nature of the dialogue with Servier. And, I guess, was this new agreement initiated by Precision?
+
+--------------------------------------------------------------------------------
+Matt Kane,  Precision BioSciences - Co-Founder & CEO    [11]
+--------------------------------------------------------------------------------
+Yes. Thanks, Ben. Appreciate the question. So, I can't say a whole lot on this point other than we recognize that there might be an opportunity, given a strategic shift that Servier has been going through to step in and reclaim these rights.
+And given, again, kind of what we're seeing with both our first-generation program and of course, the preclinical data on Stealth Cell program. It was really a no-brainer for us.
+And now -- again, as we talked about earlier, we have the full ability to elect to pursue any of the programs that were formally under the agreements, make any changes that we want, put more emphasis on stealth or the first-generation program purely out of the data and a competitive environment really dictates.
+So, I think we're very fortunate now to be in this position, especially after receiving all of the upfront economics from the original deal and now being able to really greatly enhance the backend economics going forward.
+
+--------------------------------------------------------------------------------
+Ben Burnett,  Stifel Financial Corp. - Analyst    [12]
+--------------------------------------------------------------------------------
+Okay. Appreciate all that color. Maybe just one other question on the cell side. So, I guess now that you're close to dosing patients with the Stealth Cell, the CD19 Stealth Cell, do you have a sense for what preconditioning regimen you might focus on in this -- in this first study?
+
+--------------------------------------------------------------------------------
+Matt Kane,  Precision BioSciences - Co-Founder & CEO    [13]
+--------------------------------------------------------------------------------
+Yes, absolutely. Derek, would you like to take that?
+
+--------------------------------------------------------------------------------
+Derek Jantz,  Precision BioSciences - Co-Founder & Chief Strategy Officer    [14]
+--------------------------------------------------------------------------------
+Yes. So, we're going to start with the standard lymphodepletion protocol, so the [standard protocol] that is the same that we started with the first-generation CD19 and is more or less the same as what is used for the autologous CAR Ts.
+There will be the potential if we wanted to add enhanced lymphodepletion to the Stealth Cell that will be an option moving forward, but we wanted to start the standard approach so we could really do a good head-to-head comparison between the Stealth Cell and Gen 1 to get a good read on how it impacts cell expansion and persistence.
+
+--------------------------------------------------------------------------------
+Tom Shrader,  BTIG - Analyst    [15]
+--------------------------------------------------------------------------------
+Okay. Very helpful. Thank you.
+
+--------------------------------------------------------------------------------
+Operator    [16]
+--------------------------------------------------------------------------------
+Thank you. Our next question comes from the line of Gena Wang from Barclays. Your line is now open.
+
+--------------------------------------------------------------------------------
+Gena Wang,  Barclays PLC - Analyst    [17]
+--------------------------------------------------------------------------------
+Thank you for taking my questions. So, firstly, regarding the Stealth Cell, just wondering, in the manufacturing purity, is there any improvement versus the first-gen so that you do not need to do the split dosing? And then also regarding the beta-2M, can you remind us the knocking down level of the beta-2M? And then, I have one question regarding the Servier partnership. So, why wave 18.75 million?
+
+--------------------------------------------------------------------------------
+Matt Kane,  Precision BioSciences - Co-Founder & CEO    [18]
+--------------------------------------------------------------------------------
+Great. Thanks, Gena. Why don't we kind of address those one by one? So firstly, to your question about the split dosing, so I can comment first of all on that. The Gen 1 programs no longer require the split dosing as well.
+We're able to go up in dose. In fact, we got approval to go to two additional dose levels beyond Dose Level 3 without splitting the dose. And we will not have to split the dose either with the Stealth Cell program per the agreement we have with the FDA either. Derek, would you like to add some additional color on that?
+
+--------------------------------------------------------------------------------
+Derek Jantz,  Precision BioSciences - Co-Founder & Chief Strategy Officer    [19]
+--------------------------------------------------------------------------------
+Just to say that, in terms of manufacturing, the manufacturing process for Gen 1 and Stealth Cell is really identical. So, we use -- we use the same process. All we do is we change out the identity of the vector used in the manufacturing process.
+And I -- while I'm talking, I'll go ahead and take the second question about the extent of knockdown of B2M. So, we -- the Stealth Cell vector incorporates an shRNA that suppresses expression of beta-2-microglobulin and therefore MHC Class 1 to about 10% of [wild-type] levels.
+And that that number, 10%, was chosen deliberately, based on experimental data that we generated showing that that extent of knockdown almost completely eliminated rejection by Allo-reacted T-cells, at least in mixed lymphocyte reactions in culture. But we still left a little bit of Class 1 on the surface that seemed to be sufficient in most cases to prevent rejection by end case.
+
+--------------------------------------------------------------------------------
+Matt Kane,  Precision BioSciences - Co-Founder & CEO    [20]
+--------------------------------------------------------------------------------
+Great. Thanks, Derek. And then to get to the last part of your question, Gena, you're right. We are paying Servier $1.25 million in cash and, in addition, are foregoing $18.75 million in near-term milestones that would have otherwise been owed to the Company.
+So, we think on the whole, given the balance and the advancements of the program, as I mentioned earlier, we received approximately $115 million to date through the collaboration.
+And now, to be able to significantly shift the backend economics in our favor, we thought this was an excellent opportunity to be able to really step into not only the first-gen programs, but also the Stealth Cell program as well, which I know we're all really excited about.
+
+--------------------------------------------------------------------------------
+Gena Wang,  Barclays PLC - Analyst    [21]
+--------------------------------------------------------------------------------
+Great. Thank you.
+
+--------------------------------------------------------------------------------
+Operator    [22]
+--------------------------------------------------------------------------------
+Thank you. Our next question comes from the line of Eric Joseph from JPMorgan. Your line is now open.
+
+--------------------------------------------------------------------------------
+Hannah Adeoye,  JPMorgan - Analyst    [23]
+--------------------------------------------------------------------------------
+Good evening. This is [Hannah] for Eric. Thanks for taking the questions, just a couple from us. So, with further development of -- well, given the (inaudible) the Stealth Cell and the Gen 1 program, do you have the resources to continue both?
+Are you thinking about -- or how are you thinking about prioritizing the candidates? And, additionally, regarding the four additional product targets under the Servier deal, how far along are those in clinical development? Have any candidates been identified for those?
+
+--------------------------------------------------------------------------------
+Matt Kane,  Precision BioSciences - Co-Founder & CEO    [24]
+--------------------------------------------------------------------------------
+Yes. So, great questions. So, the -- and, again, I'd -- let me -- let me take the last part -- the last part first, and I may have come back to you for the first question, the first part of it. The most -- the more recently nominated programs are in a very early stage of development and we'll be assessing whether or not we want to -- or which of those programs we might want to continue and win.
+And with regards to the first part, which relates to the Gen 1 CD19 and Stealth Cell programs, this is part of the beauty of this transaction. We now have full control over when and how we might advance those programs.
+And in the near term, that's going to be driven by data. And it's going to be driven by, initially, what we learned from the -- both the midyear updates and additional development of the Gen 1 programs and then the behavior of the Stealth Cell programs and improvement we see there.
+And so, now that we have full control over not only the recently nominated programs, but, importantly, the CD19 programs, we will be able to have and make those key decisions and enable ourselves to, we think, be able to pay them quickly if one looks better than the other or continue advancing both. And we do have the resources right now to continue advancing through our plan studies for both Phase 1/2a programs.
+
+--------------------------------------------------------------------------------
+Hannah Adeoye,  JPMorgan - Analyst    [25]
+--------------------------------------------------------------------------------
+Great. That's helpful. Thanks for taking the question.
+
+--------------------------------------------------------------------------------
+Operator    [26]
+--------------------------------------------------------------------------------
+Thank you. Our next question comes from the line of Salveen Richter from Goldman Sachs. Your line is now open.
+
+--------------------------------------------------------------------------------
+Andrea Tan,  Goldman Sachs - Analyst    [27]
+--------------------------------------------------------------------------------
+Hey, everyone. This is [Andrea] on for Salveen. you. Matt, maybe a question for you about how you're thinking about the ex-US strategy for these programs. Is this something where you would look to repartner with another global player to facilitate that commercialization or would you look to expand your [salesforce]?
+
+--------------------------------------------------------------------------------
+Matt Kane,  Precision BioSciences - Co-Founder & CEO    [28]
+--------------------------------------------------------------------------------
+Yes, it's a great question and something that's fortunately -- now, we're going to have the opportunity to have that option, right? So, certainly we'll be looking at possibilities of partnering both these programs and others. They're different stages of development both the in the US and ex-US as we -- as we think makes the most sense at that point in time, but we haven't committed ourselves in one direction or the other right now.
+
+--------------------------------------------------------------------------------
+Andrea Tan,  Goldman Sachs - Analyst    [29]
+--------------------------------------------------------------------------------
+Got it. And then, for Derek, just with that upcoming [pause] that you mentioned for the PDCAR28 program where you're looking for the learnings from the CD19 program, just for clarification, is that after the Gen 1 data comes or do you think you would wait to see how the Stealth Cell data plays out.
+
+--------------------------------------------------------------------------------
+Derek Jantz,  Precision BioSciences - Co-Founder & Chief Strategy Officer    [30]
+--------------------------------------------------------------------------------
+Yes. So -- right. So, CD20, we will -- we'll pause after Gen 3 and really what we're -- what we're looking for is a combination of the enhanced lymphodepletion results with the Gen 1 CD19 and then the early data with CD19 Stealth Cell to start of look and see which of those appears to be the best option or is it something else entirely.
+And then, can we apply that directly to CD20? So, rather than doing experiments in all the different programs, we're using CD19 to sort of figure out what is the best way to make Allo work and then apply those learnings at cost programs.
+
+--------------------------------------------------------------------------------
+Andrea Tan,  Goldman Sachs - Analyst    [31]
+--------------------------------------------------------------------------------
+Got it. And then, maybe just one last question. With the ASCO presentation, with the focus on the NHL patients, just would love an update on how the ALL population and how those patients are doing and if it's still an indication that you were -- that you were planning to bring forward and pursue.
+
+--------------------------------------------------------------------------------
+Derek Jantz,  Precision BioSciences - Co-Founder & Chief Strategy Officer    [32]
+--------------------------------------------------------------------------------
+The focus right now -- yes. I was going to say, the focus right now really is on NHL. So, we have treated some patients in ALL with enhanced lymphodepletion.
+Our enrolment priority is NHL at the moment, so I don't know how much of an update, if any, we would give on ALL at ASCO. So, I can say maybe we will have ALL, but I can't promise anything.
+
+--------------------------------------------------------------------------------
+Andrea Tan,  Goldman Sachs - Analyst    [33]
+--------------------------------------------------------------------------------
+Got it. That's super helpful. Thanks so much.
+
+--------------------------------------------------------------------------------
+Operator    [34]
+--------------------------------------------------------------------------------
+Thank you. Our next question comes from the line of Soumit Roy from Jones Trading. Your line is now open.
+
+--------------------------------------------------------------------------------
+Soumit Roy,  JonesTrading Institutional Services, LLC - Analyst    [35]
+--------------------------------------------------------------------------------
+Hello, everyone, thank you for taking the question. This is probably a question for Alan, especially now that he's onboard formerly. How do you view the enhanced lymphodepletion versus some other peers using alemtuzumab from the physician's point of view?
+If everything else is equal curability and the response rate is equal, how do you -- is there any advantage you see, physicians see, from using alemtuzumab or not?
+
+--------------------------------------------------------------------------------
+Alan List,  Precision BioSciences - Chief Medical Officer    [36]
+--------------------------------------------------------------------------------
+Yes, it's a very good question, and I would say what I like about the enhanced lymphodepletion regimen is that we do get deeper lymphodepletion and -- which stays a bit longer. The patients' lymphocyte counts start to recover by week three and week four. So, we don't have weeks or months-worth of immunosuppression that may put the patients at risk.
+So, that -- we find that much more appealing. We've been fortunate that, since we amended the eligibility criteria -- to limit the patients who have had a recent serious infection or are at risk for prolonged Allo suppression. So far, we've had great success, and it's been very safe.
+
+--------------------------------------------------------------------------------
+Soumit Roy,  JonesTrading Institutional Services, LLC - Analyst    [37]
+--------------------------------------------------------------------------------
+Thank you, and possibly another question along the same line. When we are looking at this Allo product, are you in the camp of thinking Allo products will not have durability of persistence of these cells longer than two -- three months at the most. But during those months it will have a deeper response (inaudible). Is that how you're viewing or (inaudible)?
+
+--------------------------------------------------------------------------------
+Alan List,  Precision BioSciences - Chief Medical Officer    [38]
+--------------------------------------------------------------------------------
+Yes, I think, at this point in time, we really don't know what to expect as far as how long they're going to circulate. What we do know from autologous CAR T is that the probability of having a CR that's durable directly relates to maximal expansion in the beginning, and not necessarily for a plateau of a certain level for persistence.
+So, for -- that's what we're so excited about the stealth board you think is going to help us get a little bit more persistence also enhances with limiting initial rejections so we can get greater expansion.
+
+--------------------------------------------------------------------------------
+Soumit Roy,  JonesTrading Institutional Services, LLC - Analyst    [39]
+--------------------------------------------------------------------------------
+Thank you again for taking the questions.
+
+--------------------------------------------------------------------------------
+Alan List,  Precision BioSciences - Chief Medical Officer    [40]
+--------------------------------------------------------------------------------
+You're welcome.
+
+--------------------------------------------------------------------------------
+Operator    [41]
+--------------------------------------------------------------------------------
+Thank you. Our next question comes from the line of Raju Prasad from William Blair. Your line is now open.
+
+--------------------------------------------------------------------------------
+Sami Corwin,  William Blair & Co. - Analyst    [42]
+--------------------------------------------------------------------------------
+Hi there. This is [Sami] on for Raj. Thanks for taking our questions. I was just kind of curious how you guys are thinking about BD now. What you're kind of looking for in potential future partners and if that's an immediate priority for you.
+And then, also, thinking about the Gen 1 CD19 asset, are there any other additional levers you guys may be able to pull? Are you talking about redosing it all? Just trying to get an idea of how to think about the Gen 1 versus Stealth Cell. Thanks.
+
+--------------------------------------------------------------------------------
+Matt Kane,  Precision BioSciences - Co-Founder & CEO    [43]
+--------------------------------------------------------------------------------
+Sure. No, thanks for the question. And so, certainly there are additional levers that we've talked about in the past that we can pull we continue to explore.
+So, repeat dosing is something that we have discussed previously and have shared some data on and is something that we continue to be very interested in.
+As I alluded to earlier, we are now able to continue going up in dose and, as we indicated with our last update, we've moved to a fourth dose level, which is twice the number of cells that is used in our third dose level.
+And a host of other things one can imagine doing down the road as we continue to think about refining these products going forward.
+In particular, around lymphodepletion, but -- look, the major focus right -- for us right now is really on the enhanced lymphodepletion, which, as Derek mentioned, we expect to share an update on or an update that'll be largely focused on that in midyear, and also in getting the Stealth Cell into the clinic and we're really excited to have the possibility of dosing our first patient as earlier as this May.
+In terms of BD, right now, I think we're largely focused on moving these programs forward and continuing to gather additional data, but, as I mentioned earlier, one of the -- one of the really nice things about this new transaction with Servier is it completely opens up the landscape for us to the partner across our portfolio and at different time points that we think may make the most sense. So, more to come there, but, really, the focus for us right now is on advancing these programs.
+
+--------------------------------------------------------------------------------
+Sami Corwin,  William Blair & Co. - Analyst    [44]
+--------------------------------------------------------------------------------
+Thanks. If I could just squeeze in one more. So, the CD19 Stealth Cell, I think you said it's starting at the equivalent -- the Dose Level Three for the Gen 1. Do you see the other Stealth Cells starting at a higher death level as well?
+
+--------------------------------------------------------------------------------
+Matt Kane,  Precision BioSciences - Co-Founder & CEO    [45]
+--------------------------------------------------------------------------------
+I think it's too early to comment on where they're going to be starting. We haven't -- we haven't even filed IND for any of the other Stealths or any other Stealth Cell program other than the CD19 Stealth. I don't know. Derek or Alan, if you'd like to comments a little bit on where we'd like to see dose levels start at or not.
+
+--------------------------------------------------------------------------------
+Derek Jantz,  Precision BioSciences - Co-Founder & Chief Strategy Officer    [46]
+--------------------------------------------------------------------------------
+I'll just say it'd be -- it's be great if we could start at higher dose levels and part of the rationale for continuing to dose escalate in the Gen 1 programs is exactly that.
+It helps us sort of derisk the CAR T so that we have a stronger argument when we go to the FDA to file the IND for the Stealth Cell to argue for starting at a higher dose level. Although, ultimately, that is going to be in the hands of the regulators.
+
+--------------------------------------------------------------------------------
+Sami Corwin,  William Blair & Co. - Analyst    [47]
+--------------------------------------------------------------------------------
+Great. Thanks, guys.
+
+--------------------------------------------------------------------------------
+Matt Kane,  Precision BioSciences - Co-Founder & CEO    [48]
+--------------------------------------------------------------------------------
+Thank you.
+
+--------------------------------------------------------------------------------
+Operator    [49]
+--------------------------------------------------------------------------------
+Thank you. Our next question comes from the line of Maury Raycroft from Jefferies. Your line is now open.
+
+--------------------------------------------------------------------------------
+Farzin Haque,  Jefferies - Analyst    [50]
+--------------------------------------------------------------------------------
+Hi. This is Farzin on for Maury. So, I just wanted [some] clarification. You mentioned that we have seen dose level toxicities at higher doses beyond Dose Level 3. So, does that mean you have Dose Level 4 or 5 already?
+
+--------------------------------------------------------------------------------
+Matt Kane,  Precision BioSciences - Co-Founder & CEO    [51]
+--------------------------------------------------------------------------------
+That's (inaudible) great question -- great clarifying questions. So, I'm only referring to data that we have presented previously. So, in our last update, we were able to show Dose Level Three. No dose limiting toxicities, which has enabled us to go to our fourth dose level at this stage.
+
+--------------------------------------------------------------------------------
+Farzin Haque,  Jefferies - Analyst    [52]
+--------------------------------------------------------------------------------
+Okay. And for the new CMO, Dr. List, can you comment on how you view the DTOs CAR T approach commercially related to autologous CAR T competitors?
+
+--------------------------------------------------------------------------------
+Alan List,  Precision BioSciences - Chief Medical Officer    [53]
+--------------------------------------------------------------------------------
+Yes. I think that, if we're successful with a registration trial and get this on the market. As I mentioned earlier, the beauty of the [outstanding] CARs that are sitting there in the shelf, ready to use, is you're hitting a bigger volume.
+You don't have to await patients to be referred to a transplant center, have the apheresis done and sent to the -- to the Company due to process and then sometimes waiting about three weeks for that whole process to occur.
+Patients relapse and progress and that's problematic. This means you could when you need it and patients are ready to move. They can be administered that anywhere. There's no need for apheresis. So, I think the potential market is much, much greater than what we see right now with the autologous [covers].
+
+--------------------------------------------------------------------------------
+Farzin Haque,  Jefferies - Analyst    [54]
+--------------------------------------------------------------------------------
+Thank you.
+
+--------------------------------------------------------------------------------
+Alan List,  Precision BioSciences - Chief Medical Officer    [55]
+--------------------------------------------------------------------------------
+You're welcome.
+
+--------------------------------------------------------------------------------
+Matt Kane,  Precision BioSciences - Co-Founder & CEO    [56]
+--------------------------------------------------------------------------------
+And thank you and that's going to conclude our Q&A. And I just want to thank everybody for joining us on short notice this evening for these two important announcements.
+Again, I want to welcome Alan List as our new Chief Medical Officer and, again -- really excited to have taken full control back for both our -- for both of our CD19 programs and the other four programs that were previously within the Servier license. It's an exciting day for the Company and we'll -- as you said, we'll have more updates to come on our CAR T programs later this year. Thank you all.
+
+--------------------------------------------------------------------------------
+Operator    [57]
+--------------------------------------------------------------------------------
+This concludes today's conference call. Thanks for participating. You may now disconnect.
+
+
+
+
+
+
+
+--------------------------------------------------------------------------------
+Definitions
+--------------------------------------------------------------------------------
+PRELIMINARY TRANSCRIPT: "Preliminary Transcript" indicates that the 
+Transcript has been published in near real-time by an experienced 
+professional transcriber.  While the Preliminary Transcript is highly 
+accurate, it has not been edited to ensure the entire transcription 
+represents a verbatim report of the call.
+
+EDITED TRANSCRIPT: "Edited Transcript" indicates that a team of professional 
+editors have listened to the event a second time to confirm that the 
+content of the call has been transcribed accurately and in full.
+
+--------------------------------------------------------------------------------
+Disclaimer
+--------------------------------------------------------------------------------
+Refinitiv reserves the right to make changes to documents, content, or other 
+information on this web site without obligation to notify any person of 
+such changes.
+
+In the conference calls upon which Event Transcripts are based, companies 
+may make projections or other forward-looking statements regarding a variety 
+of items. Such forward-looking statements are based upon current 
+expectations and involve risks and uncertainties. Actual results may differ 
+materially from those stated in any forward-looking statement based on a 
+number of important factors and risks, which are more specifically 
+identified in the companies' most recent SEC filings. Although the companies 
+may indicate and believe that the assumptions underlying the forward-looking 
+statements are reasonable, any of the assumptions could prove inaccurate or 
+incorrect and, therefore, there can be no assurance that the results 
+contemplated in the forward-looking statements will be realized.
+
+THE INFORMATION CONTAINED IN EVENT TRANSCRIPTS IS A TEXTUAL REPRESENTATION
+OF THE APPLICABLE COMPANY'S CONFERENCE CALL AND WHILE EFFORTS ARE MADE TO
+PROVIDE AN ACCURATE TRANSCRIPTION, THERE MAY BE MATERIAL ERRORS, OMISSIONS,
+OR INACCURACIES IN THE REPORTING OF THE SUBSTANCE OF THE CONFERENCE CALLS.
+IN NO WAY DOES REFINITIV OR THE APPLICABLE COMPANY ASSUME ANY RESPONSIBILITY FOR ANY INVESTMENT OR OTHER
+DECISIONS MADE BASED UPON THE INFORMATION PROVIDED ON THIS WEB SITE OR IN
+ANY EVENT TRANSCRIPT. USERS ARE ADVISED TO REVIEW THE APPLICABLE COMPANY'S
+CONFERENCE CALL ITSELF AND THE APPLICABLE COMPANY'S SEC FILINGS BEFORE
+MAKING ANY INVESTMENT OR OTHER DECISIONS.
+--------------------------------------------------------------------------------
+Copyright 2023 Refinitiv. All Rights Reserved.
+--------------------------------------------------------------------------------

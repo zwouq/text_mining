@@ -1,0 +1,680 @@
+
+
+Refinitiv StreetEvents Event Transcript
+E D I T E D   V E R S I O N
+
+Amgen Inc To Acquire Horizon Therapeutics
+DECEMBER 12, 2022 / 1:00PM GMT
+
+================================================================================
+Corporate Participants
+================================================================================
+
+ * Robert A. Bradway
+   Amgen Inc. - Chairman, CEO & President
+ * Peter H. Griffith
+   Amgen Inc. - Executive VP & CFO
+ * Murdo Gordon
+   Amgen Inc. - Executive VP of Global Commercial Operations
+ * Arvind Sood
+   Amgen Inc. - VP of IR
+ * David M. Reese
+   Amgen Inc. - EVP of Research & Development
+
+================================================================================
+Conference Call Participiants
+================================================================================
+
+ * Robyn Kay Shelton Karnauskas
+   Truist Securities, Inc., Research Division - Research Analyst
+ * Michael Jonathan Yee
+   Jefferies LLC, Research Division - Equity Analyst
+ * Carter Lewis Gould
+   Barclays Bank PLC, Research Division - Senior Analyst
+ * Timothy Minton Anderson
+   Wolfe Research, LLC - MD of Equity Research
+ * Umer Raffat
+   Evercore ISI Institutional Equities, Research Division - Senior MD & Senior Analyst of Equity Research
+ * Yaron Benjamin Werber
+   Cowen and Company, LLC, Research Division - MD & Senior Biotechnology Analyst
+ * Christopher Thomas Schott
+   JPMorgan Chase & Co, Research Division - Senior Analyst
+ * Colin Nigel Bristow
+   UBS Investment Bank, Research Division - Analyst
+ * Sudan Loganathan
+    - 
+ * Jay Olson
+   Oppenheimer & Co. Inc., Research Division - Executive Director & Senior Analyst
+ * Salveen Jaswal Richter
+   Goldman Sachs Group, Inc., Research Division - VP
+ * Geoffrey Christopher Meacham
+   BofA Securities, Research Division - Research Analyst
+ * Christopher Joseph Raymond
+   Piper Sandler & Co., Research Division - MD & Senior Research Analyst
+ * Dane Vincent Leone
+   Raymond James & Associates, Inc., Research Division - MD & Biotechnology Analyst
+ * Matthew Kelsey Harrison
+   Morgan Stanley, Research Division - Executive Director
+ * David Reed Risinger
+   SVB Securities LLC, Research Division - Senior MD
+ * Mohit Bansal
+   Wells Fargo Securities, LLC, Research Division - Senior Equity Analyst
+ * Trung Chuong Huynh
+   Crédit Suisse AG, Research Division - Former Research Analyst
+
+================================================================================
+Presentation
+--------------------------------------------------------------------------------
+Operator    [1]
+--------------------------------------------------------------------------------
+Hello, and welcome. My name is Alex, and I will be your conference facilitator today for Amgen's acquisition of Horizon Therapeutics Conference Call. (Operator Instructions) I would now like to introduce Arvind Sood, Vice President of Investor Relations. Mr. Sood, you may now begin.
+
+--------------------------------------------------------------------------------
+Arvind Sood,  Amgen Inc. - VP of IR    [2]
+--------------------------------------------------------------------------------
+Alex, thank you. Good morning, everybody. Thanks for joining us on such short notice. We wanted to take this opportunity to discuss the acquisition of Horizon Therapeutics that we announced earlier this morning. Joining me this morning is our Chairman and CEO, Bob Bradway, and other members of our senior leadership team. Our slide presentation is being posted on our website under the Investor Relations section as we speak.
+I would like to direct you to our safe harbor statement on Slide 2, which in summary says that we'll make forward-looking statements through the course of our discussion today, and actual results can differ materially. So with that, over to you, Bob.
+
+--------------------------------------------------------------------------------
+Robert A. Bradway,  Amgen Inc. - Chairman, CEO & President    [3]
+--------------------------------------------------------------------------------
+Okay. Thank you, Arvind, and thank you all for joining our call on what is an important day for us at Amgen, and of course, for our colleagues at Horizon Therapeutics, but also we hope for patients and shareholders of both companies.
+Amgen's agreement to acquire Horizon for $27.8 billion in cash we think is compelling both strategically and financially. We've admired Horizon's success for some time, and we've studied their business closely through time as well. And when presented with this opportunity, we were prepared to move quickly.
+As you will see, Horizon's products are complementary to Amgen's portfolio and, in particular, complementary in the first-in-class, best-in-class nature of their innovative medicines. The acquisition builds on Amgen's success in rare diseases and provides a strong platform for us to expand in this space in the future.
+Both companies have delivered excellent stand-alone financial performance over time by successfully pursuing a core strategy of providing first-in-class medicines that have large effect sizes to patients suffering from serious diseases. TEPEZZA, KRYSTEXXA and UPLIZNA are all first-in-class biologic medicines that collectively generated $2 billion in sales through the first 9 months of the year.
+Each has been delivering strong volume-driven growth and each is still early in its life cycle. This allows shareholders of Amgen an opportunity to participate in the long-term growth of these products while also allowing Amgen to shape the additional life cycle development opportunities for these important brands.
+As with TAVNEOS, which we acquired through the ChemoCentryx transaction earlier this year, we believe there is a terrific opportunity to serve many more patients with Horizon's medicines by leveraging Amgen's world-class biologic capabilities.
+Our decades-long commercial and medical expertise in inflammation and nephrology and our extensive global presence. You'll hear more on this from Murdo in a moment. The acquisition also strengthens Amgen's already robust pipeline of potential first-in-class new medicines at all stages of clinical development. Amgen has the scale, expertise and resources to advance the most promising molecule from Horizon's pipeline at speed and to register and gain approval for them globally.
+Our world-class biomanufacturing capabilities will ensure that all Horizon medicines reach every patient every time an absolutely critical capability when treating patients suffering from serious diseases. And Dave will share more on this shortly.
+Additionally, the acquisition strengthens Amgen's already attractive financial profile. Horizon will accelerate Amgen's revenue growth and is expected to be accretive to our non-GAAP earnings per share from 2024. The combined company will generate significant cash flow enabling us to continue to invest in both internally developed and externally sourced innovation, while also maintaining a growing dividend.
+Peter will share more on the financial aspects of the transaction in a few moments. In addition to being a strong strategic and financial fit, Amgen and Horizon are also a good cultural fit. Both companies have highly engaged workforces that are mission-driven and patient-focused. This combination will strengthen Amgen's ability to attract and retain top talent who were able to create significant value for patients and shareholders.
+And we look forward to welcoming the Horizon team to Amgen with a closing expected in the first half of 2023. Now let me turn things over to Dave for a closer look at Horizon's pipeline. Dave?
+
+--------------------------------------------------------------------------------
+David M. Reese,  Amgen Inc. - EVP of Research & Development    [4]
+--------------------------------------------------------------------------------
+Thanks, Bob. I'd like to take a few minutes to talk about the grievous illnesses that Horizon is addressing and the opportunity to drive the continued advancement of Horizon's marketed products and pipeline. Let me start with the major marketed products.
+TEPEZZA, a monoclonal antibody targeting insulin-like growth factor 1 receptor, is currently indicated for thyroid eye disease, or TED. This rare autoimmune disorder associated with Graves' disease results in eye bulging, double vision, inflammation and pain. The clinical manifestations often result in significantly impaired quality of life.
+TEPEZZA treatment blocks signaling through the TSHR and IGF-1R complex, markedly reducing proptosis and improving key Graves, ophthalmology, quality of life measures. Data is expected from an additional study in 2023, which could bring TEPEZZA to more patients with chronic thyroid eye disease.
+KRYSTEXXA, a pegylated uricase enzyme, is indicated for chronic refractory gout, a debilitating disease driven by elevated serum uric acid levels. KRYSTEXXA facilitates rapid depletion of serum uric acid, leading the resolution of tophi and other gout-associated complications. Murdo will comment further on Horizon's recently launched combining KRYSTEXXA with methotrexate, which provides an opportunity for this therapy to reach more patients.
+UPLIZNA, a humanized anti-CD19 B-cell depleting monoclonal antibody, is currently indicated for the treatment of neuromyelitis optica spectrum disorder a severe autoimmune condition that can lead to blindness, paralysis and death. UPLIZNA treatment suppresses B-cell related autoimmune activity is being further studied in Phase III for the treatment of Myasthenia Gravis and IgG4-Related Disease.
+Both of these opportunities could further expand the population of grievously ill patients that may benefit from this novel therapy. Beyond these important marketed products, Horizon's pipeline has multiple opportunities in inflammation, which are very well aligned with Amgen's strong focus in this area.
+We are confident that Amgen's 40 years of biologics expertise world-class process development, manufacturing network, human data capabilities and global development scale will help to advance Verizon's pipeline. Some programs that we would briefly highlight.
+Daxdilimab is the first and only Plasmacytoid dendritic cell depleter in clinical development designed to improve and expand targeting of type 1 interferon. Daxdilimab is an ongoing or planned Phase II trials for 5 indications. Dazodalibep, a CD40-ligand specific fusion protein, has proved -- promising proof-of-concept data in rheumatoid arthritis and Sjogren's syndrome. Dazodalibep is currently in Phase II trials for 4 indications.
+HZN-825, an oral selective lysophosphatidic acid receptor 1 antagonist that blocks LPA signaling. Both preclinical and clinical data support the investigation of the antifibrotic potential of LPAR antagonism across various diseases. This innovative molecule is currently in Phase II studies for diffuse cutaneous systemic sclerosis and idiopathic pulmonary fibrosis. Both of these are grievous illnesses with few effective therapies currently available.
+HZN-1116, a fully human monoclonal antibody that binds and neutralizes the function of FLT3 ligand, is currently in Phase I in patients with stable autoimmune diseases. In summary, Amgen has the scale, expertise and resources to advance the company's pipeline molecules with speed and to support global registration and commercialization. Given the company's focus on biologics, Amgen also has the complementary process development expertise to assist the company in delivering life cycle management programs focused on new formulations and new routes of administration. Amgen is also an industry leader in biologics manufacturing, which provides opportunities for manufacturing cost efficiencies while helping to ensure the combined group's products will reach every patient every time.
+Further, Amgen has considerable expertise in drug delivery systems that benefit the patient experience. I'll now pass it to Murdo to discuss the commercial side in more detail.
+
+--------------------------------------------------------------------------------
+Murdo Gordon,  Amgen Inc. - Executive VP of Global Commercial Operations    [5]
+--------------------------------------------------------------------------------
+Thanks, Dave. I'm really excited about the opportunity to meet and work with our new colleagues at Horizon. The combined strength of our 2 teams will allow us to bring the innovative Horizon medicines to more patients around the world, drawing on Amgen's decades of experience in nephrology and inflammation.
+Horizon's mission to make a meaningful difference for patients and communities in need resonates deeply and provides an ideal cultural fit with Amgen's own mission to serve patients. With this acquisition, Amgen will build on our leadership in immunology and nephrology, bringing both innovative and biosimilar therapies to patients across a range of disease settings from asthma to dermatology and rheumatology.
+Our combined portfolio, which will now include TEPEZZA, KRYSTEXXA and  UPLIZNA as well as the recently added TAVNEOS, will address rare but serious inflammatory diseases and improve the lives of many patients. Amgen's commercial capabilities and global presence in approximately 100 markets will allow our combined team to deliver important therapies that will make a meaningful difference for more patients around the world.
+Now on the next slide, turning to TEPEZZA, which is the first and only medicine approved for thyroid eye disease. Since its FDA approval in January of 2020, this product has demonstrated strong efficacy, providing relief for many patients. The Phase III confirmatory OPTIC study found that significantly more patients treated with TEPEZZA had a meaningful improvement in their thyroid eye disease symptoms.
+Year-to-date, sales of TEPEZZA have increased 37% through the third quarter of 2022, and we see significant growth opportunity for both life cycle opportunities and geographic expansion. We expect data from an additional study in patients with chronic disease in 2023, expanding the number of patients who can benefit from TEPEZZA. Given the success of TEPEZZA in the United States, we look forward to preparing for launches around the world, including Japan, where the ongoing OPTIC-J trial is being conducted to support an approval for TEPEZZA in that market.
+Turning to KRYSTEXXA on the next slide. This is the first and only medicine approved for chronic refractory gout. KRYSTEXXA continue to reach more patients in 2022 with year-to-date sales increasing 27% year-over-year through the third quarter. Growth for KRYSTEXXA is coming from Horizon's recently launched campaign on the combination of KRYSTEXXA with methotrexate.
+KRYSTEXXA's growth will also benefit from Amgen's long-standing history with rheumatologists given our promotion of ENBREL and, more recently, TAVNEOS. On the next slide, as Dave mentioned, UPLIZNA addresses the severe autoimmune condition neuromyelitis optica spectrum disorder, or NMOSD.
+UPLIZNA is the first and only FDA-approved B-cell depleting therapeutic for the treatment of NMOSD.
+Year-to-date sales through the third quarter of 2022 were $113 million, a 148% year-over-year increase. UPLIZNA is currently approved in the U.S. and Europe with launch activities underway in Germany, Austria and France. Growth of UPLIZNA may also benefit from studies underway in Myasthenia Gravis and IgG4-related disease.
+We believe Amgen's global commercial and medical capabilities will drive broader awareness, understanding and adoption of UPLIZNA. In summary on the next slide, we're very confident that our combined team will bring the right capabilities and experience to drive the long-term growth of Horizon's portfolio.
+We believe this growth will be enhanced by Amgen's global scale and reach in approximately 100 countries and our decades of commercial and medical leadership in inflammation and nephrology. I look forward to working with the team at Horizon to bring these innovative products to more patients around the world. I'll now turn it over to Peter to talk about the financial profile and benefits of this transaction. Pete?
+
+--------------------------------------------------------------------------------
+Peter H. Griffith,  Amgen Inc. - Executive VP & CFO    [6]
+--------------------------------------------------------------------------------
+Thank you, Murdo. Good morning. You've already heard from Bob, Murdo and Dave about the strategic R&D and commercial fit for Horizon and why we are excited about the strong alignment with Amgen's long-term strategy. Let's look at the financial drivers.
+First, the combined company, on a pro forma basis, generated approximately $10 billion of free cash flow over the last 12 months through the third quarter of 2022. This robust cash flow will position us well to continue to execute on Amgen's capital allocation priorities, including sustained investment in innovation, wherever the best innovation is found, whether internal or external, continued growth of our annual dividend payment and timely deleveraging.
+Second, we expect the transaction to be accretive to our revenue growth. We also expect accretion to our non-GAAP earnings per share starting in 2024. We are expecting the transaction to close in the first half of 2023.
+Third, we expect the annual pretax cost efficiencies of at least $500 million by the end of the third fiscal year following transaction close. As noted in our Rule 2.7 Offer Announcement, we expect that there may be opportunities for cost efficiencies from leveraging Amgen's global scale, systems and processes across various functions.
+And fourth, our goal is to maintain a strong investment-grade credit profile with leverage in line with our current levels by the end of 2025. In the process, we expect to retire debt of over $10 billion through 2025. And in terms of financing the transaction, recall that our offer for Horizon is all cash.
+As noted in the Rule 2.7 Offer Announcement, we have secured bridge financing and the aggregate amount of $28.5 billion. Finally, we're not providing any updates to our previously issued guidance. This concludes our remarks on the transaction's financial outlook. And with that, I'll turn it back to Bob.
+
+--------------------------------------------------------------------------------
+Robert A. Bradway,  Amgen Inc. - Chairman, CEO & President    [7]
+--------------------------------------------------------------------------------
+Okay. Thank you, Peter. I hope by now you've all gotten a sense that we're really enthusiastic about this transaction. And as I stated earlier, Horizon is a company that we studied closely and looked -- had looked at for some time. We came to admire their focus on the needs of patients and of course, the importance of their medicines to these patients.
+We shared with you at our business review in February that our focus is on delivering long-term growth and to accessing the best innovation needed to achieve that, be it internally developed or externally sourced. This transaction is consistent with that objective. We also talked about the importance of maintaining a strong balance sheet for strategic purposes.
+The flexibility provided by our approach to capital management enabled us to move quickly to take advantage of this very compelling opportunity when it was presented to us. And as Peter noted earlier, we remain committed to maintaining a strong balance sheet and to allocating capital to the very best innovation opportunities. With that, let's open the line for questions and answers.
+
+
+================================================================================
+Questions and Answers
+--------------------------------------------------------------------------------
+Operator    [1]
+--------------------------------------------------------------------------------
+(Operator Instructions)
+Our first question for today comes from Salveen Richter from Goldman Sachs.
+
+--------------------------------------------------------------------------------
+Salveen Jaswal Richter,  Goldman Sachs Group, Inc., Research Division - VP    [2]
+--------------------------------------------------------------------------------
+Could you just comment on your thoughts around the greater than $6.5 billion in peak sales for the 3 key products, in particular, TEPEZZA, and how you expect the assets to impact or the transaction to impact your Amgen from a margins perspective in the medium term here?
+
+--------------------------------------------------------------------------------
+Robert A. Bradway,  Amgen Inc. - Chairman, CEO & President    [3]
+--------------------------------------------------------------------------------
+Salveen, we're not obviously going to be able to give product-related guidance on this call. And I think with respect to margins as well, given the nature of the regulated takeover process that we're involved in, we won't be in a position to give you any updated thoughts on margin guidance.
+As you know, looking at their historical financials, they run a very efficient, profitable business consistent with how we run our business. But we will have more to say about both of your questions, obviously, after the transaction is closed.
+
+--------------------------------------------------------------------------------
+Operator    [4]
+--------------------------------------------------------------------------------
+Our next question comes from Michael Yee of Jefferies.
+
+--------------------------------------------------------------------------------
+Michael Jonathan Yee,  Jefferies LLC, Research Division - Equity Analyst    [5]
+--------------------------------------------------------------------------------
+We had a question around the long-term guidance that your company just gave. You just gave 2030 guidance. You've got an obesity drug. Could you just maybe comment about how you thought about the acquisition and where this is going versus all the bullishness you guys just had recently this year?
+
+--------------------------------------------------------------------------------
+Robert A. Bradway,  Amgen Inc. - Chairman, CEO & President    [6]
+--------------------------------------------------------------------------------
+We remain very optimistic about the outlook for our business, Michael. Very optimistic about AMG 330. We were excited to share with you the data that underscores the reasons for our optimism at the recent medical conference. So 330 looks very promising, as do a number of other molecules in the pipeline -- excuse me, 133, 330 is a BiTE.
+So -- sorry, 133. And as are a number of other products in the pipeline, encouraging to us. So again, at the investor conference in February, we were very clear about our intention to achieve attractive long-term growth, and we remain focused on that. And we're excited about how this transaction will enable us to grow the business over the long term.
+
+--------------------------------------------------------------------------------
+Operator    [7]
+--------------------------------------------------------------------------------
+Our next question comes from Jay Olson from Oppenheimer.
+
+--------------------------------------------------------------------------------
+Jay Olson,  Oppenheimer & Co. Inc., Research Division - Executive Director & Senior Analyst    [8]
+--------------------------------------------------------------------------------
+Congrats on the deal. Since China is one of the fastest growing geographies for Amgen over the next decade. Can you just talk about how you intend to leverage Horizon's commercial portfolio in China?
+
+--------------------------------------------------------------------------------
+Robert A. Bradway,  Amgen Inc. - Chairman, CEO & President    [9]
+--------------------------------------------------------------------------------
+Maybe we broaden that out, talk about the global aspirations we have for the business. Murdo?
+
+--------------------------------------------------------------------------------
+Murdo Gordon,  Amgen Inc. - Executive VP of Global Commercial Operations    [10]
+--------------------------------------------------------------------------------
+Sure. Thank you, Jay, for the question. We're quite excited about the soon to be global expansion for a number of products in the Horizon portfolio, particularly TEPEZZA and UPLIZNA. And as you will recall, we retained the general medicine focus of our portfolio in China. So these would be products that Amgen would bring to the market there. And of course, we have our collaboration with BeiGene on the oncology side in that market.
+But overall, we see a large opportunity for Amgen, given our global presence and our global footprint, to help expand the reach of these products reach many, many more patients. So it's exciting. We're thrilled to have this opportunity. And the strategic fit of these products in our base portfolio is also really good.
+
+--------------------------------------------------------------------------------
+Operator    [11]
+--------------------------------------------------------------------------------
+Our next question comes from Evan Seigerman from BMO Capital Markets.
+
+--------------------------------------------------------------------------------
+Unidentified Audience Member    [12]
+--------------------------------------------------------------------------------
+This is Keith on for Evan. Congratulations on the big deal. We were just wondering, you now have firmly have a footprint in nephrology and inflammation beyond what Amgen has had in the past. Just wondering how does this gained expertise that change your approach to capital allocation, directions for new R&D efforts or commercialization. And then how much closer are you would you say after this acquisition to previously stated long-term growth metrics?
+
+--------------------------------------------------------------------------------
+Robert A. Bradway,  Amgen Inc. - Chairman, CEO & President    [13]
+--------------------------------------------------------------------------------
+Okay. What I would say is that our capital allocation principles remain very much intact. And I would just remind you that the principles start with a focus on allocating capital to innovation, whether it's internally or externally sourced, and we're committed to continuing to do that.
+And -- so that's an important part of what we try to do in managing the business for long-term growth. As to the balance of the business, we think we will continue to have a well-balanced business between our oncology, our general medicine and our inflammation portfolios. We think this transaction over time as well will enable us to continue to grow our international business in the ways you've just heard Murdo allude to.
+And with respect to long-term guidance, again, let me remind you what we said when we were together in February, which was that our aspirations, our objectives, as we outline them to you, were based on our assessment of our organic opportunities. We were confident then, we remain confident in what we said to you in February.
+And we noted that business development activity would be additive to what we were describing for you in February. So this is an example of a transaction that we think will be additive to the picture that we painted when we were together in February.
+
+--------------------------------------------------------------------------------
+Operator    [14]
+--------------------------------------------------------------------------------
+Our next question comes from Matthew Harrison from Morgan Stanley.
+
+--------------------------------------------------------------------------------
+Matthew Kelsey Harrison,  Morgan Stanley, Research Division - Executive Director    [15]
+--------------------------------------------------------------------------------
+I was hoping you could just comment on your confidence around positive data for the chronic TED opportunity and how you think about the size of that opportunity.
+
+--------------------------------------------------------------------------------
+Robert A. Bradway,  Amgen Inc. - Chairman, CEO & President    [16]
+--------------------------------------------------------------------------------
+Yes. So Dave?
+
+--------------------------------------------------------------------------------
+David M. Reese,  Amgen Inc. - EVP of Research & Development    [17]
+--------------------------------------------------------------------------------
+Yes. First of all, I'd point out that TEPEZZA currently has a broad indication, specific trial examining patients with chronic thyroid eye disease. Chronic should not be taken as mild here. These patients often suffer from ongoing very debilitating symptoms.
+There are preliminary data from the previous development program that give one confidence in that trial. And potentially the extension to patients with low clinical activity scores, for example, which should not be taken as meaning mild or nondebilitating disease.
+So we're looking forward to those data and the ongoing development and delivery of this medicine to patients who really suffer from a disorder that has very profound effects on quality of life.
+
+--------------------------------------------------------------------------------
+Operator    [18]
+--------------------------------------------------------------------------------
+Our next question comes from Umer Raffat from Evercore ISI.
+
+--------------------------------------------------------------------------------
+Umer Raffat,  Evercore ISI Institutional Equities, Research Division - Senior MD & Senior Analyst of Equity Research    [19]
+--------------------------------------------------------------------------------
+I have a few today, if I may, given just the size of this. Perhaps first, when the guidance first came out, I realize many investors felt there was some sort of hole in there. But then since then, given some of the obesity data, et cetera, a lot of people generally really felt like there might be something that builds some of that by 2030.
+But given the size of this transaction today, it makes me wonder, has your confidence changed on the denosumab franchise, durability beyond 2026 and any way, number one?
+Number two, and Horizon in particular, I feel like the cadence of quarterly sales in U.S. is strikingly similar to what we saw for many other [Bionad] duration therapies across various therapeutic areas. So maybe that's not too surprising. But the question is, if the next leg of growth is ex U.S. how confident are you that you can get the type of pricing that Horizon is charging in U.S., which is very high.
+And then also, from a commercial potential longer term in U.S., if cohort 1 in this Phase III, which is half the number of infusions works, how does that change the commercial potential you discussed?
+
+--------------------------------------------------------------------------------
+Robert A. Bradway,  Amgen Inc. - Chairman, CEO & President    [20]
+--------------------------------------------------------------------------------
+Sorry, I didn't catch the third question. Did you catch that Murdo?
+
+--------------------------------------------------------------------------------
+Murdo Gordon,  Amgen Inc. - Executive VP of Global Commercial Operations    [21]
+--------------------------------------------------------------------------------
+Yes, I caught it.
+
+--------------------------------------------------------------------------------
+Robert A. Bradway,  Amgen Inc. - Chairman, CEO & President    [22]
+--------------------------------------------------------------------------------
+So I'll kick off and Murdo, you can jump in. With respect to denosumab, we remain as optimistic about denosumab as ever, so no changes in our thinking about that franchise. Murdo, do you want to jump in on the other 2 questions?
+
+--------------------------------------------------------------------------------
+Murdo Gordon,  Amgen Inc. - Executive VP of Global Commercial Operations    [23]
+--------------------------------------------------------------------------------
+Yes. The cadence of the sales in the U.S. should be viewed somewhat carefully because of manufacturing disruptions and other things that affected the trends particularly on TEPEZZA. So we're actually very optimistic about continued growth in the U.S.
+And then in addition, we think, given the scale and the capabilities that Amgen brings to products like TEPEZZA and UPLIZNA we think that there's a large opportunity to extend those products. Obviously, there will be some price decrement between ex U.S. and U.S., but these are still highly profitable products with very high unmet need in the market.
+And so we're optimistic that the reimbursement will be suitable given the opportunity and the debilitating nature of these diseases. So it's both a strong view on U.S. growth as well as ex U.S. growth. And then lastly, on the question regarding the ongoing trial, looking at different infusion dosing regimens.
+There is a longer infusion dosing regimen and a shorter dosing infusion regimen. So I think that there's an opportunity to see benefit in both depending on the individual patient. So we'll see what those data show us. But in general, in the market, what you see is most patients getting the full course of treatment and continuing efficacy throughout the course of treatment. So obviously, we'll wait for those data to mature, and we'll manage them accordingly.
+
+--------------------------------------------------------------------------------
+Operator    [24]
+--------------------------------------------------------------------------------
+Our next question comes from Chris Raymond of Piper Sandler.
+
+--------------------------------------------------------------------------------
+Christopher Joseph Raymond,  Piper Sandler & Co., Research Division - MD & Senior Research Analyst    [25]
+--------------------------------------------------------------------------------
+Just on TEPEZZA, I think there's an effort internally at developing a subcu formulation. Maybe just talk about how important that format is to your plans, especially with competitors out there also developing a subcu formulation? And just -- maybe just talk about the diligence you did across the competitive spectrum.
+You've got Viridian with their subcu. There's also, I think, an oral IGF-1 in development. Maybe just talk about how you've diligenced that dynamic and how things might shake out if Amgen is not able to have a subcu product here?
+
+--------------------------------------------------------------------------------
+Robert A. Bradway,  Amgen Inc. - Chairman, CEO & President    [26]
+--------------------------------------------------------------------------------
+Sure. Murdo, why don't you kick off? And then Dave, I'm sure will want to share some thoughts.
+
+--------------------------------------------------------------------------------
+Murdo Gordon,  Amgen Inc. - Executive VP of Global Commercial Operations    [27]
+--------------------------------------------------------------------------------
+Yes. Look, first, one of the things that we feel that we bring to this transaction is the decades of experience in biologics manufacturing formulation and process development and device manufacturing, and that includes IV, subcutaneous.
+So we do think that there's an opportunity here to continue to add options to the life cycle management of the Horizon products. And I think we bring immense experience and capability to that. And -- yes, we've looked very closely at the competitive set here as part of our diligence process. And we feel that the incumbency that TEPEZZA has, the excellent efficacy profile and the opportunity to advance other life cycle options, we feel that there should be durable long-term growth for that product in particular. But Dave, maybe you want to comment more specifically?
+
+--------------------------------------------------------------------------------
+David M. Reese,  Amgen Inc. - EVP of Research & Development    [28]
+--------------------------------------------------------------------------------
+Yes, Chris, I would just underscore what Murdo said. We have immense experience, of course, in developing things like subcutaneous formulations. That was part of our thinking as we looked at both Horizon and the competitive landscape, we feel very, very good about where this product stands, its opportunities and its opportunity to help a lot more patients with what I had mentioned is a very debilitating disease. Thank you.
+
+--------------------------------------------------------------------------------
+Robert A. Bradway,  Amgen Inc. - Chairman, CEO & President    [29]
+--------------------------------------------------------------------------------
+One of the things I said, Chris, in my remarks, which I think bears on your question is that we're acquiring this company with these molecules at an early stage in their life cycle. Nice thing about that is our shareholders get to participate in the growth in those. But also it means that our team has an opportunity to influence and shape how and  we go after the life cycle management opportunities. So rest assured that think our capabilities in that regard are an important source of potential here in this transaction.
+
+--------------------------------------------------------------------------------
+Operator    [30]
+--------------------------------------------------------------------------------
+Our next question comes from Mohit Bansal from Wells Fargo.
+
+--------------------------------------------------------------------------------
+Mohit Bansal,  Wells Fargo Securities, LLC, Research Division - Senior Equity Analyst    [31]
+--------------------------------------------------------------------------------
+Congrats on the deal. Maybe if I may ask this question. So just wondering -- I can completely understand the financial rationale. A little bit more color on strategic would be good because I always thought that Amgen is entering in this new product cycle starting next year with biosimilars and all, but there's a lot of growth in near term.
+But when the -- some of these products like Prolia, XGeva and Otezla will go off right, and that's when you need some kind of supplement early-stage pipeline. So to that extent, how do you think about Horizon adding to your second half of the decade growth?
+And does this impact your ability to do more deals in that late-stage launch -- late-stage products, which could have given you growth in that time frame? Or am I reading this need incorrectly here?
+
+--------------------------------------------------------------------------------
+Robert A. Bradway,  Amgen Inc. - Chairman, CEO & President    [32]
+--------------------------------------------------------------------------------
+I don't think we would see the world quite the way you frame the question, Mo, but I hinted at this when Salveen asked her question at the outset of the call. But let me just be clear that we look forward to being able to share more information with you over time as the regulatory constraints that are in effect with an Irish transaction are removed.
+But -- while we're in this period where we are somewhat restricted from being able to share details of our thoughts, what I would say is I would reiterate what I said in my remarks and what Peter said in his, which is we think we continue to maintain a strong balance sheet, and we will continue to allocate capital to the best innovation, whether internally or externally generated.
+Our focus is on long-term growth. And so we're not trying to solve for a short or medium term, but rather we're trying to invest capital in order to generate long-term returns for our shareholders, and we think this transaction is consistent with that objective.
+
+--------------------------------------------------------------------------------
+Operator    [33]
+--------------------------------------------------------------------------------
+Our next question comes from Yaron Werber from Cowen.
+
+--------------------------------------------------------------------------------
+Yaron Benjamin Werber,  Cowen and Company, LLC, Research Division - MD & Senior Biotechnology Analyst    [34]
+--------------------------------------------------------------------------------
+Great. I have a couple of questions also, 2 financial, just 1 commercial. One, the Horizon's, obviously, Irish with about a 10% tax rate. Can your Irish sub sort of maintain that tax rate Secondly, on TEPEZZA, is there any chance you can move manufacturing back to your efficient manufacturing away from Catalent or not so much? And then finally, just on UPLIZNA, can you give us a little bit of a sense about the market opportunity that you see for that product?
+
+--------------------------------------------------------------------------------
+Robert A. Bradway,  Amgen Inc. - Chairman, CEO & President    [35]
+--------------------------------------------------------------------------------
+Okay. So maybe take it in 3 parts. Pete, do you want to tackle the tax question?
+
+--------------------------------------------------------------------------------
+Peter H. Griffith,  Amgen Inc. - Executive VP & CFO    [36]
+--------------------------------------------------------------------------------
+Yes, sure. Yaron, no tax guide. At this time, we are not offering any guidance on tax rate or implications as a result of the deal, as Bob mentioned, because of the restriction from the Irish takeover rules. Bob?
+
+--------------------------------------------------------------------------------
+Robert A. Bradway,  Amgen Inc. - Chairman, CEO & President    [37]
+--------------------------------------------------------------------------------
+Yes. On the question of manufacturing more broadly than just focused on one product, you're no doubt aware that the good Horizon is in the process of constructing some of its own manufacturing assets in Ireland. And obviously, that's something we have a great deal of scale out. And so we look forward to seeing how we can help add value to those plans.
+And obviously, we consider ourselves to be one of the world's leading, if not the world's leading, manufacturer of biologics, and we think we do it safely, reliably and efficiently. And so we will look to bring those capabilities to bear across the portfolio of biologic medicines that Horizon hasn't.
+And we also have sufficient small molecule capability that we think of the small molecules in their portfolio advance, there may be some opportunities for us there as well. With respect to UPLIZNA, again, maybe I would invite Murdo to jump in and then Dave, if you want to add any color?
+
+--------------------------------------------------------------------------------
+Murdo Gordon,  Amgen Inc. - Executive VP of Global Commercial Operations    [38]
+--------------------------------------------------------------------------------
+Thanks, Yaron. We're quite excited about UPLIZNA and the uniqueness of this product. So in the U.S., the NMOSD prevalence is about 10,000 diagnosed patients, and that's roughly 400 new diagnoses per year. So it's a rare but not ultra-orphan disease area. We see opportunities to grow the penetration of those patients in the U.S. and help them with UPLIZNA.
+Then obviously, the next kind of phase of growth would be international expansion. And then lastly, as Dave mentioned, there are life cycle opportunities with this product to study it in Myasthenia Gravis and other IgG4 disease. So really an exciting opportunity for that product to continue to grow.
+
+--------------------------------------------------------------------------------
+Operator    [39]
+--------------------------------------------------------------------------------
+Our next question comes from Chris Schott of JPMorgan.
+
+--------------------------------------------------------------------------------
+Christopher Thomas Schott,  JPMorgan Chase & Co, Research Division - Senior Analyst    [40]
+--------------------------------------------------------------------------------
+I just have a bigger picture question on TEPEZZA. And just in terms of your thoughts on the size of the TED market, I know it's been one of the core debates for TEPEZZA, particularly this year. So I know you can't give quantitative numbers, but more qualitatively, can you just talk a bit more about your views on the size of the TAM you're addressing here in terms of patient numbers and what type of penetration rates do you think are possible?
+And then just second one on TEPEZZA. There seems like a nice opportunity for the company ex U.S. Can you just elaborate a little bit more on the time frames where we can see that drug launching as we think about both Japan as well as Europe?
+
+--------------------------------------------------------------------------------
+Murdo Gordon,  Amgen Inc. - Executive VP of Global Commercial Operations    [41]
+--------------------------------------------------------------------------------
+Yes. Thanks for the question, Chris. I think the patient numbers, as you say, there are different sources for the Epi here. But somewhere in the neighborhood of 70,000 to 100,000 moderate to severe addressable TED patients in the U.S., and that's the prevalence, obviously, of diagnosed patients, and then 15,000 to 20,000 newly diagnosed patients each year also in the U.S.
+So again, this isn't an ultra-orphan disease area. This is a low prevalence disease area but one that I wouldn't call rare. And so there's an opportunity, obviously, to address these patients. And Horizon has done a really nice job of getting this product developed, approved and penetrating the U.S. market. And I think there's still work to be done to help many more patients.
+Dave alluded to the ongoing trial in chronic disease patients, which are basically -- it's the same disease, these are just patients with slightly lower clinical activity score. So -- and there are promising data already available to suggest good efficacy in those patients. So we'll await those data for expansion of the U.S. opportunity.
+Dave also mentioned that the indication is quite broad for TEPEZZA. It's for patients with thyroid eye disease. So the indication isn't limiting in any way. But nonetheless, being able to fully describe the effect of the product in patients with lower clinical activity scores is very, very important.
+And then international expansion, I won't rattle off specific dates, but there are ongoing efforts. I think one of the bigger opportunities outside the U.S. will be Japan. And of course, there's the ongoing OPTIC-J trial to support regulatory approval in that market.
+And then we'll continue to work on making sure that the full experience and presence of Amgen around the world with our well-established commercial, medical and regulatory capabilities are there to help accelerate the development and expansion of TEPEZZA.
+
+--------------------------------------------------------------------------------
+Operator    [42]
+--------------------------------------------------------------------------------
+Our next question comes from Geoff Meacham of Bank of America.
+
+--------------------------------------------------------------------------------
+Geoffrey Christopher Meacham,  BofA Securities, Research Division - Research Analyst    [43]
+--------------------------------------------------------------------------------
+Murdo, when you look at this transaction plus ChemoCentryx, these are -- at a bigger picture, looking at more orphan indications, but you guys -- you tend to classify them more as inflammation. I just wanted -- strategically if this is something that Amgen could be -- could essentially evolve into adding more and more on the rare disease front? Just kind of curious how you guys look at it from an investment from a strategy perspective?
+
+--------------------------------------------------------------------------------
+Murdo Gordon,  Amgen Inc. - Executive VP of Global Commercial Operations    [44]
+--------------------------------------------------------------------------------
+Yes. Thanks, Jeff. The strategy here is consistent with what we've looked at across the Amgen portfolio for best-in-class, first-in-class innovative, highly differentiated molecules. And I think sometimes the vernacular of orphan and rare can be distracting. So we do see this is firmly within the wheelhouse of Amgen.
+If you look at products like BLINCYTO or Nplate historically, these are products that address relatively low prevalence diseases and we've been successful in developing products like that and bringing them to market and identifying patients and ensuring that they're treated and benefit from the innovation developed by Amgen.
+So this external acquisition, I think, is consistent with that strategy. Why we're being clear on the fact that these are products that address diseases that are autoimmune or inflammatory in nature is that we have great capabilities there. We have decades of experience. We know the science, we know the customers. And we think that there's an additional benefit and fit given the therapeutic areas that these products address.
+So -- it's not an aversion to rare diseases. We embrace that if we can provide differentiated benefit. But it's really more to say that there are additional things that Amgen brings to the table here, biologics that address autoimmune and inflammatory disease. And that's squarely within our wheelhouse.
+
+--------------------------------------------------------------------------------
+Operator    [45]
+--------------------------------------------------------------------------------
+Our next question comes from David Risinger of SVB Securities.
+
+--------------------------------------------------------------------------------
+David Reed Risinger,  SVB Securities LLC, Research Division - Senior MD    [46]
+--------------------------------------------------------------------------------
+Congrats on the transaction. I have 3 questions. First, with respect to the financing, is there any possibility of an equity raise? Or is this just simply going to be financed with cash on hand and debt raised?
+Second, could you comment on your expectations for Daxdilimab? You highlighted that as the first candidate in the pipeline in development for 5 indications. And then third, with respect to Dazodalibep, the CD40 ligand, obviously, the company has a lot of experience with its own anti-CD40. Could you comment on that product specifically and whether you see that as having greater potential?
+
+--------------------------------------------------------------------------------
+Robert A. Bradway,  Amgen Inc. - Chairman, CEO & President    [47]
+--------------------------------------------------------------------------------
+Thanks for the questions, Dave. I think Pete can answer the first question very simply, maybe with 1 word.
+
+--------------------------------------------------------------------------------
+Peter H. Griffith,  Amgen Inc. - Executive VP & CFO    [48]
+--------------------------------------------------------------------------------
+As noted in the Rule 2.7 Offer Announcement, as I said, David, we secured bridge financing in the aggregate amount of $28.5 billion. So that's what we're saying right now.
+
+--------------------------------------------------------------------------------
+Robert A. Bradway,  Amgen Inc. - Chairman, CEO & President    [49]
+--------------------------------------------------------------------------------
+Cash deal, not ready deal.
+
+--------------------------------------------------------------------------------
+Peter H. Griffith,  Amgen Inc. - Executive VP & CFO    [50]
+--------------------------------------------------------------------------------
+Cash deal.
+
+--------------------------------------------------------------------------------
+Robert A. Bradway,  Amgen Inc. - Chairman, CEO & President    [51]
+--------------------------------------------------------------------------------
+So let's talk about the other 2 questions. So Dave, the 2 pipelines?
+
+--------------------------------------------------------------------------------
+David M. Reese,  Amgen Inc. - EVP of Research & Development    [52]
+--------------------------------------------------------------------------------
+So in terms of pipeline molecules, obviously, I can't say a lot given the Irish takeover rules under which we're operating. Daxdilimab, as I mentioned, is the first and only plasmacytoid dendritic cell depleter, a unique mechanism of action in multiple indications underway or about to get started in Phase II.
+So I think the data guide further development of that molecule in a very novel mechanism of action likewise with which is a CD40 ligand specific fusion protein for those who are not familiar, there are proof-of-concept data in rheumatoid arthritis and Sjogren's syndrome. And this is also now in Phase II trials in multiple indications on a total of 4 studies, and we'll be able to share more as those data unfold.
+
+--------------------------------------------------------------------------------
+Operator    [53]
+--------------------------------------------------------------------------------
+Our next question comes from Robyn Karnauskas from Truist.
+
+--------------------------------------------------------------------------------
+Robyn Kay Shelton Karnauskas,  Truist Securities, Inc., Research Division - Research Analyst    [54]
+--------------------------------------------------------------------------------
+I guess one modeling question. Can you give us the latest of the amount of patients that are taking 2 vials versus 3? Have you seen any retreatment yet? I know it's a 6-month course. And then second question is more along the pipeline, following up with David's question.
+Can you just give us some general sense of the cadence of Phase II and data readouts from the pipeline over the course of the next few years, just so we have a sense of when we should be looking for updates?
+
+--------------------------------------------------------------------------------
+Murdo Gordon,  Amgen Inc. - Executive VP of Global Commercial Operations    [55]
+--------------------------------------------------------------------------------
+Robyn, I think your first question relates to TEPEZZA, if I'm guessing appropriately here.
+
+--------------------------------------------------------------------------------
+Robyn Kay Shelton Karnauskas,  Truist Securities, Inc., Research Division - Research Analyst    [56]
+--------------------------------------------------------------------------------
+Yes. Yes, sorry. Yes.
+
+--------------------------------------------------------------------------------
+Murdo Gordon,  Amgen Inc. - Executive VP of Global Commercial Operations    [57]
+--------------------------------------------------------------------------------
+I don't have specific -- Okay. I don't have specific data on the number of vials used per dose per patient, but given that it's weight-based, that's obviously something that we'll want to understand better as we work with our Horizon colleagues.
+And then on the retreatment, I think it's relatively low. I can't give you a number there. But there are payer medical policies in place here and other things that would make that somewhat lower. But the ongoing trial that looks at different numbers of infusions should help describe what the benefit is of going longer or shorter. So we'll await those data.
+
+--------------------------------------------------------------------------------
+David M. Reese,  Amgen Inc. - EVP of Research & Development    [58]
+--------------------------------------------------------------------------------
+Yes. In terms of the cadence of data readouts, as our colleagues at Horizon have indicated the data from the chronic thyroid eye disease study is anticipated next year. We're not really able to comment at this point on data readouts for other products across the portfolio. But of course, as soon as we're able, we'll begin issuing guidance as to data expectations.
+
+--------------------------------------------------------------------------------
+Operator    [59]
+--------------------------------------------------------------------------------
+Our next question is from Dane Leone from Raymond James.
+
+--------------------------------------------------------------------------------
+Dane Vincent Leone,  Raymond James & Associates, Inc., Research Division - MD & Biotechnology Analyst    [60]
+--------------------------------------------------------------------------------
+Congratulations on the deal. It seems like a good move. Could you just maybe comment on any areas of expected scrutiny from a regulatory perspective? I think everyone is just kind of starting to look deeper in pipelines in areas of overlap for these larger transactions right now. And try and anticipate where you might have to answer some additional questions.
+Is there anything around the IL-7 assets or that do cross over into TSLP that would obviously be in consideration with TEZSPIRE or any other such type MOA overlaps, where you guys anticipate maybe having to play a little offense from the further review?
+
+--------------------------------------------------------------------------------
+Robert A. Bradway,  Amgen Inc. - Chairman, CEO & President    [61]
+--------------------------------------------------------------------------------
+No, Dane, we continue to feel very confident that this is a transaction that should close in the first half of the year, and we don't see any overlaps that should be of concern to regulators. And that's one of the things that positioned us well here in this process.
+But I understand. Look, I understand the question. I understand the level of scrutiny that question is getting across industries and across transactions. But again, I would reiterate our expectation is this will close first half of the year, and we don't think we have any overlaps of concern to regulators.
+
+--------------------------------------------------------------------------------
+Operator    [62]
+--------------------------------------------------------------------------------
+Our next question is from Colin Bristow from UBS.
+
+--------------------------------------------------------------------------------
+Colin Nigel Bristow,  UBS Investment Bank, Research Division - Analyst    [63]
+--------------------------------------------------------------------------------
+Congrats on the deal. So I guess a few sort of consider follow-ons for me. On TEPEZZA, there seems to be some debate around how much use there is already in the chronic setting and sort of the subsequent size of the opportunity. I believe Horizon has said around 15%. Is there any chance you can just speak to what the percent of use that is in the low CAS versus high CAS groups?
+Second, in terms of your subsequent therapeutic areas of interest from a BD perspective, now that you have somewhat of a presence in the ophthalmology space is -- should we view this as a sort of heightened area of interest going forward? And then third, just on your guided timing of this being accretive, is the fact you're not saying '23 simply because of the bridge facility and the unknown timing of close or there's sort of specific onetime costs that should be thinking about here?
+
+--------------------------------------------------------------------------------
+Robert A. Bradway,  Amgen Inc. - Chairman, CEO & President    [64]
+--------------------------------------------------------------------------------
+We can go through this in a stepwise fashion. Why don't we start -- Murdo, why don't you start on the TEPEZZA question? And then I'll take the BD. And Pete, you can speak to the stub year issue.
+
+--------------------------------------------------------------------------------
+Murdo Gordon,  Amgen Inc. - Executive VP of Global Commercial Operations    [65]
+--------------------------------------------------------------------------------
+Yes. Colin, I obviously don't have a different number for you on the chronic setting. I do think it's relatively low penetration, again, given medical policy from payers, et cetera. I think there's conviction on the prior prescribers that the drug will be effective in that patient population, given some data that are already available.
+But nonetheless, I think it's prudent to rely on the Horizon data for now. And then on business development in ophthalmology, I think I would -- again, I would go back to my earlier comments. We look at products and disease areas that we know well that fit well with our strategic approach.
+The fact that we happen to have an ophthalmology product now is more a function of a highly differentiated first-in-class and best-in-class product that's been developed by Horizon in an inflammatory disease area that we can bring our expertise to. And you think about our inflammation category, we've got asthma products, we have dermatology products, we have rheumatology products. Now we have ophthalmology products as well as potentially other areas.
+So that tends to be how we look at it. The one benefit, of course, of having now a presence in ophthalmology is we have biosimilars, in particular, EYLEA, that could be added to the portfolio as we call on those ophthalmologists in the future.
+
+--------------------------------------------------------------------------------
+Robert A. Bradway,  Amgen Inc. - Chairman, CEO & President    [66]
+--------------------------------------------------------------------------------
+I think that -- I think you got it all on the BD front, Murdo. On to the question about accretion and the stub year, Pete?
+
+--------------------------------------------------------------------------------
+Peter H. Griffith,  Amgen Inc. - Executive VP & CFO    [67]
+--------------------------------------------------------------------------------
+Yes. Colin, what I would say about that again is we expect the transaction to close in the first half of 2023 and with that, we expect it to be accretive to our revenue growth and non-GAAP earnings per share from 2024.
+
+--------------------------------------------------------------------------------
+Operator    [68]
+--------------------------------------------------------------------------------
+Our next question comes from Gregory Renza from RBC Capital Markets.
+
+--------------------------------------------------------------------------------
+Sudan Loganathan,   -     [69]
+--------------------------------------------------------------------------------
+This is Sudan Loganathan on for Gregory Renza. We'd like to extend congratulations on the deal. Our question is regarding the Horizon pipeline. What are your plans for the developing pipeline acquired through the Horizon deal? And can you point to any specific development program that you view as undervalued and where you can add value to a program with your expertise in the inflammation market?
+And then on top of that, how do you view the current reimbursement landscape for the rare disease marketplace? Is there any tailwinds you can highlight that drove the acquisition and interest in Horizon?
+
+--------------------------------------------------------------------------------
+Robert A. Bradway,  Amgen Inc. - Chairman, CEO & President    [70]
+--------------------------------------------------------------------------------
+Okay. But again, we'll try and take this in a couple of parts. Murdo can pick up the reimbursement question. Dave, you can jump in on the pipeline.
+
+--------------------------------------------------------------------------------
+David M. Reese,  Amgen Inc. - EVP of Research & Development    [71]
+--------------------------------------------------------------------------------
+Yes. On the pipeline, I think the molecules I highlighted are top of mind, and we look forward to advancing them. And in terms of the rest of the pipeline, we can't say a lot right now. But over time, we'll provide guidance and that will be absorbed in the Amgen's portfolio and then we would expand those products as data demand. Murdo?
+
+--------------------------------------------------------------------------------
+Murdo Gordon,  Amgen Inc. - Executive VP of Global Commercial Operations    [72]
+--------------------------------------------------------------------------------
+Yes. On reimbursement, obviously, these are severe and serious illnesses affecting relatively small populations of patients where the unmet need is really high, and these highly differentiated products have secured very good reimbursement.
+And I think with additional data sets, there are opportunities to expand the addressable patient populations and treatable patient population. So we see it as a good portfolio from that perspective.
+
+--------------------------------------------------------------------------------
+Robert A. Bradway,  Amgen Inc. - Chairman, CEO & President    [73]
+--------------------------------------------------------------------------------
+All right. I know we're pushing up towards the top of the hour, but we have a few more questions in the queue. So we'll try to get to all of you who are patiently waiting to ask questions. So why don't we draw the next caller?
+
+--------------------------------------------------------------------------------
+Operator    [74]
+--------------------------------------------------------------------------------
+Our next question comes from Tim Anderson of Wolfe Research.
+
+--------------------------------------------------------------------------------
+Timothy Minton Anderson,  Wolfe Research, LLC - MD of Equity Research    [75]
+--------------------------------------------------------------------------------
+Can you give us an idea of what portion of the $28 billion deal value comes from unapproved pipeline products versus in-line brands and indication and geographic expansion? So it's really just a question about that portion coming from the unapproved products. And then can you talk about your assumptions for LOE on the key in-line brands that Horizon brings?
+
+--------------------------------------------------------------------------------
+Robert A. Bradway,  Amgen Inc. - Chairman, CEO & President    [76]
+--------------------------------------------------------------------------------
+Tim, I think, unfortunately, given the regulated nature of this transaction and Irish takeover law, we're going to have to refrain from answering either of those questions. And I just have to leave it at that, I'm afraid.
+
+--------------------------------------------------------------------------------
+Operator    [77]
+--------------------------------------------------------------------------------
+Our next question comes from Carter Gould of Barclays.
+
+--------------------------------------------------------------------------------
+Carter Lewis Gould,  Barclays Bank PLC, Research Division - Senior Analyst    [78]
+--------------------------------------------------------------------------------
+Bob and team, you have my congratulations. I wanted to ask around the levering up here, particularly with the tax litigation overhang. Can you just talk about how you guys thought about risks there? And maybe what that implies around your assumptions on that front, potentially coming to a head while your debt could be at elevated levels for the next couple of years?
+
+--------------------------------------------------------------------------------
+Robert A. Bradway,  Amgen Inc. - Chairman, CEO & President    [79]
+--------------------------------------------------------------------------------
+Sure. Pete, do you want to jump in?
+
+--------------------------------------------------------------------------------
+Peter H. Griffith,  Amgen Inc. - Executive VP & CFO    [80]
+--------------------------------------------------------------------------------
+Absolutely. Thank you for the question. First of all, I think you're asking about the tax profile and so forth, risk to the current litigation on that, nothing new. This transaction has no effect on that. And then in terms of the tax payments and so forth that you referred to, look, as we said in our opening remarks, this transaction has very robust free cash flow generated by the combined group. I'd remind you that approximately $10 billion over the 12 months ended third quarter 2022.
+And that's going to enable us, as I mentioned before, the delever following us, and we'll continue to support investment in the combined group's pipeline and commercial brands. We feel good about that. and we're going to be -- we talked about being back to where we're at now in terms of our leverage by the end of 2025.
+
+--------------------------------------------------------------------------------
+Robert A. Bradway,  Amgen Inc. - Chairman, CEO & President    [81]
+--------------------------------------------------------------------------------
+We have one last question.
+
+--------------------------------------------------------------------------------
+Operator    [82]
+--------------------------------------------------------------------------------
+Our final question for today comes from Trung Huynh from Credit Suisse.
+
+--------------------------------------------------------------------------------
+Trung Chuong Huynh,  Crédit Suisse AG, Research Division - Former Research Analyst    [83]
+--------------------------------------------------------------------------------
+I'll be quick. Just on the call, you mentioned that you expect to keep this growing dividend and the cadence of R&D. But can you comment on the impact with regard to share repurchases? Should we continue to expect these, which you outlined in your long-term guidance at the start of the year?
+
+--------------------------------------------------------------------------------
+Robert A. Bradway,  Amgen Inc. - Chairman, CEO & President    [84]
+--------------------------------------------------------------------------------
+I think we'll give updated guidance on share repurchases when we give our guidance for '23. So we'll hold off, Trung, on that. What was the first part of your question? Was there a second piece of that?
+
+--------------------------------------------------------------------------------
+Trung Chuong Huynh,  Crédit Suisse AG, Research Division - Former Research Analyst    [85]
+--------------------------------------------------------------------------------
+No. No. No, that was it. I was just mentioning that you did mention about the growing dividend and that R&D.
+
+--------------------------------------------------------------------------------
+Robert A. Bradway,  Amgen Inc. - Chairman, CEO & President    [86]
+--------------------------------------------------------------------------------
+Yes. Indeed, yes. Indeed, we wanted to make sure to emphasize that we were committed to our objective of continuing to grow the dividend. All right. Well, again, thank you very much, and appreciate your interest in the deal and your support of our company.
+And I recognize that -- there are a number of questions there you would have liked answers to. But again, just bear with us, there are some things in the context of a transaction like this, where we're just not able to give you what might seem like even simple answers without creating regulatory challenges for ourselves and -- in the process.
+So bear with us when the transaction closes, we'll look forward to sharing appropriate information with you, and I hope you'll understand fully why this is a transaction that we are really excited about and why we think this is a deal that positions us so well for the future. So again, thanks very much. The IR team is here. And if there are further questions, they're ready to answer them for you. Thank you.
+
+--------------------------------------------------------------------------------
+Arvind Sood,  Amgen Inc. - VP of IR    [87]
+--------------------------------------------------------------------------------
+Great. Thanks, everybody.
+
+--------------------------------------------------------------------------------
+Operator    [88]
+--------------------------------------------------------------------------------
+This concludes our 2022 Q3 earnings call. You may now disconnect.
+
+
+
+
+
+
+
+--------------------------------------------------------------------------------
+Definitions
+--------------------------------------------------------------------------------
+PRELIMINARY TRANSCRIPT: "Preliminary Transcript" indicates that the 
+Transcript has been published in near real-time by an experienced 
+professional transcriber.  While the Preliminary Transcript is highly 
+accurate, it has not been edited to ensure the entire transcription 
+represents a verbatim report of the call.
+
+EDITED TRANSCRIPT: "Edited Transcript" indicates that a team of professional 
+editors have listened to the event a second time to confirm that the 
+content of the call has been transcribed accurately and in full.
+
+--------------------------------------------------------------------------------
+Disclaimer
+--------------------------------------------------------------------------------
+Refinitiv reserves the right to make changes to documents, content, or other 
+information on this web site without obligation to notify any person of 
+such changes.
+
+In the conference calls upon which Event Transcripts are based, companies 
+may make projections or other forward-looking statements regarding a variety 
+of items. Such forward-looking statements are based upon current 
+expectations and involve risks and uncertainties. Actual results may differ 
+materially from those stated in any forward-looking statement based on a 
+number of important factors and risks, which are more specifically 
+identified in the companies' most recent SEC filings. Although the companies 
+may indicate and believe that the assumptions underlying the forward-looking 
+statements are reasonable, any of the assumptions could prove inaccurate or 
+incorrect and, therefore, there can be no assurance that the results 
+contemplated in the forward-looking statements will be realized.
+
+THE INFORMATION CONTAINED IN EVENT TRANSCRIPTS IS A TEXTUAL REPRESENTATION
+OF THE APPLICABLE COMPANY'S CONFERENCE CALL AND WHILE EFFORTS ARE MADE TO
+PROVIDE AN ACCURATE TRANSCRIPTION, THERE MAY BE MATERIAL ERRORS, OMISSIONS,
+OR INACCURACIES IN THE REPORTING OF THE SUBSTANCE OF THE CONFERENCE CALLS.
+IN NO WAY DOES REFINITIV OR THE APPLICABLE COMPANY ASSUME ANY RESPONSIBILITY FOR ANY INVESTMENT OR OTHER
+DECISIONS MADE BASED UPON THE INFORMATION PROVIDED ON THIS WEB SITE OR IN
+ANY EVENT TRANSCRIPT. USERS ARE ADVISED TO REVIEW THE APPLICABLE COMPANY'S
+CONFERENCE CALL ITSELF AND THE APPLICABLE COMPANY'S SEC FILINGS BEFORE
+MAKING ANY INVESTMENT OR OTHER DECISIONS.
+--------------------------------------------------------------------------------
+Copyright 2022 Refinitiv. All Rights Reserved.
+--------------------------------------------------------------------------------

@@ -1,0 +1,426 @@
+
+
+Refinitiv StreetEvents Event Transcript
+E D I T E D   V E R S I O N
+
+Chimerix Inc to Acquire Oncoceutics Inc - Conference Call
+JANUARY 08, 2021 / 1:30PM GMT
+
+================================================================================
+Corporate Participants
+================================================================================
+
+ * Michael A. Sherman
+   Chimerix, Inc. - CEO, President & Director
+ * Michael T. Andriole
+   Chimerix, Inc. - Chief Business Officer, Secretary & CFO
+ * Joshua Allen
+    - 
+ * Allen S. Melemed
+   Chimerix, Inc. - Chief Medical Officer
+
+================================================================================
+Conference Call Participiants
+================================================================================
+
+ * Edward Patrick White
+   H.C. Wainwright & Co, LLC, Research Division - MD of Equity Research & Senior Healthcare Analyst
+ * Soumit Roy
+   JonesTrading Institutional Services, LLC, Research Division - Director & Healthcare Analyst
+ * Philip M. Nadeau
+   Cowen and Company, LLC, Research Division - MD & Senior Research Analyst
+ * David Matthew Nierengarten
+   Wedbush Securities Inc., Research Division - MD & Head of Healthcare of Equity Research
+
+================================================================================
+Presentation
+--------------------------------------------------------------------------------
+Operator    [1]
+--------------------------------------------------------------------------------
+Ladies and gentlemen, thank you for standing by, and welcome to the Chimerix Oncoceutics acquisition conference call.
+(Operator Instructions)
+I would now like to hand the conference to your speaker today, Mike Sherman. Please go ahead, sir.
+
+--------------------------------------------------------------------------------
+Michael A. Sherman,  Chimerix, Inc. - CEO, President & Director    [2]
+--------------------------------------------------------------------------------
+Good morning, everyone, and thanks for joining us. Really pleased to be able to share with you our excitement about the acquisition of Oncoceutics and their pipeline of precision small molecule oncology assets. With me on the call today is Mike Andriole, Chief Financial and Business Officer; Allen Melemed, our Chief Medical Officer; Randall Lanier, our Chief Scientific Officer; and Josh Allen, Scientific Officer -- Chief Scientific Officer of Oncoceutics. 
+My comments today will follow a presentation that we posted on the Presentations page of the Investor Relations section of our website, so please feel free to follow along. The (inaudible) teams executed extremely well in advancing brincidofovir this year, now well into the NDA review process and D-Stat, which is enrolling the second cohort of the Phase II COVID trial and about to start the Phase III AML trial. 
+Our prospects for creating tremendous value from these programs is already high. So we're not in a position where we really need to purchase new assets, and perhaps that's precisely when you can execute the most exciting transactions, when you have the luxury of being objective and opportunistic.
+Oncoceutics' lead product, ONC201, is generating, as a single agent, profound and durable responses in one of the most intractable fatal diseases like glioma. We already have visibility into much of the data that, based on discussions with the FDA, could be the basis of an accelerated approval to satisfy a tremendous unmet need and generate roughly $500 million in annual revenue. 
+You may or may not have heard of this product, but let me tell you, the leading neuro-oncologist repeatedly referenced this therapy unprompted, in our blinded research. That's just the start of why we're so excited about this transaction.
+Turning to Slide 2 of the presentation. This presentation contains forward-looking statements. So please reference this slide and our recent SEC filings for additional disclosures of risks and uncertainties. 
+On Slide 3, you'll see the Oncoceutics pipeline. This acquisition really delivers on our commitment to focus our development on areas of high unmet need within oncology. With this transaction, we add 3 small molecule drugs that span the development life cycle. We'll have pivotal data this year for ONC201 in a mutation-defined form of glioma. That drug has also shown promising response data in a form of neuroendocrine disease in a Phase II collaboration with Cleveland Clinic. 
+ONC206 has just entered the clinic, and we're in the process of preparing ONC212 for the clinic via collaboration with MD Anderson Cancer Center and Brown University. Oncoceutics' management, I have to say, has done a fabulous job harnessing the enthusiasm of investigators to advance these programs.
+As we blend this pipeline with ours, you'll see the synergy and staging really fits like a glove with the potential to deliver a continuous string of innovation for years to come. 
+If I were to try to capture our excitement about ONC201 on one slide, I think this is it on Slide 4. Actually, to be fair, it would also include the striking images we've studied showing tumors shrinking, but we'll come back to that. ONC201 represents a significant and near-term opportunity to impact patients who have no options today. H3 K27M mutant glioma is characterized as the worst of the worst in this space. And upon recurrence, there is literally no good therapeutic option. 
+Meetings with the FDA to align on an approach to registration supports a potential accelerated approval using overall response rate as primary endpoint. There is very clear guidance on the specific patient population, patients with diffuse midline glioma that are positive for the H3 K27M mutation who have had a recurrence of disease following radiation. 
+This cohort of homogeneous patients is fully enrolled with most of the data already available, and I'll share that data here today. I don't know that I've ever seen a more thorough diligence process than we've executed here, which was highlighted by our own independent assessment of the image -- images showing tumor response and blinded interviews with multiple leaders in the field. 
+Frankly, we are blown away by the response from physicians who called this product out by name as their experimental therapy of choice for these patients, given limited approved alternatives. We also have the unusual situation in which the diagnostic test to confirm this mutation is already routinely used, even though this is the only drug in advanced trials addressing this mutation. 
+That's probably sufficient to drive our enthusiasm, and yet we see ONC201 demonstrating strong response rates in a second indication as well. With intellectual property protection into the mid- to late 2030s, there's substantial opportunity to capture value in these and additional indications. 
+I think part of the reason Oncoceutics' management and shareholders are excited about this combination is the fact that our organizations will complement each other well. In particular, our team has significant experience developing, preparing for and securing approval for oncology therapies. I'm also delighted that their team is poised and eager to continue to participate in the path ahead. That engagement is a testament to their confidence in these programs.
+Let me talk now about this initial target indication, referencing Slide 5. As I mentioned, H3 K27M mutant glioma is a devastating disease. It's the most frequent histone mutation in glioma, particularly among pediatric patients, where more than half of midline brain tumors are positive for the mutation.
+It's so bad that WHO recently identified diffuse midline gliomas with this mutation as Grade 4, regardless of its underlying histology. The mutation is already identified today, either by IHC or next-gen sequencing and is part of the approved Foundation One panel. In most cases, the disease cannot be surgically resected because of its location, and so radiation is the typical first-line therapy. 
+Even that's not effective, recurrence is inevitable. Most studies evaluating these patients point to survival of less than 10 months with a weighted average of those studies around 8 months. In children with this mutation, the figure is closer to half of that. You rarely see a tumor response using RANO criteria. This is a stringent metric for measurement of tumor response. You would expect a response rate between 0% and 5% of cases. And when you see a response, they're not durable. 
+Slide 6 provides insight into why this is such an attractive opportunity from a commercial standpoint with roughly 2,000 patients annually in the U.S. As I mentioned, physicians are already pointing ONC201 trials as the best option for these patients. 
+Our research supports the notion that a response rate of 15% to 20% or more is meaningful, particularly if it's reasonably durable. We would expect ONC201 to be used in any patient as soon as possible following radiation. We've seen physicians pull this forward as a combination with radiation in a frontline setting in our pediatric trial. 
+The safety profile of this once per week oral drug will, indeed, lend itself to combinations with radiation and other drugs down the road. Chemo and Avastin have limited effect in these patients and there's nothing obvious on the horizon in late-stage development targeting this mutation. ONC201 would be the first. So with regulatory success, we see very low barriers to adoption of this therapy.
+On Slide 7, you'll see what's so exciting about ONC201's activity. This waterfall captures the still maturing data from the 50-patient registration cohort. In alignment with the FDA, these patients represent the first 50 enrolled across 5 different studies who met very specific criteria for inclusion in the registration cohort.
+The inclusion criteria are designed to create the most homogeneous patient population and to isolate the treatment effect for measurement of the primary overall response endpoint. All these patients have measurable diffuse midline glioma, harbor the H3 K27M mutation and have evidence of progression following at lease radiation therapy administered at least 90 days prior. 
+Additionally, the vast majority have also had chemo, temozolomide, despite little evidence of expected benefit, especially in MGMT-unmethylated patients as most of this population are, and, in those cases, also evidence of disease progression following that therapy. 
+In the first 30 patients treated with single-agent ONC201 in its recurrent setting, a 30% overall response rate was observed by a blinded independent assessment. Data from the next 20 patients already includes 2 additional responders and 4 other patients still remain on therapy beyond 6 months. You just don't see this kind of response with a single agent in this recurrent population. What's compelling is the durability of these responses, the fact that we're seeing some complete responses and that it's accompanied by other clinical benefits. 
+Importantly, within the central nervous system tumor population clinically evaluated to date. So beyond this registration cohort, only those with H3 K27M mutation have demonstrated objective responses to ONC201, providing evidence of the drug's mechanism. 
+We expect the final overall response rate will be 20% or better, following a separate, independent, blinded and adjudicated review of the full data set. I'll say again that we had our own imaging expert review the images of responders to date to verify the conclusions of the investigators and blinded independent central reviewer. 
+What's remarkable about these responses is their durability. You'll note the responding patients on the spider plot on Slide 8 are depicted with the red lines. In many cases, these occur over the course of several months with gradual reduction in the tumor over time. The median progression-free survival among responders is an amazing 15 months. You also see a number of patients here who may not achieve a bona fide response by RANO criteria, but, nonetheless, have tumor shrinkage providing stable disease for several months. And in fact, one patient in particular, gradually achieved a 50% reduction in tumor over the course of several months. But since it was only below that 50% threshold for one scan, didn't count as a bona fide partial response. And yet this patient clearly received benefit. You'll also note here the 4 patients still on treatment with at least the potential to show response. 
+I should note, complete response is somewhat misleading as it appears that tumors (inaudible) growth upon progression. When progression occurs, percent increases are expressed relative to the nadir, the minimum tumor measurement while on treatment rather than the actual baseline size, leading to a large numerical increase on the plot that is in reality, not as dramatic an increase in disease burden. So the potential for patients to have a 1 in 4 or 1 in 5 opportunity for this kind of durable response is really profound new hope where there was previously none. 
+On Slide 9, you can see images from one of the first patients treated in the registration cohort. This 22-year-old, well, now 26-year old, started on ONC201 single-agent therapy back in March of 2016. You can see the clear response in the primary lesion here in this image, and this patient remains alive today. 
+Here is a 55-year-old patient on Slide 10, who achieved partial response sustained for several months. In addition, this patient experienced meaningful clinical benefits, including improved gait, facial strength and language. You can imagine this had a significant impact on their quality of life. I mentioned previously, the survival expectations in these patients, a weighted average median of 8 months across multiple studies, as you see on Slide 11. ONC201 appears to separate from the pack with over 12 months median -- over a median survival so far among those in the registrational cohort.
+It would be interesting to see how the full survival curve plays out because it's most likely that the benefit would be observed among the responders such that you have a long tail on the benefit, similar to what you see with checkpoint inhibitors. As such, the median likely understates the real benefit here. 
+The safety profile of ONC201 is something you'll hear investigators refer to very positively. As you see on Slide 12, there are very few drug-related toxicities. And Grade 3 or 4 are unusual. The most frequently observed toxicities are nausea, fatigue and vomiting in a small percentage of patients. Clinicians have also observed these toxicities may be more frequent with the initial dose and subside thereafter in any event. The risk-benefit trade-off for this therapy appears to be very attractive. 
+I've talked about how this drug performs. So let me spend a few minutes on its mechanism of action, first on Slide 13. ONC201 selectively targets 2 proteins, dopamine receptor D2, or DRD2, and ClpP. By altering the activity of these 2 proteins, ONC201 triggers cancer cell death. ClpP's normal function is to degrade misfolded proteins in the mitochondria. ONC201 modifies ClpP, promoting excess degradation of proteins important for cancer cell viability. DRD2 is a neuroreceptor that regulates Ras signaling. ONC201 binds with DR2 -- DRD2 and inhibits Ras signaling, disrupting this cell survival pathway. 
+The H3 K27M mutation prevents histone methylation, driving increased expression of many oncogenes and is associated with DRD2 expression. You can see this quantitatively on Slide 14. And note in this image of mutants and wild-type midline tumors, you can see the enhanced expression of DRD2 in the mutant form, specifically for H3 K27M. The analysis of IC50 further shows the increased sensitivity of the H3 K27M mutant cells to ONC201. 
+Based on the work performed at Cleveland Clinic in neuroendocrine tumors, we've identified another potential indication where ONC201 activity is compelling. On Slide 15, you'll see a subset of neuroendocrine tumors called paraganglioma that can secrete dopamine and exhibit highly elevated DRD2 expression. A 50% resist response rate has been observed in these recurrent patients. This is otherwise another very difficult disease to treat and will be a clear area of development priority beyond glioma. This, of course, bodes well for our ability to leverage our rich biological understanding of the drug to identify other highly responsive indications. 
+The dialogue to date with regulators and particularly the FDA has clarified potential path to approval. Slide 16 captures these points. Given that brain tumors are notoriously heterogeneous, the company has worked with the FDA to align on criteria for a homogeneous population of patients with the H3 K27M mutation. This registration cohort is comprised of the first 50 patients meeting this specific criteria pooled across multiple clinical studies. 
+The FDA acknowledged that available therapy is palliative, which sets the stage for the use of overall response rate as a primary endpoint. This endpoint will be assessed by a 2-party blinded independent review team with third-party adjudication, if necessary, using RANO-HGG criteria. 
+Because these patients are all enrolled and have been treated, we expect to execute that blinded assessment this year. EMA has similarly indicated overall response as a potentially acceptable endpoint for EU marketing authorization. 
+On Slide 17, you'll note that ONC201 has also received a number of designations, including Orphan Drug, Fast Track and Rare Pediatric Disease designations, the latter introduces the possibility of a priority review voucher.
+I'll just briefly touch on the other pipeline products on Slide 18. ONC206 offers a differentiated targeting of DRD2 and ClpP, potentially enabling treatment in an expanded list of indications. It also serves as a potential tool and life cycle management of ONC201. That drug recently began a Phase I study in CNS tumors. 
+And ONC212 targets the proteins, GPR132 and ClpP with potential for treatment of both hematologic and solid tumors. Pre-IND work is ongoing in collaboration with Brown University and the MD Anderson Cancer center. 
+The terms of this transaction shown on Slide 19, cover the acquisition of Oncoceutics including its pipeline of drugs. Upfront consideration includes $39 million in equity and $39 million in cash, $14 million of which payment is deferred 12 months. There's a $20 million milestone to be paid if the blinded review yields at least 20% response in the first -- in the 50 patient registration cohort. 
+And then there are more than $300 million in regulatory and potential sales milestones. We would pay a 15% royalty on ONC201 and ONC206 sales up to $750 million and 20% on sales above that level. This transaction was signed and closed simultaneously. 
+As you'll see on Slide 20, we ended 2020 with $78 million in cash and have several levers at our disposal to access additional capital. The most obvious is capital arising from potential stockpiling of brincidofovir this year. We have also retained global rights to most programs, and then with no bank debt and several catalysts this year, we have really good optionality on additional capital. 
+So as you see on Slide 22, we've assembled a few paths to major value creation in the near term. Brincidofovir is our most advanced program now under FDA review with a PDUFA date in early April. If approved, this product is positioned to potentially contribute $80 million to $100 million in nondilutive capital annually through shipments to the strategic national stockpile.
+With good visibility already into the ONC201 data from the registration cohort, we'll have a blinded assessment of overall response this year, which could set the stage for us to begin preparations of an NDA submission. And then with these stats, we are initiating our Phase III trial in AML, and we'll have data from our Phase II trial in COVID-19 patients. 
+This makes for an exciting and really well-staged pipeline. When you look across all our programs, you'll see our full pipeline on Slide 23. It also yields a robust calendar of catalyst for the foreseeable future. 
+On Slide 24, you'll see what those catalysts look like for 2021. And this transaction along with our execution in 2020 sets the stage for really an exciting year. 
+When you step back and look at what we've done here, it's really a unique and compelling business model. You see on Slide 25. We're a management team that is very disciplined about how we make investments. We're data-driven and objective. You'll see that in spades and how we are developing DSTAT, where we've run a randomized trial from the start in COVID to maximize the value of the decision-making data we generate.
+And in the early efficacy assessment we'll make in the AML Phase III trial, leaning particularly on MRD as a highly predictive measure of ultimate Phase III success. You put that discipline into a culture of listeners and collaborators, and you have an organization that makes better decisions and execute more consistently in the long run. With that backdrop, we have a potential financing engine in our brincidofovir program, which can generate $80 million to $100 million annually for up to a decade. 
+We then focus those resources on promising oncology opportunities supported by strong clinical data. This was our vision 18 months ago, and we're thrilled to make it a reality here today.
+In closing, let me congratulate the Oncoceutics team for their work in building this platform. They've already had a tremendous impact on many patients' lives and their families. We are really excited to join forces to bring these therapies to more patients more quickly. With that, I'll open it up for your questions.
+
+
+================================================================================
+Questions and Answers
+--------------------------------------------------------------------------------
+Operator    [1]
+--------------------------------------------------------------------------------
+(Operator Instructions) 
+And our first question will come from the line of Ed White from H.C. Wainwright.
+
+--------------------------------------------------------------------------------
+Edward Patrick White,  H.C. Wainwright & Co, LLC, Research Division - MD of Equity Research & Senior Healthcare Analyst    [2]
+--------------------------------------------------------------------------------
+Congratulations on this acquisition.
+
+--------------------------------------------------------------------------------
+Michael A. Sherman,  Chimerix, Inc. - CEO, President & Director    [3]
+--------------------------------------------------------------------------------
+Thank you.
+
+--------------------------------------------------------------------------------
+Edward Patrick White,  H.C. Wainwright & Co, LLC, Research Division - MD of Equity Research & Senior Healthcare Analyst    [4]
+--------------------------------------------------------------------------------
+So you mentioned a compelling safety profile. I'm just curious if there were any patients on ONC201 that have discontinued due to adverse events or side effects?
+
+--------------------------------------------------------------------------------
+Michael A. Sherman,  Chimerix, Inc. - CEO, President & Director    [5]
+--------------------------------------------------------------------------------
+Yes. I think -- let me go ahead and let Josh answer that. But I think you'll find that the answer is an attractive one. This is a really benign agent as you hear physicians talk about it. But maybe, Josh, you can expand on that?
+
+--------------------------------------------------------------------------------
+Joshua Allen,   -     [6]
+--------------------------------------------------------------------------------
+Yes. Thanks, Mike. And thanks for the question, Ed. So yes, I echo Mike's comments there. Clearly, this is -- if you look at the published data on safety for ONC201 across a database now of roughly 350 patients, you can see it's a well-tolerated agent, particularly for oncology. As it went through the Phase I setting, you'll see the dosing was established without incidence of DLTs, further speaking to that tolerance profile. 
+But with regards to your specific question, what you really have to do in an uncontrolled setting is look at the attribution of adverse event data to the drug, of course, given that this is an advanced cancer population, and so what we have been able to comment on is that patients on clinical trials with ONC201 have not discontinued the agent due to drug-related adverse events, including duration of therapy that extends beyond 1 year.
+
+--------------------------------------------------------------------------------
+Edward Patrick White,  H.C. Wainwright & Co, LLC, Research Division - MD of Equity Research & Senior Healthcare Analyst    [7]
+--------------------------------------------------------------------------------
+Great. And maybe my second question is, you mentioned a potential second indication with a paraganglioma and perhaps moving into the frontline setting. Which of these would take priority to you? And how should we think of you bringing these studies into house instead of just looking at the Cleveland Clinic running the study?
+
+--------------------------------------------------------------------------------
+Michael A. Sherman,  Chimerix, Inc. - CEO, President & Director    [8]
+--------------------------------------------------------------------------------
+Yes. So Ed, the -- I think there -- some of these decisions are to play out. You can imagine, and it's really amazing what Oncoceutics has done. Through a combination of company-sponsored studies and investigator-initiated trials, the enthusiasm among the investigators has really driven this technology, and its part of what's been attractive to us. 
+We'll be making decisions around -- sometimes it's more effective to accelerate those and broaden those through company-sponsored trials. So that will tend to be the transition as you move toward beyond proof-of-concept and a more registrational-oriented trial. So I certainly assume that would be the case for the neuroendocrine subpopulation we've identified. 
+And how I think about prioritizing? Again, some of those decisions are to play out. For sure, this glioma application is the highest priority. It's the nearest to the potential finish line to get an approval. That having been said, when you have a drug that is active and safe as this one, I think it's our job to find ways to accelerate its development and broaden the scope. I think you referenced the moving to earlier lines of therapy in glioma, and I think that's going to be sort of a natural phenomenon of what clinicians want to do with the agent. You see better activity the earlier it's administered and sometimes prior to other therapies. 
+So I think that will be a natural progression and may or may not necessarily require formal registrational kinds of studies.
+
+--------------------------------------------------------------------------------
+Allen S. Melemed,  Chimerix, Inc. - Chief Medical Officer    [9]
+--------------------------------------------------------------------------------
+Mike, can I add a little additional comment? Oncoceutics has already performed the initial safety question on whether you can give ONC201 in combination with the radiation and temozolomide. And in those studies, as we understand that, if approved, doctors may do it different ways. We know that the combination so far is safe. We don't have efficacy data per se, but we know that it can be safely given.
+
+--------------------------------------------------------------------------------
+Edward Patrick White,  H.C. Wainwright & Co, LLC, Research Division - MD of Equity Research & Senior Healthcare Analyst    [10]
+--------------------------------------------------------------------------------
+Great. And you gave us a lot of information on 201. I was just wondering if you could expand a little bit on 206. According to clinicaltrials.org (sic) [ClinicalTrials.gov] that study that has been initiated by the NIH, Phase I won't be completed until primary completion until September of 2024. I'm just wondering what your plans are for this drug, again, internally, if you have any yet?
+
+--------------------------------------------------------------------------------
+Michael A. Sherman,  Chimerix, Inc. - CEO, President & Director    [11]
+--------------------------------------------------------------------------------
+Yes. That will be one of the early discussions we'll have about how we develop that. I think there -- especially given the success we've seen with ONC201, that with additional resources, we can accelerate that development. I think it's an example. You'll see a number of examples of a company that was just being really smart about using resources to get this program as far forward as they can. And part of the benefit of this combination is our ability to access additional capital to accelerate at all. So look for in the coming months, us to begin to lay out, hopefully, accelerate a path for all these programs.
+
+--------------------------------------------------------------------------------
+Edward Patrick White,  H.C. Wainwright & Co, LLC, Research Division - MD of Equity Research & Senior Healthcare Analyst    [12]
+--------------------------------------------------------------------------------
+Great. And maybe just a question for Mike on the cash burn. Yes. On the third quarter, you had said that you had $87.8 million in cash and a runway into the middle of 2022. Just curious as to what the cash runway looks like that?
+
+--------------------------------------------------------------------------------
+Michael T. Andriole,  Chimerix, Inc. - Chief Business Officer, Secretary & CFO    [13]
+--------------------------------------------------------------------------------
+Ed, it's Mike. Yes, thanks for the question. So as we've disclosed in this presentation, the end of year balance is approximately $78 million. Prior to this transaction, just over $53 million or so net of the upfront of this transaction. And so certainly, that gives us runway to develop this pipeline through the next string of catalysts through 2021. 
+That having been said, the brincidofovir stockpiling that we expect to occur towards the middle part of the year is an obvious source of nondilutive financing for the organization and there are several catalysts between now and then, where access to additional capital is possible. 
+So we'll continue to be smart about how we think about the runway, as Mike said. Also, we have no bank debt. And so as our interactions with BARDA and the procurement contract begin in 2021, those are also scenarios for additional financing as we think about the runway into 2022 and beyond.
+
+--------------------------------------------------------------------------------
+Michael A. Sherman,  Chimerix, Inc. - CEO, President & Director    [14]
+--------------------------------------------------------------------------------
+Thanks, Ed. We saved the announcement. So -- for your conferences coming up, so look forward to participating in that.
+
+--------------------------------------------------------------------------------
+Operator    [15]
+--------------------------------------------------------------------------------
+And our next question will come from the line of Phil Nadeau from Cowen and Company.
+
+--------------------------------------------------------------------------------
+Philip M. Nadeau,  Cowen and Company, LLC, Research Division - MD & Senior Research Analyst    [16]
+--------------------------------------------------------------------------------
+Let me add my congratulations on what seems to be a very interesting deal. A few questions on the glioma indication. How specific has the FDA been to the required response rate and durability of response to support accelerated approval? Was that delineated in the FDA interactions? Or was that largely left up to a review decision?
+
+--------------------------------------------------------------------------------
+Michael A. Sherman,  Chimerix, Inc. - CEO, President & Director    [17]
+--------------------------------------------------------------------------------
+Yes. As you can expect, they're not going to lock down on a specific response rate. So I think what was important was their acknowledgment that there really isn't a therapy there that you would expect to have activity. They recognize that the drugs used are just -- are largely palliative. 
+And so the way we look at it, well, 2 ways. One is when you ask the physicians what's meaningful to them, and as I referenced that earlier, this 15% to 20% or higher is definitely key. But durability is as important. And the durability on these responses is really part of what I find is so compelling. And the fact that in some cases, it's not like in some therapies, you'll see this quick response and then it's gone and a quick relapse. These tend to be gradually achieved and durable. And I mentioned the responders, progression-free survival of over 15 months is compelling.
+The other thing that I think the FDA will want to see, and you do see with this data is an association with clinical benefit and the number of measures, and we've seen these in most of the patients are having not only the tumor response, but clinical benefit associated with it.
+So -- and so the short answer is, as you would expect, these will be review issues with the FDA, and they'll look at a bundle of those things. I think all things that point to a very attractive profile of how this drug performs.
+
+--------------------------------------------------------------------------------
+Philip M. Nadeau,  Cowen and Company, LLC, Research Division - MD & Senior Research Analyst    [18]
+--------------------------------------------------------------------------------
+That's very helpful. My second question is just on the diagnosis of K27M glioma. How is that done? Do the patients need to have their tumors resected or biopsied in order for that to happen? And if so, appreciating that this is part of the normal panel, how often are patients -- actually patient you should put through that panel?
+
+--------------------------------------------------------------------------------
+Michael A. Sherman,  Chimerix, Inc. - CEO, President & Director    [19]
+--------------------------------------------------------------------------------
+Yes. I'll actually let Josh answer that one to get some more specifics.
+
+--------------------------------------------------------------------------------
+Joshua Allen,   -     [20]
+--------------------------------------------------------------------------------
+Yes. Thanks, Mike. So the mutation is now profiled reflexibly around major centers in the country and mostly around the world at this point because of the incorporation of the H3 K27M mutation is defining diagnostic characteristic in the workup of CNS tumors by WHO. So -- and specific to the method, there's basically 2 categories of methods available. One is to look at the protein level by immunohistochemistry, which is done by most of the patients in the adult settings. It's attractive because you can do it quickly in-house with a single slide, very limited tissue, which is an issue for these patients because biopsy is stereotactic and gets very small amounts of tissue in these midline structures.
+So IHC is mainly done in the adult setting. On the pediatric side, we see increased use of next-generation sequencing. Particularly for the H3F3A gene, though there's other genes that can produce this mutation as well that encode for histone H3.
+Importantly, on the NGS side of things, in addition to in-house sequencing panels available at a lot of major academic centers, the most frequently mutated gene resulting in the H3 K27M mutation is included on many commercially available sequencing tests, including the Foundation One CDx panel that is approved.
+
+--------------------------------------------------------------------------------
+Philip M. Nadeau,  Cowen and Company, LLC, Research Division - MD & Senior Research Analyst    [21]
+--------------------------------------------------------------------------------
+Got it. That's very helpful.
+
+--------------------------------------------------------------------------------
+Allen S. Melemed,  Chimerix, Inc. - Chief Medical Officer    [22]
+--------------------------------------------------------------------------------
+And Phil, this is Allen. Can I just add one addition to that? I totally agree with what Josh said. There are certain tumors that are too morbid at times to biopsies like diffuse intrinsic pontine gliomas, DIPGs, which tend to also be very expressive with this mutation, but oftentimes, because of the location, cannot get a biopsy. So...
+
+--------------------------------------------------------------------------------
+Philip M. Nadeau,  Cowen and Company, LLC, Research Division - MD & Senior Research Analyst    [23]
+--------------------------------------------------------------------------------
+Got it. Okay.
+
+--------------------------------------------------------------------------------
+Joshua Allen,   -     [24]
+--------------------------------------------------------------------------------
+I'm sorry, I should add one more point to that, which is you can see some data that we published in some emerging efforts with liquid biopsy in this space for exactly the reasons Allen just mentioned. There is increased research interest certainly in academics that we've incorporated into some of our trials for ONC201 on monitoring K27M levels in cerebral spinal fluid and even out in the plasma with digital droplet PCR. But we consider those methods research-only at this point and don't use them in our registration cohort.
+
+--------------------------------------------------------------------------------
+Philip M. Nadeau,  Cowen and Company, LLC, Research Division - MD & Senior Research Analyst    [25]
+--------------------------------------------------------------------------------
+Got it. Okay. That's very helpful. Third question is on IP. You noted that it goes to the mid-2030s. Is that composition of matter? What is the -- what are the patents that protect the franchise out through the mid-2030s?
+
+--------------------------------------------------------------------------------
+Michael A. Sherman,  Chimerix, Inc. - CEO, President & Director    [26]
+--------------------------------------------------------------------------------
+Go on, Mike. Go ahead and respond to that.
+
+--------------------------------------------------------------------------------
+Michael T. Andriole,  Chimerix, Inc. - Chief Business Officer, Secretary & CFO    [27]
+--------------------------------------------------------------------------------
+Yes, the -- we can discuss more offline, Phil, on that. These are method of use patents primarily out into middle part of the next decade, potentially longer patent term reinstatement. I don't know, Josh, if you have any other specifics you want to add to that?
+
+--------------------------------------------------------------------------------
+Joshua Allen,   -     [28]
+--------------------------------------------------------------------------------
+No, I think that's good. I think there's a multiringed strategy with respect to intellectual property protection there for ONC201, a number of unusual attributes with the way this drug is administered infrequently. And a lot of things that are just unexpected that led to a robust IP portfolio there. So I think it's multilayered.
+
+--------------------------------------------------------------------------------
+Philip M. Nadeau,  Cowen and Company, LLC, Research Division - MD & Senior Research Analyst    [29]
+--------------------------------------------------------------------------------
+Got it. Okay. Then last question is just on the BARDA contract. If I heard you correctly, in answer to the prior question, you expect to start having negotiations with BARDA some time over the next few months with hopes of getting a stockpiling order for mid-year. Is that correct? Or have those negotiations actually already begun?
+
+--------------------------------------------------------------------------------
+Michael A. Sherman,  Chimerix, Inc. - CEO, President & Director    [30]
+--------------------------------------------------------------------------------
+Yes. Well, the first step there would be an RFP from BARDA, which we expect to happen sometime this quarter. And then between the issuance -- and that's a public notice, so it would be both made public via the BARDA office as well as we would press release it. What's -- that's a key point just because it makes the initial -- or identifies the scope and size of what that contract is likely to be.
+And so between the RFP and the approval process, BARDA has said that we would then work on that actual procurement contract such that at or soon after the PDUFA date, we'd be in a position to have that contract secured. And then we're in a position really in the second half of the year to start actually shipping into the stockpile.
+
+--------------------------------------------------------------------------------
+Philip M. Nadeau,  Cowen and Company, LLC, Research Division - MD & Senior Research Analyst    [31]
+--------------------------------------------------------------------------------
+Got it. That is very helpful. Congratulations again on the deal.
+
+--------------------------------------------------------------------------------
+Michael A. Sherman,  Chimerix, Inc. - CEO, President & Director    [32]
+--------------------------------------------------------------------------------
+Thank you.
+
+--------------------------------------------------------------------------------
+Operator    [33]
+--------------------------------------------------------------------------------
+Our next question will come from the line of Soumit Roy from JonesTrading.
+
+--------------------------------------------------------------------------------
+Soumit Roy,  JonesTrading Institutional Services, LLC, Research Division - Director & Healthcare Analyst    [34]
+--------------------------------------------------------------------------------
+Just wanted to understand if Avastin is being used in these patient population, as these are also highly vascularized tumor type? And what would be the approximate efficacy response rate or durability of response? And what do you ascribe to the longer -- why ONC201 is showing a longer durability? Is it staying longer in the CNS PK/PD profile? Or if you can shed any light on that side?
+
+--------------------------------------------------------------------------------
+Michael A. Sherman,  Chimerix, Inc. - CEO, President & Director    [35]
+--------------------------------------------------------------------------------
+Yes. I'm going to take just a very high-level cut at that, and I'll hand that over to Josh. And as I was saying that I set out your first part of your question -- Avastin. Avastin is used and as mentioned, it is considered a palliative in these patients. It's one of the things, and it's one of the reasons why the way you perform imaging is the criteria around that are so important to make sure that you're distinguishing true responses because Avastin can sometimes mask that. 
+But you'll find no physicians at least that we've talked to that really believe they're providing meaningful benefit. I'll let Josh expand on that and probably maybe point to the rationale for the longer duration. I separate the longer duration. I'm probably not as equipped to explain why exactly it's being achieved.
+
+--------------------------------------------------------------------------------
+Joshua Allen,   -     [36]
+--------------------------------------------------------------------------------
+Yes. Thanks, Mike, and thanks for the question. So first, with respect to your Avastin question. So importantly, in the RANO criteria that we're using here, you see we exclude Avastin within a certain washout period for our cohort. And the reason for that, as you probably know, is Avastin is prone to producing pseudoresponses. So in other words, the contrast agent is not able to get into the tumor as well due to the effects on angiogenesis through the targeted agent. And so for that reason, the responses that you see come out of that are really just an artifact. 
+You don't see disappearance of the tumor on things like T2-FLAIR. And you don't see them remain durable due to the nature of what's going on. So I think it's important to note that Avastin while used in this population tends to be somewhat of a super steroid, as some people call it, it's a little bit used for symptomatic relief with some inflammation and edema that occurs in these patients. It's not known to have any benefit in this setting. It's really just used to treat those symptoms. 
+So if Avastin has not really been formally evaluated in this setting, but if it was, you would expect basically a pseudoresponse that would occur discredited by the field and the tumor would still be evident on T2-FLAIR MRI sequences, and the durability would be minimal would be the expectation. 
+The important thing to note about that, I'll say also on this T2-FLAIR part of MRI is that we've released data on ONC201 objective response rate in this population at the Society of Neuro-Oncology (sic) [Society for Neuro-Oncology] meeting late last year. And you'll note not only the 30% response rate that Mike has already shown you today by RANO-HGG criteria that looks at contrast enhancement. But importantly, you'll see a similar response rate come through on the other RANO criteria that looks at that T2-FLAIR component. So that's really a telling sign that we're seeing true responses, unlike something like Avastin that can give pseudoresponses in addition to the durability that you see that would not be expected with that agent.
+That's a good bridge to your durability question. A little bit -- maybe 2 components to my answer there for why we see a strong durability of response with this agent in contrast to many that have come before us in brain tumors and not seeing those kind of responses and duration. One, I think, has to do with sustained activity of this agent. There's really a few components that contribute to that. One is the intratumoral pharmacodynamics that occur in response to the drug lasts for a very long time after exposure to the drug. So the signaling impact, in other words, remains for many days, even after washing out the drug. The other is that it involves the microenvironment in its response. So there's a very complex response that lasts for a long time after you give ONC201. That's one reason associated with the drug. 
+The other reason we think the durability as long is associated with the mechanism of the disease and how it relates to our agent. So the H3 K27M mutation, unlike most others in neuro-oncology, is exceptionally homogeneous. It's found when the tumor occurs at the beginning. It's retained throughout tumor progression. So it's not the situation where you target a specific mutation in a tumor, you wipe out a subset of the tumor and then it's repopulated and leads to rapid resistance, translating into a short duration of response. Instead, here, we have the situation where we identify a patient with the H3 K27M mutation. It's almost always found completely throughout the tumor. And so by capitalizing on this response, we tend to get very deep responses that you see also in there in the waterfall. Everything translates to a slower acquired resistance than you would normally see in more heterogeneous population. So I hope that helps.
+
+--------------------------------------------------------------------------------
+Soumit Roy,  JonesTrading Institutional Services, LLC, Research Division - Director & Healthcare Analyst    [37]
+--------------------------------------------------------------------------------
+And one last question. Have you done, like, preclinically, have you looked into possible resistance mesogenesis or some kind of escape mechanism against a small molecule by cereal diluting the drop for over a prolonged exposure leading to channel protein expression that would pump out the drug, anything formally done in that respect?
+
+--------------------------------------------------------------------------------
+Michael A. Sherman,  Chimerix, Inc. - CEO, President & Director    [38]
+--------------------------------------------------------------------------------
+Josh?
+
+--------------------------------------------------------------------------------
+Joshua Allen,   -     [39]
+--------------------------------------------------------------------------------
+Yes. So we have done a good bit of work on that. The drug is not an efflux substrate, so it doesn't get pumped out. We have modeled acquired resistance to ONC201. And the answer depends on the tumor type. And this data has been published. So in one case, we found this regulation of the dopamine receptors through de novo point mutation, driving acquired resistance. When we looked in other tumor types, we found this regulation ClpP, the other binding target of ONC201. So the answer depends on the tumor type. 
+And with respect to sort of what you would do about that, importantly, for the second-generation product that Mike mentioned earlier, ONC206, there has been some work looking at acquired resistance to ONC201 and seeing retention of at least partial activity of ONC206 in that setting. And importantly, you'll note in that NIH trial for ONC206 that's ongoing, patients who have failed ONC201 are eligible to enroll there. So that's another clinical outlet for that setting of that question.
+
+--------------------------------------------------------------------------------
+Operator    [40]
+--------------------------------------------------------------------------------
+Our next question will come from the line of David Nierengarten from Wedbush.
+
+--------------------------------------------------------------------------------
+David Matthew Nierengarten,  Wedbush Securities Inc., Research Division - MD & Head of Healthcare of Equity Research    [41]
+--------------------------------------------------------------------------------
+I just had 2 quick ones. First off, were any of the patients who were on study, did they have any subsequent treatments, experimental or presumably palliative, but were there any other experimental treatments? And then the other question, was there any disagreement between the investigator-determined responses and the central reviews, of course, specifically, if any investigators had a response marked for a patient that was not found to be the case by the central reviewers?
+
+--------------------------------------------------------------------------------
+Michael A. Sherman,  Chimerix, Inc. - CEO, President & Director    [42]
+--------------------------------------------------------------------------------
+Actually, I'll let -- let me answer the second question and then Josh, I'll let you answer the first one about follow-on therapies. So we can actually do one better in the assessment of these scans because we had an investigator assessment and a blinded assessment for at least the first 30, the next group has just been assessed by -- the next 20 were assessed by the investigator. We've had our independent reviewer go over both of those and is essentially validating what we saw. And one of the things you'll find and this is part of the reason we brought our own person in is that there is variability in these results. But actually, the variability is far less than what we thought. And so where you would expect to see some differences, for example, a patient who achieved right at the 50% threshold, and one may call that a response, the other did not. When we say that we think the results will be north of 20%, we're kind of factoring in that and assuming you may lose one here or there. 
+I will also say, however, that even if you lost one of those responses that have been defined and agreed to between the blinded assessment and the reviewer, there's no question on the vast majority of those responses or all of them that there's patient benefit. So I think when you sort of factor that in the length of progression-free survival for those patients in the clinical benefit that they experienced, it really just made us feel good on top of our own independent rate. I'll maybe let Josh speak to the follow-on therapies.
+
+--------------------------------------------------------------------------------
+Joshua Allen,   -     [43]
+--------------------------------------------------------------------------------
+Sure. And it hits on an interesting point. So we've not really summarized and disclosed the follow-on therapy specific for this population after they come off of ONC201. But a few comments here, one is, as you pointed to when you posed the question, there's very limited options here and the options have largely been disproven in terms of efficacy and subgroups of diffuse midline gliomas. So generally, there's a lot of just end of the road treatment, if you will, once they come off. 
+But I think important to point out here is actually that due to the totality of benefit that can come from this agent, as Mike has mentioned earlier on the call, the lack of really a significant toxicity that's normally there. What we see and our investigators and our patients have advocated for this is the ability to continue ONC201 in the face of radiographic progression and be able to add some of those other palliative therapies because essentially, why not. Even with radiographic progression, sometimes patients are still driving other forms of benefit not captured by RANO. So the most typical options we see there are re-irradiation if patients can tolerate that again or the introduction of Avastin for symptomatic relief in the ways that I mentioned earlier. 
+So not summarized formally, but I suspect it's mainly reirradiation and Avastin. And we expect that to just -- again, I think it just brings up the interesting point that ONC201's benefit is extending beyond this, and they want to continue and combine with those follow-on therapies rather than halting ONC201.
+
+--------------------------------------------------------------------------------
+Allen S. Melemed,  Chimerix, Inc. - Chief Medical Officer    [44]
+--------------------------------------------------------------------------------
+Yes. This is Allen. If I can just add one minor comment on that? And I totally agree with what you were saying. FDA did even acknowledge the importance of having response that we're seeing both on the RANO high-grade glioma scale as well as the low-grade glioma scale. That also gives evidence that the drug has true effect on the tumor.
+
+--------------------------------------------------------------------------------
+David Matthew Nierengarten,  Wedbush Securities Inc., Research Division - MD & Head of Healthcare of Equity Research    [45]
+--------------------------------------------------------------------------------
+Maybe a quick follow-up, if I could. Were patients treated past progression in the study? And if so, how many of the patients were continuing treatment on like compassionate use basis or otherwise?
+
+--------------------------------------------------------------------------------
+Michael A. Sherman,  Chimerix, Inc. - CEO, President & Director    [46]
+--------------------------------------------------------------------------------
+I don't -- Joshua.
+
+--------------------------------------------------------------------------------
+Joshua Allen,   -     [47]
+--------------------------------------------------------------------------------
+As I say, I don't know that we know the answer to that other than that there were some patients that were allowed that. I don't know that I have a specific answer.
+
+--------------------------------------------------------------------------------
+Operator    [48]
+--------------------------------------------------------------------------------
+I'm not showing any further questions at this time. I'd like to turn the call over to Mike for any closing remarks.
+
+--------------------------------------------------------------------------------
+Michael A. Sherman,  Chimerix, Inc. - CEO, President & Director    [49]
+--------------------------------------------------------------------------------
+Well, thanks again for joining us. And I think one of the things you'll see aside from a really impressive platform that brought into Chimerix, we are also bringing a really impressive team. And Josh is just an example of the quality of the team members that at Oncoceutics that we're excited to join forces with. So I look forward to continuing to expand the discussions here and give updates on the programs as we move forward. Thanks again.
+
+--------------------------------------------------------------------------------
+Operator    [50]
+--------------------------------------------------------------------------------
+Ladies and gentlemen, this concludes today's conference call. Thank you for participating. You may now disconnect.
+
+
+
+
+
+
+
+--------------------------------------------------------------------------------
+Definitions
+--------------------------------------------------------------------------------
+PRELIMINARY TRANSCRIPT: "Preliminary Transcript" indicates that the 
+Transcript has been published in near real-time by an experienced 
+professional transcriber.  While the Preliminary Transcript is highly 
+accurate, it has not been edited to ensure the entire transcription 
+represents a verbatim report of the call.
+
+EDITED TRANSCRIPT: "Edited Transcript" indicates that a team of professional 
+editors have listened to the event a second time to confirm that the 
+content of the call has been transcribed accurately and in full.
+
+--------------------------------------------------------------------------------
+Disclaimer
+--------------------------------------------------------------------------------
+Refinitiv reserves the right to make changes to documents, content, or other 
+information on this web site without obligation to notify any person of 
+such changes.
+
+In the conference calls upon which Event Transcripts are based, companies 
+may make projections or other forward-looking statements regarding a variety 
+of items. Such forward-looking statements are based upon current 
+expectations and involve risks and uncertainties. Actual results may differ 
+materially from those stated in any forward-looking statement based on a 
+number of important factors and risks, which are more specifically 
+identified in the companies' most recent SEC filings. Although the companies 
+may indicate and believe that the assumptions underlying the forward-looking 
+statements are reasonable, any of the assumptions could prove inaccurate or 
+incorrect and, therefore, there can be no assurance that the results 
+contemplated in the forward-looking statements will be realized.
+
+THE INFORMATION CONTAINED IN EVENT TRANSCRIPTS IS A TEXTUAL REPRESENTATION
+OF THE APPLICABLE COMPANY'S CONFERENCE CALL AND WHILE EFFORTS ARE MADE TO
+PROVIDE AN ACCURATE TRANSCRIPTION, THERE MAY BE MATERIAL ERRORS, OMISSIONS,
+OR INACCURACIES IN THE REPORTING OF THE SUBSTANCE OF THE CONFERENCE CALLS.
+IN NO WAY DOES REFINITIV OR THE APPLICABLE COMPANY ASSUME ANY RESPONSIBILITY FOR ANY INVESTMENT OR OTHER
+DECISIONS MADE BASED UPON THE INFORMATION PROVIDED ON THIS WEB SITE OR IN
+ANY EVENT TRANSCRIPT. USERS ARE ADVISED TO REVIEW THE APPLICABLE COMPANY'S
+CONFERENCE CALL ITSELF AND THE APPLICABLE COMPANY'S SEC FILINGS BEFORE
+MAKING ANY INVESTMENT OR OTHER DECISIONS.
+--------------------------------------------------------------------------------
+Copyright 2021 Refinitiv. All Rights Reserved.
+--------------------------------------------------------------------------------

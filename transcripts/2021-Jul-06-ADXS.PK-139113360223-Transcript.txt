@@ -1,0 +1,210 @@
+
+
+Refinitiv StreetEvents Event Transcript
+E D I T E D   V E R S I O N
+
+Biosight Ltd and Advaxis Inc to Discuss Proposed Transaction Call
+JULY 06, 2021 / 12:30PM GMT
+
+================================================================================
+Corporate Participants
+================================================================================
+
+ * Kenneth A. Berlin
+   Advaxis, Inc. - President, Interim CFO, CEO & Director
+ * Roy Golan
+   Exalenz Bioscience Ltd. - President & CFO
+ * Ruth Ben Yakar
+   Biosight Ltd. - CEO
+
+================================================================================
+Conference Call Participiants
+================================================================================
+
+ * Timothy McCarthy
+   LifeSci Advisors, LLC - MD & Relationship Manager
+
+================================================================================
+Presentation
+--------------------------------------------------------------------------------
+Operator    [1]
+--------------------------------------------------------------------------------
+Greetings, and welcome to the Advaxis and Biosight merger announcement. (Operator Instructions) As a reminder, this conference is being recorded. 
+I would now like to turn the conference over to your host, Mr. Tim McCarthy with LifeSci Advisors. Thank you. You may begin.
+
+--------------------------------------------------------------------------------
+Timothy McCarthy,  LifeSci Advisors, LLC - MD & Relationship Manager    [2]
+--------------------------------------------------------------------------------
+Thank you, Melissa. Good morning. Joining me on today's call are Ken Berlin, President and CEO and Interim Chief Financial Officer of Advaxis; Andres Gutierrez; EVP and Chief Medical Officer of Advaxis; Dr. Ruth Ben Yakar, CEO of Biosight; Roy Golan, EVP and Chief Financial Officer of Biosight; and Darrel Cohen, Chief Medical Officer of Biosight. A replay of today's call will be available on the Investors section of the Advaxis' website and the [new site] for 90 days. 
+Before proceeding, we'd like to remind participants that during the course of this call, representatives of Advaxis or Biosight may provide information that contains forward-looking statements. These statements are based on assumptions that we believe are reasonable, but such forward-looking statements may prove to be incorrect. We caution you that forward-looking statements are not guarantees of future performance or events, you should not place undue reliance on them and we undertake no obligation to update them in the future. 
+I will now turn the call over to Ken Berlin, President and CEO and Interim CFO of Advaxis. Ken?
+
+--------------------------------------------------------------------------------
+Kenneth A. Berlin,  Advaxis, Inc. - President, Interim CFO, CEO & Director    [3]
+--------------------------------------------------------------------------------
+Thanks, Tim, and good morning, everyone listening to this call in the U.S., and good afternoon to those listening in Israel. 
+Today, we announced the proposed merger of Advaxis and Biosight. I'm pleased to have the opportunity to discuss this transformative news with you. I'll start by providing details surrounding Advaxis' rationale for entering into this transaction. I'll then hand it over to Dr. Ruth Ben Yakar, CEO of Biosight, who will provide an introduction to Biosight, including its lead program, aspacytarabine or BST-236, and future plans for the merged company. 
+Let's jump into what has brought us here today. At Advaxis, we've conducted an extensive review of strategic and potentially transformative options for the company while remaining dedicated to identifying a path forward that we believe will provide value to our stockholders. Over the past few years at Advaxis, we have sharpened our focus on our novel hot program in solid tumors, while also significantly reducing our cost structure and improving our balance sheet. In so doing, we put the company in a position to explore a variety of business development opportunities. 
+Part of our strategy involved the evaluation of potential business combinations with multiple companies. Our momentum in the solid tumor space within our off-the-shelf new neoantigen HOT program has been strong, and we believe that diversifying our pipeline both with later stage clinical assets and to a broader indication base would allow us to leverage our capabilities over a larger and a more diverse array of assets and create value for our shareholders. 
+While much has changed in the cancer treatment landscape with developments such as an increased adoption of checkpoint inhibitors and launch of additional targeted agents and self-therapy products, some aspects of cancer treatment remain the same. Namely, optimal cancer therapy still relies on effective and safer chemotherapies, and this merger gives Advaxis the opportunity to participate in the development and commercialization of a late-stage chemotherapeutic in the form of aspacytarabine, which will be discussed in more detail a bit later. 
+For this and other reasons, the Board of Directors of Advaxis determined that a merger with Biosight would be a compelling opportunity to create a late-stage clinical oncology company with a pipeline across both solid tumors and hematological malignancies. 
+We believe that Advaxis stockholders should be excited about this transaction for many reasons. Biosight's lead asset, aspacytarabine, has produced a compelling set of Phase I and Phase IIb clinical data which demonstrate robust efficacy and safety in the most challenging AML patient populations, such as those unfit to receive intensive chemotherapy, including patients who have high risk factors. Together, these data suggest that aspacytarabine has the potential to become a transformative new standard of care in AML and possibly in myelodysplastic syndromes as well. 
+The Biosight late-stage clinical programs, which we'll dive into in more detail later in the call, in combination with the development of earlier stage Advaxis' Lm Technology HOT program for off-the-shelf neoantigen therapy in solid tumors will provide the combined company with a diversified pipeline of clinical stage assets aimed at large and important unmet needs. Furthermore, we believe the combined seasoned management teams from both Advaxis and Biosight will be instrumental in driving the development of these programs.
+As a brief overview to those new to the Advaxis story, our pipeline is focused on a clinically validated immuno-oncology platform, our Lm Technology, which consists of an irreversibly attenuated Listeria monocytogenes bacterial vector equipped with targeted neoantigens. Treatment with Lm vectors limits infection, redirecting the immune response against the patient's cancer. We have shown that treatment with Lm-based therapies drive strong immunological activity, which has resulted in promising signals of activity in the clinic, with prolonged survival in late-stage prostate cancer demonstrated in a Phase II study when used in combination with pembrolizumab.
+In addition, a growing data set with our first drug construct from our HOT program, ADXS-503, for non-small cell lung cancer, has shown the potential to restore or enhance responses to checkpoint inhibitors and patients failing pembrolizumab as last therapy.
+Providing a little more detail on our HOT program, we have 2 constructs from this program in the clinic: ADXS-503, currently being investigated in a Phase I/II open-label study as monotherapy and in combination with pembrolizumab for the treatment of non-small cell lung cancer; and second, ADXS-504 for which we have begun a Phase I open-label study for the treatment of biochemically recurrent prostate cancer.
+We are currently in the efficacy phase of the ADXS-503 study for 2 trial arms, Part B in subjects who have progressed on pembrolizumab monotherapy who received ADXS-503 as an add-on therapy; and Part C in the first-line setting for subjects with PD-L1 expression greater than or equal to 1% who would receive checkpoint inhibitor monotherapy but are medically unfit to receive chemotherapy. The objective of both arms of this study is to restore or enhance response to checkpoint inhibitors, which would address significant unmet needs in 2 different treatment settings.
+We recently presented data at ASCO, which highlight both preliminary clinical activity and a manageable safety profile of patients in Part B of the study. In our ASCO presentation, 10 patients with prior progression on pembrolizumab had been treated with ADXS-503 with 10 evaluable for safety and 9 evaluable for efficacy. We reported a disease control rate of 44% across 9 patients. 
+In this study, we have observed signals of durable disease control, with 1 patient achieving a partial response with 60% tumor reduction confirmed beyond 1 year. Additionally, we have 3 patients who achieved stable disease, 1 with a 25% reduction in a target lesion now out to 64 weeks, and another 2 patients with stable disease remaining on treatment for 4 months and beyond 6 months, respectively. We are encouraged by the observed durable disease control in patients with immediate prior progression on pembrolizumab and believe these patients suggest treatment with ADXS-503 has the potential to enhance or restore sensitivity to checkpoint inhibitors. We also presented preliminary immune and biomarker results, which together provide important proof of mechanism of our neoantigen approach. 
+With these encouraging results in hand, we recently initiated a clinical trial to evaluate ADXS-504 in the adjuvant setting in early-stage prostate cancer patients with no detectable metastasis, but rising PSA levels after prostatectomy or radical radiotherapy. The expansion into early prostate cancer was a logical next step in that a first-generation drug construct designed to treat prostate cancer, ADXS-PSA, showed encouraging clinical activity and safety in combination with pembrolizumab in a prior study and metastatic castration-resistant prostate cancer patients, a much later setting than the one we plan to study initially with ADXS-504. 
+Next steps for the ADXS-HOT programs are continued enrollment in arms B and C of our ongoing study of ADXS-503 in non-small cell lung cancer and dosing the first patients in our recently initiated study of ADXS-504 in prostate cancer. We look forward to providing updates on these programs and believe that our unique off-the-shelf approach to neoantigen immunotherapy may be very helpful for patients with significant unmet need.
+Back to why we're holding this conference call and some more details on the transaction announced this morning. With respect to the management team, I will become the President and CEO for the newly combined company. Dr. Ruth Ben Yakar, currently CEO of Biosight, will be leaving Biosight upon closing of the merger, but has agreed to help with integration and transition activities associated with this transaction. Senior leadership of the combined company will also include Roy Golan as Chief Financial Officer as well as Dr. Andres Gutierrez and Dr. Darrel Cohen as Chief Medical Officers.
+Advaxis' executive team and Board of Directors unanimously supported this transaction and see great potential to build an industry-leading oncology company from this merger.
+Finally, I would like to extend my sincere thanks to our stockholders, partners and Board of Directors who have supported us along the path to this exciting moment. 
+With that, I would now like to turn over the call to Ruth.
+
+--------------------------------------------------------------------------------
+Ruth Ben Yakar,  Biosight Ltd. - CEO    [4]
+--------------------------------------------------------------------------------
+Thank you, Ken, and good morning, and good afternoon, everyone. The Biosight team welcomes the opportunity to combine Biosight's lead program, aspacytarabine, clinical programs and leadership team with Advaxis' Lm Technology pipeline and its financial and operational resources.
+In the start of the call, I'll review Biosight's rationale for pursuing this merger as well as the opportunity, clinical data and upcoming milestones for aspacytarabine, AML and other hematological malignancies and disorders. 
+Biosight's mission has been to develop innovative therapeutics that address significant unmet needs in large markets. Our focus is on our lead product, aspacytarabine, which is a novel antimetabolite that we believe provides the benefit of intensive chemotherapy while avoiding the associated toxicities, much of them. 
+To provide a little more detail, aspacytarabine is composed of cytarabines, which serves as the backbone of AML therapy and has done so for decades due to its superior efficacy and which now has become currently bound to asparagene to produce aspacytarabine that acts as a prodrug of cytarabine. While cytarabine is effective, it is associated with significant bone marrow, gastrointestinal and neurological toxicity, which limits its use in many AML patients who are not medically fit to receive intensive chemotherapy.
+We evaluated many strategic options that would enable the growth of Biosight and believe that this proposed merger with Advaxis is an attractive path forward, which will bring Biosight to the public market and best position us to rapidly advance our expanding aspacytarabine clinical program and allow us to diversify in solid tumors drug development.
+At the time of closing, we expect the combined company to have 5 ongoing clinical programs, 2 trials evaluating aspacytarabine, 2 HOT -- 2 ADXS-HOT programs and a strong cash position of approximately $50 million at closing.
+Next, I'd like to review the compelling data generated to date, which underscores the potential of aspacytarabine to provide the benefit of intensive chemotherapy, including in active patients, while avoiding many of its toxicities.
+As I mentioned before, treatment options for many AML patients are limited. Cytarabine has many toxicities which cannot be tolerated by approximately half of AML patients. First-line therapies for patients for intensive chemotherapy, which includes venetoclax and hypomethylating agents, have limited data in poor prognosis patient populations, including those with secondary AML and prior therapy.
+The management of long-term cytopenia with venetoclax, hypomethylating agents also remains challenging as therapy requires longer-term treatment and those interruptions are needed in the majority of patients. In addition, there is currently no approved therapy for most relapsed/refractory patients. 
+In addition to the AML patient population, we are also moving forward to evaluating aspacytarabine in patients with higher-risk myelodysplastic syndrome, or MDS, where most patients who are treated with hypomethylating agents will relapse and all progress for AML. As with AML, there is no approved therapy for most relapsed/refractory MDS patients. 
+The need for effective and less toxic chemotherapy is clear. And given both the MDS and AML markets are large and growing, predominantly affecting the elderly population, the market opportunity is clear as well.
+So before we dive into the clinical data, I'd like to highlight that from a strategic perspective, we believe aspacytarabine is uniquely positioned to serve as a new and improved checkpoint therapy. First, because we have shown compelling single agent efficacy and safety; and second, we believe aspacytarabine can be positioned as a new backbone for multiple combinations and increase the therapeutic options beyond the current HMA cytarabine backbone, which may result in benefit across a broad range of hematological diseases, malignancies and in solid tumors.
+I'd also like to point out that from a regulatory perspective, aspacytarabine has received both fast track designation and orphan drug designation, which may help us to shorten our overall development time so that we can deliver aspacytarabine to patients sooner.
+Earlier in the call, Ken described the exciting data and upcoming milestones for the HOT neoantigen program. Next, I'd like to review the compelling aspacytarabine data generated to date, which leave us encouraged about the potential of aspacytarabine to provide the benefit of intensive chemotherapy while avoiding many of the toxicities.
+We have generated data across Phase I and ongoing Phase II studies that consistent patient benefit suggesting that aspacytarabine has the potential to serve as a new of care therapy. We recently announced compelling -- completion of enrollment of our ongoing Phase II study in AML and presented data from 46 patients in the study who were evaluated both for safety and efficacy analysis in an all presentation at this year's ASCO meeting. We reported a complete remission rate of 39% in the patient population with challenging baseline characteristics, including patients with secondary AML, prior treatment with hypomethylating agents, advanced age and adverse cytogenetics. These results, combined with the fact that all responders achieved complete hematological recovery in more prolonged neutropenia or severe neurological toxicity in a monotherapy setting underscore the potential of aspacytarabine to expand the reach of intensive chemotherapy to...
+
+--------------------------------------------------------------------------------
+Operator    [5]
+--------------------------------------------------------------------------------
+Ladies and gentlemen, please standby, we're experiencing some technical difficulties.
+(technical difficulty)
+Please proceed.
+
+--------------------------------------------------------------------------------
+Ruth Ben Yakar,  Biosight Ltd. - CEO    [6]
+--------------------------------------------------------------------------------
+My apologies, I got disconnected. I was just saying that in addition to the result of the complete remission rates in the Phase II that I just presented, we reported that 63% of CRs were minimal residual disease negative, and that follow-up is ongoing. So while follow-up is still early, the median duration of response for the 46 patients evaluable at the time was not reached at the end of the patient follow-up up to 12 months, and median overall survival for all patients with 10 months, not reached at 24 months both for de novo AML patients and patients in CR. And 6.8 months in secondary AML patients, the more challenging patient population.
+To put these results in perspective, we believe aspacytarabine has the potential to provide meaningful advantages of our available therapy in a patient population with challenging baseline collectivities. Specifically, when compared to available therapy, including the venetoclax regimen, the results with aspacytarabine monotherapies suggest the following: Comparing CR with CR (inaudible) rate achieved after a median of 1 6 -- only 1 6-day course in spite of the poor prognosis baseline characteristics included in the study; rapid complete hematological recovery in responders with more prolonged neutropenia; time-limited therapy of up to 5 quarters, which may potentially lead to a durable result; and single-agent therapy with a potential to serve as a base point for combination therapy.
+So what comes next for aspacytarabine program? First, we expect to report complete primary endpoint data from our ongoing Phase II study... 
+(technical difficulty)
+
+--------------------------------------------------------------------------------
+Operator    [7]
+--------------------------------------------------------------------------------
+Please continue.
+
+--------------------------------------------------------------------------------
+Ruth Ben Yakar,  Biosight Ltd. - CEO    [8]
+--------------------------------------------------------------------------------
+Thank you, I'll continue. So what comes next for our aspacytarabine program? First, we expect to report complete primary endpoint data from our ongoing Phase II study in December this year. We also are working to expand our clinical program, first, with the recently launched Phase II open-label study in Europe in collaboration with the Groupe Francophone des Myélodysplasies, or DFM, which is -- which will expand the evaluation of aspacytarabine in patients undergoing intensive chemotherapy in relapsed/refractory...
+(technical difficulty)
+
+--------------------------------------------------------------------------------
+Operator    [9]
+--------------------------------------------------------------------------------
+Please continue.
+
+--------------------------------------------------------------------------------
+Ruth Ben Yakar,  Biosight Ltd. - CEO    [10]
+--------------------------------------------------------------------------------
+So these studies marked the first clinical evaluation of aspacytarabine in MDS and second-line therapy in AML. We look forward to providing study updates in 2022.
+Moving forward, I believe this merger agreement best positions our promising clinical programs for success with the ultimate goal of providing benefit to patients by providing a safer effective standard of care both in AML and beyond.
+Finally, I would like to express my deepest appreciation to the wonderful Biosight team, including Dr. Liat Flaishon and Dr. Shoshi Tessler, who lead our R&D activities; the founder of the company, Dr. Stela Gengrinovitch. The excellent work and dedication of the entire Biosight team enabled a significant achievements that I've presented to you today. I would also like to thank our Board of Directors and shareholders for their support over the years. 
+I'll now hand the call over to Roy Golan, Biosight's EVP and Chief Financial Officer, to discuss some specifics of the proposed merger.
+
+--------------------------------------------------------------------------------
+Roy Golan,  Exalenz Bioscience Ltd. - President & CFO    [11]
+--------------------------------------------------------------------------------
+Thanks, Ruth, and thanks to everyone for being on the call today. I would like to briefly summarize the rationale and details of the merger. By combining Advaxis and Biosight, we intend to create a leading company, which has the potential to provide transformative therapies for solid tumors and hematological malignancies. We believe our combined pipeline of clinical assets along with encouraging data combined with a strong management team and financial resources will best position us for success.
+With the combined capital of the company, the new company will build a strong financial position to execute on our goals with approximately $50 million in cash, cash equivalents and marketable securities expected at closing.
+Pursuant to the merger agreement, Advaxis will acquire all of the outstanding capital stock of Biosight in exchange for the issuance of early issuance shares of Advaxis common stock upon closing, subject to the satisfaction or waiver of customary closing conditions, including the receipt of the required approval of the Advaxis and Biosight stockholders.
+Upon completion of the merger, the former Biosight equity holders will own approximately 75% of Advaxis common stock. We are targeting the transaction to close in the second half of 2021, pending stockholder approval. The combined company will operate under the Biosight Therapeutics name, and we anticipate that its common stock will trade on NASDAQ under the new ticker symbol, BSTX. The combined company will be headquartered out of new facilities expected to be located in New Jersey and will retain Biosight's current facility in Israel.
+In summary, I believe this combination represents a tremendous opportunity. Our Board and major stockholders support this transaction and see great potential for Biosight, its new team, combined pipeline and technology to bring a transformational approach for solid tumors and hematological malignancies.
+Finally, I would like to extend my sincere thanks to the Biosight employees for their hard work and dedication, our stockholders and Board of Directors who have supported us all along the way. 
+With that, I'll turn it back over to Ken for some additional remarks.
+
+--------------------------------------------------------------------------------
+Kenneth A. Berlin,  Advaxis, Inc. - President, Interim CFO, CEO & Director    [12]
+--------------------------------------------------------------------------------
+Thanks, Roy. We believe the combination of Advaxis and Biosight creates a strong value proposition for several reasons. First, the combined pipeline of the 2 companies has the potential to provide innovative and transformative treatments both in immuno-oncology setting for solid tumors and for standard of care in AML and other hematologic malignancies and disorders. 
+Second, we believe the new company presents a compelling opportunity with a later-stage clinical asset which has the potential for a rapid path to market with fast track designation having been granted. 
+Third, Biosight will be run by a seasoned management team and Board with successful track records in drug development, commercialization and operational excellence. 
+And the fourth reason is that the strong balance sheet of the combined company would make it well capitalized for continued rapid execution across clinical programs to deliver long-term value to the shareholders.
+With that, we will now open the call for questions.
+
+--------------------------------------------------------------------------------
+Operator    [13]
+--------------------------------------------------------------------------------
+(Operator Instructions) That concludes our question-and-answer session. I'll turn the floor back to Mr. Berlin for any final comments.
+
+--------------------------------------------------------------------------------
+Kenneth A. Berlin,  Advaxis, Inc. - President, Interim CFO, CEO & Director    [14]
+--------------------------------------------------------------------------------
+Thank you. In closing, we're incredibly excited about the combination of Advaxis and Biosight and believe the combined diversified pipeline and near-term milestones have the potential to deliver both important new therapies to patients and value to our shareholders. 
+I'm grateful to the entire Advaxis team for their passion, commitment and dedication to our mission, improving the lives of people with cancer and their loved ones, and we plan to continue to pursue this mission with vigor at the combined company.
+Thank you for joining the call today. We're extremely enthusiastic about what's to come.
+
+--------------------------------------------------------------------------------
+Operator    [15]
+--------------------------------------------------------------------------------
+Thank you. This concludes today's conference. You may disconnect your lines at this time. Thank you for your participation.
+
+
+
+
+
+
+
+--------------------------------------------------------------------------------
+Definitions
+--------------------------------------------------------------------------------
+PRELIMINARY TRANSCRIPT: "Preliminary Transcript" indicates that the 
+Transcript has been published in near real-time by an experienced 
+professional transcriber.  While the Preliminary Transcript is highly 
+accurate, it has not been edited to ensure the entire transcription 
+represents a verbatim report of the call.
+
+EDITED TRANSCRIPT: "Edited Transcript" indicates that a team of professional 
+editors have listened to the event a second time to confirm that the 
+content of the call has been transcribed accurately and in full.
+
+--------------------------------------------------------------------------------
+Disclaimer
+--------------------------------------------------------------------------------
+Refinitiv reserves the right to make changes to documents, content, or other 
+information on this web site without obligation to notify any person of 
+such changes.
+
+In the conference calls upon which Event Transcripts are based, companies 
+may make projections or other forward-looking statements regarding a variety 
+of items. Such forward-looking statements are based upon current 
+expectations and involve risks and uncertainties. Actual results may differ 
+materially from those stated in any forward-looking statement based on a 
+number of important factors and risks, which are more specifically 
+identified in the companies' most recent SEC filings. Although the companies 
+may indicate and believe that the assumptions underlying the forward-looking 
+statements are reasonable, any of the assumptions could prove inaccurate or 
+incorrect and, therefore, there can be no assurance that the results 
+contemplated in the forward-looking statements will be realized.
+
+THE INFORMATION CONTAINED IN EVENT TRANSCRIPTS IS A TEXTUAL REPRESENTATION
+OF THE APPLICABLE COMPANY'S CONFERENCE CALL AND WHILE EFFORTS ARE MADE TO
+PROVIDE AN ACCURATE TRANSCRIPTION, THERE MAY BE MATERIAL ERRORS, OMISSIONS,
+OR INACCURACIES IN THE REPORTING OF THE SUBSTANCE OF THE CONFERENCE CALLS.
+IN NO WAY DOES REFINITIV OR THE APPLICABLE COMPANY ASSUME ANY RESPONSIBILITY FOR ANY INVESTMENT OR OTHER
+DECISIONS MADE BASED UPON THE INFORMATION PROVIDED ON THIS WEB SITE OR IN
+ANY EVENT TRANSCRIPT. USERS ARE ADVISED TO REVIEW THE APPLICABLE COMPANY'S
+CONFERENCE CALL ITSELF AND THE APPLICABLE COMPANY'S SEC FILINGS BEFORE
+MAKING ANY INVESTMENT OR OTHER DECISIONS.
+--------------------------------------------------------------------------------
+Copyright 2021 Refinitiv. All Rights Reserved.
+--------------------------------------------------------------------------------

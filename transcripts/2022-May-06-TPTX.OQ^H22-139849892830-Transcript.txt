@@ -1,0 +1,315 @@
+
+
+Refinitiv StreetEvents Event Transcript
+E D I T E D   V E R S I O N
+
+Turning Point Therapeutics Inc into an Exclusive License Agreement with LaNova Medicines Ltd Call
+MAY 05, 2022 / 10:00PM GMT
+
+================================================================================
+Corporate Participants
+================================================================================
+
+ * Adam D. Levy
+   Turning Point Therapeutics, Inc. - SVP of IR & Corporate Communications
+ * Kumar Srinivasan
+    - 
+ * Athena Maria Countouriotis
+   Turning Point Therapeutics, Inc. - President & CEO
+
+================================================================================
+Conference Call Participiants
+================================================================================
+
+ * Paul Choi
+   Goldman Sachs Group, Inc., Research Division - Equity Analyst
+ * Matthew Cornell Biegler
+   Oppenheimer & Co. Inc., Research Division - Associate
+ * Michael Werner Schmidt
+   Guggenheim Securities, LLC, Research Division - Senior Analyst & Senior MD
+ * Tyler Martin Van Buren
+   TD Cowen, Research Division - MD & Senior Equity Research Analyst
+ * Bradley Patrick Canino
+   Stifel, Nicolaus & Company, Incorporated, Research Division - Research Analyst
+ * Nicholas Abbott
+    - 
+ * Andrew Scott Berens
+   SVB Securities LLC, Research Division - Senior MD of Medical Supplies and Devices & Senior Research Analyst
+
+================================================================================
+Presentation
+--------------------------------------------------------------------------------
+Operator    [1]
+--------------------------------------------------------------------------------
+Good day, and thank you for standing by. Welcome to the TPTX Investor Call. (Operator Instructions) Please be advised that today's conference is being recorded. 
+(Operator Instructions) I would now like to turn the conference over to your speaker today, Mr. Adam Levy. Please go ahead.
+
+--------------------------------------------------------------------------------
+Adam D. Levy,  Turning Point Therapeutics, Inc. - SVP of IR & Corporate Communications    [2]
+--------------------------------------------------------------------------------
+Good afternoon, everyone. Thank you for joining our call. This morning, we issued a news release to announce the licensing of LM-302 from LaNova Medicines Ltd. During today's call, we will reference the slide presentation that you can find on Events page of our website, tptherapeutics.com. Joining the call today will be Athena Countouriotis, President and Chief Executive Officer of Turning Point Therapeutics; and Kumar Srinivasan, our Chief Business Officer. 
+Before Athena begins, I want to remind you that during this conference call, we will be making forward-looking statements. The company's actual results may differ materially from those expressed in or indicated by such forward-looking statements. For a description of risk factors associated with investing in Turning Point Therapeutics, please refer to our recent filings with the Securities and Exchange Commission.
+Now let me turn the call over to Athena.
+
+--------------------------------------------------------------------------------
+Athena Maria Countouriotis,  Turning Point Therapeutics, Inc. - President & CEO    [3]
+--------------------------------------------------------------------------------
+Thank you, Adam, and thank you to everyone joining us on the call today. Beginning on Slide 3. Since the inception of Turning Point, we have consistently focused our strategy of becoming a leader in precision oncology, designing and developing novel targeted therapies for cancer treatment. We continue to progress and expand our clinical pipeline and leverage our capabilities across discovery and development. Today's news is consistent and supportive of that strategy. 
+On Slide 4, we are excited to announce the expansion of our clinical stage pipeline with the company's first in-license of LM-302 now known as TPX-4589, a potential first-in-class antibody growth conjugate targeting Claudin18.2. This clinical-stage drug candidate comes to us from LaNova Medicines, a privately held China-based biotech company. 
+During the call, I will briefly go over the strategy that brought us to this licensing deal and share some comments on why we found this compound so compelling. I will then hand off to Kumar Srinivasan, our Chief Business Officer, who joined us in June of last year after leading the Business Development team at AstraZeneca for 10 years. Kumar will outline the deal terms that also highlight the potential for continued expansion of our pipeline with additional ADCs under this agreement. 
+Moving to Slide 5. Over the past several years, we have purposely built Turning Point to discover, develop and ultimately deliver novel therapies that target biomarker-driven cancers in areas of unmet medical need. Those efforts have led to the current portfolio of now 5 clinical stage assets with repotrectinib as our lead asset now heading towards our first pre-NDA meeting of the company. We are known for our deep clinical and regulatory expertise, led by Mohammad, and TPX-4589 fits nicely into our pipeline and we believe enables leverage of the full breadth and depth of our development capabilities. 
+Over the past year, I've spoken about the strength of our balance sheet and how that provides us the ability to strategically expand our portfolio. We've been highly disciplined in focusing on opportunities that fit with our strategy to develop potentially best-in-class or first-in-class therapy while maintaining our strong balance sheet with 2 years of current cash. Today's licensing deal represents us executing on exactly that strategy, and we look forward to sharing data, both preclinical and eventually clinical, as we progress TPX-4589.
+Slide 6 outlines the target, Claudin18.2, which is a tight junction protein involved in regulation of permeability and barrier function. In the cancer setting, Claudin18.2 can become exposed on the cell surface, which allows it to be targeted. Currently, there are no approved therapies against this target, and TPX-4589 has the potential to be a first-in-class anti Claudin18.2 ADC. 
+Antibody-drug conjugates are clearly an important tool in the field of clinical oncology. With a number of ADCs now approved, many using the same linker and payload, the objective has been maximizing therapeutic impact while minimizing safety and tolerability concerns.
+As shown on Slide 7, TPX-4589 is an ADC that is comprised of a novel recombinant humanized anti-Claudin18.2 monoclonal antibody with a linker and payload that have been both utilized in several approved ADCs. The team at LaNova has produced strong preclinical data with this agent that show its ability to suppress self-proliferation in gastric and pancreatic cell lines with nanomolar potency. 
+In addition, preclinical data supports the potential to target both low and high expression levels, which we believe could be an important differentiator versus other investigational therapies. We look forward to sharing the preclinical data at a future medical conference. 
+On Slide 8, TPX-4589 is currently being studied in a Phase I open-label dose escalation study in the United States in patients with advanced solid tumors. Upon identification of the recommended Phase II dose, we intend to begin a dose expansion within the Phase I, where patients with advanced solid tumors expressing Claudin18.2 will be studied. 
+In parallel, our partner, LaNova, is progressing a Phase I/II study in patients with advanced solid tumors expressing Claudin18.2 in China. We look forward to working closely with LaNova to transition the ongoing U.S.-based Phase I study.
+Let me now turn the call over to Kumar, who will share more on the deal terms announced today. Kumar?
+
+--------------------------------------------------------------------------------
+Kumar Srinivasan,   -     [4]
+--------------------------------------------------------------------------------
+Thank you, Athena, and good afternoon, everyone. I'm excited to announce my team's first in-license since joining Turning Point. As Athena mentioned, my team has been focused on expanding our pipeline in a capital-efficient manner in areas where we believe there are synergies that could leverage our existing strengths and minimize the need for internal expertise build and spend. We are focused within oncology for potentially first best-in-class or first-in-class targets primarily from early candidate nomination stage to Phase I to further leverage the infrastructure and talent we have built.
+The deal we are announcing today, as outlined on Slide 9, gives us exclusive worldwide rights outside of Greater China and South Korea to develop and commercialize TPX-4589. The upfront payment is $25 million, and the deal includes development and regulatory milestones of up to an additional $195 million. 
+LaNova will receive tiered royalties ranging from mid-single digit to mid-teens based on commercial sales of TPX-4589 in the Turning Point territory. They are also eligible to receive sales-based milestones. As part of the deal, we have the potential to add up to 3 additional ADC programs from LaNova's pipeline.
+Again, we believe this allows us to grow into a new area in a highly efficient manner without a full internal buildup ADC core capabilities and have chosen our first drug candidate with a potentially important target for GI cancers and utilizing a well known linker and a payload. We will continue to evaluate other opportunities as we grow our business, and I personally look forward to speaking with you more over time.
+Let me now turn the call back to Athena.
+
+--------------------------------------------------------------------------------
+Athena Maria Countouriotis,  Turning Point Therapeutics, Inc. - President & CEO    [5]
+--------------------------------------------------------------------------------
+Thank you, Kumar. In summary, we are very pleased with the strong strategic fit of TPX-4589 and the growth of our clinical pipeline. And with this deal, we have the potential to further grow our portfolio with additional ADCs over time.
+As outlined on Slide 10, we look forward to a busy and productive next 12 to 18 months as we continue to make advancements across our pipeline and prepare for our first pre-NDA meeting for our lead asset, repotrectinib. 
+We can now turn the call over for questions. As you can entirely tell, I'm battling a cold, so apologize for the tone of my voice. Operator, you can please open the line.
+
+
+================================================================================
+Questions and Answers
+--------------------------------------------------------------------------------
+Operator    [1]
+--------------------------------------------------------------------------------
+(Operator Instructions) First question comes from the line of Paul Choi from Goldman Sachs.
+
+--------------------------------------------------------------------------------
+Paul Choi,  Goldman Sachs Group, Inc., Research Division - Equity Analyst    [2]
+--------------------------------------------------------------------------------
+A couple of questions from us. Maybe first, if you could maybe just elaborate a little bit more on the target in ADC and what in particular stood out for you as you surveyed the landscape of available similar assets that are out there in development in the category. 
+And then my second question is, Athena, I guess, as you diversify the modalities that you employ here at Turning Point, can you maybe just elaborate a little bit more on sort of the broader strategy here as you think about the intermediate to longer term here and how you think about the shape of the company and potential value creation for your investors?
+
+--------------------------------------------------------------------------------
+Athena Maria Countouriotis,  Turning Point Therapeutics, Inc. - President & CEO    [3]
+--------------------------------------------------------------------------------
+Yes. Paul, thank you for the questions. Maybe let me start with the second. As I said in my prepared remarks, the vision of the company has always been the same, which is to be a leader within targeted oncology. And as you know, our (inaudible) current scaffold has delivered 4 clinical stage assets now in 6 ongoing clinical trials.
+We've additionally been bolstering up our research portion of the company, where we're now 50 strong. And so in many ways, we're looking to bolt on synergistic assets that are not necessarily based on structure-based drug design because we believe that we have that well-handled internally with our discovery team, especially as they move aggressively towards G12D as our first development candidate would come this year.
+So with that lens, it really was -- if you look at the way our portfolio has been built, quite a bit of focus within non-small cell lung cancer as well as gastrointestinal tumors. You can take that in the context of repotrectinib, of course, in the combination trial as well as in the NTRK setting. Gastrointestinal tumors are obviously evaluated with the MET program, 0022 elzovantinib program, eventually hopefully our G12D programs. So this asset fits nicely into that area that we have already been focused on tremendously with Mohammad's team. 
+I think looking across the landscape, it's interesting. I asked many -- as you know, we presented our top line data outside of the process of AACR. But I asked folks what was interesting at AACR and many people ironically said this target. And so we were incredibly happy to be moving forward with this partnership. 
+We did look there are monoclonal antibodies, there are ADCs. We were incredibly focused on this one given the fact that it could be a first-in-class ADC, clearly could have better opportunity than a monoclonal antibody. We have alluded to some of the preclinical data that we've already seen that has not been publicly disclosed. So we'll look forward to sharing that with you. 
+And it's also a unique asset that that's already in 2 ongoing Phase I studies. So again, it fits nicely right into where we're focused, which is obviously clinical development execution. So that's really it. It's why we looked at this one more than any other. And as it relates to the target, of course, this is a targetable opportunity for us that's already been established with one company that's already at Phase II.
+
+--------------------------------------------------------------------------------
+Operator    [4]
+--------------------------------------------------------------------------------
+Next question is from Tyler Van Buren from Cowen.
+
+--------------------------------------------------------------------------------
+Tyler Martin Van Buren,  TD Cowen, Research Division - MD & Senior Equity Research Analyst    [5]
+--------------------------------------------------------------------------------
+Nice to see you guys had another candidate with a well-structured deal. I recall hearing positive comments about Claudin18.2 after AACR. So specifically, I'd like to ask why you believe an ADC should be preferred over bi-specifics or T cell engagers against this target. 
+And then the second question is, what about the preclinical data gives you confidence that it won't be too toxic and that safety data will translate into humans?
+
+--------------------------------------------------------------------------------
+Athena Maria Countouriotis,  Turning Point Therapeutics, Inc. - President & CEO    [6]
+--------------------------------------------------------------------------------
+Yes. Maybe let me take this first. We have always said that we were going to be focused on cell therapy. So I would just take away the CAR-T component from where we've been focusing. We have internal expertise in terms of development with ADCs as well as antibodies. 
+And I do think, as I said to Paul, that the ADC does have an opportunity broader than ADCC and CDC like activity that you see with them on a total. And, obviously, the compound that's moving the fastest is a monoclonal antibody that is being utilized in a combination approach with chemotherapy. So there also could be limitations there. 
+So again, I wouldn't say too much more as to why we chose ADC versus antibody, but the preclinical data, we were intrigued in and we alluded to it a little bit in the script as it relates to ability to potentially address low, medium and high expressers, which obviously would be a bigger opportunity than the asset I'm referring to that's predominantly being explored in high expressers only. 
+And I look forward, Tyler, to sharing more data in the future. At this point, it hasn't been publicly disclosed. So we'll just say that we've seen obviously cell line data, we've seen xenograft model data, and we look forward to sharing that in the future.
+
+--------------------------------------------------------------------------------
+Operator    [7]
+--------------------------------------------------------------------------------
+Next one on the queue is Brad Canino from Stifel.
+
+--------------------------------------------------------------------------------
+Bradley Patrick Canino,  Stifel, Nicolaus & Company, Incorporated, Research Division - Research Analyst    [8]
+--------------------------------------------------------------------------------
+Congrats on the deal from me as well while maintaining the strong balance sheet still. Athena, as you said, your company's internal core competency is really around small molecule precision oncology. 
+So can you just discuss your confidence level when it comes to vetting and validating LaNova's ADC technology considering all these nuances, payload, DAR, linkerology. I mean even when I look across some of the public market ADC companies, predictability of preclinical translation has been challenging there. So I'd just like to hear your comments around this.
+
+--------------------------------------------------------------------------------
+Athena Maria Countouriotis,  Turning Point Therapeutics, Inc. - President & CEO    [9]
+--------------------------------------------------------------------------------
+Yes. I mean this is what -- Kumar could definitely add to it as well. I think no matter what we have in terms of our internal expertise, we also use quite a bit of consultants. And this was an area where we source, as you can imagine, the most seasoned folks that have come out of very big, well-established companies that have used the same linker payload. You can figure out which one that is. And we use them in the context of evaluating predominantly CMC as well as some of the preclinical data.
+So in addition to the internal folks that we have, we also consulted quite a few. I think no matter what also, this is being developed through a very well-known manufacturer. So again, we would say the confidence that we have at least on the CMC front. 
+I'm not going to give anything more today as it relates to translatability from the preclinical data versus what we've seen in the clinic. We've seen some initial clinical data that's been focused obviously on safety as this is a Phase I dose escalation both in the U.S. as well as the ongoing study in Japan. Both of those trials do have multiple patients that have now been dosed. And I just look forward to sharing more information over time.
+
+--------------------------------------------------------------------------------
+Operator    [10]
+--------------------------------------------------------------------------------
+Next one on the queue is Nick Abbott from Wells Fargo.
+
+--------------------------------------------------------------------------------
+Nicholas Abbott,   -     [11]
+--------------------------------------------------------------------------------
+Congratulations on the deal. I would say, this is a hot target for sure. So maybe just first one. You said that you had options up to 3 additional ADCs in the pipeline. So are these products that are sort of in preclinical development at LaNova? Is this an opportunity for you to suggest a different target, for example, or even a different payload technology?
+
+--------------------------------------------------------------------------------
+Athena Maria Countouriotis,  Turning Point Therapeutics, Inc. - President & CEO    [12]
+--------------------------------------------------------------------------------
+Let me ask Kumar to address that, Nick.
+
+--------------------------------------------------------------------------------
+Kumar Srinivasan,   -     [13]
+--------------------------------------------------------------------------------
+Yes. Nick, yes. We have all of the options above. We haven't really decided which any of the programs they have in the pipeline that we would take as a second program, but those discussions and evaluations will be ongoing in the coming days. And...
+
+--------------------------------------------------------------------------------
+Nicholas Abbott,   -     [14]
+--------------------------------------------------------------------------------
+Okay. And then, Kumar, obviously, when you were at AZ, presumably you were involved in the Daiichi deal and that sort of that and Immunomedics. So if I summarize base payloads and bystander effects, seems to have moved the field forward a little bit more or at least reignited interest in the field. How did you think about going back to an auristatin payload versus the topoisomerase platforms?
+
+--------------------------------------------------------------------------------
+Kumar Srinivasan,   -     [15]
+--------------------------------------------------------------------------------
+So what I can tell you, Nick, is that the data that we have seen plus all the -- as I alluded -- as Athena alluded to, give us good confidence that this could be an interesting molecule for us. I think you have to wait more for it in terms of data where we can disclose at upcoming scientific conference.
+
+--------------------------------------------------------------------------------
+Nicholas Abbott,   -     [16]
+--------------------------------------------------------------------------------
+Yes. Okay. And then just the last one from me. I think what we've been seeing from ADC companies is a little bit more flexibility in getting away from -- and actually, I thought of you, Athena, when you went to FDA for elzo and they said, go back and try a little bit harder, go at a little bit higher dose in defining that optimal therapeutic dose range where a lot of the ADC companies are backing off on dosing, maybe using slightly higher dose for induction and going to a lower dose and maybe looking at not 2, 3-week dosing, getting away from those high peaks.
+And so I see the design of the Phase I trial here, but as you think about from a regulatory aspect, how do you think about developing ADCs? And I think it sort of goes to that, trying to thread the needle there of safety and -- while maintaining adequate efficacy.
+
+--------------------------------------------------------------------------------
+Athena Maria Countouriotis,  Turning Point Therapeutics, Inc. - President & CEO    [17]
+--------------------------------------------------------------------------------
+Yes. I will tell you, Nick, of course, given the fact that we've been quite busy recently, Mohammad and I will be diving into all of the clinical data. The Business Development team, one of our very strong clinicians, Anna, who's on the team has dissected all this information. 
+The China-based trial is actually currently enrolling at higher doses than the U.S. trial. So we will look at all of this going forward as we lay out our transfer plan for this asset into our pipeline. Maybe just hold that thought for as we get a little further along with the asset, and then we'll give you more guidance.
+
+--------------------------------------------------------------------------------
+Operator    [18]
+--------------------------------------------------------------------------------
+Next one on the queue is Michael Schmidt from Guggenheim.
+
+--------------------------------------------------------------------------------
+Michael Werner Schmidt,  Guggenheim Securities, LLC, Research Division - Senior Analyst & Senior MD    [19]
+--------------------------------------------------------------------------------
+So yes, nice to see that licensing deal to what looks like reasonably well-validated target by way of [Astellas] and randomized data already. So I guess maybe could you just frame the overall commercial opportunity a bit more what looks to be like a sizable market in Asia perhaps.
+What is the commercial potential for this in the rest of the world? And I guess, how much additional investment perhaps would be necessary by Turning Point around ADC manufacturing, for example, as you build out that capability?
+
+--------------------------------------------------------------------------------
+Athena Maria Countouriotis,  Turning Point Therapeutics, Inc. - President & CEO    [20]
+--------------------------------------------------------------------------------
+Yes. Sure, Michael. Let me do the latter part, which is we're going to report next week. So we'll give an update on guidance next week as it relates to our cash runway. We've previously said obviously second half of 2024, but take into consideration this is a modest upfront at $25 million and some incremental, clinical development spend, but it was important to us with our first announcement. 
+And I've told you before, other things that we looked at, and we're much more of an upfront payment. And this gave an opportunity to still keep 2 years on the balance sheet. So we will guide some more direction on that next week. 
+When we look at the overall commercial opportunity, yes, as you said in regards to Asia, but remember in our territory, essentially have everything except Greater China and South Korea. 
+So when you layer in U.S., EU and Japan, we put this on Slide 6 in the deck, you get to just about 400,000 patients and then taking the expression levels. This was where, based on what we show in the clinic, especially if we're able to capture the low expressers that this could be a meaningful opportunity for us. 
+And that's why we were very intrigued. It fits nicely into what Mohammad is already doing within the GI tumor space. And obviously, it's a new modality for us with an opportunity to grow. So there's not a lot in terms of the additional bill, of course, besides the clinical development spend.
+
+--------------------------------------------------------------------------------
+Operator    [21]
+--------------------------------------------------------------------------------
+Next one on the queue is Matt Biegler from Oppenheimer.
+
+--------------------------------------------------------------------------------
+Matthew Cornell Biegler,  Oppenheimer & Co. Inc., Research Division - Associate    [22]
+--------------------------------------------------------------------------------
+We talked a little bit about possible advantage of using an ADC over monoclonal. I'm just curious what you think the readthrough can be or will be from the SPOTLIGHT and GLOW trials. I think they're Phase III trials of the -- I think it's the Astellas' zolbetuximab. How do you think that's going to affect like the whole Claudin18.2 space?
+
+--------------------------------------------------------------------------------
+Athena Maria Countouriotis,  Turning Point Therapeutics, Inc. - President & CEO    [23]
+--------------------------------------------------------------------------------
+Yes. It's interesting. We talked about that internally, and I do think that there's more implications, of course, to the other companies that are developing monoclonal antibodies. And so that's, I think, one of the risks. And for some reason, it's not good. But if it's good, I think it further validates obviously the target. 
+It's still a different opportunity than ours. Our opportunity here, of course, is a first-in-class ADC, number one. Number two, again, I'm not telling you what we've seen preclinically, but we've seen the preclinical data and we're encouraged with the way this molecule can perform compared to the IMAB molecule. 
+And I think equally, again, in that low expression state as well as the medium to high. So I think that's kind of all I would say directionally validate what it could do in the future, but of course, it did validate the target showing improvement on the randomized Phase II in my opinion.
+
+--------------------------------------------------------------------------------
+Matthew Cornell Biegler,  Oppenheimer & Co. Inc., Research Division - Associate    [24]
+--------------------------------------------------------------------------------
+Got it. Have you disclosed when we might get some preclinical data on that?
+
+--------------------------------------------------------------------------------
+Athena Maria Countouriotis,  Turning Point Therapeutics, Inc. - President & CEO    [25]
+--------------------------------------------------------------------------------
+You can imagine that as soon as I have it in our hands and we have seen it, we will start to show it. It has been, of course, provided to us through data rooms and other venues. But we want to get it out as soon as we can, but we want to make sure it's robust enough. So it will be something we've guided to right now into early 2023. And if we can beat that, we'll try.
+
+--------------------------------------------------------------------------------
+Operator    [26]
+--------------------------------------------------------------------------------
+Next on the queue is Andrew Berens from SVB Securities.
+
+--------------------------------------------------------------------------------
+Andrew Scott Berens,  SVB Securities LLC, Research Division - Senior MD of Medical Supplies and Devices & Senior Research Analyst    [27]
+--------------------------------------------------------------------------------
+Congrats on the deal, although it was obviously a tough day to announce a deal in the market. Just a quick question from me. Other Vedotin-based ADCs seem to have pretty good synergy with I-O. I was wondering if that's something that you eventually could see for this drug.
+
+--------------------------------------------------------------------------------
+Athena Maria Countouriotis,  Turning Point Therapeutics, Inc. - President & CEO    [28]
+--------------------------------------------------------------------------------
+Yes. I think it's a very good question. As you're probably alluding to, there's been 2 recent pharma companies, AstraZeneca signed up the deal basically for the same upfront for a preclinical antibody and then Bristol did one for a clinical collaboration to combine with Opdivo in gastric. We will, of course, continue to monitor the competitive landscape and the opportunity once we get the asset in hand.
+
+--------------------------------------------------------------------------------
+Operator    [29]
+--------------------------------------------------------------------------------
+And there are no further questions on the queue. I will now turn the call over back to your presenters.
+
+--------------------------------------------------------------------------------
+Athena Maria Countouriotis,  Turning Point Therapeutics, Inc. - President & CEO    [30]
+--------------------------------------------------------------------------------
+Okay. Well, thank you again for your interest. Thank you for indulging me with my cold. Thank you, as always, to the entire Turning Point team for everything that you're doing. I hope you have a wonderful evening and a very happy Mother's Day weekend. Thank you, operator. You could shut down the call.
+
+--------------------------------------------------------------------------------
+Operator    [31]
+--------------------------------------------------------------------------------
+This concludes today's conference call. Thank you for participating. You may now disconnect.
+
+
+
+
+
+
+
+--------------------------------------------------------------------------------
+Definitions
+--------------------------------------------------------------------------------
+PRELIMINARY TRANSCRIPT: "Preliminary Transcript" indicates that the 
+Transcript has been published in near real-time by an experienced 
+professional transcriber.  While the Preliminary Transcript is highly 
+accurate, it has not been edited to ensure the entire transcription 
+represents a verbatim report of the call.
+
+EDITED TRANSCRIPT: "Edited Transcript" indicates that a team of professional 
+editors have listened to the event a second time to confirm that the 
+content of the call has been transcribed accurately and in full.
+
+--------------------------------------------------------------------------------
+Disclaimer
+--------------------------------------------------------------------------------
+Refinitiv reserves the right to make changes to documents, content, or other 
+information on this web site without obligation to notify any person of 
+such changes.
+
+In the conference calls upon which Event Transcripts are based, companies 
+may make projections or other forward-looking statements regarding a variety 
+of items. Such forward-looking statements are based upon current 
+expectations and involve risks and uncertainties. Actual results may differ 
+materially from those stated in any forward-looking statement based on a 
+number of important factors and risks, which are more specifically 
+identified in the companies' most recent SEC filings. Although the companies 
+may indicate and believe that the assumptions underlying the forward-looking 
+statements are reasonable, any of the assumptions could prove inaccurate or 
+incorrect and, therefore, there can be no assurance that the results 
+contemplated in the forward-looking statements will be realized.
+
+THE INFORMATION CONTAINED IN EVENT TRANSCRIPTS IS A TEXTUAL REPRESENTATION
+OF THE APPLICABLE COMPANY'S CONFERENCE CALL AND WHILE EFFORTS ARE MADE TO
+PROVIDE AN ACCURATE TRANSCRIPTION, THERE MAY BE MATERIAL ERRORS, OMISSIONS,
+OR INACCURACIES IN THE REPORTING OF THE SUBSTANCE OF THE CONFERENCE CALLS.
+IN NO WAY DOES REFINITIV OR THE APPLICABLE COMPANY ASSUME ANY RESPONSIBILITY FOR ANY INVESTMENT OR OTHER
+DECISIONS MADE BASED UPON THE INFORMATION PROVIDED ON THIS WEB SITE OR IN
+ANY EVENT TRANSCRIPT. USERS ARE ADVISED TO REVIEW THE APPLICABLE COMPANY'S
+CONFERENCE CALL ITSELF AND THE APPLICABLE COMPANY'S SEC FILINGS BEFORE
+MAKING ANY INVESTMENT OR OTHER DECISIONS.
+--------------------------------------------------------------------------------
+Copyright 2023 Refinitiv. All Rights Reserved.
+--------------------------------------------------------------------------------

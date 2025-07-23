@@ -1,0 +1,313 @@
+
+
+Refinitiv StreetEvents Event Transcript
+E D I T E D   V E R S I O N
+
+Leap Therapeutics Inc Acquires Flame Biosciences
+JANUARY 17, 2023 / 2:00PM GMT
+
+================================================================================
+Corporate Participants
+================================================================================
+
+ * Douglas Onsi
+   Leap Therapeutics, Inc. - President & CEO
+
+================================================================================
+Conference Call Participiants
+================================================================================
+
+ * Joel Beatty
+   Robert W. Baird - Analyst
+ * Mara Goldstein
+   Mizuho Financial - Analyst
+ * Joe Catanzaro
+   Piper Sandler - Analyst
+ * Timur Ivannikov
+   Raymond James - Analyst
+
+================================================================================
+Presentation
+--------------------------------------------------------------------------------
+Operator    [1]
+--------------------------------------------------------------------------------
+Good morning, everyone, and welcome to the Leap Therapeutics conference call. (Operator Instructions) Please be advised that this call is being recorded at the company's request.
+The company would like to remind you that any statements made during this call that are not historical are considered to be forward-looking statements within the meaning of the Private Securities Litigation Reform Act of 1995. Actual results may differ materially from those indicated by these statements as a result of various important factors, including those discussed in the forward-looking statements section of the press release issued today in the risk factors section of the company's most recent annual report on Form 10-K as well as other reports filed with the SEC. Any forward-looking statements represent Leap's views as of today, January 17, 2023, only. A replay of this call will be available on the company's website, www.leaptx.com, following this call.
+At this time, I will now turn the call over to Douglas Onsi, President and Chief Executive Officer of Leap. please begin.
+
+--------------------------------------------------------------------------------
+Douglas Onsi,  Leap Therapeutics, Inc. - President & CEO    [2]
+--------------------------------------------------------------------------------
+Thank you, Operator. Welcome, I'm joined here today by other members of the Leap management team. And thank you to those of you joining us today as we announce a transformative moment for Leap Therapeutics through the acquisition of Flame Biosciences, a privately-held venture capital-backed cancer company.
+When we took Leap public in 2017, our stated mission was to acquire and develop a pipeline of drugs with potential to change the practice of medicine. Our strategy for our Leap product, DKN-01, and any other product we would acquire is to identify specific biomarkers that will predict which patients are more likely to respond and have better survival outcomes. We intend to be a biomarker-focused oncology drug development company.
+With DKN-01, we have a lead product that has demonstrated single-agent activity in three tumor types: esophagogastric cancer, non-small cell lung cancer, and endometrial cancer. We have shown that esophagogastric cancer and gynecologic cancer patients with high DKK1 expression can have strong outcomes with DKN-01, whether as a single agent or in combination with an anti-PD-1 antibody and chemotherapy.
+In 2022, we initiated our first randomized clinical trial for DKN-01 in combination with our partner, BeiGene, anti-PD-1 antibody, tislelizumab and chemotherapy in first-line gastric cancer patients. And we initiated a new trial in second-line colorectal cancer patients and an investigator-sponsored study in endometrial cancer patients in combination with Merck's Keytruda. We're executing on our development strategy and headed for an exciting period of clinical data.
+But as a company, we've always aspired to develop more products than only DKN-01 and have been actively seeking new product opportunities to broaden our pipeline. We believe we have found the perfect fit in Flame -- identifying a second clinical stage antibody program, expanding our GI cancer focus, building on our biomarker expertise and development strategy of bringing personalized medicines to targeted patient populations with a validated target in Claudin18.2, and the potential for clinical data from a first-in-human trial in China funded by our partner, along with two exciting preclinical programs.
+Through the merger being announced today, Leap has acquired FL-301, Flame's clinical-stage anti-Claudin18.2 monoclonal antibody; FL-302, Flame's preclinical anti-Claudin18.2 CD137 or 4-1BB bispecific monoclonal antibody; FL-501, Flame's preclinical anti-GDF15 monoclonal antibody along with Flame's net cash, which was approximately $50 million as of yearend.
+Importantly, following the transaction, the pro forma cash balance at year end, the combined company was approximately $115 million, sufficient to fund the development of our expanded pipeline to mid-2025, well beyond our DKN-01 clinical milestones even without any additional payments from BeiGene or other potential business development partners.
+Let me spend a few minutes introducing the new programs and how they fit with DKN-01 and our strategy of developing novel biomarker targeted therapies for cancer patients.
+Adding the Claudin18.2 program leverages the existing Leap team's expertise, operational infrastructure, and experience in gastric cancer clinical and biomarker development that has been built through the DKN-01 program, leveraging our strong key opinion leader, clinical trial site, and diagnostic testing relationships.
+We believe that DKK1 and Claudin18.2 will become important patient selection biomarkers in gastric cancer, alongside HER2 and PD-L1 expression, with doctors having the opportunity to order a panel of biomarker tests and choose the appropriate combination of therapies for their patients.
+As a bit of background, Claudin18.2 is a key component of the tight junction for cell polarity and feeling the spaces between adjacent cells. It is expressed in a wide range of human malignancies, including gastric, esophageal, pancreatic, lung, and ovarian cancers. Claudin18.2 is largely inaccessible on normal tissue but becomes accessible to antibodies like FL-301 and FL-302 during tumorigenesis, making it a highly selective biomarker for targeted cancer therapies.
+Claudin18.2 is also a validated target as randomized clinical trials from Astellas of their chimeric anti-Claudin18.2 antibody Zolbetuximab have shown a survival benefit in combination with chemotherapy in a Phase 2 study and recently announced Phase 3 studies in first-line gastric cancer patients whose tumors express high and intense levels of Claudin18.2.
+However, since Claudin18.2 expression in tumors is heterogeneous, expansion to patients with lower expression and improved efficacy in patients with higher expression requires an antibody with higher affinity and improved killing activity. We believe that FL-301 is a best-in-class and differentiated anti-Claudin18.2 antibody.
+FL-301 is a fully human antibody with enhanced affinity and effector functions relative to Zolbetuximab. It has 10 to 20 times higher affinity to Claudin18.2 since Zolbetuximab in nonclinical models, and specificity to both gastric and pancreatic tumors. Through Fc engineering, FL-301 also has enhanced ADCC, CDC, and ADCP activities, which lead to improved cancer cell killing and greater potency relative to Zolbetuximab in nonclinical models.
+FL-301 is being developed through an exclusive license from NovaRock Biotherapeutics for territories excluding China and is currently in a first-in-human clinical trial in cancer patients in China. We and NovaRock expect to have initial clinical data to present later this year or early next year, and Leap intends to use this data to initiate clinically relevant combination studies in gastric or pancreatic cancer patients at appropriate dose levels.
+Leap also acquired FL-302, a Claudin18.2 CD137, which is also known as 4-1BB, bispecific antibody that is in preclinical development. By enhancing the antitumor activity of T cells in the tumor microenvironment, we believe that there is an opportunity to further improve the activity of Claudin18.2 targeting and generate additional synergy when used in combination with other immunotherapies, including immune checkpoint inhibitors and potentially our own DKN-01.
+The other preclinical program, FL-501, targets growth in differentiation factor 15, or GDF15, which is a cytokine that is produced at elevated levels in response to various stresses, including chronic inflammation, obesity, cardiovascular diseases, cancer, and chemotherapy treatment. High GDF15 expression is associated with cachexia, including the loss of appetite, nausea, and weight loss, and is also a validated target with a successful randomized clinical trial from Pfizer.
+We are particularly interested in the role of GDF15 in promoting an immunosuppressive tumor microenvironment, much like DKK1, and the broad range of cancers, including gastric, colorectal, pancreatic, and prostate, where elevated GDF15 also correlates with poor prognosis. With the combined company resources and our existing team, we will be able to aggressively advance both DKN-01 and the newly acquired programs.
+Enrollment is off to a strong start with high investigator enthusiasm for the randomized controlled trial of DKN-01 in combination with BeiGene's tislelizumab and chemotherapy in first-line gastric cancer patients. We continue to anticipate completion of enrollment of the 168 -- 160-patient study this year with initial response rate data being available near yearend 2023 and progression-free survival data in 2024.
+The new study of DKN-01 in second-line colorectal cancer patients is also starting extremely well. And we're looking forward to seeing data from the initial 20 patients midyear, which would enable moving forward into a second randomized study. We are also looking forward to initial data late this year from the investigator-initiated study at MD Anderson and University of Alabama at Birmingham in combination with Merck's Keytruda in endometrial cancer patients.
+We'll be presenting a corporate presentation tomorrow at 1:30 at the B. Riley 3rd Annual Oncology Conference, where Cyndi, Jay, and I will provide a deeper dive into the DKN-01 data, an introduction for the science behind the Claudin18.2 clinical programs and the differentiation of those antibodies from the current products in development, and a look at the important clinical milestones ahead. This presentation will be available by webcast, and we encourage all of you to listen in through the link on our website at www.leaptx.com.
+We appreciate all of the efforts of the Flame team and the Flame investors to complete the merger. And we're excited to start the year as a new stronger Leap Therapeutics with a pipeline of biomarker-targeted antibody therapies for cancer patients, particularly GI cancer patients, an enhanced balance sheet and an important year of development plan execution and clinical data ahead.
+Thank you all for your time and attention today. We'd now like to open the call for questions.
+
+
+================================================================================
+Questions and Answers
+--------------------------------------------------------------------------------
+Operator    [1]
+--------------------------------------------------------------------------------
+(Operator Instructions) Joe Catanzaro, Piper Sandler.
+
+--------------------------------------------------------------------------------
+Joe Catanzaro,  Piper Sandler - Analyst    [2]
+--------------------------------------------------------------------------------
+Great. Thanks so much for taking my questions and congrats on the transaction here. So Doug, you mentioned potentially the opportunity to expand utility into lower Claudin18.2 expressors. So when we see the Astellas' data, I think, later this week, what proportion of the gastric population are they able to target with their program?
+And how much further do you think you'll be able to expand that with FL-301 and the ability to maybe target lower expression levels of Claudin18.2? Does that open up any other additional opportunities, maybe beyond gastric and pancreatic? Thanks.
+
+--------------------------------------------------------------------------------
+Douglas Onsi,  Leap Therapeutics, Inc. - President & CEO    [3]
+--------------------------------------------------------------------------------
+Thanks. No, that's a great question. So as you mentioned, we're expecting to see additional data from Astellas for Zolbetuximab this week at ASCO GI. The positive topline data from their Phase 3 studies was expected based on the previous success of the FAST study.
+And as you mentioned, however, in the FAST study it was the 70% Claudin18.2 expression population that was successful, even though it had only nine months of median progression-free survival. And their data wasn't statistically significant for the 40% to 69% expression, which had 4.3 months of median progression-free survival. And in the FAST study, there was also only a 38% ORR in the full population.
+So we -- our view is that expansion to patients, as you mentioned, with lower Claudin expression down towards the 40% level requires a differentiated antibody with higher affinity and improved cell killing. And yeah, as we look at the clinical study that's being run by our partner, NovaRock in China, we'll be able to explore how that -- how patients with lower levels than 70% of high intensity Claudin binding will perform and then be able to see beyond gastric and pancreatic, what are the additional tumor types that can be moved into?
+I think our basic, from what we've seen is, there is a variety of data in the literature regarding high Claudin18.2 expression. At the moment, the view is it's between 30% and 40% of patients in a variety of studies that have high Claudin expression. So the ability to expand beyond that requires a next generation and improved antibody. And that's something we're excited to see get developed by our team with this transaction.
+
+--------------------------------------------------------------------------------
+Joe Catanzaro,  Piper Sandler - Analyst    [4]
+--------------------------------------------------------------------------------
+Okay, got it. And I have a follow-up or two here, but -- and I know you touched on this, but wondering how you think about the complementarity of FL-301 to DKN-01. Do you think there's opportunity to look at both within the same regimen, or will these operate within different buckets based on biomarker expression? I guess relatedly, what's the overlap between 18.2 positivity and DKK1 positivity within gastric cancer?
+
+--------------------------------------------------------------------------------
+Douglas Onsi,  Leap Therapeutics, Inc. - President & CEO    [5]
+--------------------------------------------------------------------------------
+Yeah, absolutely. And I would say that's a big reason why Claudin18.2 was at the top of the list of programs that we wanted to add behind DKN-01. As anyone who listened to our R&D Day call last summer or any of the calls that our KOLs give as they talk about the future of gastric cancer, they say they want to be -- order a panel of diagnostic tests to select the best combination of therapies for patients, and that's HER2 and PD-L1 today, and then as new therapies come forward, DKK1, Claudin18.2, and FGFR2b.
+So your point is exactly where we sit, which is ultimately, I'd like to get to a point where a patient who had DKK1 high or important DKK1 expression, and Claudin high or intermediate, depending on the activity of the antibody expression, could get both DKN-01 and FL-301 or FL-302 anti-Claudin antibody as they should both have independent activity, just like I would eventually like to move DKN-01 forward into HER2 positive patients in a combination with herceptin or zanidatamab or in HER2.
+And so having both DKK1 and Claudin18.2 programs in our pipeline allows us to build that leading next-generation GI cancer franchise and be in a position where, as this panel tests are ordered, physicians have choices that address the personalized profile of their patient's tumor.
+
+--------------------------------------------------------------------------------
+Joe Catanzaro,  Piper Sandler - Analyst    [6]
+--------------------------------------------------------------------------------
+Got it. And then if I could just squeeze in one, quick last one. So you mentioned that 301 was in-licensed from NovaRock. Can you maybe just speak to the economic terms of that deal and whether there are any expected milestones due in the near term?
+
+--------------------------------------------------------------------------------
+Douglas Onsi,  Leap Therapeutics, Inc. - President & CEO    [7]
+--------------------------------------------------------------------------------
+It's a pretty standard -- so no milestone payment is expected in the near term, but it's a fairly standard antibody license with clinical milestones and royalties and we'll report all of that when we file our next SEC filing, our 10-K.
+
+--------------------------------------------------------------------------------
+Joe Catanzaro,  Piper Sandler - Analyst    [8]
+--------------------------------------------------------------------------------
+Okay, perfect. Thanks for taking the questions and congrats again on the deal.
+
+--------------------------------------------------------------------------------
+Douglas Onsi,  Leap Therapeutics, Inc. - President & CEO    [9]
+--------------------------------------------------------------------------------
+Thanks, Joe.
+
+--------------------------------------------------------------------------------
+Operator    [10]
+--------------------------------------------------------------------------------
+Joel Beatty, Baird.
+
+--------------------------------------------------------------------------------
+Joel Beatty,  Robert W. Baird - Analyst    [11]
+--------------------------------------------------------------------------------
+Great. Hi. Thanks for taking the questions. The first one is in the prepared remarks, you mentioned the stronger binding compared with Zolbetuximab. Could you discuss the implications of that?
+
+--------------------------------------------------------------------------------
+Douglas Onsi,  Leap Therapeutics, Inc. - President & CEO    [12]
+--------------------------------------------------------------------------------
+Absolutely. So we'll be able to talk more about this. I don't want to steal too much of Jay's thunder from tomorrow's presentation. We will add some of this data to our website. NovaRock presented a poster at AACR in 2020 where they showed the difference. But if you can have -- as you look at the Astellas' data where they were less successful in patients who didn't have extremely high Claudin and intense Claudin18.2 expression, the activity has increased.
+If you can have higher affinity to Claudin18.2 and more effective cell killing through the Fc engineering that they've worked into the antibody, and that it can wind up being 1,000 to 2,000 times more potent than Zolbetuximab in nonclinical models -- and we'll have to demonstrate that in clinical development. But it gives you that opportunity through the clinical stage program to see enhanced activity and then opens up a very interesting opportunity for the bispecific.
+If you can enhance the immune tumor microenvironment by bringing in T cells with the 4-1BB engagement, particularly in an environment where you're going to combine with immune checkpoint inhibitors, you're going to combine with other immune oncology agents -- aspects of this molecule that can help the immune system targeting clear a tumor in tumors like gastric cancer that aren't as immune sensitive as others could be incredibly important if our goal is to truly help increase overall survival for patients.
+
+--------------------------------------------------------------------------------
+Joel Beatty,  Robert W. Baird - Analyst    [13]
+--------------------------------------------------------------------------------
+Great. And then thinking ahead to the expanded cash runway, can you help frame how much data we could see from FL-301 in that timeframe?
+
+--------------------------------------------------------------------------------
+Douglas Onsi,  Leap Therapeutics, Inc. - President & CEO    [14]
+--------------------------------------------------------------------------------
+So from -- so I think the key part to the expanded timeline or the expanded cash runway is to ensure that we can complete the ongoing DKN-01 randomized clinical trial in colorectal cancer trials with -- regardless of any -- any business development or external financings and to have a year of runway on the back of that data.
+For FL-301 specifically, we are looking forward to seeing clinical data from the study in China from NovaRock. In terms of our own study, we would not expect to be able to open an FL-301 study in the United States in the short term. Because our goal would not be -- would be to not have to repeat the monotherapy dose escalation work that's being done by NovaRock in China and be able to jump straight into use higher doses of FL-301 in more commercially and clinically relevant combinations.
+So with PD-1 antibodies in gastric cancer with other approved chemotherapies in pancreatic cancer, and so it will take time for us to be able to have the data to support going in in ways that can rapidly generate meaningful clinical data.
+
+--------------------------------------------------------------------------------
+Joel Beatty,  Robert W. Baird - Analyst    [15]
+--------------------------------------------------------------------------------
+Got it. Makes sense. And last question, it's a bit off-topic, but anything you can tell us about the opt-in decision and the status of that related to BeiGene and DKN-01?
+
+--------------------------------------------------------------------------------
+Douglas Onsi,  Leap Therapeutics, Inc. - President & CEO    [16]
+--------------------------------------------------------------------------------
+Yeah, absolutely. So just as a bit of background, we've been speaking with Flame about this potential transaction for well over a year. This was a strategic opportunity that we believed was a perfect fit for us and our goal to build a company that was more than a single product. And we actually believe that the transaction with Flame makes Leap a more attractive partner for BeiGene or any other partner with a stronger balance sheet and additional programs to validate a target that can be combined with PD-1 therapy and enhance any GI oncology franchise.
+As we mentioned at your conference and at Piper's late last year, our agreement with BeiGene gives BeiGene until late in the first quarter to make their option exercise decision. And we met with members of the BeiGene team last week at JPMorgan and shared some early activity in both the ongoing trials, and we'll continue to provide them with updates on the data. And we expect that they'll be presenting data from their first-line gastric cancer study for tislelizumab at ASCO GI this week. And we respect that they have an internal process that goes into making their opt-in decision.
+From our perspective, though, we believe that the case for BeiGene to exercise is very strong. If we're successful in developing DKN-01, BeiGene could have a significant DKN-01 revenue opportunity in their Asian territory from several large indications. Gastric cancer has 500,000 new cases a year in China, colorectal cancer, endometrial cancer just based on our current studies, and potentially other indications where we've previously seen DKN-01 mono activities like non-small cell lung cancer. And we believe that they could benefit from increased tislelizumab revenue from being in a combination with DKN-01.
+We increased duration on drug in first-line gastric cancer, could be nearly 50% more revenue per patient based on the existing data. It could broaden the market to include PD-L1 low patients in the event that physicians continue to be concerned about using PD-1 plus chemo in PD-L1 low patients without stronger outcomes, because we've seen strong outcomes in PD-L1 low patients with the DKN-01 combinations.
+Could help them expand indications to include endometrial cancer where we're currently running a trial with Keytruda that could provide the foundation for that new combination opportunity, or possibly colorectal cancer where PD-1 antibodies have not historically been successful.
+And then this would be a proprietary combination that could allow BeiGene to differentiate from other PD-1 antibodies that are or could be approved in first-line gastric cancer with a proven advantage over PD-1 plus chemo alone. So our view is we've achieved everything that we hoped could be achieved when we formed the relationship with BeiGene. And it's now in their hands to make their internal decision based on their strategic assessment of tislelizumab and their overall internal prioritization.
+But if BeiGene doesn't opt in, the same rationale for the DKN-01 global commercial opportunity and the potential to drive additional PD-1 revenue applies. DKK1 is a novel target with compelling clinical data and important biological mechanisms in areas of high unmet global need and there are many potential strategic partners.
+And as part of this transaction, it is important that our combined company cash balance will fund the company for more than a year past that randomized data, which would allow us time to re-partner globally if necessary or consider partnering for our retained territories if BeiGene does opt in and from a position of greater strength.
+
+--------------------------------------------------------------------------------
+Joel Beatty,  Robert W. Baird - Analyst    [17]
+--------------------------------------------------------------------------------
+That's great. Thank you.
+
+--------------------------------------------------------------------------------
+Operator    [18]
+--------------------------------------------------------------------------------
+Mara Goldstein, Mizuho.
+
+--------------------------------------------------------------------------------
+Mara Goldstein,  Mizuho Financial - Analyst    [19]
+--------------------------------------------------------------------------------
+Great. Thanks so much for taking the question. So I wanted to ask you just about your assessment around the competitive landscape. Obviously, we've talked about the Astellas' content, but there are a fair amount of other molecules in development and bispecifics as well.
+I'm curious about your thought process there entering into such a crowded field, particularly since you won't advance into a Phase 1 study in the US for, I'm imagining, at least later into 2023? So if you could talk about that, that would be great.
+
+--------------------------------------------------------------------------------
+Douglas Onsi,  Leap Therapeutics, Inc. - President & CEO    [20]
+--------------------------------------------------------------------------------
+Yeah, absolutely. So as I pointed out, I think as we look at the competitive landscape, the first thing that we think about is that, even for the Astellas program, the studies that they've run as Phase 3 studies aren't in our view clinically relevant studies today because they don't include a PD-1 antibody.
+And so to be competitive in gastric cancer today with the approved therapies, Astellas and all of the other Claudin18.2 programs will need to demonstrate that there is additional efficacy on top of PD-1 plus chemo in first-line patients. And I believe that Astellas are starting those PD-1 combination studies, and we'll need to see what the level and intensity of Claudin18.2 expression is that's required for Zolbetuximab activity in combination with a PD-1.
+I've described what I think are the engineering designed advances in FL-301 that give it the potential for improved activity and improved performance compared to Zolbetuximab, which is an old chimeric antibody with relatively lower affinity in Claudin18.2 and effector function. And I think that all of the newer antibodies in development stand a very strong chance of surpassing Zolbetuximab as being better engineered.
+So I think in many ways, the ground is for well -- for studies that are tied to the current development landscape, the advantage of a company like ours that has relationships with key opinion leaders, with gastric cancer sites that is actively engaged as a priority in the gastric cancer market with open studies and a program that is advanced of where FL-301 is right now puts us in an excellent position to be able to execute and to -- with monotherapy data out of NovaRock, rapidly make FL-301 competitive.
+And then as you mentioned with bispecifics, we do believe that the next frontier is through bispecific antibodies and adding 4-1BB engagement can enhance that antitumor activity and create additional synergy when used in combination with other immunotherapies. And we'll continue to look very carefully at the opportunities to be able to add DKN-01 and other immune checkpoint inhibitors into that mix, and we'll be able to talk about that more over the course of the next year.
+
+--------------------------------------------------------------------------------
+Mara Goldstein,  Mizuho Financial - Analyst    [21]
+--------------------------------------------------------------------------------
+Okay. And I just also wanted to ask, I mean, on the Astellas compound, the safety profile looked fairly benign. The issues were really associated with GI side effects, nausea, and the like. And I'm curious about your thoughts about the affinity of the molecule that you have and the relationship there.
+
+--------------------------------------------------------------------------------
+Douglas Onsi,  Leap Therapeutics, Inc. - President & CEO    [22]
+--------------------------------------------------------------------------------
+Yeah, absolutely. I think that as we look at the potential profile for FL-301, as I mentioned, we see that it has 10 to 20 times higher affinity to Claudin18.2 in nonclinical models, enhanced ADC (sic - see slide 36, "ADCC"), CDC, and ADCP activities, which can lead to greater cell killing and potency. So for these antibodies, the issue has been efficacy, particularly as you get to lower or less intense Claudin staining.
+We do note that Claudin18.2 is not prognostic. And so this isn't a situation like DKK1, where we believe the Claudin high population has more aggressive disease or more likely to have liver metastases or other factors that make them have shorter survival.
+It is an available target that is highly specific to cancer. And where it is expressed, and you have an antibody that is efficient at killing those cells, can lead to important benefit for those patients, and a benefit that is complementary to the other ways of looking to kill cancer cells or activate the immune system to kill cancer cells.
+
+--------------------------------------------------------------------------------
+Mara Goldstein,  Mizuho Financial - Analyst    [23]
+--------------------------------------------------------------------------------
+Okay. Thanks. I appreciate it.
+
+--------------------------------------------------------------------------------
+Operator    [24]
+--------------------------------------------------------------------------------
+Timur Ivannikov, Raymond James.
+
+--------------------------------------------------------------------------------
+Timur Ivannikov,  Raymond James - Analyst    [25]
+--------------------------------------------------------------------------------
+Yeah, thanks for the question and congrats on the deal. So I just wanted to follow up a little bit on the previous questions and ask the competitive question in a slightly different way, because there's new development in lower expressors where bispecifics and ADC could be more competitive than antibodies.
+And then on the higher end of expressors, we have new CAR T developments also target included Claudin18.2. So I'm wondering why do you think it's a good strategy to develop your antibody first instead of perhaps going with the bispecific?
+
+--------------------------------------------------------------------------------
+Douglas Onsi,  Leap Therapeutics, Inc. - President & CEO    [26]
+--------------------------------------------------------------------------------
+Yeah. So the -- we'll be aggressively moving the bispecific through preclinical development into the clinic. So it is, from a timing perspective, more work to be done before it's ready to be advanced into clinical development. As we think about the ADC molecules, they are certainly very interesting.
+We do worry about the safety effects because there is Claudin18.2 expression in the normal gastric mucosa. It will be an open question to see whether that safety profile, that toxicity that is potential from -- potential to come from the ADC molecules impacts their utility as a breadth of Claudin expression patients in which there is a favorable safety efficacy benefit. But it's certainly a very interesting approach.
+There are a number of other bispecifics, which look to engage different targets, whether that's CD3, PD-L1. From our perspective, when we think about what we've learned about DKK1, the tumor microenvironment and the cell types that are most important in leading to stronger outcomes, particularly in gastric cancer patients, there is, in our view, a real advantage to 4-1BB that makes us very excited about the bispecific program.
+I think from the -- there is -- I think as we look at these fields, I think you want to move multiple programs forward and see if they find potentially different niches or different levels of Claudin expression where they have a particularly or different combinations where they have a particularly attractive risk/benefit or synergistic activity. And that will come with more development work on our part and more work in the clinic.
+
+--------------------------------------------------------------------------------
+Timur Ivannikov,  Raymond James - Analyst    [27]
+--------------------------------------------------------------------------------
+Yeah. Thanks for that. So just a quick -- a couple of quick housekeeping questions. First, I'm not sure I saw when the transaction is expected to close. I think you mentioned a special shareholder meeting. And then just to -- for Flame itself, just to clarify, I think they had a study on clinicaltrials.gov that was withdrawn. Was that withdrawn just because of the Chinese study or because they knew the transaction was coming. What was the reason for the withdrawal of that study?
+
+--------------------------------------------------------------------------------
+Douglas Onsi,  Leap Therapeutics, Inc. - President & CEO    [28]
+--------------------------------------------------------------------------------
+Sure. So let me start with -- so the transaction was a simultaneous sign and close, so the transaction is closed. The shareholder meeting, so because we were issuing more than 20% of Leap's current common shares, the deal is structured so that the preferred shares, which are the remainder of the Flame consideration over the 19.99% of common stock that we could issue, can't convert to common until we have a separate shareholder vote.
+We will look to file a proxy statement and hold that shareholder meeting over the course of the next few months. That would allow the preferred stock to convert to common. So it's the -- the shareholder vote is not to approve the transaction, but it's to approve the conversion of what will currently be nonvoting convertible preferred stock into common stock.
+I think with respect to the existing Flame clinical studies, historically Flame as a company was founded around their interest in IL-1 beta. Our first introduction to Flame was nearly two years ago when Dr. Monica Bertagnolli, who was then a member of Flame's Board, is currently the director of the National Cancer Institute. Someone who's very interested in the potential development of IL-1 beta introduced us to the company and they were in the process of acquiring additional assets beyond the IL-1 beta program.
+When Novartis conducted their canakinumab CANOPY studies for IL-1 beta and those studies were unsuccessful, it caused Flame to rethink its corporate objectives and its opportunity as a stand-alone company. And so the process that led to their deal with us was a very significant strategic effort on their part. They had many different parties bidding and expressing interest in the range of programs that they brought together.
+But they had formed the conclusion that they weren't going to develop these assets themselves and didn't really look for a strategic partner with the team, with the expertise, with the complementary pipeline that could be the right home for the shareholder base that they've built and the assets that they had developed. And certainly for us that shareholder base from Flame includes many of the top-tier biotech industry investors, the kinds of fundamental investors that you want to see back your company.
+And so we're very appreciative of their interest in us, their belief in what the Leap team can do with DKN-01 and with the Flame assets that we've acquired. But that was their strategic pivot, was to not try to open and develop these new studies internally and build the team and infrastructure they would take, but would be to find an existing team.
+And for us, as I said, there was -- Flame was a unique opportunity to enhance our pipeline with a program that is a perfect strategic fit to enhance our balance sheet with an additional year of cash and you have to take advantage of those opportunities when they appear.
+
+--------------------------------------------------------------------------------
+Timur Ivannikov,  Raymond James - Analyst    [29]
+--------------------------------------------------------------------------------
+Okay. And actually, sorry, one more quick question, but this one is on DKN-01. Just wanted to make sure I understand the changes on the clinicaltrials.gov. Are you adding a higher dose for Part C, if I'm understanding correctly? And if so, why are you doing that?
+
+--------------------------------------------------------------------------------
+Douglas Onsi,  Leap Therapeutics, Inc. - President & CEO    [30]
+--------------------------------------------------------------------------------
+Yeah, we're not adding a higher dose. In Part C, we have two different chemotherapy regimens involved, modified FOLFOX6, which is more commonly used in the United States, and capecitabine and oxaliplatin as we used in Part A. Those chemotherapy combinations are given on different schedules. And so we are looking to match the DKN-01 dosing schedule to the times when patients would otherwise be coming in, and to be as close as possible to the tislelizumab combinations.
+So instead of giving DKN-01 on days 1 and 15 at 300 milligrams, we increase that if it's a three-week cycle to 600 milligrams with an extra kind of dose in cycle one. As you remember, we saw that there were patients where, particularly with DKK1 high disease, more aggressive biology didn't even get to day 15.
+And so getting that extra drug to them early, we think, could be helpful. And then it's 400 milligrams every other week. And again, looking to try to mirror the PK/PD profile with the different schedule matching to chemotherapy. So it's not intended, other than in the initial cycle, to drive additional dose. It's meant to be more convenient for patients and something that we think will continue to drive attractive safety and efficacy profile.
+
+--------------------------------------------------------------------------------
+Timur Ivannikov,  Raymond James - Analyst    [31]
+--------------------------------------------------------------------------------
+Okay. Thank you very much for the questions.
+
+--------------------------------------------------------------------------------
+Operator    [32]
+--------------------------------------------------------------------------------
+Thank you. And we are showing no further questions. Thank you again for dialing in to today's call. Have a good day.
+
+
+
+
+
+
+
+--------------------------------------------------------------------------------
+Definitions
+--------------------------------------------------------------------------------
+PRELIMINARY TRANSCRIPT: "Preliminary Transcript" indicates that the 
+Transcript has been published in near real-time by an experienced 
+professional transcriber.  While the Preliminary Transcript is highly 
+accurate, it has not been edited to ensure the entire transcription 
+represents a verbatim report of the call.
+
+EDITED TRANSCRIPT: "Edited Transcript" indicates that a team of professional 
+editors have listened to the event a second time to confirm that the 
+content of the call has been transcribed accurately and in full.
+
+--------------------------------------------------------------------------------
+Disclaimer
+--------------------------------------------------------------------------------
+Refinitiv reserves the right to make changes to documents, content, or other 
+information on this web site without obligation to notify any person of 
+such changes.
+
+In the conference calls upon which Event Transcripts are based, companies 
+may make projections or other forward-looking statements regarding a variety 
+of items. Such forward-looking statements are based upon current 
+expectations and involve risks and uncertainties. Actual results may differ 
+materially from those stated in any forward-looking statement based on a 
+number of important factors and risks, which are more specifically 
+identified in the companies' most recent SEC filings. Although the companies 
+may indicate and believe that the assumptions underlying the forward-looking 
+statements are reasonable, any of the assumptions could prove inaccurate or 
+incorrect and, therefore, there can be no assurance that the results 
+contemplated in the forward-looking statements will be realized.
+
+THE INFORMATION CONTAINED IN EVENT TRANSCRIPTS IS A TEXTUAL REPRESENTATION
+OF THE APPLICABLE COMPANY'S CONFERENCE CALL AND WHILE EFFORTS ARE MADE TO
+PROVIDE AN ACCURATE TRANSCRIPTION, THERE MAY BE MATERIAL ERRORS, OMISSIONS,
+OR INACCURACIES IN THE REPORTING OF THE SUBSTANCE OF THE CONFERENCE CALLS.
+IN NO WAY DOES REFINITIV OR THE APPLICABLE COMPANY ASSUME ANY RESPONSIBILITY FOR ANY INVESTMENT OR OTHER
+DECISIONS MADE BASED UPON THE INFORMATION PROVIDED ON THIS WEB SITE OR IN
+ANY EVENT TRANSCRIPT. USERS ARE ADVISED TO REVIEW THE APPLICABLE COMPANY'S
+CONFERENCE CALL ITSELF AND THE APPLICABLE COMPANY'S SEC FILINGS BEFORE
+MAKING ANY INVESTMENT OR OTHER DECISIONS.
+--------------------------------------------------------------------------------
+Copyright 2023 Refinitiv. All Rights Reserved.
+--------------------------------------------------------------------------------

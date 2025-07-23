@@ -1,0 +1,204 @@
+
+
+Refinitiv StreetEvents Event Transcript
+E D I T E D   V E R S I O N
+
+Nordic Nanovector ASA  Thor Medical As - M&amp;A Call
+JUNE 07, 2023 / 8:00AM GMT
+
+================================================================================
+Corporate Participants
+================================================================================
+
+ * Roy Hartvig Larsen
+    - 
+ * Ludvik Sandnes
+   Nordic Nanovector ASA - Interim CEO & CFO
+
+================================================================================
+Conference Call Participiants
+================================================================================
+
+ * Alf Bjorseth
+    - 
+
+================================================================================
+Presentation
+--------------------------------------------------------------------------------
+Ludvik Sandnes,  Nordic Nanovector ASA - Interim CEO & CFO    [1]
+--------------------------------------------------------------------------------
+(foreign language) And good morning, all. It's a great pleasure and [some pride] that I today can present the deal initiated by our founder, Roy Larsen, and another [serial] entrepreneur Norway, Alf Bjorseth. 
+They will both address you after a short introduction of what we have agreed. And we'll propose to you at our AGM to be sent to you today, and it will be held on the 28th of June. We have already 30% previous consent, so we really hope that we will also have this deal accepted. 
+The deal has been negotiated with great support also from our major shareholder in North Energy, who has been an insider since third of March, 3 months, and has attended the meetings with Thor Medical. 
+The -- mind you, we have agreed to acquire Thor Medical's highly promising new technology that enables the development and production of radionuclides for radio immunoconjugate-based approaches to cancer treatment, a rapidly growing global market. We continue to be a cancer-fighting company, that's very important for us. 
+We also reduced costs over the years. We had only 12 months timeline when we presented our annual report. Now we have financing throughout '25, and we've done that with great efforts and succeeded without any casualties, if you like, when we're laying off even more people than we did before, so we have [4] full-time employees now. 
+Following the acquisition, the new Board will consist of -- we also look for strategic options for maybe out-licensing Nordic Nanovector's existing pipeline of patents to a stand-alone company, where continued studies of our pipeline can be supported and supervised by Roy Larsen and hopefully attract funding without the costs of being a [quoted] company. Those costs are severe. 
+And for a company in a development phase, we should never have been on the stock exchange with the way the pipeline looks now, but we want to explore the possibilities for that. Roy, maybe you will talk a little bit about why we took this initiative in the market and also the Technical Advisory Board that you will lead.
+
+--------------------------------------------------------------------------------
+Roy Hartvig Larsen,   -     [2]
+--------------------------------------------------------------------------------
+Yes. Thank you, Ludvik, and everybody, for the great effort that has been behind this deal. When it comes to the field of alpha-particle therapy, there is very many interesting development going on in the field, but one of the big problem is the lack of source material for alpha-emitters. 
+And today, it's -- this year, it is 10 years since Xofigo was introduced in the market by Bayer and Algeta. This -- still, there are no other alpha-emitters that has been approved since Xofigo, so I think there is a big need for a company like Thor Medical that can supply very vital source material for the industry, and that is the basis of we feel Thor Energy should supply in this type of material. 
+And of course, alpha-particle therapy, to use that in cancer treatment, it is a very complex business, and I think it is very important that we have an ecosystem for production of components and also for companies that can make the final products for use in therapy. And in this ecosystem, I think that this new company can be a very important player, and they can have a significant revenue stream from this sector. 
+And of course, if we look at the Norwegian perspective here, Norway has a quite good ecosystem in the field actually. We have the Radium Hospital, where we can do research on animals and also do patient studies. 
+We have the University of Oslo with facilities, where we can do development of  early-stage [products], et cetera. And we have, of course, companies like Oncoinvent, [Arc Bio] and Bayer that are also operating in the Oslo region with doing research and also clinical trials. 
+So I think this new entity will fit very well into this ecosystem. And I think that we have also many possibilities that can be explored with this new entity. 
+And when it comes to the Technical Advisory Board, we have some members here that all of us have quite a significant experience in the field. If we look at, for instance, myself, I was together with Øyvind Bruland and our student (inaudible), we invented a product that is called Xofigo today more than 20 years ago. 
+And of course, Brit Farstad worked at IFE, and she was very important when it came to producing this product for clinical testing in the early stage. When you develop this type of complex products, you need a very good system for production and make it safe for the patient when you inject it, and IFE was very important at that stage.  
+And when it comes to Bayer, and Bayer is the industrial player in this field with most experience worldwide when it comes to alpha-emitters and industrial-scale production and sale of product, so I think we have people with the broad experience in the field and a very good advisory board for this new entity. Thank you.
+
+--------------------------------------------------------------------------------
+Ludvik Sandnes,  Nordic Nanovector ASA - Interim CEO & CFO    [3]
+--------------------------------------------------------------------------------
+Thank you. Some transaction details. It's an all-share acquisition. We have -- it's been supported, as I said, with major shareholders, and we all signed up for this. And keeping in mind, being a 50-50 deal, of course, it's been tough negotiations. I started out, I think, with 30% -- 20%, we had a possibility of issuing 20%, then our opposite partners nearly left the room, so we had to negotiate quite a different deal. 
+But this one is even much better than the [APIM] deal, where you had 24% to the [another]  shareholders. But even so, the profitability here will be much better, and the money will come in much earlier after [2 to 4 years] and not 12 to 15, if you should continue developing the cancer medicine. 
+So we're very pleased that we managed to get this deal done and with the whole support of everybody around. And I think now, Alf, you can explain what it's all about. Thank you.
+
+--------------------------------------------------------------------------------
+Alf Bjorseth,   -     [4]
+--------------------------------------------------------------------------------
+Thank you very much, Ludvik. It's a pleasure for me to give you some information about Thor Medical, where we are and the basis for the technology that we are looking on. Thor Medical is a company in the Scatec Innovation Group, and we are [working] in 3 different areas. One is Renewable Energy, where we have some companies, that's not a topic for the presentation today. And we have Advanced Materials. 
+And I would like to mention one company, REEtec, which is working on rare earth elements, where the production technology is the same basis as we have in Thor Medical, while we have synergy between these 2 companies and a strong basis for doing further research in this area. We've also taken some companies public, but that's not so important now. 
+The fundamental thing here is that on cancer cells,  there is -- on the outside, there's a target protein, and this protein can be recognized by some antibodies or targeting molecules and will connect to the cancer cell. And if we can look up to this targeting molecule, a radioactive component and isotope, then we can actually kill the cancer cell. 
+And other radioactive isotope is called an alpha-emitter, which is very energetic but has a very short reach, which means that it can kill the cancer cell but very little of the surrounding healthy tissue and that this [fresh] healthy tissue will remain unimpacted by the radio activity. And then, we also select alpha-emitters with a fairly short lifetime in such a way that radiation stops after a given time and then the effect is [off]. 
+So this is the simple concept for the whole treatment. And we started this work some time ago when we also were looking at Thorium as a source for energy in nuclear energy, but that has been stopped, but we use the competence we have in Thorium also for this purpose.  
+We will work within these alpha-emitters that we get from the element Thorium. In Thorium, we have lots of Thorium in Norway, but it's basically an element you find all over the world in connections with mining industry and with the development of other mining products, so Thorium is readily available, but we are looking always for the best and the cheapest source. 
+The market will be significant. It's predicted that the market in 2030 will be something like $20 billion, so there is something for us to reach after. And in the present situation, there are not many competitors. We have no indication that we will be alone in 2030 in this area, but we know that it will take a long time to develop a new process for producing alpha-emitters, and we are ahead, we think, globally in this area. 
+So financial projections are very good. This is basically the process as we see. We have developed proprietary technology to go from Thorium, the isotope 232, and to our separation process and produce the element or the isotope Th-228, and that is a starting point for several other alpha-emitters as well, so we can work with different medical companies using different alpha-emitters. 
+And that means that we can serve a lot of all the medical companies that are working in this field today developing cancer therapy of different cancers. Unfortunately, there are many cancer diseases, and they need separate ways of treating the cancer. 
+What is the most important thing for us is that this process requires no nuclear reactors to produce the radioactive isotopes, we use natural material with a natural decay [line], and we will get these products produced continuously in very small amounts. 
+And it's very important to say that this is basically producing very small amounts, which means that to produce these in significant amounts for medical purposes, then we need a special technique, and we have the expression to look for a needle in a haystack. 
+But what we are doing actually to start with maybe something like 1 ton of minerals, and we are truly using 1 milligram of active material. So going from 1 ton to 1 kilogram to 1 gram and to 1 milligram, that's quite a task, and that is where we have other advantage when it comes to the technology. 
+There is no irradiation and no [artificial] radioactivity. The process is environmental friendly, and we produce with very little waste. And it's available and it's reliable, and we will get a cost-efficient supply of radionuclides in this process line. 
+We are currently in a qualification process for natural Thorium. We have had a number of potential suppliers of this material. And we are also in close cooperation with potential customers on the material, which we have produced in very small scale so far, but available for testing for our potential customers. 
+This is a good time to work with radionuclides for radiopharmacy. First of all, there is an additional amount made available on the Norwegian budget, NOK 200 million was allocated to nuclear science, had 3 institutes in the Oslo region, University of Oslo, at IFE  and the Institute for Energy Technology and NMBU, University for Environment and Bioscience. 
+And in addition to that, there is a proposed plan for health industry in Norway. The government of Norway want to focus strategically on developing health industry, and this comes at the same time as we will work in this project. 
+We see that there are opportunities now to work with very competent partners, and we want to exploit that opportunity. And [other goal] is to refine production technology and product quality, which is very important, and continue with customer certification. 
+Sorry, one more, and to mature the manufacturing concept, and we are already starting to plan and we are cooperating with the [Nordic Nanovector] for radiation in Norway, DSA, so that we build a plant which is meeting all the requirements for working with radioactive materials in Norway. 
+And we need to have permitting to build this plant, but we are well underway already now. We want to [match] with the manufacturing concept. We expect that we should have the first decision on the industrial production by the end of next year and be in production maybe in 2025. So that is [the strategy] in this area. 
+That is our current plans for the [activity]. Thank you.
+
+--------------------------------------------------------------------------------
+Ludvik Sandnes,  Nordic Nanovector ASA - Interim CEO & CFO    [5]
+--------------------------------------------------------------------------------
+Thank you, Alf. Our next steps, the transaction is fully supported by the Board of companies, key relevant opinion leaders and major shareholders. When signed, as I said, we have around 30% pre acceptance. We'll send out the notes for the AGM today. It will be on the 28th and closing is then expected before the 30th of June. 
+So that was the presentation. And if you have any questions, I guess there's been a few on the web.
+
+
+================================================================================
+Questions and Answers
+--------------------------------------------------------------------------------
+Ludvik Sandnes,  Nordic Nanovector ASA - Interim CEO & CFO    [1]
+--------------------------------------------------------------------------------
+Maybe I can read them. And if you guys come up again and you can answer. Yes, what's the cash position when we have completed the deal? Well, we have funding through '25, so we don't need to find more money before that. 
+And they ask, has Thor Medical finished product, which is already in sale? Or is it still under development? Maybe Alf, you can answer that.
+
+--------------------------------------------------------------------------------
+Alf Bjorseth,   -     [2]
+--------------------------------------------------------------------------------
+Yes. The product is still under development. We had developed and demonstrated the separation technology, and we have shared some samples with potential customers. But we don't have any sales for the time being, and it will require more time to develop a complete production line with all the requirements that are put on producing radioactive elements, so it will still take some time until we are in the regular sales of products.
+
+--------------------------------------------------------------------------------
+Ludvik Sandnes,  Nordic Nanovector ASA - Interim CEO & CFO    [3]
+--------------------------------------------------------------------------------
+They also ask, why will this company succeed when Orano Med have not made it using the same radio isotopes? Do we know?
+
+--------------------------------------------------------------------------------
+Roy Hartvig Larsen,   -     [4]
+--------------------------------------------------------------------------------
+Well, to say like this Orano Med,they have not failed, but they have a different business model where they also want to have ownership of the molecules and the final product, and that makes it more difficult for companies to work with them. Also, it has to do with that -- actually, they want to sell Lead-212. That's a short (inaudible) only 10 hours [offline]. 
+Toro Energy wants to sell -- correct me if I'm wrong, but want to sell long-lived isotope that is much more -- much easier to distribute long-lived isotope than a very short-lived isotope, so the business model is very different from Orano Med model. And I think Thor Medical has looked into that and have designed a business model that would take into a account the problem that Orano Med has faced.
+
+--------------------------------------------------------------------------------
+Ludvik Sandnes,  Nordic Nanovector ASA - Interim CEO & CFO    [5]
+--------------------------------------------------------------------------------
+They also ask, why does Thor Medical need Nordic Nanovector? That's a good question. We never ask that.
+
+--------------------------------------------------------------------------------
+Alf Bjorseth,   -     [6]
+--------------------------------------------------------------------------------
+No, it's always a strength for a company to have got good knowledge about the needs of a customer, to understand the customer and design the product, which is best suited for the operations as the customers are involved in, so that is one of the important things that Nordic Nanovector brings into this cooperation.
+
+--------------------------------------------------------------------------------
+Ludvik Sandnes,  Nordic Nanovector ASA - Interim CEO & CFO    [7]
+--------------------------------------------------------------------------------
+Right. And of course, the quoting on the stock exchange and 11,000 happy shareholders that can help us finance. It's also a question here, when do we want to do the financing? And I guess in a year or 2, when the plant is, let's say, being accepted and approved. We will need to go to the market, but it will still take 1 or 2 years, I guess. And [Bjor] is nodding, so we agree on that. 
+They also asked about the news flow. Is there any news flow that our shareholders can expect, going forward? Is that when we get the acceptance maybe from...
+
+--------------------------------------------------------------------------------
+Alf Bjorseth,   -     [8]
+--------------------------------------------------------------------------------
+Yes. I'm absolutely sure that we would have news in the coming years, and we have a plan. And when we meet the milestones, of course, that as a listed company, we are not in a [different] situation that we've been as a privately-held company, so information have been among a very limited number of shareholders so far. And this will be distributed in normal way for a listed company so [that we have] regular information about the progress that's currently...
+
+--------------------------------------------------------------------------------
+Ludvik Sandnes,  Nordic Nanovector ASA - Interim CEO & CFO    [9]
+--------------------------------------------------------------------------------
+There's also a question why North Energy did not sign the lockup agreement that they have entered the nomination committee, and we think they are long term, but they had a principle being an investment company not to sign up, and it's not normal for a listed company that the shareholders there sign up, but all of our sales are done, all rather than North Energy, so that was negotiated and accepted, so that's why. 
+I think that concludes the questions we received. Anyone from the audience? Okay. In that case, thank you.
+
+--------------------------------------------------------------------------------
+Roy Hartvig Larsen,   -     [10]
+--------------------------------------------------------------------------------
+Thank you.
+
+--------------------------------------------------------------------------------
+Alf Bjorseth,   -     [11]
+--------------------------------------------------------------------------------
+Thank you.
+
+--------------------------------------------------------------------------------
+Ludvik Sandnes,  Nordic Nanovector ASA - Interim CEO & CFO    [12]
+--------------------------------------------------------------------------------
+Thank you very much.
+
+
+
+
+
+
+
+--------------------------------------------------------------------------------
+Definitions
+--------------------------------------------------------------------------------
+PRELIMINARY TRANSCRIPT: "Preliminary Transcript" indicates that the 
+Transcript has been published in near real-time by an experienced 
+professional transcriber.  While the Preliminary Transcript is highly 
+accurate, it has not been edited to ensure the entire transcription 
+represents a verbatim report of the call.
+
+EDITED TRANSCRIPT: "Edited Transcript" indicates that a team of professional 
+editors have listened to the event a second time to confirm that the 
+content of the call has been transcribed accurately and in full.
+
+--------------------------------------------------------------------------------
+Disclaimer
+--------------------------------------------------------------------------------
+Refinitiv reserves the right to make changes to documents, content, or other 
+information on this web site without obligation to notify any person of 
+such changes.
+
+In the conference calls upon which Event Transcripts are based, companies 
+may make projections or other forward-looking statements regarding a variety 
+of items. Such forward-looking statements are based upon current 
+expectations and involve risks and uncertainties. Actual results may differ 
+materially from those stated in any forward-looking statement based on a 
+number of important factors and risks, which are more specifically 
+identified in the companies' most recent SEC filings. Although the companies 
+may indicate and believe that the assumptions underlying the forward-looking 
+statements are reasonable, any of the assumptions could prove inaccurate or 
+incorrect and, therefore, there can be no assurance that the results 
+contemplated in the forward-looking statements will be realized.
+
+THE INFORMATION CONTAINED IN EVENT TRANSCRIPTS IS A TEXTUAL REPRESENTATION
+OF THE APPLICABLE COMPANY'S CONFERENCE CALL AND WHILE EFFORTS ARE MADE TO
+PROVIDE AN ACCURATE TRANSCRIPTION, THERE MAY BE MATERIAL ERRORS, OMISSIONS,
+OR INACCURACIES IN THE REPORTING OF THE SUBSTANCE OF THE CONFERENCE CALLS.
+IN NO WAY DOES REFINITIV OR THE APPLICABLE COMPANY ASSUME ANY RESPONSIBILITY FOR ANY INVESTMENT OR OTHER
+DECISIONS MADE BASED UPON THE INFORMATION PROVIDED ON THIS WEB SITE OR IN
+ANY EVENT TRANSCRIPT. USERS ARE ADVISED TO REVIEW THE APPLICABLE COMPANY'S
+CONFERENCE CALL ITSELF AND THE APPLICABLE COMPANY'S SEC FILINGS BEFORE
+MAKING ANY INVESTMENT OR OTHER DECISIONS.
+--------------------------------------------------------------------------------
+Copyright 2023 Refinitiv. All Rights Reserved.
+--------------------------------------------------------------------------------

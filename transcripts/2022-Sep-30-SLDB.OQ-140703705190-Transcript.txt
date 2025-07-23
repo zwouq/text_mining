@@ -1,0 +1,330 @@
+
+
+Refinitiv StreetEvents Event Transcript
+E D I T E D   V E R S I O N
+
+Solid Biosciences Inc To Acquire Aavantibio Inc Call
+SEPTEMBER 30, 2022 / 12:00PM GMT
+
+================================================================================
+Corporate Participants
+================================================================================
+
+ * Alexander G. Cumbo
+   AavantiBio, Inc. - CEO, President & Director
+ * Stephen J. Di Palma
+   Solid Biosciences Inc. - Interim CFO, Treasurer & Principal Accounting Officer
+ * Ilan Ganot
+   Solid Biosciences Inc. - Co-founder, President, CEO & Director
+ * Jenny Marlowe
+   AavantiBio, Inc. - Chief Scientific Officer
+ * Caitlin Lowie
+   Solid Biosciences Inc. - VP of Communications & IR
+ * Carl Ashley Morris
+   Solid Biosciences Inc. - Chief Scientific Officer
+
+================================================================================
+Conference Call Participiants
+================================================================================
+
+ * Farzin Haque
+   Jefferies LLC, Research Division - Equity Associate
+ * Xiaozhou Fan
+   Barclays Bank PLC, Research Division - Research Analyst
+ * Chitavi Devi Maulloo
+   Chardan Capital Markets, LLC, Research Division - Senior Research Associate
+ * Elizabeth Cecilia Feindt-Scott
+   SVB Securities LLC, Research Division - Research Analyst
+ * Malcolm A. Kuno
+   JPMorgan Chase & Co, Research Division - Analyst
+ * Allison Marie Bratzel
+   Piper Sandler & Co., Research Division - Research Analyst
+
+================================================================================
+Presentation
+--------------------------------------------------------------------------------
+Operator    [1]
+--------------------------------------------------------------------------------
+Ladies and gentlemen, thank you for standing by, and welcome to today's joint conference call with Solid Biosciences and AavantiBio to discuss our strategic business transaction. Please be advised that today's conference may be recorded. I would now like to hand the conference over to Caitlin Lowie, Vice President of Communications and Investor Relations at Solid Biosciences. Ms. Lowie, you may begin.
+
+--------------------------------------------------------------------------------
+Caitlin Lowie,  Solid Biosciences Inc. - VP of Communications & IR    [2]
+--------------------------------------------------------------------------------
+Good morning, and thank you, operator. Before we begin, I would like to remind everyone that this discussion and the accompanying presentation will contain forward-looking statements based on the current expectations of Solid Biosciences and AavantiBio, including but not limited to, statements regarding the expected timing, completion, effects and potential benefits of the proposed merger and private placement of our future expectation, plans and prospects for the combined company.  
+Such statements represent management's judgment and intention as of today and involve assumptions, risks and uncertainties. Actual results could differ materially from those discussed in these forward-looking statements due to a number of important factors, risks and uncertainties including those risks set forth on Slide 2 of the accompanying presentation and other risks described in the Risk Factors section of our most recently filed annual report on Form 10-K and other periodic reports filed with the SEC. Solid and AavantiBio undertake no obligation to update any forward-looking statements after the date of this call.  
+Further, as indicated on Slide 3 of the accompanying presentation, Solid Biosciences intends to file a preliminary and definitive proxy statement with the SEC relating to the proposed merger and private placement. Please be advised to read, when available, the preliminary and definitive proxy statement and the other relevant documents filed with the SEC as these will contain important information about Solid, AavantiBio and the transaction. Once available, these documents can be obtained free of charge from the SEC at sec.gov or on the Solid Biosciences website.  
+With me today on the call are Ilan Ganot, Co-Founder, President and Chief Executive Officer of Solid Biosciences; Bo Cumbo, President and Chief Executive Officer of AavantiBio; Steve DiPalma, Solid's Interim Chief Financial Officer; Dr. Carl Morris, Solid's Chief Financial Officer; and Dr. Jenny Marlowe, Chief Scientific Officer for AavantiBio.
+During today's call, we will share details of the strategic update the company announced this morning. Yesterday, Solid entered into a definitive merger agreement to acquire AavantiBio, a privately held gene therapy company. Solid also entered into a securities purchase agreement with a select group of healthcare and biotech investors for a $75 million private placement that is expected to close concurrently with the closing of the merger. We'll begin with opening remarks from Ilan, who will share details of the planned acquisition of AavantiBio, followed by Bo, who will discuss Solid's strategic path forward. We will then open the call to questions.  
+Before I turn the call over to Ilan, I want to acknowledge that materials related to these transactions were filed with the SEC this morning. I'd like to now turn the call over to Solid's CEO, Ilan Ganot. Ilan?
+
+--------------------------------------------------------------------------------
+Ilan Ganot,  Solid Biosciences Inc. - Co-founder, President, CEO & Director    [3]
+--------------------------------------------------------------------------------
+Thanks, Caitlin, and thank you all for joining us this morning. When we founded Solid nearly 10 years ago, we wanted to identify meaningful treatment options for the boys and families who live with the devastating consequences of Duchenne muscular dystrophy. Over that time, Solid has experienced many ups and downs, but our commitment to patients and our mission has remained our guide. I personally have had the privilege of watching great science be conducted by our team, and the lives of boys who have been treated with our product candidate in clinical trials being improved. 
+As the leadership team, Bo and I have discussed how to position Solid for success in the future and ensure that our treatment can reach patients. We recognize a number of challenges that we were continually facing: one, manufacturing is a critical factor in the development process; two, a single disease focus with a single asset exposes us to greater market volatility and risk; three, Solid has produced some interesting and innovative technologies but were not able to explore the potential with patients.  
+In April, we began to address the first challenge when we announced our intention to focus our manufacturing on a single manufacturing methodology, transient transfection, because we believe it will improve our consistency of supply as well as potentially improve the quality of the product candidate. That decision has, thus far, proven to be a positive one. Today's announcement of the proposed merger and private placement, I believe, will help address the last 2 challenges.  
+We believe that diversifying Solid's business into more disease areas will allow us to open doors to new investments and create a more stable business model to move our Duchenne program to patients. AavantiBio emerged as an ideal partner and a group of healthcare and biotech investors agreed to commit $75 million in a PIPE that was announced alongside the acquisition of AavantiBio.  
+First, a bit about the transaction before I hand it over to Bo Cumbo, who will assume the role of President and CEO of Solid upon the closing of the transaction. The acquisition of AavantiBio is expected to strengthen and expand Solid's pipeline and add organizational capacity to help advance our programs into and through commercialization and hopefully, ultimately to patients. AavantiBio has been developing a gene transfer product candidate for Friedreich's Ataxia, or FA, another neuromuscular disease as well as a product -- as well as product candidates for cardiac indications, including BAG3 Mediated Dilated Cardiomyopathy.  
+Together, we believe that Solid has the potential to become a leader in gene therapy for neuromuscular and cardiac diseases. When discussions began with Bo and the AavantiBio team, it was clear on that -- it was assumed that -- sorry, it was clear early on that there were some natural synergies. First, AavantiBio has some great talent that would complement the leadership team we have here at Solid. As you will see, the new team has strong leaders in all areas of the organization.  
+Second, the companies have similar pipelines. Obviously, Solid has focused on Duchenne, a neuromuscular disorder that has cardiac manifestations. There are many similarities between Duchenne, Friedreich's Ataxia and the cardiac programs that AavantiBio is developing. We're also both working to identify promising next-generation novel capsids. Finally, both companies have found themselves in a similar place with manufacturing. Just as we have begun to focus on transient transfection-based manufacturing as our manufacturing platform, AavantiBio has made a similar decision to switch from HSV to transient transfection. We believe we can drive consistent drug product with desired quality attributes by having a single specialized CMC team working across the programs. All of these activities will support our goal of having multiple programs in the clinic in the coming years, leading with SGT-003 for Duchenne.  
+Now a few details on the transactions we announced in the press release earlier this morning. Solid signed a definitive agreement to acquire AavantiBio concurrently with a $75 million private placement in Solid. The private placement will add to the combination of the existing cash from both Solid and Aavanti. The merger is an all-stock transaction where upon closing, AavantiBio shareholders will own approximately 15% of the combined company. Upon the closing, the combined company will operate as Solid Biosciences under the ticker SLDB, and AavantiBio will become a wholly-owned subsidiary of Solid.  
+The merger has been approved by the Boards of Solid and AavantiBio as well as stockholders of AavantiBio. We expect the merger to close by the end of this year, subject to approval of Solid's stockholders and other customer closing conditions. The $75 million PIPE will close concurrently with the acquisition of AavantiBio. In the PIPE, we agreed to sell approximately 159 million shares of common stock at $0.47 per share.  
+Our lead investors in the PIPE are Perceptive Advisors, RA Capital Management and Bain Capital Life Sciences. Other new and existing investors include CaaS Capital Management, Invus, Laurion Capital Management and Pura Vida Investments. Finally, we expect the combined company to have cash and investments of approximately $215 million at close, which we expect will be sufficient to fund operations and capital expenditures into 2025 and through important milestones for the lead programs.  
+With that, I'm going to hand it over to Bo Cumbo. I've known Bo for nearly 10 years now. I've also worked closely with Bo recently as we have discussed how to bring these 2 organizations together. Through that process, we discussed the future leadership of the company as I was thinking about my next phase. Bo's significant experience, bringing products through development and commercialization, and I believe he is a strong leader for this next phase of Solid. I look forward to working with Bo in the future, both as a member of Solid's Board of Directors and as a strategic adviser during this transition period.
+
+--------------------------------------------------------------------------------
+Alexander G. Cumbo,  AavantiBio, Inc. - CEO, President & Director    [4]
+--------------------------------------------------------------------------------
+Thanks, Ilan. I'm really glad to join you today. While I've been out of DMD for multiple years and had not anticipated coming back into the Duchenne space, I'm truly excited to help the children, young men and their extended families suffering from the consequences of Duchenne. I care deeply for this patient community and hope that Solid, as well as the entire industry trying to make advancements in care for patients suffering from DMD, find success and change the course of this disease. 
+With that said, I have a vision of building a company that will tackle additional severe genetic diseases, and we hope to be a leader in developing novel therapies in both the neuromuscular and cardiac spaces. Over the next few slides, I will walk you through what we envision the future of the company will become and what we expect to happen in the next couple of years. 
+As Ilan mentioned, the core of the company will be built upon 3 pillars: People, Pipeline and Process. And I'm going to walk through each of those. But first, a bit about the combined company. We will be headquartered in Charlestown, Massachusetts under Solid's roof. They have great R&D and analytical and process development labs. We also will leverage Aavanti's Vector Core located in North Carolina that can produce material for small-scale studies while our PD teams can stay very focused on our lead programs. 
+We value AavantiBio's current relationship with the University of Florida, and we intend to maintain a research presence in Gainesville. As Ilan noted, this merger would significantly diversify Solid's pipeline. All of the programs in the combined companies' pipeline focus on rare diseases that are estimated to have greater than 5,000 treatable patients in the United States alone. 
+As we look out over the next few years of the combined company, we have some key anticipated milestones we aim to achieve. First, we expect to close the transaction by the end of this year following a Solid shareholder vote. In mid-2023, we anticipate an IND submission for SGT-003. You probably saw in the press release that SGT-003 has been prioritized over Solid's first-generation program, SGT-001, which will be paused. 
+We will get into that in a minute. But after having lengthy discussion with Solid's leadership team over these past few weeks. I'm very supportive of their decision to make SGT-003 the primary focus of the company's Duchenne efforts moving forward. In addition, in the second half of 2024, we anticipate submitting an IND for our other lead program, AVB-202 for the treatment of Friedreich's ataxia. This is a neuromuscular disorder that has neurological as well as cardiac manifestations affecting muscle control and coordination with possible loss of vision, hearing and slurred speech. 
+We also plan to initiate IND-enabling activities for AVB-401 for the treatment of BAG3 mediated dilated cardiomyopathy or BAG3 in 2024. BAG3 is a devastating disease that can ultimately lead to heart failure. We also plan to continue our effort to develop novel AAV cardiac-directed capsids for our emerging cardiac pipeline. We're excited to highlight the executive team post merger. This group has extensive experience in genetic medicine and will be a major asset to the combined company as we move forward. 
+After the closing of the merger, I will assume the role as the President and CEO. I've been in the industry for 28 years in specialty of rare disease companies. For the past 2 years, I've been solely focused on building AavantiBio and I'm extremely proud of the exciting work we have done. Before Aavanti, I was at Sarepta Therapeutics for 8 years, where I served as the Executive Vice President and Chief Commercial Officer. Prior to that, I worked at both Vertex and Gilead. 
+The scientific foundation of the combined company is on the call today, Dr. Morris and Dr. Marlowe. Carl will be our Chief Scientific Officer for neuromuscular programs. He's a muscle biologist by training, has been in the industry for a very long time. Prior to Solid, Carl worked at Pfizer. Carl is well known in the neuromuscular space, and I've known him for an extended period of time and very grateful that Carl and I get to work together. 
+Jenny is currently the Scientific Officer -- Chief Scientific Officer at Aavanti. She will be the CSO responsible for our Friedreich's ataxia and cardiac programs. Prior to joining Aavanti, Jenny was the Vice President of Preclinical and Translational Development for Bluebird Bio. Jenny also spent 11 years in Novartis preclinical safety group and is a molecular toxicologist by training. 
+So we have a muscle biologist and a toxicologist, which will really sync up nicely for the work we need to accomplish. Carl and Jenny will combine efforts and continue to work on our capsid libraries for both skeletal and cardiac tissues. It is important to have regulatory expertise on the executive team, and we will have one of the best in the industry with Dr. Jessie Hanrahan. Jessie is well known globally and has worked with EMA, OTAT and others. 
+Jessie came to Aavanti from Bluebird where she was the Vice President of Regulatory. She's also been with Boston Scientific as well as Genzyme. Jessie had -- also has an incredible team with experience in both regulatory strategy and CMC regulatory within gene and cell therapies. This team will help support all our efforts going forward. 
+Paul Herzich will be the Chief Technology Officer. Paul has decades of experience right where you want it, in gene therapy and biologics. Prior to Aavanti, Paul was the Vice President of CMC at BridgeBio. Prior to this, he was also at Novartis, LogicBio, Bamboo, et cetera, so he has deep gene therapy experience and is very well known within the CMC community. 
+Dr. Roxana Dreghici will be the Head of Clinical Development. Roxana is a specialist within Duchenne and spinal muscular atrophy and is very well known within the industry and Duchenne community. She was at Roche prior to Solid, and I'm very excited to have the opportunity to work with Roxana. Steve DiPalma, who is on the call today, has extensive experience as CFO in the biotech and pharma space and has been the interim CFO at Solid for the past couple of years. He will stay with us while we recruit an experienced CFO in the Boston area. 
+Ty Howton rounds out the team as the Chief Administrative Officer. Ty currently serves at AavantiBio's Chief Operating Officer and will oversee legal, HR and program management, among other functions. Ty's been on the executive teams of Vertex, Sarepta and Aavanti. His background is in law. And while he will head -- be the Head of Legal, he also brings the experiences he's gained in 20-plus years at companies like Aavanti, Sarepta, Vertex and Genentech, in areas including regulatory, preclinical, CMC, government affairs and patient advocacy. 
+This merger will also bring together all the pieces you need to be a leading genetic medicine company. We have the Vector core up and running as well as animal models and supporting natural history studies in place within the key diseases. And great scientists able to develop novel capsids, regulatory elements and promoters. The merger is also expected to bring together a network of research partners globally that will help support our ongoing research efforts for our pipeline programs. 
+We believe this merger will put all the critical pieces together to create a leading gene therapy company, and our goal is to have multiple INDs in the coming years, leading with our next-generation microdystrophin program, SGT-003 followed by AVB-202 for FA. This will be the combined company's initial pipeline, bringing together gene therapy candidates from Solid and Aavanti. I'm very excited about the combined pipeline. 
+As you can see, we are targeting an IND submission for our lead program, SGT-003 in mid-2023, with patient dosing starting in late 2023, pending IND's acceptance. AVB-202 for FA will follow that with an anticipated IND submission in the second half of '24. AVB-401 for BAG3 is currently in preclinical development and hopefully, in the future, we'll be in a position to share details on our undisclosed cardiac targets. 
+I think everyone on this call knows Duchenne and how devastating the disease is and can be to patients and families. You also know that Solid has potentially the best-in-class microdystrophin construct contain the nNOS binding domain. I will spend a few moments on the announcement that Solid made this morning regarding SGT-003, notably to pause SGT-001 to prioritize SGT-003 as the lead Duchenne program. 
+This slide shows the evolution of Solid's microdystrophin programs, starting with SGT-001, which was used in the IGNITE DMD study to the second-generation SGT-001 manufactured using a triple transfection process. And finally, Solid's next-generation program on the right-hand side, SGT-003, which will be the leading -- lead going forward. 
+As you know, SGT-003 delivers solid nNOS microdystrophin protein with a novel capsid. Using a reporter transgene, this capsid has shown a 10x improvement in transgene expression compared to AAV9, a 2x increase in muscle distribution compared to AAV9 and its liver detargeting, showing less than half the biodistribution to the liver compared to AAV9. We believe that SGT-003 could be best-in-class and offer improved microdystrophin expression at lower viral loads. 
+Solid has been developing SGT-003 since the program was publicly launched in May of last year, including conducting nonhuman primate study, scale-up activities at the CDMO Partner and several confirmatory nonclinical studies. This slide shows some of the data that Solid has previously shared that demonstrated the benefit of novel capsid. 
+Ultimately, the team decided that SGT-003 now deserves the focus of Solid's Duchenne efforts in order to achieve the time line we have set. An anticipated IND submission in mid-2023 and subject to IND clearance, patient dosing and anticipated in late 2023. Over the next few months, we will complete current ongoing preclinical and manufacturing activities for SGT-001. This will allow us to pause SGT-001 when it's ready for IND filing. I'm spending time on this because I know many people have asked the Solid team about the 2 DMD programs and at what point they would go to a single program. 
+I fully support the decision management made -- has made to prioritize and progress SGT-003. As we've mentioned a few times, we expect to bring SGT-003 to patients in a clinical setting next year, pending an IND's acceptance. Our immediate focus in the coming months will be able to complete our manufacturing and regulatory engagement activities to support our anticipated IND submission next year. 
+Now our second program is going to be AVB-202 for the treatment of Friedreich's ataxia. FA is similar to Duchenne in that is caused by a lack of a protein, frataxin. It's a multisystem disease that has both neurological and cardiac manifestations that can be severe. We plan to address the cardiac and neuromuscular manifestations administering AVB-202 via both intrathecal and intravenous routes. 
+What is important about FA is that, it's not just the amount of frataxin that is required but it's the distribution of frataxin to the targeted locations throughout the relevant target tissues of the central nervous system as well as the heart. Aavanti's frataxin transgene fits very nicely within the capsid. It is full-length human frataxin with the addition of regulatory elements that are naturally occurring in the 3-prime UTR region, where we're using the CBA promoter as well as AAV9. 
+And I will show you the iterations on how our program has evolved to what we believe has the potential to be the best-in-class gene therapy for the treatment of FA. Similar to what Solid did, we took multiple iterations and reviewed every aspect of our product candidate to make a potentially best-in-class program, AVB-202. Whether it was codon optimizing the gene, the manufacturing platform in which we moved away from HSV to transient transfection, adding in regulatory elements and then AAV9 with the plasmid design that is optimized for yield and productivity. 
+We have ended up with an optimized construct in delivery, which is shown on the right-hand side of this slide. We will use this construct to advance IND-enabling activities and manufacturing scale-up using a transient transfection process to support an anticipated IND submission in the second half of 2024. 
+Here is some of the preclinical data for AVB-202 we have collected. This model is for frataxin deficient knockout mouse model. We performed experiments in this mouse model in both pre- and post-symptomatic context to understand whether we could change the course of the disease after symptom onset or before. And we're very pleased with the results in both models in which we observed that AVB-202 extended survival and improved cardiac function. 
+We also understand from the preclinical studies that frataxin is functional in the dosed mouse mitochondria because you can look at the health of the mitochondria through the surrogate marker called succinate dehydrogenase which we see returned to normal levels post dose. 
+Now our third program is going to be AVB-401 for the treatment of BAG3 mediated dilated cardiomyopathy or BAG3. The BAG3 gene codes for this BCL-2 associated athanogene 3 protein or BAG3. If you don't have BAG3 protein or a reduction in BAG3 protein, you are likely to end up with dilated cardiomyopathy and ultimately, heart failure. If you have this disease, you're likely going to see treatment because your daily activities are severely impaired. We are using Rh74 to deliver an optimized BAG3 transgene with a specific cardiac promoter. And we are piggybacking off FA and Duchenne with transient transfection manufacturing process. 
+Now there are a lot of synergies we expect to come together with this transaction, including the next-generation capsid libraries, the 2 companies are independently developing. Aavanti was working on discovering next-generation highly complex cardiac capsid libraries generated through a combination of rational design and random mutagenesis, screened via directed evolution in nonhuman primates using a RNA-based readout for positive selection from cardiac tissues and DNA for negative selection from liver tissue. 
+Meanwhile, Carl and the team at Solid were working on a ground-up rational design approach to optimize capsids and drive expression to skeletal muscle while lowering transduction to the liver. We expect the combination of the 2 developed programs to create a large tissue-specific capsid libraries that we believe we can leverage for our own internal R&D programs as well as potentially to out-license for noncore disease areas. 
+Of note, on the bottom right of this slide, you can see the results from SLB101, the capsid used in SGT-003. Now we believe that CMC is the foundation of the drug, and we will focus our efforts on having the best-in-class CMC for all our programs. As I mentioned earlier, we have full teams, QA, QC, PD, AD and great labs. We will also have CMC regulatory teams integrated in each one of our programs right from the beginning. So we always have an eye on CMC. 
+This slide helps to illustrate why CMC is so important. I want you to look at just the first 2 columns because there's only one thing that has changed from column one to column 2. It's not the dose, it's not the capsid, it's not the transgene. It's the manufacturing process. Switching from an HSV to a transient transfection process increased the microdystrophin expression by approximately 1.5-fold. Now this is when column 3 comes into play. SGT-003 using the novel capsid showed nearly a 2x increase in microdystrophin expression when compared to SGT-001 when both product candidates are manufactured using transient transfection. The only thing that changed between column 2 and 3 is using AAV-SLB101 capsid instead of AAV9. In summary, they observed 2 to 3x better expression with SGT-003 using triple transfection compared to SGT-001 using the HSV process. 
+Aavanti and Solid's respective manufacturing partners are currently in place for FA and Duchenne. And as I mentioned before, Aavanti Vector Core is able to support smaller scale needs for BAG3 and the other cardiac programs. 
+Before we turn to questions, I want to review some of the combined company key milestones we discussed during today's call. First, we expect to close the merger by the end of the year, following a Solid shareholder vote, including a $75 million financing in connection with the business combination, providing a total cash position at the close of the transaction of approximately $215 million, which is expected to extend our runway into 2025 and through important key milestones for our lead programs. 
+Next, we plan to report new data from the IGNITE DMD Phase I/II clinical trial of our first-generation program, SGT-001 in the early 2023. This will include the study's preliminary report of all patients to the primary endpoint of 1 year as well as 3-year longitudinal data for the first 3 patients treated in the high-dose cohort. Again, we anticipate submitting an IND submission for SGT-003 mid next year, and pending IND acceptance, we expect the dosing in late 2023. 
+Finally, we currently expect to submit an IND for our FA program in the second half of 2024, which is subject to an IND clearance will lead then to first patient dosing. In addition, we plan to move our BAG3 program into IND-enabling studies, advance our early-stage cardiac programs and continue development work on our capsids. 
+As you can see, I'm very excited about the opportunities in front of us and hope to build a leading gene therapy company in both neuromuscular and cardiac space. We have a talented team, a diversified pipeline, we believe could be potentially best-in-class and a strategic focus on a single manufacturing methodology. We also expect to have a strong cash position that we expect will be sufficient to achieve the milestones just discussed. And with that, I'll turn it over to Ilan to close.
+
+--------------------------------------------------------------------------------
+Ilan Ganot,  Solid Biosciences Inc. - Co-founder, President, CEO & Director    [5]
+--------------------------------------------------------------------------------
+Thank you, Bo. And I also want to thank all the Solid and AavantiBio employees for their tireless efforts. You've all done important work for patients, and I look forward to seeing what these 2 teams can achieve together. Thank you all for dialing in. We can take some questions now.
+
+
+================================================================================
+Questions and Answers
+--------------------------------------------------------------------------------
+Operator    [1]
+--------------------------------------------------------------------------------
+(Operator Instructions) 
+Our first question today is coming from Joe Schwartz from SVB Securities.
+
+--------------------------------------------------------------------------------
+Elizabeth Cecilia Feindt-Scott,  SVB Securities LLC, Research Division - Research Analyst    [2]
+--------------------------------------------------------------------------------
+This is Beth on for Joe Schwartz. Congrats to everyone on this exciting advancement and thanks for taking our questions today. I was curious if you could talk a little bit more about your decision to bring SGT-003 forward as your lead pipeline candidate? Specifically curious how you're thinking about the opportunity for 003 in light of Sarepta's recent accelerated approval filing for their microdystrophin gene therapy? And any sort of learnings you can take from 001 as you move 003 into clinical development?
+
+--------------------------------------------------------------------------------
+Carl Ashley Morris,  Solid Biosciences Inc. - Chief Scientific Officer    [3]
+--------------------------------------------------------------------------------
+Yes. Thanks. This is Carl Morris. Yes. We've been going through derisking of 003 all the way through. And so we got to a point where we were quite confident in where it's at. Also, we received some guidance from the FDA recently around SGT-001 that sort of brought the time lines a little bit closer together and really made the strategic decision to move forward with our next-gen program, 003. 
+We've gone through our pre-IND meeting. We also have scale-up activities with our CDMO partner, Forge. So we're in a good place to move forward with SGT-003 at this point in time and really made that decision. And I'll pass it over to Bo to talk a little bit about the Sarepta.
+
+--------------------------------------------------------------------------------
+Alexander G. Cumbo,  AavantiBio, Inc. - CEO, President & Director    [4]
+--------------------------------------------------------------------------------
+Yes, as far as on Sarepta, I think they've won, they've made tremendous progress over the last couple of years. And I think it's not only great for the industry but also great for the children suffering from DMD. We'll continue to -- they've laid out a very clear path and we should try to follow it. And we'll move with lightning speed to try to get there with 003.
+
+--------------------------------------------------------------------------------
+Ilan Ganot,  Solid Biosciences Inc. - Co-founder, President, CEO & Director    [5]
+--------------------------------------------------------------------------------
+I'll just add that we've always had this in mind because the protein is the same protein between 001, 003. And we believe that everything we're seeing in 001 should give us all the confidence to move 003 aggressively forward. Thank you for the question.
+
+--------------------------------------------------------------------------------
+Operator    [6]
+--------------------------------------------------------------------------------
+Our next question is coming from Maury Raycroft from Jefferies.
+
+--------------------------------------------------------------------------------
+Farzin Haque,  Jefferies LLC, Research Division - Equity Associate    [7]
+--------------------------------------------------------------------------------
+This is Farzin on for Maury. Congrats on the update. To clarify for 202 for FA, if there are preclinical data in the slide deck, I'm guessing there's only tailwind IV injected. Can you clarify on that? And then can you also talk about what you're seeing in the NHP data and more on how the dual IV IT dosing would work?
+
+--------------------------------------------------------------------------------
+Alexander G. Cumbo,  AavantiBio, Inc. - CEO, President & Director    [8]
+--------------------------------------------------------------------------------
+Yes. I think what I'm going to do is, I'm going to turn it over to Jenny in a second. We -- I think we -- you saw the preclinical data, the cardiac mouse model, and we're continuing to do additional work for IND-enabling studies. The nonhuman primate data, this is for FA, right? Yes. For nonhuman primate data is continuing and ongoing. We're going to have to continue to do additional studies. As I mentioned, we are switching over from HSV manufacturing platform to triple transfection manufacturing platform, and there will be compatibility studies that we'll have to complete as well. Jenny?
+
+--------------------------------------------------------------------------------
+Jenny Marlowe,  AavantiBio, Inc. - Chief Scientific Officer    [9]
+--------------------------------------------------------------------------------
+Yes. Thank you for your question. To answer directly the question around IV administration, yes, in that particular model, we dosed IV only. In our nonhuman primate model, we are dosing by the dual route of administration, both intravenous and by IT.
+
+--------------------------------------------------------------------------------
+Farzin Haque,  Jefferies LLC, Research Division - Equity Associate    [10]
+--------------------------------------------------------------------------------
+Got it. And then for the 202 optimization and plasmid design, how do you see differentiation versus other competitors in development?
+
+--------------------------------------------------------------------------------
+Alexander G. Cumbo,  AavantiBio, Inc. - CEO, President & Director    [11]
+--------------------------------------------------------------------------------
+For 202, I only know of really one company that's in -- that's done preclinical work and made it all the way to IND and that's Ataxia. So I'm not exactly sure that their construct design compared to ours. But we've done a lot of work, as we mentioned on the slide, looking at codon optimization, adding in regulatory elements, moving to triple transfection. 
+So I think it's a little too early to compare. But we're very confident in our program. We've done a lot of work over the last couple of years, and we're going to continue to do some more animal work. So we're very -- we understand exactly how this drug should react when we get to the IND.
+
+--------------------------------------------------------------------------------
+Operator    [12]
+--------------------------------------------------------------------------------
+Your next question is coming from Gena Wang from Barclays.
+
+--------------------------------------------------------------------------------
+Xiaozhou Fan,  Barclays Bank PLC, Research Division - Research Analyst    [13]
+--------------------------------------------------------------------------------
+This is Sheldon on for Gena. So maybe first question is, could you remind us what are the remaining steps for the IND filing for SGT-003? And second question is, I think you mentioned the switching from HSV to transfection was intended for reinitiate dosing with 001. So could you give us some color on whether that switching on the Solid part by now, is it already completed? And how would you coordinate the transition from HSV to transient for both organizations?
+
+--------------------------------------------------------------------------------
+Ilan Ganot,  Solid Biosciences Inc. - Co-founder, President, CEO & Director    [14]
+--------------------------------------------------------------------------------
+I'll start just by saying that Carl's going to mention some of the additional steps for the IND submission for 003. But as far as 001 goes, we have 9 patients who have been treated. We really like the data, and it continues to get collected on annual visits. We're expecting 3-year functional outcomes coming soon. We're very excited about the durability profile of the treatment. And so we would definitely expect to see that and more from 003. 
+And as Carl mentioned, this was sort of like a process of -- an ongoing process of derisking. Eventually the relapses have come in the clinic, but as we learn more about 003, we learn more about the novel capsid. We went from in vitro to in vivo and then in vivo and NHP data, all in order to get comfortable for that to turn into our lead effectively today. But Carl can talk more about the...
+
+--------------------------------------------------------------------------------
+Carl Ashley Morris,  Solid Biosciences Inc. - Chief Scientific Officer    [15]
+--------------------------------------------------------------------------------
+Yes. Just on the 001 program, we are continuing with some of the nonclinical work as well as some manufacturing work on the 001 program. So if something does delay or stop the 003 program, we will have that ready to go. So we are continuing, getting it to a good pausing point. 
+For the SGT-003 program, we've completed -- we sort of have guidance from the FDA via the pre-IND meeting. We are sort of in the midst of working through the IND-enabling nonclinical work. And we have scaled up the manufacturing to a place where we can actually -- to a scale that can supply the clinical study. So we're in the process of getting to the GMP and finalizing all the study reports so we can submit the IND as soon as possible.
+
+--------------------------------------------------------------------------------
+Operator    [16]
+--------------------------------------------------------------------------------
+Your next question is coming from Allison Bratzel from Piper Sandler.
+
+--------------------------------------------------------------------------------
+Allison Marie Bratzel,  Piper Sandler & Co., Research Division - Research Analyst    [17]
+--------------------------------------------------------------------------------
+Congrats on all the updates. Could you just walk us through what assumptions are included in your 2025 cash runway guidance in some more detail? And also just walk us through the expected cadence of value inflection points you're anticipating for SGT-003 and AVB-202 through 2025? Does that contemplate clinical data is available for both assets by that 2025 time frame?
+
+--------------------------------------------------------------------------------
+Alexander G. Cumbo,  AavantiBio, Inc. - CEO, President & Director    [18]
+--------------------------------------------------------------------------------
+Yes. Let's kick it over to Steve for the financial update.
+
+--------------------------------------------------------------------------------
+Stephen J. Di Palma,  Solid Biosciences Inc. - Interim CFO, Treasurer & Principal Accounting Officer    [19]
+--------------------------------------------------------------------------------
+Yes. So the runway would encompass important milestones in both programs. We do expect to have clinical readouts on 003 and also likely on 002 and FA as well into early 2025.
+
+--------------------------------------------------------------------------------
+Alexander G. Cumbo,  AavantiBio, Inc. - CEO, President & Director    [20]
+--------------------------------------------------------------------------------
+Yes, I think just to answer your question, I mean, we're going to -- some of the milestones that we'll have from an inflection point in the next couple of years. We'll obviously close the merger at the end of this year. As I mentioned before, we'll have an IND submission for the next-generation SGT-003 mid-next year. 
+We intend to dose patients in that 003 program at the end of next year as well. We will start having patient data expected from that same program, 003 in 2024. Then the IND from FA would take hold late '24. And then we would start dosing patients soon after, whether it's through the runway or not. So -- and then BAG3, we'll continue to move forward with IND-enabling studies. Our other 2 cardiac programs will continue to move forward. 
+And our capsid libraries, both on the skeletal side as well as the cardiac side, we'll have nonhuman primate data readouts early 2024, and then we can look to utilize those capsids for whether it's our cardiac -- internal cardiac programs or out-licensed for nondilutive financing.
+
+--------------------------------------------------------------------------------
+Operator    [21]
+--------------------------------------------------------------------------------
+Your next question is coming from Anupam Rama from JPMorgan.
+
+--------------------------------------------------------------------------------
+Malcolm A. Kuno,  JPMorgan Chase & Co, Research Division - Analyst    [22]
+--------------------------------------------------------------------------------
+This is actually Malcolm in for Anupam. Congrats on the update today. Just one quick one. What (inaudible) of in terms of a target IND submission for 003?
+
+--------------------------------------------------------------------------------
+Alexander G. Cumbo,  AavantiBio, Inc. - CEO, President & Director    [23]
+--------------------------------------------------------------------------------
+You broke up. We couldn't hear the question. You broke up. Could you repeat it?
+
+--------------------------------------------------------------------------------
+Malcolm A. Kuno,  JPMorgan Chase & Co, Research Division - Analyst    [24]
+--------------------------------------------------------------------------------
+Sure. What are the gating factors that we should be mindful of in terms of thinking about target IND submission for 003?
+
+--------------------------------------------------------------------------------
+Carl Ashley Morris,  Solid Biosciences Inc. - Chief Scientific Officer    [25]
+--------------------------------------------------------------------------------
+Really, it's just a completion and the readouts from the IND-enabling nonclinical work. We have -- we know what we need to do. We've been told what the FDA is expecting. So we're just going through the execution of those studies right now. And additionally, we just have to ensure that we can release material, GMP material. And that's really it. We have sort of a protocol outlined and we're looking at start-up starting of the sites. So I think everything is in place and on track for a mid-2023 IND.
+
+--------------------------------------------------------------------------------
+Operator    [26]
+--------------------------------------------------------------------------------
+(Operator Instructions) 
+Your next question is coming from Geulah Livshits from Chardan.
+
+--------------------------------------------------------------------------------
+Chitavi Devi Maulloo,  Chardan Capital Markets, LLC, Research Division - Senior Research Associate    [27]
+--------------------------------------------------------------------------------
+This is Chloe for Geulah. Congratulations on the transaction. So our question is you had guided to sort of cadence revenues coming from the 001 program for later this year. You're going to update on -- have a 1-year update on patients 7 to 9 and potentially longer-term data on those patients treated with 001 later this year. I was wondering if that was still going to be the case. 
+And a second question on enrollment in the IGNITE DMD study based on conversations with the regulators so far, what is your idea of how many more patients will need to dose before having a productive conversation with the FDA on FA?
+
+--------------------------------------------------------------------------------
+Carl Ashley Morris,  Solid Biosciences Inc. - Chief Scientific Officer    [28]
+--------------------------------------------------------------------------------
+So for the first part, yes, we will be communicating. There's the primary endpoint data, the 12-month endpoint data from the IGNITE DMD study as well as 3-year data from subset, and that should come out to later this year, early next year, Q1 next year as we've guided to. So that hasn't changed. We are -- we're sort of communicating now that we're pausing the 001 program. And given that we needed to file a new IND for the 001, it's unlikely we'll be sort of continuing with the dosing with 001 at this point.
+
+--------------------------------------------------------------------------------
+Operator    [29]
+--------------------------------------------------------------------------------
+We reached the end of our question-and-answer session. And ladies and gentlemen, that does conclude today's teleconference and webcast. You may disconnect your lines at this time, and have a wonderful day. We thank you for your participation today.
+
+
+
+
+
+
+
+--------------------------------------------------------------------------------
+Definitions
+--------------------------------------------------------------------------------
+PRELIMINARY TRANSCRIPT: "Preliminary Transcript" indicates that the 
+Transcript has been published in near real-time by an experienced 
+professional transcriber.  While the Preliminary Transcript is highly 
+accurate, it has not been edited to ensure the entire transcription 
+represents a verbatim report of the call.
+
+EDITED TRANSCRIPT: "Edited Transcript" indicates that a team of professional 
+editors have listened to the event a second time to confirm that the 
+content of the call has been transcribed accurately and in full.
+
+--------------------------------------------------------------------------------
+Disclaimer
+--------------------------------------------------------------------------------
+Refinitiv reserves the right to make changes to documents, content, or other 
+information on this web site without obligation to notify any person of 
+such changes.
+
+In the conference calls upon which Event Transcripts are based, companies 
+may make projections or other forward-looking statements regarding a variety 
+of items. Such forward-looking statements are based upon current 
+expectations and involve risks and uncertainties. Actual results may differ 
+materially from those stated in any forward-looking statement based on a 
+number of important factors and risks, which are more specifically 
+identified in the companies' most recent SEC filings. Although the companies 
+may indicate and believe that the assumptions underlying the forward-looking 
+statements are reasonable, any of the assumptions could prove inaccurate or 
+incorrect and, therefore, there can be no assurance that the results 
+contemplated in the forward-looking statements will be realized.
+
+THE INFORMATION CONTAINED IN EVENT TRANSCRIPTS IS A TEXTUAL REPRESENTATION
+OF THE APPLICABLE COMPANY'S CONFERENCE CALL AND WHILE EFFORTS ARE MADE TO
+PROVIDE AN ACCURATE TRANSCRIPTION, THERE MAY BE MATERIAL ERRORS, OMISSIONS,
+OR INACCURACIES IN THE REPORTING OF THE SUBSTANCE OF THE CONFERENCE CALLS.
+IN NO WAY DOES REFINITIV OR THE APPLICABLE COMPANY ASSUME ANY RESPONSIBILITY FOR ANY INVESTMENT OR OTHER
+DECISIONS MADE BASED UPON THE INFORMATION PROVIDED ON THIS WEB SITE OR IN
+ANY EVENT TRANSCRIPT. USERS ARE ADVISED TO REVIEW THE APPLICABLE COMPANY'S
+CONFERENCE CALL ITSELF AND THE APPLICABLE COMPANY'S SEC FILINGS BEFORE
+MAKING ANY INVESTMENT OR OTHER DECISIONS.
+--------------------------------------------------------------------------------
+Copyright 2023 Refinitiv. All Rights Reserved.
+--------------------------------------------------------------------------------

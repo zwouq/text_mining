@@ -1,0 +1,547 @@
+
+
+Refinitiv StreetEvents Event Transcript
+E D I T E D   V E R S I O N
+
+Abbvie Inc will Acquire ImmunoGen Inc M&amp;A Call
+NOVEMBER 30, 2023 / 2:00PM GMT
+
+================================================================================
+Corporate Participants
+================================================================================
+
+ * Richard A. Gonzalez
+   AbbVie Inc. - Chairman & CEO
+ * Jeffrey Ryan Stewart
+   AbbVie Inc. - Executive VP & Chief Commercial Officer
+ * Robert A. Michael
+   AbbVie Inc. - President & COO
+ * Elizabeth Shea
+   AbbVie Inc. - SVP of IR
+ * Scott T. Reents
+   AbbVie Inc. - Executive VP & CFO
+ * Roopal Thakkar
+   AbbVie Inc. - SVP of Development & Regulatory Affairs and Chief Medical Officer
+
+================================================================================
+Conference Call Participiants
+================================================================================
+
+ * Stephen Michael Scala
+   TD Cowen, Research Division - MD & Senior Research Analyst
+ * Robyn Kay Shelton Karnauskas
+   Truist Securities, Inc., Research Division - Research Analyst
+ * Gary Jay Nachman
+   Raymond James & Associates, Inc., Research Division - MD & Senior Life Sciences Analyst
+ * Carter Lewis Gould
+   Barclays Bank PLC, Research Division - Senior Analyst
+ * Geoffrey Christopher Meacham
+   BofA Securities, Research Division - MD
+ * Harry MacKinnon Gillis
+   Joh. Berenberg, Gossler & Co. KG, Research Division - Analyst
+ * Mohit Bansal
+   Wells Fargo Securities, LLC, Research Division - Senior Equity Analyst
+ * Terence C. Flynn
+   Morgan Stanley, Research Division - Equity Analyst
+ * James John Shin
+   Deutsche Bank AG, Research Division - Research Analyst
+ * Andrew Simon Baum
+   Citigroup Inc., Research Division - Global Head of Healthcare Research and MD
+ * Christopher Thomas Schott
+   JPMorgan Chase & Co, Research Division - Senior Analyst
+ * Evan David Seigerman
+   BMO Capital Markets Equity Research - MD & Senior BioPharma Research Analyst
+
+================================================================================
+Presentation
+--------------------------------------------------------------------------------
+Operator    [1]
+--------------------------------------------------------------------------------
+Good day, and thank you for standing by. Welcome to the AbbVie Investor and Analyst Conference Call. (Operator Instructions) Today's call is also being recorded. If you have any objections, you may disconnect at this time. I would now like to introduce Ms. Liz Shea, Senior Vice President of Investor Relations. Thank you. You may begin.
+
+--------------------------------------------------------------------------------
+Elizabeth Shea,  AbbVie Inc. - SVP of IR    [2]
+--------------------------------------------------------------------------------
+Good morning, and thank you for joining us for this special conference call to discuss AbbVie's acquisition of ImmunoGen, which we announced earlier today. Joining me on the call today are Rick Gonzalez, Chairman of the Board and Chief Executive Officer; Rob Michael, President and Chief Operating Officer; and Scott Reents, Executive Vice President and Chief Financial Officer. Joining us for the Q&A portion of the call are Jeff Stewart, Executive Vice President, Chief Commercial Officer; Nicholas Donoghoe, Executive Vice President, Chief Business and Strategy Officer; and Roopal Thakkar, Senior Vice President, Development and Regulatory Affairs and Chief Medical Officer. 
+Today's call will feature prepared remarks from Rick, Rob and Scott to discuss the strategic rationale for the addition of this strong growth business to our portfolio as well as the key financial aspects of the transaction. We have also posted a set of slides with additional background for your reference, which can be found on our investor website. 
+Before we get started, I'll note that some statements we make today may be considered forward-looking statements based on our current expectations. AbbVie cautions that these forward-looking statements are subject to risks and uncertainties that may cause actual results to differ materially from those indicated in our forward-looking statement. Additional information about these risks and uncertainties is included in our SEC filings. AbbVie undertakes no obligation to update these forward-looking statements except as required by law. Following our prepared remarks, we'll take your questions. 
+So with that, I'll turn the call over to Rick.
+
+--------------------------------------------------------------------------------
+Richard A. Gonzalez,  AbbVie Inc. - Chairman & CEO    [3]
+--------------------------------------------------------------------------------
+Thank you, Liz, and good morning, everyone, and thank you for joining us. We have made significant progress advancing our strategic priorities since our inception as an independent company nearly 11 years ago. We've evolved from a company with one major product, Humira, to a much larger, more diverse company with a platform of innovative and differentiated therapies that span immunology, oncology, neuroscience, eye care and aesthetics. This growth platform has enabled us to successfully manage through the largest loss of exclusivity event in the industry history. We are now in a strong position to return to robust growth in 2025 and deliver top-tier financial performance through the end of the decade. 
+Since our inception, we have also made significant investment in R&D, both internal and external, to expand our capabilities and build a pipeline of potentially transformational assets in areas of high unmet need. In the area of oncology, our investments have been focused on expanding our pipeline with novel mechanisms of action across both heme and solid tumors. 
+It has been a strategic priority for AbbVie to establish a strong foundation in solid tumors, and we made significant progress on that front. We now have a robust solid tumor pipeline that spans potentially groundbreaking technologies and platforms, including next-generation immuno-oncology assets and ADCs, including our anti-GARP antibody in Phase II, our PGPN2 inhibitors in Phase I, our c-Met ADCs, both 400 and Teliso-V, in mid- and late-stage development. 
+Just yesterday, we announced some very promising data from a potentially registration-enabling trial for Teliso-V in lung cancer, which showed compelling clinical benefit across key efficacy measures, including overall response rate, duration of response and overall survival. 
+And today, we announced the strategic acquisition of ImmunoGen and their portfolio of ADCs, accelerating our entry into the solid tumor space and strengthening our oncology pipeline. This transaction represents an extremely compelling opportunity for AbbVie, for ImmunoGen, our combined shareholders and most importantly, for patients. This is an exciting day for both companies, and I'm pleased to welcome their entire team to AbbVie. 
+With that, I'll turn the call over to Rob. Rob?
+
+--------------------------------------------------------------------------------
+Robert A. Michael,  AbbVie Inc. - President & COO    [4]
+--------------------------------------------------------------------------------
+Thank you, Rick. This is an exciting day for both companies, and we are very pleased to have the talented team from ImmunoGen join our organization. The addition of ImmunoGen represents a strategically compelling opportunity for AbbVie, our shareholders and the patients we serve. 
+This transaction brings together 2 organizations with long histories, extensive expertise and complementary strengths in the development of antibody drug conjugates for the treatment of cancer. It also represents a unique opportunity to accelerate AbbVie's entry in the solid tumor space through the addition of ELAHERE, a high-value, on-market therapy for ovarian cancer while also strengthening our oncology pipeline with the addition of multiple novel clinical stage ADCs. 
+This transaction also provides an opportunity for significant value creation. We will leverage AbbVie's global commercial scale and clinical and regulatory capabilities to maximize the potential for ELAHERE and other pipeline assets. 
+ImmunoGen has been a pioneer in the area of ADCs for more than 4 decades and has developed a broad portfolio of intellectual property and best-in-class technologies. Over this time frame, ImmunoGen's technology has been instrumental in the development of 3 marketed oncology products. This includes 2 products licensed to other companies and ELAHERE, their wholly owned and independently commercialized ADC for ovarian cancer. 
+ELAHERE is a first-in-class ADC approved for the treatment of FR alpha-positive platinum-resistant ovarian cancer patients in the second-line plus setting. 
+As the only ADC approved in ovarian cancer and the first targeted agent to show a survival benefit in platinum-resistant patients, ELAHERE is well positioned to become the standard of care in this setting. ELAHERE also has a favorable safety profile compared to existing chemotherapy in terms of hematologic toxicity and hair loss, which is helping drive strong utilization. 
+This differentiated safety profile is an important factor that should enable ELAHERE to be used in combination with other treatments. ELAHERE has experienced rapid uptake during its first year on the U.S. market with sales already annualizing above $400 million. This extremely impressive ramp is on track to be one of the most successful new product launches in oncology. 
+ELAHERE's initial performance underscores the strength of its differentiated profile and also highlights the high unmet need in ovarian cancer. ELAHERE's initial indication represents a sizable sales opportunity and is expected to make a meaningful near-term contribution to AbbVie's oncology portfolio. 
+However, ELAHERE's greater value lies in expansion opportunities across larger segments of the ovarian cancer market. A broad development program is planned to expand ELAHERE use across all segments of ovarian cancer, including platinum-sensitive patients, the frontline maintenance setting in both HRD-positive and HR-proficient patients and patients with medium FR-alpha expression. 
+With commercialization in these additional indications anticipated near the end of this decade, we would expect a significant sales inflection beginning in the early part of the 2030s with ELAHERE growing to a multibillion-dollar sales opportunity over the next decade. This transaction also brings an attractive next-generation FR alpha-targeted ADC called IMGN-151. This ADC is engineered to include multiple design innovations that could enable treatment in broader patient populations. 
+This includes lower levels of FR-alpha expression in ovarian cancer and potentially other solid tumor types. With a different antibody, more stable linker and more potent payload than ELAHERE, 151 Is designed for increased binding, internalization and cell killing. This represents a very exciting innovation that has a potential to significantly expand the addressable market covered by ELAHERE. 
+ImmunoGen also brings an exciting CD123-targeting ADC designed for blood cancers. This ADC, which is called pivek, has demonstrated encouraging activity in a rare and aggressive blood cancer, BPDCN, where it has received breakthrough therapy designation. Pivek is currently being evaluated in a pivotal Phase II study in treatment-naive BPDCN patients with top line data expected next year. 
+In summary, this transaction is clearly a strong strategic fit and significantly accelerates our commercial presence in solid tumors. It is highly complementary with our existing solid tumor pipeline, which includes novel targeted therapies and next-generation immuno-oncology assets. 
+With the combined capabilities of AbbVie and ImmunoGen, we have the potential to engineer better ADCs, which can be used to develop transformative new therapies for cancer patients. I want to once again welcome the ImmunoGen team to AbbVie. Together, we have an opportunity to continue developing innovative new therapies for patients and build a leadership position in ADCs. 
+I'll now turn the call over to Scott.
+
+--------------------------------------------------------------------------------
+Scott T. Reents,  AbbVie Inc. - Executive VP & CFO    [5]
+--------------------------------------------------------------------------------
+Thanks, Rob. Before discussing the financial profile of this transaction, let me begin by underscoring how pleased we are to announce this strategic acquisition. This transaction provides AbbVie with a high-value, on-market oncology asset as well as multiple promising pipeline assets, which further strengthen our prospects for robust long-term growth. 
+We have agreed to acquire all outstanding shares of ImmunoGen for a purchase price of $31.26 per share in an all-cash transaction. This reflects a purchase price of $10.1 billion with an implied transaction value of approximately $9.8 billion net of estimated cash acquired. We will fund the transaction with a combination of cash and debt. 
+Given that ELAHERE is an on-market, derisked asset, it represents the most substantial component of the deal value. Sales for ELAHERE are expected to grow steadily in its initial indication with a more significant ramp at the beginning of the next decade following development in larger segments of the ovarian cancer market. 
+More modest value has been ascribed to the pipeline assets, IMGN-151 and pivek, given their earlier stages of development and the smaller addressable patient populations for pivek in rare blood cancers. This is a financially attractive transaction for AbbVie, which we anticipate will be accretive beginning in 2027 and significantly accretive over the long term. 
+Given the increased R&D, operating and interest expenses associated with the acquisition, we expect the transaction to negatively impact earnings over the near term. Assuming the deal close in the middle of 2024, we expect ImmunoGen transaction to be approximately $0.13 dilutive to our adjusted earnings per share in 2024, approximately $0.16 dilutive in 2025 and neutral to earnings in 2026. 
+Regarding our outlook, we indicated on our third quarter earnings call that we would not expect 2024 full year adjusted earnings per share to be below $11. Despite the near-term dilution associated with the ImmunoGen transaction, we are maintaining this floor guidance for the next year, highlighting our continued confidence in the underlying outlook of our business. 
+Additionally, we do not anticipate a change to AbbVie's capital allocation priorities as a result of this deal. We remain committed to a strong and growing dividend while maintaining flexibility for additional business development. 
+In summary, this is an exciting day for both AbbVie and ImmunoGen as we combine our 2 companies to create a stronger oncology portfolio that has the potential to deliver better outcomes for patients. The transaction meaningfully contributes to AbbVie's top-tier growth outlook through the remainder of the decade while driving significant accretion over the long term. 
+With that, I'll turn the call back over to Liz.
+
+--------------------------------------------------------------------------------
+Elizabeth Shea,  AbbVie Inc. - SVP of IR    [6]
+--------------------------------------------------------------------------------
+Thanks, Scott. We will now open the call for questions. (Operator Instructions). Operator, we'll take the first question, please.
+
+
+================================================================================
+Questions and Answers
+--------------------------------------------------------------------------------
+Operator    [1]
+--------------------------------------------------------------------------------
+And our first question comes from Andrew Baum with Citigroup Global.
+
+--------------------------------------------------------------------------------
+Andrew Simon Baum,  Citigroup Inc., Research Division - Global Head of Healthcare Research and MD    [2]
+--------------------------------------------------------------------------------
+Question on the duration of use and the [total footage] of the drug. As you move into earlier lines, the survival outlook improves materially and therefore, the rate-limiting step is how many cycles the patients can tolerate. Could you comment on where you think that's going from the current label to an earlier line of use?
+
+--------------------------------------------------------------------------------
+Roopal Thakkar,  AbbVie Inc. - SVP of Development & Regulatory Affairs and Chief Medical Officer    [3]
+--------------------------------------------------------------------------------
+Andrew, it's Roopal. I think you've captured it. So as you go into earlier lines, these patients tend to do better, especially in the platinum-sensitive ovarian cancer. They tend to have a longer outlook. And as we've outlined here in the discussion that our intent is to continue to expand. So currently in platinum-resistant, expanding out to sensitive and in the second line and in the front line, where we have an opportunity to combine with BEV and PARP inhibitors. 
+So I think when you see that, we can probably expect even a longer duration of therapy in what we're seeing now. And when you look at the MIRASOL data, even in the sickest patients who have platinum resistance, we're seeing a survival advantage, which is totally unprecedented and clearly practice changing. So we want to offer that to many more patient segments as we continue development here.
+
+--------------------------------------------------------------------------------
+Andrew Simon Baum,  Citigroup Inc., Research Division - Global Head of Healthcare Research and MD    [4]
+--------------------------------------------------------------------------------
+And to what extent does the tolerability precludes just continuing on until the patient progresses? Obviously, you don't know yet because you're subject to the last line, but do you have any sense just how many cycles patients can tolerate, i.e., it's limited by progression rather than tolerability?
+
+--------------------------------------------------------------------------------
+Roopal Thakkar,  AbbVie Inc. - SVP of Development & Regulatory Affairs and Chief Medical Officer    [5]
+--------------------------------------------------------------------------------
+I won't have the exact numbers on that, but I can give you a qualitative answer. So when we looked at the data, when you look at Grade 3 adverse events, they're substantially higher in the chemo arm. So we feel that the tolerability is quite good from a Grade 3 standpoint. 
+And with some ocular toxicity is probably the main tolerability component here. But most patients do find if we have to reduce the dose a little bit or eye drops, lubricant eye drops and steroid eye drops tend to do very well. So qualitatively, we see an expansion of several cycles as we go into the broader population.
+
+--------------------------------------------------------------------------------
+Operator    [6]
+--------------------------------------------------------------------------------
+The next question comes from Chris Schott with JPMorgan.
+
+--------------------------------------------------------------------------------
+Christopher Thomas Schott,  JPMorgan Chase & Co, Research Division - Senior Analyst    [7]
+--------------------------------------------------------------------------------
+Just maybe broadening out a little bit on the ELAHERE opportunity. Can you just elaborate a bit more on how much of that multibillion dollar peak sales potentially you see coming from the current indication? 
+And as you think about broadening out the label, I guess which of the studies and indications you're pursuing are you most confident in? And which are you viewing it as a higher risk in -- as you kind of thought about deal value here?
+
+--------------------------------------------------------------------------------
+Jeffrey Ryan Stewart,  AbbVie Inc. - Executive VP & Chief Commercial Officer    [8]
+--------------------------------------------------------------------------------
+Yes. Chris, it's Jeff Stewart here. And just to reiterate a little bit of what Rob highlighted in terms of our confidence level and how we see the mix. So first, ELAHERE is ramping exceptionally well in this first indication, right? So it's annualizing at over $400 million. So it's very, very well received. And one of the most successful, if we sort of time align these big recent oncology launches, one of the most successful ones that we've seen. 
+And that's because of the much better responses, the OS benefit, 33% less death and that improved tolerability and less discontinuation, frankly, what Roopal's saying. And this is in the resistant population. So we see a very good dynamic there. And we also see that the testing rates are being rapidly adopted. 
+In some ways, look, oncology is complex, but we really see FR alpha ray testings moving to at diagnosis. So these physicians are going to be looking for PARP sensitivity and the FR alpha ratios. I think that's a very important concept to what I'm going to discuss in a minute. 
+So first, when we move from the resistant population to the sensitive population, that more than doubles basically the available population, okay? And that's before you get into what Roopal talked about, which is in that sensitive population, you're going to have very likely a longer duration of therapy in cycles, okay? So that's a big move as we move from resistant to sensitive. 
+And I think that we've looked -- when we looked at the diligence, the work that was done is very, very clever and well constructed, and Roopal can talk about that. So you have kind of a triple play going at that sensitive population with Piccolo, which is in the third line plus; GLORIOSA, which is really a combination with BEV, very attractive; and then 420, which is going to allow you to go with the combination with the platinums. 
+And that's very unique, this ADC in terms of its potential for combinations. So after you think about that doubling effect into the sensitive population, you get another double again, which is this move into the medium expression, okay? So that basically -- the way that we look at it, about 35% of people have FR alpha high. Another 30% or so have medium. And we can already see from the [42] data that it works in that population. This is in the resistants. We believe that, that will translate over to the sensitive. 
+And a good proof point is even today, right, in that sensitive -- or in the resistant segment, I'm sorry, the NCCN Compendia highlights that physicians can use this in high, medium and even low. So it's a good proof point in terms of the first doubling and then the second doubling. 
+And then lastly, and this is important, but this is not going to sort of develop until the 2030s is we have envisioned the additional expansion into frontline maintenance with PARPs and with BEV in those segments as well. So the first population is very significant, annualizing at over $400 million, but it's really the expansion opportunities into sensitive, medium expressers and then ultimately frontline that will balance out that multibillion opportunity. I don't know, Roopal, if you want to highlight any...
+
+--------------------------------------------------------------------------------
+Roopal Thakkar,  AbbVie Inc. - SVP of Development & Regulatory Affairs and Chief Medical Officer    [9]
+--------------------------------------------------------------------------------
+This may overlap a little bit with Jeff, but maybe add a little bit more to it. So I think you asked a little bit around risk. So during diligence, we did a very careful, thorough, very deep assessment. And the team and the rest of us became very confident in the opportunity to expand patient segments and indications, as Jeff has outlined. 
+We saw meaningful efficacy in platinum-sensitive, which Jeff mentioned, is around 55% of ovarian cancer. And the current platinum-resistant population, that's about 45%. So really compelling information data that we saw there. 
+And then the other thing we observed is ELAHERE combines nicely with BEV and carboplatinum. At full dose, it's tolerated. And what we saw is we saw strong efficacy in the patients that had already received PARP inhibitors. In fact, I think about 45% in the MIRASOL trial, sorry, were prior PARP inhibitors. 
+And that's important because platinum and other chemotherapies, they don't seem to work as well post PARP inhibitor. So this would be very important for ELAHERE's opportunity. So -- and that does create the opportunity to develop ELAHERE in first-line maintenance, whether it's combined with BEV or a PARP inhibitor along with combos with carbo, as Jeff was outlining in platinum-sensitive patients. 
+And we also saw compelling efficacy in the medium expressors. And just to reiterate, that's about 30% of the patients. And the high, where we're currently approved, now is about 35%. So we can expand into this segment across platinum-resistant, platinum-sensitive and first-line maintenance. So especially in combination, and this will allow it to drive and also become the combination partner of choice. So very comprehensive assessment, and we see a great opportunity.
+
+--------------------------------------------------------------------------------
+Elizabeth Shea,  AbbVie Inc. - SVP of IR    [10]
+--------------------------------------------------------------------------------
+Thanks, Chris.
+
+--------------------------------------------------------------------------------
+Operator    [11]
+--------------------------------------------------------------------------------
+The next question comes from Carter Gould with Barclays.
+
+--------------------------------------------------------------------------------
+Carter Lewis Gould,  Barclays Bank PLC, Research Division - Senior Analyst    [12]
+--------------------------------------------------------------------------------
+Congrats on the deal. Across the ovarian landscape, there's been a lot of excitement around some other targets, whether that's B7-H3 or (inaudible) 16. Can you talk about your diligence there and how you think about the competitive environment here and to the extent that you can stay ahead of that?
+
+--------------------------------------------------------------------------------
+Roopal Thakkar,  AbbVie Inc. - SVP of Development & Regulatory Affairs and Chief Medical Officer    [13]
+--------------------------------------------------------------------------------
+Yes. Thanks for the question. It's Roopal again. Yes, I mean, we did an in-depth analysis and looked at some of the assets that you've mentioned and many others. 
+A couple of things that are pretty important to point out. So one, as of right now, we have overall survival data that's been highlighted. And it will take 5-plus years for other assets to come into the space. We're not just waiting. All the things that Jeff and I just discussed and what you heard earlier, these are multiple Phase III and Phase II programs that will be launched here very shortly. 
+So that also allow us to cover many patient segments very quickly because we have a very active derisked asset that's able to combine. That's not clear for others. You won't know the safety profile for several years, and you won't know how they combine for several years either. And you won't know if they can actually achieve overall survival success. 
+You know the cancer -- you know oncology very well. We've seen lung, as an example, lots of excitement and enthusiasm, but maybe not moving the needle on overall survival. So that gives us a good amount of confidence. 
+Then we're also going to be driving this 151 asset that we -- that you heard about. It's a bivalent binding to 2 different epitopes. It's a highly potent, permeable warhead and more stable linker, longer half-life asset. So that gives us even more opportunities potentially even in low expressors currently in Phase I in ovarian cancer and endometrial and potentially other tumor types. And also with our own internal platforms, we have an opportunity ourselves to use our own [topo] warhead with these other assets.
+
+--------------------------------------------------------------------------------
+Elizabeth Shea,  AbbVie Inc. - SVP of IR    [14]
+--------------------------------------------------------------------------------
+Thank you, Carter.
+
+--------------------------------------------------------------------------------
+Operator    [15]
+--------------------------------------------------------------------------------
+The next question comes from Mohit Bansal with Wells Fargo.
+
+--------------------------------------------------------------------------------
+Mohit Bansal,  Wells Fargo Securities, LLC, Research Division - Senior Equity Analyst    [16]
+--------------------------------------------------------------------------------
+Congrats on the deal. So I have one question regarding the CD123 asset. I think they have some interesting data at ASH, I mean, with Venclexta. But can you just help us understand how you are thinking about that asset and where does it add value? And also like do we know how much of the sales for Venclexta is coming from AML right now?
+
+--------------------------------------------------------------------------------
+Roopal Thakkar,  AbbVie Inc. - SVP of Development & Regulatory Affairs and Chief Medical Officer    [17]
+--------------------------------------------------------------------------------
+Okay. Maybe -- Mohit, it's Roopal. Maybe I'll start, and then Jeff can talk a little bit more about AML. So just the opportunity for CD123, so consistent with the other assets here, it's a DNA alkylating agent. And it's unique to what Rob had mentioned this BPDCN. It's blastic plasmacytoid dendritic cell neoplasm, a mouthful. But that's what BPDCN is, and it is rare. 
+It's about 1,200 patients a year between Europe and U.S. These are mostly men. They see these terrible skin lesions, and it also involves lymph, blood, bone marrow. However, as rare it is and with no real treatment options, there is one approval. But the data we're seeing with this one is very compelling, 70% CR rates, duration of response, more than a year and a fairly tolerable adverse event profile. 
+We don't have the 50% or so capillary leak syndrome, which has been observed with other agents, so well tolerated and good data there. So that's the one big piece of this and more data next year and a potential for an approval. 
+Now with respect to AML standard of care in unfit now is Ven plus aza. 60% to 70% of our patients are likely getting Ven-aza. And what they've done with this agent because the CD123 is also expressed on AML is to look at that combo. 
+And as I talked about tolerability, they started analyzing with the 14-day course and now have got up to full dose at 28 days. So there is a potential there for a combination, and we'll wait to see some more data at ASH and then more follow-up data after to see how that looks. But that is certainly a potential opportunity. And then maybe Jeff can comment on where we're at with AML.
+
+--------------------------------------------------------------------------------
+Jeffrey Ryan Stewart,  AbbVie Inc. - Executive VP & Chief Commercial Officer    [18]
+--------------------------------------------------------------------------------
+Yes. Mohit, it's Jeff. So AML accounts for just under 20% of our overall Venclexta sales. And to Roopal's point, if you look across the globe, all of the major territories, Ven in the ineligible population, which is about 50% of the frontline patients, has a 70% to even 80% share. So it's quite striking as a standard of care. 
+Now the big problem that we continue to have, which is quite interesting with the study that Roopal talked about, is despite the fact that Ven has basically transformed that space, you still have very, very aggressive disease. So your treatment durations are sometimes 5 months, 6 months. 
+So the ability to think about that, a triplet that can basically work with the standard of care to extend life with overall survival would be very attractive and would accrue to both of the assets in all likelihood. So that's kind of how the market is currently structured.
+
+--------------------------------------------------------------------------------
+Elizabeth Shea,  AbbVie Inc. - SVP of IR    [19]
+--------------------------------------------------------------------------------
+Thanks, Mohit.
+
+--------------------------------------------------------------------------------
+Operator    [20]
+--------------------------------------------------------------------------------
+The next question comes from Terence Flynn with Morgan Stanley.
+
+--------------------------------------------------------------------------------
+Terence C. Flynn,  Morgan Stanley, Research Division - Equity Analyst    [21]
+--------------------------------------------------------------------------------
+Great. Maybe 2 for me. I was just wondering if you can provide some more information on the patent position for ELAHERE and how you're thinking about the duration of the tail of this asset, given it's an ADC. 
+And then on 2024 EPS guidance, again, I appreciate the reiteration of the floor. If we just add back the $0.13 dilution, we're at $11.13. Is that a starting point? Or is that not official guidance at this point? I just want to understand how you're thinking about framing that as we think about 2024.
+
+--------------------------------------------------------------------------------
+Robert A. Michael,  AbbVie Inc. - President & COO    [22]
+--------------------------------------------------------------------------------
+Terence, this is Rob. And your first question regarding the plan for ELAHERE. 2036 would be the date I would use for your modeling purposes.
+
+--------------------------------------------------------------------------------
+Scott T. Reents,  AbbVie Inc. - Executive VP & CFO    [23]
+--------------------------------------------------------------------------------
+Terence, it's Scott. Regarding your second question, no, that's not our guidance. We're talking about just reiterating that the $11 floor that we talked about in the third quarter earnings call. We are reaffirming that, that continues to be our floor, and we'll provide guidance in our Q4 call.
+
+--------------------------------------------------------------------------------
+Robert A. Michael,  AbbVie Inc. - President & COO    [24]
+--------------------------------------------------------------------------------
+And this is Rob. I'll just add on that. It was not our intent by providing the floor for that to be interpreted as guidance. I have seen in some commentary where that -- there was comparisons of our floor to analyst consensus, and that's clearly not an appropriate comparison. So we provide that floor to give investors a sense of what is the -- in a downside scenario if you want to value the company with a growth multiple off of that floor EPS, it would be an appropriate way to do it, but it was never meant to be interpreted as guidance. We'll obviously provide that guidance on the Q4 call and will be inclusive of the dilution from this transaction.
+
+--------------------------------------------------------------------------------
+Elizabeth Shea,  AbbVie Inc. - SVP of IR    [25]
+--------------------------------------------------------------------------------
+Thanks, Terence.
+
+--------------------------------------------------------------------------------
+Operator    [26]
+--------------------------------------------------------------------------------
+Our next question comes from Gary Nachman with Raymond James.
+
+--------------------------------------------------------------------------------
+Gary Jay Nachman,  Raymond James & Associates, Inc., Research Division - MD & Senior Life Sciences Analyst    [27]
+--------------------------------------------------------------------------------
+Congrats on the deal. So first, is there any overlap in terms of your ADC pipeline and technologies and what ImmunoGen has or is it all complementary? So do you anticipate any FTC scrutiny on the deal with any of the pipeline programs that you both have? 
+And then secondly, just in terms of the funding of the deal. What's the anticipated split of cash and debt? And where do you expect your leverage will go post close? And then maybe what's the capacity to do more deals, I guess, of this magnitude sort of in this range going forward?
+
+--------------------------------------------------------------------------------
+Roopal Thakkar,  AbbVie Inc. - SVP of Development & Regulatory Affairs and Chief Medical Officer    [28]
+--------------------------------------------------------------------------------
+Gary, it's Roopal. I'll kick off real quick on the natures of the 2 pipelines. I think one of the big benefits here is looking at ImmunoGen's legacy here, 40-plus years experience, really impressive technology. It is quite complementary to what we have from a platform standpoint. 
+We have the immuno-oncology portfolio, which is a little distinct from their ADCs and the type of ADCs they have. We are focused on Teliso-V and MMAE and 400 and next gen, it's all topo warhead. So they'll bring different targets, different types of linkers. 
+We'll have some -- in different warheads and we'll have also something similar that's complementary, different targets, different warheads, different technologies. So it's a very nice complement to each organization. And when you look at the tumor types that both would be targeting, whether it's solid or some heme that I outlined before, minimal to no overlap.
+
+--------------------------------------------------------------------------------
+Richard A. Gonzalez,  AbbVie Inc. - Chairman & CEO    [29]
+--------------------------------------------------------------------------------
+This is Rick. I would say from an FTC perspective, we believe that this would have no overlap from an FTC standpoint based on our portfolio and our market presence.
+
+--------------------------------------------------------------------------------
+Scott T. Reents,  AbbVie Inc. - Executive VP & CFO    [30]
+--------------------------------------------------------------------------------
+It's Scott. I'll take your question regarding the funding of the transaction. So we've not indicated what we expect it to be. It will be a combination of cash and debt. 
+I think when you think about it, we certainly have a strong cash balance and the flexibility. We'll look at the market conditions at the time. If you want to model something, I think it would be fair to say that we'll use at least $2 billion of cash as we contemplate today. 
+In terms of what our net debt-to-EBITDA leverage would do, so we have said many times before that we're very comfortable operating at a 2x net debt to EBITDA. I think based upon our modeling, we'll probably be right at that 2x. We'll go up a little bit in '24, but then we'll be back down below 2x in '25. So this is where we're seeing that and consistent with what our prior thinking is around a transaction of this size. And I'll turn it to Rob.
+
+--------------------------------------------------------------------------------
+Robert A. Michael,  AbbVie Inc. - President & COO    [31]
+--------------------------------------------------------------------------------
+Yes, Gary, this is Rob. I'll take your third question. So if you think about this deal is very consistent with our M&A messaging throughout the year. We previously said that we do not need external business development to achieve our high single-digit CAGR for '24 and '29. But we are interested in external assets that can drive growth into the next decade. 
+And this opportunity is one that really aligns very well with our strategy. Think about it, it adds incremental short-term revenue. It accelerates our presence in the solid tumor market, ahead of the launch of Teliso-V and 400. And it provides us the follow-on pipeline and additional ADC technology. 
+So it meets all the criteria we're looking for. I've said previously that think about in terms of like small to midsized transactions we'll be looking at, this is clearly a midsized transaction. We also said that as long as we can get back to a net leverage of 2x in 2 to 3 years, that's why we define our capacity. So if we see another as a similar opportunity in one of our strategic growth areas that fits that profile, we have the financial wherewithal to pursue it.
+
+--------------------------------------------------------------------------------
+Elizabeth Shea,  AbbVie Inc. - SVP of IR    [32]
+--------------------------------------------------------------------------------
+Thanks, Gary.
+
+--------------------------------------------------------------------------------
+Operator    [33]
+--------------------------------------------------------------------------------
+The next question comes from Steve Scala with Cowen.
+
+--------------------------------------------------------------------------------
+Stephen Michael Scala,  TD Cowen, Research Division - MD & Senior Research Analyst    [34]
+--------------------------------------------------------------------------------
+I just had a follow-up on the floor EPS direction for 2024. So I'm just wondering how we should interpret the reiteration of that. Is it because the company had built in a cushion originally, so you're kind of back to where you started or that things now look stronger than they originally did when that direction was provided? 
+And then secondly, can you walk us through the P&L dynamics post close? So the dilution in year 2 is, of course, much less than year 1 on an annualized basis. How much of that is synergies versus how much is growing into a greater top line?
+
+--------------------------------------------------------------------------------
+Robert A. Michael,  AbbVie Inc. - President & COO    [35]
+--------------------------------------------------------------------------------
+Steve, this is Rob. I'll take your first question. So again, the floor EPS was not meant to be guidance. It would have incorporated certain, I'd say, downside scenarios to give investors confidence that the EPS will not drop below that level. 
+Clearly, as we look at this deal and the dilution from it, it doesn't change our view on the floor. So I wouldn't try to make a connection between guidance and the floor. But we thought it was important given the dilution, given the questions around the floor that we should at least reaffirm that there's no impact on the floor even with this transaction.
+
+--------------------------------------------------------------------------------
+Scott T. Reents,  AbbVie Inc. - Executive VP & CFO    [36]
+--------------------------------------------------------------------------------
+It's Scott. I'll take your second question. So this is not a transaction that we're looking to heavily synergize by any means. This is a transaction that we know we will have to continue to invest in both an R&D and an SG&A perspective as we develop these assets and then certainly bring to the market. 
+So we're not going to be going after the synergies, as we might have in other transactions historically. I would say that your year 2 question, that is -- when you think about, again, we're going to be increasing R&D and investment into this. And so that is -- some of the lesser -- the lessening of the dilutive impact in 2025 would be from top line growth of ELAHERE.
+
+--------------------------------------------------------------------------------
+Robert A. Michael,  AbbVie Inc. - President & COO    [37]
+--------------------------------------------------------------------------------
+And if you think about the dilution, I mean, the dilution is really driven by net interest expense, right? And so ImmunoGen has an on-market product. It's profitable. I'd say in year 1, the dilution you're seeing is almost entirely net interest expense. 
+In year 2, you actually see the annualization of that interest expense. So that would be higher dilution, but that's offset by favorable operating margin coming from that business. And so it's important to distinguish that the dilution is really driven on net interest expense line. It's not being driven in op margin.
+
+--------------------------------------------------------------------------------
+Richard A. Gonzalez,  AbbVie Inc. - Chairman & CEO    [38]
+--------------------------------------------------------------------------------
+And this is Rick. The only thing I would add is as you think about R&D in this transaction, one of the important opportunities that we have is to be able to fund as rapidly as possible and in parallel as many of these indications or combinations as we can as quickly as possible because that's what creates the tremendous value here. So it will be one that it is our intent to fully fund it from an R&D standpoint to be able to have speed to market for those indications. 
+It's also our intent to rapidly explore our own topo warhead to be a next-generation version of this target. So all of those things will require R&D investment. We've built that R&D investment in to this transaction with that intent and that desire. 
+And so it's quite the opposite of a synergy. It's ultimately going to drive more expense, but it will give a very significant return, particularly in the latter part of this decade and into the next decade, which is clearly our intent.
+
+--------------------------------------------------------------------------------
+Elizabeth Shea,  AbbVie Inc. - SVP of IR    [39]
+--------------------------------------------------------------------------------
+Thanks, Steve.
+
+--------------------------------------------------------------------------------
+Operator    [40]
+--------------------------------------------------------------------------------
+The next question comes from Evan Seigerman with BMO Capital Markets.
+
+--------------------------------------------------------------------------------
+Evan David Seigerman,  BMO Capital Markets Equity Research - MD & Senior BioPharma Research Analyst    [41]
+--------------------------------------------------------------------------------
+So kind of following up to the prior question, you've traditionally not had major presence in solid tumor oncology. So I guess, we should expect a new commercial build-out. And I guess why not leverage what you already have, say, in neuroscience you think you're doing -- think about deals going forward?
+
+--------------------------------------------------------------------------------
+Richard A. Gonzalez,  AbbVie Inc. - Chairman & CEO    [42]
+--------------------------------------------------------------------------------
+I think as you look at opportunities that are available, certainly, solid tumors have always been a strong strategic intent for us. We've invested in solid tumor R&D for the last 7 or 8 years. We built out an entire topo platform, ADC platform as well as a number of other ADCs. 
+As you saw a few days ago, Teliso-V has now demonstrated, at least to us, that this is going to be a meaningful medicine for the treatment of c-Met patients in lung cancer and in other areas. As we look at the data emerging from 400 in CRC, I'd say it's not as mature as the data that we obviously have in Teliso-V, but the signals are very similar and very attractive. 
+And so it was always our intent to ultimately develop a platform around solid tumors, and we've invested to be able to do that. The advantage of this opportunity is you have an on-market product that's relatively early in its life that has demonstrated survival, has significant opportunities to be able to expand in other lines of therapy and combine effectively with other agents to even give incremental improvement in survival, hopefully. 
+And it allows us to be able to enter the market a little bit earlier. It will be followed by Teliso-V and as the next opportunity. So they have infrastructure in place to commercialize this asset. We'll obviously be adding commercial assets in order to be able to take advantage of the Teliso-V opportunity. 
+And then as these other assets that are in our pipeline continue to emerge, I would expect that we'll continue to build out capabilities until we have created a full platform, commercial platform to be able to actively promote our assets within this marketplace. So I think it's a perfect fit from that standpoint. I don't know, Jeff, would you add anything?
+
+--------------------------------------------------------------------------------
+Jeffrey Ryan Stewart,  AbbVie Inc. - Executive VP & Chief Commercial Officer    [43]
+--------------------------------------------------------------------------------
+No, really nothing to add. I mean the build-out for a solid tumor commercial organization, it's not insignificant, but it's also a nice sort of start that we have with the tier -- with this deal, with this issue. So they have about -- in the infield to get at these oncologists, 50 commercial people that are in the market now, and they're driving this excellent performance. 
+There's a medical infield team. They're in the process of building in Europe because Europe is a very good opportunity here. I didn't get a chance to address that before. But with the OS data, the European opportunity is very significant. 
+So it's a great initial wedge in terms of our commercial footprint as then we use the base, Rick, to your point, to build into our solid tumor asset. And we've had the stated strategy. We want a very, very balanced approach over time for our strategy, very strong heme presence and an increasing powerful solid tumor presence. So it fits perfectly with what we're trying to do.
+
+--------------------------------------------------------------------------------
+Richard A. Gonzalez,  AbbVie Inc. - Chairman & CEO    [44]
+--------------------------------------------------------------------------------
+And then to your second question, why didn't we go do something in neuroscience or something in immunology or another area that we have a significant presence in, I can just tell you, we obviously have the financial wherewithal to do that. If we find another asset that looks like this in neuroscience or anywhere else, we would act on it. 
+We've always said we have the ability to be able to go out and do these kinds of transactions, but it has to be the right kind of opportunity, strategically fits for us and has the opportunity to be value enhancing for the company. And this one hit that mark. If we see another one, I can tell you, we will act quickly on that opportunity.
+
+--------------------------------------------------------------------------------
+Elizabeth Shea,  AbbVie Inc. - SVP of IR    [45]
+--------------------------------------------------------------------------------
+Thanks, Evan.
+
+--------------------------------------------------------------------------------
+Operator    [46]
+--------------------------------------------------------------------------------
+Our next question comes from Geoff Meacham with Bank of America.
+
+--------------------------------------------------------------------------------
+Geoffrey Christopher Meacham,  BofA Securities, Research Division - MD    [47]
+--------------------------------------------------------------------------------
+Just looking at the deal value, I mean, clearly, ELAHERE in ovarian is the majority of it, but just -- I wasn't sure how much consideration AbbVie gave for other solid tumors or 151 or 936 or really the ADC platform itself. And then the confidence level that you guys have outside of ovarian, for example, in lung or pancreatic would be helpful. 
+And then the second question is, looking at your guidance at the end of the decade, is there sort of one opportunity that you would say is the most impactful in ovarian? Is it mostly maintenance? Is it longer duration of therapy from that? Or is it penetration into the unmet needs in the first-line market?
+
+--------------------------------------------------------------------------------
+Robert A. Michael,  AbbVie Inc. - President & COO    [48]
+--------------------------------------------------------------------------------
+Jeff, in terms of your first question, I'd say -- and Scott tried to cover this in his remarks. And if you think about the deal value, the majority of the valuation is really on ELAHERE. We've talked about the expansion opportunities being fairly significant. We talked about it being a multibillion-dollar sales opportunity in the next decade. We have also ascribed value to 151 as well as pivek. So those are really the key components of the valuation. But I'd say ELAHERE is the majority of it.
+
+--------------------------------------------------------------------------------
+Jeffrey Ryan Stewart,  AbbVie Inc. - Executive VP & Chief Commercial Officer    [49]
+--------------------------------------------------------------------------------
+And on the other question in terms of the outer years, I would say it's fairly well balanced in terms of how we look at the split. So obviously, we spoke to the core of the resistant segment. But I would say it's well balanced towards the end of the decade between really moving with those big 3 programs and even more in the sensitive population and then the frontline maintenance population. So both of those are equally important to the later value creation.
+
+--------------------------------------------------------------------------------
+Elizabeth Shea,  AbbVie Inc. - SVP of IR    [50]
+--------------------------------------------------------------------------------
+Thanks, Jeff.
+
+--------------------------------------------------------------------------------
+Operator    [51]
+--------------------------------------------------------------------------------
+Next question comes from James Shin with Deutsche Bank.
+
+--------------------------------------------------------------------------------
+James John Shin,  Deutsche Bank AG, Research Division - Research Analyst    [52]
+--------------------------------------------------------------------------------
+For ELAHERE's expansion into platinum-sensitive ovarian cancer, can the AbbVie team lay out expectations for Piccolo's DOR, PFS and OS readout? I ask because late line planum-sensitive patients are progressively becoming less responsive, and these metrics seem to be a moving target according to [guidance]? 
+And secondly, can the deal be accretive in fiscal year '27 solely from ELAHERE's current platinum-resistant population?
+
+--------------------------------------------------------------------------------
+Roopal Thakkar,  AbbVie Inc. - SVP of Development & Regulatory Affairs and Chief Medical Officer    [53]
+--------------------------------------------------------------------------------
+It's Roopal. I'll take the first one. I can say that the data that we've seen is encouraging. It will continue to read out, and we'll get a better idea of where exactly the parameters you asked for will land. 
+But remember, in the platinum sensitive, we also have other options. You mentioned Piccolo in third line, these are high, and it's monotherapy. The other opportunity to potentially extend efficacy and duration is in that combination, where ELAHERE combined with BEV or even as an induction maintenance in sensitive, where you combine it with carbo and then maintain on ELAHERE, and one could compare that against a platinum doublet. So I think consistent with what the data we've seen thus far, we anticipate something along those lines, maybe potentially upside as we look at combinations.
+
+--------------------------------------------------------------------------------
+Richard A. Gonzalez,  AbbVie Inc. - Chairman & CEO    [54]
+--------------------------------------------------------------------------------
+And this is Rick. On your second question, I'd tell you that we're highly confident that the transaction will be accretive in 2027 based on the way we have built out the model. I think one of the ways to think about it, and those of you that are very familiar with solid tumors, I think, probably can relate to what I'm going to describe. 
+As you develop more and more data and demonstrate even prior to label approval that you have strong efficacy in certain populations, the guidelines tend to lead the label itself. So it's a little difficult to answer your question exactly the way you have asked the question because as guidelines continue to develop, as Jeff said, we already see the guidelines ahead of the current label, allowing for physicians to be able to treat in low and medium. 
+And as we generate data in platinum sensitive, I would expect that, that data is strong based on what we've seen. I would expect that data to be strong. I would expect the guidelines to act upon that data because these are cancers that are deadly, and they want the patient to have the best possible opportunity to be able to be treated. So I think that's the best way to think about it.
+
+--------------------------------------------------------------------------------
+Elizabeth Shea,  AbbVie Inc. - SVP of IR    [55]
+--------------------------------------------------------------------------------
+Thanks, James.
+
+--------------------------------------------------------------------------------
+Operator    [56]
+--------------------------------------------------------------------------------
+Next question comes from Harry Gillis with Berenberg.
+
+--------------------------------------------------------------------------------
+Harry MacKinnon Gillis,  Joh. Berenberg, Gossler & Co. KG, Research Division - Analyst    [57]
+--------------------------------------------------------------------------------
+So could you please just discuss how the next-generation 151 asset improves on ELAHERE? I know you touched on that briefly before. 
+And then just for -- I see on your slides, you have lung and triple-negative breast cancer as potential indications. Just wondering what you're looking to see here preclinically before making the decision and when that might be?
+
+--------------------------------------------------------------------------------
+Roopal Thakkar,  AbbVie Inc. - SVP of Development & Regulatory Affairs and Chief Medical Officer    [58]
+--------------------------------------------------------------------------------
+Harry, it's Roopal. Yes, I'll take that. So the differentiation with 151 is, I would say, a next-gen warhead, more potent, potentially more permeable. So you can see more by standard effect and the ability to bind 2 different epitopes. What that would result in being bivalent and different is greater internalization and greater killing and with the more potent warhead that's permeable and more killing next to the area there. That's the so-called by standard effect. 
+The other thing that could differentiate is a more stable linker that could play out a better tolerability potentially. And because of the potency I mentioned, you talked about other tumor types. We've listed those because they have a reasonable high expression of FR alpha. 
+So if we can get more depth of response, then maybe we can go into those places as well where the expression may not be like ovarian, which is 90% or so. These may be lower. And when you have a slightly lower expression, greater potency is going to help you there. 
+And then if I hadn't mentioned yet, potentially a longer half-life that could be a better dosing regimen. So I think those are the key thoughts there. I think -- did you have -- oh, what data I see preclinically. 
+Yes. So the other thing that we would do especially when we look at other tumor types, we have a lot of in-house data in models. And then that allows us to look at different linkers, different targets and different warheads. So with a target like this, we could, as has been mentioned, look at the current payload, but also our topo warhead as well, which may play in a variety of other solid tumor types that have expression of FR alpha.
+
+--------------------------------------------------------------------------------
+Elizabeth Shea,  AbbVie Inc. - SVP of IR    [59]
+--------------------------------------------------------------------------------
+Thanks, Harry.
+
+--------------------------------------------------------------------------------
+Operator    [60]
+--------------------------------------------------------------------------------
+The last question comes from Robyn Karnauskas with Truist Securities.
+
+--------------------------------------------------------------------------------
+Robyn Kay Shelton Karnauskas,  Truist Securities, Inc., Research Division - Research Analyst    [61]
+--------------------------------------------------------------------------------
+So I just wanted to drill down more specifically in the Daiichi and Merck partnership and RDXD that had some good data at ESMO. So you mentioned you did some competitive analysis, but could you help us understand, I think they may go into Phase III. Can you speed up the timelines, what are the timelines for GLORIOSA?
+And second, what is the overlapping expression of FR alpha with CDH6? Do you think these 2 drugs would be used in sequence? Or would they -- are they really competitors?
+
+--------------------------------------------------------------------------------
+Roopal Thakkar,  AbbVie Inc. - SVP of Development & Regulatory Affairs and Chief Medical Officer    [62]
+--------------------------------------------------------------------------------
+It's Roopal. I can take that. I don't have an answer for the overlap. That's something that we would have to look at and the opportunity potentially in all comers. That's difficult to know because it may be due to expression, and that was clearly learned here with ELAHERE, where the higher expression you have, the better the efficacy. So it's important around patient segmentation. But going forward, we are several years ahead. And as I expressed previously, we already have survival data, very strong tolerability data and multiple studies that will be going forward. 
+Now with respect to GLORIOSA, that has already initiated. That would be a second-line maintenance study in sensitive, in high, over 400 patients or so. The treatment arm would be ELAHERE plus BEV versus BEV. 
+And like I said, it's an ongoing study. We would do our best with our resources to continue to accelerate that. As the data become more familiar to folks, that will certainly help enrollment. But I think we've laid this out in the slides, some of these readouts are about 3, 4 years down the road, '27-ish is what I would say right now, probably end of '27 and looking to expand some of these indications at '28 and beyond.
+
+--------------------------------------------------------------------------------
+Elizabeth Shea,  AbbVie Inc. - SVP of IR    [63]
+--------------------------------------------------------------------------------
+Thank you, Robyn. And that concludes today's conference call. If you would like to listen to a replay of the call, please visit our website at investors.abbvie.com. Thanks again for joining us.
+
+--------------------------------------------------------------------------------
+Operator    [64]
+--------------------------------------------------------------------------------
+Thank you, and that concludes today's conference. You may all disconnect at this time.
+
+
+
+
+
+
+
+--------------------------------------------------------------------------------
+Definitions
+--------------------------------------------------------------------------------
+PRELIMINARY TRANSCRIPT: "Preliminary Transcript" indicates that the 
+Transcript has been published in near real-time by an experienced 
+professional transcriber.  While the Preliminary Transcript is highly 
+accurate, it has not been edited to ensure the entire transcription 
+represents a verbatim report of the call.
+
+EDITED TRANSCRIPT: "Edited Transcript" indicates that a team of professional 
+editors have listened to the event a second time to confirm that the 
+content of the call has been transcribed accurately and in full.
+
+--------------------------------------------------------------------------------
+Disclaimer
+--------------------------------------------------------------------------------
+Refinitiv reserves the right to make changes to documents, content, or other 
+information on this web site without obligation to notify any person of 
+such changes.
+
+In the conference calls upon which Event Transcripts are based, companies 
+may make projections or other forward-looking statements regarding a variety 
+of items. Such forward-looking statements are based upon current 
+expectations and involve risks and uncertainties. Actual results may differ 
+materially from those stated in any forward-looking statement based on a 
+number of important factors and risks, which are more specifically 
+identified in the companies' most recent SEC filings. Although the companies 
+may indicate and believe that the assumptions underlying the forward-looking 
+statements are reasonable, any of the assumptions could prove inaccurate or 
+incorrect and, therefore, there can be no assurance that the results 
+contemplated in the forward-looking statements will be realized.
+
+THE INFORMATION CONTAINED IN EVENT TRANSCRIPTS IS A TEXTUAL REPRESENTATION
+OF THE APPLICABLE COMPANY'S CONFERENCE CALL AND WHILE EFFORTS ARE MADE TO
+PROVIDE AN ACCURATE TRANSCRIPTION, THERE MAY BE MATERIAL ERRORS, OMISSIONS,
+OR INACCURACIES IN THE REPORTING OF THE SUBSTANCE OF THE CONFERENCE CALLS.
+IN NO WAY DOES REFINITIV OR THE APPLICABLE COMPANY ASSUME ANY RESPONSIBILITY FOR ANY INVESTMENT OR OTHER
+DECISIONS MADE BASED UPON THE INFORMATION PROVIDED ON THIS WEB SITE OR IN
+ANY EVENT TRANSCRIPT. USERS ARE ADVISED TO REVIEW THE APPLICABLE COMPANY'S
+CONFERENCE CALL ITSELF AND THE APPLICABLE COMPANY'S SEC FILINGS BEFORE
+MAKING ANY INVESTMENT OR OTHER DECISIONS.
+--------------------------------------------------------------------------------
+Copyright 2023 Refinitiv. All Rights Reserved.
+--------------------------------------------------------------------------------

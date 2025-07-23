@@ -1,0 +1,292 @@
+
+
+Refinitiv StreetEvents Event Transcript
+E D I T E D   V E R S I O N
+
+Brooks Automation Inc Sale of Semiconductor Automation Business to Thomas H Lee Partners LP - M&amp;A Call
+SEPTEMBER 20, 2021 / 12:30PM GMT
+
+================================================================================
+Corporate Participants
+================================================================================
+
+ * Sara Silverman
+   Brooks Automation, Inc. - Director of IR
+ * Lindon G. Robertson
+   Brooks Automation, Inc. - Executive VP & CFO
+ * Stephen S. Schwartz
+   Brooks Automation, Inc. - CEO, President & Director
+
+================================================================================
+Conference Call Participiants
+================================================================================
+
+ * David Joshua Saxon
+   Needham & Company, LLC, Research Division - Analyst
+ * Amanda Marie Scarnati
+   Citigroup Inc., Research Division - VP & Semiconductor Consumable Analyst
+ * Paul Richard Knight
+   KeyBanc Capital Markets Inc., Research Division - MD & Senior Analyst
+ * Craig Andrew Ellis
+    B. Riley Securities, Inc., Research Division - Senior MD & Director of Research
+
+================================================================================
+Presentation
+--------------------------------------------------------------------------------
+Operator    [1]
+--------------------------------------------------------------------------------
+Good day, and welcome to the Brooks business update to discuss the sale of the Semiconductor Automation business. (Operator Instructions)
+As a reminder, this conference is being recorded on Monday, September 20, 2021. I would now like to turn the conference over to Sara Silverman, Director of Investor Relations. Please go ahead.
+
+--------------------------------------------------------------------------------
+Sara Silverman,  Brooks Automation, Inc. - Director of IR    [2]
+--------------------------------------------------------------------------------
+Thank you, operator, and good morning to everyone on the line today. Welcome to the Brooks Automation conference call to update you on the sale of the Semiconductor Automation business, which we announced this morning. The press release announcing a transaction was issued earlier today and is available on our Investor Relations website located at brooks.investor.com in addition to the supplementary PowerPoint slides that will be used during the prepared remarks today. 
+I would like to remind everyone that during the course of the call, we will be making a number of forward-looking statements within the meaning of the Private Litigation Securities Act of 1995. There are many factors that may cause actual financial results or other events to differ from those identified in such forward-looking statements. I would refer you to the section of our press release titled Safe Harbor Statement, the safe harbor slide on the aforementioned PowerPoint presentation on our website and our various filings with the SEC, including our annual reports on Form 10-K and our quarterly reports on Form 10-Q. 
+We make no obligation to update these statements should future financial data or events occur that differ from the forward-looking statements presented today. We may refer to a number of non-GAAP financial measures which are used in addition to and in conjunction with results presented in accordance with GAAP. We believe the non-GAAP measures provide an additional way of viewing aspects of our operations and performance, for what we consider with GAAP financial results and a reconciliation of GAAP measures, by providing even more complete understanding of the Brooks business. Non-GAAP measures should not be relied upon to the exclusion of the GAAP measures themselves. 
+On the call with me today is our President and Chief Executive Officer, Steve Schwartz; and our Executive Vice President and Chief Financial Officer, Lindon Robertson. We will open the call with remarks from Steve on the signed agreement and the transaction. Then Lindon will provide additional color on the agreement and what to expect in the months ahead. We will then take your questions at the end of the prepared remarks. 
+With that, I would like to turn the call over to our CEO, Steve Schwartz.
+
+--------------------------------------------------------------------------------
+Stephen S. Schwartz,  Brooks Automation, Inc. - CEO, President & Director    [3]
+--------------------------------------------------------------------------------
+Thank you, Sara, and good morning, everyone. Thank you for joining us on short notice for an update on an important development at Brooks. On this call, Lindon and I will refer to the slides that accompany our remarks, beginning on Slide 3 in the deck. It was only 4 months ago when we were with you to announce our strategic decision to separate Brooks into 2 independent publicly traded companies, a move that we believe would provide increased value to shareholders by allowing our Semiconductor Automation business and the Life Sciences business to pursue their own strategic investments and growth plans. 
+With their own operating structures and without having to compete for resources, both businesses are of scale and size, have experienced management teams and their own roadmaps for more growth and profitability. The decision to separate the company is still the right decision, but with today's announcement to sell the Semiconductor Automation business unit rather than launching it as a public company, we believe we will deliver even more value to shareholders. 
+Before we describe the transaction and the implications of the sale, let me first discuss how we got here. About a year ago, we initiated a process to examine the best way to recognize value for our business, and though I will not go into any details about the process, it was thorough and exhaustive. And by May, it was clear that the best alternative for the company was to separate the businesses by standing up 2 public companies. 
+Since that announcement, we've been focused on the actions that are necessary to stand up both companies, but as a result of the same process, we were engaged by THL in discussions that ultimately led to the decision we're announcing today: to continue to separate the 2 businesses, but to stand up Life Sciences as a publicly traded company and to sell the Semiconductor Automation business to THL rather than taking it public. 
+Again, we will not disclose any information about the process as it's confidential, but I can say that the final price for the business is the highest offer that we received at any step of the process. Furthermore, this sale will provide significant amount of cash to the Life Sciences business for even more aggressive investment in the near future. 
+I will ask you to please turn to Slide 4 of our presentation deck for a look at some of the specifics about the transaction. As we put out in the press release earlier this morning, the sale price is $3 billion, which represents a trading multiple of 19x trailing 12-month EBITDA and a 5x revenue multiple over the same period. Because of this commitment, we will be reporting the Semiconductor Automation operating results as discontinued operations beginning with this quarter or Q4. And as the transaction is subject to regulatory approvals and customary closing conditions, we anticipate that it should close in the first half of calendar 2022. Finally, it's obvious but very important, the cash proceeds put us in a very unique position as we prepare to launch a pure play life sciences company. 
+I now call your attention to Slide 5, which is an illustration of the last decade of our history, which has consisted of a number of value-creating portfolio adjustments in both the Semiconductor Automation and Life Sciences businesses. While we've been acquisitive, just as importantly, we have a history of divestitures of noncore or low-growth businesses. And the prudent use of those proceeds to acquire new, high-value, high-growth capabilities, thereby delivering tremendous customer and shareholder value. Our acquisition capability has been a key to delivering value over the past decade. 
+To put perspective to this activity, at the left side of this time scale, that is in 2011, at the time we embarked on the path and entered the life sciences market, we had a total company enterprise value of less than $400 million. Today, we have an enterprise value of almost $7 billion. And with the compelling offer brought by THL for our Semiconductor Automation business, we're on the verge of launching a high-growth life sciences company with a balance sheet that will contain more than $2.5 billion in net cash and a rich pipeline of targets that will enable us to continue our growth and value creation momentum. 
+On Slide 6, we show the revenue history of the Life Sciences business. We're already at an annual revenue run rate of more than $500 million. We've been growing organically at 21% per annum. And our current portfolio supports continued high organic growth as our market opportunity expands and as we capture more market share. Additionally, we have a platform of sufficient size, scale, global reach and capability that we're able to target new capabilities, new scientific service offerings and new value-adding sample management products and services that expand our target acquisition universe beyond what we were able to consider even a few years ago. 
+As we move forward, we intend to continue to perform tuck-in acquisitions and acquisitions of strategic capabilities that enhance our current portfolio of offerings. And the explosive growth in the life sciences market has dramatically increased the amount of investment that's going into the life sciences space. Thereby, expanding the number of opportunities, and simultaneously, driven the price of assets up considerably. The significant capital afforded us by this transaction puts us squarely in the game and also brings more transformative opportunities within reach. 
+On Slide 7, we present a simple summary of why we're so enthusiastic about this transaction and the upcoming launch of what we believe is a truly one-of-a-kind standalone life sciences company. We have a unique portfolio of products and services that addresses high-growth areas of life sciences, including cell and gene therapies, mRNA vaccine discovery, repository services for biological samples and finished therapeutic manufactured products. As well as the automation systems that currently protect and manage hundreds of millions of cold samples around the world. We launched a $500 million revenue company with an enviable organic growth rate above 20% per year. 
+We are solidly profitable with improving margins and healthy positive cash generation. And now because of this transaction, we can also add to this list of unique characteristics an enviable position to be able to deploy significant capital to continue our outsized growth and continue to pursue targets that will enhance our high-value portfolio of offerings. And yet with all of these attributes, what we're most proud of is our team. A team of smart, dedicated, curious, innovative professionals who are keen to learn and grow and serve our customers with maniacal focus. We're eager to reintroduce ourselves to you in more detail at our Investor Day in November. 
+I'll now turn the call over to Lindon so he can give you his perspective on the implications of today's announcement.
+
+--------------------------------------------------------------------------------
+Lindon G. Robertson,  Brooks Automation, Inc. - Executive VP & CFO    [4]
+--------------------------------------------------------------------------------
+Thank you, Steve. Continuing over to Slide 8, let's discuss our profile and next steps as we move into the future. I will reiterate that the portion of the business being sold is accounted for inside the Semiconductor Solutions business segment, including all of the semiconductor automation and the recently acquired Collaborative Automation business. This will leave all of the elements of the Life Science products and services segments to establish the remaining standalone Life Science business. We have our full line of automated ultracold store systems, a rich profile of consumables and instruments, the vast storage repository solution services and a high-growth genomics business. 
+We have strong capabilities in sample procurement services and of course, the informatics that we've added to the business. Altogether, we have a business that grew 30% in the last 12 months as reported for June 30 compared to one year earlier. 
+And as Steve has highlighted, the business has provided an average of 21% organic growth over the recent 2-year period from 2019 to our expected Life Science revenue for this fiscal year of 2021. I believe the last 12-month segment results, which we provided at our prior earnings call, provides you the best indication of the EBITDA profile of the business will carry into the future. The adjustment of the unallocated overhead of roughly $25 million comprehends the total of incremental costs we will deal with, which includes the additional structure we needed to separate and stand up the business independently and also the undoing of the corporate G&A allocations that were previously applied to the Semiconductor business. You may and likely recall, this is the same $25 million I referenced on our May 10 call in describing the standalone life science structure. We believe this is the best baseline now with this P&L structure for setting expectations going forward. 
+In terms of events to look forward to, our best estimate of timing for the transaction to close is in the early months of calendar 2022, primarily depending on foreign approvals, and these are primarily related to the approval for the transfer of foreign investments. Due to the long legacy and quality reputation of Brooks Automation, we have agreed to transfer the name of branding rights with the sale. Soon, you will see the rebranding work, which our Life Science business has been preparing. By the time we separate, the company will be renamed under this new to-be-announced name and our ticker symbol will also be changed. There is no change at this time. 
+We have looked forward to the separation for much of this year and have been preparing the Investor Day for the Life Science business and happy to announce that it will occur on November 16. This will follow our year-end results, which will set the stage for us to provide a clear view of the standalone business results as well as the long-term business model. 
+So in summary, referring to Page 9, it is really with great excitement that we have come to you today to bring our separation to this stage, a slightly different path than we previously described. The sale for $3 billion represents a 19x adjusted EBITDA multiple and 5x multiple on revenue. We believe this has secured a very fair value for the automation company and its potential as well as established a strong benefit to propel a standalone life science company forward with significant capital capacity. 
+If you reflect on the profile of the value proposition of our Life Sciences portfolio, the size of the business, the growth, the profitability and the strength of this balance sheet, we believe we've established a truly uniquely positioned Life Science business. 
+So with this, I'm going to turn it back over to the operator for some questions, and we thank you for your attention this morning.
+
+
+================================================================================
+Questions and Answers
+--------------------------------------------------------------------------------
+Operator    [1]
+--------------------------------------------------------------------------------
+(Operator Instructions) Our first question is from the line of David Saxon from Needham & Company.
+
+--------------------------------------------------------------------------------
+David Joshua Saxon,  Needham & Company, LLC, Research Division - Analyst    [2]
+--------------------------------------------------------------------------------
+Congrats on the news. First question for me and apologies if I missed it in the prepared remarks, but can you talk about how much debt the Life Sciences business will assume? And then with the proceeds from the sale, just how you're thinking about capital allocation priorities?
+
+--------------------------------------------------------------------------------
+Lindon G. Robertson,  Brooks Automation, Inc. - Executive VP & CFO    [3]
+--------------------------------------------------------------------------------
+David, I believe your first question was about debt on Life Sciences. The company currently carries about $50 million of debt. And a net cash position at the end of the June 30 quarter was reported as $236 million. So that was $286 million of cash, $50 million of debt. And so at this point, clearly, the net cash position is healthy even before the transaction and the expected proceeds of $2.4 billion accumulated with net cash of $236 million is why I highlighted $2.6 billion on my chart as approximate number. Clearly, we expect to generate additional cash by the time we close the transaction as well. So we think it continues to move up. 
+I'll let Steve make some comments on the potential for the use of the capital.
+
+--------------------------------------------------------------------------------
+Stephen S. Schwartz,  Brooks Automation, Inc. - CEO, President & Director    [4]
+--------------------------------------------------------------------------------
+Yes. So we have a pretty strong pipeline of opportunities. We've got the genomics business, which is a tremendous platform for us to continue to add scientific capability and a team that knows how to absorb and adapt to that on the biorepository side. There are numerous opportunities, and the potential for this kind of capital gives us also some additional transformative capabilities that were contemplated in our roadmap, but now become a little bit more real. And we'll articulate more of that when we have the Analyst Day in November.
+
+--------------------------------------------------------------------------------
+David Joshua Saxon,  Needham & Company, LLC, Research Division - Analyst    [5]
+--------------------------------------------------------------------------------
+Okay. That's helpful. And then my second question is, in the script, you mentioned 20% organic growth a few times. And I think consensus for the Life Sciences business is kind of in the low teens area for fiscal '22. So just wondering how you're thinking about that 20% organic growth profile? How durable it is? And with the opportunities you see over the next couple of years, I guess how do you think it can augment that growth profile?
+
+--------------------------------------------------------------------------------
+Lindon G. Robertson,  Brooks Automation, Inc. - Executive VP & CFO    [6]
+--------------------------------------------------------------------------------
+Let me comment first on some of the data points we reflected on the -- really the reason I brought out the average of the 21% organic growth over the recent 2 years is because the 2019 time period predates the COVID environment. And I think substantively, the 2021 time period is seeing -- has gone through that dip in 2020 and some rebound in '21. So I think the 2 years is a good indication. If I took you back to 2019 Investor Day, we had projected a 16%, 18% range around that growth rate for the business on the Life Sciences side. And I think you're going to continue to see capabilities at that level and above, and as demonstrated this year, well above, we've been up in the 30% plus range. 
+So it's difficult for us to comment at this moment on a '22 and a long-term model, we're going to give that full color at our Investor Day. But I think you referenced that 20% is a very reasonable capability and expectation, I'd keep it in the context of our long-term model in the past as pointed towards 16%.
+
+--------------------------------------------------------------------------------
+David Joshua Saxon,  Needham & Company, LLC, Research Division - Analyst    [7]
+--------------------------------------------------------------------------------
+Congrats on the news.
+
+--------------------------------------------------------------------------------
+Operator    [8]
+--------------------------------------------------------------------------------
+Our next question is from the line of Craig Ellis from B. Riley.
+
+--------------------------------------------------------------------------------
+Craig Andrew Ellis,   B. Riley Securities, Inc., Research Division - Senior MD & Director of Research    [9]
+--------------------------------------------------------------------------------
+Steve and Lindon, congratulations on the transaction. I wanted to start just by seeing if I could understand a little bit more about the process. Can you identify if there were any other either equipment companies or private equity entities that were engaged in a potential transaction? And are there any contingencies or termination fees associated with [the deal]?
+
+--------------------------------------------------------------------------------
+Lindon G. Robertson,  Brooks Automation, Inc. - Executive VP & CFO    [10]
+--------------------------------------------------------------------------------
+Craig, we won't make any comments on the process, and we know there'd be a lot of curiosity about that, but it's just not appropriate for us to comment on the process. We're very confident that we yielded the best outcome after exercising multiple pods here. Regarding the contingencies, as highlighted, we need to clear some hurdles with foreign approvals. We do not see this as a significant risk, but obviously, I can't remove that contingency for those approvals. I think it's good for investors to understand, this is a company that is currently owned by a U.S.-based company, transferring into the hands of a very responsible U.S.-based private equity firm, and they have a strong track record. And so we don't foresee significant items to clear there. And -- but those are the approvals that we need before we could close the transaction.
+
+--------------------------------------------------------------------------------
+Craig Andrew Ellis,   B. Riley Securities, Inc., Research Division - Senior MD & Director of Research    [11]
+--------------------------------------------------------------------------------
+And which country approvals are needed, Lindon?
+
+--------------------------------------------------------------------------------
+Lindon G. Robertson,  Brooks Automation, Inc. - Executive VP & CFO    [12]
+--------------------------------------------------------------------------------
+Yes. I won't elaborate because I think the legal team will evaluate -- our process will evaluate those that are explicitly known and then there's potential that other countries may request. But -- so we won't elaborate on those countries at this point.
+
+--------------------------------------------------------------------------------
+Craig Andrew Ellis,   B. Riley Securities, Inc., Research Division - Senior MD & Director of Research    [13]
+--------------------------------------------------------------------------------
+Okay. And then just a question on the after-tax proceeds. So nice realization at $2.4 billion, which is 80% of gross. If I look back, the cryo carve-out, I think, came in with after-tax proceeds at around 83% -- 80% to 83%. What's the reason for the 200 to 300 basis point difference between cryo and semi?
+
+--------------------------------------------------------------------------------
+Stephen S. Schwartz,  Brooks Automation, Inc. - CEO, President & Director    [14]
+--------------------------------------------------------------------------------
+It reflects the structure of where the business value is on a jurisdictional value, and there will be -- it's a mix of gains by regions. And we also did have some NOLs in the past that we were able to offset some on the cryo business. So it's trade arithmetic for us on our expected yield.
+
+--------------------------------------------------------------------------------
+Craig Andrew Ellis,   B. Riley Securities, Inc., Research Division - Senior MD & Director of Research    [15]
+--------------------------------------------------------------------------------
+Got it. And then lastly, before I jump back in the queue. Steve, you touched on the issue of what the deal does for your inorganic growth flexibility with the Life Sciences business. But since you have an active and it may be premature to call it full because obviously with this realization, there are more things that come into the universe. But the question is, how do you feel about the gross margin structure of things that are in the pipeline? And the organic growth rates of the things that you're evaluating, especially things that might be bigger deals given your newfound flexibility
+
+--------------------------------------------------------------------------------
+Stephen S. Schwartz,  Brooks Automation, Inc. - CEO, President & Director    [16]
+--------------------------------------------------------------------------------
+Yes. Craig, so those are always factors that weigh, and we evaluate them really closely. Lindon and I will continue to use ROIC as the guide here. But there are a lot of very interesting opportunities out there, and we think if our history is a guide and we really believe it is, we'll make good on the transactions that we execute here, and we're really bullish about the pipeline. But as you said, we feel most confident that we're able to contemplate some larger deals that might be more transformative here in the near term. And with this kind of capital available to us, we can look at a roadmap that's out beyond even a single year now to contemplate maybe a series of some acquisitions to continue to build value here.
+
+--------------------------------------------------------------------------------
+Operator    [17]
+--------------------------------------------------------------------------------
+Our next question is from the line of Paul Knight from KeyBanc Capital Markets.
+
+--------------------------------------------------------------------------------
+Paul Richard Knight,  KeyBanc Capital Markets Inc., Research Division - MD & Senior Analyst    [18]
+--------------------------------------------------------------------------------
+Congratulations. Lindon, you talked to the 19% adjusted EBITDA margin now. Are some of these costs going to be one year? So what should we think about EBITDA margin in outer years, whether it's a long-term goal, whether it's you get past year one, how should we think about that margin?
+
+--------------------------------------------------------------------------------
+Lindon G. Robertson,  Brooks Automation, Inc. - Executive VP & CFO    [19]
+--------------------------------------------------------------------------------
+Yes. Paul, thanks for asking this question, and I'll reflect. We currently have the same view that we shared on the May 10 announcement that, that while we took on this extra cost that took us out of the 20s down into the teens, we'll be back -- we have some confidence we'll be executing back at 22% as we exit the 2022 year. And we think there's continued leverage against that upward. And I think you all have seen, this last 12-month period, we showed 10 points of EBITDA margin enhancement from the previous 12-month period. 
+So we continue to see that increase with the growth and the structure we put in place on Life Sciences. So thank you. I'll reiterate one more time. When we reported our last 12-month results on a segment basis, we were seeing that 22% level as of the March 31, and then moved up to 24% by the time we got to June 30. This puts about 5 points of pressure, the unallocated G&A and the extra cost takes us down to 19%. We'll continue to leverage upward with growth. We expect we'll be executing at 22% by the time we exit 2022 fiscal year, and we'll continue a growth path beyond that with leverage.
+
+--------------------------------------------------------------------------------
+Paul Richard Knight,  KeyBanc Capital Markets Inc., Research Division - MD & Senior Analyst    [20]
+--------------------------------------------------------------------------------
+And Steve, it seems like BioStorage probably has more capital expenditure, organic build opportunity than maybe you've done in the past. Would you concur with that view?
+
+--------------------------------------------------------------------------------
+Stephen S. Schwartz,  Brooks Automation, Inc. - CEO, President & Director    [21]
+--------------------------------------------------------------------------------
+Yes. Paul, without question, there are opportunities there. What we -- where we stop short sometimes are businesses that are biorepository focused, but don't have the same methods and capabilities that we have. So it's really important that we always have the same level of quality and that we can provide a service level to customers and that's where the evaluation is. But there are a number of opportunities, and we'll continue to pursue them, for sure.
+
+--------------------------------------------------------------------------------
+Paul Richard Knight,  KeyBanc Capital Markets Inc., Research Division - MD & Senior Analyst    [22]
+--------------------------------------------------------------------------------
+Okay. And then lastly, as you look at the strategic options on the GENEWIZ side, do you envision more exposure on services in the years ahead?
+
+--------------------------------------------------------------------------------
+Stephen S. Schwartz,  Brooks Automation, Inc. - CEO, President & Director    [23]
+--------------------------------------------------------------------------------
+We do, Paul. We think there are a number of tremendous opportunities there. And with the scientific talent that we have in the GENEWIZ organization, we think we'd be really exceptional owners for a lot of capabilities that we can bring in.
+
+--------------------------------------------------------------------------------
+Operator    [24]
+--------------------------------------------------------------------------------
+(Operator Instructions) Our next question is from the line of Amanda Scarnati with Citi.
+
+--------------------------------------------------------------------------------
+Amanda Marie Scarnati,  Citigroup Inc., Research Division - VP & Semiconductor Consumable Analyst    [25]
+--------------------------------------------------------------------------------
+The first question I have is on any antitrust risk you're seeing with the THL fund. Is there any overlapping products within their automation fund that could potentially be of a concern?
+
+--------------------------------------------------------------------------------
+Lindon G. Robertson,  Brooks Automation, Inc. - Executive VP & CFO    [26]
+--------------------------------------------------------------------------------
+Amanda, of course, we evaluate these things when we enter something like this, and we don't see this as being a risk. I can't take it completely off the table because it is included in some of the government reviews and approvals that we'll have around the world, but we don't foresee this as being a risk for this business.
+
+--------------------------------------------------------------------------------
+Amanda Marie Scarnati,  Citigroup Inc., Research Division - VP & Semiconductor Consumable Analyst    [27]
+--------------------------------------------------------------------------------
+And the other question I have is on the Life Science side of the business. When you were pursuing the strategic decisions, were there any talks on selling the Life Sciences business? I know THL has a fund that's also invested in health care. Were there others that potentially might have been interested in Life Sciences as well? Or was it solely just on the Semiconductor side?
+
+--------------------------------------------------------------------------------
+Lindon G. Robertson,  Brooks Automation, Inc. - Executive VP & CFO    [28]
+--------------------------------------------------------------------------------
+Well, I'll just remind you because it's an interesting context to the question. Our path that we set out was the yield value for the shareholder that holds both businesses today as a consolidated company. This is a separation path. And so as we set out to separate, this was the yield, the most favorable outcome. At the end, when this converted to a sale, we got -- we believe, really underscores 2 compelling and fast propelling dynamics. One, it captured a very fair and we think attractive value for our shareholders on 5x revenue, 19x EBITDA for the sale, which I think is fair value for the current business and the potential of the business. And secondly, it puts the proceeds in the hands of Life Sciences, much more capital to inject into the business. 
+And so there was zero consideration of letting go of the Life Science business. This just factored in the ability to take that capital, reapply it into the Life Science business and to compel that even faster than what the public separation would have done. So this is really what's weighed. Is the valuation on the Semi business and combined with the ability to put this kind of capital behind the Life Sciences. And the opportunity, the landscape in life sciences is really broad and deep here. And as Steve described, it's explosive growth. There's just no other way to describe it, and we're very excited what we can do with that balance sheet.
+
+--------------------------------------------------------------------------------
+Operator    [29]
+--------------------------------------------------------------------------------
+I'd now like to turn the call back to Mr. Robertson for closing remarks.
+
+--------------------------------------------------------------------------------
+Lindon G. Robertson,  Brooks Automation, Inc. - Executive VP & CFO    [30]
+--------------------------------------------------------------------------------
+This is such a milestone day for us, one in -- that takes a legacy company with the reputation Brooks Automation and the precision, the reliability, the reputation of many of our team leaders and our teams' employees around the world and brings it to a point -- at this juncture, this sets up the ability to stand up 2 strong companies. We couldn't be more proud of our teammates for enabling this and more proud of the -- couldn't be more proud of the results we produced to date. We all recognize we still have both businesses. We're going to continue to execute for the coming months, turn over a really strong business to THL. 
+We'll continue to apply all the rigor and disciplines to make the right investments in the Life Science business, and we're excited what those opportunities are. We appreciate everybody's attention to us, and we are just really pleased with the outcome that we've had here in this particular transaction. And we know that the stage in front of us has just gotten bigger, broader and there's bigger things to come. So we look forward to talking to you the next time at our earnings call and then soon after our Investor Day on November 16. 
+So thank you very much for all of your time and attention this morning.
+
+--------------------------------------------------------------------------------
+Operator    [31]
+--------------------------------------------------------------------------------
+Thank you. That does conclude the conference call for today. We thank you all for your participation, and we ask that you please disconnect your lines. Thank you, everyone, and have a good day.
+
+
+
+
+
+
+
+--------------------------------------------------------------------------------
+Definitions
+--------------------------------------------------------------------------------
+PRELIMINARY TRANSCRIPT: "Preliminary Transcript" indicates that the 
+Transcript has been published in near real-time by an experienced 
+professional transcriber.  While the Preliminary Transcript is highly 
+accurate, it has not been edited to ensure the entire transcription 
+represents a verbatim report of the call.
+
+EDITED TRANSCRIPT: "Edited Transcript" indicates that a team of professional 
+editors have listened to the event a second time to confirm that the 
+content of the call has been transcribed accurately and in full.
+
+--------------------------------------------------------------------------------
+Disclaimer
+--------------------------------------------------------------------------------
+Refinitiv reserves the right to make changes to documents, content, or other 
+information on this web site without obligation to notify any person of 
+such changes.
+
+In the conference calls upon which Event Transcripts are based, companies 
+may make projections or other forward-looking statements regarding a variety 
+of items. Such forward-looking statements are based upon current 
+expectations and involve risks and uncertainties. Actual results may differ 
+materially from those stated in any forward-looking statement based on a 
+number of important factors and risks, which are more specifically 
+identified in the companies' most recent SEC filings. Although the companies 
+may indicate and believe that the assumptions underlying the forward-looking 
+statements are reasonable, any of the assumptions could prove inaccurate or 
+incorrect and, therefore, there can be no assurance that the results 
+contemplated in the forward-looking statements will be realized.
+
+THE INFORMATION CONTAINED IN EVENT TRANSCRIPTS IS A TEXTUAL REPRESENTATION
+OF THE APPLICABLE COMPANY'S CONFERENCE CALL AND WHILE EFFORTS ARE MADE TO
+PROVIDE AN ACCURATE TRANSCRIPTION, THERE MAY BE MATERIAL ERRORS, OMISSIONS,
+OR INACCURACIES IN THE REPORTING OF THE SUBSTANCE OF THE CONFERENCE CALLS.
+IN NO WAY DOES REFINITIV OR THE APPLICABLE COMPANY ASSUME ANY RESPONSIBILITY FOR ANY INVESTMENT OR OTHER
+DECISIONS MADE BASED UPON THE INFORMATION PROVIDED ON THIS WEB SITE OR IN
+ANY EVENT TRANSCRIPT. USERS ARE ADVISED TO REVIEW THE APPLICABLE COMPANY'S
+CONFERENCE CALL ITSELF AND THE APPLICABLE COMPANY'S SEC FILINGS BEFORE
+MAKING ANY INVESTMENT OR OTHER DECISIONS.
+--------------------------------------------------------------------------------
+Copyright 2021 Refinitiv. All Rights Reserved.
+--------------------------------------------------------------------------------
